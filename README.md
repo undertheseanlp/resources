@@ -13,6 +13,20 @@ Dự án xây dựng tài nguyên cho các bài toán NLP tiếng Việt 🇻�
 * Chương trình hoàn toàn tự động thông qua các bot 
 * Cập nhật dữ liệu HÀNG TUẦN
 
+Mô hình cải tiến
+
+```
++----------------+    +----------------+     +----------------+
+|                |    |                |     |                |
+|    Đề Xuất     + -> |    Xem Xét     +  -> |   Cập Nhật     +
+|                |    |                |     |                |
++-------+--------+    +-------+--------+     +-------+--------+
+```
+
+* Bước 1: Đưa các các đề xuất
+* Bước 2: Các đề xuất được xem xét 
+* Bước 3: Các đề xuất đúng sau khi được xem xét sẽ được cập nhật vào dữ liệu
+
 **Câu hỏi 1**: Làm sao các mô hình luôn cải tiến chất lượng
 
 - Cần chạy mô hình liên tục
