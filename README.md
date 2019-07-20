@@ -11,6 +11,7 @@ Dự án xây dựng tài nguyên cho các bài toán NLP tiếng Việt 🇻�
 * Luồng phát triển qua git
 * Cập nhật dữ liệu từ wikipedia, baomoi
 * Chương trình hoàn toàn tự động thông qua các bot 
+* Cập nhật dữ liệu HÀNG TUẦN
 
 **Câu hỏi 1**: Làm sao các mô hình luôn cải tiến chất lượng
 
