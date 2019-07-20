@@ -14,8 +14,9 @@ Dự án xây dựng tài nguyên cho các bài toán NLP tiếng Việt 🇻�
 
 **Câu hỏi 1**: Làm sao các mô hình luôn cải tiến chất lượng
 
-- Có lẽ là do quá trình cập nhật dữ liệu liên tục
-- Cần biết mô hình sai ở đâu để sửa lỗi
+- Cần chạy mô hình liên tục
+- Cần có người để sửa sai cho mô hình
+- Sau đó cập nhật lại mô hình với dữ liệu đã sửa sai 
 
 
 
