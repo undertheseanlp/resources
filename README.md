@@ -9,5 +9,7 @@ Dự án xây dựng tài nguyên cho các bài toán NLP tiếng Việt 🇻�
 * Ít nhất 3 người reviews 
 * Tất cả qua giao diện text 
 * Luồng phát triển qua git
+* Cập nhật dữ liệu từ wikipedia, baomoi
+* Chương trình hoàn toàn tự động thông qua các bot 
 
 
