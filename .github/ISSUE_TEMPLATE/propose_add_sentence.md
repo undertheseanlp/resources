@@ -1,7 +1,7 @@
 ---
 name: PROPOSE_ADD_SENTENCE
 about: Thêm một câu vào corpus
-title: ''
+title: Thêm một câu vào corpus
 labels: data
 assignees: rain1024
 
