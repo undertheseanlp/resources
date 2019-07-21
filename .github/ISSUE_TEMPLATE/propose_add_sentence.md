@@ -1,10 +1,14 @@
 ---
 name: PROPOSE_ADD_SENTENCE
-about: Describe this issue template's purpose here.
+about: Thêm một câu vào corpus
 title: ''
-labels: ''
+labels: data
 assignees: rain1024
 
 ---
 
-abc
+Thêm câu của bạn vào trong khung sau 
+
+```
+ 
+```
