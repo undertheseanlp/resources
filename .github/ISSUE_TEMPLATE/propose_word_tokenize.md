@@ -1,7 +1,7 @@
 ---
 name: PROPOSE_WORD_TOKENIZE
 about: Thêm một câu đã tách từ
-title: ''
+title: Thêm một câu đã tách từ
 labels: data, data-word-tokenize
 assignees: rain1024
 
