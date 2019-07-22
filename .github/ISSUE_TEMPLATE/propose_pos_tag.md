@@ -12,3 +12,10 @@ assignees: ''
 ```
 
 ```
+
+**Metadata**
+
+```
+version: 1
+task: pos_tag
+```
