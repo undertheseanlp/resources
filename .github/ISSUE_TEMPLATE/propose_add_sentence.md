@@ -12,3 +12,8 @@ Thêm câu của bạn vào trong khung sau
 ```
  
 ```
+
+```
+version: 1
+task: add_sentence
+```

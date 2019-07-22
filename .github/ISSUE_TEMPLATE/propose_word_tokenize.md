@@ -16,3 +16,8 @@ Thêm một câu theo định dạng
 ```
 
 ```
+
+```
+version: 1
+task: word_tokenize
+```
