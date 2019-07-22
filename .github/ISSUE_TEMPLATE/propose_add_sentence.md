@@ -14,6 +14,6 @@ Thêm câu của bạn vào trong khung sau
 ```
 
 ```
-version: 1
+version: v1
 task: add_sentence
 ```

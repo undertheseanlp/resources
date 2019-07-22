@@ -18,6 +18,6 @@ Thêm một câu theo định dạng
 ```
 
 ```
-version: 1
+version: v1
 task: word_tokenize
 ```

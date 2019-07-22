@@ -16,6 +16,6 @@ assignees: ''
 **Metadata**
 
 ```
-version: 1
+version: v1
 task: pos_tag
 ```
