@@ -10,12 +10,8 @@ assignees: ''
 **Nội dung**
 
 ```
-
-```
-
-**Metadata**
-
-```
 version: v1
 task: pos_tag
+---
+
 ```

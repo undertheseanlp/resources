@@ -7,15 +7,11 @@ assignees: rain1024
 
 ---
 
-Thêm câu của bạn vào trong khung sau 
-
-```
- 
-```
-
-**Metadata**
+**Nội dung**
 
 ```
 version: v1
 task: add_sentence
+---
+
 ```
