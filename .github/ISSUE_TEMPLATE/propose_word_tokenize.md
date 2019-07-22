@@ -9,13 +9,13 @@ assignees: rain1024
 
 Thêm một câu theo định dạng 
 
-> 
-
 **Nội dung thay đổi**
 
 ```
 
 ```
+
+**Metadata**
 
 ```
 version: v1
