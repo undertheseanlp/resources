@@ -21,16 +21,16 @@ WIKIDATA_ID:
 
 ############################################################
 WORD: Tuyến metro
-POSTAG: 
+POSTAG: NOUN
 ENTITY_TYPE: 
 WIKIDATA_ID: 
 
 
 ############################################################
 WORD: Việt Nam
-POSTAG: 
-ENTITY_TYPE: 
-WIKIDATA_ID: 
+POSTAG: NOUN
+ENTITY_TYPE:
+WIKIDATA_ID: Q881
 
 
 ############################################################
@@ -63,7 +63,7 @@ WIKIDATA_ID:
 
 ############################################################
 WORD: nước ngoài
-POSTAG: 
+POSTAG: ADJ
 ENTITY_TYPE: 
 WIKIDATA_ID: 
 
