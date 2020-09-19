@@ -1,20 +1,20 @@
 ############################################################
 WORD: "
-POSTAG: CH
+POSTAG: PUNCT
 ENTITY_TYPE: 
 WIKIDATA_ID: 
 
 
 ############################################################
 WORD: .
-POSTAG: CH
+POSTAG: PUNCT
 ENTITY_TYPE: 
 WIKIDATA_ID: 
 
 
 ############################################################
 WORD: 1
-POSTAG: 
+POSTAG: NUM
 ENTITY_TYPE: 
 WIKIDATA_ID: 
 
