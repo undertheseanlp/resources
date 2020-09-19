@@ -1,0 +1,131 @@
+############################################################
+WORD: "
+POSTAG: CH
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: .
+POSTAG: CH
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: 1
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: Tuyến metro
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: Việt Nam
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: cho phép
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: chuyên gia
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: các
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: làm việc
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: nước ngoài
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: số
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: tăng tốc
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: tại đây
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: việc
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: vào
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: với
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: đang
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: được
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
+
+
+############################################################
+WORD: để
+POSTAG: 
+ENTITY_TYPE: 
+WIKIDATA_ID: 
