@@ -15,12 +15,14 @@ class Word(Base):
 
     word = Column('word', String, primary_key=True)
 
+
 class Entity(Base):
     __tablename__ = 'entities'
 
     id = Column('id', Integer, primary_key=True)
     name = Column('word', String)
     tag = Column('tag', String)
+
 
 Session = sessionmaker(bind=engine)
 session = Session()
