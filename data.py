@@ -19,7 +19,7 @@ class Entity(Base):
     __tablename__ = 'entities'
 
     id = Column('id', Integer, primary_key=True)
-    name = Column('name', String)
+    name = Column('word', String)
     tag = Column('tag', String)
 
 Session = sessionmaker(bind=engine)
@@ -27,7 +27,12 @@ session = Session()
 
 words = session.query(Word)
 entities = session.query(Entity)
-print(0)
+
+def test_entities():
+    for entity in entities:
+        print(entity.name)
+
+test_entities()
 
 # words = sqlalchemy.Table('words', metadata, autoload=True, autoload_with=engine)
 #
