@@ -1,6 +1,6 @@
 # Cách xác định một từ 
 
-Sử dụng google dịch (1) để xem từ  
+Sử dụng google dịch (1) để xem từ
 
 # Từ điển tham chiếu
 

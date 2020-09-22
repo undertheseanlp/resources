@@ -1,14 +1,6 @@
 from underthesea import word_tokenize
 
 
-def load_dictionary():
-    words = open("data/dictionary.txt")
-    return words
-
-
-dictionary = load_dictionary()
-
-
 def load_raw_sentences():
     sentences = open("data/sentences.txt").read().splitlines()
     return sentences
