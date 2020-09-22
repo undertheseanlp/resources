@@ -1,9 +1,27 @@
 from os import listdir
 from underthesea import word_tokenize
 
+
 class Corpus:
     def __init__(self, docs=None):
         self.docs = docs
+        self.sentences = None
+        if self.docs is not None:
+            self.sentences = {}
+            for doc_id, doc in self.docs.items():
+                self.sentences.update(doc.sentences)
+
+    def is_exist(self, sent_id=None, doc_id=None):
+        if sent_id is None and doc_id is None:
+            raise Exception("sent_id or doc_id must be not None")
+
+        if self.docs is None:
+            return False
+
+        if doc_id is not None:
+            return doc_id in self.docs.keys()
+
+        return sent_id in self.sentences.keys()
 
     @staticmethod
     def load_from_folder(folder):
@@ -26,6 +44,11 @@ class Corpus:
         for doc_id in self.docs:
             self.docs[doc_id].auto_tags()
 
+    def save_conllu(self, file, **kwargs):
+        content = "".join([doc.to_conllu(**kwargs) for id, doc in self.docs.items()])
+        open(file, "w").write(content)
+        print(f"Corpus is saved in file {file}")
+
 
 class Doc:
     def __init__(self, id=None, sentences=None):
@@ -47,6 +70,12 @@ class Doc:
         for sent_id in self.sentences:
             self.sentences[sent_id].auto_tags()
 
+    def to_conllu(self, **kwargs):
+        content = f"# doc_id = {self.id}\n"
+        content += "\n".join(sentence.to_conllu(**kwargs) for id, sentence in self.sentences.items())
+        content += "\n"
+        return content
+
 
 class Sentence:
     def __init__(self, id=None, text=None):
@@ -56,3 +85,15 @@ class Sentence:
 
     def auto_tags(self):
         self.tokens = word_tokenize(self.text)
+
+    def to_conllu(self, write_status=False, status=False):
+        content = f"# sent_id = {self.id}\n"
+        content += f"# text = {self.text}\n"
+        if write_status:
+            content += f"# status = \n"
+        orders = [str(i+1) for i in range(len(self.tokens))]
+        rows = zip(orders, self.tokens)
+        rows = ["\t".join(row) for row in rows]
+        content += "\n".join(rows)
+        content += "\n"
+        return content
