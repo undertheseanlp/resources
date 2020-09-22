@@ -1,1 +1,0 @@
-Thư mục chứa các đề xuất 

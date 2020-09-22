@@ -1,24 +1,10 @@
-from underthesea import word_tokenize
+from data import Corpus
 
 
-def load_raw_sentences():
-    sentences = open("data/sentences.txt").read().splitlines()
-    return sentences
+# corpus = Corpus.load_from_folder("data/docs")
+# corpus.auto_tags()
 
+tagged_corpus = Corpus.load_from_conllu_file("vi_corpus_v1.conllu")
 
-def convert_to_tokenize(tokens):
-    return "\n".join(tokens)
-
-
-sentences = load_raw_sentences()
-
-
-def generate_tokenize(sentence):
-    tokens = word_tokenize(sentence)
-    return convert_to_tokenize(tokens)
-
-
-tokenizes = [generate_tokenize(sentence) for sentence in sentences]
-
-content = "\n\n".join(tokenizes)
-open("tmp/tokenize_data.txt", "w").write(content)
+# content = "\n\n".join(tokenizes)
+# open("tmp/tokenize_data.txt", "w").write(content)
