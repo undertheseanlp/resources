@@ -4,7 +4,8 @@ class Node {
     this.variable = variable;
     this.text = text;
     this.role = role;
-    this.nodes = {}
+    this.nodes = {};
+    NodeIndexes[variable] = this;
   }
 
   addNode(node){
@@ -29,7 +30,6 @@ class Node {
 }
 
 var topNode = new Node("top", "t", "tăng tốc");
-NodeIndexes["t"] = topNode;
 topNode.addNode(new Node(":ARG0", "t0", "tuyến metro số 1"));
 
 function writeAMR(node){
@@ -49,3 +49,13 @@ $('#command').keypress(function (e) {
     console.log(text);
   }
 });
+
+function openNewWidow(url, top, left, width, height) {
+    var features = "location=1, status=1, scrollbars=1, width=" + width + ", height=" + height + ", top=" + top + ", left=" + left;
+    window.open(url, "kad", features);
+    window.close();
+}
+
+$('#help').click(function(){
+  openNewWidow('help.html', 0, 0, 500, 600)
+})
