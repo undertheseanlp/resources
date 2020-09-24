@@ -7,4 +7,4 @@
 
 Tham khảo
 
-* (1): https://universaldependencies.org/u/pos/index.html    
+* (1): https://universaldependencies.org/u/pos/index.html
