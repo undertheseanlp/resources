@@ -41,4 +41,4 @@ def load_bk_treebank():
 sentences = load_bk_treebank()
 # print("== FORM == ")
 # print(form_set)
-print(0)
+print(sorted(deprel_set))
