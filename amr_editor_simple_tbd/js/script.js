@@ -59,3 +59,7 @@ function openNewWidow(url, top, left, width, height) {
 $('#help').click(function(){
   openNewWidow('help.html', 0, 0, 500, 600)
 })
+
+$('#guide').click(function(){
+  openNewWidow('guide.html', 0, 0, 500, 600)
+})

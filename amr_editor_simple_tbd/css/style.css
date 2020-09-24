@@ -1,5 +1,13 @@
 #help {
+
+}
+
+.help{
     color: #aaa;
     font-style: italic;
     text-decoration: underline;
+}
+
+.help:hover {
+    cursor: pointer;
 }
