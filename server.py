@@ -14,7 +14,7 @@ def amr():
 
 
 @app.route('/conll')
-def amr():
+def conll():
     return app.send_static_file('conll.html')
 
 
