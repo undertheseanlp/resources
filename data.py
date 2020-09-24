@@ -36,9 +36,8 @@ class Corpus:
         return corpus
 
     @staticmethod
-    def load_from_conllu_file(conllu_file):
-        corpus = Corpus()
-        return corpus
+    def load_from_conllu_file(conll_file):
+        return CONLLCorpus.load_from_file(conll_file)
 
     def auto_tags(self):
         for doc_id in self.docs:
@@ -50,6 +49,13 @@ class Corpus:
         print(f"Corpus is saved in file {file}")
 
 
+class CONLLCorpus:
+    @staticmethod
+    def load_from_file(conll_file):
+        corpus = Corpus()
+        return corpus
+
+
 class Doc:
     def __init__(self, id=None, sentences=None):
         self.id = id
@@ -59,7 +65,7 @@ class Doc:
     def load_from_file(doc_id=None, doc_file=None):
         lines = open(doc_file).read().splitlines()
         texts = [line for line in lines if not line.startswith("#")]
-        ids = [f"{doc_id}-{str(i+1)}" for i in range(len(texts))]
+        ids = [f"{doc_id}-{str(i + 1)}" for i in range(len(texts))]
         sentences = {}
         for id, text in zip(ids, texts):
             sentences[id] = Sentence(id=id, text=text)
@@ -91,7 +97,7 @@ class Sentence:
         content += f"# text = {self.text}\n"
         if write_status:
             content += f"# status = \n"
-        orders = [str(i+1) for i in range(len(self.tokens))]
+        orders = [str(i + 1) for i in range(len(self.tokens))]
         rows = zip(orders, self.tokens)
         rows = ["\t".join(row) for row in rows]
         content += "\n".join(rows)
