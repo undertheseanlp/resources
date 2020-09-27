@@ -43,6 +43,8 @@ def load_bk_treebank():
 
 
 sentences = load_bk_treebank()
+
+
 # print("== FORM == ")
 # print(form_set)
 
@@ -71,6 +73,33 @@ def normalize_BKT():
     content = unicodedata.normalize("NFC", content)
     open(f"tmp/{UD_FOLDER}/vi_bkt-ud-test.conllu", "w").write(content)
 
+
+def convert_bkt_to_ud(content):
+    content = unicodedata.normalize("NFC", content)
+    content = content.replace("\tNN\t", "\tNOUN\t")
+    content = content.replace("\tRB\t", "\tADV\t")
+    content = content.replace("\tVB\t", "\tVERB\t")
+    content = content.replace("\tROOT\t", "\troot\t")
+    content = content.replace("\tIN\t", "\tADP\t")
+    return content
+
+
+def normalize_BKT_2():
+    UD_FOLDER = "UD_Vietnamese-BKT2"
+    content = open("tmp/BKT/train").read()
+    content = convert_bkt_to_ud(content)
+    open(f"tmp/{UD_FOLDER}/vi_bkt2-ud-train.conllu", "w").write(content)
+
+    content = open("tmp/BKT/dev").read()
+    content = convert_bkt_to_ud(content)
+    open(f"tmp/{UD_FOLDER}/vi_bkt2-ud-dev.conllu", "w").write(content)
+
+    content = open("tmp/BKT/test").read()
+    content = convert_bkt_to_ud(content)
+    open(f"tmp/{UD_FOLDER}/vi_bkt2-ud-test.conllu", "w").write(content)
+
+
 # write_form_upos_set(form_upos_set)
 
-normalize_BKT()
+# normalize_BKT()
+normalize_BKT_2()

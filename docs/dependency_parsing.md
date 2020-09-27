@@ -12,6 +12,13 @@ Bước 1: Thống kê Treebank
 perl tools/conllu-stats.pl TREE_BANK/*.conllu > stats.xml 
 ```
 
+Với Treebank BKT2 
+
+```
+perl tools/conllu-stats.pl --oformat newdetailed --release 2.6 --treebank UD_Vietnamese-BKT2 --docs bkt2_docs --data . --lang vi 
+```
+
+
 Với Treebank BKT
 
 Sinh ra file stats.xml
@@ -41,6 +48,14 @@ Bước 2: Kiểm tra TreeBank
 ```
 python tools/validate.py --lang=vi VTB/vi_vtb-ud-train.conllu
 ```
+
+Với BKT Treebank 
+
+```
+cd tmp
+python tools/validate.py --lang=vi UD_Vietnamese-BKT/*.conllu 
+```
+  
 
 
 Tham khảo
