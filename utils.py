@@ -104,6 +104,7 @@ def convert_bkt_to_ud(content, corpus_name):
     content = content.replace("\tRB\t", "\tADV\t")
     content = content.replace("\tVB\t", "\tVERB\t")
     content = content.replace("\tIN\t", "\tADP\t")
+    content = content.replace("\tMD\t", "\tAUX\t")
 
     # deps
     content = content.replace("\tcl\t", "\tclf\t")
