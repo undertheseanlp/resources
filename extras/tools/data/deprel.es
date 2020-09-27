@@ -1,0 +1,14 @@
+acl:relcl
+aux:pass
+cc:preconj
+compound:prt
+csubj:pass
+det:predet
+expl:impers
+expl:pass
+expl:pv
+flat:name
+nmod:poss
+nmod:tmod
+nsubj:pass
+obl:tmod
