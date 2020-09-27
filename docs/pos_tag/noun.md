@@ -2,7 +2,7 @@
 
 Ký hiệu trong UD: NOUN 
 
-Đặc biệt: Danh từ chỉ loại
+Đặc biệt: Danh từ chỉ loại (noun classifier)
 
 Trong tiếng Việt, có các danh từ chỉ loại chuyên dùng như con, tấm, bức, cái, chiếc, ngôi, hòn, đứa, thằng
 

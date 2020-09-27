@@ -77,10 +77,12 @@ def normalize_BKT():
 def convert_bkt_to_ud(content):
     content = unicodedata.normalize("NFC", content)
     content = content.replace("\tNN\t", "\tNOUN\t")
+    content = content.replace("\tCL\t", "\tNOUN\t")
     content = content.replace("\tRB\t", "\tADV\t")
     content = content.replace("\tVB\t", "\tVERB\t")
     content = content.replace("\tROOT\t", "\troot\t")
     content = content.replace("\tIN\t", "\tADP\t")
+    content = content.replace("\tcl\t", "\tclf\t")
     return content
 
 
