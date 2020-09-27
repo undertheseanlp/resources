@@ -14,6 +14,12 @@ perl tools/conllu-stats.pl TREE_BANK/*.conllu > stats.xml
 
 Với Treebank BKT2 
 
+Sinh ra file stats.xml
+
+```
+perl tools/conllu-stats.pl UD_Vietnamese-BKT2/*.conllu > bkt2_docs/stats.xml 
+```
+
 ```
 perl tools/conllu-stats.pl --oformat newdetailed --release 2.6 --treebank UD_Vietnamese-BKT2 --docs bkt2_docs --data . --lang vi 
 ```

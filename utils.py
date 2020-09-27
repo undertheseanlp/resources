@@ -87,6 +87,7 @@ def convert_bkt_to_ud(content):
     # deps
     content = content.replace("\tcl\t", "\tclf\t")
     content = content.replace("\tROOT\t", "\troot\t")
+    content = content.replace("\tdobj\t", "\tobj\t")
 
     return content
 
