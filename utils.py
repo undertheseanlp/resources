@@ -74,8 +74,22 @@ def normalize_BKT():
     open(f"tmp/{UD_FOLDER}/vi_bkt-ud-test.conllu", "w").write(content)
 
 
+def convert_bkt_to_ud_sentence_converter(sentence, i, corpus_name):
+    if sentence == "":
+        return sentence
+    result = ""
+    result += f"# sent_id = {corpus_name}-s{i+1}\n"
+    rows = [s.split("\t") for s in sentence.split("\n")]
+    forms = [row[1] for row in rows]
+    text = " ".join(forms)
+    result += f"# text = {text}\n"
+    result += sentence
+    return result
+
+
 def convert_bkt_to_ud_generate_sent_id(content, corpus_name):
     sentences = content.split("\n\n")
+    # sentences = [convert_bkt_to_ud_sentence_converter(sentence, i, corpus_name) for (i, sentence) in enumerate(sentences)]
     content = "\n\n".join(sentences)
     return content
 
@@ -85,6 +99,7 @@ def convert_bkt_to_ud(content, corpus_name):
 
     # tags
     content = content.replace("\tNN\t", "\tNOUN\t")
+    content = content.replace("\tNNP\t", "\tPROPN\t")
     content = content.replace("\tCL\t", "\tNOUN\t")
     content = content.replace("\tRB\t", "\tADV\t")
     content = content.replace("\tVB\t", "\tVERB\t")
