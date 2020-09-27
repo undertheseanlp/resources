@@ -74,7 +74,13 @@ def normalize_BKT():
     open(f"tmp/{UD_FOLDER}/vi_bkt-ud-test.conllu", "w").write(content)
 
 
-def convert_bkt_to_ud(content):
+def convert_bkt_to_ud_generate_sent_id(content, corpus_name):
+    sentences = content.split("\n\n")
+    content = "\n\n".join(sentences)
+    return content
+
+
+def convert_bkt_to_ud(content, corpus_name):
     content = unicodedata.normalize("NFC", content)
 
     # tags
@@ -89,21 +95,22 @@ def convert_bkt_to_ud(content):
     content = content.replace("\tROOT\t", "\troot\t")
     content = content.replace("\tdobj\t", "\tobj\t")
 
+    content = convert_bkt_to_ud_generate_sent_id(content, corpus_name)
     return content
 
 
 def normalize_BKT_2():
     UD_FOLDER = "UD_Vietnamese-BKT2"
     content = open("tmp/BKT/train").read()
-    content = convert_bkt_to_ud(content)
+    content = convert_bkt_to_ud(content, "train")
     open(f"tmp/{UD_FOLDER}/vi_bkt2-ud-train.conllu", "w").write(content)
 
     content = open("tmp/BKT/dev").read()
-    content = convert_bkt_to_ud(content)
+    content = convert_bkt_to_ud(content, "dev")
     open(f"tmp/{UD_FOLDER}/vi_bkt2-ud-dev.conllu", "w").write(content)
 
     content = open("tmp/BKT/test").read()
-    content = convert_bkt_to_ud(content)
+    content = convert_bkt_to_ud(content, "test")
     open(f"tmp/{UD_FOLDER}/vi_bkt2-ud-test.conllu", "w").write(content)
 
 
