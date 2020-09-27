@@ -58,7 +58,7 @@ def write_form_upos_set(form_upos_set):
 
 
 def normalize_BKT():
-    ud_folder = "UD_Vietnamese-BKT"
+    UD_FOLDER = "UD_Vietnamese-BKT"
     content = open("tmp/BKT/train").read()
     content = unicodedata.normalize("NFC", content)
     open(f"tmp/{UD_FOLDER}/vi_bkt-ud-train.conllu", "w").write(content)
