@@ -14,7 +14,6 @@ Ngày_mai, anh ta đi chơi.
 
 
 ```
-
             ADV  VERB  ADV  
 Công_ty tôi mới  mở    được hơn 1 năm, có khoảng 10 người lao động.
 1	Công_ty	_	NN	NN	_	4	nsubj	_	_
