@@ -78,7 +78,7 @@ def convert_bkt_to_ud_sentence_converter(sentence, i, corpus_name):
     if sentence == "":
         return sentence
     result = ""
-    result += f"# sent_id = {corpus_name}-s{i+1}\n"
+    result += f"# sent_id = {corpus_name}-s{i + 1}\n"
     rows = [s.split("\t") for s in sentence.split("\n")]
     forms = [row[1] for row in rows]
     text = " ".join(forms)
