@@ -74,12 +74,18 @@ def normalize_BKT():
     open(f"tmp/{UD_FOLDER}/vi_bkt-ud-test.conllu", "w").write(content)
 
 
+def convert_bkt_to_ud_extract_lemma(row):
+    row[2] = row[1]
+    return row
+
+
 def convert_bkt_to_ud_sentence_converter(sentence, i, corpus_name):
     if sentence == "":
         return sentence
     result = ""
     result += f"# sent_id = {corpus_name}-s{i + 1}\n"
     rows = [s.split("\t") for s in sentence.split("\n")]
+    rows = [convert_bkt_to_ud_extract_lemma(row) for row in rows]
     forms = [row[1] for row in rows]
     text = " ".join(forms)
     result += f"# text = {text}\n"
@@ -139,6 +145,7 @@ def convert_bkt_to_ud_generate_sent_id(content, corpus_name):
 def convert_bkt_to_ud1(content, corpus_name):
     content = unicodedata.normalize("NFC", content)
     content = convert_bkt_to_ud_generate_sent_id(content, corpus_name)
+    content += "\n\n"
     return content
 
 
@@ -162,4 +169,4 @@ def normalize_bkt_1():
 
 # normalize_BKT()
 normalize_bkt_1()
-# normalize_bkt_2()
+normalize_bkt_2()
