@@ -37,8 +37,6 @@ perl ../extras/tools/conllu-stats.pl UD_Vietnamese-BKT2/*.conllu > bkt_docs/stat
 Sinh ra docs theo format `newdetailed`
 
 ```
-
-
 cd tmp
 export BKT_DOCS=btk_docs
 rm -rf $BKT_DOCS/treebanks/*
