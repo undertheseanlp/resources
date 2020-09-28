@@ -62,10 +62,8 @@ Với BKT Treebank
 
 ```
 cd tmp
-python tools/validate.py --lang=vi UD_Vietnamese-BKT/*.conllu 
+python ../extras/tools/validate.py --lang=vi UD_Vietnamese-BKT2/*.conllu
 ```
-  
-
 
 Tham khảo
 
