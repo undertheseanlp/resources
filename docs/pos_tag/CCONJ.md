@@ -6,6 +6,8 @@
 Liên từ này được sử dụng để kết nối hai hay nhiều đơn vị từ tương đương nhau. Ví dụ như hai từ, hai cụm từ hoặc hai mệnh
 đề.
 
+Ví dụ:
+
 * thì
   * [CCONJ](#) *Nếu Tùng học được hai tuần nghiêm túc **thì** mẹ mua xe.* 
 * như
