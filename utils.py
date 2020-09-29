@@ -106,8 +106,10 @@ def convert_bkt_to_ud2(content, corpus_name):
     content = content.replace("\tJJ\t", "\tADJ\t")
     content = content.replace("\tVA\t", "\tADJ\t")
 
-    content = content.replace("\tDT\t", "\tDET\t")
     content = content.replace("\tRB\t", "\tADV\t")
+    content = content.replace("\tTO\t", "\tADV\t")
+
+    content = content.replace("\tDT\t", "\tDET\t")
     content = content.replace("\tIN\t", "\tADP\t")
     content = content.replace("\tMD\t", "\tAUX\t")
 
