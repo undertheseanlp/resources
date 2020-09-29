@@ -1,4 +1,7 @@
-# PROPER NOUN
+# Danh từ riêng 
+
+* Tên khác: proper noun
+* Nhãn UD: PROPN
 
 Danh từ riêng
 
