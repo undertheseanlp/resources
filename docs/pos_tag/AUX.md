@@ -1,8 +1,7 @@
 # Trợ động từ 
 
-Auxiliary
-
-Nhãn UD: AUX  
+* Tên khác: Auxiliary 
+* Nhãn UD: AUX  
 
 Gồm nhiều loại:
 
