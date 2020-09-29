@@ -1,6 +1,6 @@
-# Adverb 
+# Trạng từ 
 
-Nhãn: ADV 
+Nhãn UD: ADV 
 
 Trạng từ hay còn gọi là phó từ, dùng để *bổ nghĩa* cho các động từ, tính từ hay các trạng từ khác.
 
