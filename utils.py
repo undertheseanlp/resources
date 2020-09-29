@@ -117,6 +117,9 @@ def convert_bkt_to_ud2(content, corpus_name):
 
     content = content.replace("\tCC\t", "\tCCONJ\t")
 
+    content = content.replace("\tRBKT\t", "\tPUNCT\t")
+    content = content.replace("\tLBKT\t", "\tPUNCT\t")
+
     # deps
     content = content.replace("\tcl\t", "\tclf\t")
     content = content.replace("\tROOT\t", "\troot\t")
