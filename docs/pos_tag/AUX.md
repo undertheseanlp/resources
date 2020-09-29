@@ -11,6 +11,11 @@ Gồm nhiều loại:
 * Modal auxiliaries: should (do), must (do)
 * Verbal copulas: He **is** a teacher
 
+Ví dụ:
+
+* [AUX](#): *Đó **là** cuộc chiến tranh phi nghĩa .*
+
 Tham khảo
  
 * (1) https://universaldependencies.org/u/pos/AUX_.html
+* (2) https://universaldependencies.org/treebanks/vi_vtb/vi_vtb-pos-AUX.html
