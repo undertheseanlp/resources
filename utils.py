@@ -99,7 +99,6 @@ def convert_bkt_to_ud2(content, corpus_name):
     content = content.replace("\tNN\t", "\tNOUN\t")
     content = content.replace("\tNNP\t", "\tPROPN\t")
     content = content.replace("\tCL\t", "\tNOUN\t")
-    content = content.replace("\tRB\t", "\tADV\t")
 
     content = content.replace("\tVB\t", "\tVERB\t")
     content = content.replace("\tAV\t", "\tVERB\t")
@@ -107,6 +106,8 @@ def convert_bkt_to_ud2(content, corpus_name):
     content = content.replace("\tJJ\t", "\tADJ\t")
     content = content.replace("\tVA\t", "\tADJ\t")
 
+    content = content.replace("\tDT\t", "\tDET\t")
+    content = content.replace("\tRB\t", "\tADV\t")
     content = content.replace("\tIN\t", "\tADP\t")
     content = content.replace("\tMD\t", "\tAUX\t")
 

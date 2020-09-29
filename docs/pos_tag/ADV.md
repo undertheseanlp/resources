@@ -32,8 +32,14 @@ Công_ty tôi mới  mở    được hơn 1 năm, có khoảng 10 người lao 
 14	.	_	PUNCT	PUNCT	_	4	punct	_	_
 ```
 
-### 
+(?) Thảo luận
 
+Trong VietTreeBank, từ "để" được xác định là trạng từ, nhưng trong BKTreeBank, từ "để" được xác định với nhãn `TO`.
+
+Nên gán nhãn cho từ `để` thế nào cho đúng?
+
+* [ADV](#) Và cũng chính vì nỗi đau này, anh đã quyết định đi kiện báo Pháp Luật TP .HCM **để** đòi lại danh dự cho mình.
+* [ADV](#) Nếu nghe được, đáng lẽ Thu phải sinh nghi, bám sát hay báo cho chồng **để** cùng nhau truy tìm thủ phạm.
 
 
 Tham khảo
