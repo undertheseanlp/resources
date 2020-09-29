@@ -7,7 +7,9 @@ Liên từ này thường được dùng để đứng trước các mệnh đ�
 
 Ví dụ:
 
-
+* *và*
+  * *bà Raymonde Dien chia sẻ: "cha tôi bị bắt, chị tôi bị đày **và** anh trai tôi đã bị bắn.*
+  * *hải **và** chị Hằng tìm mọi cơ hội để xây dựng tình cảm cho hai thanh niên.*
 Tham khảo 
 
 * (1) https://stepup.edu.vn/blog/cac-lien-tu-trong-tieng-anh/
