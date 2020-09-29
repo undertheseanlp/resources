@@ -129,6 +129,41 @@ def convert_bkt_to_ud2(content, corpus_name):
     return content
 
 
+def convert_bkt_to_ud2(content, corpus_name):
+    # tags
+    content = content.replace("\tNN\t", "\tNOUN\t")
+    content = content.replace("\tNNP\t", "\tPROPN\t")
+    content = content.replace("\tCL\t", "\tNOUN\t")
+
+    content = content.replace("\tPRP\t", "\tPRON\t")
+
+    content = content.replace("\tCD\t", "\tNUM\t")
+
+    content = content.replace("\tVB\t", "\tVERB\t")
+    content = content.replace("\tAV\t", "\tVERB\t")
+
+    content = content.replace("\tJJ\t", "\tADJ\t")
+    content = content.replace("\tVA\t", "\tADJ\t")
+
+    content = content.replace("\tRB\t", "\tADV\t")
+    content = content.replace("\tTO\t", "\tADV\t")
+
+    content = content.replace("\tDT\t", "\tDET\t")
+    content = content.replace("\tIN\t", "\tADP\t")
+    content = content.replace("\tMD\t", "\tAUX\t")
+
+    content = content.replace("\tCC\t", "\tCCONJ\t")
+
+    content = content.replace("\tRBKT\t", "\tPUNCT\t")
+    content = content.replace("\tLBKT\t", "\tPUNCT\t")
+
+    # deps
+    content = content.replace("\tcl\t", "\tclf\t")
+    content = content.replace("\tROOT\t", "\troot\t")
+    content = content.replace("\tdobj\t", "\tobj\t")
+    return content
+
+
 def normalize_bkt_2():
     SOURCE_TREEBANK = "UD_Vietnamese-BKT1"
     DEST_TREEBANK = "UD_Vietnamese-BKT2"
@@ -143,6 +178,47 @@ def normalize_bkt_2():
 
     content = open(f"tmp/{SOURCE_TREEBANK}/test").read()
     content = convert_bkt_to_ud2(content, "test")
+    open(f"tmp/{DEST_TREEBANK}/vi_bkt2-ud-test.conllu", "w").write(content)
+
+
+def convert_bkt_to_ud_replace_tags(sentence):
+    tokens = sentence.split("\n")
+    results = tokens[:2]
+    map_pos_tags = {
+        "NN": "NOUN"
+    }
+    for row in tokens[3:]:
+        items = row.split("\t")
+        pos_tag = items[3]
+        if pos_tag in map_pos_tags:
+            items[3] = map_pos_tags[pos_tag]
+        results.append("\t".join(items))
+    result = "\n".join(results)
+    return result
+
+
+def convert_bkt_to_ud21(content):
+    sentences = content.split("\n\n")
+    sentences = sentences[:-1]
+    sentences = [convert_bkt_to_ud_replace_tags(sentence) for sentence in sentences]
+    content = "\n\n".join(sentences)
+    return content
+
+
+def normalize_bkt_21():
+    SOURCE_TREEBANK = "UD_Vietnamese-BKT1"
+    DEST_TREEBANK = "UD_Vietnamese-BKT2"
+
+    content = open(f"tmp/{SOURCE_TREEBANK}/train").read()
+    content = convert_bkt_to_ud21(content)
+    open(f"tmp/{DEST_TREEBANK}/vi_bkt2-ud-train.conllu", "w").write(content)
+
+    content = open(f"tmp/{SOURCE_TREEBANK}/dev").read()
+    content = convert_bkt_to_ud21(content)
+    open(f"tmp/{DEST_TREEBANK}/vi_bkt2-ud-dev.conllu", "w").write(content)
+
+    content = open(f"tmp/{SOURCE_TREEBANK}/test").read()
+    content = convert_bkt_to_ud21(content)
     open(f"tmp/{DEST_TREEBANK}/vi_bkt2-ud-test.conllu", "w").write(content)
 
 
@@ -182,4 +258,5 @@ def normalize_bkt_1():
 
 # normalize_BKT()
 # normalize_bkt_1()
-normalize_bkt_2()
+# normalize_bkt_2()
+normalize_bkt_21()
