@@ -13,8 +13,8 @@ Gồm nhiều loại:
 Ví dụ:
 
 * *là*
-  * [AUX](#): *Đó **là** cuộc chiến tranh phi nghĩa .*
-  * [AUX](#): *17 tuổi tôi **là** thư ký đánh máy cho văn phòng đảng Cộng sản Pháp.*
+  * *Đó **là** cuộc chiến tranh phi nghĩa .*
+  * *17 tuổi tôi **là** thư ký đánh máy cho văn phòng đảng Cộng sản Pháp.*
 
 Tham khảo
  
