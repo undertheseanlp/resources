@@ -89,6 +89,7 @@ def convert_bkt_to_ud_sentence_converter(sentence, i, corpus_name):
     forms = [row[1] for row in rows]
     text = " ".join(forms)
     result += f"# text = {text}\n"
+    sentence = "\n".join(["\t".join(row) for row in rows])
     result += sentence
     return result
 
@@ -168,5 +169,5 @@ def normalize_bkt_1():
 # write_form_upos_set(form_upos_set)
 
 # normalize_BKT()
-normalize_bkt_1()
+# normalize_bkt_1()
 normalize_bkt_2()
