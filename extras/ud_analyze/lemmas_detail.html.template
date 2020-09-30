@@ -6,6 +6,7 @@
 <body>
 {{text}} ({{sent_count}}) <br/>
 <br/>
+<h3>POS Tag</h3>
 <ul>
 {%- for item in data['upos'] %}
 {% set pos_tag_data = data['upos'][item] %}
@@ -19,8 +20,22 @@
     </ul>
 </li>
 {%- endfor %}
-<ul>
+</ul>
 
-<br/>
+<h3>Dependency Parsing</h3>
+<ul>
+{%- for item in data['upos'] %}
+{% set pos_tag_data = data['upos'][item] %}
+{% set pos_tag = item %}
+<li>
+    <b>{{ pos_tag }}</b> ({{ pos_tag_data['count'] }})
+    <ul>
+    {%- for item in pos_tag_data['text'] %}
+    <li>{{item}}</li>
+    {%- endfor %}
+    </ul>
+</li>
+{%- endfor %}
+</ul>
 </body>
 </html>
