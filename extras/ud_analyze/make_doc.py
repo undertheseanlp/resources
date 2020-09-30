@@ -82,13 +82,13 @@ def make_lemmas_doc(doc_folders):
     os.makedirs(join(doc_folders, "lemmas"))
     os.makedirs(join(doc_folders, "lemmas", "details"))
     index_file = join(doc_folders, "lemmas", "index.html")
-    index_template = Template(open("lemmas_index.html.template").read())
+    index_template = Template(open(join(cwd, "lemmas_index.html.template")).read())
     lemmas_data = [Lemma(key, lemmas[key]) for key in lemmas]
     lemmas_data = sorted(lemmas_data, key=sort_lemma_f)
     lemmas_content = ", ".join([item.to_text() for item in lemmas_data])
     content = index_template.render(content=lemmas_content)
 
-    detail_template = Template(open("lemmas_detail.html.template").read())
+    detail_template = Template(open(join(cwd, "lemmas_detail.html.template")).read())
     open(index_file, "w").write(content)
     for item in lemmas_data:
         url = item.to_url()
