@@ -24,18 +24,19 @@
 
 <h3>Dependency Parsing</h3>
 <ul>
-{%- for item in data['upos'] %}
-{% set pos_tag_data = data['upos'][item] %}
-{% set pos_tag = item %}
+{%- for item in data['deprel'] %}
+{% set deprel_tag_data = data['deprel'][item] %}
+{% set deprel_tag = item %}
 <li>
-    <b>{{ pos_tag }}</b> ({{ pos_tag_data['count'] }})
+    <b>{{ deprel_tag }}</b> ({{ deprel_tag_data['count'] }})
     <ul>
-    {%- for item in pos_tag_data['text'] %}
-    <li>{{item}}</li>
+    {%- for item in deprel_tag_data['text'] %}
+    <li>(<i>{{item.upos}}</i>) {{item.text}}</li>
     {%- endfor %}
     </ul>
 </li>
 {%- endfor %}
 </ul>
+<br/>
 </body>
 </html>

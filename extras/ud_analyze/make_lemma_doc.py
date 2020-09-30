@@ -37,11 +37,11 @@ def parse_sentence(sentence):
         if deprel not in lemmas[lemma]["deprel"]:
             lemmas[lemma]["deprel"][deprel] = {
                 "count": 1,
-                "text": [text]
+                "text": [{"text": text, "upos": upos}],
             }
         else:
             lemmas[lemma]["deprel"][deprel]["count"] += 1
-            lemmas[lemma]["deprel"][deprel]["text"].append(text)
+            lemmas[lemma]["deprel"][deprel]["text"].append({"text": text, "upos": upos})
     return sentence
 
 
