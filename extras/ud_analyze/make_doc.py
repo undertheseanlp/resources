@@ -72,6 +72,10 @@ class Lemma:
         return data
 
 
+def sort_lemma_f(lemma):
+    return lemma.lemma
+
+
 def make_lemmas_doc(doc_folders):
     if "lemmas" in listdir(doc_folders):
         shutil.rmtree(join(doc_folders, "lemmas"))
@@ -80,6 +84,7 @@ def make_lemmas_doc(doc_folders):
     index_file = join(doc_folders, "lemmas", "index.html")
     index_template = Template(open("lemmas_index.html.template").read())
     lemmas_data = [Lemma(key, lemmas[key]) for key in lemmas]
+    lemmas_data = sorted(lemmas_data, key=sort_lemma_f)
     lemmas_content = ", ".join([item.to_text() for item in lemmas_data])
     content = index_template.render(content=lemmas_content)
 
@@ -107,14 +112,16 @@ def main(treebank, docs):
             raise Exception(f"Treebank folder `{treebank_folder}` must contains *.conllu files")
     except:
         raise Exception(f"Treebank folder `{treebank_folder}` must contains *.conllu files")
+    for file in files:
+        treebank_file = join(treebank_folder, file)
+        parse_treebank(treebank_file)
 
-    treebank_file = join(treebank_folder, files[0])
-    parse_treebank(treebank_file)
     try:
         docs_folder = abspath(join(cwd, docs))
         os.listdir(docs_folder)
     except:
         raise Exception(f"Docs folder `{docs_folder} must be existed.")
+
     make_lemmas_doc(docs_folder)
 
 
