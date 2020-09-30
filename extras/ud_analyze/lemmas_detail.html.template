@@ -1,0 +1,26 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Lemmas</title>
+</head>
+<body>
+{{text}} ({{sent_count}}) <br/>
+<br/>
+<ul>
+{%- for item in data['upos'] %}
+{% set pos_tag_data = data['upos'][item] %}
+{% set pos_tag = item %}
+<li>
+    <b>{{ pos_tag }}</b> ({{ pos_tag_data['count'] }})
+    <ul>
+    {%- for item in pos_tag_data['text'] %}
+    <li>{{item}}</li>
+    {%- endfor %}
+    </ul>
+</li>
+{%- endfor %}
+<ul>
+
+<br/>
+</body>
+</html>
