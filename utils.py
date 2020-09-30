@@ -185,13 +185,38 @@ def convert_bkt_to_ud_replace_tags(sentence):
     tokens = sentence.split("\n")
     results = tokens[:2]
     map_pos_tags = {
-        "NN": "NOUN"
+        "NN": "NOUN",
+        "CL": "NOUN",
+        "NNP": "PROPN",
+        "PRP": "PRON",
+        "CD": "NUM",
+        "VB": "VERB",
+        "AV": "VERB",
+        "MD": "VERB",
+        "JJ": "ADJ",
+        "VA": "ADJ",
+        "RB": "ADV",
+        "TO": "ADV",
+        "DT": "DET",
+        "IN": "ADP",
+        "CC": "CCONJ",
+        "RBKT": "PUNCT",
+        "LBKT": "PUNCT"
     }
-    for row in tokens[3:]:
+
+    map_dep_tags = {
+        "ROOT": "root",
+        "cl": "clf",
+        "dobj": "obj"
+    }
+    for row in tokens[2:]:
         items = row.split("\t")
         pos_tag = items[3]
+        dep_tag = items[7]
         if pos_tag in map_pos_tags:
             items[3] = map_pos_tags[pos_tag]
+        if dep_tag in map_dep_tags:
+            items[7] = map_dep_tags[dep_tag]
         results.append("\t".join(items))
     result = "\n".join(results)
     return result
@@ -202,6 +227,7 @@ def convert_bkt_to_ud21(content):
     sentences = sentences[:-1]
     sentences = [convert_bkt_to_ud_replace_tags(sentence) for sentence in sentences]
     content = "\n\n".join(sentences)
+    content += "\n\n"
     return content
 
 
@@ -245,13 +271,13 @@ def normalize_bkt_1():
     content = convert_bkt_to_ud1(content, "train")
     open(f"tmp/{UD_FOLDER}/train", "w").write(content)
 
-    content = open(f"{SOURCE_FOLDER}/dev").read()
-    content = convert_bkt_to_ud1(content, "dev")
-    open(f"tmp/{UD_FOLDER}/dev", "w").write(content)
-
-    content = open(f"{SOURCE_FOLDER}/test").read()
-    content = convert_bkt_to_ud1(content, "test")
-    open(f"tmp/{UD_FOLDER}/test", "w").write(content)
+    # content = open(f"{SOURCE_FOLDER}/dev").read()
+    # content = convert_bkt_to_ud1(content, "dev")
+    # open(f"tmp/{UD_FOLDER}/dev", "w").write(content)
+    #
+    # content = open(f"{SOURCE_FOLDER}/test").read()
+    # content = convert_bkt_to_ud1(content, "test")
+    # open(f"tmp/{UD_FOLDER}/test", "w").write(content)
 
 
 # write_form_upos_set(form_upos_set)
