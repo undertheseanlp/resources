@@ -5,8 +5,8 @@ Dự án xây dựng tài nguyên cho các bài toán NLP tiếng Việt 🇻�
 ## Ý tưởng 
 
 * Cập nhật dữ liệu HÀNG TUẦN
-* Cập nhật dữ liệu từ wikipedia, baomoi
 * Tập trung vào bài toán Dependency Parsing
+* Cập nhật dữ liệu từ wikipedia, baomoi
 * Cho mô hình chạy gán nhãn tự động các câu thú vị nhất  
 * Ít nhất 3 người gán nhãn lại 
 * Ít nhất 3 người reviews 
