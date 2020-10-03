@@ -3,6 +3,7 @@
 Định từ là loại phụ từ chuyên đi kèm với danh từ để bổ sung ý nghĩa số lượng cho danh từ.
 
 * Tên gọi: Determiner
+* Lớp: Lớp đóng
 * Nhãn UD: DET
 * Ngôn ngữ học: [Định từ tiếng Việt](../linguistics/hth-phu_tu_tieng_viet.md)
 
