@@ -1,4 +1,4 @@
-# Vietnamese 
+# Vietnamese NLP Resources
 
 Dự án xây dựng tài nguyên cho các bài toán NLP tiếng Việt 🇻🇳
 
