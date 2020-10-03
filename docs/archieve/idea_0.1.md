@@ -34,7 +34,7 @@ Dự án xây dựng tài nguyên cho các bài toán NLP tiếng Việt 🇻�
 - Cần có người để sửa sai cho mô hình
 - Sau đó cập nhật lại mô hình với dữ liệu đã sửa sai 
 
-## Phiên bản
+## Lịch sử phiên bản
 
 * (v0.2 - 20201003): Thêm idea tập trung vào bài toán dependency parsing
 * (v0.1 - 20190720): Ý tưởng về nguồn tài nguyên mở cho các bài toán NLP tiếng Việt, nơi dữ liệu NLP tiếng Việt được mở cho tất
