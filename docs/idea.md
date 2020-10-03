@@ -2,7 +2,7 @@
 
 Dự án xây dựng tài nguyên cho các bài toán NLP tiếng Việt 🇻🇳
 
-Ý tưởng: 
+## Ý tưởng 
 
 * Cập nhật dữ liệu HÀNG TUẦN
 * Cập nhật dữ liệu từ wikipedia, baomoi
@@ -13,7 +13,7 @@ Dự án xây dựng tài nguyên cho các bài toán NLP tiếng Việt 🇻�
 * Luồng phát triển qua git
 * Chương trình hoàn toàn tự động thông qua các bot 
 
-Mô hình cải tiến
+## Mô hình cải tiến
 
 ```
 +----------------+    +----------------+     +----------------+
