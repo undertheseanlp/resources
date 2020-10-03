@@ -1,6 +1,6 @@
 # Vietnamese NLP Resources
 
-Dự án xây dựng tài nguyên cho các bài toán NLP tiếng Việt 🇻🇳
+Dự án xây dựng tài nguyên cho các bài toán NLP tiếng Việt 🇻🇳 (giống như wikipedia cho NLP tiếng Việt)
 
 ## Ý tưởng 
 
