@@ -1,6 +1,7 @@
 # Định từ
 
-Nhãn UD: Determiner
+* Nhãn UD: Determiner
+* Định nghĩa: [#](../linguistics/hth-phu_tu_tieng_viet.md)
 
 Tham khảo: 
 
