@@ -26,8 +26,7 @@ Sinh ra docs theo format `newdetailed`
 
 ```
 cd tmp
-export BKT_DOCS=btk_docs
-rm -rf $BKT_DOCS/treebanks/*
+rm -rf bkt_docs/treebanks/*
 perl ../extras/tools/conllu-stats.pl --oformat newdetailed --release 2.6 --treebank UD_Vietnamese-BKT2 --docs bkt_docs --data . --lang vi
 ```
 

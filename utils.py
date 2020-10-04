@@ -59,7 +59,7 @@ def write_form_upos_set(form_upos_set):
         f.write(f"{form}\t{upos}\n")
 
 
-def normalize_BKT():
+def normalize_bkt():
     UD_FOLDER = "UD_Vietnamese-BKT"
     content = open("tmp/BKT/train").read()
     content = unicodedata.normalize("NFC", content)
@@ -192,13 +192,13 @@ def convert_bkt_to_ud_replace_tags(sentence):
         "CD": "NUM",
         "VB": "VERB",
         "AV": "VERB",
-        "MD": "VERB",
         "JJ": "ADJ",
         "VA": "ADJ",
         "RB": "ADV",
         "TO": "ADV",
         "DT": "DET",
         "IN": "ADP",
+        "MD": "AUX",
         "CC": "CCONJ",
         "RBKT": "PUNCT",
         "LBKT": "PUNCT"
@@ -282,7 +282,7 @@ def normalize_bkt_1():
 
 # write_form_upos_set(form_upos_set)
 
-# normalize_BKT()
-# normalize_bkt_1()
+# normalize_bkt()
+normalize_bkt_1()
 # normalize_bkt_2()
 normalize_bkt_21()
