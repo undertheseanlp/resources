@@ -25,7 +25,7 @@ cd tmp
 perl tools/conllu-stats.pl --oformat hubcompare UD_Vietnamese-BKT UD_Vietnamese-VTB  > comparison.md 
 ```
 
-Với BKT Treebank 
+Validate TreeBank
 
 ```
 cd tmp

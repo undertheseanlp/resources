@@ -284,6 +284,6 @@ def normalize_bkt_1():
 # write_form_upos_set(form_upos_set)
 
 # normalize_bkt()
-# normalize_bkt_1()
+normalize_bkt_1()
 # normalize_bkt_2()
 normalize_bkt_21()
