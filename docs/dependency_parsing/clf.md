@@ -1,6 +1,6 @@
 # classifier
 
-Ký hiệu UD: clf
+* Ký hiệu UD: clf
 
 Quan hệ phân loại dành cho các ngôn ngữ có hệ thống phân loại được ngữ pháp hóa cao. Mật độ lớn nhất của các ngôn ngữ như vậy ở châu Á.
 

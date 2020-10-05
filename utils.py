@@ -207,7 +207,8 @@ def convert_bkt_to_ud_replace_tags(sentence):
     map_dep_tags = {
         "ROOT": "root",
         "cl": "clf",
-        "dobj": "obj"
+        "dobj": "obj",
+        "auxpass": "aux:pass"
     }
     for row in tokens[2:]:
         items = row.split("\t")
@@ -283,6 +284,6 @@ def normalize_bkt_1():
 # write_form_upos_set(form_upos_set)
 
 # normalize_bkt()
-normalize_bkt_1()
+# normalize_bkt_1()
 # normalize_bkt_2()
 normalize_bkt_21()
