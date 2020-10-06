@@ -20,7 +20,7 @@ Validate TreeBank
 
 ```
 cd tmp
-python ../extras/tools/validate.py --lang=vi UD_Vietnamese-BKT2/*.conllu
+python ../extras/tools/validate.py --lang=vi UD_Vietnamese-BKT2/*.conllu --max-err=50
 ```
 
 Sinh ra file stats.xml

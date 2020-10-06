@@ -20,5 +20,5 @@ Validate TreeBank
 
 
 ```
-python tools/validate.py --lang=vi VTB/vi_vtb-ud-train.conllu
+python tools/validate.py --lang=vi VTB/*.conllu  --max-err=50
 ```
