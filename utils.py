@@ -230,6 +230,9 @@ def convert_bkt_to_ud_replace_tags(sentence):
         if dep_tag == "neg":
             items[7] = "advmod"
             items[5] = "Polarity=Neg"
+        if dep_tag == "cop":
+            items[3] = "AUX"
+        results
         results.append("\t".join(items))
     result = "\n".join(results)
     return result
@@ -284,13 +287,13 @@ def normalize_bkt_1():
     content = convert_bkt_to_ud1(content, "train")
     open(f"tmp/{UD_FOLDER}/train", "w").write(content)
 
-    # content = open(f"{SOURCE_FOLDER}/dev").read()
-    # content = convert_bkt_to_ud1(content, "dev")
-    # open(f"tmp/{UD_FOLDER}/dev", "w").write(content)
-    #
-    # content = open(f"{SOURCE_FOLDER}/test").read()
-    # content = convert_bkt_to_ud1(content, "test")
-    # open(f"tmp/{UD_FOLDER}/test", "w").write(content)
+    content = open(f"{SOURCE_FOLDER}/dev").read()
+    content = convert_bkt_to_ud1(content, "dev")
+    open(f"tmp/{UD_FOLDER}/dev", "w").write(content)
+
+    content = open(f"{SOURCE_FOLDER}/test").read()
+    content = convert_bkt_to_ud1(content, "test")
+    open(f"tmp/{UD_FOLDER}/test", "w").write(content)
 
 
 # write_form_upos_set(form_upos_set)
