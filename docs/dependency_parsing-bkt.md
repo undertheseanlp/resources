@@ -36,4 +36,3 @@ So sánh 2 treebank
 cd tmp
 perl tools/conllu-stats.pl --oformat hubcompare UD_Vietnamese-BKT UD_Vietnamese-VTB  > comparison.md 
 ```
-

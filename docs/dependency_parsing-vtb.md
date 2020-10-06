@@ -18,7 +18,6 @@ python make_lemma_doc.py --treebank ../UD_Vietnamese-VTB/ --docs ../../tmp/vtb_d
 
 Validate TreeBank
 
-
 ```
 python tools/validate.py --lang=vi VTB/*.conllu  --max-err=50
 ```
