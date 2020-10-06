@@ -214,7 +214,10 @@ def convert_bkt_to_ud_replace_tags(sentence):
         "ROOT": "root",
         "cl": "clf",
         "dobj": "obj",
-        "auxpass": "aux:pass"
+        "auxpass": "aux:pass",
+        "nsubjpass": "nsubj",
+        "case:pfn": "case",
+        "mark:relcl": "mark"
     }
     for row in tokens[2:]:
         items = row.split("\t")
@@ -224,6 +227,9 @@ def convert_bkt_to_ud_replace_tags(sentence):
             items[3] = map_pos_tags[pos_tag]
         if dep_tag in map_dep_tags:
             items[7] = map_dep_tags[dep_tag]
+        if dep_tag == "neg":
+            items[7] = "advmod"
+            items[5] = "Polarity=Neg"
         results.append("\t".join(items))
     result = "\n".join(results)
     return result
