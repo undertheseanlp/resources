@@ -8,6 +8,14 @@ rm -rf bkt_docs/treebanks/*
 perl ../extras/tools/conllu-stats.pl --oformat newdetailed --release 2.6 --treebank UD_Vietnamese-BKT2 --docs bkt_docs --data . --lang vi
 ```
 
+Sinh ra lemma docs
+
+```
+source active resources 
+cd extras/ud_analyze
+python make_lemma_doc.py --treebank ../../tmp/UD_Vietnamese-BKT2 --docs ../../tmp/bkt_docs
+```
+
 Validate TreeBank
 
 ```

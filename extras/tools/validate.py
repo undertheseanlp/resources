@@ -1742,7 +1742,9 @@ def validate_auxiliary_verbs(cols, children, nodes, line, lang):
             # Austro-Asiatic languages.
             # Modified by anhv - 20200510
             'vi': ['là', 'cần', 'chỉ', 'cũng', 'được', 'bị', 'đang', 'phải', 'sẽ', 'đã', 'Bị', 'vẫn', 'Hãy', 'có_thể',
-                   'hãy', 'nên', 'còn', 'Định', 'nên', 'không_thể', 'Nên', 'định', 'đừng', 'Đừng', 'Không_thể', 'Cũng', 'Được'],
+                   'hãy', 'nên', 'còn', 'Định', 'nên', 'không_thể', 'Nên', 'định', 'đừng', 'Đừng', 'Không_thể', 'Cũng', 'Được',
+                   'Đã', 'chưa', 'SẼ', 'Phải', 'xin', 'Có_thể', 'Đang', 'đã_và_đang', 'cũng_nên', 'chưa_bao_giờ'
+            ],
             # Austronesian languages.
             'id':  ['adalah', 'ialah', 'akan', 'sedang', 'telah', 'sudah', 'bisa', 'dapat', 'mampu', 'boleh', 'mungkin', 'harus', 'seharusnya', 'sebaiknya'],
             'tl':  ['may', 'kaya', 'sana', 'huwag'],
