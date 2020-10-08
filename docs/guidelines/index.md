@@ -1,7 +1,7 @@
 # Guidelines
 
 * Nguyên tắc cơ bản
-  * Tách từ
+  * [Bài toán tokenize và bài toán tách từ](gl01-tokeniation_and_word_segmentation.md)
 
 Tham khảo
 
