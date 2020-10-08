@@ -1,0 +1,16 @@
+acl:relcl
+advcl:tmod
+advmod:mmod
+advmod:lmod
+advmod:tmod
+aux:neg
+cc:preconj
+flat:name
+nmod:part
+nmod:poss
+nsubj:cop
+obl:agent
+obl:lmod
+obl:tmod
+xcomp:obj
+xcomp:pred

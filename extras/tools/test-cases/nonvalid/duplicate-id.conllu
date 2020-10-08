@@ -1,0 +1,6 @@
+# not valid: IDs must be sequential integers (1, 2, ...)
+# sent_id = duplicate-id
+# text = valid PUNCT
+1	valid	valid	NOUN	SP	_	0	root	_	_
+1	PUNCT	.	PUNCT	FS	_	0	root	_	_
+
