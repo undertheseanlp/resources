@@ -1,7 +1,5 @@
 import unicodedata
 
-from data import Corpus
-
 form_set = set()
 lemma_set = set()
 form_upos_set = set()
