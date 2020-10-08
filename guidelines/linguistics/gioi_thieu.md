@@ -12,8 +12,6 @@ Các nhà ngôn ngữ học có thể chỉ tập trung vào một số lĩnh v�
 * Ngữ dụng học (Pragmatics), nghiên cứu phát biểu trong ngữ cảnh giao tiếp (nghĩa đen và nghĩa bóng)
 * Phân tích diễn ngôn (Discourse Analysis), phân tích ngôn ngữ trong văn bản (văn bản nói, viết hoặc ký hiệu)
 
-
-
 Tham khảo
 
 * (1) htps://vi.wikipedia.org/wiki/Ngôn_ngữ_học
