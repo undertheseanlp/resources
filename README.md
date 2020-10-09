@@ -1,6 +1,6 @@
 # Tài nguyên tiếng Việt mở 
 
-Cùng khám phá tiếng Việt 🇻🇳
+Cùng khám phá tiếng Việt 🇻🇳🇻🇳🇻🇳🇻🇳
 
 ## Ngôn ngữ học 
 
