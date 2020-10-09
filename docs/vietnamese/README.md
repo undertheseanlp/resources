@@ -12,5 +12,7 @@ Cú pháp học
 * [Câu](cph-cau.md)
 * [Câu đơn](cph-cau_don.md)
 * [Câu ghép](cph-cau_ghep.md)
-* [Câu nghi vấn](cph-cau_nghi_van.md)
 * [Câu trần thuật](cph-cau_tran_thuat.md)
+* [Câu nghi vấn](cph-cau_nghi_van.md)
+* [Câu cầu khiến](cph-cau_cau_khien.md)
+* [Câu cảm thán](cph-cau_cam_than.md)
