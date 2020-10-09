@@ -15,7 +15,7 @@ These tags mark the core part-of-speech categories. To distinguish additional le
   <tr>
     <td>
     <a href="pos_tag/ADJ.md">ADJ</a> <br/>
-    ADV  <br/>
+    <a href="pos_tag/ADV.md">ADV</a> <br/>
     INTJ <br/>
     <a href="pos_tag/NOUN.md">NOUN</a> <br/>
     <a href="pos_tag/PROPN.md">PROPN</a> <br/>
