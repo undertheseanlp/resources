@@ -1,7 +1,6 @@
 # Universal POS tags
 
-These tags mark the core part-of-speech categories. To distinguish additional lexical and grammatical properties of words, use the universal features.
-
+Nhãn POS tag đại diện cho từ loại chính của từ. To distinguish additional lexical and grammatical properties of words, use the universal features.
 
 <table>
 <thead>
@@ -24,12 +23,12 @@ These tags mark the core part-of-speech categories. To distinguish additional le
     <td>
     ADP <br/>
     <a href="pos_tag/AUX.md">AUX</a> <br/>
-    CCONJ <br/>
-    DET <br/>
+    <a href="pos_tag/CCONJ.md">CCONJ</a> <br/>
+    <a href="pos_tag/DET.md">DET</a> <br/>
     NUM <br/>
     PART <br/>
     PRON <br/>
-    SCONJ <br/>
+    <a href="pos_tag/SCONJ.md">SCONJ</a> <br/>
     </td>
     <td>
     PUNCT <br/>
@@ -44,19 +43,19 @@ Alphabetical listing
 
 * <a href="pos_tag/ADJ.md">ADJ</a>: adjective
 * ADP: adposition
-* ADV: adverb
+* <a href="pos_tag/ADV.md">ADV</a>: adverb
 * <a href="pos_tag/AUX.md">AUX</a> : auxiliary
-* CCONJ: coordinating conjunction
-* DET: determiner
+* <a href="pos_tag/CCONJ.md">CCONJ</a>: coordinating conjunction
+* <a href="pos_tag/DET.md">DET</a>: determiner
 * INTJ: interjection
-* NOUN: noun
+* <a href="pos_tag/NOUN.md">NOUN</a>: noun
 * NUM: numeral
 * PART: particle
 * PRON: pronoun
-* PROPN: proper noun
+* <a href="pos_tag/PROPN.md">PROPN</a>: proper noun
 * PUNCT: punctuation
-* SCONJ: subordinating conjunction
+* <a href="pos_tag/SCONJ.md">SCONJ</a>: subordinating conjunction
 * SYM: symbol
-* VERB: verb
+* <a href="pos_tag/VERB.md">VERB</a>: verb
 * X: other
 
