@@ -23,7 +23,7 @@ These tags mark the core part-of-speech categories. To distinguish additional le
     </td> <br/>
     <td>
     ADP <br/>
-    AUX <br/>
+    <a href="pos_tag/AUX.md">AUX</a> <br/>
     CCONJ <br/>
     DET <br/>
     NUM <br/>
@@ -42,10 +42,10 @@ These tags mark the core part-of-speech categories. To distinguish additional le
  
 Alphabetical listing
 
-* ADJ: adjective
+* <a href="pos_tag/ADJ.md">ADJ</a>: adjective
 * ADP: adposition
 * ADV: adverb
-* AUX: auxiliary
+* <a href="pos_tag/AUX.md">AUX</a> : auxiliary
 * CCONJ: coordinating conjunction
 * DET: determiner
 * INTJ: interjection
