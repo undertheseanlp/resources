@@ -5,7 +5,7 @@
 * Tên gọi: Determiner
 * Lớp: Lớp đóng
 * Nhãn UD: DET
-* Ngôn ngữ học: [Định từ tiếng Việt](../vietnamese/hth-phu_tu_tieng_viet.md)
+* Ngôn ngữ học: [Định từ tiếng Việt](../../vietnamese/hth-phu_tu_tieng_viet.md)
 
 Tham khảo: 
 
