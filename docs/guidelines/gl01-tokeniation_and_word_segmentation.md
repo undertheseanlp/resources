@@ -5,7 +5,7 @@ Tuy nhiên, điều quan trọng cần lưu ý rằng đơn vị cơ bản của
 Trong một số trường hợp ngoại lệ khác, có thể cần phải đi theo hướng ngược lại, kết hợp một số chữ thành một từ. Bắt đầu từ phiên bản v2 của chỉ dẫn UD, những *từ nhiều token* được chấp nhận đối với một số trường hợp cụ thể, như số *20 000* hay các từ viết tắt *e. g.,* miễn là những hiện tượng này được chấp thuận và quy định rõ ràng trong những tài liệu dành riêng cho từng ngôn ngữ.
 Chú ý rằng, kỹ thuật này không nên bị lạm dụng cho những cụm từ như *in spite of* hay *by and large*, nên được gán thành các nhãn quan hệ chuyên dụng.
 
-Vì bài toán tách từ là một nhiệm vụ không đơn giản trong nhiều ngôn ngữ, và vì tính hiệu quả của việc huấn luyện dữ liệu treebank phụ thuộc khá nhiều vào việc tách từ đối với dữ liệu mới, điều quan trọng là cần tài liệu hóa những nguyên tắc tách từ cho mỗi ngôn ngữ. Bản chất của tài liệu này sẽ chuyên biệt cho từng ngôn ngữ, thể hiện đặc điểm và hệ thống chữ viết của ngôn ngữ  
+Vì bài toán tách từ là một nhiệm vụ không đơn giản trong nhiều ngôn ngữ, và vì tính hiệu quả của việc huấn luyện dữ liệu treebank phụ thuộc khá nhiều vào việc tách từ đối với dữ liệu mới, điều quan trọng là cần tài liệu hóa những nguyên tắc tách từ cho mỗi ngôn ngữ. Bản chất của tài liệu này sẽ chuyên biệt cho từng ngôn ngữ, thể hiện đặc điểm và hệ thống chữ viết của ngôn ngữ.
 
 Chú thích:
 
