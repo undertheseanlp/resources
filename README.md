@@ -6,6 +6,9 @@ Cùng khám phá tiếng Việt 🇻🇳🇻🇳🇻🇳🇻🇳
 
 * Nguyên tắc cơ bản
   * [Bài toán tokenize và bài toán tách từ](docs/guidelines/gl01-tokeniation_and_word_segmentation.md)
+* Tài liệu về tags, features và relations
+  * [POS tags](docs/guidelines/pos_tag.md)
+ 
 ## Ngôn ngữ học 
 
 * [Giới thiệu](docs/linguistics/gioi_thieu.md)
