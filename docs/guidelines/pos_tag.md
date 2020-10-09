@@ -17,9 +17,9 @@ These tags mark the core part-of-speech categories. To distinguish additional le
     <a href="pos_tag/ADJ.md">ADJ</a> <br/>
     ADV  <br/>
     INTJ <br/>
-    NOUN <br/>
-    PROPN <br/>
-    VERB <br/>
+    <a href="pos_tag/NOUN.md">NOUN</a> <br/>
+    <a href="pos_tag/PROPN.md">PROPN</a> <br/>
+    <a href="pos_tag/VERB.md">VERB</a> <br/>
     </td> <br/>
     <td>
     ADP</td>
