@@ -16,6 +16,7 @@ def copy_sub_folder(name):
         f.write(content)
 
 
+copy_sub_folder("guidelines")
 copy_sub_folder("linguistics")
 copy_sub_folder("vietnamese")
-copy_sub_folder("guidelines")
+

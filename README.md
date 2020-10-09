@@ -2,6 +2,10 @@
 
 Cùng khám phá tiếng Việt 🇻🇳🇻🇳🇻🇳🇻🇳
 
+# Guidelines
+
+* Nguyên tắc cơ bản
+  * [Bài toán tokenize và bài toán tách từ](docs/guidelines/gl01-tokeniation_and_word_segmentation.md)
 ## Ngôn ngữ học 
 
 * [Giới thiệu](docs/linguistics/gioi_thieu.md)
@@ -26,7 +30,3 @@ Cú pháp học
 * [Câu cầu khiến](docs/vietnamese/cph-cau_cau_khien.md)
 * [Câu cảm thán](docs/vietnamese/cph-cau_cam_than.md)
 
-# Guidelines
-
-* Nguyên tắc cơ bản
-  * [Bài toán tokenize và bài toán tách từ](docs/guidelines/gl01-tokeniation_and_word_segmentation.md)
