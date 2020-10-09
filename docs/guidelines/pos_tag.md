@@ -13,11 +13,20 @@ These tags mark the core part-of-speech categories. To distinguish additional le
 </thead>
 <tbody>
   <tr>
-    <td>ADJ</td>
-    <td>ADP</td>
+    <td>
+    ADJ <br/>
+    ADV  <br/>
+    INTJ <br/>
+    NOUN <br/>
+    PROPN <br/>
+    VERB <br/>
+    </td> <br/>
+    <td>
+    ADP</td>
     <td>PUNCT</td>
   </tr>
 </tbody>
+</table>
 
 Open class words	Closed class words	Other
 ADJ	ADP	PUNCT
