@@ -21,5 +21,12 @@ Cú pháp học
 * [Câu](docs/vietnamese/cph-cau.md)
 * [Câu đơn](docs/vietnamese/cph-cau_don.md)
 * [Câu ghép](docs/vietnamese/cph-cau_ghep.md)
-* [Câu nghi vấn](docs/vietnamese/cph-cau_nghi_van.md)
 * [Câu trần thuật](docs/vietnamese/cph-cau_tran_thuat.md)
+* [Câu nghi vấn](docs/vietnamese/cph-cau_nghi_van.md)
+* [Câu cầu khiến](docs/vietnamese/cph-cau_cau_khien.md)
+* [Câu cảm thán](docs/vietnamese/cph-cau_cam_than.md)
+
+# Guidelines
+
+* Nguyên tắc cơ bản
+  * [Bài toán tokenize và bài toán tách từ](docs/guidelines/gl01-tokeniation_and_word_segmentation.md)

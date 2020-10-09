@@ -18,3 +18,4 @@ def copy_sub_folder(name):
 
 copy_sub_folder("linguistics")
 copy_sub_folder("vietnamese")
+copy_sub_folder("guidelines")
