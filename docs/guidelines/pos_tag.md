@@ -22,8 +22,20 @@ These tags mark the core part-of-speech categories. To distinguish additional le
     <a href="pos_tag/VERB.md">VERB</a> <br/>
     </td> <br/>
     <td>
-    ADP</td>
-    <td>PUNCT</td>
+    ADP <br/>
+    AUX <br/>
+    CCONJ <br/>
+    DET <br/>
+    NUM <br/>
+    PART <br/>
+    PRON <br/>
+    SCONJ <br/>
+    </td>
+    <td>
+    PUNCT <br/>
+    SYM <br/>
+    X <br/>
+    </td>
   </tr>
 </tbody>
 </table>
