@@ -14,7 +14,7 @@ These tags mark the core part-of-speech categories. To distinguish additional le
 <tbody>
   <tr>
     <td>
-    ADJ <br/>
+    <a href="pos_tag/ADJ.md">ADJ</a> <br/>
     ADV  <br/>
     INTJ <br/>
     NOUN <br/>
@@ -27,16 +27,7 @@ These tags mark the core part-of-speech categories. To distinguish additional le
   </tr>
 </tbody>
 </table>
-
-Open class words	Closed class words	Other
-ADJ	ADP	PUNCT
-ADV	AUX	SYM
-INTJ	CCONJ	X
-NOUN	DET	 
-PROPN	NUM	 
-VERB	PART	 
- 	PRON	 
- 	SCONJ	 
+ 
 Alphabetical listing
 
 ADJ: adjective
@@ -56,3 +47,4 @@ SCONJ: subordinating conjunction
 SYM: symbol
 VERB: verb
 X: other
+
