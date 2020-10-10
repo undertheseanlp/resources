@@ -18,8 +18,6 @@ Bước 2: Kiểm tra Treebank
 python tools/validate.py --lang=vi VTB/vi_vtb-ud-train.conllu 
 ```
 
-
-
 Tham khảo
 
 * (1): https://universaldependencies.org/release_checklist.html
