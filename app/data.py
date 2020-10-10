@@ -49,11 +49,52 @@ class Corpus:
         print(f"Corpus is saved in file {file}")
 
 
-class CONLLCorpus:
+class CONLLFactory:
     @staticmethod
-    def load_from_file(conll_file):
-        corpus = Corpus()
+    def load_corpus_from_file(conll_file):
+        sents = open(conll_file).read().split("\n\n")[:-1]
+        corpus = CONLLCorpus(sents=sents)
         return corpus
+
+    @staticmethod
+    def load_sent(content):
+        return CONLLSentence(content)
+
+
+class CONLLSentenceFormatException(Exception):
+    pass
+
+
+class CONLLSentence:
+    def __init__(self, content):
+        lines = content.split("\n")
+        self.id = 1
+
+        if not lines[0].startswith("# sent_id ="):
+            message = "sent_id must be in first row\n"
+            message += content
+            raise CONLLSentenceFormatException(message)
+        if not lines[1].startswith("# text ="):
+            message = "sent_id must be in second row\n"
+            message += content
+            raise CONLLSentenceFormatException(message)
+        self.id = lines[0][12:]
+        self.text = lines[1][9:]
+        self.content = content
+
+
+class CONLLCorpus:
+    def __init__(self, sents):
+        self.sents = {}
+        for sent in sents:
+            conll_sent = CONLLFactory.load_sent(sent)
+            self.index(conll_sent)
+
+    def index(self, sent: CONLLSentence):
+        self.sents[sent.id] = sent
+
+    def search(self, value=None):
+        return self.sents["train-s1"]
 
 
 class Doc:

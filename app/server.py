@@ -1,6 +1,11 @@
-from flask import Flask
+from os.path import join, dirname
 
-app = Flask(__name__, static_url_path='/', static_folder='app')
+from flask import Flask
+from flask import jsonify
+from data import CONLLCorpus, CONLLFactory
+from corpus import corpus
+app = Flask(__name__, static_url_path='/', static_folder='.')
+
 
 
 @app.route('/')
@@ -11,6 +16,15 @@ def root():
 @app.route('/amr')
 def amr():
     return app.send_static_file('amr.html')
+
+
+@app.route('/search')
+def search():
+    print(CONLLCorpus)
+    sent = corpus.search().content
+    print("search")
+    output = {"sent": sent}
+    return jsonify(output)
 
 
 @app.route('/conll')

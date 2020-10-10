@@ -1,4 +1,4 @@
-from tools.data import Corpus
+from data import Corpus
 
 
 corpus = Corpus.load_from_folder("data/docs")
