@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>conllu.js</title>
+  <meta name="viewport" content="width=device-width">
+  <meta name="description" content="CoNLL-U format library for JavaScript">
+
+  <link rel="stylesheet" href="conll/css/jquery-ui-redmond.css">
+  <link rel="stylesheet" href="conll/css/main.css">
+  <link rel="stylesheet" href="conll/css/style-vis.css">
+  <script type="text/javascript" src="conll/lib/ext/head.load.min.js"></script>
+</head>
+
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="topnav" href="#">CONLLU Editor</a>
+  </div>
+</header>
+
+<div class="page-content">
+  <div class="wrap">
+    <div class="entry">
+      <div id="vis"></div>
+      <p> Input (editable):</p>
+      <textarea id="input" rows="10" cols="80" style="margin-top:0"></textarea>
+      <textarea id="parsed" style="display:none; margin: 0"></textarea>
+      </div>
+
+<!-- this div just initializes the pre-built visualization above. -->
+<div class="conllu-parse" data-visid="vis" data-inputid="input" data-parsedid="parsed" data-logid="log"/>
+1 edit edit VERB VERB _ 0 root _ _
+2 this this NOUN NOUN _ 1 dobj _ _
+3 this this NOUN NOUN _ 2 cc _ _
+4 this this NOUN NOUN _ 2 cc _ _
+5 this this NOUN NOUN _ 2 cc _ _
+6 this this NOUN NOUN _ 2 cc _ _
+7 this this NOUN NOUN _ 2 cc _ _
+8 this this NOUN NOUN _ 2 cc _ _
+</div>
+
+<p>Log and validator output:</p>
+<textarea id="log" rows="10" cols="80" style="margin-top:0" disabled="disabled"></textarea>
+<script type="text/javascript">
+  var root = ''; // filled in by jekyll
+  head.js(
+      // External libraries
+      root + 'conll/lib/ext/jquery.min.js',
+      root + 'conll/lib/ext/jquery.svg.min.js',
+      root + 'conll/lib/ext/jquery.svgdom.min.js',
+      root + 'conll/lib/ext/jquery-ui.min.js',
+      root + 'conll/lib/ext/waypoints.min.js',
+
+      // brat helper modules
+      root + 'conll/lib/brat/configuration.js',
+      root + 'conll/lib/brat/util.js',
+      root + 'conll/lib/brat/annotation_log.js',
+      root + 'conll/lib/ext/webfont.js',
+      // brat modules
+      root + 'conll/lib/brat/dispatcher.js',
+      root + 'conll/lib/brat/url_monitor.js',
+      root + 'conll/lib/brat/visualizer.js',
+
+      // annotation documentation support
+      'http://spyysalo.github.io/annodoc/lib/local/annodoc.js',
+      root + 'conll/lib/local/config.js',
+
+      // the conllu.js library itself
+      root + 'conll/lib/conllu.js'
+  );
+
+  var webFontURLs = null;
+
+  /* not used here */
+  var documentCollections = {};
+
+  head.ready(function() {
+// performes all embedding and support functions
+Annodoc.activate(Config.bratCollData, documentCollections);
+  });
+  </script>
+    </div>
+</div>
+</body>
+</html>
