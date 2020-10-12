@@ -63,9 +63,7 @@ class Sentence {
     console.log('this.dom', this.domId);
     $(this.domId).html(content)
     $(this.domId).trigger("keyup")
-    $(this.domId).html(content)
-    $(this.domId).trigger("keyup")
-    setTimeout(this.updateSentIdDom.bind(this), 500)
+    setTimeout(this.updateSentIdDom.bind(this), 100)
   }
 }
 
@@ -81,13 +79,11 @@ function search(queryString){
         content = sent["content"] + "\n"
         content = this.content.replace("sent_id =", "sentence-label")
         UI.createSentence(sent["id"], content)
-//        sentence = new Sentence(domId, sent["id"], content)
-//        sentence.show()
+        sentence = new Sentence(domId, sent["id"], content)
+        sentence.show()
     }
   })
 }
 
 
-search("CCONJ")
-search("CCONJ")
 search("CCONJ")
