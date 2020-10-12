@@ -72,6 +72,7 @@ class CONLLSentence:
     def __init__(self, content):
         lines = content.split("\n")
         self.id = 1
+        self.tokens = {}
 
         if not lines[0].startswith("# sent_id ="):
             message = "sent_id must be in first row\n"
@@ -83,21 +84,54 @@ class CONLLSentence:
             raise CONLLSentenceFormatException(message)
         self.id = lines[0][12:]
         self.text = lines[1][9:]
+        for row in lines[2:]:
+            token_id, form, lemma, upos, xpos, feats, head, deprel, deps, misc = row.split('\t')
+            self.tokens[token_id] = {
+                "id": token_id,
+                "form": form,
+                "lemma": lemma,
+                "upos": upos,
+                "xpos": xpos,
+                "feats": feats,
+                "head": head,
+                "deprel": deprel,
+                "deps": deps,
+                "misc": misc
+            }
         self.content = content
 
 
 class CONLLCorpus:
     def __init__(self, sents):
         self.sents = {}
+        self.upos = {}
         for sent in sents:
             conll_sent = CONLLFactory.load_sent(sent)
             self.index(conll_sent)
 
     def index(self, sent: CONLLSentence):
         self.sents[sent.id] = sent
+        for token_key in sent.tokens:
+            token = sent.tokens[token_key]
+            upos = token["upos"]
+            if upos not in self.upos:
+                self.upos[upos] = set()
+            self.upos[upos].add(sent.id)
 
     def search(self, value=None):
-        return list(self.sents.values())[:30]
+        if value == None:
+            output = list(self.sents.values())
+            output[:30]
+            return output[:30]
+        return self.search_pos(value)
+
+    def search_pos(self, value):
+        if value not in self.upos:
+            return None
+        ids = list(self.upos[value])
+        output = [self.sents[id] for id in ids]
+        output = output[:30]
+        return output
 
 
 class Doc:

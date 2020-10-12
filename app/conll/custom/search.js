@@ -1,15 +1,22 @@
 $("#search").click(function(){
-  search()
+  var queryString = $("#searchString").val()
+  search(queryString)
 })
 
-async function searchAPI(){
-  const response = await fetch("/search");
+async function searchAPI(queryString){
+  const response = await fetch("/search", {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({"query": queryString})
+  });
   return response.json()
 
 }
 
 class UI {
-    static createSent(domId, content){
+    static createSentence(domId, content){
         var dom = `
 <article class="entry-content" id="article-input-${domId}">
 <div id="vis-${domId}" tabs="yes" style="display:none"></div>
@@ -29,6 +36,10 @@ ${content}
 </article>
 `
         $(".articles").append(dom);
+    }
+
+    static removeSentences(){
+        $(".articles").html("")
     }
 }
 class Sentence {
@@ -50,30 +61,33 @@ class Sentence {
   show(){
     var content = this.content.replace("sent_id =", "sentence-label")
     console.log('this.dom', this.domId);
-    $(this.domId).val(content + "\n")
+    $(this.domId).html(content)
     $(this.domId).trigger("keyup")
-    $(this.domId).val(content)
+    $(this.domId).html(content)
     $(this.domId).trigger("keyup")
     setTimeout(this.updateSentIdDom.bind(this), 500)
   }
 }
 
-function search(){
-  searchAPI().then(function(data){
-    for(var i in data["sents"]){
-        console.log(i)
-        var sent = data["sents"][i]
+function search(queryString){
+  console.log("search")
+  UI.removeSentences()
+  searchAPI(queryString).then(function(data){
+    console.log('data:', data)
+    for(var sent of data["sents"]){
         console.log(sent)
-        domId = "input-" + (parseInt(i) + 1)
+        domId = "input-" + sent["id"]
         console.log("domId", domId)
         content = sent["content"] + "\n"
         content = this.content.replace("sent_id =", "sentence-label")
-        UI.createSent(sent["id"], content)
-        sentence = new Sentence(domId, sent["id"], content)
-        sentence.show()
+        UI.createSentence(sent["id"], content)
+//        sentence = new Sentence(domId, sent["id"], content)
+//        sentence.show()
     }
   })
 }
 
 
-search()
+search("CCONJ")
+search("CCONJ")
+search("CCONJ")
