@@ -23,7 +23,6 @@ def search():
     print(CONLLCorpus)
     output = corpus.search()
     output = [{"id": item.id, "content": item.content} for item in output]
-    print("search")
     output = {"sents": output}
     return jsonify(output)
 

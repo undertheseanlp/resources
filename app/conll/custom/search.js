@@ -28,7 +28,7 @@ ${content}
 </div>
 </article>
 `
-        $(".entry").append(dom);
+        $(".articles").append(dom);
     }
 }
 class Sentence {
@@ -49,8 +49,6 @@ class Sentence {
   }
   show(){
     var content = this.content.replace("sent_id =", "sentence-label")
-//    console.log(content)
-//    console.log(this.dom);
     console.log('this.dom', this.domId);
     $(this.domId).val(content + "\n")
     $(this.domId).trigger("keyup")
