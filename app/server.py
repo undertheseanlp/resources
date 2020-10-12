@@ -21,9 +21,10 @@ def amr():
 @app.route('/search')
 def search():
     print(CONLLCorpus)
-    sent = corpus.search().content
+    output = corpus.search()
+    output = [{"id": item.id, "content": item.content} for item in output]
     print("search")
-    output = {"sent": sent}
+    output = {"sents": output}
     return jsonify(output)
 
 

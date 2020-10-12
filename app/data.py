@@ -52,7 +52,9 @@ class Corpus:
 class CONLLFactory:
     @staticmethod
     def load_corpus_from_file(conll_file):
-        sents = open(conll_file).read().split("\n\n")[:-1]
+        with open(conll_file) as f:
+            content = f.read()
+        sents = content.split("\n\n")[:-1]
         corpus = CONLLCorpus(sents=sents)
         return corpus
 
@@ -94,7 +96,7 @@ class CONLLCorpus:
         self.sents[sent.id] = sent
 
     def search(self, value=None):
-        return self.sents["train-s1"]
+        return list(self.sents.values())[:30]
 
 
 class Doc:
