@@ -45,14 +45,15 @@ class Corpus:
 
     def save_conllu(self, file, **kwargs):
         content = "".join([doc.to_conllu(**kwargs) for id, doc in self.docs.items()])
-        open(file, "w").write(content)
+        with open(file, "w") as f:
+            f.write(content)
         print(f"Corpus is saved in file {file}")
 
 
 class CONLLFactory:
     @staticmethod
     def load_corpus_from_file(conll_file):
-        with open(conll_file) as f:
+        with open(conll_file, "r") as f:
             content = f.read()
         sents = content.split("\n\n")[:-1]
         corpus = CONLLCorpus(sents=sents)
@@ -106,7 +107,9 @@ class Doc:
 
     @staticmethod
     def load_from_file(doc_id=None, doc_file=None):
-        lines = open(doc_file).read().splitlines()
+        with open(doc_file, "r") as f:
+            content = f.read()
+        lines = content.splitlines()
         texts = [line for line in lines if not line.startswith("#")]
         ids = [f"{doc_id}-{str(i + 1)}" for i in range(len(texts))]
         sentences = {}
