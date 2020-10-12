@@ -14,6 +14,7 @@ class Sentence {
     this.articleDom = "#article-" + domId;
     this.sentIdDom = this.articleDom + " g.sentnum text"
     this.content = content;
+    this.sentId = content.split("\n")[0].substring(12)
   }
 
   hide(){
@@ -21,17 +22,14 @@ class Sentence {
   }
 
   updateSentIdDom(){
-    $(this.sentIdDom).html("abjaldjfa")
+    $(this.sentIdDom).html(this.sentId)
   }
   show(){
     var content = this.content.replace("sent_id =", "sentence-label")
     console.log(content)
     $(this.dom).val(content)
     $(this.dom).trigger("keyup")
-    setTimeout(this.updateSentIdDom, 5000)
-//    setTimeout(function(){
-//      $(this.sentIdDom).html("abjaldjfa")
-//    }, 1000)
+    setTimeout(this.updateSentIdDom.bind(this), 500)
   }
 }
 
@@ -44,10 +42,8 @@ function search(){
 
     sentence2 = new Sentence("input-2", content)
     sentence2.show()
-//    $("#input").val(content)
-//    $("#input").trigger("keyup");
   })
 }
 
-//setTimeout(search, 2000);
-//search()
+
+search()
