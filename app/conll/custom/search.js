@@ -20,6 +20,15 @@ class UI {
 
     }
 
+    static displaySentence(domId, content){
+        $("#input-train-s1384").html($("#input-train-s321").text())
+        $("#input-train-s1384").trigger("keyup")
+        setTimeout(function(){
+            $("#article-input-train-s1384 g.sentnum text").text("abc")
+        }, 10)
+
+    }
+
     static createSentence(domId, content){
         var dom = `
 <article class="entry-content" class="article" id="article-input-${domId}">
@@ -91,4 +100,10 @@ function search(queryString){
 }
 
 
+UI.init()
+
 search("CCONJ")
+
+setTimeout(function(){
+    UI.displaySentence("hihi", "haha")
+}, 2000)
