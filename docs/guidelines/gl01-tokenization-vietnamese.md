@@ -2,7 +2,8 @@
 
 ## Danh từ đơn vị, tách thành 2 token
 
-1km² -> 1 km², 1kg -> 1 kg
+* 1km² -> 1 km², 1kg -> 1 kg
+* thể tích `420ml` -> thể tích `420 ml` 
 
 ## Email, Url: Không tách
 
