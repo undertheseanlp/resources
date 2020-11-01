@@ -4,6 +4,7 @@
 
 * 1km² -> 1 km², 1kg -> 1 kg
 * thể tích `420ml` -> thể tích `420 ml` 
+* công trình đường dây `110kV` -> công trình đường dây `110 kV` 
 
 ## Email, Url: Không tách
 
