@@ -16,9 +16,22 @@ async function searchAPI(queryString){
 }
 
 class UI {
+    static init(n=10){
+
+    }
+
+    static displaySentence(domId, content){
+        $("#input-train-s1384").html($("#input-train-s321").text())
+        $("#input-train-s1384").trigger("keyup")
+        setTimeout(function(){
+            $("#article-input-train-s1384 g.sentnum text").text("abc")
+        }, 10)
+
+    }
+
     static createSentence(domId, content){
         var dom = `
-<article class="entry-content" id="article-input-${domId}">
+<article class="entry-content" class="article" id="article-input-${domId}">
 <div id="vis-${domId}" tabs="yes" style="display:none"></div>
 <textarea id="input-${domId}" rows="10" cols="80"
 style="margin-top:0; display:none"></textarea>
@@ -58,6 +71,7 @@ class Sentence {
   updateSentIdDom(){
     $(this.sentIdDom).html(this.sentId)
   }
+
   show(){
     var content = this.content.replace("sent_id =", "sentence-label")
     console.log('this.dom', this.domId);
@@ -86,4 +100,10 @@ function search(queryString){
 }
 
 
+UI.init()
+
 search("CCONJ")
+
+setTimeout(function(){
+    UI.displaySentence("hihi", "haha")
+}, 2000)
