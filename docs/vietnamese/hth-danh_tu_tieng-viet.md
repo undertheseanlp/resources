@@ -8,7 +8,7 @@ Ví dụ:
 * Danh từ chỉ khái niệm: đạo đức, người, kinh nghiệm, cách mạng,...
 * Danh từ chỉ đơn vị: ông, vị (giám đốc), cô (cô Tấm), cái, bức, tấm...; mét, lít, ki-lô-gam...; nắm mớ, đàn,... 
 
-Khi phân loại danh từ tiếng  Việt, trước hết, người ta phân chia thành hai loại: danh từ riêng và danh từ chung.
+Khi phân loại danh từ tiếng Việt, trước hết, người ta phân chia thành hai loại: danh từ riêng và danh từ chung.
 
 * Danh từ riêng : là tên riêng của một sự vật ( tên người, tên địa phương, tên địa danh,...)
 * Danh từ chung : là tên của một loại sự vật (dùng để gọi chung cho một loại sự vật). DT chung có thể chia thành 2 loại:
