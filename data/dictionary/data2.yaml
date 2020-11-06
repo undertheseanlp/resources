@@ -1,19 +1,19 @@
 a:
   - tag: noun
-    def: |-
+    definition: |-
       nông cụ gồm hai lưỡi cắt tra vào cán dài, để cắt cỏ hay gặt lúa
     example: |-
       rèn một lưỡi a bằng ba lưỡi hái
     source: tudientv.com
 động lực:
   - tag: noun
-    def: |-
+    definition: |-
       năng lượng làm cho máy móc chuyển động
     example: |-
       nguồn động lực
     source: tudientv.com
   - tag: noun
-    def: |-
+    definition: |-
       cái thúc đẩy, làm cho phát triển
     example: |-
       xuất khẩu tăng là một động lực chính để thúc đẩy phát triển kinh tế
