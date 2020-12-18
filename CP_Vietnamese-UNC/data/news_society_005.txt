@@ -1,4 +1,4 @@
-# doc_id = news_society_5
+# doc_id = news_society_005
 # url = https://dantri.com.vn/xa-hoi/nganh-tu-phap-don-nhan-huan-chuong-lao-dong-hang-nhat-20201101174653039.htm
 # date = 20201101
 Ngành tư pháp đón nhận Huân chương Lao động hạng Nhất

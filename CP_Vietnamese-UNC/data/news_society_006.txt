@@ -1,4 +1,4 @@
-# doc_id = news_society_6
+# doc_id = news_society_006
 # url = https://dantri.com.vn/xa-hoi/de-xuat-thuc-hien-phan-loai-du-an-theo-tieu-chi-ve-moi-truong-20201101165416418.htm
 # date = 20201101
 Đề xuất thực hiện phân loại dự án theo tiêu chí về môi trường

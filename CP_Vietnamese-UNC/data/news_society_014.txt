@@ -1,4 +1,4 @@
-# doc_id = news_society_14
+# doc_id = news_society_014
 # url = https://dantri.com.vn/xa-hoi/cac-tram-thu-phi-tren-quoc-lo-1-k-chinh-thuc-tam-dung-hoat-dong-20201101062517299.htm
 # date = 20201101
 Các trạm thu phí trên quốc lộ 1K chính thức tạm dừng hoạt động

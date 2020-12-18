@@ -1,4 +1,4 @@
-# doc_id = news_society_11
+# doc_id = news_society_011
 # url = https://dantri.com.vn/xa-hoi/sieu-bao-goni-giu-nguyen-cuong-do-tiep-tuc-huong-vao-bien-dong-20201101072531568.htm
 # date = 20201101
 Siêu bão Goni giữ nguyên cường độ, tiếp tục hướng vào Biển Đông

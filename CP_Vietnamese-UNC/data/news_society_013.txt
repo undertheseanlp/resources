@@ -1,4 +1,4 @@
-# doc_id = news_society_13
+# doc_id = news_society_013
 # url = https://dantri.com.vn/xa-hoi/toan-canh-vung-ron-lu-huyen-ngheo-thanh-chuong-nhin-tu-flycam-20201031224809550.htm
 # date = 20201101
 Toàn cảnh vùng rốn lũ huyện nghèo Thanh Chương nhìn từ Flycam

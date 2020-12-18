@@ -1,4 +1,4 @@
-# doc_id = news_society_1
+# doc_id = news_society_001
 # url = https://dantri.com.vn/xa-hoi/metro-so-1-tang-toc-dau-thang-10-don-tau-ve-viet-nam-20200918111305799.htm
 # date = 20200918
 Tuyến metro số 1 đang "tăng tốc" với việc các chuyên gia nước ngoài được cho phép vào Việt Nam để làm việc tại đây.

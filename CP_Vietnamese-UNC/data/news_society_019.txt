@@ -1,4 +1,4 @@
-# doc_id = news_society_19
+# doc_id = news_society_019
 # url = https://dantri.com.vn/xa-hoi/bac-si-nguyen-trung-cap-duoc-tang-danh-hieu-cong-dan-thu-do-uu-tu-20201001171141792.htm
 # date = 20201001
 Bác sĩ Nguyễn Trung Cấp được tặng danh hiệu “Công dân Thủ đô ưu tú”
