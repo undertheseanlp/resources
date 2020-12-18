@@ -1,20 +1,20 @@
-# Tài nguyên tiếng Việt mở 
+# Open Vietnamese Resources
 
-Cùng khám phá tiếng Việt 🇻🇳🇻🇳🇻🇳🇻🇳
+Let's make open Vietnamese Resources together 🇻🇳
 
 # Guidelines
 
 * Nguyên tắc cơ bản
-  * [Bài toán tokenize và bài toán tách từ](docs/guidelines/gl01-tokeniation_and_word_segmentation.md)
-* Tài liệu về tags, features và relations
+  * [Tokenize and Word Segmenation](docs/guidelines/gl01-tokeniation_and_word_segmentation.md)
+* POS Tags
   * [POS tags](docs/guidelines/pos_tag.md)
  
-## Ngôn ngữ học 
+## Linguistics
 
 * [Giới thiệu](docs/linguistics/gioi_thieu.md)
 * [Đặc điểm ngôn ngữ](docs/linguistics/gioi_thieu-dac_diem_ngon_ngu.md)
 
-## Tiếng Việt
+## Vietnamese Linguistics
 
 Hình thái học
 
