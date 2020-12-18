@@ -1,4 +1,4 @@
-# doc_id = news_society_10
+# doc_id = news_society_010
 # url = https://dantri.com.vn/xa-hoi/sat-lo-tra-leng-khong-khoc-noi-ben-nam-mo-cua-bo-me-20201101081210883.htm
 # date = 20201101
 Sạt lở Trà Leng: “Không khóc nổi” bên nấm mồ của bố mẹ

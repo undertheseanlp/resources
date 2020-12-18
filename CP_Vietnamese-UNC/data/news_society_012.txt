@@ -1,4 +1,4 @@
-# doc_id = news_society_12
+# doc_id = news_society_012
 # url = https://dantri.com.vn/xa-hoi/trang-dem-cau-mong-phep-mau-den-voi-nguoi-than-20201101070745248.htm
 # date = 20201101
 Trắng đêm cầu mong “phép màu” đến với người thân

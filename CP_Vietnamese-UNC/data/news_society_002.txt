@@ -1,4 +1,4 @@
-# doc_id = news_society_2
+# doc_id = news_society_002
 # url = https://dantri.com.vn/xa-hoi/ha-noi-thanh-nien-20-tuoi-dot-tu-trong-quan-game-20201218141249485.htm
 # date = 20201218
 Hà Nội: Thanh niên 20 tuổi đột tử trong quán game

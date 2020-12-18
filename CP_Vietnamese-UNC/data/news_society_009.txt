@@ -1,4 +1,4 @@
-# doc_id = news_society_9
+# doc_id = news_society_009
 # url = https://dantri.com.vn/xa-hoi/hoa-thuong-thich-thien-chieu-duoc-phuc-chuc-tru-tri-chua-ky-quang-2-20201101070214559.htm
 # date = 20201101
 Hòa thượng Thích Thiện Chiếu được phục chức trụ trì chùa Kỳ Quang 2

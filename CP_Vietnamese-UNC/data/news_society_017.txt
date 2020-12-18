@@ -1,4 +1,4 @@
-# doc_id = news_society_17
+# doc_id = news_society_017
 # url = https://dantri.com.vn/xa-hoi/cong-an-trieu-tap-co-gai-tre-bo-bom-150-mam-co-cuoi-20201001182325293.htm
 # date = 20201001
 Công an triệu tập cô gái trẻ “bỏ bom” 150 mâm cỗ cưới

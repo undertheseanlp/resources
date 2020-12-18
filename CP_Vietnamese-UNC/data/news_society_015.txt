@@ -1,4 +1,4 @@
-# doc_id = news_society_15
+# doc_id = news_society_015
 # url = https://dantri.com.vn/xa-hoi/phun-nuoc-duoc-tinh-che-tu-nham-thach-nui-lua-de-khu-mui-o-bai-rac-nam-son-20201031220336349.htm
 # date = 20201101
 Phun nước được tinh chế từ nham thạch núi lửa để khử mùi ở bãi rác Nam Sơn

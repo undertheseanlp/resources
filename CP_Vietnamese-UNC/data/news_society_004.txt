@@ -1,4 +1,4 @@
-# doc_id = news_society_4
+# doc_id = news_society_004
 # url = https://dantri.com.vn/xa-hoi/khi-ve-den-nha-thi-tat-ca-da-bi-nuoc-lu-cuon-troi-20201101180027399.htm
 # date = 20201101
 "Khi về đến nhà thì tất cả đã bị nước lũ cuốn trôi"

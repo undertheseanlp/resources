@@ -1,4 +1,4 @@
-# doc_id = news_society_18
+# doc_id = news_society_018
 # url = https://dantri.com.vn/xa-hoi/tphcm-se-co-19-quan-259-phuong-khong-to-chuc-hdnd-20201001163301244.htm
 # date = 20201001
 TPHCM sẽ có 19 quận, 259 phường không tổ chức HĐND

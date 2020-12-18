@@ -16,7 +16,7 @@ def warn(file, line_number, message, type=None):
 total_sentences = 0
 MIN_SENTENCES_PER_TOPICS = 300
 MIN_SENTENCES_PER_FILE = 3
-topics = ["society", "sport", "health", "economy", "tech", "education", "laws"]
+topics = ["society", "world", "business", "tech", "entertainment", "sport", "health", "science", "education", "travel"]
 topics_sentences = {}
 for topic in topics:
     topics_sentences[topic] = 0
@@ -65,7 +65,6 @@ def validate():
         validate_file(file)
 
     for topic in topics:
-
         n_sentences = topics_sentences[topic]
         if n_sentences < MIN_SENTENCES_PER_TOPICS:
             message = f'[CORPUS_INCOMPLETE] Topic "{topic}" should has at least {MIN_SENTENCES_PER_TOPICS} sentences (found {n_sentences})'

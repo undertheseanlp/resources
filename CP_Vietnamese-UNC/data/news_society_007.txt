@@ -1,4 +1,4 @@
-# doc_id = news_society_7
+# doc_id = news_society_007
 # url = https://dantri.com.vn/xa-hoi/hien-truong-vu-chay-kinh-hoang-tai-cong-ty-san-xuat-ghe-sofa-o-binh-duong-20201101153158505.htm
 # date = 20201101
 Hiện trường vụ cháy kinh hoàng tại công ty sản xuất ghế sofa ở Bình Dương

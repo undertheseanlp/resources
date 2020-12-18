@@ -1,4 +1,4 @@
-# doc_id = news_society_20
+# doc_id = news_society_020
 # url = https://dantri.com.vn/xa-hoi/nguoi-viet-co-the-di-du-lich-singapore-tu-810-20201001163601390.htm
 # date = 20201001
 Người Việt có thể đi du lịch Singapore từ 8/10

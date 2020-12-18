@@ -1,4 +1,4 @@
-# doc_id = news_society_16
+# doc_id = news_society_016
 # url = https://dantri.com.vn/xa-hoi/vi-sao-nhom-hanh-khach-thuoc-dien-cach-ly-covid-19-gay-nao-loan-san-bay-20201001192804112.htm
 # date = 20201001
 Vì sao nhóm hành khách thuộc diện cách ly Covid-19 gây “náo loạn” sân bay?

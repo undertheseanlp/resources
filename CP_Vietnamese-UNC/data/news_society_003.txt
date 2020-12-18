@@ -1,4 +1,4 @@
-# doc_id = news_society_3
+# doc_id = news_society_003
 # url = https://dantri.com.vn/xa-hoi/xuat-hien-mot-vung-ap-thap-sap-vao-bien-dong-20201218112821604.htm
 # date = 20201218
 Xuất hiện một vùng áp thấp sắp vào Biển Đông

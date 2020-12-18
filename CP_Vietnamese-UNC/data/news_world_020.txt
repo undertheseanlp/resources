@@ -1,0 +1,3 @@
+# doc_id = news_world_020
+# url =
+# date = 20201001

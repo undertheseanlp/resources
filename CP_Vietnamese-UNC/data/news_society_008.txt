@@ -1,4 +1,4 @@
-# doc_id = news_society_8
+# doc_id = news_society_008
 # url = https://dantri.com.vn/xa-hoi/1-11-2020.htm
 # date = 20201101
 Một hộ dân tự ý cắt đứt đường dây truyền tải điện 22KV.
