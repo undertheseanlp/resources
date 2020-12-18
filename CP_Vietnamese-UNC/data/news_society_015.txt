@@ -1,0 +1,27 @@
+# doc_id = news_society_15
+# url = https://dantri.com.vn/xa-hoi/phun-nuoc-duoc-tinh-che-tu-nham-thach-nui-lua-de-khu-mui-o-bai-rac-nam-son-20201031220336349.htm
+# date = 20201101
+Phun nước được tinh chế từ nham thạch núi lửa để khử mùi ở bãi rác Nam Sơn
+Đơn vị đề xuất sẽ phun rải nước nano cùng vật liệu bio (được tinh chế từ nham thạch đá núi lửa Nhật Bản, không phải hóa chất nên không tan, không bị tiêu hao) để xử lý mùi ở bãi rác Nam Sơn (Hà Nội).
+Như Dân trí đã đưa tin, mới đây, Công ty Cổ phần Tập đoàn Môi trường Nhật Việt JVE (JVE) - đơn vị đã từng thí điểm làm sạch sông Tô Lịch đã gửi công văn tới UBND TP để đề xuất tài trợ miễn phí thí điểm xử lý mùi của bãi rác Nam Sơn (Sóc Sơn, Hà Nội) bằng công nghệ Nhật Bản, nhằm giúp những người dân sinh sống trong vùng ảnh hưởng của bãi rác nói riêng và giúp cho Thủ đô Hà Nội nói chung giải quyết được vấn đề ô nhiễm môi trường.
+Xử lý triệt để mùi hôi thối tại các ô nước rỉ rác
+Theo đó, JVE sẽ áp dụng công nghệ sục khí Nano của Nhật Bản (công suất của loại máy nano dự kiến sử dụng lớn gấp 5 lần công suất của máy nano đã lắp đặt thí điểm tại sông Tô Lịch) lắp đặt trực tiếp vào các ô chứa nước rỉ rác, hồ sinh học với số lượng hợp lý để đưa lượng lớn các bọt khí siêu nhỏ kích thước micro và nano "lặn" xuống để phân hủy tận gốc các khí gây ra mùi hôi thối như khí Hydro Sunfua H2S (mùi trứng thối), khí Amoniac NH3 (mùi khai), CH4,...trong các ô nước rỉ rác.
+Chuyên gia kỹ thuật của JVE cho biết, không phải cứ sục khí đưa oxy vào bằng máy sục khí thông thường là khử được mùi hôi thối.
+Mấu chốt nằm ở chỗ khi đưa oxy vào nhưng oxy đó phải tồn tại lâu được trong nước và dưới tầng đáy thì mới phân hủy được các khí gây ra mùi ở trên.
+Vị chuyên gia trên phân tích tiếp, tạo ra bọt khí to (đường kính từ 1~2mm) chỉ tồn tại khoảng 5 giây là nổi lên mặt nước và vỡ ra.
+Do vậy, bọt khí oxy thông thường không tồn tại được lâu trong nước và ở dưới đáy được nên không gặp và không phản ứng được với các khí gây ra mùi thôi hối trong nước rỉ rác.
+Do vậy, nếu sử dụng máy sục khí thông thường thì càng sục càng bốc mùi hôi thối vì các khí độc chưa bị phân hủy và và bay lên.
+Còn áp dụng việc sục khí nano sẽ tạo ra đồng thời 2 loại bọt khí siêu nhỏ kích thước micro (đường kính <50μm) bọt khí nano (đường kính <50nm) của Nhật Bản sẽ “lặn” vào trong nước và xuống tầng đáy.
+Thời gian “lặn” 1 lần của bọt khí nano khi sục khí tối thiểu là 8 tiếng, tức thời gian “lặn” vào trong nước và xuống tầng đáy dài hơn bọt khí thông thường là 5.760 lần.
+Do vậy hiệu quả mùi hôi thối được xử lý rất nhanh trong thời gian ngắn bởi khi “lặn” và tồn tại lâu trong nước và tầng đáy thì nó gặp và phân hủy tức thì các khí độc như H2S (mùi trứng thối), NH3 (mùi khai), CH4, do vậy hiệu quả xử lý mùi rất nhanh và càng sục nano càng hết mùi hôi thối.
+Nguyên lý khả năng phân hủy chất hữu cơ của công nghệ sục khí nano
+Vị chuyên gia trên giải thích sao công nghệ sục khí nano lại tạo ra sóng siêu âm và tạo gốc oxy hóa cực mạnh OH-?
+Theo đó, bong bóng siêu nhỏ được tạo ra từ máy sục khí công nghệ nano của Nhật Bản trong nước sẽ xuất hiện sóng xung kích (bong bóng âm thanh) được gọi là sóng siêu âm. Những lỗ rỗng này trở thành bong bóng chứa đầy hơi nước hoặc khí.
+Các bong bóng phình ra trong giai đoạn giãn nở và co lại trong giai đoạn nén, cho đến khi chúng bị nổ tung.
+"Hiện tượng này được gọi là khí xâm thực, một quá trình diễn ra trong điều kiện đặc biệt (quá trình đoạn nhiệt).
+Ở quy mô vi mô, với áp suất là 500 bar và nhiệt độ 5.000°C xảy ra hiện tượng này", vị chuyên gia giải thích.
+Công nghệ nano của Nhật Bản với nguyên lý tạo ra sóng siêu âm, bắn phá điện li phân tử nước tạo ra các gốc hydroxyl (•OH).
+Điện thế oxy hóa khử (Redox Potential) của gốc tự do OH* hay •OH là mạnh hơn cả Ozone (O3) và Hydrogen Peroxide (H2O2) lần lượt tương ứng là 2,8V, 2,07V và 1,78V.
+Vì điện thế oxy hóa khử (Redox Potential) của gốc tự do hydroxyl (OH* hay •OH ) cao nhất bằng 2,8V, chỉ kém F (=3,01V) nên gốc tự do hydroxyl phá hủy hầu như mọi vật chất mà nó gặp, từ chất hữu cơ dễ bị phân hủy sinh học cho đến cả các chất hữu cơ khó bị phân hủy sinh học bằng cách phá hủy thành tế bào, sau đó vi sinh vật được kích hoạt và "ăn" chất ô nhiễm hữu cơ, diệt vi khuẩn...
+Như vậy, gốc tự do hydroxyl mạnh về cường độ tương tác, tức ái lực tương tác cao nhất trong các loại chất oxy hóa mà người ta thường dùng để xử lý ô nhiễm môi trường hay tiêu diệt vi khuẩn...
+Đối với việc xử lý giảm mùi hôi thối tại khu các ô chôn lấp, vị chuyên gia cho biết, đơn vị sẽ áp dụng tổng hợp việc phun rải nước nano cùng vật liệu bio (được tinh chế từ nham thạch đá núi lửa Nhật Bản, không phải hóa chất nên không tan và không bị tiêu hao) lên khu bãi chôn lấp để phân hủy các chất hữu cơ, khí độc gây ra mùi hôi thối, hiệu quả lâu dài, bền vững và thân thiện với môi trường do không phải sử dụng hóa chất.
