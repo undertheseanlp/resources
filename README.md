@@ -1,3 +1,9 @@
+<p align="center">
+<br/>
+<img src="docs/images/underthesea_resources.png"/>
+<br/>
+</p>
+
 # Tài nguyên tiếng Việt mở 
 
 Cùng khám phá tiếng Việt 🇻🇳🇻🇳🇻🇳🇻🇳
