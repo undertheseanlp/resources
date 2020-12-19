@@ -34,21 +34,21 @@ def validate():
             lines = open(file).read().splitlines()
             lines = [(i + 1, line) for i, line in enumerate(lines)]
             if not lines[0][1].startswith("# doc_id = "):
-                warn(file, 1, "File should has valid doc_id")
+                warn(file, 1, "File should has valid doc_id", "E101")
             file_topic = None
             for topic in topics:
                 if topic in lines[0][1]:
                     file_topic = topic
             if file_topic is None:
-                warn(file, 0, "File should has valid topic")
+                warn(file, 0, "File should has valid topic", "E104")
             if not lines[1][1].startswith("# url = "):
-                warn(file, 1, "File should has valid url")
+                warn(file, 1, "File should has valid url", "E102")
             if not lines[2][1].startswith("# date = "):
-                warn(file, 2, "File should has valid date")
+                warn(file, 2, "File should has valid date", "E103")
             # file shouldn't contains space
             sentences = lines[4:]
             if len(sentences) < MIN_SENTENCES_PER_FILE:
-                warn(file, 4, f"File should has more than {MIN_SENTENCES_PER_FILE}", "FILE_ERROR")
+                warn(file, 4, f"File should has more than {MIN_SENTENCES_PER_FILE} sentences", "E105")
                 return
             for line_number, sentence in sentences:
                 if sentence == "":
