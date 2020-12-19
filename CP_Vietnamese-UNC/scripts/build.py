@@ -6,11 +6,13 @@ DATA_FOLDER = join(os.path.dirname(SCRIPTS_FOLDER), "data")
 
 
 def warn(file, line_number, message, type=None):
+    global total_erros
     text = ""
     if type:
         text = f"[{type}] "
     text += basename(file) + ":" + str(line_number)
     print(text, message)
+    total_erros += 1
 
 
 total_sentences = 0
@@ -20,6 +22,7 @@ topics = ["society", "world", "business", "tech", "entertainment", "sport", "hea
 topics_sentences = {}
 for topic in topics:
     topics_sentences[topic] = 0
+total_erros = 0
 
 
 def validate():
@@ -72,8 +75,12 @@ def validate():
 
 
 def build():
+    global total_erros
     validate()
+    if total_erros > 0:
+        print(f"\n[x] BUILD ERRORS: {total_erros} errors")
+    else:
+        print(f"\n[+] BUILD SUCCESS")
 
 
 build()
-print("[+] Build: DONE")
