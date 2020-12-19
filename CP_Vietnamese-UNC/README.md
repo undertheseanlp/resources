@@ -1,3 +1,3 @@
 # CP_Vietnamese-UNC
 
-Corpus Vietnamese - Underthesea News Corpus
+`Corpus` | `Vietnamese` | `Underthesea News Corpus`
