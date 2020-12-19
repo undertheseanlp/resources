@@ -24,7 +24,7 @@ Open Vietnamese Natural Language Processing Resources
 
 ## List Datasets
 
-[SE_Vietnamese-UBS](SE_Vietnamese-UBS) 🐟
+🐟 [SE_Vietnamese-UBS](SE_Vietnamese-UBS) 
 
 Bank Sentiment Dataset
 
