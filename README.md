@@ -4,6 +4,12 @@
 <br/>
 </p>
 
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-GPLv3-blue"/>
+  </a>
+</p>
+
 # Tài nguyên tiếng Việt mở 
 
 Cùng khám phá tiếng Việt 🇻🇳🇻🇳🇻🇳🇻🇳
