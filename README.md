@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="center">
-Open Vietnamese Resources
+Open Vietnamese Natural Languague Processing Resources
 </h3>
 
 ## List Datasets
