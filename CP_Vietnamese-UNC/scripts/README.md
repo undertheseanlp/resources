@@ -30,16 +30,27 @@
 <td>File should has more than N sentences</td>
 </tr>
 <tr>
+<td>E106</td>
+<td>doc_id must be same with file name</td>
+</tr>
+<tr>
+
+<tr>
 <td>&nbsp</td>
 <td>&nbsp;</td>
 </tr>
+
 <tr>
 <td><b>E2xx</b></td>
 <td><i>Corpus Error</i></td>
 </tr>
 <tr>
 <td>E201</td>
-<td>Topic X should has at least N sentences</td>
+<td>Topic X should has at least N sentences (found M sentences)</td>
+</tr>
+<tr>
+<td>E202</td>
+<td>Corpus should has at least N sentences (found M sentences)</td>
 </tr>
 <tr>
 <td>&nbsp</td>

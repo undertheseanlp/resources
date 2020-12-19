@@ -18,6 +18,7 @@ def warn(file, line_number, message, type=None):
 total_sentences = 0
 MIN_SENTENCES_PER_TOPICS = 300
 MIN_SENTENCES_PER_FILE = 3
+MIN_SENTENCES_IN_CORPUS = 3000
 topics = ["society", "world", "business", "tech", "entertainment", "sport", "health", "science", "education", "travel"]
 topics_sentences = {}
 for topic in topics:
@@ -38,6 +39,9 @@ def validate():
             lines = [(i + 1, line) for i, line in enumerate(lines)]
             if not lines[0][1].startswith("# doc_id = "):
                 warn(file, 1, "File should has valid doc_id", "E101")
+            doc_id = lines[0][1][11:]
+            if doc_id != basename(file)[:-4]:
+                warn(file, 1, "doc_id must be same with file name", "E101")
             file_topic = None
             for topic in topics:
                 if topic in lines[0][1]:
@@ -75,6 +79,10 @@ def validate():
         if n_sentences < MIN_SENTENCES_PER_TOPICS:
             message = f'Topic "{topic}" should has at least {MIN_SENTENCES_PER_TOPICS} sentences (found {n_sentences})'
             warn('CORPUS', '', message, 'E201')
+
+    if total_sentences < MIN_SENTENCES_IN_CORPUS:
+        message = f'Corpus should has at least {MIN_SENTENCES_IN_CORPUS} sentences (found {total_sentences})'
+        warn('CORPUS', '', message, 'E202')
 
 
 def stats():
