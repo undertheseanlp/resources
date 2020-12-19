@@ -55,8 +55,11 @@ def validate():
                 return
             for line_number, sentence in sentences:
                 if sentence == "":
-                    warn(file, line_number, "Sentence should not be blank")
-                    return
+                    warn(file, line_number, "Sentence should not be blank", "E301")
+                    continue
+                if sentence.strip() != sentence:
+                    warn(file, line_number, "Sentence should be striped", "E302")
+                    continue
             topics_sentences[file_topic] += len(sentences)
             total_sentences += len(sentences)
         except Exception as e:

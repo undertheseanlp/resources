@@ -30,15 +30,31 @@
 <td>File should has more than N sentences</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
+<td>&nbsp</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
 <td><b>E2xx</b></td>
-<td><i>Corpus Errors</i></td>
+<td><i>Corpus Error</i></td>
 </tr>
 <tr>
 <td>E201</td>
 <td>Topic X should has at least N sentences</td>
+</tr>
+<tr>
+<td>&nbsp</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><b>E3xx</b></td>
+<td><i>Sentence Error</i></td>
+</tr>
+<tr>
+<td>E301</td>
+<td>Sentence should not be blank</td>
+</tr>
+<tr>
+<td>E301</td>
+<td>Sentence should be striped</td>
 </tr>
 </table>
