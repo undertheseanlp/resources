@@ -28,5 +28,5 @@ Open Vietnamese Natural Language Processing Resources
 
 Bank Sentiment Dataset
 
-`sentiment` `2017`
+`task:sentiment` `domain:bank` `year:2017`
 
