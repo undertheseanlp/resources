@@ -17,8 +17,10 @@
 </p>
 
 <h3 align="center">
-Open Vietnamese Natural Languague Processing Resources
+Open Vietnamese Natural Language Processing Resources
 </h3>
+
+`🌊Resources` provides open resources for Vietnamese Natural Language Processing
 
 ## List Datasets
 
