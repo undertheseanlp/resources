@@ -74,6 +74,14 @@ def validate():
             warn('CORPUS', '', message, 'E201')
 
 
+def stats():
+    print("\n# CORPUS STATISTICS")
+    global topics
+    global total_sentences
+    print("Number of topics    :", len(topics))
+    print("Number of sentences :", total_sentences)
+
+
 def build():
     global total_erros
     validate()
@@ -81,6 +89,7 @@ def build():
         print(f"\n[x] BUILD ERRORS: {total_erros} errors")
     else:
         print(f"\n[+] BUILD SUCCESS")
+    stats()
 
 
 build()
