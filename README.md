@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/release-v1.0.0-blue"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/datasets-2-brightgreen"/>
+    <img src="https://img.shields.io/badge/datasets-1-brightgreen"/>
   </a>
 </p>
 
@@ -24,5 +24,9 @@ Open Vietnamese Natural Language Processing Resources
 
 ## List Datasets
 
+🐟 [SE_Vietnamese-UBS](SE_Vietnamese-UBS) 
 
+Bank Sentiment Dataset
+
+`task:sentiment` `domain:bank` `year:2017` `version:1.0.0`
 
