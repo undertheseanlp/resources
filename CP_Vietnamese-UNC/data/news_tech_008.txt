@@ -1,0 +1,13 @@
+# doc_id = news_tech_008
+# url = https://dantri.com.vn/suc-manh-so/mobi-fone-se-co-quay-dich-vu-trong-cac-showroom-cua-fpt-shop-20201002130322502.htm
+# date = 20201002
+MobiFone sẽ có quầy dịch vụ trong các showroom của FPT Shop
+MobiFone và FPT vừa đạt được thỏa thuận hợp tác chiến lược trong 3 lĩnh vực gồm: Viễn thông, Công nghệ thông tin (CNTT) và Thương mại bán lẻ.
+Lễ ký kết diễn ra sáng 2/10 tại Hà Nội. Ông Tô Mạnh Cường – Tổng giám đốc công ty Viễn thông MobiFone cho biết: "Đều là các doanh nghiệp tham gia Liên minh Chuyển đổi số quốc gia, MobiFone kỳ vọng hợp tác với FPT sẽ góp phần thúc đẩy mạnh mẽ xu hướng chuyển đổi số, vì sự phát triển xã hội số, kinh tế số, quốc gia số".
+Ông Nguyễn Văn Khoa, Tổng Giám đốc FPT cũng cho biết: "FPT tin tưởng việc hợp tác chặt chẽ với MobiFone sẽ phát huy tốt nhất thế mạnh của các bên".
+Theo kế hoạch, trong lĩnh vực CNTT, hai bên dự kiến sẽ hợp tác xây dựng các giải pháp, phần mềm dành cho các tổ chức, doanh nghiệp và cá nhân; Hợp tác phát triển các sản phẩm dịch vụ, dựa trên các giải pháp sẵn có của hai bên.
+Một số dự án tiềm năng, có tính ứng dụng cao được nhắc đến như kiểm tra gian lận tài chính, phân tích dữ liệu khách hàng và hệ thống chấm điểm tín dụng để phục vụ khách hàng hoạt động trong lĩnh vực ngân hàng tài chính.
+Bên cạnh đó, FPT cũng sẽ trở thành đối tác cung cấp các công cụ, giải pháp chuyển đổi số, giúp MobiFone tối ưu các hoạt động trong khâu vận hành, quản lý, chăm sóc khách hàng,...
+Trong lĩnh vực viễn thông, MobiFone và FPT sẽ tìm hiểu cơ hội hợp tác, đầu tư tuyến cáp quang biển trong tương lai; cũng như phát triển các dịch vụ Data Center, Điện toán đám mây, VAS,...
+Trong lĩnh vực thương mại bán lẻ, MobiFone sẽ xây dựng khu dịch vụ toàn diện tại các chuỗi bán lẻ của FPT Shop, từ đó đưa sản phẩm dịch vụ đến gần hơn với khách hàng toàn quốc.
+Trước đó, vào trung tuần tháng 5/2020, MobiFone cũng đã lựa chọn FPT là đối tác triển khai hai dự án quan trọng trong chiến lược chuyển đổi số, đó là dự án “Nâng cấp hệ thống tính cước và quản lý khách hàng” cũng như dự án “Nâng cấp hệ thống đối soát cước tập trung”.
