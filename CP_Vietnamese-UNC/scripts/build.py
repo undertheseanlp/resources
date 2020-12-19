@@ -60,15 +60,15 @@ def validate():
             warn(file, 0, e)
 
     files = os.listdir(DATA_FOLDER)
-    files = [join(DATA_FOLDER, file) for file in files]
+    files = sorted([join(DATA_FOLDER, file) for file in files])
     for file in files:
         validate_file(file)
 
     for topic in topics:
         n_sentences = topics_sentences[topic]
         if n_sentences < MIN_SENTENCES_PER_TOPICS:
-            message = f'[CORPUS_INCOMPLETE] Topic "{topic}" should has at least {MIN_SENTENCES_PER_TOPICS} sentences (found {n_sentences})'
-            print(message)
+            message = f'Topic "{topic}" should has at least {MIN_SENTENCES_PER_TOPICS} sentences (found {n_sentences})'
+            warn('CORPUS', '', message, 'E201')
 
 
 def build():
