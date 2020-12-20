@@ -22,8 +22,10 @@ def warn(file, line_number, message, type=None):
 
 MIN_WORDS_IN_DICT = 3000
 
+dictionary_file = join(DATA_FOLDER, "underthesea_dictionary.yaml")
+# dictionary_file = join(DATA_FOLDER, "data.yaml")
 # validate
-with open(join(DATA_FOLDER, "data.yaml")) as f:
+with open(dictionary_file) as f:
     data = yaml.safe_load(f)
     num_words = len(data)
     if num_words < MIN_WORDS_IN_DICT:

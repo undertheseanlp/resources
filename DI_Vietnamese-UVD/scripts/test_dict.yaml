@@ -1,13 +1,8 @@
-a:
-- tag: noun
-  defs:
-  - def: aflafjs
-    examples:
-    - 'abc
-
-
-      '
-    - def
-    - ghi
+a: ''
 b:
-- tag: noun
+- tag: Noun
+  defs:
+  - def: abcdf
+    examples:
+    - '1'
+    - '2'

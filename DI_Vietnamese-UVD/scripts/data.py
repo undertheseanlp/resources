@@ -24,29 +24,19 @@ class Dictionary:
         print("hihi")
 
     def to_dict(self):
-        data = {
-            'a': [
-                {
-                    'tag': 'noun',
-                    'defs': [
-                        {
-                            'def': 'aflafjs',
-                            'examples': [
-                                'abc\n\n',
-                                'def',
-                                'ghi'
-                            ]
-                        }
-                    ]
-                }
-            ],
-            'b': [
-                {'tag': 'noun'}
-            ]
-        }
+        data = {}
+        for text in self.words:
+            word = self.words[text]
+            if word.data is None:
+                content = ''
+            elif len(word.data) == 0:
+                content = ''
+            else:
+                content = word.data
+            data[text] = content
         return data
 
     def save(self, file):
         data = self.to_dict()
         with open(file, 'w') as f:
-            yaml.dump(data, f, sort_keys=False)
+            yaml.dump(data, f, sort_keys=False, allow_unicode=True)
