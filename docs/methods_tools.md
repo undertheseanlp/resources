@@ -20,8 +20,6 @@ SQLiteStudio
 
 **Stanza**: là công cụ xử lý ngôn ngữ tự nhiên của nhóm Standford NLP.
 
-
-
 ## Các công cụ không sử dụng
 
 SQLitebrowser (1)
