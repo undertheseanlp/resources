@@ -5,7 +5,7 @@ import jinja2
 from os.path import join, dirname
 import subprocess
 
-from archive.vietnamese.task import check_is_in_correct_directory
+from docs.archive.vietnamese.task import check_is_in_correct_directory
 
 
 @click.group()
