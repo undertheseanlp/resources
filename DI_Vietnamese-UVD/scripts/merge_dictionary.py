@@ -9,7 +9,7 @@ dirs = [d for d in listdir(DICTIONARIES_FOLDER) if os.path.isdir(join(DICTIONARI
 dictionaries = []
 for dir in dirs:
     print(f"Merge {dir} ...")
-    path = join("dictionaries", dir)
+    path = join("../data/dictionaries", dir)
     dictionary = Dictionary()
     dictionary.load(path)
     dictionaries.append(dictionary)
