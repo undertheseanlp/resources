@@ -28,7 +28,7 @@ Open Vietnamese Natural Language Processing Resources
 
 Underthesea News Corpus
 
-`task:raw-text` `domain:news` `year:2020` `version:1.0.0`
+`task:text-corpus` `domain:news` `year:2020` `version:1.0.0`
 
 🐟 [SE_Vietnamese-UBS](SE_Vietnamese-UBS) 
 
