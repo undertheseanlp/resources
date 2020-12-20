@@ -20,7 +20,7 @@
 Open Vietnamese Natural Language Processing Resources
 </h3>
 
-`🌊Resources` provides open resources for Vietnamese Natural Language Processing
+`🌊Resources` provides open guidelines, datasets and tools for Vietnamese Natural Language Processing
 
 ## List Datasets
 
