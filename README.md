@@ -1,35 +1,38 @@
-# Open Vietnamese Resources
+<p align="center">
+<br/>
+<img src="docs/images/underthesea_resources.png"/>
+<br/>
+</p>
 
-Let's make open Vietnamese Resources together 🇻🇳
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-GPLv3-blue"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/release-v1.0.0-blue"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/datasets-2-brightgreen"/>
+  </a>
+</p>
 
-# Guidelines
+<h3 align="center">
+Open Vietnamese Natural Language Processing Resources
+</h3>
 
-* Nguyên tắc cơ bản
-  * [Tokenize and Word Segmenation](docs/guidelines/gl01-tokeniation_and_word_segmentation.md)
-* POS Tags
-  * [POS tags](docs/guidelines/pos_tag.md)
- 
-## Linguistics
+`🌊Resources` provides open resources for Vietnamese Natural Language Processing
 
-* [Giới thiệu](docs/linguistics/gioi_thieu.md)
-* [Đặc điểm ngôn ngữ](docs/linguistics/gioi_thieu-dac_diem_ngon_ngu.md)
+## List Datasets
 
-## Vietnamese Linguistics
+🐟 [CP_Vietnamese-UNC](CP_Vietnamese-UNC)
 
-Hình thái học
+Underthesea News Corpus
 
-* [Động từ tiếng Việt](docs/vietnamese/hth-dong_tu_tieng_viet.md)
-* [Tính từ tiếng Việt](docs/vietnamese/hth-tinh_tu_tieng_viet.md)
-* [Phụ từ tiếng Việt](docs/vietnamese/hth-phu_tu_tieng_viet.md)
-* [Đại từ tiếng Việt](docs/vietnamese/hth-dai_tu_tieng_viet.md)
+`task:raw-text` `domain:news` `year:2020` `version:1.0.0`
 
-Cú pháp học
+🐟 [SE_Vietnamese-UBS](SE_Vietnamese-UBS) 
 
-* [Câu](docs/vietnamese/cph-cau.md)
-* [Câu đơn](docs/vietnamese/cph-cau_don.md)
-* [Câu ghép](docs/vietnamese/cph-cau_ghep.md)
-* [Câu trần thuật](docs/vietnamese/cph-cau_tran_thuat.md)
-* [Câu nghi vấn](docs/vietnamese/cph-cau_nghi_van.md)
-* [Câu cầu khiến](docs/vietnamese/cph-cau_cau_khien.md)
-* [Câu cảm thán](docs/vietnamese/cph-cau_cam_than.md)
+Underthesea Bank Sentiment Dataset
+
+`task:sentiment` `domain:bank` `year:2017` `version:1.0.0`
 
