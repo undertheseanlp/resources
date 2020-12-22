@@ -1,4 +1,0 @@
-recursive-include vietnamese *
-
-recursive-exclude * __pycache__
-recursive-exclude * *.py[co]

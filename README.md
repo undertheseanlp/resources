@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/badge/license-GPLv3-blue"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/release-v1.0.0-blue"/>
+    <img src="https://img.shields.io/badge/made%20with-%E2%9D%A4-red.svg"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/datasets-1-brightgreen"/>
+    <img src="https://img.shields.io/badge/datasets-2-brightgreen"/>
   </a>
 </p>
 
@@ -24,15 +24,15 @@ Open Vietnamese Natural Language Processing Resources
 
 ## List Datasets
 
-🐟 [DI_Vietnamese-UVD](DI_Vietnamese-UVD) 
+🐟 [DI_Vietnamese-UVD](DI_Vietnamese-UVD)
 
 Underthesea Vietnamese Dictionary
 
-`task:dictionary` `domain:general` `year:2020` `version:1.0.0`
+`task:dictionary` `domain:general` `version:1.0.0-alpha` `year:2020`
 
-🐟 [SE_Vietnamese-UBS](SE_Vietnamese-UBS) 
+🐟 [SE_Vietnamese-UBS](SE_Vietnamese-UBS)
 
 Bank Sentiment Dataset
 
-`task:sentiment` `domain:bank` `year:2017` `version:1.0.0`
+`task:sentiment` `domain:bank` `version:1.0.0` `year:2017`
 

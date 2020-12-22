@@ -1,0 +1,7 @@
+version: 1.0.0
+task: sentiment
+domain: bank
+year: 2017
+description: Bank Sentiment Dataset
+authors:
+  - Vu Anh <anhv.ict91@gmail.com>
