@@ -3,5 +3,5 @@ task: sentiment
 domain: bank
 year: 2017
 description: Bank Sentiment Dataset
-Authors:
+authors:
   - Vu Anh <anhv.ict91@gmail.com>
