@@ -11,6 +11,7 @@ Tham khảo
 * (1): https://translate.google.com/
 * (2): http://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-V/na.html
 * (3): https://www.informatik.uni-leipzig.de/~duc/Dict/
+* (4): http://tratu.soha.vn/dict/vn_vn/Th%E1%BB%B1c_h%C6%B0
 
 # Công cụ 
 
@@ -19,8 +20,6 @@ SQLiteStudio
 **Underthesea**: công cụ xử lý ngôn ngữ tự nhiên tiếng Việt. Cùng với Stanza, underthesea được sử dụng để gán nhãn tự động cho câu đầu vào.
 
 **Stanza**: là công cụ xử lý ngôn ngữ tự nhiên của nhóm Standford NLP.
-
-
 
 ## Các công cụ không sử dụng
 
