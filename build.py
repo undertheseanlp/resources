@@ -63,9 +63,9 @@ for corpus in corpora:
     domain = get_key(corpus, "domain")
     year = get_key(corpus, "year")
     version = get_key(corpus, "version")
-    c += f"🐟 [{name}]({name}) v{version}\n\n"
+    c += f"🐟 [{name}]({name})\n\n"
     c += f"{description}\n\n"
-    c += f"`task:{task}` `domain:{domain}` `year:{year}`\n"
+    c += f"`task:{task}` `domain:{domain}` `version:{version}` `year:{year}`\n"
     c += "\n"
     content += c
 
