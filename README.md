@@ -24,13 +24,13 @@ Open Vietnamese Natural Language Processing Resources
 
 ## List Datasets
 
-🐟 [DI_Vietnamese-UVD v1.0.0-alpha](DI_Vietnamese-UVD)
+🐟 [DI_Vietnamese-UVD](DI_Vietnamese-UVD) `v1.0.0-alpha`
 
 Underthesea Vietnamese Dictionary
 
 `task:dictionary` `domain:general` `year:2020`
 
-🐟 [SE_Vietnamese-UBS v1.0.0](SE_Vietnamese-UBS)
+🐟 [SE_Vietnamese-UBS](SE_Vietnamese-UBS) `v1.0.0`
 
 Bank Sentiment Dataset
 
