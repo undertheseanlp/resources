@@ -1,10 +1,14 @@
 from os.path import dirname, join
 import joblib
-
+import logging
+logger = logging.getLogger('log')
+logger.setLevel(logging.DEBUG)
+logging.basicConfig(format='%(asctime)s %(message)s')
 from data import Dictionary, Word
 
 CORPUS_FOLDER = dirname(dirname(__file__))
-UTS_DICT_DATA = join(CORPUS_FOLDER, "data", "underthesea_dictionary.data")
+DICT_FOLDER = join(CORPUS_FOLDER, "data", "underthesea_v170")
+UTS_DICT_DATA = join(DICT_FOLDER, "underthesea_dictionary.data")
 
 KNOWN_POS = {
     'V': 'VERB',
@@ -25,12 +29,17 @@ TEMP_IGNORE_POS = set([
     'D',  # không có định nghĩa (ví dụ: chút ít)
     'O',  # úi chà
 ])
-
+logger.info("Start loading")
 dict = Dictionary()
 pos_count = {}
 data = joblib.load(UTS_DICT_DATA)
 count = 0
+logger.info("End loading")
+
 for key in data:
+    # count += 1
+    # if count > 30:
+    #     break
     defs = []
     pos_tags = {}
     text = key
@@ -50,6 +59,7 @@ for key in data:
         })
     word = Word(text, defs)
     dict.add(word)
-
-dict.save('underthesea_dictionary.yaml')
+logger.info("End Process")
+dict.save(join(DICT_FOLDER, 'underthesea_dictionary.yaml'))
+logger.info("End Save")
 print('[+] Done')

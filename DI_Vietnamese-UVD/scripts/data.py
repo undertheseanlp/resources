@@ -21,11 +21,15 @@ class Dictionary:
 
     @staticmethod
     def load(file):
-        print("hihi")
+        with open(file) as f:
+            data = yaml.safe_load(f)
+            new_dict = Dictionary()
+            return new_dict
 
     def to_dict(self):
         data = {}
-        for text in self.words:
+        words = sorted(self.words)
+        for text in words:
             word = self.words[text]
             if word.data is None:
                 content = ''
