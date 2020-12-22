@@ -1,3 +1,4 @@
+import joblib
 import yaml
 
 
@@ -6,7 +7,7 @@ class Word:
         self.text = text
         self.data = data
 
-    def to_dict(self):
+    def to_data(self):
         return {
             "text": self.text
         }
@@ -26,7 +27,7 @@ class Dictionary:
             new_dict = Dictionary()
             return new_dict
 
-    def to_dict(self):
+    def to_data(self):
         data = {}
         words = sorted(self.words)
         for text in words:
@@ -41,6 +42,10 @@ class Dictionary:
         return data
 
     def save(self, file):
-        data = self.to_dict()
+        data = self.to_data()
         with open(file, 'w') as f:
             yaml.dump(data, f, sort_keys=False, allow_unicode=True)
+
+    def save_binary(self, file):
+        data = self.to_data()
+        joblib.dump(data, file)
