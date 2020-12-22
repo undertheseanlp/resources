@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/license-GPLv3-blue"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/release-v1.0.0-blue"/>
+    <img src="https://img.shields.io/badge/made%20with-%E2%9D%A4-red.svg"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/datasets-?-brightgreen"/>
