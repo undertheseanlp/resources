@@ -41,7 +41,7 @@ content = ""
 c = open(join(FOLDER, "docs", "templates", "README.md")).read()
 dataset_badge_template = "https://img.shields.io/badge/datasets-?-brightgreen"
 dataset_badge = dataset_badge_template.replace("?", str(len(corpora)))
-c.replace(dataset_badge_template, dataset_badge)
+c = c.replace(dataset_badge_template, dataset_badge)
 content += c + "\n\n"
 
 # generate list datasets

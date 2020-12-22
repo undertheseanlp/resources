@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/release-v1.0.0-blue"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/datasets-?-brightgreen"/>
+    <img src="https://img.shields.io/badge/datasets-2-brightgreen"/>
   </a>
 </p>
 
