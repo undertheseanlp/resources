@@ -34,5 +34,5 @@ Underthesea Vietnamese Dictionary
 
 Bank Sentiment Dataset
 
-`task:` `domain:` `version:1.0.0` `year:`
+`task:sentiment` `domain:bank` `version:1.0.0` `year:2017`
 
