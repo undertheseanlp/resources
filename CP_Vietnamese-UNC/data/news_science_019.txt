@@ -1,0 +1,16 @@
+# doc_id = news_science_019
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/buc-tuong-cua-gio-doc-nhat-vo-nhi-tren-the-gioi-co-the-tai-tao-con-bao-20201105065400160.htm
+# date = 20201105
+“Bức tường của gió” độc nhất vô nhị trên thế giới có thể tái tạo cơn bão
+Dân trí Theo tiết lộ của các nhà nghiên cứu, “Bức tường của gió” độc đáo có khả năng tạo ra sức gió lên đến hơn 250km/giờ.
+Hình ảnh hệ thống có tên “Bức tường của gió”.
+Thực tế, để có thể tự bảo vệ tốt hơn trước sức tàn phá của các cơn bão, trước tiên bạn phải nghiên cứu chúng và thử nghiệm các vật liệu khác nhau chống lại sức gió mạnh mà chúng tạo ra. Với ý tưởng này, các kỹ sư tại Trung tâm Nghiên cứu Bão Quốc tế (IHRC) và Đại học Bang Florida đã dành 15 năm để xây dựng và hoàn thiện hệ thống được đặt tên là “Bức tường của gió”, một công trình lắp đặt ấn tượng có khả năng tái tạo sức gió của bão.
+Mọi chuyện bắt đầu vào năm 2005, với hai tuabin gió mạnh mẽ có thể tạo ra sức gió lên tới 53m/s.
+Nhưng khi nhu cầu mô phỏng các luồng không khí mạnh hơn ngày càng tăng, sức mạnh của “Bức tường của gió” cũng cần phải tăng lên.
+Hiện nay, hệ thống lắp đặt bao gồm tổng cộng 12 chiếc quạt khổng lồ có khả năng tạo ra gió lên đến 70m/s.
+Để tham khảo, một nghiên cứu đã chỉ ra rằng cây cối bắt đầu gãy ở tốc độ gió 42m/s, bất kể tuổi tác, đường kính hoặc đặc tính đàn hồi.
+Theo thông tin từ Đại học Bang Florida, công trình “Bức tường của gió” có thể thử nghiệm để đánh bại các cấu trúc có kích thước đầy đủ như nhà ở được xây dựng hoặc sản xuất tại công trường và các cấu trúc thương mại nhỏ.
+Nhờ hệ thống phun nước tích hợp, “Bức tường của gió” còn có khả năng mô phỏng mưa gió thổi ngang, cho phép các kỹ sư kiểm tra các cấu trúc và vật liệu chống lại cả gió và mưa do bão gây ra.
+Các công trình nhỏ có thể được đặt trên bàn xoay trước “Bức tường của gió”, để có thể đánh từ mọi góc độ nhằm phát hiện các điểm yếu có thể xảy ra.
+Bên cạnh đó, nhờ các bộ truyền động tần số thay đổi, quạt có thể tăng tốc theo nhiều tốc độ gió khác nhau, giúp các kỹ sư hiểu rõ hơn về cách các thiết kế và vật liệu khác nhau xử lý các cơn bão mạnh.
+Ban đầu, “Bức tường của gió” có trụ sở tại Miami có khả năng tái tạo các cơn bão từ cấp 1 đến cấp 4, nhưng việc lắp đặt hiện tại được cho là có khả năng mô phỏng các cơn bão như Katrina và Andrew, được xếp hạng là cấp 5 theo Thang bão Saffir – Simpson.
