@@ -1,0 +1,12 @@
+# doc_id = news_science_009
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/thu-nghiem-he-thong-chiet-xuat-nuoc-tu-nuoc-tieu-tren-tram-vu-tru-quoc-te-20201005062841275.htm
+# date = 20201005
+Thử nghiệm hệ thống chiết xuất nước từ nước tiểu trên Trạm vũ trụ Quốc tế
+Hệ thống thu hồi nước tiểu được các nhà khoa học Nga tiết lộ có thể giúp giảm lượng nước cần vận chuyển lên Trạm vũ trụ Quốc tế (ISS) qua tàu vũ trụ chở hàng.
+Các nhà du hành vũ trụ Nga trên Trạm vũ trụ Quốc tế hiện đã sẵn sàng để kiểm tra tính hiệu quả của một hệ thống tái chế nước thử nghiệm mới.
+Thiết bị mới có ký hiệu SRV-U-RS được lắp đặt trong module Rassvet của trạm, cho phép chiết xuất nước từ nước tiểu của con người để sử dụng để uống.
+Như nhà du hành vũ trụ người Nga Ivan Vagner cho biết đây là một phần của thí nghiệm mang tên "Separatsia" (tách biệt).
+Cụ thể các nhà khoa học sẽ đặt một xô nước cất từ hệ thống tái tạo nước tiểu vào hệ thống tái tạo nước ngưng tụ sẽ tái sinh thành nước uống được.
+“Chúng tôi sẽ uống nước được chiết xuất từ hệ thống đặc biệt đó”, Ivan Vagner cho biết.
+Công nghệ tái chế nước tiểu của Nga được cho sẽ giúp giảm lượng nước cần vận chuyển lên ISS.
+Trên thực tế, công nghệ này hầu như không phải là điều mới lạ nhưng được kì vọng sẽ mang lại những hiệu quả tối ưu nhất trong tương lai.
