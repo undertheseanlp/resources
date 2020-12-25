@@ -28,7 +28,7 @@ def validate_corpus_folder(f):
 
 FOLDER = dirname(realpath(__file__))
 folders = [f for f in listdir(FOLDER) if isdir(join(FOLDER, f))]
-ignore_folders = ["tools", "app", "docs", ".git", "data", "tmp", ".idea", "extras"]
+ignore_folders = ["tools", "app", "docs", ".git", "data", "tmp", ".idea", "extras", ".github"]
 corpus_folders = [f for f in folders if f not in ignore_folders]
 for f in corpus_folders:
     validate_corpus_folder(f)
@@ -72,3 +72,8 @@ for corpus in corpora:
 with open(join(FOLDER, 'README.md'), 'w') as f:
     f.write(content)
 print("[✓] Generate README.md file: Success")
+
+# Update version
+version = open("VERSION").read()
+release_asset_config = yaml.safe_load(open(".github/workflows/upload-release-asset.yml").read())
+print(0)
