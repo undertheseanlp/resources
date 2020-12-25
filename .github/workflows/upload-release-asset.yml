@@ -15,7 +15,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Release assets
-        uses: actions/checkout@v2
         run: |
           set -x
           assets=()
