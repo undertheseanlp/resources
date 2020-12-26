@@ -24,19 +24,19 @@ Open Vietnamese Natural Language Processing Resources
 
 ## List Datasets
 
-🐟 [CP_Vietnamese-UNC](CP_Vietnamese-UNC)
+🐟 [CP_Vietnamese-UNC](resources/CP_Vietnamese-UNC)
 
 Underthesea News Corpus
 
 `task:text-corpus` `domain:news` `year:2020` `version:1.0.0`
 
-🐟 [DI_Vietnamese-UVD](DI_Vietnamese-UVD)
+🐟 [DI_Vietnamese-UVD](resources/DI_Vietnamese-UVD)
 
 Underthesea Vietnamese Dictionary
 
 `task:dictionary` `domain:general` `version:1.0.0-alpha` `year:2020`
 
-🐟 [SE_Vietnamese-UBS](SE_Vietnamese-UBS) 
+🐟 [SE_Vietnamese-UBS](resources/SE_Vietnamese-UBS) 
 
 Underthesea Bank Sentiment Dataset
 
