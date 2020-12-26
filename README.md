@@ -24,8 +24,6 @@ Open Vietnamese Natural Language Processing Resources
 
 ## List Datasets
 
-🐟 [DI_Vietnamese-UVD](DI_Vietnamese-UVD)
-
 Underthesea Vietnamese Dictionary
 
 `task:dictionary` `domain:general` `version:1.0.0-alpha` `year:2020`
