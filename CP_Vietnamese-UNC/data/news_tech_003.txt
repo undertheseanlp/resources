@@ -1,0 +1,17 @@
+# doc_id = news_tech_003
+# url = https://dantri.com.vn/suc-manh-so/tu-hom-nay-phat-nang-hanh-vi-gui-tin-nhan-goi-dien-quang-cao-lam-phien-20201001125142947.htm
+# date = 20201001
+Từ hôm nay, phạt nặng hành vi gửi tin nhắn, gọi điện quảng cáo làm phiền
+Kể từ ngày hôm nay (1/10), các hành vi gửi tin nhắn rác và gọi điện quảng cáo sai sự thật sẽ bị phạt nặng, với mức phạt tối đa có thể lên đến 100 triệu đồng.
+Nghị định 91/2020 của Thủ tướng Chính phủ quy định về chống tin nhắn rác, thư điện tử rác, cuộc gọi rác và quy định về quảng cáo bằng tin nhắn (SMS, MMS, USSD), thư điện tử và gọi điện thoại đã bắt đầu chính thức có hiệu lực từ ngày hôm nay, 1/10.
+Đây được xem là giải pháp để giúp ngăn chặn vấn nạn tin nhắn và cuộc gọi rác đang ngày càng trở nên phổ biến hiện nay.
+Nghị định này áp dụng đối với tổ chức, cá nhân có liên quan tới hoạt động về chống tin nhắn rác, thư điện tử rác, cuộc gọi rác và gửi tin nhắn quảng cáo, thư điện tử quảng cáo, gọi điện thoại quảng cáo tại Việt Nam, bao gồm các doanh nghiệp cung cấp dịch vụ viễn thông, dịch vụ Internet; doanh nghiệp, tổ chức cung cấp dịch vụ thư điện tử; người quảng cáo bằng tin nhắn, thư điện tử và gọi điện thoại; người sử dụng tin nhắn, thư điện tử, gọi điện thoại liên quan hoạt động quảng cáo…
+Đáng chú ý, theo điều 32 của Nghị định này, các hình thức gọi điện thoại quảng cáo đến người sử dụng khi chưa được sự đồng ý một cách rõ ràng; gọi điện thoại quảng cáo đến người sử dụng đã từ chối nhận cuộc gọi quảng cáo; gửi tin nhắn đăng ký quảng cáo khi người sử dụng đã từ chối hoặc không trả lời nhận tin nhắn đăng ký quảng cáo sẽ bị phạt tiền từ 5 đến 10 triệu đồng.
+Theo nghị định này, nếu người sử dụng từ chối nhận cuộc gọi điện thoại quảng cáo, người quảng cáo phải chấm dứt ngay việc tiếp tục gọi điện thoại quảng cáo đến người sử dụng đó.
+Đối với trường hợp khách hàng không nhắn tin đồng ý xác nhận mà vẫn bị nhà quảng cáo và nhà mạng gửi tin nhắn, gửi email, gọi điện quảng cáo sẽ bị xử phạt theo quy định với mức phạt từ 5 triệu đồng đến 10 triệu đồng.
+Đối với trường hợp nhắn tin nhắn, thư điện tử rác, hay thực hiện cuộc gọi rác vào những thuê bao đã đăng ký từ chối tin nhắn, cuộc gọi quảng cáo, nhà quảng cáo sẽ bị xử phạt với mức phạt từ 80 đến 100 triệu đồng, đồng thời thu hồi số điện thoại thực hiện hành vi vi phạm.
+Còn đối với doanh nghiệp viễn thông, Internet, mức phạt tiền cao nhất lên tới 170 triệu đồng nếu không thực hiện các biện pháp để ngăn chặn tin nhắn, cuộc gọi rác, thư điện tử rác theo yêu cầu; không hỗ trợ người dùng ngăn chặn tình trạng trên…
+Đáng chú ý, theo Nghị định 91/2020, nếu gọi điện thoại quảng cáo trước 8 giờ sáng và sau 17 mỗi ngày mà không có thỏa thuận khác với người sử dụng sẽ bị phạt tiền từ 20 đến 30 triệu đồng.
+Mức xử phạt tương tự cho các hành vi nhà quảng cáo thực hiện quá một cuộc gọi quảng cáo tới một số điện thoại trong vòng 24 giờ khi chưa được phép.
+Cục An toàn thông tin (Bộ TT&TT) cũng sẽ xây dựng, vận hành một hệ thống quản lý “Danh sách không quảng cáo”. Đây là tập hợp các số điện thoại đăng ký thông tin và không chấp nhận bất kỳ cuộc gọi, tin nhắn quảng cáo nào.
+Với những mức chế tài xử phạt nặng, hy vọng những hình thức tin nhắn và cuộc gọi quảng cáo rác sẽ sớm được xử lý một cách triệt để, giúp người dùng tránh bị làm phiền bởi những tin nhắn và cuộc gọi không mong muốn.

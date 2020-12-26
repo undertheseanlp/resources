@@ -1,0 +1,30 @@
+# doc_id = news_health_001
+# url = https://dantri.com.vn/suc-khoe/toi-110-viet-nam-khong-co-ca-mac-covid-19-moi-20201001135455050.htm
+# date = 20201001
+Tối 1/10, Việt Nam không có ca mắc Covid-19 mới
+Tối 1/10, Bộ Y tế thông tin Việt Nam không ghi nhận ca mắc Covid-19 mới. Đến nay nước ta có 1.095 ca bệnh, 35 trường hợp tử vong.
+Tính từ 6h đến 18h ngày 1/10, Việt Nam có 0 ca mắc mới Covid-19.
+Như vậy, đến nay nước ta có 1.095 ca mắc Covid-19, 35 trường hợp tử vong, là những bệnh nhân có nhiều bệnh lý nền nặng.
+Việt Nam có tổng cộng 691 ca mắc Covid-19 do lây nhiễm trong nước, trong đó số lượng ca mắc mới tính từ ngày 25/7 đến nay: 551 ca.
+Đến nay, nước ta cũng đã tròn 29 ngày không ghi nhận ca bệnh ngoài cộng đồng.
+Tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 15.491, trong đó:
+- Cách ly tập trung tại bệnh viện: 266
+- Cách ly tập trung tại cơ sở khác: 10.441
+- Cách ly tại nhà, nơi lưu trú: 4.784.
+Về tình hình điều trị, theo báo cáo của Tiểu ban Điều trị Ban chỉ đạo Quốc gia phòng, chống dịch Covid-19:
+- 8 bệnh nhân được công bố khỏi bệnh: BN1047, BN1048, BN1049, BN1055, BN1056, BN1057, BN1058, BN1059
+- Số ca âm tính với SARS-CoV-2:
++ Lần 1: 1
++ Lần 2: 2
++ Lần 3: 5
+- Số ca tử vong: 35 ca
+- Số ca điều trị khỏi: 1.018 ca.
+Cách ly 307 công dân nhập cảnh từ Nhật Bản, có 45 phụ nữ mang thai
+Bác sĩ Nguyễn Văn Hai – Giám đốc Sở Y tế Quảng Nam cho hay, vừa tiếp nhận và đưa đến trung tâm cách ly 307 công dân về từ Nhật Bản.
+Trong số 307 công dân này có 140 là nam, 167 là nữ và có 45 phụ nữ mang thai.
+Qua kiểm tra sức khỏe sơ bộ và đo thân nhiệt lúc về, tất cả các công dân không ai có biểu hiện sốt.
+Lấy mẫu xét nghiệm cho các công dân từ nước ngoài về tại khu cách ly tập trung Trường trung cấp Cảnh sát nhân dân 5
+Theo bác sĩ Nguyễn Văn Hai, đoàn công dân Việt Nam về từ Nhật đã đến cách ly tại khu cách ly tập trung Trường trung cấp Cảnh sát nhân dân 5 (xã Bình Phục, huyện Thăng Bình) lúc 00h15 ngày 1/10.
+Đến 2h30 cùng ngày, ngành chức năng tỉnh Quảng Nam đã hoàn thành công tác sắp xếp, ổn định nơi ăn nghỉ cho những công dân này.
+Trong số 307 công dân này có 3 công dân có bệnh nền.
+Trong ngày 1/10, ngành y tế Quảng Nam đã tiến hành xét nghiệm và chăm sóc y tế theo quy định cho tất cả các công dân này.

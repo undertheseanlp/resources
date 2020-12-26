@@ -1,0 +1,12 @@
+# doc_id = news_science_012
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/gioi-khoa-hoc-canh-bao-ve-can-benh-nguy-hiem-chet-nguoi-moi-20201102062017941.htm
+# date = 20201102
+Giới khoa học cảnh báo về căn bệnh nguy hiểm chết người mới
+Giới khoa học vừa công bố phát hiện một căn bệnh nguy hiểm mới gây tử vong ở nam giới.
+Các nhà khoa học lưu ý rằng những người được chẩn đoán mắc một hội chứng mới, do nhóm chuyên gia VEXAS đặt tên, có thể dẫn đến nguy cơ tử vong ở người bệnh trong 40% trường hợp.
+Theo đó, bệnh nhân mắc bệnh tự viêm (autoinflammatory) thường lên cơn sốt, hình thành huyết khối nghẽn tĩnh mạch, cùng với quá trình viêm mô sụn và viêm phổi.
+Các chuyên gia liên kết căn bệnh này với đột biến soma gen UBA1 nằm trên nhiễm sắc thể X.
+Theo các nhà khoa học, các đột biến được tìm thấy ở 25 nam giới sau khi hoàn thành – cũng được phát hiện ở 25 người khác.
+Theo giới khoa học, số lượng bệnh nhân thực tế có thể còn cao hơn nhiều.
+Nhóm nghiên cứu cũng tin rằng căn bệnh này giải thích sự xuất hiện của loạt hội chứng viêm ở người lớn, những hội chứng trước đây vốn được coi là không liên quan gì đến nhau.
+Kết quả của nghiên cứu tương ứng đã được công bố trên tạp chí y học The New England Journal of Medicine.
