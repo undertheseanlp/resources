@@ -9,12 +9,15 @@ print("token", token)
 print(sys.argv)
 G = Github(token)
 
-for repo in G.get_user().get_repos():
-    print(repo.name)
-
 repo = G.get_repo("undertheseanlp/resources")
 releases = repo.get_releases()
 for release in releases:
     print(release)
+
+print(G.get_user())
+# for repo in G.get_user().get_repos():
+#     print(repo.name)
+
+
 
 
