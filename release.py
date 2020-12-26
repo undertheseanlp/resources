@@ -15,10 +15,11 @@ for release in releases:
     print(release)
 
 print(G.get_user())
-repos =[repo for repo in G.get_user().get_repos()]
-print(len(repos))
-# for repo in G.get_user().get_repos():
-#     print(repo.name)
+for repo in G.get_user().get_repos():
+    try:
+        print(repo.name)
+    except Exception as e:
+        print(e)
 
 
 
