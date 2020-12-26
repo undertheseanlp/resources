@@ -7,7 +7,10 @@ token = os.getenv('GITHUB_TOKEN', '...')
 print("environ", os.environ)
 print("token", token)
 print(sys.argv)
-G = Github("Token", token)
+G = Github(token)
+
+for repo in G.get_user().get_repos():
+    print(repo.name)
 
 repo = G.get_repo("undertheseanlp/resources")
 releases = repo.get_releases()
