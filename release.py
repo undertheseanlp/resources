@@ -1,19 +1,12 @@
 import os
-import sys
 import shutil
 from os.path import join
-
-print("Release")
-version = open("VERSION").read().strip()
 from github import Github
 
-token = os.environ['GITHUB_TOKEN']
-print("environ", os.environ)
-print("token", token)
-print(sys.argv)
-G = Github(token)
-
+G = Github(os.environ['GITHUB_TOKEN'])
 repo = G.get_repo("undertheseanlp/resources")
+version = open("VERSION").read().strip()
+
 
 # Create new release if not exists
 try:
@@ -24,11 +17,11 @@ except:
 
 # Build and pack datasets to this release
 DATASETS_FOLDER = "tmp/datasets"
-shutil.rmtree(DATASETS_FOLDER)
 os.makedirs(DATASETS_FOLDER)
 shutil.make_archive(join("SE_Vietnamese-UBS.zip"), "zip", "SE_Vietnamese-UBS/data")
 
 # Upload assets
+
 assets = os.listdir(DATASETS_FOLDER)
 release = repo.get_release(id=version)
 current_assets = set([asset.name for asset in release.get_assets()])
