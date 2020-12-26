@@ -1,0 +1,17 @@
+# doc_id = news_society_011
+# url = https://dantri.com.vn/xa-hoi/sieu-bao-goni-giu-nguyen-cuong-do-tiep-tuc-huong-vao-bien-dong-20201101072531568.htm
+# date = 20201101
+Siêu bão Goni giữ nguyên cường độ, tiếp tục hướng vào Biển Đông
+Sáng sớm nay (1/11), siêu bão Goni cách miền Trung Philippines khoảng 70km về phía Đông và vẫn giữ nguyên cường độ ở cấp 17, giật trên cấp 17 (trước đó, lúc 13h ngày 31/10, bão cũng ở cường độ này).
+Theo Trung tâm Dự báo khí tượng thủy văn Quốc gia, hồi 1h ngày 1/11, vị trí tâm siêu bão Goni ở khoảng 13,7 độ Vĩ Bắc; 125,0 độ Kinh Đông, cách miền trung Phippines khoảng 70km về phía Đông.
+Sức gió mạnh nhất vùng gần tâm siêu bão mạnh cấp 17 (200-220km/giờ), giật trên cấp 17.
+Dự báo trong 24 giờ tới, siêu bão di chuyển theo hướng Tây, mỗi giờ đi được khoảng 20km và suy yếu.
+Đến 1h ngày 2/11, vị trí tâm bão ở khoảng 14,5 độ Vĩ Bắc; 120,2 độ Kinh Đông, trên khu vực miền Trung Philippines.
+Sức gió mạnh nhất vùng gần tâm bão mạnh cấp 12-13 (115-150km/giờ), giật cấp 15.
+Trong 24 đến 48 giờ tiếp theo, bão di chuyển chủ yếu theo hướng Tây Tây Bắc, mỗi giờ đi được khoảng 20km, đi vào Biển Đông.
+Đến 1h ngày 3/11, vị trí tâm bão ở khoảng 15,4 độ Vĩ Bắc; 115,4 độ Kinh Đông, cách Quần đảo Hoàng Sa khoảng 380km về phía Đông Đông Nam.
+Sức gió mạnh nhất vùng gần tâm bão mạnh cấp 10-11 (90-115km/giờ), giật cấp 13.
+Trong 48 đến 72 giờ tiếp theo, bão di chuyển theo hướng Tây, mỗi giờ đi được 10-15km.
+Đến 1h ngày 4/11, vị trí tâm bão ở khoảng 15,2 độ Vĩ Bắc; 112,1 độ Kinh Đông, trên vùng biển phía Nam Quần đảo Hoàng Sa.
+Sức gió mạnh nhất vùng gần tâm bão mạnh cấp 10-11 (90-115km/giờ), giật cấp 13.
+Trong 72 đến 96 giờ tiếp theo, bão di chuyển theo hướng Tây, mỗi giờ đi được khoảng 10km.

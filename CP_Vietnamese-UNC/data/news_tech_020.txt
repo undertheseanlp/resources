@@ -1,0 +1,61 @@
+# doc_id = news_tech_020
+# url = https://dantri.com.vn/suc-manh-so/pho-tgd-viettel-telecom-di-dong-hoa-se-tao-ra-xu-huong-trai-nghiem-moi-20201103101733786.htm
+# date = 20201103
+Phó TGĐ Viettel Telecom: Di động hoá sẽ tạo ra xu hướng trải nghiệm mới
+Sau 20 năm cung cấp dịch vụ viễn thông, kênh phân phối truyền thống của Viettel Telecom đã thay đổi ra sao? Ông Nguyễn Thành Nhương, Phó Tổng giám đốc Viettel Telecom cho biết: “Kỷ nguyên máy tính đã qua rồi, tất cả phải di động hoá”.
+Cùng với việc đẩy mạnh chiến lược số hoá trên toàn Viettel, các kênh bán hàng trực tiếp cũng sẽ bị ảnh hưởng mạnh.
+Ông có thể cho biết, hệ thống kênh phân phối của Viettel Telecom thay đổi ra sao để phù hợp với thời đại 4.0?
+Nguồn lực đi cùng Viettel xây dựng kênh phân phối từ ngày đầu đến giờ vẫn còn, mặc dù có người ra người vào nhưng chúng tôi vẫn duy trì được phần lớn những nguồn lực ấy.
+Ban đầu Viettel xây dựng đội ngũ cộng tác viên để họ đi thu cước.
+Sau này, họ làm thêm cả công việc bán hàng. Việc thu cước chiếm tới 70-80% thu nhập của họ, còn lại khoảng 20-30% là từ bán hàng.
+Sau đó tiền thu cước giảm đi vì Viettel đưa công nghệ vào để khách hàng có thể tự đóng tiền cước.
+Như vậy, người cộng tác viên phải tự nâng cấp mình để bán hàng, phải hiểu được sản phẩm.
+Số lượng sản phẩm, dịch vụ của Viettel ngày càng nhiều lên.
+Nếu một người tư vấn viên trước kia chỉ phụ trách hai hoặc cùng lắm là ba sản phẩm, một là trả trước, hai là trả sau và ba là FTTH, thì bây giờ là vô vàn sản phẩm được đẩy ra mỗi ngày.
+Như vậy, người trước đây chỉ thu cước lại phải tự chuyển dịch hơn nữa, để trở thành người tư vấn dịch vụ.
+Khi họ biết cách tư vấn dịch vụ rồi, mà có quá nhiều sản phẩm như thế, một người không thể nhớ hết được.
+Với nguồn lực bán hàng đa dạng như thế, Viettel bắt đầu đưa công nghệ thông tin, công cụ vào quản lý.
+Thứ nhất là quản lý được quá trình họ bán hàng.
+Thứ hai là giúp họ có hệ thống cơ sở dữ liệu thông minh hơn để tiếp cận khách hàng một cách dễ dàng hơn, giúp họ tăng thu nhập, Viettel thì tăng năng suất lao động.
+Đến giai đoạn này, tỷ lệ khách hàng sử dụng smartphone của Viettel lên tới 68-70%, điều này dẫn tới rất nhiều thay đổi trong thói quen tiêu dùng của khách hàng.
+Tức là, trước đây để mua hàng/đăng ký dịch vụ họ phải đi đến tận nơi, sau này chuyển sang gọi điện.
+Nhưng giờ có những khách hàng không có nhu cầu như vậy nữa mà chỉ cần tương tác qua mạng.
+Như vậy lại có quá trình chuyển dịch lao động.
+Những người có tố chất, Viettel tiếp tục đào tạo để họ bán hàng online, bán hàng trên hệ thống số để họ có thu nhập.
+Rõ ràng, cách làm này vẫn giữ chân được mười mấy nghìn con người gắn bó với Viettel.
+Dĩ nhiên ở doanh nghiệp nào cũng có luân chuyển vị trí làm việc, nhưng Viettel vẫn giữ được một tỷ lệ lao động như vậy, duy trì được công ăn việc làm cho họ.
+Chuyển dịch định hướng nhưng vẫn phải giữ được thu nhập cho người lao động để ổn định cuộc sống cho họ trong quá trình chuyển dịch.
+Đó mới là giá trị nhân văn của quá trình xây dựng và chuyển dịch số với kênh phân phối mà Viettel đã làm được.
+Hiện tại, với các quy định mới về đăng ký thông tin, hạn chế sim kích hoạt trước, việc phát triển kênh bán của Viettel Telecom nói riêng và các doanh nghiệp viễn thông nói chung cũng gặp nhiều khó khăn. Trong bối cảnh đó, Viettel Telecom đã thay đổi thế nào để thích ứng với tình hình mới?
+Do chính sách, do quy luật của thị trường dẫn tới hệ thống kênh bán co lại là đương nhiên.
+Nhưng mặt khác lại tạo ra một không gian mới cho Viettel phát triển.
+Với những khách hàng đã có smartphone rồi nhưng chưa dùng (hoặc ít dùng) data, Viettel sẽ cung cấp thêm công nghệ IoT, dịch vụ cho doanh nghiệp vừa và nhỏ (SME)...
+Trong tình hình mới, ngoài hệ thống kênh bán hàng trực tiếp, bây giờ hệ thống kênh điểm bán cũng phải chuyển dịch theo.
+Trong quá trình chuyển dịch, thu nhập của người lao động ban đầu có thể giảm đi.
+Khi đó, ban lãnh đạo phải đẩy thêm công cụ cho nhân viên hỗ trợ quản lý điểm bán để họ tăng năng suất lao động và hướng vào khách hàng cũ.
+Có thể nói là thâm canh trên ruộng của mình.
+Bây giờ quá trình chuyển đổi đang hướng vào bên trong.
+Tôi đi các thị trường nước ngoài và đúc rút ra rằng, điều quan trọng nhất khi thị trường đã bão hòa rồi là không chỉ hướng tới khách hàng mới, mà là hướng vào bên trong với khách hàng hiện tại.
+Nếu so với kênh phân phối của các nhà cung cấp dịch vụ viễn thông khác, Viettel Telecom có thế mạnh ở điểm gì?
+Thứ nhất, hệ thống công cụ quản lý hỗ trợ tốt cho hệ thống kênh phân phối.
+Thứ hai, Viettel có hệ thống nguồn lực tại chỗ.
+Nguyên tắc trong cạnh tranh là các điểm chạm khách hàng.
+Ai sát khách hàng hơn, hiểu khách hàng hơn thì thắng.
+Cách tổ chức của Viettel từ trước đến giờ vẫn tạo ra lợi thế là áp sát khách hàng, áp sát kênh.
+Thứ ba là hệ thống điều hành xuyên suốt từ trên xuống dưới: từ tập đoàn xuống tổng công ty, từ tổng công ty xuống nhánh, chi nhánh xuống tận điểm dưới cùng.
+Hệ thống điều hành này vừa giúp giám sát tốt, vừa tạo điều kiện để cấp trên hỗ trợ, đôn đốc, nhắc nhở cấp dưới.
+Cùng với chiến lược chuyển đổi số mạnh mẽ, hệ thống cửa hàng hiện nay của Viettel Telecom có bị thay thế bởi kênh bán online hay không?
+Suốt bao nhiêu năm nay, hệ thống này đã đóng vai trò rất lớn trong quá trình kinh doanh.
+Vậy khi chuyển dịch số, hệ thống cửa hàng còn không?
+Vẫn còn.
+Nhưng đến giai đoạn này, các cửa hàng cần có một quá trình chuyển dịch mạnh mẽ hơn về công nghệ.
+Thứ nhất, Viettel Telecom đang xây dựng một hệ thống quản lý thông minh hơn.
+Ở thời điểm hiện tại, khách đến cửa hàng, giao dịch viên lại phải hỏi một lần nữa anh tên gì, anh có vấn đề gì không.
+Nhưng nếu như ta quản lý thông minh lên, mỗi khách vào cửa hàng, giao dịch viên phải biết ngay họ có vấn đề gì, xin lỗi ngay nếu có trục trặc, thì đó mới là trải nghiệm tốt.
+Làm rất khó, nhưng buộc phải làm.
+Thứ hai, giai đoạn kỷ nguyên máy tính đã qua rồi.
+Việc di động hóa sẽ tạo ra một xu hướng trải nghiệm mới, người giao dịch viên sẽ trở thành tư vấn viên, tất cả quá trình trao đổi, giao dịch sẽ trở thành di động hóa.
+Các cấu trúc hệ thống kênh thì đúng là Viettel có khác biệt.
+Viettel có truyền thống nhưng không bảo thủ mãi rằng tôi vẫn có đủ nguồn lực, tôi tự làm như ngày xưa.
+Bây giờ Viettel vẫn tự làm, nhưng làm thông minh hơn.
+Bây giờ những gì có thể hợp tác với đơn vị khác thì hợp tác, vì đó là xu hướng của thế giới. Quan trọng là có sự kết hợp nhuần nhuyễn với năng lực nội tại, với chiến lược, với triết lý của người Viettel.
