@@ -23,6 +23,8 @@ except:
 # Build and pack datasets to this release
 assets = ["README.md"]
 release = repo.get_release(id=version)
+current_assets = release.get_assets()
+print(current_assets)
 for asset in assets:
     try:
         release.upload_asset(asset)
