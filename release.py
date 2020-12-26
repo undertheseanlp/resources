@@ -10,7 +10,7 @@ print(sys.argv)
 G = Github(token)
 
 repo = G.get_repo("undertheseanlp/resources")
-repo.create_git_release('abc', 'abc', 'abc')
+repo.create_git_release('ghi', 'ghi', 'ghi')
 
 
 
