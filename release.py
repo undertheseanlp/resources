@@ -10,9 +10,17 @@ print(sys.argv)
 G = Github(token)
 
 repo = G.get_repo("undertheseanlp/resources")
-release_message = f"Release {version}"
 
-repo.create_git_release(version, f"Release {version}", release_message)
+# Create new release if not exists
+try:
+    release_message = f"Release {version}"
+    repo.create_git_release(version, f"Release {version}", release_message)
+except:
+    pass
+
+# Build and pack datasets to this release
+release = repo.get_release(id=version)
+release.upload_asset("README.md")
 
 
 

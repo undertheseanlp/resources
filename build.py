@@ -72,8 +72,3 @@ for corpus in corpora:
 with open(join(FOLDER, 'README.md'), 'w') as f:
     f.write(content)
 print("[✓] Generate README.md file: Success")
-
-# Update version
-version = open("VERSION").read()
-release_asset_config = yaml.safe_load(open(".github/workflows/upload-release-asset.yml").read())
-print(0)
