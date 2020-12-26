@@ -703,11 +703,11 @@ def load_set(f_name_ud,f_name_langspec,validate_langspec=False,validate_enhanced
     truly extensions of universal relations, too; but a more relaxed regular expression will
     be checked because enhanced relations may contain stuff that is forbidden in the basic ones.
     """
-    res=load_file(os.path.join(THISDIR,"data",f_name_ud))
+    res=load_file(os.path.join(THISDIR, "data", f_name_ud))
     #Now res holds UD
     #Next load and optionally check the langspec extensions
     if f_name_langspec is not None and f_name_langspec!=f_name_ud:
-        path_langspec = os.path.join(THISDIR,"data",f_name_langspec)
+        path_langspec = os.path.join(THISDIR, "data", f_name_langspec)
         if os.path.exists(path_langspec):
             global curr_fname
             curr_fname = path_langspec # so warn() does not fail on undefined curr_fname
@@ -817,7 +817,7 @@ if __name__=="__main__":
             for k,v in sorted(error_counter.items()):
                 print >> sys.stderr, k, "errors:", v
         for f_name in sorted(warn_on_missing_files):
-            filepath = os.path.join(THISDIR,"data",f_name+"."+args.lang)
+            filepath = os.path.join(THISDIR, "data", f_name + "." + args.lang)
             if not os.path.exists(filepath):
                 print >> sys.stderr, "The language-specific file %s does not exist."%filepath
         sys.exit(1)

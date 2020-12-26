@@ -82,7 +82,7 @@ class Stats(object):
     def print_features(self,out,which=u"UD+langspec",sort="freq"):
         #1) get UD features
         ud_cats=set()
-        with codecs.open(os.path.join(THISDIR,"data","feats.ud"),"r","utf-8") as f:
+        with codecs.open(os.path.join(THISDIR, "data", "feats.ud"), "r", "utf-8") as f:
             for line in f:
                 line=line.strip()
                 if not line or line.startswith(u"#"):
