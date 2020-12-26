@@ -30,6 +30,8 @@ Underthesea Vietnamese Dictionary
 
 🐟 [SE_Vietnamese-UBS](SE_Vietnamese-UBS)
 
+`task:text-corpus` `domain:news` `year:2020` `version:1.0.0`
+
 Bank Sentiment Dataset
 
 `task:sentiment` `domain:bank` `version:1.0.0` `year:2017`
