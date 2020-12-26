@@ -11,6 +11,7 @@ G = Github(token)
 
 repo = G.get_repo("undertheseanlp/resources")
 release_message = f"Release {version}"
+
 repo.create_git_release(version, f"Release {version}", release_message)
 
 
