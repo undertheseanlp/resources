@@ -18,7 +18,7 @@ except:
 # Build and pack datasets to this release
 DATASETS_FOLDER = "tmp/datasets"
 os.makedirs(DATASETS_FOLDER)
-shutil.make_archive(join(DATASETS_FOLDER, "SE_Vietnamese-UBS"), "zip", "SE_Vietnamese-UBS/data")
+shutil.make_archive(join(DATASETS_FOLDER, "SE_Vietnamese-UBS"), "zip", "resources/SE_Vietnamese-UBS/data")
 
 # Upload assets
 

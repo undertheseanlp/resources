@@ -2,7 +2,6 @@ import json
 
 from flask import Flask, request
 from flask import jsonify
-from data import CONLLCorpus, CONLLFactory
 from corpus import corpus
 
 app = Flask(__name__, static_url_path='/', static_folder='.')
