@@ -15,7 +15,8 @@ for release in releases:
     print(release)
 
 print(G.get_user())
-print(len(G.get_user().get_repos()))
+repos =[repo for repo in G.get_user().get_repos()]
+print(len(repos))
 # for repo in G.get_user().get_repos():
 #     print(repo.name)
 
