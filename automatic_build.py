@@ -28,7 +28,7 @@ def validate_corpus_folder(f):
 
 FOLDER = dirname(realpath(__file__))
 folders = [f for f in listdir(FOLDER) if isdir(join(FOLDER, f))]
-ignore_folders = ["tools", "app", "docs", ".git", "data", "tmp", ".idea", "extras"]
+ignore_folders = ["tools", "app", "docs", ".git", "data", "tmp", ".idea", "extras", ".github"]
 corpus_folders = [f for f in folders if f not in ignore_folders]
 for f in corpus_folders:
     validate_corpus_folder(f)

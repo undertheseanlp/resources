@@ -1,0 +1,26 @@
+on:
+  push:
+    # Sequence of patterns matched against refs/tags
+    branches:
+    - 'master'
+
+name: Release 
+
+jobs:
+  build:
+    name: Release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Set up Python 3.6
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.6
+      - name: Release datasets
+        run: |
+          pip install -r release_requirements.txt
+          echo ${{ secrets.GITHUB_TOKEN }}
+          python release.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
