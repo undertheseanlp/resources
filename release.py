@@ -22,7 +22,3 @@ except:
 assets = ["README.md"]
 release = repo.get_release(id=version)
 release.upload_asset("README.md")
-
-
-
-
