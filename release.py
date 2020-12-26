@@ -1,5 +1,7 @@
 import os
 import sys
+import shutil
+from os.path import join
 
 print("Release")
 version = open("VERSION").read().strip()
@@ -21,13 +23,21 @@ except:
     pass
 
 # Build and pack datasets to this release
-assets = ["README.md"]
+DATASETS_FOLDER = "tmp/datasets"
+shutil.rmtree(DATASETS_FOLDER)
+os.makedirs(DATASETS_FOLDER)
+shutil.make_archive(join("SE_Vietnamese-UBS.zip"), "zip", "SE_Vietnamese-UBS/data")
+
+# Upload assets
+assets = os.listdir(DATASETS_FOLDER)
 release = repo.get_release(id=version)
-current_assets = [asset.name for asset in release.get_assets()]
+current_assets = set([asset.name for asset in release.get_assets()])
 print(current_assets)
 for asset in assets:
+    if asset in current_assets:
+        continue
     try:
-        release.upload_asset(asset)
+        release.upload_asset(join(DATASETS_FOLDER, asset))
         print(f"Upload asset {asset} successfully")
     except:
         pass
