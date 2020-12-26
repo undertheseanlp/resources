@@ -1,8 +1,10 @@
 import os
 import sys
+
 print("Release")
 version = open("VERSION").read().strip()
 from github import Github
+
 token = os.environ['GITHUB_TOKEN']
 print("environ", os.environ)
 print("token", token)
@@ -21,4 +23,9 @@ except:
 # Build and pack datasets to this release
 assets = ["README.md"]
 release = repo.get_release(id=version)
-release.upload_asset("README.md")
+for asset in assets:
+    try:
+        release.upload_asset(asset)
+        print(f"Upload asset {asset} successfully")
+    except:
+        pass
