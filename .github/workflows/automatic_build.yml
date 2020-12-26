@@ -1,6 +1,10 @@
 name: Automatic Build
 
 on:
+  push:
+    branches:
+      - master
+      - GH-40
   schedule:
     - cron: '* * * * *' # every minute
 
