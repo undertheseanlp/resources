@@ -21,4 +21,6 @@ jobs:
       - name: Get result
         run: |
           pip install -r release_requirements.txt
-          python release.py $GITHUB_TOKEN
+          python release.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
