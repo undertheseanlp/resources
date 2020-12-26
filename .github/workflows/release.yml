@@ -21,4 +21,4 @@ jobs:
       - name: Get result
         run: |
           pip install -r release_requirements.txt
-          python release.py
+          python release.py $GITHUB_TOKEN
