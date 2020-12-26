@@ -1,0 +1,18 @@
+on:
+  push:
+    # Sequence of patterns matched against refs/tags
+    branches:
+    - 'master'
+    - 'GH-36'
+
+name: Release 
+
+jobs:
+  build:
+    name: Release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Get result
+        run: python release.py
