@@ -15,4 +15,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Get result
-        run: python release.py
+        run: |
+          pip install -r release_requirements.txt
+          python release.py
