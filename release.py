@@ -3,7 +3,7 @@ import sys
 print("Release")
 
 from github import Github
-token = os.getenv('GITHUB_TOKEN', '...')
+token = os.environ['GITHUB_TOKEN']
 print("environ", os.environ)
 print("token", token)
 print(sys.argv)
