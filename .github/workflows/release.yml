@@ -18,7 +18,7 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.6
-      - name: Releast datasets
+      - name: Release datasets
         run: |
           pip install -r release_requirements.txt
           echo ${{ secrets.GITHUB_TOKEN }}
