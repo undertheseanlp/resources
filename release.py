@@ -19,6 +19,7 @@ except:
     pass
 
 # Build and pack datasets to this release
+assets = ["README.md"]
 release = repo.get_release(id=version)
 release.upload_asset("README.md")
 
