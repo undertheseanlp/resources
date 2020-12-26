@@ -10,16 +10,7 @@ print(sys.argv)
 G = Github(token)
 
 repo = G.get_repo("undertheseanlp/resources")
-releases = repo.get_releases()
-for release in releases:
-    print(release)
-
-print(G.get_user())
-for repo in G.get_user().get_repos():
-    try:
-        print(repo.name)
-    except Exception as e:
-        print(e)
+repo.create_git_release('abc', 'abc', 'abc')
 
 
 
