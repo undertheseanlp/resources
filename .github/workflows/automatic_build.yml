@@ -17,7 +17,7 @@ jobs:
           python-version: 3.6
       - name: Run build
         run: |
-          pip install -r release_requirements.txt
+          pip install -r actions_requirements.txt
           python automatic_build.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
