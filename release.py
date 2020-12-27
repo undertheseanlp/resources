@@ -37,11 +37,13 @@ for dataset in datasets:
     shutil.make_archive(join(DATASETS_FOLDER, dataset), "zip", datasets[dataset])
 
 # Upload assets
-
 assets = os.listdir(DATASETS_FOLDER)
 release = repo.get_release(id=version)
 current_assets = set([asset.name for asset in release.get_assets()])
-print(current_assets)
+print(f"Current datasets: {len(current_assets)}")
+for asset in current_assets:
+    print(f"- {asset}")
+
 for asset in assets:
     if asset in current_assets:
         continue
