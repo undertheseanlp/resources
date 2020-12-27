@@ -1,5 +1,6 @@
 import os
 import shutil
+from os import listdir
 from os.path import join
 from github import Github
 
@@ -14,14 +15,26 @@ try:
 except:
     pass
 
+
 # Build and pack datasets to this release
+def scan_datasets():
+    resources = os.listdir("resources")
+    datasets = {}
+    for resource in resources:
+        if "datasets" not in listdir(join("resources", resource)):
+            print(f"[warning] {resource} has not datasets")
+            continue
+        items = listdir(join("resources", resource, "datasets"))
+        for item in items:
+            datasets[item] = join("resources", resource, "datasets", item)
+    return datasets
+
+
+datasets = scan_datasets()
 DATASETS_FOLDER = "tmp/datasets"
 os.makedirs(DATASETS_FOLDER)
-def scan_datasets():
-    pass
-datasets = scan_datasets()
-
-shutil.make_archive(join(DATASETS_FOLDER, "SE_Vietnamese-UBS"), "zip", "resources/SE_Vietnamese-UBS/corpus")
+for dataset in datasets:
+    shutil.make_archive(join(DATASETS_FOLDER, dataset), "zip", datasets[dataset])
 
 # Upload assets
 
