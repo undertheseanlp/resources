@@ -1,0 +1,32 @@
+# doc_id = news_tech_001
+# url = https://dantri.com.vn/suc-manh-so/google-chinh-thuc-trinh-lang-bo-doi-smartphone-pixel-5-va-pixel-4-a-5-g-20201001101646033.htm
+# date = 20201001
+Google chính thức trình làng bộ đôi smartphone Pixel 5 và Pixel 4a 5G
+Sau khi được hé lộ hồi tháng 8 vừa qua, Google đã chính thức trình làng bộ đôi smartphone mới nhất mang thương hiệu Pixel của hãng, Pixel 5 và Pixel 4a 5G.
+Tại sự kiện đặc biệt diễn ra hồi tháng 8 vừa qua, Google đã trình làng chiếc smartphone tầm trung Pixel 4a, đồng thời hé lộ bộ đôi smartphone Pixel 5 và Pixel 4a 5G.
+Mới đây, bộ đôi smartphone mới nhất mang thương hiệu Pixel của Google đã chính thức trình làng.
+Pixel 5
+Pixel 5 là chiếc smartphone cao cấp nhất hiện nay của Google.
+Sản phẩm sở hữu thiết kế với các góc bo tròn.
+Khác với các mẫu smartphone khác hiện có trên thị trường, mặt lưng của Pixel 5 sử dụng chất liệu nhôm, thay vì kính cường lực hay nhựa.
+Pixel 5 sở hữu thiết kế màn hình tràn viền dạng “đục lỗ” để bố trí camera trước độ phân giải 8 megapixel.
+Cảm biến vân tay cũng được tích hợp vào mặt lưng sản phẩm, thay vì được tích hợp vào bên trong màn hình.
+Google thường trang bị cho các mẫu Pixel cao cấp nhất của hãng cấu hình mạnh mẽ, nhưng với Pixel 5, Google lại nhắm chiếc smartphone của mình đến phân khúc cận cao cấp, khi không trang bị cho sản phẩm cấu hình cao cấp nhất.
+Sản phẩm sở hữu màn hình 6-inch, sử dụng công nghệ OLED, độ phân giải Full HD+ (2340x1080), nhưng tần số làm tươi 90Hz, thay vì 120Hz như nhiều mẫu smartphone khác hiện có trên thị trường.
+Bên trong là bộ vi xử lý Snapdragon 765G, đi kèm bộ nhớ RAM 8GB, bộ nhớ lưu trữ 128GB, không hỗ trợ khe cắm thẻ nhớ ngoài.
+Sản phẩm được trang bị thỏi pin dung lượng 4.080mAh, hỗ trợ sạc nhanh 18W, sạc không dây và sạc ngược không dây.
+Camera và chất lượng ảnh chụp vẫn luôn là yếu tố được đánh giá cao trên các mẫu smartphone Pixel, do vậy Pixel 5 cũng không là ngoại lệ.
+Google không cần trang bị cho sản phẩm của mình quá nhiều camera như các đối thủ, nhưng vẫn cho chất lượng ảnh chụp tốt nhờ vào khả năng tối ưu của phần mềm.
+Pixel 5 cũng chỉ được trang bị cụm camera kép, bao gồm camera chính 12 megapixel và camera góc rộng 16 megapixel, thay vì 3 hoặc 4 camera như các mẫu smartphone hiện nay trên thị trường.
+Pixel 5 hỗ trợ kết nối mạng 5G, trang bị tính năng chống nước và hoạt động trên nền tảng Android 11 mới nhất.
+Sản phẩm sẽ được bán ra từ ngày 15/10, với mức giá 699 USD.
+Pixel 4a 5G
+Google đã trình làng chiếc smartphone Pixel 4a hồi tháng 8 vừa qua và giờ đây, hãng tiếp tục trình làng thêm phiên bản hỗ trợ mạng 5G của chiếc smartphone này.
+Dù có tên gọi giống nhau, phiên bản Pixel 4a 5G có sự khác biệt cả về kích thước lẫn cấu hình so với phiên bản Pixel 4a đã ra mắt.
+Pixel 4a 5G được mở rộng màn hình lên thành 6,2-inch (thay vì chỉ 5,8-inch như phiên bản Pixel 4a), với độ phân giải Full HD+ (2340x1080), sử dụng công nghệ OLED.
+Mặt lưng của sản phẩm cũng vẫn sử dụng chất liệu nhựa, với cảm biến vân tay được tích hợp ở mặt sau.
+Cấu hình của Pixel 4a 5G cũng được nâng lên đáng kể, khi trang bị chip xử lý Snapdragon 765G (thay vì Snapdragon 730G như Pixel 4a), bộ nhớ RAM 6GB, đi kèm bộ nhớ lưu trữ 128GB, không hỗ trợ khe cắm thẻ nhớ ngoài.
+Pin trên sản phẩm cũng được nâng lên thành 3.885mAh (thay vì chỉ 3.140mAh), hỗ trợ sạc nhanh 18W, nhưng không hỗ trợ sạc không dây hay sạc ngược không dây.
+Google cũng trang bị cụm camera kép cho Pixel 4a 5G, thay vì chỉ một camera như trên Pixel 4a, với camera chính 12 megapixel và camera góc siêu rộng 16 megapixel.
+Pixel 4a 5G không được trang bị tính năng chống nước như trên Pixel 5, nhưng vẫn được giữ lại giắc cắm phone 3,5mm.
+Sản phẩm sẽ được bán ra thị trường từ ngày 15/10 tới đây, với mức giá 499 USD, đắt hơn 150 USD so với phiên bản Pixel 4a đã ra mắt trước đó.

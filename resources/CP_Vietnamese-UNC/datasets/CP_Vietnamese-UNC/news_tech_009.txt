@@ -1,0 +1,29 @@
+# doc_id = news_tech_009
+# url = https://dantri.com.vn/suc-manh-so/toiuutainguyenhe-thong-nhoungdung-ai-20201002162350420.htm
+# date = 20201002
+Tối ưu tài nguyên hệ thống nhờ ứng dụng AI
+Aruba ESP cho phép doanh nghiệp quản trị tối ưu tài nguyên và đơn giản hóa quản lý IoT nhờ vào AI. Các hoạt động được phân tích tại biên mạng giúp nâng cao khả năng tự động hóa trong quản trị mạng và xử lý dữ liệu tức thì.
+Aruba ESP (Edge Services Platform) là nền tảng mạng biên trên nền cloud với sự hỗ trợ của AI đầu tiên trong ngành, được các chuyên gia công nghệ xem như “giác quan thứ sáu” - cho kết nối mạng.
+Ứng dụng AI trong quản trị hạ tầng, Aruba trở thành nhà cung cấp tiên phong trong kỷ nguyên mạng biên - nền tảng ESP giúp giải quyết những thách thức ngay từ biên mạng (edge) trước sự bùng nổ về dữ liệu, về thiết bị IoT, các nội dung video băng thông cao, các ứng dụng di động hay dịch vụ viễn thông 5G…
+Đây cũng là nền tảng lập trình hoàn chỉnh đầu tiên tạo ra dữ liệu theo bối cảnh, như thông tin định danh, vị trí, tình trạng bảo mật cũng như các ứng dụng đang dùng, để trợ lực cho việc đưa ra quyết định dựa vào AIOps (các nền tảng kết hợp AI vận hành hệ thống IT).
+Để khai mở tiềm năng của mạng biên, Aruba ESP được phát triển với bốn phương châm: Kết nối - Bảo vệ - Phân tích và Thực hành, giúp tự động hóa xử lý dữ liệu thống nhất trên toàn bộ chu trình hoạt động.
+Với khả năng hợp nhất các phần cứng IoT, IT và OT, Aruba ESP giúp hệ thống nhanh chóng thích ứng với nhu cầu kết nối không ngừng thay đổi.
+Thông qua việc phân tích liên tục các thông tin chuyên sâu về hệ thống, người dùng và thiết bị, Aruba ESP biến thông tin thành kiến ​​thức, đẩy nhanh quá trình chuyển đổi của tổ chức, đồng thời bảo mật đồng bộ trên toàn doanh nghiệp nhờ nền tảng cloud.
+Nhìn từ góc độ dịch vụ đám mây và quản lý dữ liệu, Aruba ESP giúp chuyên viên IT dễ dàng quản lý việc vận hành mạng.
+Nền tảng cũng có chính sách hoạt động linh hoạt, an toàn cùng bộ giải pháp ClearPass giúp khám phá, phân quyền và kiểm soát các thiết bị IoT, thiết bị di động cần kết nối hệ thống.
+Điều này đặc biệt hữu dụng khi doanh nghiệp có chính sách làm việc từ xa.
+Đáng chú ý, Aruba hợp tác với các chương trình đối tác như ArubaEdge, 360 Security Exchange và Meridian Engage.
+Các chương trình này được xây dựng trên giao diện lập trình mở, giúp việc xác minh các thiết bị kết nối, bảo mật cho các ứng dụng của bên thứ ba cũng như cung cấp các dịch vụ định vị trở nên hiệu quả hơn.
+Ông Justin Chiah, giám đốc cấp cao Aruba Đông Nam Á, Đài Loan và Hồng Kông/Macau định nghĩa thiết kế Aruba ESP nhằm giúp các tổ chức tận dụng từ xa dữ liệu để giảm độ phức tạp nhờ vào tự động hóa cùng lúc nhiều tác vụ IT.
+“Aruba ESP phù hợp hơn với môi trường kinh tế hiện nay, khi ​​doanh nghiệp đẩy mạnh chuyển đổi số và phần lớn sự thay đổi phụ thuộc vào việc có các công cụ quản lý mạng an toàn, có thể mở rộng, có nguồn gốc và trên nền tảng cloud,” theo đại diện Aruba.
+Doanh nghiệp có thể kết nối với hệ sinh thái công nghệ đối tác mở rộng của Aruba để có giải pháp cho từng ngành như giáo dục, y tế, công nghiệp, sản xuất, bán lẻ, vận chuyển và vận hành chính phủ.
+Nền tảng này cũng có thể được dùng trong các tòa nhà thông minh, hệ thống sản xuất công nghiệp và các mảng khác của Intelligent Edge (xử lý dữ liệu biên).
+Trong thông cáo báo chí của mình, Aruba trích dẫn các triển khai của khách hàng cho thấy nền tảng Aruba ESP giúp dung lượng mạng tăng 15% và thời gian giải quyết vấn đề giảm đi 90%. Điều này vừa giúp tăng trải nghiệm người dùng vừa cắt giảm được chi phí.
+“Các cỗ máy, ứng dụng và giao diện thường được đo ni đóng giày cho một số ứng dụng IoT, IT và OT nhất định.
+Điều này khiến việc quản trị hệ thống trở nên phức tạp,” Will Townsend, chuyên gia phân tích cấp cao của Moor Insights & Strategy chỉ ra và nhận định: “Sau khi phân tích Aruba ESP, tôi tin rằng nền tảng này có tiềm năng giảm thiểu độ phức tạp, đồng thời tăng tốc cho các tác vụ tại chỗ và cả trên cloud.”
+Tham dự Aruba webinar để cùng các chuyên gia khám phá Aruba ESP sẽ giúp gì cho các doanh nghiệp Việt Nam trong chuyển đổi số.
+3 trụ cột cốt lõi của Aruba ESP
+AIOps sử dụng AI tìm ra nguyên nhân của các vấn đề, chủ động theo dõi trải nghiệm người dùng, sau đó phân tích nguyên nhân và tự động xử lý hầu hết tác vụ trước khi sự cố có thể xảy ra.
+Hạ tầng hợp nhất các thiết bị phần cứng trên một nền tảng giúp giảm thời gian quản lý và giảm lỗi từ các thao tác thủ công. Aruba ESP được tích hợp để nhận định, phân tích và phản ứng với dữ liệu theo bối cảnh.
+Chính sách bảo mật thông tin Zero Trust: Nhờ phân quyền truy cập hệ thống, Aruba tối ưu bảo mật dựa trên vai trò, phân tích và phát hiện xâm nhập dựa trên danh tính để tự động xác thực, kiểm soát mọi điểm kết nối mạng.
+Aruba còn trao đổi chính sách bảo mật với hơn 130 hãng để hiểu sâu từng thiết bị và triển khai bảo mật cần thiết.

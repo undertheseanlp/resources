@@ -1,0 +1,17 @@
+# doc_id = news_tech_017
+# url = https://dantri.com.vn/suc-manh-so/apple-to-chuc-su-kien-dac-biet-ngay-1011-san-pham-moi-nao-se-xuat-hien-20201103023110252.htm
+# date = 20201103
+Apple tổ chức sự kiện đặc biệt ngày 10/11, sản phẩm mới nào sẽ xuất hiện?
+Apple cho biết sẽ tổ chức thêm một sự kiện đặc biệt vào ngày 10/11 tới đây để giới thiệu sản phẩm mới.
+Câu hỏi được giới công nghệ đặt ra là Apple sẽ ra mắt sản phẩm nào tại sự kiện này?
+“One More Thing” (Thêm một điều nữa) là câu nói quen thuộc của cố CEO Steve Jobs tại các sự kiện đặc biệt ra mắt sản phẩm mới của Apple.
+Mỗi khi CEO Steve Jobs nói ra câu này đồng nghĩa với việc Apple sẽ chuẩn bị công bố một sản phẩm mới và những người có mặt tại sự kiện của Apple sẽ “nín thở” chờ đợi xem Steve Jobs sẽ công bố sản phẩm nào và đó chắc chắn là một sản phẩm đặc biệt, luôn được Apple công bố vào phút cuối của sự kiện.
+Mới đây, Apple đã gửi thư mời đến giới truyền thông và công nghệ để tham dự sự kiện đặc biệt được diễn ra vào ngày 10/11 tới đây.
+Cũng như các sự kiện khác trước đây, Apple không hé lộ bất kỳ thông tin chi tiết nào trên thư mời, ngoại trừ thông điệp: “One More Thing”.
+Chính vì thông điệp này, giới công nghệ tin chắc rằng sản phẩm Apple sắp công bố tại sự kiện sắp tới sẽ rất đặc biệt.
+Theo nhiều nguồn tin, Apple sẽ giới thiệu chiếc máy tính Mac sử dụng chip do chính mình phát triển, thay vì sử dụng chip Intel như trước đây.
+Trước đó, tại Hội nghị các nhà phát triển (WWDC) diễn ra ngày 22/6 vừa qua, Apple cho biết, các máy tính Mac thế hệ mới của hãng ra mắt trong thời gian tới sẽ sử dụng chip do chính Apple phát triển, được xây dựng dựa trên cấu trúc ARM, thay vì sử dụng các loại chip của Intel như hiện nay.
+Việc sử dụng chip cấu trúc ARM sẽ giúp máy tính Mac hoạt động tiết kiệm năng lượng hơn, hiệu suất cải thiện và trong trương lai, các mẫu laptop MacBook dùng chip ARM cũng sẽ có thiết kế mỏng và nhẹ hơn.
+Bên cạnh máy tính Mac dùng chip mới của Apple, sự kiện sắp diễn ra cũng có thể là dịp để Apple chính thức phát hành phiên bản chính thức của hệ điều hành macOS 11 Big Sur.
+Như vậy, đây là sự kiện đặc biệt thứ 3 được Apple tổ chức trong năm 2020. Trước đó Apple cũng đã tổ chức 2 sự kiện đặc biệt vào tháng 9 và tháng 10 để giới thiệu chiếc máy tính bảng iPad Air thế hệ mới, đồng hồ thông minh Apple Watch 6/SE và loạt iPhone 12 hoàn toàn mới.
+Cũng như 2 sự kiện đặc biệt trước đây, sự kiện sắp diễn ra của Apple cũng sẽ được tổ chức dưới dạng trực tuyến và sẽ phát trực tiếp trên Internet để những ai quan tâm đều có thể theo dõi.

@@ -7,7 +7,6 @@ G = Github(os.environ['GITHUB_TOKEN'])
 repo = G.get_repo("undertheseanlp/resources")
 version = open("VERSION").read().strip()
 
-
 # Create new release if not exists
 try:
     release_message = f"Release {version}"
@@ -18,6 +17,10 @@ except:
 # Build and pack datasets to this release
 DATASETS_FOLDER = "tmp/datasets"
 os.makedirs(DATASETS_FOLDER)
+def scan_datasets():
+    pass
+datasets = scan_datasets()
+
 shutil.make_archive(join(DATASETS_FOLDER, "SE_Vietnamese-UBS"), "zip", "resources/SE_Vietnamese-UBS/corpus")
 
 # Upload assets

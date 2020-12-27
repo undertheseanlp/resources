@@ -1,0 +1,12 @@
+# doc_id = news_tech_002
+# url = https://dantri.com.vn/suc-manh-so/ngo-ngang-voi-kha-nang-hoan-doi-khuon-mat-cua-cong-nghe-deepfake-20201001082018016.htm
+# date = 20201001
+Ngỡ ngàng với khả năng hoán đổi khuôn mặt của công nghệ Deepfake
+Sử dụng AI Deepfake, một YouTuber thu hút sự chú ý khi hoán đổi gương mặt của các siêu anh hùng trong tựa phim Avengers.
+Công nghệ Deepfake từ lâu đã nổi tiếng với những màn "hoán đổi gương mặt" gây sốc có độ chân thực cao mà ngay cả những người khó tính nhất cũng không nhận ra được.
+Mới đây, YouTuber Shamook tiếp tục thu hút sự chú ý của cộng đồng mạng với loạt video mới sử dụng Deepfake để hoán đổi gương mặt của nhân vật Captain America (diễn bởi Chris Evans) và Black Widow (Scarlett Johansson).
+Trong đoạn video kéo dài 2 phút dành cho nhân vật Captain America, từng cử chỉ khuôn mặt, hành động của Chris Evans đã được Deepfake hoán đổi thành John Krasinski - một nam diễn viên nổi tiếng, một cách vô cùng chân thực.
+Còn trong video về "Góa phụ đen" Black Widow, khuôn mặt khả ái của Scarlett Johansson cũng được hoán đổi thành nữ diễn viên Emily Blunt, mang cho người xem sự thích thú.
+Cả hai video đã thu hút hàng trăm ngàn lượt xem chỉ sau 1 tuần đăng tải.
+Đa số những bình luận dành sự khen ngợi cho công nghệ AI Deepfake.
+Tuy nhiên, cũng có một số bày tỏ sự lo sợ nếu như công cụ này được sử dụng với mục đích xấu.
