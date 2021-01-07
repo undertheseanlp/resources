@@ -24,19 +24,19 @@ Open Vietnamese Natural Language Processing Resources
 
 ## List Datasets
 
-🐟 [/home/anhv/PycharmProjects/undertheseanlp/resources/resources/CP_Vietnamese-UNC](/home/anhv/PycharmProjects/undertheseanlp/resources/resources/CP_Vietnamese-UNC)
+🐟 [resources/CP_Vietnamese-UNC](CP_Vietnamese-UNC)
 
 Underthesea News Corpus
 
 `task:corpus` `domain:news` `version:1.0.0-alpha` `year:2020`
 
-🐟 [/home/anhv/PycharmProjects/undertheseanlp/resources/resources/SE_Vietnamese-UBS](/home/anhv/PycharmProjects/undertheseanlp/resources/resources/SE_Vietnamese-UBS)
+🐟 [resources/SE_Vietnamese-UBS](SE_Vietnamese-UBS)
 
-Bank Sentiment Dataset
+Bank Sentiment Corpus
 
 `task:sentiment` `domain:bank` `version:1.0.0` `year:2017`
 
-🐟 [/home/anhv/PycharmProjects/undertheseanlp/resources/resources/DI_Vietnamese-UVD](/home/anhv/PycharmProjects/undertheseanlp/resources/resources/DI_Vietnamese-UVD)
+🐟 [resources/DI_Vietnamese-UVD](DI_Vietnamese-UVD)
 
 Underthesea Vietnamese Dictionary
 

@@ -22,9 +22,10 @@ def validate_corpus_folder(f):
         exit(f"[ERROR] Resource {resource_name} must has valid metadata.yaml file")
     with open(join(f, "metadata.yaml")) as metadata_file:
         corpus = yaml.safe_load(metadata_file)
-        corpus["name"] = f
+        corpus["name"] = basename(f)
         corpora.append(corpus)
     print(f"[✓] Validate resource {resource_name}: Success\n")
+
 
 PROJECT_FOLDER = dirname(realpath(__file__))
 RESOURCES_FOLDER = join(PROJECT_FOLDER, "resources")
@@ -62,7 +63,7 @@ for corpus in corpora:
     domain = get_key(corpus, "domain")
     year = get_key(corpus, "year")
     version = get_key(corpus, "version")
-    c += f"🐟 [{name}]({name})\n\n"
+    c += f"🐟 [resources/{name}]({name})\n\n"
     c += f"{description}\n\n"
     c += f"`task:{task}` `domain:{domain}` `version:{version}` `year:{year}`\n"
     c += "\n"
