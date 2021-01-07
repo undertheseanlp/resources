@@ -1,6 +1,6 @@
 import sys
 from os import listdir
-from os.path import dirname, join, isdir, realpath
+from os.path import dirname, join, isdir, realpath, basename
 from termcolor import colored
 import yaml
 
@@ -15,21 +15,20 @@ corpora = []
 
 def validate_corpus_folder(f):
     # each resource folder should has metadata file
-    print(f"[ ] Validate resource {f}")
     files = listdir(f)
+    resource_name = basename(f)
+    print(f"[ ] Validate resource {resource_name}")
     if "metadata.yaml" not in files:
-        exit("[ERROR] Resource must has valid metadata.yaml file")
+        exit(f"[ERROR] Resource {resource_name} must has valid metadata.yaml file")
     with open(join(f, "metadata.yaml")) as metadata_file:
         corpus = yaml.safe_load(metadata_file)
         corpus["name"] = f
         corpora.append(corpus)
-    print(f"[✓] Validate resource {f}: Success\n")
+    print(f"[✓] Validate resource {resource_name}: Success\n")
 
 
-FOLDER = dirname(realpath(__file__))
-folders = [f for f in listdir(FOLDER) if isdir(join(FOLDER, f))]
-ignore_folders = ["tools", "app", "docs", ".git", "data", "tmp", ".idea", "extras", ".github"]
-corpus_folders = [f for f in folders if f not in ignore_folders]
+FOLDER = join(dirname(realpath(__file__)), "resources")
+corpus_folders = [join(FOLDER, f) for f in listdir(FOLDER) if isdir(join(FOLDER, f))]
 for f in corpus_folders:
     validate_corpus_folder(f)
 
