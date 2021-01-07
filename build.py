@@ -24,7 +24,7 @@ def validate_corpus_folder(f):
         corpus = yaml.safe_load(metadata_file)
         corpus["name"] = basename(f)
         corpora.append(corpus)
-    print(f"[✓] Validate resource {resource_name}: Success\n")
+    print(f"\t  ✓ Done\n")
 
 
 PROJECT_FOLDER = dirname(realpath(__file__))
@@ -71,4 +71,4 @@ for corpus in corpora:
 
 with open(join(PROJECT_FOLDER, 'README.md'), 'w') as f:
     f.write(content)
-print("[✓] Generate README.md file: Success")
+print(f"\t  ✓ Done\n")
