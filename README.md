@@ -20,25 +20,25 @@
 Open Vietnamese Natural Language Processing Resources
 </h3>
 
-`🌊Resources` provides *open datasets*, *tools* and *guidelines* for Vietnamese Natural Language Processing
+`🌊Resources` provides open resources for Vietnamese Natural Language Processing
 
 ## List Datasets
 
-🐟 [CP_Vietnamese-UNC](resources/CP_Vietnamese-UNC)
+🐟 [/home/anhv/PycharmProjects/undertheseanlp/resources/resources/CP_Vietnamese-UNC](/home/anhv/PycharmProjects/undertheseanlp/resources/resources/CP_Vietnamese-UNC)
 
 Underthesea News Corpus
 
-`task:text-corpus` `domain:news` `year:2020` `version:1.0.0`
+`task:corpus` `domain:news` `version:1.0.0-alpha` `year:2020`
 
-🐟 [DI_Vietnamese-UVD](resources/DI_Vietnamese-UVD)
+🐟 [/home/anhv/PycharmProjects/undertheseanlp/resources/resources/SE_Vietnamese-UBS](/home/anhv/PycharmProjects/undertheseanlp/resources/resources/SE_Vietnamese-UBS)
+
+Bank Sentiment Dataset
+
+`task:sentiment` `domain:bank` `version:1.0.0` `year:2017`
+
+🐟 [/home/anhv/PycharmProjects/undertheseanlp/resources/resources/DI_Vietnamese-UVD](/home/anhv/PycharmProjects/undertheseanlp/resources/resources/DI_Vietnamese-UVD)
 
 Underthesea Vietnamese Dictionary
 
 `task:dictionary` `domain:general` `version:1.0.0-alpha` `year:2020`
-
-🐟 [SE_Vietnamese-UBS](resources/SE_Vietnamese-UBS) 
-
-Underthesea Bank Sentiment Dataset
-
-`task:sentiment` `domain:bank` `version:1.0.0` `year:2017`
 
