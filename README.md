@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/made%20with-%E2%9D%A4-red.svg"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/datasets-3-brightgreen"/>
+    <img src="https://img.shields.io/badge/datasets-4-brightgreen"/>
   </a>
 </p>
 
@@ -24,21 +24,27 @@ Open Vietnamese Natural Language Processing Resources
 
 ## List Datasets
 
+🐟 [CP_Vietnamese-VLC](resources/CP_Vietnamese-VLC)
+
+Vietnamese Law Corpus
+
+`task:corpus` `domain:legal` `version:1.0.0-alpha` `year:2020`
+
 🐟 [CP_Vietnamese-UNC](resources/CP_Vietnamese-UNC)
 
 Underthesea News Corpus
 
-`task:corpus` `domain:news` `version:1.0.0-alpha` `year:2020`
+`task:corpus` `domain:news` `version:1.0-alpha` `year:2020`
 
 🐟 [SE_Vietnamese-UBS](resources/SE_Vietnamese-UBS)
 
 Bank Sentiment Corpus
 
-`task:sentiment` `domain:bank` `version:1.0.0` `year:2017`
+`task:sentiment` `domain:bank` `version:1` `year:2017`
 
 🐟 [DI_Vietnamese-UVD](resources/DI_Vietnamese-UVD)
 
 Underthesea Vietnamese Dictionary
 
-`task:dictionary` `domain:general` `version:1.0.0-alpha` `year:2020`
+`task:dictionary` `domain:general` `version:1.0-alpha` `year:2020`
 
