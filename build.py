@@ -22,13 +22,15 @@ def validate_corpus_folder(f):
         exit(f"[ERROR] Resource {resource_name} must has valid metadata.yaml file")
     with open(join(f, "metadata.yaml")) as metadata_file:
         corpus = yaml.safe_load(metadata_file)
-        corpus["name"] = f
+        corpus["name"] = basename(f)
         corpora.append(corpus)
-    print(f"[✓] Validate resource {resource_name}: Success\n")
+    print(f"\t  ✓ Done\n")
 
 
-FOLDER = join(dirname(realpath(__file__)), "resources")
-corpus_folders = [join(FOLDER, f) for f in listdir(FOLDER) if isdir(join(FOLDER, f))]
+PROJECT_FOLDER = dirname(realpath(__file__))
+RESOURCES_FOLDER = join(PROJECT_FOLDER, "resources")
+corpus_folders = [join(RESOURCES_FOLDER, f) for f in listdir(RESOURCES_FOLDER) if isdir(join(RESOURCES_FOLDER, f))]
+
 for f in corpus_folders:
     validate_corpus_folder(f)
 
@@ -37,7 +39,7 @@ print(f"-> Detect {len(corpora)} resources\n")
 print("[ ] Generate README.md file")
 content = ""
 # generate header
-c = open(join(FOLDER, "docs", "templates", "README.md")).read()
+c = open(join(PROJECT_FOLDER, "docs", "templates", "README.md")).read()
 dataset_badge_template = "https://img.shields.io/badge/datasets-?-brightgreen"
 dataset_badge = dataset_badge_template.replace("?", str(len(corpora)))
 c = c.replace(dataset_badge_template, dataset_badge)
@@ -62,12 +64,12 @@ for corpus in corpora:
     domain = get_key(corpus, "domain")
     year = get_key(corpus, "year")
     version = get_key(corpus, "version")
-    c += f"🐟 [{name}]({name})\n\n"
+    c += f"🐟 [{name}](resources/{name})\n\n"
     c += f"{description}\n\n"
     c += f"`task:{task}` `domain:{domain}` `version:{version}` `year:{year}`\n"
     c += "\n"
     content += c
 
-with open(join(FOLDER, 'README.md'), 'w') as f:
+with open(join(PROJECT_FOLDER, 'README.md'), 'w') as f:
     f.write(content)
-print("[✓] Generate README.md file: Success")
+print(f"\t  ✓ Done\n")

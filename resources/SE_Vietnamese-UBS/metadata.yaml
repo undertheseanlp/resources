@@ -1,7 +1,7 @@
-version: 1.0.0
+version: 1
 task: sentiment
 domain: bank
 year: 2017
-description: Bank Sentiment Dataset
+description: Bank Sentiment Corpus
 authors:
   - Vu Anh <anhv.ict91@gmail.com>
