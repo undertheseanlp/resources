@@ -4,7 +4,11 @@ Vietnamese Legal Corpus
 
 Vietnam's system of legal documents
 
-8 code
+Constitution
+
+* Hiến pháp
+
+8 codes
 
 1. Bộ Luật dân sự
 2. Bộ luật Tố tụng dân sự
@@ -15,7 +19,7 @@ Vietnam's system of legal documents
 7. Bộ luật Lao động Sửa đổi, bổ sung Điều 73 của Bộ luật Lao động
 8. Luật sửa đổi, bổ sung 1 số điều của Bộ luật lao động
 
-124 law
+124 laws
 
 1. Luật An ninh quốc gia
 2. Luật Ban hành văn bản quy phạm pháp luật
