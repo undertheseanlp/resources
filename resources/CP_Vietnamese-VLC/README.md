@@ -8,7 +8,7 @@ Constitution
 
 * Hiến pháp
 
-8 codes
+6 codes
 
 1. Bộ Luật dân sự
 2. Bộ luật Tố tụng dân sự
@@ -16,8 +16,6 @@ Constitution
 4. Bộ luật Tố tụng Hình sự
 5. Bộ luật hàng hải
 6. Bộ luật Lao động
-7. Bộ luật Lao động Sửa đổi, bổ sung Điều 73 của Bộ luật Lao động
-8. Luật sửa đổi, bổ sung 1 số điều của Bộ luật lao động
 
 124 laws
 
