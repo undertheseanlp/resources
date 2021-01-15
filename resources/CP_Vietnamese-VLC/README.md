@@ -40,7 +40,7 @@ Constitution
 19. Luật Sửa đổi, bổ sung 1 số điều của Luật Các tổ chức tín dụng
 20. Luật Cải cách ruộng đất
 21. Luật Cạnh tranh
-22. Chuyển giao công nghệ
+22. Luật Chuyển giao công nghệ
 23. Luật Chứng khoán
 24. Luật Cư trú
 25. Luật Công an nhân dân
@@ -77,17 +77,17 @@ Constitution
 56. Luật Hải quan
 57. Sửa đổi, bổ sung 1 số điều của Luật Hải quan
 58. Luật Hiến, ghép, lấy mô, bộ phận cơ thể người và hiến, lấy xác
-59. Luật Hoạt động giám sát của Quốc hội
+59. Luật Hoạt động giám sát của Quốc hội và Hội đồng nhân dân
 60. Luật Hôn nhân và gia đình
 61. Luật Hợp tác xã
 62. Luật Kế toán
 63. Luật Khiếu nại, tố cáo
 64. Luật sửa đổi, bổ sung 1 số điều của luật Khiếu nại, tố cáo
-65. Khuyến khích đầu tư trong nước
+65. Luật Khuyến khích đầu tư trong nước
 66. Luật Khoa học và Công nghệ
 67. Luật Khoáng sản
 68. Luật Sửa đổi, bổ sung 1 số điều của luật Khoáng sản
-69. Luật Kinh doanh bât động sản
+69. Luật Kinh doanh bất động sản
 70. Luật Kinh doanh bảo hiểm
 71. Luật Kiểm toán Nhà nước
 72. Luật Ký kết, gia nhập và thực hiện điều ước quốc tế
