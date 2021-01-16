@@ -102,7 +102,7 @@ Constitution
 81. Luật Nhà ở
 82. Luật Phá sản
 83. Luật Phòng, chống nhiễm virus gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS)
-84. Luật phòng cháy và chữa cháy
+84. Luật Phòng cháy và chữa cháy
 85. Luật Phòng, chống ma túy
 86. Luật Phòng, chống tham nhũng
 87. Luật sửa đổi, bổ sung 1 số điều của luật Phòng, chống tham nhũng
@@ -129,8 +129,8 @@ Constitution
 108. Luật thuế giá trị gia tăng
 109. Luật Sửa đổi, bổ sung 1 số điều của Luật Thuế giá trị gia tăng
 110. Luật Sửa đổi, bổ sung 1 số điều của Luật thuế tiêu thụ đặc biệt và Thuế giá trị gia tăng
-111. Luật thuế thu nhập doanh nghiệp
-112. Luật thuế chuyển quyền sử dụng đất
+111. Luật Thuế thu nhập doanh nghiệp
+112. Luật Thuế chuyển quyền sử dụng đất
 113. Luật sửa đổi, bố sung 1 số điều của Luật Thuế chuyển quyền sử dụng đất
 114. Luật Thuế xuất khẩu, thuế nhập khẩu
 115. Luật Thủy sản
