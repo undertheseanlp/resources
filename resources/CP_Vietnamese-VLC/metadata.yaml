@@ -1,5 +1,5 @@
-version: 1.0.0-alpha
-year: 2020
+version: 1.0-alpha
+year: 2021
 task: corpus
 domain: legal
 description: Vietnamese Law Corpus

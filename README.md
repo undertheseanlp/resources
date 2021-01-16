@@ -28,7 +28,7 @@ Open Vietnamese Natural Language Processing Resources
 
 Vietnamese Law Corpus
 
-`task:corpus` `domain:legal` `version:1.0.0-alpha` `year:2020`
+`task:corpus` `domain:legal` `version:1.0-alpha` `year:2021`
 
 🐟 [CP_Vietnamese-UNC](resources/CP_Vietnamese-UNC)
 
