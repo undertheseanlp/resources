@@ -136,7 +136,7 @@ Constitution
 115. Luật Thủy sản
 116. Luật thực hành tiết kiệm, chống lãng phí
 117. Luật Thương mại
-118. Luật Tổ chức HĐND & UBND
+118. Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân
 119. Luật Tổ chức viện Kiểm sát nhân dân
 120. Luật Tổ chức Tòa án nhân dân
 121. Luật Tổ chức chính phủ
