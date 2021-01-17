@@ -1,6 +1,6 @@
 version: 1.0-alpha
 year: 2021
-task: corpus
+task: sample
 domain: general
 description: Sample Datasets
 authors:

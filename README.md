@@ -52,5 +52,5 @@ Bank Sentiment Corpus
 
 Sample Datasets
 
-`task:corpus` `domain:general` `version:1.0-alpha` `year:2021`
+`task:sample` `domain:general` `version:1.0-alpha` `year:2021`
 
