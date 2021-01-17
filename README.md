@@ -46,8 +46,6 @@ Underthesea Vietnamese Dictionary
 
 Bank Sentiment Corpus
 
-haha
-
 `task:sentiment` `domain:bank` `version:1` `year:2017`
 
 🐟 [W_MISCELLANEOUS](resources/W_MISCELLANEOUS)
