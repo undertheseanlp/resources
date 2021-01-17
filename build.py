@@ -29,7 +29,8 @@ def validate_corpus_folder(f):
 
 PROJECT_FOLDER = dirname(realpath(__file__))
 RESOURCES_FOLDER = join(PROJECT_FOLDER, "resources")
-corpus_folders = [join(RESOURCES_FOLDER, f) for f in listdir(RESOURCES_FOLDER) if isdir(join(RESOURCES_FOLDER, f))]
+corpus_folders = [join(RESOURCES_FOLDER, f) for f in sorted(listdir(RESOURCES_FOLDER)) if
+                  isdir(join(RESOURCES_FOLDER, f))]
 
 for f in corpus_folders:
     validate_corpus_folder(f)
