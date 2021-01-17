@@ -1,0 +1,166 @@
+1	Trả lời	trả lời	VERB	V	-	6	advcl	-	-
+2	phỏng vấn	phỏng vấn	VERB	V	-	1	xcomp	-	-
+3	,	,	PUNCT	PUNCT	-	6	punct	-	-
+4	ông	ông	N	NC	-	5	det:clf	-	-
+5	Lộc	Lộc	PROPN	NNP	-	6	nsubj	-	-
+6	nói	nói	VERB	V	-	0	root	-	-
+7	:	:	PUNCT	PUNCT	-	19	punct	-	-
+8	bán	bán	VERB	V	-	19	csubj	-	-
+9	đất	đất	N	N	-	8	obj	-	-
+10	với	với	ADP	PRE	-	11	case	-	-
+11	giá	giá	N	N	-	8	obl:comp	-	-
+12	không	không	ADV	ADV	-	13	advmod:neg	-	-
+13	được	được	AUX	AUX	-	16	aux:pass	-	-
+14	ủy ban	ủy ban	N	N	-	16	obl:agent	-	-
+15	tỉnh	tỉnh	N	N	-	14	nmod	-	-
+16	phê duyệt	phê duyệt	VERB	V	-	11	acl:subj	-	-
+17	là	là	SCONJ	C	-	19	mark	-	-
+18	không thể	không thể	ADV	ADV	-	19	aux	-	-
+19	chấp nhận	chấp nhận	VERB	V	-	6	parataxis	-	-
+20	được	được	ADV	ADV	-	19	advmod	-	-
+21	,	,	PUNCT	PUNCT	-	24	punct	-	-
+22	đây	đây	PRON	PRO	-	24	nsubj	-	-
+23	là	là	AUX	AUX	-	24	cop	-	-
+24	việc làm	việc làm	N	N	-	19	parataxis	-	-
+25	vượt cấp	vượt cấp	VERB	V	-	24	acl:subj	-	-
+26	của	của	ADP	PRE	-	27	case	-	-
+27	ủy ban	ủy ban	N	N	-	24	nmod:poss	-	-
+28	huyện	huyện	N	N	-	27	compound	-	-
+29	,	,	PUNCT	PUNCT	-	40	punct	-	-
+30	loại	loại	N	N	-	40	dislocated	-	-
+31	dự án	dự án	N	N	-	30	nmod	-	-
+32	này	này	PRON	PRO	-	30	det:pmod	-	-
+33	không	không	ADV	ADV	-	34	advmod:neg	-	-
+34	phải	phải	ADJ	ADJ	-	36	aux	-	-
+35	muốn	muốn	AUX	AUX	-	36	aux	-	-
+36	bán	bán	VERB	V	-	40	csubj	-	-
+37	giá	giá	N	N	-	36	obj	-	-
+38	nào	nào	PRON	PRO	-	37	det:pmod	-	-
+39	thì	thì	SCONJ	C	-	40	mark	-	-
+40	bán	bán	VERB	V	-	19	parataxis	-	-
+41	,	,	PUNCT	PUNCT	-	44	punct	-	-
+42	đây	đây	PRON	PRO	-	44	nsubj	-	-
+43	là	là	AUX	AUX	-	44	cop	-	-
+44	cái	cái	N	NC	-	19	parataxis	-	-
+45	sai	sai	ADJ	ADJ	-	44	acl:tonp	-	-
+46	.	.	PUNCT	PUNCT	-	6	punct	-	-
+
+1	Công trình	công trình	N	N	-	11	nsubj	-	-
+2	đường	đường	N	N	-	1	nmod	-	-
+3	Trương Định	Trương Định	PROPN	NNP	-	2	compound	-	-
+4	nối	nối	VERB	V	-	1	acl:subj	-	-
+5	dài	dài	ADJ	ADJ	-	4	acomp	-	-
+6	LBKT	lbkt	PUNCT	PUNCT	-	7	punct	-	-
+7	TP.	tp.	N	NY	-	1	appos:nmod	-	-
+8	HCM	HCM	PROPN	NNP	-	7	compound	-	-
+9	RBKT	rbkt	PUNCT	PUNCT	-	7	punct	-	-
+10	vừa	vừa	ADV	ADV	-	11	advmod	-	-
+11	xây dựng	xây dựng	VERB	V	-	23	csubj	-	-
+12	khoảng	khoảng	N	N	-	21	obl:tmod	-	-
+13	hơn	hơn	ADJ	ADJ	-	14	advmod:adj	-	-
+14	hai	hai	NUM	NUM	-	15	nummod	-	-
+15	tuần	tuần	N	N	-	12	nmod	-	-
+16	nay	nay	PRON	PRO	-	15	nmod	-	-
+17	do	do	ADP	PRE	-	21	mark	-	-
+18	công ty	công ty	N	N	-	21	nsubj	-	-
+19	chi nhánh	chi nhánh	N	N	-	18	nmod	-	-
+20	Bạch Đằng	Bạch Đằng	PROPN	NNP	-	19	nmod	-	-
+21	thi công	thi công	VERB	V	-	11	advcl	-	-
+22	đã	đã	ADV	ADV	-	23	advmod	-	-
+23	gây	gây	VERB	V	-	0	root	-	-
+24	ra	ra	VERB	V	-	23	compound:svc	-	-
+25	rất	rất	ADV	ADV	-	26	advmod	-	-
+26	nhiều	nhiều	ADJ	ADJ	-	27	advmod:adj	-	-
+27	phiền phức	phiền phức	N	N	-	23	obj	-	-
+28	cho	cho	ADP	PRE	-	29	case	-	-
+29	người	người	N	N	-	23	obl:iobj	-	-
+30	dân	dân	N	N	-	29	compound	-	-
+31	khu vực	khu vực	N	N	-	29	nmod	-	-
+32	.	.	PUNCT	PUNCT	-	23	punct	-	-
+
+1	Họ	họ	N	N	-	2	nsubj	-	-
+2	đưa	đưa	VERB	V	-	0	root	-	-
+3	chúng tôi	chúng tôi	N	N	-	2	obj	-	-
+4	đến	đến	VERB	V	-	2	xcomp	-	-
+5	khu vực	khu vực	N	N	-	4	obj	-	-
+6	công trường	công trường	N	N	-	5	nmod	-	-
+7	bên	bên	N	N	-	5	nmod	-	-
+8	cạnh	cạnh	N	N	-	7	compound	-	-
+9	khu	khu	N	NC	-	10	det:clf	-	-
+10	rừng	rừng	N	N	-	7	nmod	-	-
+11	,	,	PUNCT	PUNCT	-	12	punct	-	-
+12	nơi	nơi	N	N	-	4	appos	-	-
+13	không	không	ADV	ADV	-	14	advmod:neg	-	-
+14	có	có	VERB	V	-	12	acl:subj	-	-
+15	bóng dáng	bóng dáng	N	N	-	14	obj	-	-
+16	người	người	N	NC	-	15	nmod	-	-
+17	dân	dân	N	N	-	16	compound	-	-
+18	,	,	PUNCT	PUNCT	-	20	punct	-	-
+19	chỉ	chỉ	ADV	ADV	-	20	advmod	-	-
+20	có	có	VERB	V	-	14	conj	-	-
+21	ít	ít	ADJ	ADJ	-	22	advmod:adj	-	-
+22	người	người	N	NC	-	20	obj	-	-
+23	Indo	Indo	PROPN	NNP	-	22	compound	-	-
+24	đang	đang	ADV	ADV	-	25	advmod	-	-
+25	làm việc	làm việc	VERB	V	-	22	acl:subj	-	-
+26	tại	tại	ADP	PRE	-	27	case	-	-
+27	đó	đó	PRON	PRO	-	25	obl:comp	-	-
+28	.	.	PUNCT	PUNCT	-	2	punct	-	-
+
+1	Chiều	chiều	N	N	-	31	obl:tmod	-	-
+2	23-3	23-3	NUM	NUM	-	1	flat:date	-	-
+3	,	,	PUNCT	PUNCT	-	4	punct	-	-
+4	trả lời	trả lời	VERB	V	-	31	advcl	-	-
+5	Tuổi Trẻ	Tuổi Trẻ	PROPN	NNP	-	4	obj	-	-
+6	sau	sau	N	N	-	4	obl:tmod	-	-
+7	phiên	phiên	N	N	-	6	nmod	-	-
+8	họp	họp	VERB	V	-	7	compound:vmod	-	-
+9	nói	nói	VERB	V	-	7	acl:subj	-	-
+10	trên	trên	ADJ	ADJ	-	9	compound:verbnoun	-	-
+11	,	,	PUNCT	PUNCT	-	31	punct	-	-
+12	lãnh đạo	lãnh đạo	N	N	-	31	nsubj	-	-
+13	cơ quan	cơ quan	N	N	-	12	nmod	-	-
+14	cảnh sát	cảnh sát	N	N	-	13	nmod	-	-
+15	điều tra	điều tra	VERB	V	-	14	compound:vmod	-	-
+16	công an	công an	N	N	-	13	nmod	-	-
+17	tp	tp	N	NY	-	16	nmod	-	-
+18	HCM	hcm	PROPN	NNPY	-	17	compound	-	-
+19	-	-	PUNCT	PUNCT	-	20	punct	-	-
+20	nơi	nơi	N	N	-	13	appos	-	-
+21	đang	đang	ADV	ADV	-	22	advmod	-	-
+22	thụ lý	thụ lý	VERB	V	-	20	acl:subj	-	-
+23	vụ	vụ	N	N	-	22	obj	-	-
+24	tiêu cực	tiêu cực	ADJ	ADJ	-	23	amod	-	-
+25	tại	tại	ADP	PRE	-	26	case	-	-
+26	công trình	công trình	N	N	-	23	nmod	-	-
+27	đường	đường	N	N	-	26	nmod	-	-
+28	liên cảng	liên cảng	N	N	-	27	compound	-	-
+29	A5	A5	PROPN	NNP	-	27	compound	-	-
+30	-	-	PUNCT	PUNCT	-	20	punct	-	-
+31	cho	cho	VERB	V	-	0	root	-	-
+32	biết	biết	VERB	V	-	31	compound:svc	-	-
+33	vụ án	vụ án	N	N	-	37	nsubj:nn	-	-
+34	vẫn	vẫn	ADV	ADV	-	37	advmod	-	-
+35	đang	đang	ADV	ADV	-	37	advmod	-	-
+36	trong	trong	ADP	PRE	-	37	case	-	-
+37	giai đoạn	giai đoạn	N	N	-	31	ccomp	-	-
+38	điều tra	điều tra	VERB	V	-	37	compound:vmod	-	-
+39	,	,	PUNCT	PUNCT	-	37	punct	-	-
+40	chưa	chưa	ADV	ADV	-	41	advmod:neg	-	-
+41	có	có	VERB	V	-	37	conj	-	-
+42	kết luận	kết luận	N	N	-	41	obj	-	-
+43	cuối cùng	cuối cùng	ADJ	ADJ	-	42	amod	-	-
+44	.	.	PUNCT	PUNCT	-	31	punct	-	-
+
+1	Thưa	thưa	VERB	V	-	7	vocative	-	-
+2	ông	ông	N	N	-	1	obj	-	-
+3	,	,	PUNCT	PUNCT	-	7	punct	-	-
+4	sổ đỏ	sổ đỏ	N	N	-	7	nsubj:pass	-	-
+5	đã	đã	ADV	ADV	-	6	advmod	-	-
+6	được	được	AUX	AUX	-	7	aux:pass	-	-
+7	giao	giao	VERB	V	-	0	root	-	-
+8	cho	cho	ADP	PRE	-	9	case	-	-
+9	người	người	N	N	-	7	obl:iobj	-	-
+10	dân	dân	N	N	-	9	compound	-	-
+11	.	.	PUNCT	PUNCT	-	7	punct	-	-
+

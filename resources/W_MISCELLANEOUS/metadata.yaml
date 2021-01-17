@@ -1,0 +1,7 @@
+version: 1.0-alpha
+year: 2021
+task: sample
+domain: general
+description: Sample Datasets
+authors:
+  - Vu Anh <anhv.ict91@gmail.com>

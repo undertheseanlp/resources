@@ -3,7 +3,6 @@ on:
     # Sequence of patterns matched against refs/tags
     branches:
     - 'master'
-    - 'GH-45'
 
 name: Release 
 

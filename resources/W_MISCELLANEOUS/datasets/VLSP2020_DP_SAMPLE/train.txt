@@ -1,0 +1,251 @@
+1	Rất	rất	ADV	ADV	-	2	advmod	-	-
+2	đúng	đúng	ADJ	ADJ	-	0	root	-	-
+3	!	!	PUNCT	PUNCT	-	2	punct	-	-
+
+1	chủ tịch	chủ tịch	N	N	-	6	nsubj	-	-
+2	ubnd	ubnd	N	NY	-	1	nmod	-	-
+3	tỉnh	tỉnh	N	N	-	2	nmod	-	-
+4	Quảng Nam	quảng nam	PROPN	NNP	-	3	compound	-	-
+5	Nguyễn Xuân Phúc	nguyễn xuân phúc	PROPN	NNP	-	1	appos	-	-
+6	cho	cho	VERB	V	-	0	root	-	-
+7	biết	biết	VERB	V	-	6	compound:svc	-	-
+8	tỉnh	tỉnh	N	N	-	10	nsubj	-	-
+9	sẽ	sẽ	ADV	ADV	-	10	advmod	-	-
+10	đầu tư	đầu tư	VERB	V	-	6	ccomp	-	-
+11	xây dựng	xây dựng	VERB	V	-	10	xcomp	-	-
+12	khu phố	khu phố	N	N	-	11	obj	-	-
+13	đi	đi	VERB	V	-	12	acl:subj	-	-
+14	bộ	bộ	N	N	-	13	obj	-	-
+15	tại	tại	ADP	PRE	-	17	case	-	-
+16	6	6	NUM	NUM	-	17	nummod	-	-
+17	đường	đường	N	N	-	11	obl	-	-
+18	phố	phố	N	N	-	17	compound	-	-
+19	chính	chính	ADJ	ADJ	-	17	amod	-	-
+20	của	của	ADP	PRE	-	21	case	-	-
+21	khu phố	khu phố	N	N	-	17	nmod:poss	-	-
+22	cổ	cổ	ADJ	ADJ	-	21	amod	-	-
+23	Hội An	hội an	PROPN	NNP	-	21	compound	-	-
+24	,	,	PUNCT	PUNCT	-	26	punct	-	-
+25	đồng thời	đồng thời	SCONJ	C	-	26	advmod	-	-
+26	tổ chức	tổ chức	VERB	V	-	10	conj	-	-
+27	chợ	chợ	N	N	-	26	obj	-	-
+28	đêm	đêm	N	N	-	27	compound	-	-
+29	,	,	PUNCT	PUNCT	-	31	punct	-	-
+30	các	các	DET	DET	-	31	det	-	-
+31	quán	quán	N	N	-	27	conj	-	-
+32	bar	bar	N	NB	-	31	compound	-	-
+33	,	,	PUNCT	PUNCT	-	34	punct	-	-
+34	cà phê	cà phê	N	NB	-	27	conj	-	-
+35	,	,	PUNCT	PUNCT	-	37	punct	-	-
+36	các	các	DET	DET	-	37	det	-	-
+37	khu	khu	N	N	-	27	conj	-	-
+38	vui chơi	vui chơi	VERB	V	-	37	compound:vmod	-	-
+39	giải trí	giải trí	VERB	V	-	38	compound:svc	-	-
+40	mở cửa	mở cửa	VERB	V	-	37	acl:subj	-	-
+41	phục vụ	phục vụ	VERB	V	-	40	xcomp	-	-
+42	theo	theo	ADP	PRE	-	43	case	-	-
+43	yêu cầu	yêu cầu	N	N	-	41	obl:comp	-	-
+44	của	của	ADP	PRE	-	45	case	-	-
+45	du khách	du khách	N	N	-	43	nmod:poss	-	-
+46	.	.	PUNCT	PUNCT	-	6	punct	-	-
+
+1	nhớ	nhớ	VERB	V	-	16	advcl	-	-
+2	lại	lại	VERB	V	-	1	compound:svc	-	-
+3	ngày trước	ngày trước	N	N	-	1	obj	-	-
+4	lúc	lúc	N	N	-	3	nmod	-	-
+5	anh	anh	N	NC	-	6	det:clf	-	-
+6	Đại	đại	PROPN	NNP	-	8	nsubj	-	-
+7	còn	còn	ADV	ADV	-	8	advmod	-	-
+8	làm	làm	VERB	V	-	4	acl:tmod	-	-
+9	tổ trưởng	tổ trưởng	N	N	-	8	obj	-	-
+10	quản lý	quản lý	VERB	V	-	8	xcomp	-	-
+11	hơn	hơn	ADJ	ADJ	-	13	advmod:adj	-	-
+12	20	20	NUM	NUM	-	13	nummod	-	-
+13	công nhân	công nhân	N	N	-	10	obj	-	-
+14	,	,	PUNCT	PUNCT	-	16	punct	-	-
+15	chị	chị	N	N	-	16	nsubj	-	-
+16	nhận	nhận	VERB	V	-	0	root	-	-
+17	lãnh	lãnh	VERB	V	-	16	xcomp	-	-
+18	chân	chân	N	N	-	17	obj	-	-
+19	nấu	nấu	VERB	V	-	18	acl:subj	-	-
+20	cơm	cơm	N	N	-	19	obj	-	-
+21	tháng	tháng	N	N	-	20	compound	-	-
+22	cho	cho	ADP	PRE	-	24	case	-	-
+23	nhóm	nhóm	N	NC	-	24	det:clf	-	-
+24	thợ	thợ	N	N	-	19	obl:comp	-	-
+25	với	với	ADP	PRE	-	26	case	-	-
+26	thu nhập	thu nhập	N	N	-	17	obl	-	-
+27	của	của	ADP	PRE	-	29	case	-	-
+28	hai	hai	NUM	NUM	-	29	nummod	-	-
+29	vợ chồng	vợ chồng	N	N	-	26	nmod:poss	-	-
+30	trên	trên	ADJ	ADJ	-	32	advmod:adj	-	-
+31	100.000	100.000	NUM	NUM	-	32	nummod	-	-
+32	đồng	đồng	N	NU	-	26	appos	-	-
+33	/	/	PUNCT	PUNCT	-	34	punct	-	-
+34	ngày	ngày	N	N	-	32	nmod	-	-
+35	.	.	PUNCT	PUNCT	-	16	punct	-	-
+
+1	tại	tại	ADP	PRE	-	2	case	-	-
+2	phiên tòa	phiên tòa	N	N	-	8	obl	-	-
+3	đang	đang	ADV	ADV	-	4	advmod	-	-
+4	xét xử	xét xử	VERB	V	-	2	acl:subj	-	-
+5	,	,	PUNCT	PUNCT	-	8	punct	-	-
+6	luật sư	luật sư	N	N	-	8	nsubj	-	-
+7	Phạm Hữu Tình	phạm hữu tình	PROPN	NNP	-	6	compound	-	-
+8	đề nghị	đề nghị	VERB	V	-	0	root	-	-
+9	tạm	tạm	ADJ	ADJ	-	8	ccomp	-	-
+10	hoãn	hoãn	VERB	V	-	9	xcomp:adj	-	-
+11	phiên tòa	phiên tòa	N	N	-	10	obj	-	-
+12	còn	còn	ADV	ADV	-	13	advmod	-	-
+13	có	có	VERB	V	-	8	advcl	-	-
+14	lý do	lý do	N	N	-	13	obj	-	-
+15	các	các	DET	DET	-	16	det	-	-
+16	lời	lời	N	N	-	30	nsubj:nn	-	-
+17	khai	khai	VERB	V	-	16	compound:vmod	-	-
+18	,	,	PUNCT	PUNCT	-	19	punct	-	-
+19	bút lục	bút lục	N	N	-	16	conj	-	-
+20	liên quan	liên quan	VERB	V	-	19	acl:subj	-	-
+21	đến	đến	ADP	PRE	-	23	case	-	-
+22	bốn	bốn	NUM	NUM	-	23	nummod	-	-
+23	đối tượng	đối tượng	N	N	-	20	obl:comp	-	-
+24	mua dâm	mua dâm	VERB	V	-	23	compound:vmod	-	-
+25	nói	nói	VERB	V	-	23	acl:subj	-	-
+26	trên	trên	ADJ	ADJ	-	25	advmod:adj	-	-
+27	chỉ	chỉ	ADV	ADV	-	28	advmod	-	-
+28	là	là	AUX	AUX	-	30	cop	-	-
+29	bản	bản	N	NC	-	30	det:clf	-	-
+30	photocopy	photocopy	N	NB	-	14	acl	-	-
+31	RBKT	rbkt	PUNCT	PUNCT	-	39	punct	-	-
+32	về	về	ADP	PRE	-	33	case	-	-
+33	nguyên tắc	nguyên tắc	N	N	-	39	obl:about	-	-
+34	tố tụng	tố tụng	VERB	V	-	33	compound:vmod	-	-
+35	những	những	DET	DET	-	36	det	-	-
+36	bút lục	bút lục	N	N	-	39	nsubj	-	-
+37	này	này	PRON	PRO	-	36	det:pmod	-	-
+38	không	không	ADV	ADV	-	39	advmod:neg	-	-
+39	có	có	VERB	V	-	30	conj	-	-
+40	giá trị	giá trị	N	N	-	39	obj	-	-
+41	RBKT	rbkt	PUNCT	PUNCT	-	39	punct	-	-
+42	,	,	PUNCT	PUNCT	-	45	punct	-	-
+43	không	không	ADV	ADV	-	44	advmod:neg	-	-
+44	phải	phải	ADJ	ADJ	-	45	aux	-	-
+45	bản chính	bản chính	N	N	-	30	conj	-	-
+46	.	.	PUNCT	PUNCT	-	8	punct	-	-
+
+1	trước đây	trước đây	N	N	-	10	obl:tmod	-	-
+2	điều	điều	N	N	-	10	nsubj	-	-
+3	ấy	ấy	PRON	PRO	-	2	det:pmod	-	-
+4	với	với	ADP	PRE	-	6	case	-	-
+5	mọi	mọi	DET	DET	-	6	det	-	-
+6	người	người	N	N	-	10	obl	-	-
+7	chỉ	chỉ	ADV	ADV	-	8	advmod	-	-
+8	là	là	AUX	AUX	-	10	cop	-	-
+9	một	một	NUM	NUM	-	10	det	-	-
+10	giấc	giấc	N	N	-	0	root	-	-
+11	mơ	mơ	VERB	V	-	10	compound:vmod	-	-
+12	,	,	PUNCT	PUNCT	-	17	punct	-	-
+13	nhưng	nhưng	SCONJ	C	-	17	mark	-	-
+14	bây giờ	bây giờ	PRON	PRO	-	17	obl:tmod	-	-
+15	tất cả	tất cả	PRON	PRO	-	17	nsubj	-	-
+16	đang	đang	ADV	ADV	-	17	advmod	-	-
+17	trong	trong	N	N	-	10	conj	-	-
+18	tầm	tầm	N	N	-	17	nmod	-	-
+19	tay	tay	PRON	PRO	-	18	compound	-	-
+20	!	!	PUNCT	PUNCT	-	10	punct	-	-
+
+1	Già làng	già làng	N	N	-	3	nsubj	-	-
+2	đã	đã	ADV	ADV	-	3	advmod	-	-
+3	tế	tế	VERB	V	-	0	root	-	-
+4	thần linh	thần linh	N	N	-	3	obj	-	-
+5	,	,	PUNCT	PUNCT	-	6	punct	-	-
+6	chuẩn bị	chuẩn bị	VERB	V	-	3	conj	-	-
+7	đưa	đưa	VERB	V	-	6	xcomp	-	-
+8	hồn	hồn	N	N	-	7	obj	-	-
+9	ma	ma	N	N	-	8	compound	-	-
+10	Yoih	yoih	PROPN	NNP	-	8	nmod	-	-
+11	chuẩn bị	chuẩn bị	VERB	V	-	7	xcomp	-	-
+12	ra	ra	VERB	V	-	11	xcomp	-	-
+13	nhà	nhà	N	N	-	12	obl:comp	-	-
+14	mả	mả	N	N	-	13	nmod	-	-
+15	.	.	PUNCT	PUNCT	-	3	punct	-	-
+
+1	anh	anh	N	NC	-	2	det:clf	-	-
+2	Kiên	kiên	PROPN	NNP	-	4	nsubj:nn	-	-
+3	là	là	AUX	AUX	-	4	cop	-	-
+4	cựu sinh viên	cựu sinh viên	N	N	-	0	root	-	-
+5	khoa	khoa	N	N	-	4	nmod	-	-
+6	toán	toán	N	N	-	5	compound	-	-
+7	tin	tin	N	N	-	5	compound	-	-
+8	khóa	khóa	N	N	-	5	appos:nmod	-	-
+9	37	37	NUM	NUM	-	8	nmod	-	-
+10	trường	trường	N	N	-	5	nmod	-	-
+11	ĐH	đh	N	NY	-	10	compound	-	-
+12	Tổng hợp	tổng hợp	PROPN	NNP	-	10	compound	-	-
+13	cũ	cũ	ADJ	ADJ	-	10	amod	-	-
+14	.	.	PUNCT	PUNCT	-	4	punct	-	-
+
+1	Họ	họ	N	N	-	2	nsubj	-	-
+2	đếm	đếm	VERB	V	-	0	root	-	-
+3	từng	từng	PRON	PRO	-	4	det:pmod	-	-
+4	ngày	ngày	N	N	-	2	obj	-	-
+5	trôi	trôi	VERB	V	-	4	acl:subj	-	-
+6	đi	đi	ADV	ADV	-	5	compound:prt	-	-
+7	trong	trong	ADP	PRE	-	8	case	-	-
+8	gánh	gánh	N	N	-	5	obl	-	-
+9	nặng	nặng	ADJ	ADJ	-	8	amod	-	-
+10	tiền bạc	tiền bạc	N	N	-	8	nmod	-	-
+11	.	.	PUNCT	PUNCT	-	2	punct	-	-
+
+1	phần đông	phần đông	N	N	-	9	nsubj:nn	-	-
+2	số	số	N	N	-	1	nmod	-	-
+3	chưa	chưa	ADV	ADV	-	4	advmod:neg	-	-
+4	được	được	AUX	AUX	-	5	aux:pass	-	-
+5	nhập	nhập	VERB	V	-	2	acl:subj	-	-
+6	quốc tịch	quốc tịch	N	N	-	5	obj	-	-
+7	là	là	AUX	AUX	-	9	cop	-	-
+8	những	những	DET	DET	-	9	det	-	-
+9	người	người	N	N	-	0	root	-	-
+10	thuộc	thuộc	VERB	V	-	9	acl:subj	-	-
+11	thế hệ	thế hệ	N	N	-	10	obj	-	-
+12	thứ	thứ	N	N	-	11	nmod	-	-
+13	nhất	nhất	NUM	NUM	-	12	nummod	-	-
+14	,	,	PUNCT	PUNCT	-	15	punct	-	-
+15	thứ	thứ	N	N	-	12	conj	-	-
+16	hai	hai	NUM	NUM	-	15	nummod	-	-
+17	,	,	PUNCT	PUNCT	-	29	punct	-	-
+18	những	những	DET	DET	-	19	det	-	-
+19	người	người	N	N	-	29	nsubj	-	-
+20	đã	đã	ADV	ADV	-	23	advmod	-	-
+21	suốt	suốt	ADJ	ADJ	-	23	advmod:adj	-	-
+22	một	một	NUM	NUM	-	23	nummod	-	-
+23	đời	đời	N	N	-	19	acl:subj	-	-
+24	nắng mưa	nắng mưa	N	N	-	23	compound	-	-
+25	trên	trên	ADP	PRE	-	26	case	-	-
+26	đất	đất	N	N	-	23	obl	-	-
+27	Thái	thái	PROPN	NNP	-	26	compound	-	-
+28	vẫn	vẫn	ADV	ADV	-	29	advmod	-	-
+29	đau đáu	đau đáu	ADJ	ADJ	-	9	conj	-	-
+30	vọng	vọng	VERB	V	-	29	xcomp	-	-
+31	về	về	VERB	V	-	30	compound:dir	-	-
+32	cố xứ	cố xứ	N	N	-	30	obj	-	-
+33	với	với	ADP	PRE	-	34	case	-	-
+34	giấc	giấc	N	N	-	30	obl	-	-
+35	mơ	mơ	VERB	V	-	34	compound:vmod	-	-
+36	được	được	AUX	AUX	-	37	aux:pass	-	-
+37	hôn	hôn	VERB	V	-	34	acl	-	-
+38	nắm	nắm	N	N	-	37	obj	-	-
+39	đất	đất	N	N	-	38	compound	-	-
+40	quê nhà	quê nhà	N	N	-	38	nmod	-	-
+41	.	.	PUNCT	PUNCT	-	9	punct	-	-
+
+1	Dĩ nhiên	dĩ nhiên	ADJ	ADJ	-	6	advcl	-	-
+2	bây giờ	bây giờ	PRON	PRO	-	6	obl:tmod	-	-
+3	tình hình	tình hình	N	N	-	6	nsubj	-	-
+4	đã	đã	ADV	ADV	-	6	advmod	-	-
+5	rất	rất	ADV	ADV	-	6	advmod	-	-
+6	khác	khác	ADJ	ADJ	-	0	root	-	-
+7	so	so	VERB	V	-	6	advcl	-	-
+8	với	với	ADP	PRE	-	9	case	-	-
+9	trước đây	trước đây	N	N	-	7	obl	-	-
+10	.	.	PUNCT	PUNCT	-	6	punct	-	-
+
