@@ -1,0 +1,185 @@
+1	Trả lời	trả lời	VERB	V	-	6	advcl	-	-
+2	phỏng vấn	phỏng vấn	VERB	V	-	1	xcomp	-	-
+3	,	,	PUNCT	PUNCT	-	6	punct	-	-
+4	ông	ông	N	NC	-	5	det:clf	-	-
+5	Lộc	Lộc	PROPN	NNP	-	6	nsubj	-	-
+6	nói	nói	VERB	V	-	0	root	-	-
+7	:	:	PUNCT	PUNCT	-	19	punct	-	-
+8	bán	bán	VERB	V	-	19	csubj:vsubj	-	-
+9	đất	đất	N	N	-	8	obj	-	-
+10	với	với	ADP	PRE	-	11	case	-	-
+11	giá	giá	N	N	-	8	obl	-	-
+12	không	không	ADV	ADV	-	13	advmod:neg	-	-
+13	được	được	AUX	AUX	-	16	aux:pass	-	-
+14	ủy ban	ủy ban	N	N	-	16	obl:agent	-	-
+15	tỉnh	tỉnh	N	N	-	14	nmod	-	-
+16	phê duyệt	phê duyệt	VERB	V	-	11	acl:subj	-	-
+17	là	là	AUX	AUX	-	19	cop	-	-
+18	không thể	không thể	ADV	ADV	-	19	aux	-	-
+19	chấp nhận	chấp nhận	VERB	V	-	6	parataxis	-	-
+20	được	được	ADV	ADV	-	19	advmod	-	-
+21	,	,	PUNCT	PUNCT	-	24	punct	-	-
+22	đây	đây	PRON	PRO	-	24	nsubj:nn	-	-
+23	là	là	AUX	AUX	-	24	cop	-	-
+24	việc làm	việc làm	N	N	-	19	conj	-	-
+25	vượt cấp	vượt cấp	VERB	V	-	24	compound:vmod	-	-
+26	của	của	ADP	PRE	-	27	case	-	-
+27	ủy ban	ủy ban	N	N	-	24	nmod:poss	-	-
+28	huyện	huyện	N	N	-	27	nmod	-	-
+29	,	,	PUNCT	PUNCT	-	40	punct	-	-
+30	loại	loại	N	N	-	36	nsubj	-	-
+31	dự án	dự án	N	N	-	30	nmod	-	-
+32	này	này	PRON	PRO	-	30	det:pmod	-	-
+33	không	không	ADV	ADV	-	34	advmod:neg	-	-
+34	phải	phải	ADJ	ADJ	-	36	aux	-	-
+35	muốn	muốn	AUX	AUX	-	36	aux	-	-
+36	bán	bán	VERB	V	-	40	csubj	-	-
+37	giá	giá	N	N	-	36	obj	-	-
+38	nào	nào	PRON	PRO	-	37	nmod	-	-
+39	thì	thì	SCONJ	C	-	40	mark	-	-
+40	bán	bán	VERB	V	-	19	conj	-	-
+41	,	,	PUNCT	PUNCT	-	44	punct	-	-
+42	đây	đây	PRON	PRO	-	44	nsubj:nn	-	-
+43	là	là	AUX	AUX	-	44	cop	-	-
+44	cái	cái	N	NC	-	19	conj	-	-
+45	sai	sai	ADJ	ADJ	-	44	acl:tonp	-	-
+46	.	.	PUNCT	PUNCT	-	6	punct	-	-
+
+1	Người	người	N	N	-	3	nsubj	-	-
+2	dân	dân	N	N	-	1	compound	-	-
+3	tuân thủ	tuân thủ	VERB	V	-	0	root	-	-
+4	đúng	đúng	ADJ	ADJ	-	3	acomp	-	-
+5	pháp luật	pháp luật	N	N	-	4	obl:adj	-	-
+6	,	,	PUNCT	PUNCT	-	8	punct	-	-
+7	chính quyền	chính quyền	N	N	-	8	nsubj	-	-
+8	sai phạm	sai phạm	VERB	V	-	3	conj	-	-
+9	về	về	ADP	PRE	-	10	case	-	-
+10	thủ tục	thủ tục	N	N	-	8	obl:about	-	-
+11	quản lý	quản lý	N	N	-	10	nmod	-	-
+12	,	,	PUNCT	PUNCT	-	17	punct	-	-
+13	sao	sao	PRON	PRO	-	17	obl	-	-
+14	người	người	N	N	-	15	det:clf	-	-
+15	dân	dân	N	N	-	17	nsubj	-	-
+16	phải	phải	AUX	AUX	-	17	aux	-	-
+17	gánh chịu	gánh chịu	VERB	V	-	3	conj	-	-
+18	hậu quả	hậu quả	N	N	-	17	obj	-	-
+19	?	?	PUNCT	PUNCT	-	3	punct	-	-
+
+1	Chỉ	chỉ	ADV	ADV	-	4	advmod	-	-
+2	trong	trong	ADP	PRE	-	4	case	-	-
+3	một	một	NUM	NUM	-	4	det	-	-
+4	thời gian	thời gian	N	N	-	36	obl:tmod	-	-
+5	ngắn	ngắn	ADJ	ADJ	-	4	amod	-	-
+6	,	,	PUNCT	PUNCT	-	36	punct	-	-
+7	hàng	hàng	ADV	ADV	-	8	advmod	-	-
+8	trăm	trăm	NUM	NUM	-	9	nummod	-	-
+9	hồ sơ	hồ sơ	N	N	-	36	nsubj:pass	-	-
+10	xin	xin	VERB	V	-	9	acl:subj	-	-
+11	giao	giao	VERB	V	-	10	xcomp	-	-
+12	LBKT	lbkt	PUNCT	PUNCT	-	13	punct	-	-
+13	mua	mua	VERB	V	-	11	appos	-	-
+14	RBKT	rbkt	PUNCT	PUNCT	-	13	punct	-	-
+15	đất	đất	N	N	-	11	obj	-	-
+16	của	của	ADP	PRE	-	17	case	-	-
+17	người	người	N	N	-	9	nmod:poss	-	-
+18	dân	dân	N	N	-	17	compound	-	-
+19	từ	từ	ADP	PRE	-	20	case	-	-
+20	thành phố	thành phố	N	N	-	17	nmod	-	-
+21	Qui Nhơn	Qui Nhơn	PROPN	NNP	-	20	compound	-	-
+22	LBKT	lbkt	PUNCT	PUNCT	-	23	punct	-	-
+23	Bình Định	Bình Định	PROPN	NNP	-	20	appos:nmod	-	-
+24	RBKT	rbkt	PUNCT	PUNCT	-	23	punct	-	-
+25	và	và	CONJ	CC	-	26	cc	-	-
+26	huyện	huyện	N	N	-	20	conj	-	-
+27	Sông Cầu	Sông Cầu	PROPN	NNP	-	26	compound	-	-
+28	LBKT	lbkt	PUNCT	PUNCT	-	29	punct	-	-
+29	Phú Yên	Phú Yên	PROPN	NNP	-	26	appos:nmod	-	-
+30	RBKT	rbkt	PUNCT	PUNCT	-	29	punct	-	-
+31	đã	đã	ADV	ADV	-	32	advmod	-	-
+32	được	được	AUX	AUX	-	36	aux:pass	-	-
+33	ubnd	ubnd	N	NY	-	36	obl:agent	-	-
+34	huyện	huyện	N	N	-	33	nmod	-	-
+35	Sông Cầu	Sông Cầu	PROPN	NNP	-	34	compound	-	-
+36	xem xét	xem xét	VERB	V	-	0	root	-	-
+37	và	và	CONJ	CC	-	38	cc	-	-
+38	ra	ra	VERB	V	-	36	conj	-	-
+39	quyết định	quyết định	N	N	-	38	obj	-	-
+40	cấp	cấp	VERB	V	-	39	acl:subj	-	-
+41	đất	đất	N	N	-	40	obj	-	-
+42	theo	theo	ADP	PRE	-	40	advcl	-	-
+43	quyết định	quyết định	N	N	-	42	obj	-	-
+44	số	số	N	N	-	43	compound	-	-
+45	2554	2554	NUM	NUM	-	44	compound	-	-
+46	/	/	PUNCT	PUNCT	-	44	compound	-	-
+47	QĐ	qđ	N	NY	-	44	compound	-	-
+48	-	-	PUNCT	PUNCT	-	49	punct	-	-
+49	UB	ub	N	NY	-	44	compound	-	-
+50	ngày	ngày	N	N	-	44	nmod	-	-
+51	5/10/2000	5/10/2000	NUM	NUM	-	50	flat:date	-	-
+52	của	của	ADP	PRE	-	53	case	-	-
+53	ubnd	ubnd	N	NY	-	43	nmod:poss	-	-
+54	tỉnh	tỉnh	N	N	-	53	nmod	-	-
+55	Phú Yên	Phú Yên	PROPN	NNP	-	54	compound	-	-
+56	.	.	PUNCT	PUNCT	-	36	punct	-	-
+
+1	Cũng	cũng	ADV	ADV	-	3	advmod	-	-
+2	trong	trong	ADP	PRE	-	3	case	-	-
+3	buổi	buổi	N	N	-	14	obl:tmod	-	-
+4	sáng	sáng	N	N	-	3	compound	-	-
+5	có mặt	có mặt	VERB	V	-	3	acl:subj	-	-
+6	tại	tại	ADP	PRE	-	7	case	-	-
+7	thôn	thôn	N	N	-	5	obl:comp	-	-
+8	3	3	NUM	NUM	-	7	compound	-	-
+9	,	,	PUNCT	PUNCT	-	10	punct	-	-
+10	xã	xã	N	N	-	7	appos:nmod	-	-
+11	Trà Lập	Trà Lập	PROPN	NNP	-	10	compound	-	-
+12	,	,	PUNCT	PUNCT	-	14	punct	-	-
+13	chúng tôi	chúng tôi	PRON	PRO	-	14	nsubj	-	-
+14	gặp	gặp	VERB	V	-	0	root	-	-
+15	nhiều	nhiều	ADJ	ADJ	-	16	det	-	-
+16	người	người	N	NC	-	14	obj	-	-
+17	dân	dân	N	N	-	16	compound	-	-
+18	ở	ở	ADP	PRE	-	19	case	-	-
+19	nóc	nóc	N	N	-	14	obl	-	-
+20	Tu Đinh	Tu Đinh	PROPN	NNP	-	19	compound	-	-
+21	.	.	PUNCT	PUNCT	-	14	punct	-	-
+
+1	Bên	bên	N	N	-	24	obl	-	-
+2	kia	kia	PRON	PRO	-	1	det:pmod	-	-
+3	quốc lộ	quốc lộ	N	N	-	1	nmod	-	-
+4	1A	1A	PROPN	NNP	-	3	compound	-	-
+5	,	,	PUNCT	PUNCT	-	8	punct	-	-
+6	tại	tại	ADP	PRE	-	8	case	-	-
+7	ba	ba	NUM	NUM	-	8	nummod	-	-
+8	địa điểm	địa điểm	N	N	-	24	obl	-	-
+9	mua	mua	VERB	V	-	8	acl:subj	-	-
+10	chó	chó	N	N	-	9	obj	-	-
+11	của	của	ADP	PRE	-	13	case	-	-
+12	ông	ông	N	NC	-	13	det:clf	-	-
+13	Chính	Chính	PROPN	NNP	-	8	nmod:poss	-	-
+14	,	,	PUNCT	PUNCT	-	16	punct	-	-
+15	ông	ông	N	NC	-	16	det:clf	-	-
+16	Hạt	Hạt	PROPN	NNP	-	13	conj	-	-
+17	,	,	PUNCT	PUNCT	-	19	punct	-	-
+18	ông	ông	N	NC	-	19	det:clf	-	-
+19	Quốc	Quốc	PROPN	NNP	-	13	conj	-	-
+20	,	,	PUNCT	PUNCT	-	24	punct	-	-
+21	người	người	N	N	-	24	nsubj	-	-
+22	bán	bán	VERB	V	-	21	acl:subj	-	-
+23	chó	chó	N	N	-	22	obj	-	-
+24	đến	đến	VERB	V	-	0	root	-	-
+25	càng	càng	ADV	ADV	-	26	advmod	-	-
+26	đông	đông	ADJ	ADJ	-	24	acomp	-	-
+27	,	,	PUNCT	PUNCT	-	35	punct	-	-
+28	những	những	DET	DET	-	29	det	-	-
+29	tay	tay	N	N	-	35	nsubj	-	-
+30	lái buôn	lái buôn	N	N	-	29	nmod	-	-
+31	và	và	CONJ	CC	-	33	cc	-	-
+32	cả	cả	PRON	PRO	-	33	det	-	-
+33	người	người	N	NC	-	29	conj	-	-
+34	dân	dân	N	N	-	33	compound	-	-
+35	tấp nập	tấp nập	ADJ	ADJ	-	24	conj	-	-
+36	đổ	đổ	VERB	V	-	35	xcomp:adj	-	-
+37	về	về	VERB	V	-	36	compound:dir	-	-
+38	.	.	PUNCT	PUNCT	-	24	punct	-	-
+
