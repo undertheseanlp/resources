@@ -1,1 +1,3 @@
-corpus/tmp.bin
+corpus/tmp_data.bin
+corpus/data_correct.yaml
+corpus/tmp_data_correct.bin

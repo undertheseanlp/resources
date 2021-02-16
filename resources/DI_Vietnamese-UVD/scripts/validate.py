@@ -8,6 +8,7 @@ SCRIPTS_FOLDER = dirname(__file__)
 DICT_FOLDER = join(dirname(SCRIPTS_FOLDER), 'corpus')
 MAX_SHOW_ERRORS = 100
 
+
 def warn(file, line_number, message, type=None):
     global total_errors
     text = ""
@@ -23,8 +24,10 @@ def warn(file, line_number, message, type=None):
 MIN_WORDS_IN_DICT = 3000
 
 # load file
-dictionary_file = join(DICT_FOLDER, "data.yaml")
-tmp_file = join(DICT_FOLDER, 'tmp.bin')
+# dictionary_name = "data"
+dictionary_name = "data_correct"
+dictionary_file = join(DICT_FOLDER, f"{dictionary_name}.yaml")
+tmp_file = join(DICT_FOLDER, f'tmp_{dictionary_name}.bin')
 RELOAD = False
 if RELOAD:
     with open(dictionary_file) as f:
@@ -35,7 +38,7 @@ else:
 
 # validate
 NUM_WORDS = 0
-VALID_TAGS = {'noun'}
+VALID_TAGS = {'noun', 'adjective', 'verb', 'pronoun', 'numeral'}
 
 
 def validate_num_words(data):
@@ -51,7 +54,7 @@ def validate_tags(data):
         for node in nodes:
             tag = node['tag']
             if tag not in VALID_TAGS:
-                warn('DICT', word, f'Tag {tag} is not valid')
+                warn('DICT', '', f'Tag {tag} in word "{word}" is not valid')
 
 
 validate_num_words(data)
