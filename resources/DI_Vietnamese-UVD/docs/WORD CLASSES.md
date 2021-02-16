@@ -7,6 +7,7 @@ These tags mark the core part-of-speech categories
 * verb
 * pronoun
 * numeral
+* determiner
 
 ### References
 

@@ -19,7 +19,8 @@ def tag_correct(data):
         'A': 'adjective',
         'V': 'verb',
         'P': 'pronoun',
-        'M': 'numeral'
+        'M': 'numeral',
+        'D': 'determiner'
 
     }
     for word in data:

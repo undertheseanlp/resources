@@ -38,7 +38,7 @@ else:
 
 # validate
 NUM_WORDS = 0
-VALID_TAGS = {'noun', 'adjective', 'verb', 'pronoun', 'numeral'}
+VALID_TAGS = {'noun', 'adjective', 'verb', 'pronoun', 'numeral', 'determiner'}
 
 
 def validate_num_words(data):
