@@ -3,11 +3,6 @@ from os.path import join, basename, dirname
 import joblib
 from termcolor import colored
 
-total_errors = 0
-SCRIPTS_FOLDER = dirname(__file__)
-DICT_FOLDER = join(dirname(SCRIPTS_FOLDER), 'corpus')
-MAX_SHOW_ERRORS = 100
-
 
 def warn(file, line_number, message, type=None):
     global total_errors
@@ -19,30 +14,6 @@ def warn(file, line_number, message, type=None):
         print(colored(text, 'red'), colored(message, 'red'))
 
     total_errors += 1
-
-
-MIN_WORDS_IN_DICT = 3000
-
-# load file
-dictionary_name = "data"
-# dictionary_name = "data_correct"
-dictionary_file = join(DICT_FOLDER, f"{dictionary_name}.yaml")
-tmp_file = join(DICT_FOLDER, f'tmp_{dictionary_name}.bin')
-RELOAD = False
-if RELOAD:
-    with open(dictionary_file) as f:
-        data = yaml.safe_load(f)
-    joblib.dump(data, tmp_file)
-else:
-    data = joblib.load(tmp_file)
-
-# validate
-NUM_WORDS = 0
-VALID_TAGS = {
-    'noun', 'adjective', 'verb', 'pronoun', 'numeral',
-    'determiner', 'conjunction', 'interjection', 'adverb', 'auxiliary', 'preposition',
-    'Z', 'X'
-}
 
 
 def validate_num_words(data):
@@ -61,20 +32,49 @@ def validate_tags(data):
                 warn('DICT', '', f'Tag {tag} in word "{word}" is not valid')
 
 
-validate_num_words(data)
-validate_tags(data)
+if __name__ == '__main__':
+    total_errors = 0
+    SCRIPTS_FOLDER = dirname(__file__)
+    DICT_FOLDER = join(dirname(SCRIPTS_FOLDER), 'corpus')
+    MAX_SHOW_ERRORS = 100
 
-if total_errors > 0:
-    print(colored(f"\n[x] VALIDATE ERRORS: {total_errors} errors", 'red'))
-else:
-    print(f"\n[+] VALIDATE SUCCESS")
+    MIN_WORDS_IN_DICT = 3000
+
+    # load file
+    dictionary_name = "data"
+    # dictionary_name = "data_correct"
+    dictionary_file = join(DICT_FOLDER, f"{dictionary_name}.yaml")
+    tmp_file = join(DICT_FOLDER, f'tmp_{dictionary_name}.bin')
+    RELOAD = False
+    if RELOAD:
+        with open(dictionary_file) as f:
+            data = yaml.safe_load(f)
+        joblib.dump(data, tmp_file)
+    else:
+        data = joblib.load(tmp_file)
+
+    # validate
+    NUM_WORDS = 0
+    VALID_TAGS = {
+        'noun', 'adjective', 'verb', 'pronoun', 'numeral',
+        'determiner', 'conjunction', 'interjection', 'adverb', 'auxiliary', 'preposition',
+        'Z', 'X'
+    }
+
+    validate_num_words(data)
+    validate_tags(data)
+
+    if total_errors > 0:
+        print(colored(f"\n[x] VALIDATE ERRORS: {total_errors} errors", 'red'))
+    else:
+        print(f"\n[+] VALIDATE SUCCESS")
 
 
-def stats():
-    print("\n# DICTIONARY STATISTICS")
-    global NUM_WORDS
-    print("* Number of words:", NUM_WORDS)
-    print("* Tags:", len(VALID_TAGS), "(" + str(sorted(VALID_TAGS))[1:-1] + ")")
+    def stats():
+        print("\n# DICTIONARY STATISTICS")
+        global NUM_WORDS
+        print("* Number of words:", NUM_WORDS)
+        print("* Tags:", len(VALID_TAGS), "(" + str(sorted(VALID_TAGS))[1:-1] + ")")
 
 
-stats()
+    stats()
