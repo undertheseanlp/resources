@@ -17,3 +17,5 @@ shutil.rmtree(DICT_LIGHT_FOLDER, ignore_errors=True)
 makedirs(DICT_LIGHT_FOLDER)
 words = set(content.keys())
 joblib.dump(words, join(DICT_LIGHT_FOLDER, 'UVD-light.bin'))
+
+print("+ Build Done.")

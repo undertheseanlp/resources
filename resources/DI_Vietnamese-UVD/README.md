@@ -2,7 +2,8 @@
 
 Underthesea Vietnamese Dictionary
 
-POS Tag list: 'noun', 'adjective', 'verb', 'pronoun', 'numeral', 'determiner', 'conjunction', 'interjection', 'adverb', 'auxiliary', 'preposition', 'Z', 'X'
+* Number of words: 31327
+* Tags: 13 ('X', 'Z', 'adjective', 'adverb', 'auxiliary', 'conjunction', 'determiner', 'interjection', 'noun', 'numeral', 'preposition', 'pronoun', 'verb')
 
 # ERRORS CODE
 

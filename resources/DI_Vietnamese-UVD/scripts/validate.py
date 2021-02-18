@@ -24,8 +24,8 @@ def warn(file, line_number, message, type=None):
 MIN_WORDS_IN_DICT = 3000
 
 # load file
-# dictionary_name = "data"
-dictionary_name = "data_correct"
+dictionary_name = "data"
+# dictionary_name = "data_correct"
 dictionary_file = join(DICT_FOLDER, f"{dictionary_name}.yaml")
 tmp_file = join(DICT_FOLDER, f'tmp_{dictionary_name}.bin')
 RELOAD = False
@@ -65,15 +65,16 @@ validate_num_words(data)
 validate_tags(data)
 
 if total_errors > 0:
-    print(colored(f"\n[x] BUILD ERRORS: {total_errors} errors", 'red'))
+    print(colored(f"\n[x] VALIDATE ERRORS: {total_errors} errors", 'red'))
 else:
-    print(f"\n[+] BUILD SUCCESS")
+    print(f"\n[+] VALIDATE SUCCESS")
 
 
 def stats():
     print("\n# DICTIONARY STATISTICS")
     global NUM_WORDS
-    print("Number words:", NUM_WORDS)
+    print("* Number of words:", NUM_WORDS)
+    print("* Tags:", len(VALID_TAGS), "(" + str(sorted(VALID_TAGS))[1:-1] + ")")
 
 
 stats()

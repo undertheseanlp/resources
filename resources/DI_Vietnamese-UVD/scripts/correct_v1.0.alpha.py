@@ -1,7 +1,10 @@
 from os.path import join, dirname
-
 import joblib
 import yaml
+
+# SOURCE VERSION: v1.0-alpha
+# TARGET VERSION: v1.0-alpha.1
+# LAST UPDATE   : 2021/02/18
 
 SCRIPTS_FOLDER = dirname(__file__)
 DICT_FOLDER = join(dirname(SCRIPTS_FOLDER), 'corpus')
