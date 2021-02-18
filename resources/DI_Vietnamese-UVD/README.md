@@ -2,6 +2,8 @@
 
 Underthesea Vietnamese Dictionary
 
+POS Tag list: 'noun', 'adjective', 'verb', 'pronoun', 'numeral', 'determiner', 'conjunction', 'interjection', 'adverb', 'auxiliary', 'preposition', 'Z', 'X'
+
 # ERRORS CODE
 
 <table>

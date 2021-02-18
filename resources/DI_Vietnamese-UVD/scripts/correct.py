@@ -16,18 +16,26 @@ def tag_correct(data):
     correct_data = data
     TAG_MAP = {
         'N': 'noun',
+        'n': 'noun',  # special case "đạo đức"
         'A': 'adjective',
         'V': 'verb',
         'P': 'pronoun',
         'M': 'numeral',
-        'D': 'determiner'
-
+        'D': 'determiner',
+        'C': 'conjunction',
+        'O': 'interjection',
+        'R': 'adverb',
+        'I': 'auxiliary',
+        'E': 'preposition'
     }
     for word in data:
         for i, node in enumerate(data[word]):
             tag = node['tag']
             if tag in TAG_MAP:
                 correct_data[word][i]['tag'] = TAG_MAP[tag]
+            # case for word 'khối'
+            if word == 'khối' and node['tag'] == 'S':
+                correct_data[word][i]['tag'] = 'adjective'
     return correct_data
 
 
