@@ -40,7 +40,7 @@ Vietnamese Law Corpus
 
 Underthesea Vietnamese Dictionary
 
-`task:dictionary` `domain:general` `version:1.0-alpha` `year:2020`
+`task:dictionary` `domain:general` `version:1.0-alpha.1` `year:2020`
 
 🐟 [SE_Vietnamese-UBS](resources/SE_Vietnamese-UBS)
 
