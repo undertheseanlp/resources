@@ -13,7 +13,7 @@ dict_file = join(dirname(dirname(__file__)), "datasets", "DI_Vietnamese-UVD", "U
 MAX_SHOW_ERRORS = 100
 total_errors = 0
 
-punct = {"!", "/", ",", ".", "...", "?", "-", "\"", "-", ":", "(", ")", "–", "&", ";"}
+punct = {"!", "/", ",", ".", "...", "?", "-", "\"", "-", ":", "(", ")", "–", "&", ";", "‘", "’", "+"}
 specials = {"rbkt", "lbkt"}
 
 
@@ -59,14 +59,18 @@ if __name__ == '__main__':
         if word in punct:
             continue
         tags = list(words[word])
-        if tags[0] in {"ADJ", "ADV", "INTJ", "NOUN", "PROPN", "VERB", "N", "SYM", "NUMx", "X", "N:G", "VERB:G", "NNP", "NY"}:
-            continue
-        if tags[0] == 'PROPN':
-            continue
-        if tags[0] == 'NUM':
+        ignores_tags = {
+            "ADJ", "ADV", "INTJ", "NOUN", "PROPN", "PRON", "SYM", "X", "N:G", "VERB:G", "NY",
+            "N", "NB", "NNPy",
+            "NNP", "NNPy",
+            "V", "VERB",
+            "Num", "NUMx", "NUM", "NUMX"
+        }
+        if tags[0] in ignores_tags:
             continue
         if word not in dict:
             warn("", "", f"Dict is not contains {word}")
+            print(f"{word} -> {words[word]}")
 
     if total_errors > 0:
         print(colored(f"\n[x] VALIDATE ERRORS: {total_errors} errors", 'red'))
