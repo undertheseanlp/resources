@@ -1,35 +1,26 @@
-# DI-Vietnamese-UVD
-
-Underthesea Vietnamese Dictionary
+# Underthesea Vietnamese Dictionary
 
 * Number of words: 31327
-* Tags: 13 ('X', 'Z', 'adjective', 'adverb', 'auxiliary', 'conjunction', 'determiner', 'interjection', 'noun', 'numeral', 'preposition', 'pronoun', 'verb')
+* Tags: 13 (X, Z, adjective, adverb, auxiliary, conjunction, determiner, interjection, noun, numeral, preposition, pronoun, verb)
 
-# ERRORS CODE
+# Samples 
 
-<table>
-<tr>
-<th>Code</th>
-<th>Description</th>
-<th>Example Message</th>
-<th>References</th>
-</tr>
-<tr>
-<td><b>E1xx</b></td>
-<td><i>Dictionary Error</i></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>E101</td>
-<td>Not Enough Words</td>
-<td>Dictionary must has at least N words (found M)</td>
-<td></td>
-</tr>
-<tr>
-<td>E102</td>
-<td>Tag Invalid</td>
-<td>Tag ABC is not valid</td>
-<td></td>
-</tr>
-</table>
+``` 
+sáng tạo:
+- defs:
+  - def: tạo ra những giá trị mới về vật chất hoặc tinh thần
+    examples:
+    - sáng tạo ra chữ viết ~ sáng tạo nghệ thuật
+  tag: verb
+- defs:
+  - def: có cách giải quyết mới, không bị gò bó, phụ thuộc vào cái đã có
+    examples:
+    - có óc sáng tạo ~ vận dụng một cách sáng tạo
+  tag: adjective
+thú vị:
+- defs:
+  - def: có tác dụng tạo nên sự hứng thú, vui thích
+    examples:
+    - sự bất ngờ thú vị ~ không thú vị gì với chuyện đó
+  tag: adjective
+```
