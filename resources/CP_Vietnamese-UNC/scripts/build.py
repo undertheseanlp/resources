@@ -1,8 +1,7 @@
 import os
-from os.path import join, basename
+from os.path import join, basename, dirname
 
-SCRIPTS_FOLDER = os.path.dirname(__file__)
-DATA_FOLDER = join(os.path.dirname(SCRIPTS_FOLDER), "data")
+DATA_FOLDER = join(dirname(dirname(__file__)), "corpus", "CP_Vietnamese-UNC")
 
 
 def warn(file, line_number, message, type=None):
