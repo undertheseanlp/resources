@@ -36,6 +36,13 @@ Nước Mỹ - vùng dịch lớn nhất thế giới - cho tới nay đã ghi n
 Châu Âu bước vào mùa đông u ám
 ```
 
+### Maintain Scripts 
+
+```
+# build corpus
+python scripts/build.py
+```
+
 ### Changelog
 
 * [View Full Changelog](CHANGELOG.md)
