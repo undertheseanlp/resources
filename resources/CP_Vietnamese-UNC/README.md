@@ -59,9 +59,17 @@ Châu Âu bước vào mùa đông u ám
 
 ### Maintain Scripts 
 
+Build Corpus
+
 ```
-# build corpus
-python scripts/build.py
+$ python scripts/build.py
+
+[+] BUILD SUCCESS
+
+# CORPUS STATISTICS
+Number of topics    : 10
+Number of documents : 2653
+Number of sentences : 41947
 ```
 
 ### Changelog
