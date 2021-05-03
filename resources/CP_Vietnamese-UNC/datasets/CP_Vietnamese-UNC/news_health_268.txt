@@ -1,0 +1,12 @@
+# doc_id = news_health_268
+# url = https://dantri.com.vn/suc-khoe/xuat-hien-ca-duong-tinh-voi-sars-co-v-2-dau-tien-la-truong-hop-nhap-canh-20210419090242311.htm
+# date = 20210419
+Ca dương tính với SARS-CoV-2 đầu tiên ghi nhận tại Yên Bái là trường hợp nhập cảnh về Việt Nam.
+Sáng ngày 19/4, trao đổi với PV Dân trí, lãnh đạo tỉnh Yên Bái cho biết, trên địa bàn tỉnh vừa ghi nhận một ca dương tính với SARS-CoV-2 , là trường hợp nhập cảnh vào Việt Nam.
+Cụ thể, vào 2h sáng ngày 18/4, tại Khách sạn Như Nguyệt 2 đã tiếp nhận đoàn chuyên gia Ấn Độ gồm 11 người nhập cảnh vào Việt Nam qua Cảng hàng không quốc tế Nội Bài về Yên Bái làm việc.
+Sau khi nhập cảnh, đoàn đã được xe chuyên dụng đưa về cách ly tập trung tại Khách sạn Như Nguyệt 2, TP Yên Bái (cơ sở đã được UBND tỉnh chỉ định là khách sạn cách ly cho người nước ngoài).
+Ngay sau khi về cách ly tại khách sạn, đoàn chuyên gia người Ấn Độ đã được lấy mẫu và xét nghiệm tại phòng xét nghiệm của Trung tâm kiểm soát bệnh tật tỉnh Yên Bái và kết quả xét nghiệm: đã có 1 trường hợp dương tính với SARS-CoV-2 là nam 35 tuổi và 10 trường hợp còn lại có kết quả âm tính lần 1.
+Ngay sau khi phát hiện ca dương tính trên, UBND tỉnh Yên Bái đã lập tức chỉ đạo Sở Y tế, UBND TP Yên Bái và các đơn vị liên quan tiến hành giám sát và triển khai ngay các biện pháp rà soát các trường hợp tiếp xúc gần (có 11 trường hợp F1, bao gồm: 10 người cùng đoàn, 1 nhân viên khách sạn), đã được cách ly tập trung tại khách sạn, 5 trường hợp liên quan là 3 lái xe và 2 nhân viên y tế đã thực hiện các biện pháp phòng chống dịch theo quy định.
+Tổ chức phong tỏa và phun thanh khiết môi trường khu vực Khách sạn Như Nguyệt 2. Gửi mẫu xét nghiệm về Viện Vệ sinh dịch tễ trung ương để xét nghiệm khẳng định lại, và báo cáo Bộ Y tế theo quy định, chuyển bệnh nhân về theo dõi và điều trị tại Bệnh viện Nhiệt đới Trung ương.
+UBND tỉnh Yên Bái đề nghị người dân cần tiếp tục thực hiện nghiêm các biện pháp phòng, chống dịch theo thông điệp 5K của Bộ Y tế, không chủ quan, lơ là trước diễn biến còn hết sức phức tạp của dịch Covid - 19.
+Trần Thanh

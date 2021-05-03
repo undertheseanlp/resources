@@ -1,0 +1,23 @@
+# doc_id = news_health_206
+# url = https://dantri.com.vn/suc-khoe/sang-264-them-3-ca-mac-covid-19-20210426060414322.htm
+# date = 20210426
+Tính từ 18h ngày 25/4 đến 6h ngày 26/4, nước ta có 3 ca mắc mới Covid-19 (BN2844-2846) được cách ly ngay sau khi nhập cảnh tại Quảng Nam (2), Đà Nẵng (1).
+Cụ thể:
+- CA BỆNH 2844 (BN2844) ghi nhận tại tỉnh Quảng Nam: Bệnh nhân nam, 28 tuổi, công dân Việt Nam, địa chỉ tại huyện thị xã Phú Mỹ, tỉnh Bà Rịa - Vũng Tàu.
+- CA BỆNH 2845 (BN2845) ghi nhận tại tỉnh Quảng Nam: Bệnh nhân nam, 35 tuổi, công dân Việt Nam, địa chỉ tại huyện Vĩnh Linh, tỉnh Quảng Trị.
+Ngày 23/4, BN2844-2845 từ Nhật Bản nhập cảnh Sân bay Đà Nẵng trên chuyến bay VN5313 và được cách ly ngay sau khi nhập cảnh tại tỉnh Quảng Nam. Kết quả xét nghiệm ngày 25/4 dương tính với SARS-CoV-2. Hiện các bệnh nhân được cách ly, điều trị tại Bệnh viện Đa khoa khu vực Quảng Nam.
+- CA BỆNH 2846 (BN2846) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nam, 27 tuổi, công dân Việt Nam, địa chỉ tại huyện Yên Lập, tỉnh Phú Thọ.
+Ngày 20/4, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Quốc tế Đà Nẵng trên chuyến bay QH9413 và được cách ly ngay sau khi nhập cảnh tại Thành phố Đà Nẵng. Kết quả xét nghiệm lần 2 ngày 25/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Phổi Đà Nẵng.
+Tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 41.626, trong đó:
+- Cách ly tập trung tại bệnh viện: 527
+- Cách ly tập trung tại cơ sở khác: 26.276
+- Cách ly tại nhà, nơi lưu trú: 14.823.
+Về tình hình điều trị, theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế:
+- Số ca âm tính với SARS-CoV-2:
++ Lần 1: 13
++ Lần 2: 15
++ Lần 3: 20
+- Số ca tử vong: 35 ca.
+- Số ca điều trị khỏi: 2.516 ca.
+Trong ngày 25/4, có thêm 10.660 người được tiêm chủng vắc xin phòng Covid-19. Như vậy, tính đến 16 giờ ngày 25/4, tổng cộng đã thực hiện tiêm vắc xin đợt 1 và 2 cho 209.632 người.
+Nam Phương

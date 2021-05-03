@@ -1,0 +1,11 @@
+# doc_id = news_health_122
+# url = https://dantri.com.vn/suc-khoe/ha-nam-them-3-ca-duong-tinh-voi-sars-co-v-2-20210501140139170.htm
+# date = 20210501
+Thông tin từ Trung tâm Kiểm soát bệnh tật (CDC) Hà Nam, với sự hỗ trợ từ Viện Vệ sinh dịch tễ Trung ương, đến sáng ngày 1/5 Hà Nam đã hoàn thành 1.295 mẫu xét nghiệm đã lấy trước đó, xác nhận có thêm 3 mẫu dương tính.
+Các trường hợp tiếp xúc gần với các ca nhiễm Covid-19 tại Hà Nam được đưa đi cách ly.
+3 trường hợp này, 1 người là nam, tiếp xúc gần với bệnh nhân 2899. 2 người còn lại là ông nội và vợ của người tiếp xúc gần với bệnh nhân 2899, (được tính là F2). Cả 3 cùng trú tại thôn Thọ Lão, xã Đạo Lý, huyện Lý Nhân, Hà Nam.
+Sau khi ghi nhận 3 mẫu bệnh phẩm dương tính với SARS-CoV-2, lực lượng chức năng đã khẩn trương lấy mẫu xét nghiệm toàn bộ người dân thôn Thọ Lão, gồm 352 hộ dân với 1.166 nhân khẩu, phấn đấu đầu giờ chiều ngày 1/5 sẽ hoàn thành.
+Lực lượng chức năng cũng đã lập 4 chốt phòng dịch ở thôn Thọ Lão và mở rộng, lập thêm 4 chốt ở thôn Quan Nhân, vì thôn Quan Nhân nằm sát cạnh thôn Thọ Lão.
+Đồng thời, lực lượng chức năng cũng đã lập 4 chốt phòng dịch ở thôn Thọ Lão và mở rộng, lập thêm 4 chốt ở thôn Quan Nhân, vì thôn Quan Nhân nằm sát cạnh thôn Thọ Lão.
+Như vậy tính đến thời điểm hiện nay, Hà Nam có 10 ca dương tính với SARS-CoV-2.
+Đức Văn

@@ -1,0 +1,18 @@
+# doc_id = news_tech_225
+# url = https://dantri.com.vn/suc-manh-so/thong-tin-ca-nhan-co-bi-lo-neu-lam-mat-can-cuoc-cong-dan-gan-chip-20210419155317677.htm
+# date = 20210419
+Đây là câu hỏi đang được rất nhiều người dùng trên Internet đặt ra trong thời gian gần đây.
+Theo Bộ Công an, chip được thiết kế chống làm giả và chống cài đặt trái phép. Do đó, nếu có bị trộm cắp cũng không dùng được, chỉ người chủ sở hữu mới có thể sử dụng được.
+Về vấn đề này, ngay từ khi đề xuất sử dụng Căn cước công dân có gắn chip điện tử, Bộ Công an đã xây dựng phương án đảm bảo tính bảo mật thông tin được lưu trữ trên chip. Phương án này được các đơn vị chuyên môn đánh giá, nghiệm thu, đảm bảo bảo mật trước khi đưa vào phát hành sử dụng rộng rãi trong xã hội.
+Chip được thiết kế chống làm giả và chống cài đặt trái phép.
+Theo đó, chip được thiết kế chống làm giả và chống cài đặt trái phép. Do đó, nếu có bị trộm cắp cũng không dùng được, chỉ người chủ sở hữu mới có thể sử dụng được. Vì ngoài số định danh cá nhân còn có thông tin cá nhân, sinh trắc học, nhận dạng...
+"Chip có khả năng lưu trữ thông tin sinh trắc học (như dấu vân tay), cho phép xác thực đảm bảo chính xác con người. Qua đó, thông tin chủ thẻ được định danh một cách chính xác, giảm thiểu mọi nguy cơ về giả mạo thẻ, đảm bảo an toàn bảo mật nhất là trong các giao dịch tài chính", Bộ Công an cho hay.
+Thẻ CCCD có gắn chip điện tử có độ bảo mật cao, dung lượng lưu trữ lớn, cho phép tích hợp nhiều ứng dụng đi kèm như: Ứng dụng chữ ký số, hạ tầng khóa bảo mật công khai, ứng dụng sinh trắc học, ứng dụng mật khẩu một lần,… có thể được sử dụng và kết nối rộng rãi cho các dịch vụ công cộng và tư nhân.
+Đáng chú ý, khi thẻ CCCD gắn chip điện tử có tích hợp đầy đủ các thông tin, lúc đó người dân đi giao dịch và làm các thủ tục sẽ không phải mang nhiều loại giấy tờ mà chỉ cần dùng thẻ CCCD có gắn chip thì sẽ thực hiện được các giao dịch.
+Ngoài ra, việc tích hợp chip trên CCCD đem lại tính linh hoạt khi cần bổ sung hoặc sửa đổi thông tin trên thẻ sau khi phát hành bởi cơ quan Công an. Dữ liệu trên chip có thể được truy cập ngay lập tức mà không bị phụ thuộc vào kết nối mạng thông qua các thiết bị cho phép đọc thông tin trên chip giúp cho việc xác thực danh tính được thực hiện ngay, hạn chế tối đa việc giả mạo danh tính.
+Bên cạnh đó, Bộ Công an cũng khẳng định chip được gắn trên thẻ CCCD là để lưu trữ các thông tin của công dân trên thẻ CCCD với mục tiêu tạo điều kiện thuận tiện cho công dân thực hiện các giao dịch hành chính, đi lại, nâng cao hiệu quả của Chính phủ điện tử, Chính phủ số.
+Chip gắn trên thẻ CCCD không có chức năng định vị, theo dõi để xác định vị trí của công dân. Việc tích hợp, sử dụng thông tin trên chip tuân thủ quy định của pháp luật Việt Nam, bảo đảm an ninh, an toàn thông tin.
+"Căn cước công dân gắn chip là xu thế chung trong thời đại công nghệ thông tin và đã được nhiều nước trên thế giới áp dụng vì tính tiện dụng, thuận lợi khi thực hiện các giao dịch, dịch vụ trực tuyến... cho công dân", thông tin từ Bộ Công an cho biết.
+Hiện tại, 10 tỉnh, thành phố được tập trung nguồn lực triển khai việc cấp thẻ Căn cước công dân đúng tiến độ gồm: Hà Nội, TPHCM, Hải Phòng, Đà Nẵng, Cần Thơ, Đồng Nai, Bình Dương, Thanh Hóa, Nghệ An, Bắc Ninh.
+Đây là những địa bàn tập trung đông dân cư, lượng người giao dịch lớn nên mốc thời gian đặt ra là trước ngày 30/4/2021, một nửa số dân cư trú tại 10 địa bàn này được cấp thẻ Căn cước công dân mới.
+Thế Anh

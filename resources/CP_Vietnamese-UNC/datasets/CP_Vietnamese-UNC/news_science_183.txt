@@ -1,0 +1,13 @@
+# doc_id = news_science_183
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/phat-hien-moi-ve-do-nhay-cua-dau-ngon-tay-con-nguoi-20210323061504888.htm
+# date = 20210323
+Một nghiên cứu mới đã tiết lộ mức độ tiếp nhận của các tế bào thần kinh cảm giác trong ngón tay của con người. Chúng có thể khả năng tiếp nhận phản ứng trên quy mô cực nhỏ của một đường vân tay.
+Ewa Jarocka, đồng tác giả của nghiên cứu từ Đại học Umeå ở Thụy Điển cho biết, các tế bào thần kinh cảm giác gắn liền với các thụ thể nằm rải rác ngay bên dưới bề mặt da, cho phép chúng ta phát hiện cảm giác chạm, rung, áp lực, đau và nhiều hơn thế nữa. Chỉ riêng bàn tay của chúng ta đã chứa hàng chục nghìn tế bào thần kinh này, mỗi tế bào thần kinh có các thụ thể trên một diện tích bề mặt nhỏ của da, được gọi là trường tiếp nhận.
+Để lập bản đồ các lĩnh vực này, các nhà nghiên cứu đã buộc chặt cánh tay của 12 người khỏe mạnh và dán móng tay của họ vào những người giữ bằng nhựa để thực sự đảm bảo rằng họ không thể di chuyển. Sau đó, một cỗ máy lăn các hình nón nhỏ, rộng 0,4 mm cách nhau khoảng 7 mm trên da của họ và nhóm nghiên cứu đã ghi lại phản ứng của từng tế bào thần kinh bằng cách sử dụng một điện cực trên cánh tay của những người tham gia.
+Cụ thể, các nhà khoa học đã lập bản đồ các vùng nhạy cảm hơn được gọi là trường con trong các trường dễ tiếp thu này.
+Bằng cách tính toán các khu vực phát hiện tế bào thần kinh cảm giác và ánh xạ chúng vào dấu vân tay, nhóm nghiên cứu nhận thấy rằng chiều rộng của khu vực phát hiện tương đương với chiều rộng của một rãnh vân tay.
+Các trường con này cũng không di chuyển khi máy di chuyển các chấm nhanh hơn hoặc chậm hơn hoặc thay đổi hướng. Nó cho thấy rằng các khu vực nhạy cảm này được cố định vào chính các đường vân tay.
+"Độ nhạy của cách sắp xếp trường con đối với cả hai loại nơ-ron trung bình tương ứng với khoảng thời gian không gian ~ 0,4 mm và cung cấp bằng chứng cho thấy tính chọn lọc không gian của trường con phát sinh do cơ quan thụ cảm liên quan của nó đo lường các sự kiện cơ học giới hạn ở một rãnh nhú đơn lẻ", các nhà nghiên cứu giải thích.
+Đây cũng là nghiên cứu đầu tiên cho thấy rằng các đường vân tay đang giúp chúng ta cảm nhận thế giới xung quanh một cách chính xác hơn.
+Trang Phạm
+Theo Science Alert

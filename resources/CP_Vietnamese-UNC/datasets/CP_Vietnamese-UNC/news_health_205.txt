@@ -1,0 +1,21 @@
+# doc_id = news_health_205
+# url = https://dantri.com.vn/suc-khoe/sang-25-chua-phat-hien-them-ca-mac-lien-quan-chum-ca-benh-cua-ha-nam-20210502061431571.htm
+# date = 20210502
+Tính từ 18h ngày 1/5 đến 6h ngày 2/5, Việt Nam có không ca mắc mới Covid-19. Như vậy, đến nay nước ta ghi nhận 2.942 bệnh nhân, 35 trường hợp tử vong,
+Theo Cục Y tế Dự phòng, Bộ Y tế đến 19h ngày 1/5, liên quan đến ổ dịch Hà Nam đã phát hiện 16 ca dương tính. Trong đó Hà Nam: 10 ca, Hà Nội: 3, Hưng Yên: 2 và TPHCM: 1.
+Cơ quan chức năng đã xác định được 690 trường hợp F1 (Hà Nam: 521, Hà Nội: 73, Hưng Yên: 34, HCM: 37, Thanh Hóa: 9, Ninh Bình: 3, Lào Cai: 1, Hòa Bình: 1, Thái Bình: 11) cách ly tập trung, lấy mẫu xét nghiệm. Ngoài ra, có gần 1.900 trường hợp F2 được cách ly tại nhà.
+Tổng số mẫu đã xét nghiệm là 2.452, trong đó 1.569 mẫu có kết quả âm tính, 16 mẫu dương tính (là các bệnh nhân trên), 867 mẫu đang chờ kết quả.
+Hưng Yên cũng đã lấy mẫu toàn thôn Hoàng Xá xã Tiên Tiến (nơi có 2 ca), với tổng số 1.134 mẫu, kết quả 785 mẫu âm tính, còn lại đang chờ.
+Tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 40.563, trong đó:
+- Cách ly tập trung tại bệnh viện: 541
+- Cách ly tập trung tại cơ sở khác: 23.125
+- Cách ly tại nhà, nơi lưu trú: 16.897.
+Về tình hình điều trị, theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế:
+- Số ca âm tính với SARS-CoV-2:
++ Lần 1: 19
++ Lần 2: 19
++ Lần 3: 34
+- Số ca tử vong: 35 ca.
+- Số ca điều trị khỏi: 2.549 ca.
+Trong ngày 1/5, nước ta cũng có thêm 1.580 người được tiêm chủng vắc xin phòng Covid-19. Như vậy, tính đến 16 giờ ngày 1/5, tổng cộng đã thực hiện tiêm vắc xin phòng Covid-19 đợt 1 và 2 tại các tỉnh/TP cho 511.435 người.
+Nam Phương

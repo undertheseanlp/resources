@@ -1,0 +1,14 @@
+# doc_id = news_science_240
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/trien-khai-kinh-vien-vong-khong-gian-khong-lo-tim-hat-ma-quy-20210316062823254.htm
+# date = 20210316
+Kính thiên văn sâu dưới nước được xây dựng từ năm 2015, có thiết kế để quan sát các hạt neutrino, các hạt nhỏ nhất hiện được biết đến. Neutrino là những hạt hạ nguyên tử bí ẩn được mệnh danh "hạt ma quỷ", đến từ một trong các dạng vật thể đáng sợ nhất vũ trụ đó là lỗ đen.
+Sở dĩ Neutrino được gọi là "hạt ma quỷ" vì các neutrino không giống bất cứ dạng nguyên tử hay hạ nguyên tử nào tồn tại trên Trái đất. Các hạt này rất khó hiểu, vô hình như bóng ma, gần như không thể nắm bắt và có thể đi xuyên qua vật chất, xuyên qua cả Trái Đất mà không bị ảnh hưởng bởi các định luật vật lý thông thường.
+Để truy tìm neutrino, kính thiên văn có tên Baikal-GVD, được nhấn chìm ở độ sâu 750-1.300 mét cách bờ hồ khoảng 4 km. Thực tế, neutrino rất khó phát hiện và nước là phương tiện hữu hiệu để làm điều đó.
+Các nhà khoa học cho biết đã rất cẩn trọng triển khai các mô-đun được hạ xuống một cách cẩn thận tại vùng nước đóng băng thông qua một lỗ hình chữ nhật trên băng.
+"Một kính thiên văn neutrino có kích thước nửa km khối nằm ngay dưới chân chúng tôi. Trong vài năm tới, kính thiên văn sẽ được mở rộng để đo được một km khối", Dmitry Naumov thuộc Viện Nghiên cứu Hạt nhân cho biết.
+Dmitry Naumov nói thêm rằng kính viễn vọng ở Baikal sẽ sánh ngang với Ice Cube, một đài quan sát neutrino khổng lồ dưới lớp băng ở Nam Cực tại một trạm nghiên cứu của Mỹ ở Nam Cực.
+Các nhà khoa học Nga cho biết kính thiên văn này là máy dò hạt neutrino lớn nhất ở Bắc bán cầu và hồ Baikal - hồ nước ngọt lớn nhất thế giới - là nơi lý tưởng để đặt đài quan sát nổi.
+"Tất nhiên, hồ Baikal là hồ duy nhất mà bạn có thể triển khai kính viễn vọng neutrino vì độ sâu của nó", nhà nghiên cứu Bair Shoibonov nhấn mạnh.
+Kính thiên văn Baikal-GVD là kết quả của sự hợp tác giữa các nhà khoa học đến từ Cộng hòa Séc, Đức, Ba Lan, Nga và Slovakia.
+Trang Phạm
+Theo Science Alert

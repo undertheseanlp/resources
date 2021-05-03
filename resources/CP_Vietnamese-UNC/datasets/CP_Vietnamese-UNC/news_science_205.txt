@@ -1,0 +1,17 @@
+# doc_id = news_science_205
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tai-sao-chim-ruoi-phat-ra-tieng-vo-ve-20210318061455113.htm
+# date = 20210318
+David Lentink, trợ lý giáo sư kỹ thuật cơ khí tại Đại học Stanford và là đồng tác giả của nghiên cứu nói rằng mặc dù tiếng vo ve được biết đến là có liên quan đến chuyển động của đôi cánh, nhưng trước đây người ta vẫn chưa rõ nguyên nhân chính xác đằng sau âm thanh này.
+Những thay đổi áp suất được tạo ra bởi tiếng vỗ cánh, xoáy trong luồng không khí và âm thanh từ chính những chiếc lông vũ của chim ruồi được cho đều nằm trong số các nguyên nhân có thể được tính đến.
+Nhưng theo nghiên cứu mới, có vẻ như câu trả lời chủ yếu nằm ở các lực khí động học, áp suất thay đổi được tạo ra khi cánh di chuyển.
+"Chỉ điều này thôi là đủ để thực sự hiểu được nguồn chính của tiếng vo ve bí ẩn đó là gì", Lentink nói.
+Các nhà khoa học từ Đại học Công nghệ Eindhoven và Đại học Stanford là những người đã đưa ra báo cáo kết luận sau khi thực hiện các thí nghiệm với một loài được gọi là chim ruồi Anna.
+Trong một lần thiết lập nghiên cứu, nhóm nghiên cứu đã bố trí hơn 2.000 micro, cũng như máy ảnh tốc độ cao xung quanh một chiếc lồng, trong đó có sáu con chim ruồi đang ăn một bông hoa nhân tạo. Điều này cho phép họ thu nhận âm thanh do chim tạo ra để tạo ra một bản đồ âm thanh 3D được liên kết trực quan với chuyển động của đôi cánh.
+Để khám phá điều gì đã tạo ra âm thanh, nhóm nghiên cứu đã tìm cách đo lực nâng và lực kéo do việc vỗ cánh của chim ruồi tạo ta. Để làm điều này, họ đã tạo ra một thí nghiệm khác, trong đó những con chim được bao quanh bởi các tấm áp suất, cũng như camera tốc độ cao theo dõi khi chúng bay lượn. Điều này xác định kích thước của các lực áp suất được tạo ra và cách chúng thay đổi theo thời gian.
+Khi các nhà nghiên cứu tổng hợp thông tin về lực cùng với chuyển động của cánh chim, họ có thể dự đoán âm thanh sẽ được tạo ra chỉ từ những yếu tố này. Sau đó, họ so sánh chúng với bản đồ âm thanh 3D được tạo ra từ thiết lập micro.
+Kết quả cho thấy, các lực khí động học được tạo ra khi cánh di chuyển, cùng với tốc độ và hướng chuyển động của cánh, phần lớn đủ để giải thích tiếng vo ve của chim ruồi.
+Nhóm nghiên cứu lưu ý có một yếu tố quan trọng là chuyển động của cánh chim ruồi. Trong khi hầu hết các loài chim chỉ tạo ra lực nâng khi hạ xuống thì chim ruồi làm như vậy khi hạ xuống và hướng lên do chuyển động cánh bất thường của chúng theo đường đi giống như hình chữ U.
+Hơn nữa, những lần hạ xuống này xảy ra nhanh hơn nhiều đối với chim ruồi, khoảng 40 lần một giây. Kết quả là, nhóm nghiên cứu cho biết chuyển động của cánh chim ruồi tạo ra âm thanh ở cả tần số 40Hz và 80Hz là những âm thanh nằm trong phạm vi thính giác của chúng ta và được tìm thấy là thành phần chính của tiếng vo ve.
+Nhóm nghiên cứu cũng áp dụng nghiên cứu dữ liệu về các sinh vật khác có thể bay, từ muỗi đến chim như chim bồ câu có thể tiết lộ lý do tại sao chuyển động của chúng tạo ra âm thanh khác nhau.
+Trang Phạm
+Theo The Guardian

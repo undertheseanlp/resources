@@ -1,0 +1,12 @@
+# doc_id = news_tech_051
+# url = https://dantri.com.vn/suc-manh-so/ca-khu-dan-cu-bi-mat-mang-internet-vi-ly-do-it-ai-ngo-20210428150514702.htm
+# date = 20210428
+Hàm răng sắc nhọn giúp hải ly có thể gặm và cắn đứt nhiều vật liệu cứng.
+900 khách hàng của nhà mạng cung cấp dịch vụ Internet Telus sống tại khu đô thị Tumbler Ridge (tỉnh British Columbia, Canada) đã đồng loạt bị mất dịch vụ và không thể truy cập vào mạng Internet.
+Sau khi tiến hành điều tra nguyên nhân gây ra sự cố, đại diện của nhà mạng Telus cho biết họ phát hiện thấy những con hải ly đã gặm đứt dây cáp quang tại nhiều điểm, khiến cho Internet bị gián đoạn. Đại diện của nhà mạng thừa nhận đây là "một sự cố hy hữu và chưa từng gặp".
+Mặc dù cáp ngầm được chôn ở độ sâu 1m dưới đáy của một lạch nước và được bảo vệ bởi ống nhựa dày 11cm, những con hải ly bằng một cách nào đó vẫn đào xuống để cắn đứt.
+"Các kỹ sư của chúng tôi đã phát hiện sự cố cáp quang xảy ra ở gần một con đập của hải ly trên một lạch nước và có vẻ như những con hải ly trong lúc đào hang phía dưới con lạch đã vô tình cắn đứt dây cáp quang, được chôn ở độ sâu 1m dưới lòng đất. Những con hải ly đã cắn nát ống bảo vệ dày 11cm trước khi cắn đứt cáp quang ở bên trong đó", đại diện của nhà mạng Telus cho biết.
+Các kỹ sư của Telus đã phải rất khó khăn để tiếp cận vị trí dây cáp quang bị đứt do thời tiết lạnh giá khiến mặt nước phía trên con lạch bị đóng băng. Sau hơn một ngày xử lý sự cố, các kỹ sư của Telus mới có thể khôi phục lại truy cập Internet cho khách hàng của mình.
+Telus hiện đang phải "đau đầu" tìm giải pháp để tránh sự cố tương tự xảy ra trong tương lai. Nhiều khả năng họ sẽ phải sử dụng ống bảo vệ cáp quang bằng kim loại, thay vì bằng nhựa như hiện nay.
+Đây không phải là lần đầu tiên xảy ra sự cố đứt cáp quang vì lý do hy hữu. Vào tháng 5 năm ngoái, dịch vụ cáp quang tốc độ cao của Google tại bang Oregon (Mỹ) cũng đã gặp sự cố trên diện rộng, mà nguyên do là vì một đàn bò trong lúc di chuyển đã dẫm vào dây cáp quang khiến sợi cáp bị đứt.
+T.ThủyTheo SoMag

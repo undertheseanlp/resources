@@ -1,0 +1,14 @@
+# doc_id = news_tech_099
+# url = https://dantri.com.vn/suc-manh-so/facebook-google-xay-dung-cap-quang-internet-noi-dong-nam-a-voi-my-20210330124248704.htm
+# date = 20210330
+Sơ đồ kết nối 2 tuyến cáp quang ngầm Echo và Bifrost của Facebook.
+Theo ông Kevin Salvadori, Phó Chủ tịch đầu tư mạng lưới của Facebook, công ty này đã lên kế hoạch để xây dựng 2 tuyến cáp quang ngầm dưới biển để kết nối Indonesia, Singapore đến khu vực Bắc Mỹ. Hai tuyến cáp quang ngầm Echo và Bifrost, sẽ giúp tăng 70% lưu lượng kết nối Internet qua Thái Bình Dương.
+"Mang tên Echo và Bifrost, đây sẽ là hai tuyến cáp quang ngầm đầu tiên băng qua biển Java và chúng sẽ làm tăng công suất tổng thể của các tuyến cáp quang biển xuyên qua Thái Bình Dương lên khoảng 70%", Kevin Salvadori cho biết.
+Kevin Salvadori từ chối bình luận về quy mô đầu tư của dự án, nhưng cho biết "đây là một khoản đầu tư rất quan trọng của chúng tôi tại Đông Nam Á".
+Indonesia sẽ là quốc gia được hưởng lợi nhiều nhất từ dự án của Facebook, khi tuyến cáp quang mới sẽ giúp tăng cường kết nối cho các tỉnh miền Trung và miền Đông Indonesia đến khu vực Bắc Mỹ.
+Tuyến cáp quang biển Echo sẽ được Facebook hợp tác với Google và công ty viễn thông XL Axiata của Indonesia để xây dựng và dự kiến hoàn thành vào năm 2023. Trong khi đó, tuyến cáp quang Bifrost sẽ là dự án hợp tác giữa Facebook với Telin, một công ty con của nhà mạng Telkom (Indonesia) và tập đoàn Keppel (Singapore), dự kiến hoàn tất vào năm 2024.
+Indonesia hiện là một trong 5 thị trường lớn nhất của Facebook và hai tuyến cáp quang này là một phần trong kế hoạch đầu tư của Facebook để thúc đẩy kết nối tại Indonesia. Hiện có khoảng 73% trong tổng số 270 triệu dân của Indonesia đang có kết nối Internet, nhưng phần lớn các kết nối đều thông qua dữ liệu di động, chỉ với 10% sử dụng kết nối băng thông rộng, 27% dân số còn lại của Indonesia không hề có hình thức kết nối Internet nào.
+Năm ngoái, Facebook cho biết sẽ triển khai 3.000km cáp quang tại 20 thành phố ở Indonesia để giúp phát triển mạng WiFi công cộng tại quốc gia này.
+Ngoài khu vực Đông Nam Á, Facebook đang có kế hoạch triển khai hệ thống cáp quang biển tại khu vực châu Á và trên toàn cầu, với tham vọng mang kết nối Internet đến nhiều người và nhiều khu vực hơn.
+Trước đó, Facebook cũng đã từng tham vọng phủ sóng Internet trên toàn cầu bằng máy bay không người lái. Tuy nhiên, hiện dự án này đã bị hủy bỏ, và có vẻ giờ đây, Facebook sẽ tập trung vào những dự án thiết thực hơn; đó là các tuyến cáp ngầm xuyên biển.
+T.ThủyTheo DTrends

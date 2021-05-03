@@ -1,0 +1,26 @@
+# doc_id = news_health_207
+# url = https://dantri.com.vn/suc-khoe/sang-304-them-3-ca-lay-cong-dong-tai-ha-noi-va-hung-yen-20210430060235384.htm
+# date = 20210430
+Tính từ 18h ngày 29/4 đến 6h ngày 30/4, Việt Nam thêm 4 ca mắc mới Covid-19 (BN2911-2914), trong đó có 3 ca ghi nhận trong nước tại Hà Nội (1), Hưng Yên (2) và 1 ca được cách ly ngay sau khi nhập cảnh tại Quảng Trị.
+Cụ thể:
+- CA BỆNH 2911 (BN2911) ghi nhận tại Hà Nội: Bệnh nhân nam, 28 tuổi, địa chỉ tại xã Việt Hùng, huyện Đông Anh, TP Hà Nội, là F1 của BN2899.
+Ngày 22/4, bệnh nhân đi ăn liên hoan cùng BN2899 tại thị trấn Vĩnh Trụ, Lý Nhân, Hà Nam. Ngày 29/4, bệnh nhân có kết quả dương tính với SARS-CoV-2. Hiện bệnh nhân đang được cách ly điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh.
+- CA BỆNH 2912 (BN2912) ghi nhận tại Hưng Yên: Bệnh nhân nữ, 2 tuổi, địa chỉ tại xã Tiên Tiến, huyện Phù Cừ, tỉnh Hưng Yên, là F1 của BN2899.
+Bệnh nhân có tiếp xúc gần với BN2899 ngày 22/4 tại xã Đạo Lý, huyện Lý Nhân, tỉnh Hà Nam. Ngày 29/4, bệnh nhân có kết quả dương tính với SARS-CoV-2. Hiện bệnh nhân đang được cách ly điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh.
+- CA BỆNH 2913 (BN2913) ghi nhận tại Hưng Yên: Bệnh nhân nữ, 58 tuổi, địa chỉ tại xã Tiên Tiến, huyện Phù Cừ, tỉnh Hưng Yên, là bà nội của BN2912.
+Bệnh nhân thường xuyên tiếp xúc gần với BN2912. Ngày 29/4, bệnh nhân có kết quả dương tính với SARS-CoV-2. Hiện bệnh nhân đang được cách ly điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh.
+- CA BỆNH 2914 (BN2914) cách ly ngay sau nhập cảnh tại Quảng Trị: Bệnh nhân nữ, 34 tuổi, có địa chỉ tại quận Cẩm Lệ, thành phố Đà Nẵng.
+Ngày 27/4, bệnh nhân trên từ nước ngoài nhập cảnh cửa khẩu Lao Bảo và được cách ly ngay sau khi nhập cảnh tại tỉnh Quảng Trị. Kết quả xét nghiệm ngày 29/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện các bệnh Phổi tỉnh Quảng Trị.
+Tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 37.249, trong đó:
+- Cách ly tập trung tại bệnh viện: 531
+- Cách ly tập trung tại cơ sở khác: 21.668
+- Cách ly tại nhà, nơi lưu trú: 15.050.
+Về tình hình điều trị, theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế:
+- Số ca âm tính với SARS-CoV-2:
++ Lần 1: 13
++ Lần 2: 15
++ Lần 3: 20
+- Số ca tử vong: 35 ca.
+- Số ca điều trị khỏi: 2.516 ca.
+Trong ngày 29/4 cả nước có thêm 78.414 người được tiêm chủng vắc xin phòng Covid-19. Như vậy, đến 16 giờ ngày 29/4, tổng cộng đã thực hiện tiêm vắc xin phòng Covid-19 đợt 1 và 2 tại các tỉnh/TP cho 506.435 người.
+Nam Phương

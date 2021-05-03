@@ -1,0 +1,11 @@
+# doc_id = news_health_117
+# url = https://dantri.com.vn/suc-khoe/ha-nam-dieu-kip-truc-bv-san-nhi-chua-tri-cho-benh-nhan-1-tuoi-mac-covid-19-20210430143437961.htm
+# date = 20210430
+Tính đến sáng 30/4 trên địa bàn tỉnh Hà Nam đã xác định được 7 ca dương tính với SARS-Cov-2 và 1 ca nghi ngờ, đều ở huyện Lý Nhân.
+Hiện 7 bệnh nhân đang được cách ly và điều trị tại Bệnh viện Đa khoa tỉnh Hà Nam. Trong số 7 bệnh nhân này, có bệnh nhân N.T.Q.C. (SN 2020) là con bệnh nhân 2899. Do bệnh nhân này mới 1 tuổi, nên ngoài kíp trực của Bệnh viện Đa khoa Hà Nam còn có thêm cả một kíp trực của Bệnh viện Sản Nhi Hà Nam cùng vào khu cách ly đặc biệt thực hiện nhiệm vụ điều trị cho bệnh nhân nhỏ tuổi này.
+Khu cách ly đặc biệt tại Bệnh viện Đa khoa tỉnh Hà Nam.
+Theo thông tin từ lãnh đạo Khoa Truyền nhiễm, Bệnh viện Đa khoa tỉnh Hà Nam, trong các bệnh nhân đang điều trị tại đây bệnh nhân N.V.Đ (bệnh nhân 2899) có dấu hiệu bệnh rõ nhất: Sốt, ho, chụp phim có hình ảnh viêm phổi điển hình của Covid-19.
+Các bệnh nhân còn lại đều không có dấu hiệu bệnh. Vợ, bố mẹ đẻ của bệnh nhân N.V.Đ. chụp phim có hình ảnh của viêm phổi nhẹ. Cháu bé 1 tuổi, con của bệnh nhân N.V.Đ. không có triệu chứng biểu hiện bệnh.
+Trong đêm ngày 29/4, ngành y tế Hà Nam đã làm việc xuyên đêm, hoàn thành việc lấy mẫu xét nghiệm toàn bộ 1.068 người của 320 hộ gia đình ở thôn Quan Nhân.
+Liên quan đến tình hình dịch bệnh tại thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân, nơi sinh sống của 5 người trong gia đình mắc Covid-19, trong đêm ngày 29/4, ngành y tế Hà Nam đã làm việc xuyên đêm, hoàn thành việc lấy mẫu xét nghiệm toàn bộ 1.068 người của 320 hộ gia đình ở thôn Quan Nhân. Hiện tất cả các mẫu này đang được làm xét nghiệm và chờ kết quả cuối cùng.
+Đức Văn

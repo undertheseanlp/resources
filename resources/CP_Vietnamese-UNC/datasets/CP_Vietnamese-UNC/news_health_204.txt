@@ -1,0 +1,14 @@
+# doc_id = news_health_204
+# url = https://dantri.com.vn/suc-khoe/sang-244-viet-nam-ghi-nhan-2-ca-mac-moi-covid-19-20210424061037281.htm
+# date = 20210424
+2 ca mắc mới (BN2831-2832) được cách ly ngay sau khi nhập cảnh tại Yên Bái (01), Thái Bình (01). Cụ thể:
+- CA BỆNH 2831 (BN2831) ghi nhận tại tỉnh Yên Bái: Bệnh nhân nam, 49 tuổi, quốc tịch Ấn Độ, là chuyên gia. Bệnh nhân trên từ Ấn Độ quá cảnh Dubai, sau đó nhập cảnh Sân bay Nội Bài ngày 18/4/2021 và được cách ly ngay sau khi nhập cảnh tại tỉnh Yên Bái. Kết quả xét nghiệm lần 3 ngày 23/4/2021 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh.
+- CA BỆNH 2832 (BN2832) ghi nhận tại tỉnh Thái Bình: Bệnh nhân nam, 27 tuổi, công dân Việt Nam, địa chỉ tại huyện Phù Ninh, tỉnh Phú Thọ. Bệnh nhân từ Nhật Bản nhập cảnh Sân bay Vân Đồn ngày 20/04/2021 trên chuyến bay VJ7837 và được cách ly ngay sau khi nhập cảnh tại tỉnh Thái Bình. Kết quả xét nghiệm lần 2 ngày 23/4/2021 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Đa khoa tỉnh Thái Bình.
+Tính đến 6h ngày 24/4, Việt Nam có tổng cộng 2.832 ca mắc Covid-19, trong đó 1.570 ca do lây nhiễm trong nước. Số lượng ca mắc mới tính từ ngày 27/1 đến nay là 910 ca.
+Số người cách ly: Tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 39.191, trong đó:
+- Cách ly tập trung tại bệnh viện: 518
+- Cách ly tập trung tại cơ sở khác: 23.688
+- Cách ly tại nhà, nơi lưu trú: 14.985
+Về tình hình điều trị, theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế, Việt Nam đã chữa khỏi 2.490 trường hợp, 35 ca tử vong. Hiện trong số bệnh nhân đang điều trị có 40 người đã âm tính từ 1-3 lần với SARS-CoV-2.
+Về tình hình tiêm chủng, đến chiều ngày 23/04/2021, tổng cộng Việt Nam đã thực hiện tiêm vắc xin phòng Covid-19 đợt 1 và 2 cho 176.037 người là cán bộ, nhân viên y tế đang trực tiếp điều trị bệnh nhân Covid-19, các nhân viên y tế thực hiện các nhiệm vụ như lấy mẫu bệnh phẩm, xét nghiệm, truy vết, thành viên các tổ Covid-19 cộng đồng, Ban Chỉ đạo phòng chống dịch các cấp, các lực lượng công an và quân đội.
+Hồng Hải

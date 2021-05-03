@@ -1,0 +1,509 @@
+# doc_id = news_education_055
+# url = https://dantri.com.vn/giao-duc-huong-nghiep/cach-tinh-don-gian-nhat-de-do-vao-truong-dai-hoc-kinh-te-quoc-dan-20210420064430661.htm
+# date = 20210420
+PGS.TS Bùi Đức Triệu, trưởng Phòng Quản lý Đào tạo, trường ĐH Kinh tế quốc dân cho biết, để tăng cơ hội đỗ vào trường năm 2021, thí sinh cần chú ý 2 nguyên tắc cơ bản.
+Thứ nhất, nguyên tắc "3 bậc", thí sinh nên đăng ký nguyện vọng vào các ngành cao hơn, ngang bằng và thấp hơn so với khả năng của mình. Cụ thể: Nhóm cao là các ngành lấy điểm đầu vào cao hơn điểm thi của thí sinh 3 điểm trở lên. Tương tự, nhóm trung bình là nhóm ngành lấy điểm xấp xỉ điểm gốc của mình trong khoảng cộng hoặc trừ 1 điểm. Và cuối cùng, điểm nhóm thấp là thấp hơn điểm của thí sinh 3 điểm trở xuống. Với xác suất như vậy, thí sinh sẽ chắc chắn nắm trong tay 1 tấm vé vào đại học như mong muốn.
+Thứ hai, thí sinh nên tăng số lượng nguyện vọng mình đăng ký, đặc biệt là các nguyện vọng, các chỉ tiêu có điểm thấp.
+Như vậy, để biết cơ hội đỗ của mình, sau khi biết điểm thi tốt nghiệp THPT, thí sinh cần nghiên cứu kỹ điểm chuẩn vào trường trong 2 năm trở lại đây. Mức điểm thực và điểm chuẩn năm trước cần chênh lệch nhau từ 2- 3 điểm mới có khả năng đỗ.
+Thí sinh tham khảo điểm chuẩn vào trường ĐH Kinh tế quốc dân năm 2019 - 2020 như sau:
+Điểm trúng tuyển từ kết quả thi THPT
+Khối ngành/Ngành/
+Tổ hợp xét tuyển
+Năm tuyển sinh 2019
+Năm tuyển sinh 2020
+Chỉ tiêu
+Số trúng tuyển
+Điểm trúng tuyển
+Chỉ tiêu
+Số trúng tuyển
+Điểm trúng tuyển
+Khối ngành III
+1
+Kế toán
+360
+340
+25.35
+240
+246
+27.15
+(A00, A01, D01, D07)
+2
+Kiểm toán
+-
+-
+-
+120
+118
+27.55
+(A00, A01, D01, D07)
+3
+Kinh doanh quốc tế
+120
+116
+26.15
+120
+124
+27.8
+(A00, A01, D01, D07)
+4
+Marketing
+250
+250
+25.6
+250
+248
+27.55
+(A00, A01, D01, D07)
+5
+Quản trị kinh doanh
+280
+253
+25.25
+280
+259
+27.2
+(A00, A01, D01, D07)
+6
+Tài chính - Ngân hàng
+400
+387
+25
+-
+-
+-
+(A00, A01, D01, D07)
+7
+Ngân hàng
+-
+-
+-
+150
+148
+26.95
+(A00, A01, D01, D07)
+8
+Tài chính công
+-
+-
+-
+100
+113
+26.55
+(A00, A01, D01, D07)
+9
+Tài chính doanh nghiệp
+-
+-
+-
+150
+163
+27.25
+(A00, A01, D01, D07)
+10
+Thương mại điện tử
+60
+57
+25.6
+60
+65
+27.65
+(A00, A01, D01, D07)
+11
+Kinh doanh thương mại
+230
+246
+25.1
+230
+214
+27.25
+(A00, A01, D01, D07)
+12
+Quản trị nhân lực
+120
+117
+24.9
+120
+118
+27.1
+(A00, A01, D01, D07)
+13
+Luật
+60
+61
+23.1
+60
+59
+26.2
+(A00, A01, D01, D07)
+14
+Luật kinh tế
+120
+132
+24.5
+120
+123
+26.65
+(A00, A01, D01, D07)
+15
+Hệ thống thông tin quản lý
+130
+132
+24.3
+120
+126
+26.75
+(A00, A01, D01, D07)
+16
+Bất động sản
+130
+148
+23.85
+130
+122
+26.55
+(A00, A01, D01, D07)
+17
+Bảo hiểm
+150
+177
+23.35
+150
+212
+26
+(A00, A01, D01, D07)
+18
+Quản trị kinh doanh học bằng tiếng Anh (E-BBA)
+160
+180
+24.25
+160
+178
+26.25
+(A00, A01, D01, D07)
+19
+Khoa học quản lý
+120
+137
+23.6
+120
+142
+26.25
+(A00, A01, D01, D07)
+20
+Quản lý dự án
+60
+72
+24.4
+60
+56
+26.75
+(A00, A01, D01, B00)
+21
+Quản lý công
+60
+84
+23.35
+60
+67
+26.15
+(A00, A01, D01, D07)
+22
+Quản lý công và chính sách bằng tiếng Anh (E-PMP)
+80
+116
+21.5
+80
+141
+25.35
+(A00, A01, D01, D07)
+23
+Khởi nghiệp và phát triển kinh doanh (B-BAE) (Tiếng Anh hệ số 2)
+100
+99
+31
+100
+131
+33.55
+(A01, D01, D07, D09)
+24
+Các chương trình định hướng ứng dụng - POHE (Tiếng Anh hệ số 2)
+300
+362
+31.75
+300
+308
+34.25
+(A01, D01, D07, D09)
+25
+Kế toán tích hợp chứng chỉ quốc tế (ACT-ICAEW)
+50
+56
+24.65
+50
+57
+26.5
+(A00, A01, D01, D07)
+26
+Kiểm toán tích hợp chứng chỉ quốc tế (AUD-ICAEW)
+-
+-
+-
+50
+58
+26.65
+(A00, A01, D01, D07)
+27
+Kinh doanh số (E-BDB)
+50
+67
+23.35
+50
+52
+26.1
+(A00, A01, D01, D07)
+28
+Phân tích kinh doanh (BA)
+50
+62
+23.35
+50
+51
+26.3
+(A00, A01, D01, D07)
+29
+Quản trị điều hành thông minh (E-SOM)
+50
+61
+23.15
+50
+53
+26
+(A01, D01, D07, D10)
+30
+Quản trị chất lượng và Đổi mới (E-MQI)
+50
+64
+22.75
+50
+57
+25.75
+(A01, D01, D07, D10)
+31
+Công nghệ tài chính (BFT)
+50
+64
+22.75
+50
+62
+25.75
+(A00, A01, D07, B00)
+32
+Đầu tư tài chính (BFI-Tiếng Anh hệ số 2)
+50
+65
+31.75
+50
+54
+34.55
+(A01, D01, D07, D10)
+Khối ngành V
+33
+Khoa học máy tính
+60
+69
+23.7
+60
+54
+26.4
+(A00, A01, D01, D07)
+34
+Công nghệ thông tin
+120
+119
+24.1
+120
+127
+26.6
+(A00, A01, D01, D07)
+35
+Logistics và quản lý chuỗi cung ứng
+60
+62
+26
+60
+61
+28
+(A00, A01, D01, D07)
+36
+Logistics và quản lý chuỗi cung ứng tích hợp chứng chỉ quốc tế (LSIC)
+-
+-
+-
+60
+50
+35.55
+(A01, D01, D07,D10)
+37
+Kinh tế nông nghiệp
+80
+84
+22.6
+80
+111
+25.65
+(A00, A01, D01, B00)
+Khối ngành VII
+38
+Kinh tế quốc tế
+120
+104
+26.15
+120
+125
+27.75
+(A00, A01, D01, D07)
+39
+Kinh tế
+200
+186
+24.75
+200
+193
+26.9
+(A00, A01, D01, D07)
+40
+Kinh tế đầu tư
+180
+177
+24.85
+180
+190
+27.05
+(A00, A01, D01, B00)
+41
+Thống kê kinh tế
+130
+166
+23.75
+130
+126
+26.45
+(A00, A01, D01, D07)
+42
+Kinh tế tài nguyên thiên nhiên
+110
+156
+22.3
+110
+157
+25.6
+(A00, A01, D01, B00)
+43
+Toán kinh tế
+70
+62
+24.15
+70
+53
+26.45
+(A00, A01, D01, D07)
+44
+Quản trị khách sạn
+60
+58
+25.4
+60
+54
+27.25
+(A00, A01, D01, D07)
+45
+Quản trị dịch vụ du lịch và lữ hành
+120
+111
+24.85
+120
+128
+26.7
+(A00, A01, D01, D07)
+46
+Kinh tế phát triển
+210
+231
+24.45
+210
+245
+26.75
+(A00, A01, D01, D07)
+47
+Quản lý tài nguyên và môi trường
+70
+113
+22.65
+70
+117
+25.6
+(A00, A01, D01, D07)
+48
+Quản lý đất đai
+60
+113
+22.5
+60
+81
+25.85
+(A00, A01, D01, D07)
+49
+Quan hệ công chúng
+60
+56
+25.5
+60
+61
+27.6
+(A01, D01, C03, C04)
+50
+Định phí bảo hiểm và quản trị rủi ro (Actuary) học bằng tiếng Anh
+60
+60
+23.5
+60
+48
+25.85
+(A00, A01, D01, D07)
+51
+Ngôn ngữ Anh (Tiếng Anh hệ số 2)
+140
+149
+33.65
+140
+142
+35.6
+(A01, D01, D09, D10)
+52
+Khoa học dữ liệu trong Kinh tế & Kinh doanh (DSEB)
+50
+55
+23
+50
+47
+25.8
+(A00, A01, D01, D07)
+53
+Quản trị khách sạn quốc tế (IHME) (Tiếng Anh hệ số 2)
+50
+48
+33.35
+50
+44
+34.5
+(A01, D01, D09, D10)
+54
+Kinh tế học Tài chính
+-
+-
+-
+50
+135
+24.5
+(A00, A01, D01, D07)
+Hải Phong

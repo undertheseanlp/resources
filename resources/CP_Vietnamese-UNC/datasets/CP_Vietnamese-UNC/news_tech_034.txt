@@ -1,0 +1,13 @@
+# doc_id = news_tech_034
+# url = https://dantri.com.vn/suc-manh-so/apple-bi-tin-tac-tan-cong-doi-tien-chuoc-50-trieu-usd-20210422121423623.htm
+# date = 20210422
+Hình ảnh bản vẽ kỹ thuật chiếc laptop MacBook của Apple bị nhóm tin tặc REvil đăng tải lên mạng.
+Nhóm tin tặc REvil công bố đã nắm giữ nhiều dữ liệu quan trọng về các sản phẩm của Apple, sau khi nhóm tin tặc này xâm nhập vào hệ thống của công ty Đài Loan Quanta Computer, một đối tác lắp ráp laptop MacBook và nhiều sản phẩm quan trọng khác của Apple.
+Nhóm tin tặc này đã cho đăng tải những hình ảnh để chứng minh cho việc mình đang nắm giữ các thông tin quan trọng của Apple. Ban đầu, nhóm tin tặc yêu cầu Quanta trả số tiền chuộc 50 triệu USD để không đăng tải công khai các dữ liệu mà mình có, nhưng Quanta đã từ chối chi trả số tiền này. Hiện REvil đang nhắm trực tiếp đến Apple, yêu cầu công ty phải trả số tiền chuộc 50 triệu USD trước thời hạn ngày 1/5.
+Quanta đã lên tiếng xác nhận vụ tấn công của nhóm tin tặc, đồng thời cho biết vụ tấn công chỉ ảnh hưởng không đáng kể và công ty đang tiến hành điều tra để ngăn chặn các thông tin quan trọng bị rò rỉ.
+"Đội bảo mật thông tin của Quanta đang làm việc với các chuyên gia công nghệ thông tin bên ngoài để đối phó với các cuộc tấn công mạng vào một số lượng nhỏ máy chủ của Quanta", đại diện của Quanta cho biết trong một thông cáo đưa ra. "Cuộc tấn công không gây ra tác động đáng kể nào đến việc kinh doanh và hoạt động của công ty".
+Quanta Computer không tiết lộ rõ những dữ liệu nào đã bị hacker lấy cắp, nhưng từ những hình ảnh do REvil đăng tải cho thấy nhóm tin tặc này đã lấy cắp được sơ đồ thiết kế của phiên bản iMac thế hệ mới mà Apple vừa ra mắt ngày 20/4 vừa qua. Những thông tin do REvil đăng tải còn cho thấy sơ đồ thiết kế của MacBook Air M1 2020, ra mắt vào năm ngoái và thông tin về một mẫu máy tính xách tay thế hệ mới mà Apple chưa từng công bố.
+Tuy nhiên, đây là những tài liệu mật mà chỉ có Apple và các đối tác của mình nắm được, do vậy không thể xác định mức độ chính xác của dữ liệu mà REvil đang nắm giữ.
+Apple cho biết đang xem xét vấn đề và chưa đưa ra bình luận gì vào thời điểm này.
+REvil, còn được biết đến với tên gọi Sodinokibi, là một nhóm tin tặc có nguồn gốc từ Nga, nổi tiếng với nhiều vụ tấn công bằng mã độc tống tiền. Trước Apple, nhóm tin tặc này cũng đã thực hiện nhiều vụ tấn công đòi tiền chuộc nhằm vào các công ty lớn và nhiều người nổi tiếng, như hãng máy tính Acer, cựu tổng thống Mỹ Donald Trump hay ca sĩ Lady Gaga…
+T.ThủyTheo BleepingComputer

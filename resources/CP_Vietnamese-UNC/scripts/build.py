@@ -1,17 +1,18 @@
 import os
 from os.path import join, basename, dirname
+from underthesea import sent_tokenize
 
-DATA_FOLDER = join(dirname(dirname(__file__)), "corpus", "CP_Vietnamese-UNC")
+DATA_FOLDER = join(dirname(dirname(__file__)), "datasets", "CP_Vietnamese-UNC")
 
 
 def warn(file, line_number, message, type=None):
-    global total_erros
+    global total_errors
     text = ""
     if type:
         text = f"[{type}] "
     text += basename(file) + ":" + str(line_number)
     print(text, message)
-    total_erros += 1
+    total_errors += 1
 
 
 total_documents = 0
@@ -23,7 +24,7 @@ topics = ["society", "world", "business", "tech", "entertainment", "sport", "hea
 topics_sentences = {}
 for topic in topics:
     topics_sentences[topic] = 0
-total_erros = 0
+total_errors = 0
 
 
 def validate():
@@ -66,6 +67,9 @@ def validate():
                 if sentence.strip() != sentence:
                     warn(file, line_number, "Sentence should be striped", "E302")
                     continue
+                # if len(sent_tokenize(sentence)) > 1:
+                #     warn(file, line_number, "Each line should contains only one sentence", "E303")
+                #     continue
             topics_sentences[file_topic] += len(sentences)
             total_sentences += len(sentences)
         except Exception as e:
@@ -98,10 +102,10 @@ def stats():
 
 
 def build():
-    global total_erros
+    global total_errors
     validate()
-    if total_erros > 0:
-        print(f"\n[x] BUILD ERRORS: {total_erros} errors")
+    if total_errors > 0:
+        print(f"\n[x] BUILD ERRORS: {total_errors} errors")
     else:
         print(f"\n[+] BUILD SUCCESS")
     stats()

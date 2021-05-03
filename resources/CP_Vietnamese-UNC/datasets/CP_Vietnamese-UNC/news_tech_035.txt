@@ -1,0 +1,11 @@
+# doc_id = news_tech_035
+# url = https://dantri.com.vn/suc-manh-so/apple-cho-phep-nguoi-dung-tuy-chon-gioi-tinh-cho-tro-ly-ao-siri-20210401155200848.htm
+# date = 20210401
+Giờ đây, người dùng có thể tùy chọn giọng nói mặc định là nam hoặc nữ cho trợ lý ảo Siri.
+Người dùng các thiết bị di động của Apple hẳn đã quá quen thuộc với giọng nói nữ tính của trợ lý ảo Siri, nhưng mới đây, Apple cho biết khi thiết lập trợ lý ảo Siri trên nền tảng iOS, người dùng có thể tùy chọn giọng nói nam hoặc nữ cho trợ lý ảo này.
+Hiện tại, Apple cho phép người dùng chọn giọng nam hoặc nữ của một trong 4 giọng nói khác nhau, bao gồm giọng Mỹ, giọng Anh, giọng Ấn Độ hoặc giọng Ireland. Điều này cũng tương tự như cho phép người dùng chọn "giới tính" cho trợ lý ảo Siri, thay vì mặc định là giọng nữ như trước.
+"Chúng tôi vui mừng thông báo rằng sẽ cho phép người dùng lựa chọn giọng nói họ thích khi thiết lập trợ lý ảo trên thiết bị của họ", Apple cho biết. "Đây là động thái để thực hiện sự cam kết lâu dài của Apple để các sản phẩm và dịch vụ có thể phản ánh tốt hơn sự đa dạng về thế giới chúng ta đang sống".
+Tùy chọn thay đổi về giọng nói của Siri sẽ có trên phiên bản iOS 14.5 bản thử nghiệm beta, trước khi được trang bị trên phiên bản cập nhật chính thức cho người dùng.
+Giọng nói của các trợ lý ảo từng là một vấn đề gây nhiều tranh cãi, khi các trợ lý ảo hiện nay như Siri, Alexa của Amazon hay Google Assistant… đều sử dụng giọng nói của phái nữ làm giọng mặc định. Tuy nhiên, nhiều tổ chức bảo vệ quyền lợi của phụ nữ lại cho rằng đây là một hành động xem thường phái nữ, khi phụ nữ đóng vai trò như những trợ lý để người dùng di động có thể sai khiến họ làm việc và phục vụ các yêu cầu.
+Động thái mới nhất của Apple dường như nhằm xoa dịu những lời chỉ trích này và cho thấy, trợ lý ảo Siri không chỉ mang "giới tính" nữ.
+T.ThủyTheo T.C

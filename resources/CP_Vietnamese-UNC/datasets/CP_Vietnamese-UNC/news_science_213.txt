@@ -1,0 +1,20 @@
+# doc_id = news_science_213
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tai-sao-stress-co-the-lam-cho-toc-cua-ban-bi-rung-20210412064801069.htm
+# date = 20210412
+Một nghiên cứu mới trên chuột hiện được cho có thể trả lời một số câu hỏi về vấn đề này.
+Các nhà nghiên cứu cho biết họ không chỉ xác định được một loại hormone stress chính gây ra sự tạm dừng kéo dài cho sự phát triển của tóc, mà còn tìm ra loại tế bào và phân tử chịu trách nhiệm truyền tín hiệu stress.
+Nếu những phát hiện này tương ứng với con người, cuối cùng chúng ta đã có thể hiểu mối liên kết giữa vấn đề stress mãn tính với rụng tóc.
+Theo nhà sinh vật học Ya-Chieh Hsu từ Đại học Harvard, da cung cấp một hệ thống có thể điều chỉnh và dễ tiếp cận để nghiên cứu sâu vấn đề quan trọng này. Trong nghiên cứu mới, các nhà khoa học nhận thấy rằng căng thẳng thực sự làm chậm quá trình kích hoạt tế bào gốc và thay đổi cơ bản tần suất tế bào gốc nang lông tái tạo mô.
+Các nang lông kiểm soát sự phát triển của lông ở động vật có vú và các tế bào gốc được tìm thấy trong chu kỳ tự nhiên giữa thời kỳ phát triển và thời kỳ nghỉ ngơi.
+Đầu tiên, các nhà nghiên cứu xác nhận rằng việc gây stress cho chuột thực sự đã hạn chế sự phát triển của lông bằng cách kéo dài thời gian tế bào gốc nghỉ ngơi.
+Tiếp theo, họ xác định corticosterone là hormone gây stress. Việc cho chuột uống thêm corticosterone có tác dụng tương tự đối với tế bào gốc lông như việc gây căng thẳng cho động vật bằng các kỹ thuật tương đối vô hại như nghiêng lồng và dùng đèn nhấp nháy.
+Việc loại bỏ nguồn kích thích tố căng thẳng đã làm đảo ngược tác dụng, các nang lông trên chuột tiếp tục tái sinh với rất ít thời gian tạm dừng để nghỉ ngơi, ngay cả khi động vật già đi. Thực tế, khi động vật có vú già đi, các nang lông thường ít hoạt động hơn.
+Điều đó cho thấy, ngay cả với mức độ bình thường của corticosterone ở chuột cũng có tác dụng điều chỉnh quan trọng đến sự phát triển của lông. Căng thẳng bổ sung cũng có thể là lý do tại sao các nang lông và tế bào gốc của chúng không hoạt động lâu hơn.
+"Đầu tiên chúng tôi đặt câu hỏi liệu hormone stress có điều tiết trực tiếp các tế bào gốc và kiểm tra bằng cách lấy ra thụ thể corticosterone, nhưng điều này hóa ra là sai. Thay vào đó, chúng tôi phát hiện ra rằng hormone stress thực sự hoạt động trên một cụm tế bào biểu bì bên dưới nang lông, được gọi là tế bào nhú bì", nhà sinh vật học Sekyu Choi từ Đại học Harvard cho biết.
+Tế bào nhú bì hỗ trợ các tế bào gốc của nang lông và kiểm soát dòng chảy chất dinh dưỡng. Chính những tế bào này corticosterone dường như có tương tác chứ không phải là tế bào gốc của nang lông. Đặc biệt, hormone stress ngăn các tế bào nhú bì tiết ra một loại protein gọi là GAS6 đặc hiệu cho quá trình tăng trưởng.
+Các thử nghiệm sâu hơn cho thấy rằng việc bổ sung GAS6 trên cả nồng độ corticosterone bình thường và tăng cao ở chuột đã kích hoạt các tế bào gốc của nang lông và thúc đẩy sự phát triển của lông thông qua protein AXL truyền thông điệp.
+Câu hỏi quan trọng được đặt ra đó là: "Cơ thể con người có hoạt động theo cùng một cách không?". Chúng ta có hormone stress tương đương của riêng mình được gọi là cortisol, nhưng sẽ cần nhiều nghiên cứu hơn để xác định xem nó có phản ứng giống như corticosterone ở chuột hay không.
+Cũng có một số khác biệt giữa cách thức hoạt động của chu kỳ phát triển lông ở chuột và con người, mặc dù phần lớn bộ máy sinh học với lông của động vật có vú thực sự giống nhau.
+Đây là những phát hiện đầy hứa hẹn và có thể dẫn đến những phương pháp điều trị mọc tóc rất cần thiết khi 1/4 những người bị nhiễm COVID-19 có vấn đề về rụng tóc. Stress có thể tốt cho cơ thể con người ở một mức độ phù hợp, nhưng nó cũng có thể gây ra nhiều thiệt hại.
+"Trong tương lai, GAS6 có thể được khai thác tiềm năng trong việc kích hoạt các tế bào gốc để thúc đẩy sự phát triển của tóc. Sẽ rất thú vị khi khám phá xem những thay đổi mô khác liên quan đến căng thẳng có liên quan đến tác động của hormone căng thẳng đối với việc điều chỉnh GAS6 hay không", nhà sinh vật học Sekyu Choi cho biết.
+Trang Phạm

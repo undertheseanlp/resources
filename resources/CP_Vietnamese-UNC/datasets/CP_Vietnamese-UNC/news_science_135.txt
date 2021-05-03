@@ -1,0 +1,19 @@
+# doc_id = news_science_135
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/loai-tho-ky-la-chi-di-chuyen-bang-cach-trong-chuoi-20210327055532302.htm
+# date = 20210327
+Vấn đề đáng nói là giống thỏ quý hiếm này không nhảy như bất kỳ loài thỏ nào khác đang tồn tại. Khi sauteur sẵn sàng di chuyển, nó đá hai chân sau lên không trung và di chuyển bằng hai chân trước.
+Mặc dù điều này có vẻ như là một đặc điểm gây cười, nhưng điều đáng buồn là nó cũng đi kèm với các vấn đề khác. Mới đây, các nhà khoa học đã tìm ra nguyên nhân liên quan đến vấn đề di truyền.
+Các nhà nghiên cứu đã lai tạo thỏ đực sauteur d'Alfort không thể nhảy như bình thường với thỏ cái trắng New Zealand có thể nhảy. Họ đã có 52 con thỏ, 23% trong số đó mang hai bản sao của gene đột biến tương tự như con thỏ bố ban đầu. Những con số này phù hợp với số liệu thống kê được mong đợi khi chỉ có một gene lặn liên quan đến đột biến.
+Nguyên nhân của việc di chuyển kiểu "trồng chuối" kỳ lạ ở thỏ sauteur dường như nằm trong một đột biến ở vị trí một gene được gọi là RORB, cung cấp hướng dẫn cho các tế bào động vật có vú để chúng có thể tạo ra một số protein nhất định.
+Protein RORB thường được tìm thấy trong hệ thống thần kinh của thỏ, nơi chúng giúp biến mã di truyền thành khuôn mẫu xây dựng protein. Tuy nhiên, đột biến đặc biệt gây ra sự sụt giảm đặc biệt nghiêm trọng về số lượng tế bào thần kinh tủy sống thực sự có thể tạo ra protein này.
+Trên thực tế, hai bản sao của đột biến RORB dẫn đến không có protein nào trong tủy sống. Điều này có liên quan đến việc không thể nhảy như bình thường. Những con thỏ khác trong lứa có khả năng nhảy bằng chân sau không bị mất protein như vậy. Các tác giả kết luận rằng gene RORB chính là chìa khóa của vấn đề.
+Trong những năm qua, có rất nhiều sự quan tâm của giới khoa học đến sinh lý học và cơ sinh học đặc biệt cho phép các loài động vật có vú như chuột túi, thỏ, thỏ rừng và một số loài chuột nhảy, nhưng vấn đề di truyền cơ bản hiếm khi được xem xét.
+Một trong số ít các nghiên cứu gần đây đã phát hiện ra những con chuột có đột biến RORB giống như thỏ sauteur cũng không thể di chuyển như bình thường. Thay vào đó, những loài gặm nhấm này đi lạch bạch trên bàn chân trước của chúng như một con vịt, đuôi và chân sau của chúng nhô lên trong không khí.
+Nhà khoa học thần kinh Stephanie Koch đến từ Đại học London cho biết: "Tôi đã dành 4 năm để xem những con chuột này thực hiện động tác trồng cây chuối và bây giờ tôi được chứng kiến một loài thỏ cũng thực hiện động tác trồng cây chuối tương tự để di chuyển".
+Nghiên cứu của Koch trên thỏ là nghiên cứu đầu tiên mô tả một gene cụ thể cần thiết để nhảy và nó phù hợp với những đã xuất hiện ở chuột đột biến gene.
+Thỏ sauteur cũng cho thấy những khiếm khuyết giải phẫu khác ngoài cách di chuyển kỳ lạ của chúng. Nhiều con bị mù bẩm sinh và bị đục thủy tinh thể trong năm đầu đời. Trong khi đó, những con chuột bị loại RORB cũng có biểu hiện thoái hóa võng mạc.
+Ở chuột, gene RORB dường như đóng một vai trò thiết yếu trong việc biệt hóa các tế bào ở cả vỏ não và võng mạc. Nó cũng có thể làm điều gì đó tương tự trong tủy sống, có liên quan đến việc điều chỉnh thông tin cảm giác và vận động của động vật có vú.
+Do đó, sự thiếu hụt protein này có thể là nguyên nhân khiến chân sau của thỏ và chuột nhấc lên thay vì nhảy lên. Ví dụ, ở thỏ sauteur, đột biến RORB dường như gây ra các khiếm khuyết trong sự phân biệt của các tế bào thần kinh tủy sống, mặc dù liệu điều này có thực sự gây ra chuyển động kỳ lạ của chúng hay không vẫn chưa rõ ràng.
+Các tác động của đột biến RORB sẽ cần nhiều nghiên cứu hơn, nhưng rõ ràng là nó có liên quan bằng cách nào đó. Đây là biến thể duy nhất được xác định trong toàn bộ trình tự bộ gene của thỏ tác động đến việc di chuyển kì lạ như vậy.
+Trang Phạm
+Theo Science Alert

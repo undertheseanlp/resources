@@ -1,0 +1,10 @@
+# doc_id = news_health_141
+# url = https://dantri.com.vn/suc-khoe/ket-qua-xet-nghiem-cua-truong-hop-f-1-tai-bv-phu-san-trung-uong-20210501154436473.htm
+# date = 20210501
+PGS.TS Trần Danh Cường, Giám đốc Bệnh viện Phụ sản Trung ương cho biết kết quả xét nghiệm của trường hợp F1 liên quan đến Bệnh viện đã âm tính lần 1 với SARS-CoV-2.
+Trước đó, chiều 30/4, ngay sau khi nhận được thông tin về nữ bệnh nhân điều trị tại khoa Phụ 1 là F1 của ca bệnh 2928, Bệnh viện khẩn trương triển khai quy trình cách ly theo đúng quy định đối với trường hợp F1. Trong lúc chờ CDC Hoàn Kiếm đến lấy mẫu xét nghiệm và đón bệnh nhân về cách ly tập trung tại Bệnh viện Công an TP Hà Nội, bệnh nhân đã được chuyển sang khu vực cách ly riêng.
+Khoa Phụ 1 cũng tạm thời cách ly trong khi chờ kết quả xét nghiệm. Tuy nhiên, mọi hoạt động khám chữa bệnh khác trong bệnh viện vẫn diễn ra bình thường, không có sự xáo trộn.
+Bệnh viện cũng rà soát có tất cả 41 nhân viên y tế tiếp xúc với trường hợp F1 này và 17 bệnh nhân nằm cùng phòng điều trị. Sau khi nhận được thông báo kết quả xét nghiệm lần 1 của bệnh nhân âm tính với SARS-CoV-2, Bệnh viện đã họp và đưa ra quyết định mọi hoạt động của bệnh viện đều bình thường. 41 cán bộ y tế đang cách ly tại nhà cũng sẽ trở lại đi làm bình thường sau ngày nghỉ lễ.
+Trước đó, nữ bệnh nhân là F1 này vào Bệnh viện Phụ sản Trung ương điều trị từ ngày 28/4 do thai ngoài tử cung. Sau 2 ngày phẫu thuật, sức khỏe của bệnh nhân này đã ổn định. Vợ chồng nữ bệnh nhân này có ăn cơm cùng ca bệnh Covid-19 được Bộ Y tế công bố chiều 30/4. Hiện người chồng cũng đã có kết quả âm tính với SARS-CoV-2.
+Bệnh nhân 2928 là công nhân tại nhà máy Panasonic, khu công nghiệp Bắc Thăng Long, là F1 của nam bệnh nhân 2911 ở Đông Anh, Hà Nội.
+Nam Phương

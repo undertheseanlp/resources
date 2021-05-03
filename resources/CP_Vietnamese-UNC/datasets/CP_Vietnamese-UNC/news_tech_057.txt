@@ -1,0 +1,18 @@
+# doc_id = news_tech_057
+# url = https://dantri.com.vn/suc-manh-so/canh-bao-ung-dung-vi-bitcoin-gia-mao-tren-app-store-google-play-20210401141838279.htm
+# date = 20210401
+App Store (đối với iOS) và Google Play (đối với Android) từ lâu vẫn là 2 kho ứng dụng phổ biến nhất, nhiều ứng dụng nhất, và cũng tạo tâm lý an toàn tuyệt đối với người dùng do khâu kiểm duyệt chặt chẽ.
+Tuy nhiên trên thực tế, không phải bất kỳ ứng dụng nào được tải trên App Store hay Google Play cũng đều đáng tin 100%.
+Mới đây, một người chơi tiền điện tử tên là Phillipe Christodoulou đã vô cùng kinh ngạc khi số Bitcoin trong ví của anh bỗng dưng "không cánh mà bay". Khi kiểm tra chiếc điện thoại, anh chàng phát hiện ra một ứng dụng ví điện tử giả mạo được tải từ App Store.
+Tổng cộng, nó đã lấy đi 17,1 bitcoin (tương đương số tiền 600.000 USD) nhờ liên kết với một dịch vụ ẩn danh trước khi bị phát hiện và xóa bỏ.
+Chia sẻ trên một hội nhóm về tiền ảo, Christodoulou cho biết ứng dụng đã giả danh là nhà sản xuất thiết bị lưu trữ tiền điện tử Treznor, trong khi trên thực tế không hề có mối liên kết nào với công ty này.
+Điều đáng nói là ứng dụng tuy giả mạo, nhưng vẫn có lượng đánh giá (rating) rất cao từ người dùng, cụ thể là xấp xỉ 5 sao dựa trên các bài đánh giá. Chính điều này đã khiến Christodoulou - cũng như nhiều người chơi tiền ảo khác, cảm thấy đủ tin tưởng để tải nó xuống.
+Sau khi bị lừa mất toàn bộ số Bitcoin nắm giữ, Christodoulou cho biết mình đã không còn lòng tin vào Apple, bởi công ty đã xem xét một cách 'hời hợt', tạo điều kiện cho ứng dụng lừa đảo xuất hiện trên App Store, gián tiếp dẫn tới việc người dùng bị đánh cắp số tiền lớn.Anh thậm chí cân nhắc về khả năng sẽ kiện Apple vì để xảy ra sự cố nêu trên.
+Theo một báo cáo, hiện đã có 5 người dùng cho biết họ là nạn nhân của các vụ trộm tương tự thông qua ứng dụng trên iOS với tổng trị giá 1,6 triệu USD
+Dẫu vậy, người dùng iOS không phải là duy nhất. Theo Apple Insiders, các ứng dụng Treznor giả mạo trên Android cũng được cho là đã đánh cắp số tiền lên tới hàng trăm ngàn USD từ những người dùng thiếu cảnh giác.
+Về phía Apple, công ty lý giải rằng ứng dụng đã vào được App Store bằng cách thay đổi mục đích sau khi được chấp nhận vào cửa hàng.
+Cụ thể, ứng dụng ban đầu được giới thiệu là một ứng dụng "mật mã" và nó "không liên quan đến bất kỳ loại tiền điện tử nào".
+Điều này khiến Apple đã cho phép nó xuất hiện trong App Store từ ngày 22/1.
+Tuy nhiên, sau đó ứng dụng đã chuyển đổi mục đích thành ví tiền điện tử, và Apple dường như không phát hiện ra hành động này. Ngay sau khi được một số người dùng thông báo, Apple đã rút nó khỏi App Store và cấm nhà phát triển.
+Apple cũng cho biết họ đã xóa khoảng 6.500 ứng dụng tương tự khỏi App Store vào năm 2020 vì có "các tính năng ẩn hoặc không có giấy tờ", nhiều trong số đó là ứng dụng lừa đảo.
+Nguyễn Nguyễn

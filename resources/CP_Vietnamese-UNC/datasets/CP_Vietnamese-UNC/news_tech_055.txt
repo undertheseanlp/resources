@@ -1,0 +1,21 @@
+# doc_id = news_tech_055
+# url = https://dantri.com.vn/suc-manh-so/canh-bao-bien-tuong-moi-cua-chieu-lua-lay-cap-tai-khoan-facebook-20210323184646170.htm
+# date = 20210323
+Như Dân trí đã từng cảnh báo ở bài viết vào tuần trước, nhiều người nhiều người dùng Facebook tại Việt Nam đã liên tục được gắn thẻ (gắn tag) trong bài viết của một hoặc nhiều người, dù bạn và những người dùng đó không hề quen biết hay kết bạn với nhau trên Facebook.
+Chiêu lừa gắn tên tài khoản Facebook của người dùng vào một bài viết mang nội dung gây tò mò, để lừa họ truy cập vào trang web lừa đảo để lấy cắp tài khoản.
+Bài viết được gắn thẻ sẽ có nội dung gây tò mò và hấp dẫn, kèm theo bài viết là một đường link trang web. Các đường link này sẽ "mạo danh" các trang báo điện tử lớn và uy tín, tuy nhiên, khi kích vào, người dùng sẽ được dẫn đến một trang web khác với giao diện giống như Facebook và yêu cầu họ phải đăng nhập vào tài khoản Facebook mới có thể tiếp tục xem bài viết.
+Trên thực tế, đây là trang web giả mạo, được tin tặc thiết kế giống với giao diện Facebook để qua mặt người dùng. Nếu người nào "nhẹ dạ", sử dụng thông tin tài khoản Facebook của mình để đăng nhập vào trang web này sẽ bị hacker chiếm đoạt tài khoản.
+Mới đây, chiêu trò gắn tag để lừa lấy cắp tài khoản Facebook của người dùng đã có hình thức biến tướng mới. Theo đó, thay vì gắn tên người dùng trực tiếp vào các bài viết, kẻ xấu sẽ gắn tên của người dùng vào phần bình luận ở phía dưới bài viết.
+Khi người dùng nhận được thông báo từ Facebook rằng tên của họ đã được gắn vào một bình luận của một người dùng khác, khi mở thông báo này ra, họ sẽ được dẫn đến bài viết với nội "18+" gây tò mò, kèm theo một đường link trang web. Khi kích vào đường link này, họ sẽ tiếp tục được dẫn đến một trang web và yêu cầu đăng nhập tài khoản Facebook để tiếp tục xem nội dung "nóng" được chia sẻ.
+Chiêu lừa gắn tên vào bài viết có thể bị người dùng phát hiện vì sẽ gắn tên của hàng chục người khác nhau vào một bài viết.
+Chiêu lừa gắn tên vào phần bình luận sẽ tinh vi và khó phát hiện hơn.
+Về cơ bản, chiêu lừa này vẫn khá giống như chiêu trò lừa đảo gắn tên vào bài viết trước đây, nhưng có phần tinh vi và khó phát hiện hơn.
+Với chiêu lừa gắn tên vào bài viết, khi người dùng bật thông báo của Facebook sẽ thấy tên của họ được gắn cùng hàng chục, thậm chí cả trăm người dùng Facebook khác, điều này khiến người dùng nghi ngờ và có thể bỏ qua, không mở thông báo đó để xem nội dung của bài viết. Tuy nhiên, với chiêu lừa gắn tên người dùng vào phần bình luận, họ sẽ chỉ nhận được thông báo "Một ai đó đã nhắc đến bạn trong một bình luận", nhiều người sẽ không nghi ngờ gì và mở ngay thông báo này để xem và được dẫn đến bài viết có đính kèm đường link giả mạo.
+Bài viết có nội dung gây tò mò, thậm chí là "18+" để khiến nhiều người dùng cảm thấy hấp dẫn để truy cập vào.
+Trang web giả mạo, với giao diện giống Facebook, yêu cầu người dùng phải điền thông tin đăng nhập của Facebook để xem nội dung "18+".
+Tuy nhiên, nếu bạn chỉ mở thông báo để xem nội dung bài viết, hoặc vô tình mở đường link của trang web lừa đảo mà chưa sử dụng tài khoản Facebook của mình để đăng nhập vào trang web, thì tài khoản của bạn vẫn được an toàn.
+Trong trường hợp bạn đã sử dụng tài khoản Facebook để đăng nhập vào các trang web lừa đảo, thì ngay lập tức phải thay đổi mật khẩu Facebook và kích hoạt chế độ bảo mật 2 lớp (như Dân trí đã hướng dẫn tại đây) để đề phòng tài khoản bị hacker thay mật khẩu và chiếm đoạt.
+Các tài khoản Facebook sau khi bị hacker chiếm đoạt sẽ được tin tặc sử dụng để tự động gắn thẻ những người có trong danh sách bạn bè và cả những người lạ, tiếp tục lừa thêm nhiều người truy cập vào trang web lừa đảo để lấy cắp được thêm nhiều tài khoản Facebook.
+Trong quá trình sử dụng Facebook, người dùng luôn cần phải cảnh giác với những bài viết có nội dung hấp dẫn, gây tò mò, đặc biệt những trang web yêu cầu người dùng phải đăng nhập vào tài khoản Facebook hoặc Google mới có thể tiếp tục xem nội dung thì người dùng nên lập tức bỏ qua, bởi lẽ đây rất có thể là các trang web lừa đảo để lấy cắp tài khoản trực tuyến của người dùng.
+Ngoài ra, để bảo vệ an toàn cho tài khoản Facebook trước những hình thức lừa đảo, bạn đọc có thể thực hiện theo các lưu ý và hướng dẫn của Dân trí tại đây và tại đây.
+T.Thủy

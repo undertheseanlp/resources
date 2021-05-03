@@ -1,0 +1,14 @@
+# doc_id = news_tech_172
+# url = https://dantri.com.vn/suc-manh-so/nguoi-dung-i-phone-12-da-co-the-su-dung-5-g-tai-viet-nam-20210428000312206.htm
+# date = 20210428
+Ngày 27/4, Apple đã phát hành phiên bản iOS 14.5 chính thức cùng hàng loạt tính năng mới được bổ sung. Sau khi nâng cấp lên hệ điều hành này, người dùng iPhone 12 của nhà mạng Viettel đã có thêm lựa chọn 5G trong mục Dữ liệu mạng (Cellular Data).
+Đầu tháng 3, một số người sử dụng phiên bản iOS 14.5 Beta 3 đã có thể dùng 5G của nhà mạng Viettel. Trong khi đó, người dùng của hai nhà mạng Vinaphone và Mobifone sẽ phải chờ đợi thêm một khoảng thời gian nữa.
+Đầu tháng 3, một số người dùng đã có thể sử dụng 5G trên phiên bản iOS 14.5 Beta 3. Ảnh: Đinh Ngọc Dũng.
+Để kích hoạt 5G trên iPhone 12, người dùng sẽ cần truy cập vào mục Cài đặt -> Di động -> Gói cước di động đang sử dụng -> Thoại và dữ liệu -> 5G Tự động/5G Bật. Tính năng này xuất hiện trên cả 4 chiếc iPhone thế hệ mới bao gồm iPhone 12, iPhone 12 Mini, iPhone 12 Pro và iPhone 12 Pro Max.
+5G đã bắt đầu được các nhà mạng thử nghiệm thương mại từ cuối tháng 11/2020 ở một số khu vực tại Hà Nội và TPHCM. Để sử dụng mạng 5G, người dùng không cần phải đổi thẻ SIM mới. Các số thuê bao trong vùng phủ sóng sẽ được hệ thống tự quét, nhận diện điều kiện và đăng ký mạng 5G.
+"5G được xem là giải pháp của tương lai khi người dùng đều có thể làm mọi thứ trên điện thoại. Đây cũng là một trong những tính năng đáng chú ý nhất trên iPhone 12 Series, smartphone cao cấp và được yêu thích bậc nhất hiện nay tại thị trường Việt Nam", ông Nguyễn Thế Kha, Giám đốc khối Viễn thông Di động Hệ thống FPT Shop nhận định.
+Hiện tại, cả 4 chiếc iPhone 12 đang được các hệ thống đồng loạt giảm giá. Mức giảm dao động khoảng 2-4 triệu đồng tùy theo phiên bản cũng như dung lượng bộ nhớ của thiết bị. Chưa dừng lại ở đó, đại lý còn tặng miễn phí cho người dùng dung lượng 5G để có thể trải nghiệm tính năng mới này.
+Với việc được mở khóa 5G tại thị trường Việt Nam, iPhone 12 series đã có thể cạnh tranh một cách sòng phẳng với các đối thủ Android như Samsung Galaxy S21 Ultra 5G, Galaxy Note20 Ultra 5G hay Xiaomi Mi 11 5G.
+Chưa dừng lại ở đó, iOS 14.5 còn mang đến hàng loạt tính năng mới như mở khóa iPhone bằng Apple Watch. Để có thể sử dụng tính năng này, chiếc Apple Watch của bạn cũng cần phải được cập nhật lên phiên bản watchOS 7.4 mới nhất. Đây là nâng cấp được rất nhiều người dùng mong chờ, đặc biệt là trong giai đoạn hiện tại khi mọi người đều phải đeo khẩu trang để phòng chống dịch Covid-19.
+Bên cạnh đó, Apple cũng tiếp tục nâng cấp các tính năng về bảo mật trên hệ điều hành mới này như tính năng tìm kiếm "Find My" đã hỗ trợ các thiết bị tracking bên thứ ba, ứng dụng sẽ phải hỏi người dùng để có thể theo dõi dữ liệu,...
+Thế Anh

@@ -1,0 +1,8 @@
+# doc_id = news_world_101
+# url = https://dantri.com.vn/the-gioi/giam-doc-tai-chinh-huawei-duoc-hoan-phien-toa-dan-do-20210422123923159.htm
+# date = 20210422
+Guardian đưa tin, Thẩm phán tòa án tối cao British Columbia (Canada) đầu tuần này đã đồng ý hoãn phiên tranh tụng dẫn độ bà Mạnh Vãn Chu 3 tháng sau khi HSBC và Huawei đạt được thỏa thuận hòa giải ở Hong Kong. Theo kế hoạch ban đầu, lẽ ra phiên tòa tranh tụng sẽ khép lại vào tháng 5.
+Phán quyết có thể coi là một thắng lợi của bà Mạnh Vãn Chu và đội ngũ luật sư trong cuộc chiến pháp lý nhằm tránh nguy cơ bà bị dẫn độ sang Mỹ. Richard Peck, luật sư của bà Mạnh cho biết, họ chỉ yêu cầu một "khoảng thời gian khiêm tốn" để xem xét các giấy tờ và dùng làm bằng chứng tại tòa.
+Trước đó, các luật sư đại diện của Canada đã phản đối hoãn phiên tòa vì cho rằng điều đó giúp đội ngũ luật sư của bà Mạnh có nhiều thời gian hơn thông thường để đưa ra những lập luận và các tài liệu có thể đã bị chỉnh sửa quá nhiều để có thể trở thành bằng chứng quan trọng.
+Giới chức Canada bắt giữ bà Mạnh tại sân bay Vancouver vào ngày 1/12/2018 theo đề nghị của Mỹ. Mỹ cáo buộc con gái nhà sáng lập Huawei Nhậm Chính Phi lừa đảo ngân hàng HSBC về mối quan hệ làm ăn của Huawei ở Iran, dẫn đến việc ngân hàng này vi phạm lệnh trừng phạt của Mỹ. Washington cũng đề nghị dẫn độ bà Mạnh sang Mỹ để xét xử. Tuy nhiên, Huawei đã bác bỏ cáo buộc và cho rằng vụ việc nhằm vào bà Mạnh Vãn Chu có mang động cơ chính trị.
+Minh PhươngTheo Guardian

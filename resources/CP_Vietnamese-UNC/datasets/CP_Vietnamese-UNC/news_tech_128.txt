@@ -1,0 +1,12 @@
+# doc_id = news_tech_128
+# url = https://dantri.com.vn/suc-manh-so/i-os-145-ra-mat-ho-tro-mo-khoa-i-phone-bang-apple-watch-20210427020436256.htm
+# date = 20210427
+Sau một khoảng thời gian dài thử nghiệm, Apple vừa phát hành hệ điều hành iOS 14.5 phiên bản chính thức. Theo đó, iOS 14.5 sẽ sửa chữa hàng loạt lỗi trên phiên bản cũ, đồng thời tích hợp thêm nhiều tính năng mới.
+Mở khóa iPhone bằng Apple Watch là tính năng được nhiều người dùng mong đợi nhất trên iOS 14.5.
+"iOS 14.5 bao gồm tùy chọn mở khóa iPhone bằng Apple Watch trong khi đeo khẩu trang, bổ sung hỗ trợ cho AirTag và giới thiệu các biến thể màu da riêng biệt cho biểu tượng có cặp đôi. Tính minh bạch trong theo dõi ứng dụng cho phép bạn kiểm soát những ứng dụng nào được phép theo dõi hoạt động của mình trên các ứng dụng và trang web của các công ty khác", Apple cho biết trong phần mô tả ngắn gọn nội dung của bản cập nhật iOS 14.5.
+Một trong những tính năng được người dùng quan tâm nhất trên iOS 14.5 là mở khóa iPhone bằng Apple Watch. Theo đó, sau khi cập nhật iPhone lên iOS 14.5, tính năng mở khóa này sẽ xuất hiện trong phần cài đặt Face ID. Tính năng này khả dụng cho các thiết bị bao gồm iPhone X trở lên và Apple Watch Series 3 trở lên.
+Để có thể sử dụng tính năng này, chiếc Apple Watch của bạn cũng cần phải được cập nhật lên phiên bản watchOS 7.4 mới nhất. Đây là nâng cấp được rất nhiều người dùng mong chờ, đặc biệt là trong giai đoạn hiện tại khi mọi người đều phải đeo khẩu trang để phòng chống dịch Covid-19.
+Bên cạnh đó, Apple cũng tiếp tục nâng cấp các tính năng về bảo mật trên hệ điều hành mới này như tính năng tìm kiếm "Find My" đã hỗ trợ các thiết bị tracking bên thứ ba, ứng dụng sẽ phải hỏi người dùng để có thể theo dõi dữ liệu,...
+iOS 14.5 cũng giúp cho các thiết bị của Apple tương thích với AirTag và có thể theo dõi AirTag trên Find My. Ngoài ra, Apple còn bổ sung thêm hơn 200 biểu tượng cảm xúc khác nhau, hỗ trợ tay cầm PlayStation 5 DualSense và Xbox Series X, cải tiến Siri, làm mới giao diện Apple Music, Podcast,...
+Hệ điều hành iOS 14.5 có dung lượng khoảng 1,26 GB. Để có thể nâng cấp lên phiên bản này, người dùng cần truy cập vào phần Cài đặt -> Cài đặt chung -> Cập nhật phần mềm -> Tải về và cài đặt. iOS 14.5 hỗ trợ toàn bộ thiết bị có trong danh sách cập nhật iOS 14 (bao gồm iPhone 6s, 6s Plus trở lên).
+Thế Anh

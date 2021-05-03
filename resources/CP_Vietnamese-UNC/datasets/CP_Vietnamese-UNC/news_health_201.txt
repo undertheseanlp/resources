@@ -1,0 +1,21 @@
+# doc_id = news_health_201
+# url = https://dantri.com.vn/suc-khoe/sang-194-them-mot-ca-covid-19-moi-la-nguoi-viet-tu-nhat-ve-nuoc-20210419061119943.htm
+# date = 20210419
+Tính từ 18h ngày 18/4 đến 6h ngày 19/4, nước ta có một ca mắc mới Covid-19 (BN2785) được cách ly ngay sau khi nhập cảnh tại Đà Nẵng.
+Cụ thể:
+CA BỆNH 2785 (BN2785): Bệnh nhân nam, 39 tuổi, là công dân Việt Nam, có địa chỉ tại huyện Cẩm Giàng, tỉnh Hải Dương.
+Ngày 13/4, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Đà Nẵng và được cách ly ngay sau khi nhập cảnh tại thành phố Đà Nẵng. Kết quả xét nghiệm ngày 17/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Phổi Đà Nẵng.
+Tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 40.150, trong đó:
+- Cách ly tập trung tại bệnh viện: 531
+- Cách ly tập trung tại cơ sở khác: 24.361
+- Cách ly tại nhà, nơi lưu trú: 15.258.
+Về tình hình điều trị, theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế:
+- Số ca âm tính với SARS-CoV-2:
++ Lần 1: 11
++ Lần 2: 16
++ Lần 3: 18
+- Số ca tử vong: 35 ca.
+- Số ca điều trị khỏi: 2.475 ca.
+Về tình hình tiêm chủng, tính đến 16 giờ ngày 18/4, Bộ Y tế, Bộ Quốc phòng, Bộ Công an tổng cộng đã thực hiện tiêm vắc xin phòng Covid-19 đợt 1 và 2 tại 22 tỉnh/TP cho gần 80.000 người.
+Ngày 18/4, TP. Hải Phòng đã kết thúc tiêm chủng đợt 1. Các tỉnh Quảng Ninh, Hải Dương đang nỗ lực để hoàn thành đợt 1. 5 tỉnh đã triển khai tiêm chủng đợt 2 là Bắc Ninh, Hà Tĩnh, Cao Bằng, Phú Yên và Bắc Giang.
+Nam Phương

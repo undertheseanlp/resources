@@ -1,0 +1,20 @@
+# doc_id = news_business_222
+# url = https://dantri.com.vn/kinh-doanh/trung-quoc-quyet-kiem-soat-kho-du-lieu-cua-cong-ty-jack-ma-20210423225833110.htm
+# date = 20210423
+Bắc Kinh muốn kiểm soát kho dữ liệu cho vay tiêu dùng khổng lồ của Ant Group. (Ảnh: FT)
+Theo Financial Times, ngân hàng trung ương Trung Quốc đang cố gắng giành quyền kiểm soát kho dữ liệu cho vay tiêu dùng khổng lồ của Ant Group. Đây được cho là một đòn mới của Bắc Kinh đối với tập đoàn công nghệ tài chính của Jack Ma.
+Cụ thể, Ngân hàng Nhân dân Trung Quốc (PBoC) muốn Ant Group phải chuyển kho dữ liệu - một trong những tài sản có giá trị nhất của đế chế internet trên - cho một công ty xếp hạng tín dụng thuộc sở hữu nhà nước do các cựu giám đốc điều hành của ngân hàng trung ương điều hành.
+Công ty này sẽ phục vụ các tổ chức tài chính khác như các ngân hàng quốc doanh để cạnh tranh trong hoạt động cho vay với các công ty fintech.
+Nguồn tin của Financial Times cho biết, Ant Group vẫn muốn lãnh đạo công ty mới. Tuy nhiên, PBoC cho rằng điều này sẽ tạo ra xung đột lợi ích.
+"Ưu tiên hàng đầu là đảm bảo cho doanh nghiệp mới tuân thủ đầy đủ các quy định", một trong những nguồn tin nói và cho rằng: "Sự tham gia của nhà nước sẽ giúp PBoC đạt được các mục tiêu đó".
+Trước đó, trong tháng 1/2021, PBoC công bố những quy định yêu cầu các doanh nghiệp Trung Quốc phải đảm bảo sự chấp thuận của chính phủ trước khi được phép cung cấp dịch vụ tín dụng cá nhân. Công ty này phải đảm bảo có đủ 3 giấy phép và tất cả đều chịu sự kiểm soát của chính phủ.
+Trong tháng này, các nhà quản lý Trung Quốc yêu cầu Ant Group phải tái cấu trúc và tuyên bố phạt Tập đoàn Alibaba của Jack Ma mức phạt kỷ lục 2,8 tỷ USD.
+Các ngân hàng ở Trung Quốc từ lâu đã phàn nàn rằng Ant đã được hưởng lợi khi không phải tuân thủ các quy định nghiêm ngặt trong việc cho vay như họ. Công ty này đã tạo dựng được sự thống trị tại Trung Quốc với hơn 700 triệu người dùng mỗi tháng trên Alipay - một ứng dụng thanh toán trên điện thoại di động.
+Ant Group đã phát triển một nền tảng cho vay tiêu dùng với dư nợ tín dụng lên khoảng 1.700 tỷ Nhân dân tệ (tương đương 262 tỷ USD) tính đến cuối tháng 6/2020, nhiều hơn so với bất kỳ ngân hàng Trung Quốc nào. Thậm chí, công ty fintech này còn tính phí với các ngân hàng cho các khoản vay trên ứng dụng của họ.
+"Rõ ràng, kho dữ liệu tín dụng của Ant mang lại rất nhiều giá trị cho các ngân hàng", một cựu quan chức của PBoC nói.
+Một người quen thuộc với vấn đề này cho rằng, Ant Group cần tìm cách hợp pháp hóa kho dữ liệu này. Giải pháp đưa ra là cần thành lập một công ty báo cáo tín dụng do PBoC phê duyệt.
+Tuy nhiên, việc nhà nước kiểm soát có thể ảnh hưởng đến khả năng thu thập và phân tích thông tin cho các bộ phận kinh doanh cốt lõi của Ant, bao gồm cho vay tiêu dùng.
+"Ant rất muốn nắm giữ những tài sản quý giá nhất của doanh nghiệp", một nguồn tin cho hay.
+Financial Times cho biết, ngân hàng trung ương Trung Quốc sẽ công bố một báo cáo vào Chủ nhật này về việc lập công ty dữ liệu do nhà nước kiểm soát.
+Cả Ant và PBoC hiện chưa có bình luận gì về vấn đề này.
+Nhật LinhTheo Financial Times

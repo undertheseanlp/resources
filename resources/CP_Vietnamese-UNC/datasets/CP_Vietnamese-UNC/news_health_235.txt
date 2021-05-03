@@ -1,0 +1,25 @@
+# doc_id = news_health_235
+# url = https://dantri.com.vn/suc-khoe/toi-204-them-10-ca-mac-moi-covid-19-tai-5-tinh-thanh-20210420180608273.htm
+# date = 20210420
+10 ca mắc mới (BN2792-2801) được cách ly ngay sau khi nhập cảnh tại Hưng Yên (1), Hòa Bình (2), Nghệ An (1), Đà Nẵng (5), Hà Nội (1). Cụ thể:
+- CA BỆNH 2792 (BN2792) ghi nhận tại tỉnh Hưng Yên: Bệnh nhân nam, 20 tuổi, quốc tịch Ấn Độ, là chuyên gia. Bệnh nhân từ Ấn Độ quá cảnh Dubai, sau đó nhập cảnh Sân bay Nội Bài ngày 06/4/2021 và được cách ly ngay sau khi nhập cảnh tại tỉnh Hưng Yên. Kết quả xét nghiệm lần 3 ngày 19/4/2021 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh.
+- CA BỆNH 2793 (BN2793) ghi nhận tại tỉnh Hòa Bình: Bệnh nhân nam, 28 tuổi, công dân Việt Nam, địa chỉ tại quận Long Biên, Thành phố Hà Nội.
+- CA BỆNH 2794 (BN2794) ghi nhận tại tỉnh Hòa Bình: Bệnh nhân nam, 59 tuổi, công dân Việt Nam, địa chỉ tại Quận 10, Thành phố Hồ Chí Minh.
+BN 2793-2794 từ Mỹ nhập cảnh Sân bay Vân Đồn ngày 06/4/2021 và được cách ly ngay sau khi nhập cảnh tại tỉnh Hòa Bình. Kết quả xét nghiệm lần 2 ngày 20/4/2021 dương tính với SARS-CoV-2. Hiện các bệnh nhân được cách ly, điều trị tại Bệnh viện Đa khoa tỉnh Hòa Bình.
+- CA BỆNH 2795 (BN2795) ghi nhận tại tỉnh Nghệ An: Bệnh nhân nam, 33 tuổi, công dân Việt Nam, địa chỉ tại huyện Kiến Xương, tỉnh Thái Bình. Bệnh nhân từ Nhật Bản nhập cảnh Sân bay Vinh ngày 14/4/2021 và được cách ly ngay sau khi nhập cảnh tại tỉnh Nghệ An. Kết quả xét nghiệm lần 2 ngày 20/4/2021 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Đa khoa khu vực Tây Nam Nghệ An.
+- CA BỆNH 2796 (BN2796) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nữ, 27 tuổi, công dân Việt Nam, địa chỉ tại huyện Kỳ Anh, tỉnh Hà Tĩnh.
+- CA BỆNH 2797 (BN2797) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nữ, 27 tuổi, công dân Việt Nam, địa chỉ tại huyện Yên Định, tỉnh Thanh Hóa.
+BN 2796-2797 từ Rumani nhập cảnh Sân bay Quốc tế Đà Nẵng ngày 15/4/2021 và được cách ly ngay sau khi nhập cảnh tại Thành phố Đà Nẵng. Kết quả xét nghiệm lần 2 ngày 19/4/2021 dương tính với SARS-CoV-2. Hiện các bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh viện Phổi Đà Nẵng.
+- CA BỆNH 2798 (BN2798) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nữ, 24 tuổi, công dân Việt Nam, địa chỉ tại huyện Như Xuân, tỉnh Thanh Hóa. Bệnh nhân từ Nhật Bản nhập cảnh Sân bay Quốc tế Đà Nẵng ngày 06/4/2021 và được cách ly ngay sau khi nhập cảnh tại Thành phố Đà Nẵng. Kết quả xét nghiệm lần 2 ngày 19/4/2021 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh viện Phổi Đà Nẵng.
+- CA BỆNH 2799 (BN2799) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nam, 24 tuổi, công dân Việt Nam, địa chỉ tại huyện Lục Nam, Bắc Giang.
+- CA BỆNH 2800 (BN2800) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nam, 28 tuổi, công dân Việt Nam, địa chỉ tại quận Hai Bà Trưng, Thành phố Hà Nội.
+BN 2799-2800 từ Nhật Bản nhập cảnh Sân bay Quốc tế Đà Nẵng ngày 05/4/2021 và được cách ly ngay sau khi nhập cảnh tại Thành phố Đà Nẵng. Kết quả xét nghiệm lần 2 ngày 19/4/2021 dương tính với SARS-CoV-2. Hiện các bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh viện Phổi Đà Nẵng.
+- CA BỆNH 2801 (BN2801) ghi nhận tại Thành phố Hà Nội: Bệnh nhân nam, 28 tuổi, công dân Việt Nam, địa chỉ tại thị xã Ba Đồn, tỉnh Quảng Bình. Bệnh nhân từ Ấn Độ quá cảnh Quatar và Singapore, sau đó nhập cảnh Sân bay Nội Bài ngày 17/4/2021 và được cách ly ngay sau khi nhập cảnh tại Thành phố Hà Nội. Kết quả xét nghiệm ngày 19/4/2021 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh.
+Như vậy tính đến 18h ngày 20/4, Việt Nam có tổng cộng 2.801 ca mắc Covid-19, trong đó 1.570 ca do lây nhiễm trong nước. Số lượng ca mắc mới tính từ ngày 27/1 đến nay là 910 ca.
+Đến nay, tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 40.150, trong đó:
+- Cách ly tập trung tại bệnh viện: 531
+- Cách ly tập trung tại cơ sở khác: 24.361
+- Cách ly tại nhà, nơi lưu trú: 15.258.
+Về tình hình điều trị, theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế, trong ngày có thêm15 bệnh nhân được công bố khỏi bệnh, nâng tổng số ca bệnh được chữa khỏi tại Việt Nam lên 2.490 trường hợp, 35 ca tử vong.
+Hiện trong số bệnh nhân đang điều trị có 40 ca đã âm tính từ 1-3 lần vớiSARS-CoV-2.
+Hồng Hải

@@ -1,0 +1,12 @@
+# doc_id = news_health_097
+# url = https://dantri.com.vn/suc-khoe/da-phan-benh-nhan-covid-19-tu-campuchia-ve-nhiem-bien-the-lay-nhanh-cua-anh-20210425101704080.htm
+# date = 20210425
+Trước tình hình dịch Covid-19 ở các nước xung quanh Việt Nam đang diễn biến phức tạp, số ca mắc ngày càng tăng, Bộ trưởng Bộ Y tế Nguyễn Thanh Long đã chỉ đạo các viện đầu ngành tiến hành giải trình tự gene của những người nhập cảnh vào Việt Nam gần đây mắc Covid-19 để đánh giá, có các biện pháp kiểm soát dịch phù hợp.
+Theo đó, Viện Pasteur TP HCM đã tiến hành giải trình tự gene của các trường hợp nhập cảnh từ Campuchia vào Việt Nam. Kết quả cho thấy, 85,7% mẫu những người về từ Campuchia mang biến thể B1.1.7 (biến thể phát hiện ở Anh) và 14,3% mang biến thể B.1.351 (biến thể phát hiện ở Nam Phi).
+Cả hai biến thể này đã được khuyến cáo có khả năng lây lan nhanh hơn các chủng đã được biết từ đầu dịch.
+Đến sáng 25/4, Việt Nam ghi nhận 2.833 bệnh nhân Covid-19, 35 trường hợp tử vong. Số ca mắc liên tục tăng trong thời gian gần đây, đều là các nhập cảnh.
+Đến 17h ngày 24/4, thế giới đến nay ghi nhận hơn 146 triệu ca mắc Covid-19, trong đó có hơn 3,1 triệu bệnh nhân đã tử vong. Đứng thứ nhất về số ca mắc là Mỹ với hơn 32,7 triệu ca; đứng thứ hai là Ấn Độ với hơn 16,6 triệu ca và Brazil với hơn 14,2 triệu ca.
+Tại Ấn Độ, tổng số ca mắc Covid-19 ghi nhận là hơn 16,2 triệu ca, trong đó có hơn 186 nghìn ca tử vong. Riêng ngày 23/4 ghi nhận thêm 332.730 ca mắc mới, cao hơn 314.835 ca của ngày trước đó. Bộ trưởng Y tế Ấn Độ Harsh Vardhan cho biết số ca nhiễm tăng vọt gần đây ở Ấn Độ có liên quan đến những sự kiện tụ tập đông người tại các cuộc bầu cử cấp địa phương, các đám cưới đông khách và những cuộc biểu tình của nông dân.
+Tại Lào, có thêm 88 ca mắc Covid-19, nâng tổng số ca mắc lên 247 ca. Trong đó có 60 ca ở Vientiane trong lúc thủ đô này đặt trong tình trạng phong tỏa từ ngày 22/4. Ngoài thủ đô Vientiane, còn có 6 tỉnh ở Lào cũng đang trải qua tình trạng phong tỏa, gồm tỉnh Vientiane, Xieng Khouang, Xayaboury, Bolikhamxay, Bokeo, và Phongsaly.
+Tại Campuchia, ghi nhận tổng cộng 8.848 ca mắc Covid-19, trong đó có 61 ca tử vong.
+Nam Phương

@@ -1,0 +1,18 @@
+# doc_id = news_tech_101
+# url = https://dantri.com.vn/suc-manh-so/fpt-ra-mat-tv-box-dau-tien-tich-hop-cac-tinh-nang-nha-thong-minh-20210426233218078.htm
+# date = 20210426
+FPT Telecom giới thiệu Play Box kết hợp loa thông minh đầu tiên trên thế giới hỗ trợ Hands-free, và nhận mệnh lệnh từ giọng nói tiếng Việt. Ảnh: Nguyễn Nguyễn
+Ngày 26/4, FPT Telecom chính thức ra mắt mẫu Play Box S thế hệ 2021. Khác với các phiên bản trước, nó được tích hợp để đồng thời là một chiếc loa thông minh, và một thiết bị trung tâm giúp kết nối các thiết bị khác trong gia đình.
+Theo đó với sản phẩm này, người dùng có thể dễ dàng kết nối với bóng đèn, quạt, camera an ninh,… để điều khiển bằng giọng nói hay hẹn lịch trình bật tắt, theo dõi lịch làm việc để đưa ra thông tin nhắc nhở, thiết lập đồng hồ báo thức, hẹn giờ, đồng thời cập nhập tình hình thời tiết, giao thông trước khi bạn ra khỏi nhà.
+Nói về những thay đổi của FPT Play Box S, Ông Lê Trọng Đức, Giám đốc sản phẩm FPT Play Box kỳ vọng rằng sản phẩm sẽ trở thành một trợ lý ảo, một "trái tim" điều khiển các thiết bị thông minh trong căn nhà của người Việt.
+So với bản tiền nhiệm trước đó, FPT Play Box S vẫn chạy trên hệ điều hành mới nhất là Android TV 10 của Google, thiết bị còn được trang bị 2GB RAM và 16GB bộ nhớ.
+Tuy nhiên, FPT Play Box S sẽ được nâng cấp chip xử lý AML 905X3, đồ họa ARM Mali-G31 MP2 hỗ trợ xuất video đầu ra tối đa ở độ phân giải 4K-60P cho trải nghiệm tối ưu hơn về hiệu năng và hiệu suất khi sử dụng, tăng 20% so với phiên bản trước, đồng thời hỗ trợ trí tuệ nhân tạo AI.
+Về kết nối, FPT Play Box S hỗ trợ Wi-Fi băng tầng kép (hỗ trợ kết nối đồng thời 5.0GHz và 2.4GHz), được trang bị Bluetooth BLE Mesh, Zigbee Mesh (thông qua USB mở rộng) giúp kết nối đồng thời nhiều thiết bị.
+FPT Play Box S 2021 có kiểu dáng giống một chiếc loa thông minh, đặt gọn trên lòng bàn tay. Ảnh: Nguyễn Nguyễn
+Ưu điểm nổi bật giúp FPT Play Box S khác biệt so với những sản phẩm loa thông minh khác trên thị trường, đó là có thể nhận mệnh lệnh từ giọng nói tiếng Việt. Đây là thiết bị đầu tiên và duy nhất trên thị trường có thể làm được điều này.
+Ngoài ra, sản phẩm còn có khả năng sử dụng tính năng Hands-free (không chạm) lên đến 5 mét, giúp mang đến trải nghiệm mới lạ cho người dùng Việt khi chỉ cần ra lệnh là có thể mở ngay.
+Việc hợp tác với Google để sử dụng hệ điều hành Android là một lợi thế đối với FPT TV Box S, khi mở ra "cánh cửa" tương thích với hơn 5.000 thiết bị thông minh từ hơn 150 nhà cung cấp.
+Ngay cả khi người dùng không sở hữu thiết bị thông minh (với kết nối Internet hay qua Bluetooth), việc trang bị Play Box S vẫn cho phép bật/tắt các thiết bị hiện có trong nhà như TV, máy lạnh, quạt,… thông qua tín hiệu hồng ngoại, và là sự thay thế hoàn hảo cho những chiếc remote truyền thống.
+Trong năm 2021, FPT Telecom cho biết sẽ tung ra các giải pháp nhà thông minh AI tích hợp vào sản phẩm này, bao gồm camera AI, điều khiển máy lạnh AI, điều khiển đèn AI.
+Sản phẩm hiện được bán ra thị trường với giá 2,39 triệu đồng, nhưng sẽ giảm còn 1,89 triệu nếu đặt hàng trước từ nay đến trước ngày 10/5.
+Nguyễn Nguyễn

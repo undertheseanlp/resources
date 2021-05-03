@@ -1,0 +1,14 @@
+# doc_id = news_health_246
+# url = https://dantri.com.vn/suc-khoe/tphcm-giam-sat-99-nguoi-lien-quan-2-ca-covid-19-ngoai-cong-dong-20210430225146838.htm
+# date = 20210430
+Tối 30/4, Trung tâm Kiểm soát Bệnh tật TPHCM (HCDC) đã có thông tin về tình hình xét nghiệm các trường hợp tiếp xúc với BN2899 và BN2910.
+Theo đó, đối với các ca tiếp xúc với bệnh nhân 2899 (được phát hiện tại tỉnh Hà Nam nhập cảnh tại Đà Nẵng trên chuyến bay VJ3613 ngày 6/4), thành phố đang quản lý giám sát sau cách ly là 17 trường hợp, đã lấy mẫu giám sát 13 trường hợp, kết quả xét nghiệm là âm tính.
+Bên cạnh đó, TP cũng đã tiếp nhận xác minh được 4 trường hợp tiếp xúc gần với BN2899, trong đó có BN2910 và 3 trường hợp khác (2 trường hợp đã có kết quả âm tính, 1 trường hợp đang chờ kết quả).
+Đối với các ca tiếp xúc với bệnh nhân 2910, ngày 30/4 ghi nhận thêm 7 trường hợp đi cùng chuyến bay, nâng tổng số trường hợp tiếp xúc gần là 14. Số trường hợp tiếp xúc khác là 65. Tất cả đã có kết quả âm tính lần 1 với SARS-CoV-2. Thành phố tiếp tục triển khai các biện pháp phòng chống dịch theo quy định.
+Trước tình hình dịch bệnh diễn biến phức tạp, HCDC đề nghị hành khách đi cùng BN2910 trên chuyến VJ133 từ Hà Nội đến TPHCM ngày 27/4 thực hiện khai báo y tế tại cơ sở y tế địa phương để được giám sát, hướng dẫn thực hiện các biện pháp phòng bệnh.
+Đồng thời, HCDC cũng khuyến cáo người dân thành phố không chủ quan, lơ là trước tình hình dịch bệnh; tuân thủ phòng bệnh theo thông điệp 5K, đặc biệt chú ý việc đeo khẩu trang khi đến nơi công cộng, rửa tay thường xuyên, hạn chế đến nơi đông người khi không cần thiết.
+Liên quan đến bệnh nhân 2910, tối 29/4, cơ quan chức năng TPHCM cũng đã nhanh chóng phong tỏa hẻm 20 đường Phạm Đăng Giảng, quận Bình Tân. Nơi đây có 19 phòng trọ và 57 cư dân.
+Vào trưa 30/4, Trung tâm kiểm soát bệnh tật TPHCM (HCDC) cũng đã thông báo bắt đầu cập nhật giám sát, cách ly tại nhà đối với những người đến từ các địa phương có ca bệnh Covid-19 ngoài cộng đồng.
+Cụ thể là những người từ thôn Quang Nhân, xã Đạo Lý, huyện Lý Nhân, tỉnh Hà Nam; thôn Hoàng Xá, xã Tiền Tiến, huyện Phù Cừ, tỉnh Hưng Yên; thôn Khu Trung, xã Việt Hùng, huyện Đông Anh; Hà Nội. Đây là 3 địa phương đang có ca bệnh Covid-19.
+Những người này khi đến TPHCM sẽ được giám sát trong vòng 14 ngày từ ngày rời khỏi địa phương, cách ly tại nhà, xét nghiệm theo quy định.
+Tùng Nguyên

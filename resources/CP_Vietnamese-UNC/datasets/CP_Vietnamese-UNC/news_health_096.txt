@@ -1,0 +1,13 @@
+# doc_id = news_health_096
+# url = https://dantri.com.vn/suc-khoe/da-nang-xac-dinh-9-truong-hop-f-1-cua-ca-duong-tinh-sars-co-v-2-o-ha-nam-20210429173458774.htm
+# date = 20210429
+Chiều 29/4, Sở Y tế TP Đà Nẵng cho biết, sau khi nhận được thông tin về nam thanh niên có kết quả xét nghiệm dương tính với SARS-CoV-2 ở Hà Nam, ngành y tế TP Đà Nẵng đã rà soát và xác định được 9 trường hợp F1 liên quan đến ca này.
+Các trường hợp F1 đều là nhân viên phục vụ tại khách sạn mà nam thanh niên trên cách ly. Hiện tại, ngành y tế Đà Nẵng đã tiến hành cách ly, lấy mẫu xét nghiệm đối với 9 trường hợp nói trên.
+Một khách sạn ly cách ly công dân nhập cảnh trên địa bàn TP Đà Nẵng.
+Trước đó, bệnh nhân N.V.Đ. (SN 1993, trú tại huyện Lý Nhân, tỉnh Hà Nam) đã có kết quả xét nghiệm dương tính với SARS-CoV-2 lần 1 tại Trung tâm Kiểm soát bệnh tật (CDC) tỉnh Hà Nam.
+Bệnh nhân Đ. nhập cảnh từ Nhật về, cách ly đủ 14 ngày tại Đà Nẵng và đã có 3 lần xét nghiệm âm tính với SARS-CoV-2 trong đó lần xét nghiệm cuối cùng là ngày 21/4.
+Đến ngày 22/4 bệnh nhân đi xe khách từ Đà Nẵng về Liêm Tuyền và bắt taxi từ Liêm Tuyền về nhà ở thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân, tỉnh Hà Nam.
+Sáng 24/4, bố bệnh nhân này ra trạm y tế xã khai báo do thấy con trai có biểu hiện ho sốt, đau họng. Sau đó cơ quan chức năng đã đến lấy mẫu, điều tra dịch tễ.
+Chiều ngày 27/4 xét nghiệm, xác nhận dương tính lần 1 với SARS-CoV-2.
+Hiện CDC Hà Nam đang cho xét nghiệm lại lần 2, đồng thời gửi mẫu đến Viện Vệ sinh Dịch tễ Trung ương để xét nghiệm.
+Khánh Hồng

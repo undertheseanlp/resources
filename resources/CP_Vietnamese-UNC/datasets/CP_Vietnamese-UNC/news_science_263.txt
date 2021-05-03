@@ -1,0 +1,13 @@
+# doc_id = news_science_263
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/who-da-biet-covid-19-bat-nguon-tu-dau-20210319063531236.htm
+# date = 20210319
+Vào tháng 1 vừa qua, một nhóm chuyên gia của WHO đã đến Trung Quốc để đi tìm nguyên nhân của dịch chết người hiện đã lây nhiễm cho hơn 120 triệu người và giết chết 2,6 triệu người trên toàn thế giới, bắt đầu từ đâu.
+Trước đó, một loạt các thuyết âm mưu đã được lan truyền về nguồn gốc của virus, bao gồm cả việc virus này đã thoát ra từ một phòng thí nghiệm ở Vũ Hán. Vào tháng trước, các nhà điều tra của WHO đã bác bỏ thông tin này.
+Sự đồng thuận chung giữa các nhà khoa học là coronavirus đã lưu hành trong loài dơi và lây nhiễm sang người, có thể là thông qua một loài trung gian. Đó chính xác là những gì mà các cuộc điều tra của WHO đã phát hiện ra. Virus có khả năng truyền từ dơi ở miền nam Trung Quốc sang động vật trong các trang trại động vật hoang dã, và sau đó là sang người.
+Các trang trại động vật hoang dã là một phần của dự án mà chính phủ Trung Quốc đã thúc đẩy trong 20 năm nhằm đưa người dân nông thôn thoát khỏi đói nghèo và thu hẹp khoảng cách giữa nông thôn và thành thị.
+Daszak nói: "Họ đã bắt những động vật hoang dã như cầy hương, nhím, tê tê, lửng chó, chuột tre để nuôi nhốt".
+Nhưng vào tháng 2 năm 2020, Trung Quốc đã đóng cửa các trang trại đó, có thể là do chính phủ Trung Quốc cho rằng chúng là một phần của con đường truyền bệnh từ dơi sang người. Chính phủ đã ban hành hướng dẫn cho nông dân về cách chôn, giết hoặc tiêu hủy động vật để không lây lan dịch bệnh.
+Nhiều trang trại nuôi động vật có thể mang coronavirus, bao gồm các loài như cầy hương, mèo và tê tê. Hầu hết đều nằm ở hoặc gần tỉnh Vân Nam, miền nam Trung Quốc, nơi các nhà khoa học trước đây đã phát hiện ra một loại virus trên dơi giống đến 96% với SARS-CoV-2. Nhưng WHO vẫn chưa biết loài vật nào đã mang virus từ dơi sang người.
+"Tôi nghĩ rằng SARS-CoV-2 lần đầu tiên xâm nhập vào người dân ở Nam Trung Quốc. Mọi chuyện đang diễn ra như vậy. Trung Quốc đóng cửa các trang trại là có lý do. Có thể họ nghĩ rằng đó chính là con đường lây truyền virus", Daszak thông tin thêm.
+Trang Phạm
+Theo Live Science

@@ -1,0 +1,21 @@
+# doc_id = news_health_242
+# url = https://dantri.com.vn/suc-khoe/toi-284-them-8-ca-mac-moi-covid-19-20210428180648983.htm
+# date = 20210428
+8 ca mắc mới (BN2858-2865) được cách ly ngay sau khi nhập cảnh tại Nam Định (1), Đà Nẵng (1) và Khánh Hòa (6). Cụ thể:
+- CA BỆNH 2858 (BN2858) ghi nhận tại Nam Định: Bệnh nhân nam, 38 tuổi, là công dân Việt Nam có địa chỉ tại huyện Kiến Thụy, thành phố Hải Phòng. Ngày 20/4/2021, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Vân Đồn trên chuyến bay VJ2723 và được cách ly ngay sau khi nhập cảnh tại tỉnh Nam Định. Kết quả xét nghiệm ngày 27/4/2021, bệnh nhân dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh.
+- CA BỆNH 2859 (BN2859) ghi nhận tại Đà Nẵng: Bệnh nhân nam, 27 tuổi, là công dân Việt Nam có địa chỉ tại huyện Thanh Sơn, tỉnh Phú Thọ. Ngày 23/4/2021, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Đà Nẵng trên chuyến bay VJ3613 và được cách ly ngay sau khi nhập cảnh tại thành phố Đà Nẵng. Kết quả xét nghiệm ngày 27/4/2021, bệnh nhân dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Phổi Đà Nẵng.
+- CA BỆNH 2860 (BN2860) ghi nhận tại Khánh Hòa: Bệnh nhân nữ, 29 tuổi, là công dân Việt Nam có địa chỉ tại quận Bắc Từ Liêm, thành phố Hà Nội. Ngày 24/4/2021, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Cam Ranh trên chuyến bay VJ7837 và được cách ly ngay sau khi nhập cảnh tại tỉnh Khánh Hòa. Kết quả xét nghiệm ngày 28/4/2021, bệnh nhân dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Da liễu tỉnh Khánh Hòa.
+- CA BỆNH 2861 (BN2861) ghi nhận tại Khánh Hòa: Bệnh nhân nữ, 29 tuổi, là công dân Việt Nam có địa chỉ tại quận Phú Nhuận, thành phố Hồ Chí Minh.
+- CA BỆNH 2862 (BN2862) ghi nhận tại Khánh Hòa: Bệnh nhân nữ, 31 tuổi, là công dân Việt Nam có địa chỉ tại huyện Kiến Thụy, thành phố Hải Phòng.
+Ngày 24/4/2021, BN2861-2862 từ Nhật Bản nhập cảnh Sân bay Cam Ranh trên chuyến bay VJ7837 và được cách ly ngay sau khi nhập cảnh tại tỉnh Khánh Hòa. Kết quả xét nghiệm ngày 28/4/2021, các bệnh nhân dương tính với SARS-CoV-2. Hiện các bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới tỉnh Khánh Hòa.
+- CA BỆNH 2863 (BN2863) ghi nhận tại Khánh Hòa: Bệnh nhân nam, 24 tuổi, là công dân Việt Nam có địa chỉ tại thành phố Uông Bí, tỉnh Quảng Ninh.
+- CA BỆNH 2864 (BN2864) ghi nhận tại Khánh Hòa: Bệnh nhân nam, 27 tuổi, là công dân Việt Nam có địa chỉ tại huyện Lộc Hà, tỉnh Hà Tĩnh.
+Ngày 24/4/2021, BN2863-2864 từ Nhật Bản nhập cảnh Sân bay Cam Ranh trên chuyến bay VJ7837 và được cách ly ngay sau khi nhập cảnh tại tỉnh Khánh Hòa. Kết quả xét nghiệm ngày 28/4/2021, các bệnh nhân dương tính với SARS-CoV-2. Hiện các bệnh nhân được cách ly, điều trị tại Trung tâm Y tế huyện Cam Lâm tỉnh Khánh Hòa.
+- CA BỆNH 2865 (BN2865) ghi nhận tại Khánh Hòa: Bệnh nhân nam, 31 tuổi, là công dân Việt Nam có địa chỉ tại huyện Triệu Sơn, tỉnh Thanh Hóa. Ngày 11/4/2021, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Cam Ranh trên chuyến bay VJ8645 và được cách ly ngay sau khi nhập cảnh tại tỉnh Khánh Hòa. Kết quả xét nghiệm ngày 28/4/2021 bệnh nhân dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới tỉnh Khánh Hòa.
+Như vậy tính đến 18h ngày 28/4, Việt Nam có tổng cộng 2.865 ca mắc Covid-19, trong đó 1.571 ca do lây nhiễm trong nước. Số lượng ca mắc mới tính từ ngày 27/1 đến nay là 911 ca.
+Đến nay, tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 38.520, trong đó:
+- Cách ly tập trung tại bệnh viện: 523
+- Cách ly tập trung tại cơ sở khác: 23.189
+- Cách ly tại nhà, nơi lưu trú: 14.808
+Về tình hình điều trị, theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế, Việt Nam đã chữa khỏi 2.516 ca Covid-19, 35 trường hợp tử vong. Trong số các bệnh nhân đang điều trị đã có 48 trường hợp âm tính từ 1-3 lần vớiSARS-CoV-2.
+Hồng Hải

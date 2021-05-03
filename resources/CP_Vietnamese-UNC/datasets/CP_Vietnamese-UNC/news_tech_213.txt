@@ -1,0 +1,25 @@
+# doc_id = news_tech_213
+# url = https://dantri.com.vn/suc-manh-so/sony-trinh-lang-loat-smartphone-xperia-moi-cau-hinh-manh-thiet-ke-cu-20210415120417983.htm
+# date = 20210415
+Theo đó, hãng công nghệ Nhật Bản đã chính thức ra mắt 3 mẫu smartphone mới nhắm đến phân khúc cận cao cấp và cao cấp, bao gồm Xperia 1 III, Xperia 5 III và Xperia 10 III.
+Xperia 1 III
+Cũng như các phiên bản tiền nhiệm (Xperia 1, Xperia 1 II), phiên bản Xperia 1 III vẫn nhắm đến phân khúc smartphone cao cấp, với cấu hình mạnh mẽ. Sản phẩm vẫn giữ nguyên phong cách thiết kế OmniBalance đặc trưng trên các smartphone của Sony, với mặt trước và sau của sản phẩm đều bằng kính cường lực, với khung viền bằng kim loại.
+Tuy nhiên, kiểu thiết kế này của Sony hiện bị đánh giá là khá lỗi thời so với các mẫu smartphone khác đang có mặt trên thị trường.
+Sony cũng không tích hợp cảm biến vân tay vào màn hình như phần lớn smartphone khác hiện nay, mà tích hợp cảm biến vân tay vào nút nguồn ở cạnh bên sản phẩm.
+Điểm nhấn ấn tượng nhất của Xperia 1 III vẫn là màn hình siêu nét, với độ phân giải 4K (3840x1644), kết hợp với kích thước 6,5-inch, cho mật độ điểm ảnh lên đến 643ppi. Sản phẩm sở hữu màn hình công nghệ OLED, tần số làm tươi 120Hz, hỗ trợ video HDR với tính năng Creator Mode mà theo Sony sẽ giúp màu sắc hiển thị trên màn hình được tự nhiên hơn.
+Xperia 1 III cũng được trang bị một cấu hình mạnh mẽ, với bộ xử lý Snapdragon 888 cao cấp nhất của Qualcomm, bộ nhớ RAM 12GB, đi kèm tùy chọn bộ nhớ 256GB hoặc 512GB. Đặc biệt, sản phẩm vẫn hỗ trợ khe cắm thẻ nhớ ngoài và giắc cắm tai nghe 3,5mm, là những tính năng đã bị loại bỏ trên nhiều smartphone ngày nay.
+Sản phẩm hỗ trợ mạng 5G, trang bị thỏi pin dung lượng 4.500mAh, hỗ trợ sạc nhanh 30W, cho phép sạc từ 0 lên 50% chỉ sau 30 phút cắm sạc.
+Mặt sau của sản phẩm là cụm 4 camera, được xếp theo một chiều dọc, trong đó bộ 3 camera chính, camera góc rộng và camera tele (hỗ trợ zoom quang học 4,4x) đều có độ phân giải 12 megapixel. Camera thứ 4 là camera ToF hỗ trợ các tính năng 3D và đo độ sâu trường ảnh. Mặt trước của sản phẩm là camera 8 megapixel.
+Hiện Sony vẫn chưa công bố giá bán và ngày ra mắt chính thức của sản phẩm, nhưng nhiều khả năng Xperia 1 III sẽ được bán ra vào mùa hè năm nay.
+Xperia 5 III
+Đây là mẫu smartphone thứ 2 nhắm đến phân khúc cao cấp mà Sony vừa ra mắt. Cũng như phiên bản Xperia 5 II ra mắt vào năm ngoái, sản phẩm vẫn được nhắm đến đối tượng người dùng yêu thích smartphone cỡ nhỏ, khi giữ nguyên kích cỡ màn hình 6,1-inch như phiên bản tiền nhiệm, với độ phân giải Full HD+ (2520x1080), tần số làm tươi 120Hz.
+Xperia 5 III có cấu hình mạnh mẽ, nhưng thấp hơn đôi chút so với Xperia 1 III. Sản phẩm được trang bị chip Snapdragon 888 cao cấp của Qualcomm, bộ nhớ RAM 8GB, đi kèm tùy chọn bộ nhớ 128GB hoặc 256GB. Sản phẩm cũng hỗ trợ khe cắm thẻ nhớ ngoài và giắc cắm phone 3,5mm tương tự như phiên bản Xperia 1 III.
+Mặt sau là cụm 3 camera, được bố trí theo chiều dọc, đều có độ phân giải 12 megapixel. Bên cạnh camera chính còn có camera tele hỗ trợ zoom quang học 4,4x và camera góc rộng. Camera chính và camera tele đều hỗ trợ công nghệ chống rung quang học. Mặt trước là camera 8 megapixel.
+Xperia 5 III hỗ trợ kết nối mạng 5G, trang bị thỏi pin có dung lượng 4.500mAh, sạc nhanh công suất 30W, cho phép sạc pin từ 0 lên 50% chỉ sau 30 phút cắm sạc.
+Hiện mức giá cũng như ngày chính thức bán ra thị trường của Xperia 5 III vẫn chưa được Sony công bố.
+Xperia 10 III
+Cùng với bộ đôi Xperia 1 III và 5 III cao cấp, Sony cũng đã trình làng thêm chiếc smartphone nhắm đến phân khúc tầm trung, Xperia 10 III. Sản phẩm sở hữu kích thước nhỏ gọn, với màn hình chỉ 6-inch, độ phân giải Full HD+ (2520x1080) và sử dụng công nghệ OLED.
+Về cấu hình bên trong, Xperia 10 III được trang bị bộ xử lý Snapdragon 690, đi kèm bộ nhớ RAM 6GB và bộ nhớ lưu trữ 128GB, hỗ trợ khe cắm thẻ nhớ ngoài. Sản phẩm được trang bị thỏi pin có dung lượng 4.500mAh, nâng cấp đáng kể từ thỏi pin 3.600mAh của Xperia 10 II ra mắt năm ngoái.
+Mặt sau của sản phẩm là cụm 3 camera, bao gồm camera chính 12 megapixel, camera góc siêu rộng và camera tele (hỗ trợ zoom quang học 2x) đều có độ phân giải 8 megapixel. Mặt trước của sản phẩm là camera 8 megapixel.
+Xperia 10 III hỗ trợ kết nối mạng 5G, trang bị giắc cắm tai nghe 3,5mm. Sản phẩm sẽ được bán ra vào đầu mùa hè năm nay, với mức giá chưa được tiết lộ.
+T.ThủyTheo PA/GSMA

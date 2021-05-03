@@ -1,0 +1,14 @@
+# doc_id = news_health_123
+# url = https://dantri.com.vn/suc-khoe/ha-nam-them-4-ca-duong-tinh-voi-sars-co-v-2-la-f-1-cua-benh-nhan-20210429164605163.htm
+# date = 20210429
+Thông tin từ Sở Y tế tỉnh Hà Nam cho biết, liên quan đến bệnh nhân N.V.Đ., nhà ở thôn Quan Nhân, Đạo Lý, Lý Nhân, được xác nhận dương tính lần 1 với SARS-CoV-2, sau khi cách ly tập trung 2 tuần từ Đà Nẵng, ngành y tế Hà Nam đã xác nhận bước đầu có 32 F1.
+Toàn bộ thôn Quan Nhân được phun thuốc khử khuẩn.
+Qua xét nghiệm đã xác định có 4 trường hợp dương tính với SARS-CoV-2 gồm: ông N.V.V. (SN 1963) là bố đẻ bệnh nhân; N.T.Th., (SN 1965) là mẹ đẻ bệnh nhân; N.T.A. (SN 1996) là vợ bệnh nhân và N.T.Q.C. (SN 2020) là con bệnh nhân Đ.
+Hiện tại lực lượng chức năng đã lập 5 chốt và tạm thời cách ly toàn bộ thôn Quan Nhân nơi gia đình 5 bệnh nhân sinh sống với 320 hộ, 1068 nhân khẩu.
+Đến thời điểm này đã xác định được 32 trường hợp F1, 210 trường hợp F2. Các trường hợp F1 được cách ly tập trung tại Trung tâm Y tế huyện Lý Nhân, các trường hợp F2 được hướng dẫn cách ly tại nhà.
+Chiều ngày 29/4 Ban chỉ đạo phòng, chống dịch Covid-19 tỉnh Hà Nam đang tổ chức họp khẩn để triển khai các biện pháp cấp bách phòng, chống dịch.
+Hiện tại lực lượng chức năng đã lập 5 chốt và tạm thời cách ly toàn bộ thôn Quan Nhân nơi gia đình 5 bệnh nhân sinh sống với 320 hộ, 1068 nhân khẩu.
+Trước đó, bệnh nhân N.V.Đ. nhập cảnh từ Nhật về, cách ly đủ 14 ngày tại Đà Nẵng và đã có 3 lần xét nghiệm âm tính với SARS-CoV-2 trong đó lần xét nghiệm cuối cùng là ngày 21/4.
+Đến ngày 22/4 bệnh nhân đi xe khách từ Đà Nẵng về Liêm Tuyền và bắt taxi từ Liêm Tuyền về nhà ở thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân, tỉnh Hà Nam. Sáng 24/4, bố bệnh nhân này ra trạm y tế xã khai báo do thấy con trai có biểu hiện ho sốt, đau họng. Sau đó cơ quan chức năng đã đến lấy mẫu, điều tra dịch tễ. Chiều ngày 27/4 xét nghiệm, xác nhận dương tính lần 1 với SARS-CoV-2.
+Hiện bệnh nhân được cách ly điều trị tại BVĐK Hà Nam.
+Đức Văn

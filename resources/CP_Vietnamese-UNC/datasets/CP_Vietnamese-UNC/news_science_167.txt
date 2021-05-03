@@ -1,0 +1,16 @@
+# doc_id = news_science_167
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/phat-hien-3-chung-vi-khuan-chua-tung-duoc-biet-den-tren-tram-vu-tru-quoc-te-20210317170253519.htm
+# date = 20210317
+Điều đáng nói là ba trong số đó cho đến nay giới khoa học hoàn toàn chưa được biết.
+Ba trong số bốn chủng đã được phân lập vào năm 2015 và 2016 - một được tìm thấy trên bảng điều khiển trên cao của trạm nghiên cứu ISS, chủng thứ hai được tìm thấy ở Cupola (vị trí quan sát bao quát trạm cho các phi hành gia bên trong trạm), chủng thứ ba được tìm thấy trên bề mặt bàn ăn, chủng thứ tư được tìm thấy trong một bộ lọc HEPA cũ được trả về Trái đất vào năm 2011.
+Tất cả bốn chủng đều thuộc họ vi khuẩn được tìm thấy trong đất và nước ngọt, chúng tham gia vào quá trình cố định đạm, tăng trưởng thực vật và có thể giúp ngăn chặn mầm bệnh thực vật.
+Chắc chắn nhiều người sẽ thắc mắc những chủng vi khuẩn có trong đất như vậy đã làm gì trên ISS. Thực tế, các phi hành gia sống trên trạm vũ trụ đã trồng một lượng nhỏ thực vật trong nhiều năm, vì vậy không có gì ngạc nhiên khi tìm thấy những vi khuẩn có liên quan đến thực vật trên ISS.
+Một trong những chủng vi khuẩn đã được phát hiện trên bộ lọc HEPA đã được xác định là một loài đã biết có tên Methylorubrum rhodesianum. Ba chủng còn lại được giải trình tự và được tìm thấy đều thuộc cùng một loài, trước đây chưa được xác định. Các chủng này được đặt tên là IF7SW-B2T, IIF1SW-B5 và IIF4SW-B5.
+Nhóm nghiên cứu do nhà di truyền học Swati Bijlani của Đại học Nam California đứng đầu đã đề xuất gọi loài vi khuẩn mới là Methylobacterium ajmalii theo tên của Ajmal Khan, một nhà khoa học đa dạng sinh học nổi tiếng của Ấn Độ. Phát hiện mới này cũng liên quan chặt chẽ đến một loài đã được biết đến có tên M. indicum.
+"Để trồng cây ở những nơi khắc nghiệt, nơi nguồn tài nguyên bị hạn chế, việc cách ly các vi sinh vật mới giúp thúc đẩy sự phát triển của cây trồng trong điều kiện căng thẳng là điều cần thiết. Sau khi xem xét chúng tôi đã biết rằng những vi khuẩn này có thể sống sót trong các điều kiện khắc nghiệt của ISS. Nhóm nghiên cứu đã đưa bốn chủng này qua phân tích di truyền để tìm kiếm các gene có thể được sử dụng để giúp thúc đẩy sự phát triển của thực vật", các nhà khoa học cho biết.
+Toàn bộ trình tự bộ gene của ba chủng ISS được báo cáo mới đây sẽ cho phép so sánh đặc điểm bộ gene của các chủng ISS với các chủng khác trên Trái đất trong các nghiên cứu trong tương lai.
+Điều này được cho sẽ hỗ trợ thêm trong việc xác định các yếu tố quyết định di truyền có khả năng chịu trách nhiệm thúc đẩy sự phát triển của thực vật trong điều kiện vi trọng lực và góp phần phát triển các loại cây trồng tự bền vững cho các sứ mệnh không gian dài hạn trong tương lai.
+Các nhà nghiên cứu phát hiện ra rằng một trong các chủng ISS - IF7SW-B2T - có các gene hứa hẹn liên quan đến sự phát triển của thực vật, bao gồm gene của một loại enzyme cần thiết cho cytokinin, giúp thúc đẩy sự phân chia tế bào ở rễ và chồi.
+Ngoài ra, các nhà khoa học cũng tiết lộ có khoảng 1.000 mẫu đã được thu thập trên ISS, nhưng vẫn đang chờ một chuyến trở lại Trái đất.
+Trang Phạm
+Theo Science Alert

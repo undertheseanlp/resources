@@ -1,0 +1,13 @@
+# doc_id = news_tech_204
+# url = https://dantri.com.vn/suc-manh-so/sau-nhieu-nam-thua-lo-sony-bat-ngo-co-loi-nhuan-nho-ban-smartphone-20210429163209384.htm
+# date = 20210429
+Sony từng là một "ông lớn" trên thị trường di động, nhưng kể từ năm 2014, doanh số smartphone của Sony đã liên tục sụt giảm và từ năm 2017 đến nay, bộ phận di động đã khiến hãng liên tục thua lỗ.
+Tuy nhiên, vào thời điểm tưởng chừng Sony sẽ từ bỏ thị trường smartphone, hãng công nghệ Nhật Bản bất ngờ có lời trở lại.
+Doanh số smartphone của Sony theo từng năm (đơn vị triệu máy).
+Theo báo cáo tài chính vừa được Sony công bố, trong cả năm tài khóa 2020 (theo lịch tài khóa của công ty, kết thúc vào ngày 31/3/2021), hãng đã bán được 2,9 triệu chiếc smartphone, giảm nhẹ so với doanh số 3,2 triệu máy mà hãng đã bán ra trong năm 2019. Tuy nhiên, Sony vẫn đạt được lợi nhuận 27,7 tỷ Yên (tương đương 254 triệu USD) từ mảng smartphone. Đây là lần đầu tiên kể từ năm 2017 Sony mới có lại được lợi nhuận từ thị trường này.
+Câu hỏi đặt ra là vì sao Sony bán được ít smartphone hơn, nhưng lại thu về lợi nhuận cao hơn so với các năm trước đó? Câu trả lời chính là nhờ Sony đã cắt giảm chi phí sản xuất, giảm chi phí tiếp thị và đóng cửa nhiều chi nhánh để giảm chi phí vận hành. Bên cạnh đó, mức giá trung bình các mẫu smartphone của Sony đã tăng nhẹ.
+Bản thân Sony dường như cũng không tin vào việc hãng đạt được lợi nhuận từ thị trường smartphone, khi cho biết "đây là kết quả vượt qua sự mong đợi ban đầu của chúng tôi".
+Con số 2,9 triệu smartphone bán ra trong năm 2020 là quá ít so với thời kỳ đỉnh cao khi Sony bán được 39,1 triệu máy trong năm 2013 và 2014. Tuy nhiên, đây vẫn là một dấu hiệu đáng mừng để Sony có thể tiếp tục bám trụ trên thị trường di động.
+Trước đó, Sony cũng đã có nhiều động thái cho thấy hãng đã sẵn sàng để rút khỏi thị trường di động, bao gồm việc ngừng bán smartphone tại một số thị trường cũng như ngừng hoạt động trang web Sonymobile.com, vốn là trang web chính thức dùng để giới thiệu các thiết bị cầm tay của Sony trong suốt hơn 10 năm.
+Hiện tại khi người dùng truy cập vào trang web Sonymobile.com sẽ được tự động chuyển hướng đến trang chủ của Sony. Ngoài ra, Sony cũng sẽ đóng cửa diễn đàn hỗ trợ cho người dùng smartphone Xperia và dừng hoạt động mảng di động tại thị trường Châu Âu để cắt giảm chi phí.
+T.ThủyTheo AA

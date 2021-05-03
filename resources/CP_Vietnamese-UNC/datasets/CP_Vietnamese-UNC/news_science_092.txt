@@ -1,0 +1,14 @@
+# doc_id = news_science_092
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/giai-ma-hien-tuong-mot-mat-cua-trai-dat-dang-nguoi-di-nhanh-bat-thuong-20210321063651294.htm
+# date = 20210321
+Sâu bên trong Trái đất, nhiệt liên tục được tạo ra khi các nguyên tố phóng xạ suy giảm. Tuy nhiên, cùng lúc đó, nhiệt bị mất đi khi nó tản lên phía trên qua lớp vỏ. Thực tế là sự mất nhiệt bề mặt này lớn hơn sản lượng nhiệt bên trong có nghĩa là hành tinh đang nguội đi về tổng thể, một ngày nào đó sẽ trở nên lạnh giá và không có sự sống.
+Tuy nhiên, điều đáng quan tâm là sự mất nhiệt này không xảy ra đồng nhất trên khắp hành tinh, vì các khối đất cồng kềnh cung cấp nhiều lớp cách nhiệt hơn so với lớp vỏ đại dương mỏng hơn. Nói cách khác, nhiệt lượng bị mất đi ít hơn ở các khu vực được bao phủ bởi các lục địa, trong khi các khu vực được bao phủ bởi các đại dương lạnh nhanh hơn nhiều.
+Báo cáo trên tạp chí Geophysical Research Letters, các tác giả của nghiên cứu đã giải thích cách họ sử dụng các mô hình chu kỳ mảng kiến tạo để chứng minh sự biến đổi của sự mất nhiệt trên khắp hành tinh trong 400 triệu năm qua. Kết quả chỉ ra rằng hai bên của Trái đất đã lạnh đi với tốc độ khác nhau trong suốt thời kỳ này với đường phân chia giữa hai bán cầu.
+Lý do cho sự chênh lệch này là do một bán cầu chủ yếu được bao phủ bởi nước trong 400 triệu năm qua, trong khi bán cầu kia vẫn được cách nhiệt bởi đất liền. Các nhà nghiên cứu đã đặt tên cho các bán cầu này là bán cầu Thái Bình Dương do thực tế là nó bao gồm phần lớn Thái Bình Dương và bán cầu châu Phi, bao gồm các lục địa của châu Phi, châu Âu và châu Á.
+Bằng cách chia nhỏ mỗi bán cầu thành các đơn vị giống như lưới, mỗi bán cầu trải dài một nửa vĩ độ và kinh độ, các nhà nghiên cứu có thể tính toán tốc độ mất nhiệt xảy ra trên từng khu vực khi các mảng kiến tạo dịch chuyển.
+Khi làm như vậy, họ xác định rằng bán cầu Thái Bình Dương đã lạnh hơn 223 độ so với bán cầu châu Phi trong 400 triệu năm qua.
+Điều này có lẽ không có gì đáng ngạc nhiên vì bán cầu châu Phi luôn được cách ly bởi siêu lục địa Pangea, sau này chia cắt thành lục địa châu Phi và Á-Âu. Ngược lại, bán cầu Thái Bình Dương đã từng là một thế giới nước trong khoảng một tỷ năm qua, do đó đã cho phép lượng nhiệt tản ra nhiều hơn.
+Tuy nhiên, đáng kinh ngạc là các tác giả nghiên cứu nhận thấy bán cầu Thái Bình Dương trên thực tế nóng hơn bán cầu châu Phi, mặc dù tốc độ nguội nhanh hơn. Bằng cách giải thích này, các nhà khoa học đề xuất rằng phần lớn lớp phủ Thái Bình Dương đã từng được cách nhiệt bởi một siêu lục địa tồn tại lâu đời có tên là Rondinia, đã giữ lại rất nhiều nhiệt trước khi nó tan vỡ khoảng một tỷ năm trước.
+Do đó, có thể nhiệt bị giữ lại bởi lớp cách nhiệt cổ xưa này vẫn chưa tản hết và tiếp tục ảnh hưởng đến nhiệt độ bên trong của bán cầu Thái Bình Dương.
+Trang Phạm
+Theo IFL Science

@@ -1,0 +1,22 @@
+# doc_id = news_tech_228
+# url = https://dantri.com.vn/suc-manh-so/thu-thuat-giup-tiet-kiem-dung-luong-bo-nho-tren-smartphone-noi-bat-tuan-qua-20210411035958441.htm
+# date = 20210411
+Những thủ thuật giúp tiết kiệm dung lượng bộ nhớ trên smartphone
+Phần lớn smartphone ngày nay đều được trang bị bộ nhớ dung lượng lớn; tuy nhiên, ngày càng nhiều smartphone không còn hỗ trợ khe cắm thẻ nhớ ngoài. Bên cạnh đó, quay video chất lượng 4K hoặc chụp ảnh với độ phân giải lớn sẽ chiếm rất nhiều không gian lưu trữ trên smartphone.
+Bài viết được Dân trí giới thiệu tại đây sẽ cung cấp cho bạn một vài cách thức đơn giản nhằm thu hồi dung lượng lưu trữ bị lãng phí trên smartphone hoặc giải phóng bộ nhớ, giúp có thêm không gian lưu trữ những dữ liệu quan trọng trên thiết bị.
+Mẹo hay biến gương mặt của chính bạn thành sticker hài hước trên smartphone
+Sẽ thật thú vị và ấn tượng nếu bạn tự biến gương mặt của chính mình hoặc của bạn bè, người thân, thành các nhãn dán độc đáo, "không đụng hàng" để sử dụng khi nhắn tin hoặc bình luận trên mạng xã hội.
+Mirror:emojii mememaker (gọi tắt là Mirror) là ứng dụng cho phép người dùng tạo ra các sticker hài hước và độc đáo từ gương mặt của chính mình. Ứng dụng sẽ cho phép người dùng chụp một bức ảnh selfie hoặc chọn một hình ảnh sẵn có trên smartphone, sau đó tự động nhận diện gương mặt có trong ảnh và ghép gương mặt đó vào những sticker cực hài hước. Bạn cũng có thể tùy biến để thay đổi màu da, kiểu tóc... sao cho phù hợp nhất, nhưng nét mặt vẫn được giữ nguyên như của chính bạn.
+Ứng dụng có cả phiên bản dành cho Android lẫn iOS, bạn đọc có thể tìm và tải Mirror từ CH Play và App Store, hoặc download ứng dụng trực tiếp tại đây hoặc tại đây (tương thích Android 5.0 trở lên) hoặc phiên bản dành cho iOS tại đây (tương thích iOS 11.0 trở lên).
+Ứng dụng có giao diện hoàn toàn bằng tiếng Việt nên rất dễ dàng và thuận tiện khi sử dụng. Xem hướng dẫn cách dùng ứng dụng đã được Dân trí giới thiệu tại đây.
+Thủ thuật tối ưu bộ nhớ RAM giúp máy tính hoạt động mượt mà hơn
+Sau một thời gian dài sử dụng, máy tính thường rơi vào tình trạng ì ạch, nhất là khi chạy cùng lúc quá nhiều phần mềm hoặc chạy các phần mềm nặng (như phần mềm đồ họa xử lý ảnh, video…). Tình trạng thường gặp phải với những máy có cấu hình yếu, bộ nhớ RAM khiêm tốn.
+Trong trường hợp máy tính của bạn hoạt động ì ạch và thường xuyên gặp phải tình trạng quá tải, phần mềm với tên gọi Memory Cleaner sẽ là một giải pháp để xử lý vấn đề.
+Memory Cleaner là phần mềm nhỏ gọn và miễn phí, sẽ tự động tối ưu và giải phóng dung lượng bộ nhớ RAM trên máy tính, giúp máy tính hoạt động mượt mà và nhẹ nhàng hơn, ngay cả khi đang chạy các phần mềm nặng hay chạy đồng thời nhiều phần mềm khác nhau.
+Trong quá trình thử nghiệm thực tế cho thấy Memory Cleaner hoạt động rất hiệu quả, nhất là với những máy tính có bộ nhớ RAM khiêm tốn (từ 8GB trở xuống). Phần mềm sẽ thực sự phát huy hiệu quả và tác dụng của mình khi bộ nhớ RAM bị chiếm dụng nhiều hơn 80% tổng dung lượng.
+Ưu điểm lớn nhất của Memory Cleaner đó là rất nhỏ gọn và hoạt động nhẹ nhàng, chiếm dụng ít tài nguyên hệ thống, do vậy hoàn toàn không làm ảnh hưởng đến hiệu suất của máy tính khi cài đặt và sử dụng phần mềm này.
+Phần mềm hỗ trợ mọi phiên bản của hệ điều hành Windows, download miễn phí tại đây. Xem hướng dẫn cách dùng phần mềm đã được Dân trí giới thiệu tại đây.
+Cách kiểm tra tài khoản Facebook có bị lộ thông tin hay không
+Đầu tuần trước, 533 triệu người dùng Facebook, bao gồm cả CEO Mark Zuckerberg của mạng xã hội này, đã bị đăng tải công khai lên một diễn đàn dành cho tin tặc. Những thông tin cá nhân này có thể bị tội phạm mạng lợi dụng để mạo danh, cho các mục đích lừa đảo hoặc cho các chiến dịch spam email, tin nhắn…
+Bạn đọc có thể thực hiện theo hướng dẫn của Dân trí tại đây để kiểm tra xem tài khoản Facebook của mình có nằm trong số 533 triệu người dùng bị hacker lấy cắp thông tin hay không, để có phương án xử lý phù hợp, như thay đổi mật khẩu, kích hoạt bảo mật 2 lớp cho tài khoản Facebook…
+Quang Huy

@@ -1,0 +1,14 @@
+# doc_id = news_science_087
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/em-be-dau-tien-tren-the-gioi-co-khang-the-covid-19-ngay-sau-khi-chao-doi-20210320054608748.htm
+# date = 20210320
+"Đây là trường hợp đầu tiên trên thế giới được báo cáo về việc một em bé được sinh ra với kháng thể sau khi người mẹ tiêm vắc xin", bác sĩ nhi khoa Paul Gilbert cho biết.
+Báo cáo của các chuyên gia giải thích rằng sự an toàn và hiệu quả của việc tiêm phòng cúm cho người mang thai đã được nghiên cứu kỹ lưỡng về mặt bảo vệ trẻ sơ sinh bằng cách truyền kháng thể qua nhau thai.
+Tuy nhiên, không có nhiều thông tin về việc tiêm chủng Covid-19 và việc chuyển giao các kháng thể SARS-CoV-2 trong thời kỳ mang thai nên phát hiện mới này là rất đáng quan tâm.
+"Chúng tôi đã xét nghiệm máu của đứa trẻ để xem liệu các kháng thể từ mẹ có truyền sang con hay không", Gilbert nói.
+Sau khi xét nghiệm máu từ cuống rốn của đứa trẻ lúc mới sinh, các bác sĩ đã phát hiện có kháng thể SARS-CoV-2.
+Điều thú vị là một nghiên cứu trước đó cũng đã tìm thấy kháng thể Covid-19 có trong sữa mẹ từ những bà mẹ đã khỏi bệnh nên họ suy đoán có thể truyền kháng thể sang trẻ sơ sinh thông qua cơ chế này.
+Tuy nhiên, các tác giả nghiên cứu nhấn mạnh rằng hiện tại vẫn chưa biết các kháng thể sẽ bảo vệ trẻ sơ sinh tốt như thế nào hoặc khi nào là tốt nhất để tiêm chủng trong thời kỳ mang thai để truyền miễn dịch tốt nhất cho thai nhi.
+"Đây là một trường hợp rất nhỏ trong số hàng nghìn hàng nghìn trẻ sinh ra từ những bà mẹ đã được tiêm vắc xin trong vài tháng tới", các chuyên gia cho biết.
+Sẽ cần phải tiến hành thêm nhiều cuộc điều tra để xem liệu các kháng thể có thực sự phổ biến ở hầu hết trẻ sinh ra từ mẹ và những người mang thai đã được tiêm vắc xin Covid-19 hay không, cũng như xem xét liệu có thể có bất kỳ sự khác biệt nào tùy thuộc vào loại vắc xin đó hay không.
+Trang Phạm
+Theo IFL Science

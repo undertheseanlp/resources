@@ -1,0 +1,23 @@
+# doc_id = news_tech_167
+# url = https://dantri.com.vn/suc-manh-so/neu-dn-khong-tu-xay-uoc-mo-thi-dn-khac-se-thue-ban-de-xay-uoc-mo-cua-ho-20210416151111757.htm
+# date = 20210416
+Sáng nay 16/4, nền tảng họp trực tuyến eMeeting chính thức được giới thiệu tại "Diễn đàn thách thức công nghệ số Việt Nam" do Bộ Thông tin và Truyền thông (TT&TT) tổ chức.
+Tại số thứ 2 của Diễn đàn, Thứ trưởng Bộ TT&TT Nguyễn Huy Dũng nhấn mạnh vào từ khóa "khát vọng", cho rằng đây là điều kiện tiên quyết để doanh nghiệp Việt và cùng Bộ TT&TT hiện thực hóa mục tiêu chuyển đổi số quốc gia.
+"Những mục tiêu lớn, hoài bão lớn luôn bắt nguồn từ khát vọng", Thứ trưởng cho biết. "Càng có nhiều thử thách thì càng chứng minh khát vọng đó là đúng, vì đó là khát vọng được tạo nên từ nỗi đau thực sự".
+Một trong những nỗi đau ấy, có lẽ, đến từ chính những doanh nghiệp Việt Nam - những người luôn đau đáu mang đến giải pháp cho người Việt, nhưng lại không được thị trường đón nhận, và thậm chí bị cười nhạo. Bkav có lẽ hiểu điều này hơn bất cứ ai.
+Thứ trưởng Bộ TT&TT Nguyễn Huy Dũng phát biểu tại sự kiện. Ảnh: Nguyễn Nguyễn
+eMeeting được phát triển bởi sự hợp tác giữa Tập đoàn AIC và Tập đoàn Bkav, với đầy đủ các tính năng cần thiết của cuộc họp như quản lý, điều hành cuộc họp, biểu quyết, đặt lịch, nhắc lịch, chia sẻ tài liệu, chia sẻ màn hình,...
+Tính đến nay, eMeeting đã được quốc hội sử dụng trong thời gian dịch Covid-19, cũng như mang lại giải pháp học trực tuyến cho học sinh, họp trực tuyến cho doanh nghiệp,...
+Nền tảng Việt "thất thế" trên sân nhà
+Khi nói đến nền tảng họp trực tuyến, có lẽ nhiều người sẽ ngay lập tức nhắc tới Zoom, Skype, hay Google Meet. Số liệu cũng cho thấy các phần mềm này luôn thắng thế trên bảng xếp hạng.
+Theo ông Vũ Ngọc Sơn, Phó Chủ tịch Tập đoàn công nghệ Bkav, thực ra nhiều nền tảng "Make in Việt Nam" hiện nay không hề thua kém các đối thủ ngoại trên thị trường, thậm chí còn nổi trội hơn về mặt tính năng.
+ông Vũ Ngọc Sơn, Phó Chủ tịch Tập đoàn công nghệ Bkav giới thiệu về các tính năng của nền tảng họp trực tuyến eMeeting. Ảnh: Nguyễn Nguyễn
+Điển hình là giải pháp eMeeting do Bkav và AIC hợp tác, tính đến nay đã hoàn toàn đáp ứng đầy đủ các tính năng cần thiết cho một ứng dụng họp trực tuyến, nhưng lại có tập người dùng chưa cao.
+Theo ông Sơn, nguyên nhân của vấn đề có thể là do khâu marketing, giới thiệu các giải pháp "thuần Việt" vẫn chưa đủ tốt, nên chưa tiếp cận được với tập người dùng rộng lớn.
+Bên cạnh đó, cũng không thể không nhắc tới tâm lý thích dùng hàng "ngoại" của người Việt Nam, với tâm thế cho rằng giải pháp nước ngoài thì luôn tốt hơn sản phẩm trong nước.
+Đại diện của Bkav cho rằng quan niệm này là không thật sự chính xác, thậm chí là ngược lại, vì ngày nay, có rất nhiều vấn đề của người Việt chỉ được giải quyết bằng các nền tảng gốc Việt. Trong khi đó, các nền tảng ngoại thường là không thể đáp ứng, hoặc chưa đủ tốt.
+Trong lĩnh vực họp trực tuyến, ông Sơn chỉ ra 4 ưu điểm mà eMeeting nổi trội hơn các đối thủ nước ngoài, bao gồm có chi phí đầu tư ban đầu thấp, không cần kỹ thuật viên hỗ trợ, kết nối số điểm cầu tùy ý, và có thể họp trong điều kiện sóng di động không đủ mạnh.
+Theo ông Sơn, ngay cả khi dịch bệnh Covid-19 được dập tắt, thì xu thế họp, học trực tuyến sẽ vẫn phát triển tại Việt Nam. Do đó, nền tảng eMeeting sẽ luôn có "đất" để phát triển, và hướng tới tập khách hàng là doanh nghiệp, cơ quan, tổ chức,...
+Tại sự kiện, Thứ trưởng Nguyễn Huy Dũng đã kêu gọi các doanh nghiệp Việt Nam, đặc biệt là các doanh nghiệp công nghệ số, rằng hãy tự tạo cho mình những giấc mơ lớn, những suy nghĩ lớn để tự thay đổi tương lai, vận mệnh của mình và của quốc gia.
+"Nếu các doanh nghiệp không tự xây ước mơ của mình thì người khác sẽ thuê các bạn để xây ước mơ của họ", Thứ trưởng cho biết.
+Nguyễn Nguyễn

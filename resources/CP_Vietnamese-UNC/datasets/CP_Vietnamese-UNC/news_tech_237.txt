@@ -1,0 +1,17 @@
+# doc_id = news_tech_237
+# url = https://dantri.com.vn/suc-manh-so/toi-nhan-tin-nhan-lua-dao-tu-vietin-banh-20210416002826848.htm
+# date = 20210416
+Tối 15/4, nhiều người dùng phản ánh rằng họ nhận được tin nhắn lừa đảo từ brandname "VietinBanh".
+"Chúng tôi phát hiện tài khoản của bạn đang tiêu dùng ở nước ngoài. Nếu không phải bạn đang tiêu dùng vui lòng nhấp vào https://vietinbank-ipay.com để hủy thanh toán", nội dung tin nhắn với brandname "Vietinbanh" mà các nạn nhân nhận được.
+Tin nhắn lừa đảo với brandname "VietinBanh".
+Không khó để nhận thấy, nội dung của tin nhắn trên nhằm mục đích chiếm đoạt mật khẩu cũng như tài khoản ngân hàng của người dùng. Tuy nhiên, có vẻ như lần này các đối tượng lừa đảo đã bất cẩn khi mạo danh ngân hàng Vietinbank nhưng để phần brandname bị sai chính tả.
+"Ban đầu, tôi cảm thấy hơi hoang mang khi nhận được thông báo này. Tuy nhiên, khi nhìn kỹ vào đầu số gửi đến, tôi mới phát hiện ra điều không đúng. Đầu số gửi tin nhắn là "Vietinbanh" chứ không phải "Vietinbank". Tôi xác định rằng đây là tin nhắn lừa đảo nên không truy cập theo đường link đó", chị Hạ Phương, một nhân viên văn phòng tại TP.HCM chia sẻ với Dân trí.
+Hiện tại, theo thử nghiệm của phóng viên Dân trí, trang web trên đã không thể truy cập được.
+Chưa dừng lại ở đó, trong vài ngày gần đây, nhiều người dùng ngân hàng Vietinbank cũng cho biết rằng họ liên tục nhận phải những tin nhắn lừa đảo với mục đích chiếm đoạt tài khoản cũng như mật khẩu thanh toán.
+"Tài khoản của bạn đã mở dịch vụ tài chính toàn cầu phí dịch vụ hàng tháng là 2.000.000 VND sẽ bị trừ trong 2 giờ. Nếu không phải bạn mở dịch vụ vui lòng nhấn vào https://vietinbank-vips.com để hủy", nội dung của một tin nhắn lừa đảo khác mà người dùng nhận được.
+Vài tháng trở lại đây, nhiều người dùng tại Việt Nam đã bị tấn công bởi các tin nhắn giả mạo có brandname ngân hàng. Trước Vietinbank, một số khách hàng của Vietcombank, TPbank, ACB, Sacombank cũng đã phản ánh về tình trạng tương tự.
+SMS Brandname là dịch vụ tin nhắn hiển thị tên các tổ chức, doanh nghiệp, gửi đến thuê bao di động của người dùng. Tuy nhiên, lợi dụng lỗ hổng của dịch vụ SMS Brandname, các đối tượng lừa đảo đã chiếm đoạt tiền trong tài khoản ngân hàng của không ít người dùng trong thời gian qua.
+Thời gian gần đây, nhiều người dùng phản ánh rằng họ liên tục nhận được những tin nhắn lừa đảo nhằm mục đích chiếm đoạt tài khoản và mật khẩu thanh toán.
+Ngân hàng Vietcombank cho biết thời gian gần đây liên tục xuất hiện hình thức lừa đảo mới nhằm đánh cắp thông tin dịch vụ ngân hàng và qua đó chiếm đoạt tiền trong tài khoản ngân hàng của khách hàng. Phương thức chung của hình thức lừa đảo này là thông qua việc mạo danh ngân hàng hoặc nhân viên ngân hàng để yêu cầu khách hàng cung cấp thông tin bảo mật tài khoản dịch vụ.
+"Vietcombank không yêu cầu khách hàng cung cấp thông tin cá nhân qua các kênh như SMS, email, phần mềm chat,... Do đó, quý khách tuyệt đối không bấm vào các đường link này. Trong trường hợp, đã bấm vào đường link, quý khách tuyệt đối không cung cấp thông tin bảo mật tài khoản, dịch vụ ngân hàng số,... hay bất cứ thông tin cá nhân nào khác", Vietcombank thông báo trong một email gửi tới khách hàng.
+Thế Anh

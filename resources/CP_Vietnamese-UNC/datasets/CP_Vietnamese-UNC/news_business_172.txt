@@ -1,0 +1,20 @@
+# doc_id = news_business_172
+# url = https://dantri.com.vn/kinh-doanh/nhan-dien-nhom-dai-gia-thang-lon-nhat-trong-con-song-chung-khoan-20210422134611045.htm
+# date = 20210422
+CTCP Chứng khoán VnDirect (VND) vừa công bố báo cáo tài chính riêng quý I/2021 với lợi nhuận sau thuế tăng 8,2 lần so với cùng kỳ năm trước lên 482 tỷ đồng.
+Lý giải điều này, VnDirect cho biết kết thúc phiên giao dịch cuối cùng của quý I, chỉ số VN-Index đạt 1.186,36 điểm, tăng 83,36 điểm (tương đương mức tăng 7,56%). Điều này dẫn tới việc gia tăng mạnh lợi nhuận từ các khoản đầu tư tài sản tài chính ghi nhận thông qua lãi/lỗ (FVTPL).
+Bên cạnh đó, tổng giá trị giao dịch của nhà đầu tư trong quý I tăng hơn 80% so với cùng kỳ năm trước đã giúp cho doanh thu hoạt động môi giới tăng trưởng mạnh.
+Việc tiếp tục duy trì tốc độ tăng trưởng tài khoản mở mới cũng là yếu tố quan trọng giúp VnDirect đạt được thành tích kinh doanh tích cực. Công ty chứng khoán này ghi nhận trên 65.000 tài khoản mới trong quý I/2021, tăng trưởng 180% so với cùng kỳ năm trước, nâng tổng số tài khoản công ty này đang quản lý lên đến 460.000 tài khoản.
+Dòng tiền tỷ USD đổ vào chứng khoán mỗi ngày.
+CTCP Chứng khoán SSI (SSI) của ông Nguyễn Duy Hưng cũng ghi nhận lợi nhuận tăng vọt. Theo đó, lợi nhuận trước thuế trong quý I đạt 528,2 tỷ đồng, tăng gấp 34 lần so với cùng kỳ năm 2020.
+Theo SSI, trong quý I, giá trị giao dịch bình quân phiên trên thị trường chứng khoán đạt trên 15,5 nghìn tỷ đồng/phiên, tăng tới 302% so với cùng kỳ quý I/2020. Theo Trung tâm lưu ký chứng khoán Việt Nam (VSD), lượng tài khoản mở mới đạt 255.000 tài khoản. Riêng trong tháng 3, số tài khoản mở mới đạt mức kỷ lục 113.191 tài khoản.
+Trong bối cảnh dòng tiền margin từ các nhà đầu tư nội là động lực quan trọng giúp thị trường đứng vững trước áp lực bán ròng của khối ngoại, SSI tiếp tục là công ty chứng khoán có mức tăng trưởng dư nợ cho vay ấn tượng với mức bình quân trong quý I/2021 đạt hơn 10.000 tỷ đồng, tăng 68% so với bình quân quý IV/2020 và 110% so với cùng kỳ năm ngoái.
+Doanh thu từ hoạt động môi giới chứng khoán đạt 696,1 tỷ đồng, lợi nhuận đạt 318,6 tỷ đồng, tăng trưởng 276,2% so với cùng kỳ. Hoạt động đầu tư SSI tiếp tục gặt hái thành công trong quý I/2021 với doanh thu đạt 599,6 tỷ đồng, lợi nhuận 106,8 tỷ, tăng trưởng 157,8%.
+Các cổ phiếu chứng khoán cũng tăng mạnh, gấp dăm ba lần so với đáy hồi tháng 3/2020. Nhóm các cổ phiếu hấp dẫn các nhà đầu tư bao gồm: SSI, HCM, VCI, VND,...
+Như vậy, có thể thấy, lợi nhuận của các công ty chứng khoán tăng mạnh, phần lớn đến từ đầu tư và phí môi giới do thanh khoản tăng vọt. Cho vay margin là một trong những hoạt động cốt lõi, hái ra tiền của các công ty chứng khoán.
+Tuy nhiên, trong cơn khát margin của làn sóng nhà đầu tư F0, những rủi ro cũng bắt đầu xuất hiện. Thống kê cho thấy, dư nợ cho vay tính tới cuối quý I đã lên tới cả trăm nghìn tỷ đồng, một kỷ lục trên TTCK Việt Nam.
+Một số công ty đạt mức cho vay margin trên dưới 10 nghìn tỷ đồng như Mirae Asset, SSI, HSC… Một số công ty đã vượt quá tỷ lệ 2 lần giữa tổng dư nợ cho vay ký quý/vốn chủ sở hữu.
+Trên thị trườngchứng khoán (TTCK), VN-Index giảm nhẹ gần 2 điểm xuống ngưỡng 1.265 điểm.
+Theo SHS, do thị trường đóng cửa được trên ngưỡng 1.250 điểm trong hai phiên liên tiếp của tuần này nên xác suất để thị trường nối dài sóng tăng 5 lên ngưỡng 1.325 điểm hoặc chuyển sang sóng điều chỉnh với target quanh 1.135 điểm đang được đánh giá ngang nhau. Do đó, trong phiên giao dịch tiếp theo 22/4, thị trường có thể tiếp tục rung lắc trước áp lực chốt lời của nhà đầu tư. Ngưỡng hỗ trợ gần nhất quanh 1.225 điểm (MA20) sẽ là ngưỡng để các nhà đầu tư kỳ vọng sóng tăng 5 tiếp tục trailing stop trong giai đoạn này.
+Đóng cửa phiên giao dịch ngày 20/4, chỉ số VN-Index tăng 7,7 điểm lên 1.268,28 điểm; HNX-Index tăng 0,73 điểm lên 296,48 điểm. Upcom-Index giảm 0,27 điểm xuống 81,73 điểm. Thanh khoản đạt 25,8 nghìn tỷ đồng.
+Theo V. HàVietnamNet

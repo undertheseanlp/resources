@@ -1,0 +1,27 @@
+# doc_id = news_science_188
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/phat-hien-thu-vi-ve-nhung-con-mua-tren-cac-hanh-tinh-khac-20210428061826105.htm
+# date = 20210428
+Các nhà khoa học càng biết nhiều về các đám mây và lượng mưa trên các hành tinh khác, họ càng có thể dự đoán tốt hơn khí hậu trên hành tinh đó, như sao Hỏa hoặc mặt trăng Titan của sao Thổ.
+Giờ đây, các nhà nghiên cứu đã xác định rằng họ có thể tính toán các khía cạnh của hạt mưa trên các hành tinh và mặt trăng khác trong hệ mặt trời của chúng ta, bao gồm hình dạng, tốc độ rơi và tốc độ bay hơi của chúng
+Dựa trên nghiên cứu này, các nhà khoa học đã có thể xác định rằng các hạt mưa tồn tại trong một phạm vi kích thước hẹp khi chúng rơi từ các đám mây xuống bề mặt, bất kể thành phần hay các bầu khí quyển hoặc môi trường khác nhau mà chúng tồn tại.
+Nghiên cứu này được công bố tuần trước trên Tạp chí Nghiên cứu Địa vật lý: Các hành tinh của Liên minh Địa vật lý Hoa Kỳ .
+Những cơn mưa kì lạ
+Mưa mà chúng ta gặp trên Trái đất bao gồm các giọt nước. Mưa axit sulfuric hình thành trong bầu khí quyển của Sao Kim nhưng bốc hơi trước khi có thể chạm đất. Carbon dioxide (CO2,) hay băng khô, rơi xuống như tuyết trên sao Hỏa. Sao Mộc đã được biết đến với mưa heli, mưa đá amoniac "hỗn hợp" và mưa mêtan (CH4) trên mặt trăng Titan. Những cơn mưa liên tục gồm những viên kim cương nhỏ, lấp lánh có thể rơi xuống Sao Hải Vương.
+Trên các hành tinh bên ngoài hệ mặt trời của chúng ta, được gọi là ngoại hành tinh, các nhà khoa học tin rằng mưa ở đó còn thú vị hơn chúng ta tưởng tượng.
+Hành tinh khổng lồ khí cực nóng được gọi là WASP-76b, là nơi có những giọt mưa sắt từ trên trời rơi xuống vào ban đêm.
+Cho dù những loại mưa này có thể khác nhau đến mức nào, các nhà khoa học đã xác định rằng kích thước của các hạt mưa bị chi phối bởi sức hút của lực hấp dẫn của hành tinh. Lực hấp dẫn càng mạnh thì kích thước của hạt mưa càng nhỏ. Nhiệt độ, áp suất không khí, độ ẩm tương đối và khoảng cách với mặt đất cũng là các yếu tố chi phối kích thước hạt mưa.
+Ví dụ, các hạt mưa có thể có bán kính chỉ từ 0,1 mm đến vài mm trên các hành tinh đá như Trái đất hoặc sao Hỏa và vẫn tiếp cận được bề mặt của hành tinh.
+Những hạt mưa quá nhỏ sẽ bay hơi trước khi chạm đất. Hạt mưa quá lớn sẽ vỡ ra thành những hạt mưa nhỏ hơn. Bất kể thành phần khí quyển của hành tinh hay thành phần của mưa, các hạt mưa sẽ di chuyển theo một cách tương tự.
+Phạm vi kích thước phát triển trên các loại hành tinh khác, đạt tối đa từ một nửa đến sáu lần kích thước hạt mưa trên Trái đất.
+Kích thước tối đa của một hạt mưa trên Trái đất là 11,18 milimet - chỉ hơn đường kính của một viên Advil (một viên thuốc hạ sốt của Mỹ) trong khi kích thước tối đa trên Titan gấp hơn hai lần là 29,96 milimet, lớn hơn một đồng xu bình thường
+Kaitlyn Loftus, một nghiên cứu sinh tại Khoa Trái đất và Hành tinh của Đại học Harvard, cho biết: "Có một phạm vi khá nhỏ về kích thước ổn định mà những hạt mưa có thành phần khác nhau này có thể có; về cơ bản chúng đều bị giới hạn ở cùng kích thước tối đa".
+Khả năng về sự sống ở các hành tinh
+Nghiên cứu này không chỉ cung cấp cái nhìn sâu sắc về các hành tinh trong hệ mặt trời của chúng ta mà còn cả những hành tinh bên ngoài nó. Mô hình toán học và vật lý từ nghiên cứu có thể được sử dụng để lập mô hình lượng mưa trên các hành tinh đồng thời giúp con người hiểu rõ hơn những hiện tượng xảy ra trên các hành tinh khác.
+Mưa trên các hành tinh khác giúp xác định liệu chúng có, hay có khả năng sinh sống được hay không.
+"Vòng đời của các đám mây thực sự quan trọng khi chúng ta nghĩ về khả năng sinh sống của hành tinh," ông Loftus nói. "Những đám mây và lượng mưa thực sự rất phức tạp để có thể mô hình hóa hoàn toàn. Chúng tôi đang tìm những cách đơn giản hơn để hiểu cách các đám mây phát triển và bước đầu tiên là liệu các giọt mây bay hơi trong khí quyển hay nổi lên bề mặt dưới dạng mưa".
+Hiểu được kích thước của hạt mưa là chìa khóa để hiểu khí hậu vì điều đó quyết định liệu mưa có đến được bề mặt hành tinh hay không.
+Tác giả nghiên cứu cấp cao Robin Wordsworth, phó giáo sư khoa học và kỹ thuật môi trường tại Trường Kỹ thuật và Khoa học Ứng dụng Harvard John A. Paulson, cho biết: "Hạt mưa nhỏ là một thành phần quan trọng của chu kỳ mưa đối với tất cả các hành tinh. Nếu chúng ta hiểu cách hoạt động của các hạt mưa riêng lẻ, chúng ta có thể thể hiện tốt hơn lượng mưa trong các mô hình khí hậu phức tạp".
+Ngay cả khi chất liệu của hạt mưa khác nhau, hình dạng phần lớn là giống nhau. Các giọt bắt đầu giống như những quả cầu nhỏ, lớn dần về thể tích khi chúng hình thành trong các đám mây, dẫn đến hình dạng nửa vòng tròn.
+Ông Wordsworth nói rằng: "Những hiểu biết mà chúng ta có được khi nghĩ về những hạt mưa và những đám mây trong các môi trường đa dạng là chìa khóa để hiểu được khả năng sinh sống của các hành tinh ngoài hành tinh. Về lâu dài, chúng cũng có thể giúp chúng ta hiểu sâu hơn về khí hậu của chính Trái đất".
+Phước Hải
+Tổng hợp

@@ -1,0 +1,8 @@
+# doc_id = news_health_140
+# url = https://dantri.com.vn/suc-khoe/hung-yen-hai-nguoi-duong-tinh-sarscov-2-tiep-xuc-ca-covid-19-o-ha-nam-20210429222001468.htm
+# date = 20210429
+Cụ thể, hai trường hợp này sống tại xã Tiên Tiến, huyện Phù Cừ, Hưng Yên. Bà S. đưa con về thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân, Hà Nam thăm mẹ ruột. Tại đây hai mẹ con tiếp xúc gần với bệnh nhân 2899, là hàng xóm. Sau khi Hà Nam báo cáo các trường hợp liên quan, Hưng Yên đã truy vết, đưa mẹ con bà S. đi cách ly tập trung và lấy mẫu xét nghiệm.
+Bước đầu, huyện Phù Cừ thông báo đã xác định được 16 trường hợp F1 tiếp xúc gần với mẹ con bà S.
+Ca bệnh 2899 là nam, 28 tuổi, từ Nhật Bản về Việt Nam ngày 7/4 vừa qua, hoàn thành cách ly tập trung tại Đà Nẵng vào ngày 21/4 với 3 lần xét nghiệm âm tính. Ngày 22/4, bệnh nhân về quê tại xã Đạo Lý, huyện Lý Nhân, Hà Nam.
+Tuy nhiên sau khi về địa phương, bệnh nhân đã tiếp xúc với rất nhiều người, đến tối nay đã xác định được 113 F1, hơn 300 F2. Trong đó Bộ Y tế đã công bố 5 ca F1 trở thành bệnh nhân, trong đó có bố, mẹ, vợ, con bệnh nhân 2899 và 1 trường hợp ở TP. HCM.
+Nam Phương

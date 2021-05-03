@@ -1,0 +1,25 @@
+# doc_id = news_health_266
+# url = https://dantri.com.vn/suc-khoe/virus-viem-gan-b-ke-thu-sieu-nho-thach-thuc-y-hoc-the-gioi-20210423165629319.htm
+# date = 20210423
+Loại virus có thể sống khỏe ở - 20 độ C
+Được nhận biết lần đầu tiên vào năm 1970 qua kính hiển vi điện tử, loại virus này có đường kính 42nm, được gọi tên là virus viêm gan B (hepatitis B virus- HBV).
+Mặc dù có kích thước cực nhỏ, virus viêm gan B có một lớp vỏ rất chắc chắn để bảo vệ nên có thể sống trong thiên nhiên rất lâu mà không bị thay đổi. Môi trường lạnh đến - 20 độ C kéo dài 15 năm không gây tác hại cho HBV. Nếu nhiệt độ xuống đến - 80 độ C, HBV có thể chịu đựng được 2 năm. Với điều kiện nhiệt độ bình thường trong phòng, HBV có thể sống được 6 tháng, và nếu như bị làm khô trong vòng từ 3 đến 4 tuần, HBV vẫn giữ nguyên được khả năng tàn phá tế bào gan khi xâm nhập vào cơ thể.
+HBVlà loại virus duy nhất có cấu trúc ADN có khả năng lây truyền qua đường máu, đường tình dục và từ mẹ sang con. Khi xâm nhập vào cơ thể, HBV nhân đôi trong tế bào gan và kích thích cơ thể tạo ra các đáp ứng miễn dịch. Đáp ứng miễn dịch này giúp cơ thể tiêu diệt và ngăn ngừa HBV tái nhiễm nhưng đồng thời cũng gây tổn thương tế bào gan.
+Nhiễm HBV vẫn còn là một vấn đề sức khỏe toàn cầu. Hiện nay, trên thế giới ước tính có trên 2 tỷ người đã từng hay đang bị nhiễm HBV, trong đó 75% là người châu Á. Hàng năm, có gần 1 triệu người chết do những bệnh lý liên quan đến nhiễm HBV. Theo các nghiên cứu gần đây, có khoảng 15-20% dân số nước ta nhiễm HBV.
+HBV thường được gọi là "kẻ giết người thầm lặng" bởi các biểu hiện khi nhiễm bệnh (đặc biệt khi nhiễm HBV mãn tính) rất mờ nhạt, khó nhận biết và dễ gây nhầm lẫn như: chán ăn, mệt mỏi, rối loạn tiêu hóa. Trong khi đó HBV tồn tại vẫn âm thầm hủy hoại các tế bào gan, gây nên xơ gan, ung thư gan và tử vong.
+Có các loại viêm gan B nào?
+Bệnh viêm gan B có 2 dạng:
+Viêm gan B cấp tính
+Bệnh viêm gan B cấp tính là khi virus viêm gan B chỉ tồn tại trong cơ thể người một thời gian ngắn dưới 6 tháng và đặc biệt là có thể chữa trị được dứt điểm.
+Các triệu chứng của viêm gan B cấp tính thường không rõ nét. Người bệnh thường có triệu chứng: biếng ăn, mệt mỏi do suy giảm chức năng gan và hệ tiêu hóa … Ngoài ra còn có một số triệu chứng khác như sốt, nôn mửa, cảm cúm và đau nhức ở gan, có thể bị nhức khớp.
+Khi mắc viêm gan B cấp tính, khoảng 90% người bệnh sẽ khỏi bệnh hoàn toàn mà không để lại di chứng gì. Khoảng 10% người mắc viêm gan B cấp tính sẽ chuyển thành viêm gan B mãn tính và có thể gặp những biến chứng nguy hiểm cho gan, thậm chí tử vong.
+Viêm gan B mãn tính
+Khác với bệnh viêm gan B cấp tính, viêm gan B mãn tính là khi virus viêm gan B tồn tại trong cơ thể người hơn 6 tháng. Giai đoạn viêm gan B mãn tính tiềm ẩn thường kéo dài rất lâu, thậm chí có thể từ 15-30 năm mà người bệnh ít có triệu chứng đặc biệt.
+Những biến chứng nguy hiểm của viêm gan B
+Khi virus viêm gan B xâm nhập vào cơ thể, sau một thời gian chức năng gan bị suy giảm nhanh chóng. Nếu không được phát hiện kịp thời viêm gan B có thể gây ra nhiều biến chứng nguy hiểm như suy gan, xơ gan, ung thư gan.
+- Suy gan: Khi virus tấn công cơ thể gây tổn thương tế bào gan dẫn tới suy gan. Khi bị suy gan, người bệnh có thể bị não gan, rối loạn đông máu. Nếu không điều trị kịp thời có thể dẫn tới tử vong.
+- Xơ gan: Là biến chứng của viêm gan B khi các tế bào gan bị viêm và tổn thương. Các mô xơ thay thế tế bào gan khiến chức năng gan dần bị mất đi, chức năng miễn dịch bị suy giảm khiến cơ thể dễ bị nhiễm khuẩn. Bên cạnh đó, xơ gan thường khó phát hiện, chỉ khi sức khỏe bị suy giảm nhanh chóng người bệnh mới phát hiện ra.
+- Ung thư gan: Đây là biến chứng nguy hiểm của xơ gan có thể dẫn tới tử vong. Các nghiên cứu đã chỉ ra rằng, những người bị viêm gan B có khả năng ung thư gan cao hơn khoảng 20 lần so với người khỏe mạnh.
+Viêm gan B rất nguy hiểm, nếu không có biện pháp điều trị kịp thời có thể dẫn tới bệnh nguy hiểm gây tử vong. Cho tới nay chưa có cách chữa trị đặc hiệu cho bệnh viêm gan B. Do đó, phòng bệnh hơn chữa bệnh, mọi người nên tiêm vắc xin phòng viêm gan B để phòng bệnh hiệu quả nhất.
+Minh Nhật
+Tổng hợp

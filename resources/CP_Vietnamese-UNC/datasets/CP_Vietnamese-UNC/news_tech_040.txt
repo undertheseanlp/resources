@@ -1,0 +1,14 @@
+# doc_id = news_tech_040
+# url = https://dantri.com.vn/suc-manh-so/apple-to-chuc-su-kien-ngay-76-trong-doi-xuat-hien-cua-kinh-thong-minh-20210331102731857.htm
+# date = 20210331
+Hình ảnh thông báo về sự kiện WWDC21 của Apple "úp mở" về sự tồn tại của kính thông minh?
+Hội nghị các nhà phát triển toàn cầu (WWDC) là sự kiện thường niên và được xem là sự kiện quan trọng nhất hàng năm của Apple, là dịp để "quả táo" giới thiệu những công nghệ và bộ phát triển phần mềm mới dành cho các nhà phát triển ứng dụng. Đây cũng là dịp để Apple giới thiệu một số sản phẩm mới của hãng, đặc biệt là phiên bản iOS mới nhất và các hệ điều hành khác như macOS, tvOS hay watchOS.
+Apple mới đây đã công bố WWDC 2021 sẽ diễn ra từ ngày 7/6 đến ngày 11/6, tức là sớm hơn 2 tuần so với năm ngoái và rút ngắn chỉ còn 5 ngày, thay vì kéo dài 7 ngày. Cũng như năm ngoái, do sự ảnh hưởng của đại dịch Covid-19, sự kiện WWDC năm nay sẽ được diễn ra dưới hình thức trực tuyến.
+Như vậy, thay vì phải mất 1.599 USD để mua vé tham dự sự kiện như trước đây, hàng triệu nhà phát triển ứng dụng của Apple trên toàn thế giới đã có thể tham gia và theo dõi trực tiếp sự kiện từ xa thông qua internet và hoàn toàn miễn phí.
+"Chúng tôi đang nỗ lực để biến WWDC21 trở thành sự kiện lớn nhất và tốt nhất của chúng tôi, đồng thời rất vui mừng được mang đến cho các nhà phát triển của Apple các công cụ mới để hỗ trợ họ khi họ tạo ra các ứng dụng thay đổi cách chúng ta sống, làm việc và giải trí", Susan Prescott, Phó chủ tịch phụ trách phát triển quan hệ toàn cầu của Apple, cho biết trong một thông cáo đưa ra.
+Phiên bản iOS mới vẫn luôn là "nhân vật chính" được quan tâm nhất tại WWDC của Apple, bởi lẽ Apple sẽ giới thiệu bản thử nghiệm của iOS mới tại mỗi kỳ WWDC cho các nhà phát triển ứng dụng. Dựa vào các tính năng mới trên iOS được Apple công bố tại WWDC, giới công nghệ cũng có thể dự đoán được những tính năng mới được Apple trang bị trên phiên bản iPhone sắp ra mắt.
+Ngoài iOS 15, các phiên bản hệ điều hành khác như iPadOS 15, watchOS 8, macoS 12 và tvOS 15 cũng sẽ được Apple giới thiệu tại sự kiện này.
+Đặc biệt, bên cạnh các phiên bản hệ điều hành mới, giới công nghệ dự đoán rằng Apple sẽ cho ra mắt chiếc kính thông minh hoặc kính thực tế ảo do hãng phát triển tại WWDC năm nay. Thông tin về chiếc kính thông minh của Apple đã từng nhiều lần xuất hiện dưới dạng tin đồn, nhưng đến nay sản phẩm vẫn chưa được ra mắt.
+Trong quá khứ, Apple cũng đã từng nhiều lần giới thiệu các sản phẩm mới của hãng tại các kỳ WWDC, do vậy, không loại trừ khả năng, WWDC21 sẽ là dịp để Apple tung ra chiếc kính thông minh đầu tiên của mình.
+Dẫu sao, mọi thông tin vẫn chỉ là đồn đoán. Có hay không sự tồn tại chiếc kính thông minh của Apple? Câu trả lời có thể sẽ được giải đáp vào ngày 7/6 tới đây.
+T.ThủyTheo The Verge/PA

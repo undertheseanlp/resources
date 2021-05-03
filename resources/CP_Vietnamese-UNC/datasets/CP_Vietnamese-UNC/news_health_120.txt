@@ -1,0 +1,11 @@
+# doc_id = news_health_120
+# url = https://dantri.com.vn/suc-khoe/ha-nam-them-2-ca-duong-tinh-lan-1-voi-sars-co-v-2-20210502074529020.htm
+# date = 20210502
+Sáng ngày 5/2, thông tin từ Trung tâm Kiểm soát bệnh tỉnh Hà Nam cho biết, kết quả xét nghiệm tính đến 21h ngày 1/5, đã có 2 mẫu bệnh phẩm có kết quả xét nghiệm dương tính lần 1 với SARS-CoV-2. Hai trường hợp dương tính với SARS-CoV-2 1 trường hợp ở xã Bắc Lý và 1 trường hợp ở xã Chân Lý, đều thuộc huyện Lý Nhân, tỉnh Hà Nam.
+Tính đến 21h ngày 1/5, đã có 2 mẫu bệnh phẩm có kết quả xét nghiệm dương tính lần 1 với SARS-CoV-2.
+Như vậy, đến thời điểm này, tổng số ca bệnh xác định được cộng đồng trên địa bàn tỉnh Hà Nam có liên quan đến ổ dịch tại thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân 12 trường hợp. Hiện 2 trường hợp vừa có kết quả lần 1 dương tính với SARS-CoV-2 đã được đưa đi cách ly điều trị.
+Hà Nam đã thiết lập vùng cách ly y tế đối với thôn 5 Đồng Yên, xã Chân Lý và thôn Nội Đọ, xã Bắc Lý, huyện Lý Nhân.
+Ban chỉ đạo phòng, chống dịch Covid-19 tỉnh Hà Nam cũng ban hành quyết định về việc thiết lập vùng cách ly y tế đối với thôn 5 Đồng Yên, xã Chân Lý và thôn Nội Đọ, xã Bắc Lý, huyện Lý Nhân phòng, chống dịch bệnh Covid-19.
+Theo đó, phạm vi vùng cách ly bao gồm toàn bộ thôn 5 Đồng Yên, xã Chân Lý, huyện Lý Nhân, tỉnh Hà Nam, với tổng số 320 hộ tương ứng 2.200 nhân khẩu và toàn bộ thôn Nội Đọ, xã Bắc Lý, huyện Lý Nhân gồm 169 hộ, tương ứng 537 nhân khẩu.
+Thời gian cách ly: Tối thiểu 14 ngày, kể từ 17h ngày 01/5/2021.
+Đức Văn

@@ -1,0 +1,29 @@
+# doc_id = news_health_238
+# url = https://dantri.com.vn/suc-khoe/toi-234-them-6-ca-covid-19-tai-5-dia-phuong-20210423181657853.htm
+# date = 20210423
+Tính từ 6h đến 18h ngày 23/4, nước ta có thêm 6 ca mắc Covid-19 (BN2825-2830) được cách ly ngay sau khi nhập cảnh tại Đà Nẵng (1), Bà Rịa - Vũng Tàu (1), Khánh Hòa (2), An Giang (1), TP HCM (1).
+Cụ thể:
+- CA BỆNH 2825 (BN2825) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nam, 37 tuổi, công dân Việt Nam, địa chỉ tại quận Hoàng Mai, Thành phố Hà Nội.
+Ngày 8/4, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Quốc tế Đà Nẵng trên chuyến bay VJ8679 và được cách ly ngay sau khi nhập cảnh tại Thành phố Đà Nẵng. Kết quả xét nghiệm ngày 22/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Phổi Đà Nẵng.
+- CA BỆNH 2826 (BN2826) ghi nhận tại tỉnh Bà Rịa - Vũng Tàu: Bệnh nhân nam, 50 tuổi, quốc tịch Philippines, là thuyền viên trên tàu di chuyển từ Trung Quốc đến tỉnh Bà Rịa - Vũng Tàu ngày 18/4.
+Đây là trường hợp được cách ly ngay trên tàu tại khu vực neo đậu Cảng vụ hàng hải Vũng Tàu. Kết quả xét nghiệm ngày 22/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Trung tâm Y tế huyện Long Điền.
+- CA BỆNH 2827 (BN2827) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nam, 37 tuổi, quốc tịch Ấn Độ, là chuyên gia.
+Bệnh nhân từ Ấn Độ quá cảnh Dubai, Hàn Quốc, sau đó nhập cảnh Sân bay Cam Ranh trên chuyến bay OZ773 ngày 20/4và được cách ly ngay sau khi nhập cảnh tại tỉnh Khánh Hòa. Kết quả xét nghiệm ngày 22/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới tỉnh Khánh Hòa.
+- CA BỆNH 2828 (BN2828) ghi nhận tại tỉnh An Giang: Bệnh nhân nam, 23 tuổi, công dân Việt Nam, địa chỉ tại huyện An Phú, tỉnh An giang.
+Ngày 20/4 bệnh nhân trên từ nước ngoài nhập cảnh tại Cửa khẩu Long Bình và được cách ly ngay sau khi nhập cảnh tại tỉnh An Giang. Kết quả xét nghiệm ngày 22/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Trung tâm y tế huyện An Phú, tỉnh An Giang.
+- CA BỆNH 2829 (BN2829) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nữ, 23 tuổi, công dân Việt Nam, địa chỉ tại huyện Long Điền, tỉnh Bà Rịa - Vũng Tàu.
+Bệnh nhân từ Nga nhập cảnh Sân bay Cam Ranh trên chuyến bay VN62 ngày 18/4 và được cách ly ngay sau khi nhập cảnh tại tỉnh Khánh Hòa. Kết quả xét nghiệm ngày 22/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới tỉnh Khánh Hòa.
+- CA BỆNH 2830 (BN2830) ghi nhận tại TP HCM: Bệnh nhân nữ, 27 tuổi, công dân Việt Nam, địa chỉ tại quận Hoàn Kiếm, Thành phố Hà Nội.
+Ngày 21/4, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Tân Sơn Nhất trên chuyến bay JL759 và được cách ly ngay sau khi nhập cảnh tại TPHCM. Kết quả xét nghiệm ngày 22/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Dã chiến Củ Chi.
+Tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 39.191, trong đó:
+- Cách ly tập trung tại bệnh viện: 518
+- Cách ly tập trung tại cơ sở khác: 23.688
+- Cách ly tại nhà, nơi lưu trú: 14.985.
+Về tình hình điều trị, theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế:
+- Số ca âm tính với SARS-CoV-2:
++ Lần 1: 12
++ Lần 2: 11
++ Lần 3: 17
+- Số ca tử vong: 35 ca.
+- Số ca điều trị khỏi: 2.490 ca.
+Nam Phương

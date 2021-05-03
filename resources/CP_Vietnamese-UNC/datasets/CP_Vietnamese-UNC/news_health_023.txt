@@ -1,0 +1,23 @@
+# doc_id = news_health_023
+# url = https://dantri.com.vn/suc-khoe/14-ca-mac-moi-covid-19-them-4-ca-lay-nhiem-cong-dong-tai-ha-nam-ha-noi-20210430180300708.htm
+# date = 20210430
+Bộ Y tế cho biết, 14 ca mắc mới (BN2915-2928), trong đó có 10 ca được cách ly ngay sau khi nhập cảnh tại TP. Hồ Chí Minh (2), Tây Ninh (1), Sóc Trăng (2), Bà Rịa - Vũng Tàu (5) và 4 ca ghi nhận trong nước tại Hà Nam (2), Hà Nội (2).
+Cụ thể, 4 ca lây nhiễm trong cộng đồng ở Hà Nội, Hà Nam gồm:
+- CA BỆNH 2917-2918 (BN2917-BN2918) ghi nhận tại Hà Nam: BN2917 là F1 (mợ ruột) của BN2908 - vợ của BN2899 và BN 2918 là F1 (cháu ruột) của BN2899, đều liên quan chùm ca bệnh tại Hà Nam. Hiện 2 bệnh nhân được cách ly, điều trị tại Bệnh viện Đa khoa tỉnh Hà Nam.
+Đến nay Hà Nam đã ghi nhận 7 ca mắc Covid-19, tiến hành phong tỏa thôn có bệnh nhân.
+- CA BỆNH BN2927-BN2928 ghi nhận tại Hà Nội: là công nhân khu công nghiệp Bắc Thăng Long, là F1 của BN2911 (bạn của BN2899, đi liên hoan cùng ngày 22/4), liên quan chùm ca bệnh tại Hà Nam. Hiện các bệnh nhân đang được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh.
+Như vậy từ ca "siêu lây nhiễm" ở Hà Nam, đến nay đã lây lan cho 12 người khác ở địa phương này, Hà Nội, Hưng Yên.
+Các ca Covid-19 là người nhập cảnh được cách ly ngay gồm:
+- CA BỆNH 2915 (BN2915) cách ly ngay sau khi nhập cảnh tại TPHCM. Bệnh nhân nữ, 38 tuổi, công dân Việt Nam có địa chỉ tại thị xã Thái Hòa, tỉnh Nghệ An. Ngày 26/4/2021, bệnh nhân từ Đức quá cảnh Pháp nhập cảnh Sân bay Tân Sơn Nhất trên chuyến bay VN10 và được cách ly ngay sau khi nhập cảnh tại TPHCM. Kết quả xét nghiệm ngày 28/4/2021 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Dã chiến Củ Chi.
+- CA BỆNH 2916 (BN2916) cách ly ngay sau khi nhập cảnh tại TPHCM: Bệnh nhân nam, 32 tuổi, là chuyên gia, quốc tịch Ấn Độ. Ngày 13/4/2021, bệnh nhân từ Ấn Độ quá cảnh UAE nhập cảnh Sân bay Tân Sơn Nhất trên chuyến bay EK392 và được cách ly ngay sau khi nhập cảnh tại TPHCM. Kết quả xét nghiệm ngày 28/4/2021 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Dã chiến Củ Chi.
+- CA BỆNH 2919 (BN2919) cách ly ngay sau khi nhập cảnh tại Tây Ninh: Bệnh nhân nữ, 25 tuổi, là công dân Việt Nam có địa chỉ tại huyện Dầu Tiếng, tỉnh Bình Dương. Ngày 28/4/2021, bệnh nhân từ nước ngoài nhập cảnh cửa khẩu Mộc Bài và được cách ly ngay sau khi nhập cảnh tại tỉnh Tây Ninh. Kết quả xét nghiệm ngày 30/4/2021 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Trung tâm Y tế huyện Bến Cầu.
+- CA BỆNH 2920 (BN2920) cách ly ngay sau khi nhập cảnh tại Sóc Trăng: Bệnh nhân nam, 29 tuổi, là công dân Việt Nam có địa chỉ tại huyện Trảng Bom, tỉnh Đồng Nai.
+- CA BỆNH 2921 (BN2921) cách ly ngay sau khi nhập cảnh tại Sóc Trăng: Bệnh nhân nữ, 27 tuổi, là công dân Việt Nam có địa chỉ tại quận Phú Nhuận, TPHCM.
+Ngày 28/4/2021, các bệnh nhân trên từ Philippines nhập cảnh Sân bay Cần Thơ trên chuyến bay QH9353 và được cách ly ngay sau khi nhập cảnh tại tỉnh Sóc Trăng. Kết quả xét nghiệm ngày 29/4/2021 dương tính với SARS-CoV-2. Hiện các bệnh nhân được cách ly, điều trị tại Bệnh viện 30 Tháng 4, Sóc Trăng.
+- CA BỆNH BN2922-BN2926 cách ly ngay sau khi nhập cảnh tại Bà Rịa - Vũng Tàu: Các bệnh nhân là công dân Việt Nam. Ngày 28/4/2021, các bệnh nhân trên từ Indonesia nhập cảnh Cảng Bourbon trên Tàu Đại Dương SEA. Kết quả xét nghiệm ngày 29/4/2021 bệnh nhân dương tính với SARS-CoV-2. Hiện các bệnh nhân được cách ly, điều trị tại Trung tâm Y tế huyện Long Điền.
+Theo đó, đến nay Việt Nam ghi nhận 2.928 ca mắc Covid-19, trong đó 1.584 ca do lây nhiễm trong nước, trong đó số lượng ca mắc mới tính từ ngày 27/1 đến nay: 924 ca.
+Tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 37.249, trong đó:
+- Cách ly tập trung tại bệnh viện: 531
+- Cách ly tập trung tại cơ sở khác: 21.668
+- Cách ly tại nhà, nơi lưu trú: 15.050.Về tình hình điều trị, theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế, Việt Nam đã chữa khỏi 2.516 ca bệnh, 35 trường hợp tử vong. Trong số bệnh nhân đang điều trị đã có 48 trường hợp âm tính từ 1-3 lần vớiSARS-CoV-2.
+Hồng Hải

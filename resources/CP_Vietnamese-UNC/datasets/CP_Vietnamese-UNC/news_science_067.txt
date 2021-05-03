@@ -1,0 +1,17 @@
+# doc_id = news_science_067
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/con-nguoi-co-the-san-xuat-noc-doc-qua-mieng-nhu-ran-trong-tuong-lai-20210402061433032.htm
+# date = 20210402
+Theo một nghiên cứu mới trên tạp chí Proceedings of the National Academy of Sciences (PNAS), các yếu tố cấu tạo di truyền đằng sau việc sản xuất nọc độc ở miệng ở rắn được chia sẻ bởi động vật có vú và bò sát. Do đó, mặc dù chúng ta hiện có thể không sở hữu vết cắn gây tử vong, nhưng trong tương lai là một câu chuyện khác.
+Các tác giả nghiên cứu bắt đầu với sự tò mò về gốc rễ của nọc độc miệng đã phát triển độc lập ở nhiều loài động vật như rắn hay nhện.
+Những nghiên cứu trước đây có xu hướng tập trung vào các gene đằng sau các chất độc cụ thể chứa trong nọc độc của các loài khác nhau, nhưng không đưa ra được bất kỳ câu trả lời cụ thể nào về cách hệ thống nọc độc ở miệng phát triển lần đầu tiên như thế nào.
+Để tìm kiếm giải pháp, các tác giả của nghiên cứu mới nhất này đã chọn cách không kiểm tra các gene liên quan đến việc sản xuất độc tố mà thay vào đó tập trung vào cái gọi là gene hỗ trợ điều chỉnh hệ thống nọc độc ở miệng.
+Kiểm tra bộ gene của rắn habu Đài Loan, các nhà nghiên cứu đã xác định được khoảng 3.000 gene như vậy, được đặt tên chung là "mạng metavenom".
+Các gene trong mạng lưới này chủ yếu liên quan đến việc điều chỉnh sự gấp khúc của protein là một bước thiết yếu trong quá trình sản xuất nọc độc, được tạo thành từ một loạt các protein phải được điều chỉnh chính xác.
+Khi các nhà nghiên cứu kiểm tra bộ gene của nhiều loài bò sát và động vật có vú bao gồm cả con người, họ phát hiện ra rằng đều chứa các loại gene giống nhau. Sự khác biệt duy nhất là thay vì hỗ trợ sản xuất các protein nọc độc, mạng lưới này đảm bảo việc gấp chính xác các protein trong nước bọt ở các loài không có nọc độc.
+Do đó, trong khi tuyến nọc độc của rắn và tuyến nước bọt của động vật có vú cuối cùng có thể phục vụ các chức năng khác nhau, nhưng có chung một bộ gene quy định vẫn tồn tại kể từ khi tách biệt trong quá khứ.
+"Nhiều nhà khoa học đã tin rằng điều này là đúng, nhưng đây là bằng chứng thực sự vững chắc đầu tiên cho giả thuyết rằng các tuyến nọc độc phát triển từ các tuyến nước bọt ban đầu. Trong khi rắn kết hợp nhiều chất độc khác nhau vào nọc độc của chúng và tăng số lượng gene liên quan đến việc sản xuất nọc độc, thì các loài động vật có vú như chuột chù lại tạo ra nọc độc đơn giản hơn có độ tương đồng cao với nước bọt", tác giả nghiên cứu Agneesh Barua giải thích.
+Khám phá này còn làm sáng tỏ một lộ trình tiến hóa rõ ràng mà một ngày nào đó, một số loài động vật có vú có thể phát triển nọc độc ở miệng.
+"Có những thí nghiệm vào những năm 1980 cho thấy chuột đực tạo ra các hợp chất trong nước bọt của chúng có độc tính cao khi tiêm vào chuột cống. Nếu trong những điều kiện sinh thái nhất định, những con chuột tạo ra nhiều protein độc hơn trong nước bọt của chúng có khả năng sinh sản thành công tốt hơn thì trong vài nghìn năm nữa chúng ta có thể gặp phải những con chuột có nọc độc", Barua cho biết thêm.
+Tương tự, nước bọt của con người có chứa một loại protein gọi là kallikrein, loại protein này cũng có trong một số chất tiết có nọc độc. Nói cách khác, chúng ta đã có những thành phần cơ bản để phát triển khả năng sản xuất độc tố qua… miệng.
+Trang Phạm
+Theo IFL Science

@@ -1,0 +1,21 @@
+# doc_id = news_tech_108
+# url = https://dantri.com.vn/suc-manh-so/giai-phap-cong-chung-truc-tuyen-giup-gian-tien-thu-tuc-hanh-chinh-cong-20210423145446179.htm
+# date = 20210423
+Chúng ta ắt hẳn ai cũng từng một lần đi công chứng giấy tờ, có thể là giấy khai sinh, giấy kết hôn, sổ hộ khẩu, hay chứng từ nhà đất,… và trải qua đủ mọi cung bậc cảm xúc.
+Có người may mắn thì cũng mất 1 buổi sáng. Người kém may mắn hơn, do không mang đủ giấy tờ, phải quay về nhà rồi trở lại phòng công chứng. Còn những ai chưa chuẩn bị đủ giấy tờ kèm theo, thì có khi mất tới cả tuần lễ mới công chứng xong một văn bản pháp lý.
+Xuất phát từ nhu cầu tiễn này của xã hội, nền tảng công chứng trực tuyến CCOL đã ra đời, giúp người dân và doanh nghiệp hạn chế việc phải đi lại nhiều lần đến các địa điểm công chức khi hồ sơ chưa đầy đủ, tiết kiệm được thời gian và chi phí.
+Giải pháp đã được Bộ Thông tin và Truyền thông (TT&TT) giới thiệu tại "Diễn đàn thách thức công nghệ số Việt Nam" số thứ 3, diễn ra vào sáng 23/4, thu hút được sự quan tâm lớn của nhiều người, do đánh trúng "nỗi đau" mà họ gặp phải mỗi lần "tả tơi" đi công chứng.
+Ông Trần Quốc Bảo, CEO công ty cổ phần Dịch vụ công chứng trực tuyến giới thiệu sản phẩm tại Diễn đàn Thách thức công nghệ số Việt Nam. Ảnh: Nguyễn Nguyễn
+Ông Trần Quốc Bảo, CEO công ty cổ phần Dịch vụ công chứng trực tuyến cho biết giải pháp này có thể tiết kiệm thời gian của người dân lên tới 70% cho nhiều thủ tục hành chính từ đơn giản cho tới phức tạp.
+"Thay vì phải tự đi tìm công chứng viên, sau đó chuẩn bị giấy tờ hành chính, phải di chuyển trên đường. Sau đó, công chứng viên phải mất thời gian để kiểm tra giấy tờ, rồi thông báo lại kết quả, người dân giờ đây chỉ cần tải về phần mềm CCOL và làm theo các thao tác đơn giản trên điện thoại", ông Bảo cho hay.
+Các tiện ích mà người dân có thể sử dụng với phần mềm CCOL là xem trước những thủ tục cần công chứng cần loại hồ sơ nào, giấy tờ nào,… Sau đó chụp lại hình ảnh bản gốc để gửi lên hệ thống.
+Ảnh chụp và thông tin người dùng sau đó sẽ được mã hóa, và gửi tới địa chỉ của công chứng viên do người dùng lựa chọn. Tại đây, họ có thể xem xét, đối chiếu với bản gốc, sau đó hoàn tất công đoạn mà trước đây cả 2 phía đều tiêu tốn rất nhiều thời gian.
+Chia sẻ thêm, ông Bảo cho biết sau 6 tháng triển khai, giải pháp Công chứng trực tuyến CCOL hiện có tốc độ tăng trưởng khá, với lượng người dùng lên tới 2.000, trải dài trên toàn quốc.
+Một động thái khích lệ đó là phản hồi của người dân về giải pháp này là vô cùng tích cực, mà theo ông Bảo là "tạo ra nguồn động viên to lớn" cho toàn bộ nhân viên công ty.
+Việc triển khai, nhân rộng mô hình công chứng trực tuyến theo ông Trần Quốc Bảo, là mang đến nhiều tiện ích và giúp người dân tránh lãng phí thời gian. Ảnh: Nguyễn Nguyễn
+Được biết, nền tảng Công chứng trực tuyến CCOL là hệ thống đầu tiên và duy nhất thực hiện chức năng kết nối khách hàng và các tổ chức cung cấp dịch vụ công chứng trên cả nước với định hướng thực hiện trọn vẹn các dịch vụ công chứng trên môi trường trực tuyến. Đồng thời cho phép các tổ chức cung cấp dịch vụ công chứng có thể thực hiện quản trị hoạt động của tổ chức mình như một doanh nghiệp độc lập.
+Hệ thống CCOL cho phép người dùng lựa chọn công chứng viên và giao hồ sơ để các công chứng viên thẩm định, chuẩn bị trước khi mang bản chính đến để công chứng viên kiểm - chiếu, mà vẫn đảm bảo tuân thủ Luật Công chứng, theo đó các bên bắt buộc phải ký trước mặt công chứng viên.
+Bên cạnh đó, hệ thống CCOL cho phép người dùng đánh giá công chứng viên và tổ chức hành nghề công chứng để từ đó hệ thống sẽ tư vấn cho người dùng lựa chọn các công chứng viên và tổ chức hành nghề được người dùng đánh giá chất lượng phục vụ tốt.
+Đồng thời, trong giai đoạn dịch bệnh Covid-19 chưa được kiểm soát hoàn toàn, giải pháp này giúp tránh tụ tập đông người, hạn chế lây nhiễm trong công đồng.
+Mặc dù mang đến nhiều thuận tiện có thể thấy rõ, song giải pháp CCOL còn gặp khá nhiều khó khăn đến từ chính sách, cũng như từ tư duy truyền thống của đa số người dân hiện nay, khiến cho việc triển khai giải pháp chưa được như kỳ vọng.
+Nguyễn Nguyễn

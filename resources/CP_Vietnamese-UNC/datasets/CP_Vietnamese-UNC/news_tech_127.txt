@@ -1,0 +1,17 @@
+# doc_id = news_tech_127
+# url = https://dantri.com.vn/suc-manh-so/huong-dan-xem-truc-tiep-robot-truc-thang-cua-nasa-cat-canh-tren-sao-hoa-20210419112332263.htm
+# date = 20210419
+Máy bay không người lái Ingenuity đã sẵn sàng cho chuyến bay lịch sử trên sao Hỏa.
+Mars 2020 là nhiệm vụ thăm dò sao Hỏa mới nhất của NASA, sử dụng một robot tự hành có tên gọi Perseverance để nghiên cứu bề mặt sao Hỏa, nghiên cứu các quá trình địa chất, đánh giá khả năng sinh sống được trong quá khứ trên sao Hỏa…
+Tên lửa đẩy để đưa robot Perseverance lên không gian được phóng lên từ trái đất vào ngày 30/7/2020, nhưng robot này chỉ mới chính thức đổ bộ lên bề mặt sao Hỏa vào ngày 18/2 vừa qua.
+Đặc biệt, ngoài xe tự hành Perseverance, trong nhiệm vụ thăm dò này, NASA cũng đã triển khai một máy bay không người lái với tên gọi Ingenuity. Ingenuity có hình dạng một chiếc máy bay trực thăng, với cân nặng chỉ khoảng 2kg. Đây là thiết bị bay đầu tiên được NASA phóng lên sao Hỏa nhằm thử nghiệm khả năng hoạt động của một vật thể bay trong môi trường sao Hỏa, vốn có trọng lực và bầu khí quyển khác biệt so với trái đất. Những thông tin thu thập được từ Ingenuity sẽ được NASA sử dụng để phát triển những thiết bị bay không người lái tốt hơn cho các sứ mệnh khám phá sao Hỏa trong tương lai.
+Xem trực tiếp chuyến bay lịch sử của Ingenuity
+Các kỹ sư của NASA đã có thể vận hành được cánh quạt của Ingenuity vào tuần trước, với tốc độ quay 50 vòng/phút. Tuy nhiên, khi thực hiện chuyến bay thực tế, cánh quạt của Ingenuity sẽ quay ở tốc độ 2.400 vòng/phút, đủ nhanh để giúp nâng robot này lên trong bầu khí quyển siêu mỏng của sao Hỏa.
+Cánh quạt của Ingenuity đã được khởi động để chuẩn bị cho chuyến bay lịch sử trên sao Hỏa.
+NASA lên kế hoạch để Ingenuity có thể thực hiện 5 chuyến bay với các mức độ phức tạp khác nhau. Robot này dự kiến sẽ bay ở độ cao từ 3 đến 5m, bay xa khoảng 50m và quay trở về vị trí ban đầu. Robot này sẽ tự vận hành hoàn toàn, thay vì có sự điều khiển hay can thiệp từ xa của con người.
+Chuyến bay đầu tiên của Ingenuity trên sao Hỏa sẽ được diễn ra vào 3 giờ 30 phút sáng ngày 19/4 (theo giờ Mỹ, tức 14:30 phút theo giờ Việt Nam). Chiếc máy bay không người lái sẽ bay lơ lửng trong vòng 30 giây ở độ cao 3m. Camera trên robot Perseverance sẽ ghi lại khoảnh khắc lịch sử này và truyền dữ liệu trực tiếp về cho NASA.
+NASA cũng sẽ phát trực tiếp sự kiện này trên Internet để những ai quan tâm có thể theo dõi. Người dùng có thể xem trực tiếp sự kiện này trên YouTube, hoặc trên website, Twitter và Facebook chính thức của NASA.
+Các dữ liệu thu thập được từ chuyến bay của Ingenuity sẽ được truyền về một trạm thu phát tín hiệu được tích hợp trên robot Perseverance, trạm này sẽ chuyển tiếp các tín hiệu đó đến một vệ tinh bay quanh sao Hỏa và nhờ vệ tinh này truyền dữ liệu về cho các kỹ sư của NASA tại Trái đất.
+Sau chuyến bay, Ingenuity sẽ phải mất một khoảng thời gian để nạp lại năng lượng cho bộ pin năng lượng mặt trời của mình và tiếp tục thực hiện các chuyến bay khác trong tương lai.
+Tuy nhiên, việc Ingenuity có tiếp tục bay được trong tương lai hay không còn phụ thuộc vào cách chiếc máy bay này hạ cánh, bởi lẽ nếu xảy ra sự cố bất ngờ nào đó trong khi hạ cánh, Ingenuity có thể sẽ bị ngừng hoạt động và không thể tiếp tục nhiệm vụ của mình.
+T.ThủyTheo LS/Bloomberg

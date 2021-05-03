@@ -1,0 +1,23 @@
+# doc_id = news_science_072
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/cong-nghe-dang-lam-thay-doi-dong-ho-sinh-hoc-cua-con-nguoi-20210421000304019.htm
+# date = 20210421
+Ngày nay, nhiều người dành phần lớn thời gian trong ngày không chỉ ở trong những căn phòng có ánh sáng nhân tạo mà còn nhìn vào màn hình điện thoại, máy tính và TV.
+Nhịp sinh học là một "đồng hồ cơ thể" bẩm sinh có trong nhiều dạng sống bao gồm thực vật, nấm và động vật. Ở người, đồng hồ sinh học được tìm thấy ở vùng dưới đồi (hypothalamus), khu vực có kích thước bằng quả anh đào nằm phía sau mắt.
+Vùng dưới đồi tiết ra một loại hormone gọi là melatonin. Melatonin thường được gọi là hormone giấc ngủ vì mức độ của nó cao vào ban đêm nhưng giảm ngay trước khi chúng ta thức dậy vào buổi sáng. Đồng hồ có nhịp điệu nội tại, nhưng nó cũng có thể được điều chỉnh để phản ứng với ánh sáng.
+Giáo sư John Axelsson, một chuyên gia nghiên cứu giấc ngủ từ Viện Karolinska giải thích rằng "đồng hồ chính có nhịp điệu nội tại gần 24 giờ và rất nhạy cảm với ánh sáng hoàng hôn và bình minh. Do đó, để tinh chỉnh hệ thống sinh học, điều này cho phép hệ thống năng động và thích ứng với sự thay đổi theo mùa trong thời gian cả ngày và đêm".
+Thực tế, nhiều khía cạnh của công nghệ hiện đại, từ bóng đèn cơ bản đến điện thoại màn hình cảm ứng mới nhất đều phát ra ánh sáng.
+"Ánh sáng chủ yếu làm hai việc đối với đồng hồ sinh học. Đó là thiết lập thời gian của đồng hồ và nó đang thay đổi biên độ hoặc cường độ của đồng hồ", Giáo sư Jamie Zeitzer từ Đại học Stanford cho biết.
+Khi nhịp sinh học của chúng ta thay đổi mức độ melatonin, chúng ta có thể sử dụng mức độ của "hormone giấc ngủ" này để xem điều gì đang ảnh hưởng đến đồng hồ sinh học của chúng ta. Một số nghiên cứu đã chỉ ra rằng ánh sáng nhân tạo đã ngăn chặn quá trình sản xuất melatonin ở người.
+Điều thú vị là, ánh sáng nhân tạo cực sáng thực sự lại được sử dụng như một liệu pháp để giúp những người bị trễ đồng hồ sinh học thức dậy và đi ngủ sớm hơn.
+Cường độ ánh sáng được sử dụng cho đèn chiếu cao hơn nhiều so với những gì được phát ra từ bất kỳ màn hình hoặc bóng đèn nào mà chúng ta sử dụng.
+Một nghiên cứu năm 2014 đã xem xét một kịch bản thực tế hơn đó là so sánh mức độ melatonin và chất lượng giấc ngủ của những người đọc một cuốn sách bình thường hoặc một cuốn sách điện tử trước khi đi ngủ. Họ phát hiện ra rằng những người tham gia đọc sách điện tử đã giảm mức melatonin.
+Tiến sĩ Cele Richardson từ Đại học Tây Úc cho rằng: "Có bằng chứng cho thấy việc sử dụng màn hình sáng 1,5 giờ làm giảm sự gia tăng melatonin tự nhiên vào ban đêm và tác động này có thể tăng lên trong nhiều đêm. Tuy nhiên, điều này dường như không có nghĩa là mất nhiều thời gian hơn để đi vào giấc ngủ".
+Mô hình giấc ngủ bị ảnh hưởng thế nào?
+Mặc dù chúng ta biết rằng melatonin có nhiều tác dụng đối với cơ thể và có liên quan đến chu kỳ ngủ-thức, nhưng chúng ta không biết chính xác lượng melatonin giảm tác động đến chất lượng giấc ngủ của chúng ta như thế nào.
+Có rất nhiều nghiên cứu xem xét việc sử dụng công nghệ và chất lượng giấc ngủ hoặc thời gian để đi vào giấc ngủ. Mặc dù nhiều người trong số này tìm thấy mối tương quan giữa thời gian sử dụng thiết bị và giấc ngủ, nhưng mối tương quan này thường chưa đủ thuyết phục và chúng không cho thấy rằng thời gian sử dụng thiết bị tăng lên gây ra vấn đề về giấc ngủ.
+Nghiên cứu năm 2014 cho thấy trung bình những người tham gia đọc sách in đã ngủ gật 10 phút trước những người đọc sách điện tử. Các nghiên cứu khác so sánh những người sử dụng các sản phẩm làm giảm ánh sáng xanh từ màn hình với những người sử dụng màn hình bình thường. Các nghiên cứu này chỉ tìm thấy sự khác biệt 3-4 phút về thời gian đi vào giấc ngủ.
+Vì giấc ngủ bị ảnh hưởng bởi nhiều thứ, nên thường khó chắc chắn rằng đó chỉ là ảnh hưởng của thời gian sử dụng thiết bị mà bạn đang đo.
+Một vấn đề phức tạp khác được Tiến sĩ Richardson nhấn mạnh: "Mối quan hệ hai chiều giữa việc sử dụng công nghệ và giấc ngủ có thể xảy ra. Việc sử dụng công nghệ có thể ảnh hưởng đến giấc ngủ theo thời gian, nhưng những cá nhân khó ngủ sau đó có thể tăng cường sử dụng thiết bị công nghệ của họ".
+Công nghệ, cụ thể là ánh sáng nhân tạo, thay đổi nhịp sinh học của chúng ta. Chúng ta biết điều này bởi vì có thể thấy sự khác biệt về mức độ melatonin sau khi sử dụng màn hình.
+Tuy nhiên, điều này có ảnh hưởng gì đến giấc ngủ của chúng ta, đặc biệt là thời gian để đi vào giấc ngủ, vẫn chưa được rõ ràng và cần có nhiều nghiên cứu sâu hơn nữa trong tương lai.
+Trang Phạm

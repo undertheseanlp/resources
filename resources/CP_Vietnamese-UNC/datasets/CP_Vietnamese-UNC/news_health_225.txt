@@ -1,0 +1,11 @@
+# doc_id = news_health_225
+# url = https://dantri.com.vn/suc-khoe/thong-bao-khan-trong-dem-tim-hanh-khach-bay-tu-ha-noi-di-tp-ho-chi-minh-20210429221457883.htm
+# date = 20210429
+Cụ thể,Bộ Y tế đề nghị những hành khách đi trên chuyến bay số hiệu VJ133 khởi hành từ Hà Nội đi TP. Hồ Chí Minh lúc 10h15 ngày 27/4/2021:
+- Liên hệ ngay với cơ quan y tế gần nhất để được tư vấn hỗ trợ;
+- Gọi điện đến các đường dây nóng cung cấp số điện thoại những người đã tiếp xúc gần với mình:
++ 1900.9095 (Bộ Y tế)
++ 0869.577.133 (Trung tâm Kiểm soát bệnh tật Hồ Chí Minh)
++ 0969.082.115/0949.396.115 (Trung tâm Kiểm soát bệnh tật Hà Nội)
+- Khai báo y tế trực tuyến tại https://tokhaiyte.vn và thường xuyên cập nhật tình trạng sức khỏe.
+Liên quan đến các ca F1 tiếp xúc bệnh nhân Covid-19 ở Hà Nam, Trung tâm kiểm soát bệnh tật TP Hà Nội cũng thông báo tìm hành khách trên chuyến xe Tân Kim Chi (BKS 43B-048.78) khởi hành từ Đà Nẵng lúc 20 giờ 30 phút ngày 21/4 đi đến Hà Nội lúc 9 giờ ngày 22/4; Người hoàn thành cách ly tại khách sạn Alisia ở Đà Nẵng vào ngày 21/4, đề nghị những hành khách này theo dõi sức khỏe tại nhà và liên hệ ngay với Trạm Y tế, Trung tâm y tế trên địa bàn, hoặc điện thoại đến đường dây nóng 0969082115 - 0949396115 để được tư vấn.

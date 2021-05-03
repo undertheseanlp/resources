@@ -1,0 +1,24 @@
+# doc_id = news_world_052
+# url = https://dantri.com.vn/the-gioi/bien-chung-chua-dot-bien-kep-dang-can-quet-an-do-nguy-hiem-nhu-the-nao-20210426202525792.htm
+# date = 20210426
+Ấn Độ đang đối mặt với làn sóng Covid-19 tồi tệ. Trong nhiều tuần qua, số ca nhiễm virus SARS-CoV-2 và số ca tử vong do dịch bệnh đều tăng nhanh. Hôm nay (26/4) là ngày thứ 5 liên tiếp quốc gia đông dân thứ 2 trên thế giới ghi nhận số ca Covid-19 ở mức hơn 300.000 ca/ngày.
+Oxy đang trở nên khan hiếm tại hầu hết các bệnh viện của Ấn Độ trong đợt bùng phát dịch Covid-19 mới. Ảnh: AP
+Kristian Andersen, chuyên gia về bệnh truyền nhiễm tại Viện nghiên cứu Scripps cho biết, tình hình dịch bệnh ở Ấn Độ khá tương đồng với những gì đã xảy ra ở Brazil, Nam Phi và Iran. "Những quốc gia này báo cáo nhiều ca mắc Covid-19 trong đợt bùng phát dịch đầu tiên, và có vẻ như họ đã đạt được mức miễn dịch cộng đồng nhất định. Tuy nhiên, theo thời gian, khi khả năng miễn dịch của con người suy yếu, các biến thể SARS-CoV-2 mới dễ lây lan hơn và gây nên đợt bùng phát dịch mới", ông Andersen nói.
+"Tôi nghĩ đó là những điều đang xảy ra ở Ấn Độ", ông Andersen nói thêm.
+Một trong những biến thể SARS-CoV-2 đang lây lan nhanh ở Ấn Độ và gây lo ngại được gọi là "đột biến kép".
+Lý do gọi biến thể B.1.617 là "đột biến kép"
+Biến thể mới được gọi là B.1.617, nhưng nhiều người và các phương tiện truyền thông đã gọi biến thể này là "đột biến kép", do nó chứa 2 đột biến xuất hiện ở các chủng virus nguy hiểm khác.
+Tuy nhiên, thuật ngữ "đột biến kép" không có ý nghĩa về mặt khoa học, ông Andersen cho biết. "SARS-CoV-2 đột biến mọi lúc. Bởi vậy, có rất nhiều đột biến kép ở khắp nơi. Biến thể ở Ấn Độ thực sự không nên được gọi như vậy", chuyên gia Andersen nói.
+Giống như các biến thể khác, B.1.617 không chỉ chứa 2 dạng đột biến. Theo NPR, B.1.617 có hai đột biến chính là L452R từng xuất hiện trong biến thể ở California (Mỹ) và E484Q, giống với loại xuất hiện ở Nam Phi và Brazil.
+Bên cạnh 2 đột biến "nổi tiếng" L452R và E484Q, biến thể B.1.617 có khoảng 11 đột biến khác.
+Biến thể B.1.617 - nguyên nhân dẫn đến "sóng thần" Covid-19 ở Ấn Độ?
+Bằng chứng sơ bộ cho thấy B1.617 dễ lây lan hơn các biến thể trước đó. Một nghiên cứu được công bố hôm 20/4 chỉ ra rằng, đột biến L452R làm tăng khả năng lây nhiễm virus cho các tế bào ở người trong phòng thí nghiệm. Biến thể ở California, mang đột biến tương tự, có khả năng lây truyền cao hơn khoảng 20% so với các biến chủng trước đó.
+B.1.617 cũng đang lây lan nhanh ở Ấn Độ. Theo tạp chí khoa học, đây là biến thể đang chiếm ưu thế ở bang Maharashtra.
+Tuy nhiên, ông Andersen cho rằng, không chắc liệu biến thể B.1.617 có phải là nguyên nhân dẫn đến đợt bùng phát Covid-19 tồi tệ tại Ấn Độ hay không. "Chúng tôi biết B.1.1.7 (biến thể phát hiện lần đầu tiên ở Anh) và biến thể P.1 (biến thể phát hiện lần đầu tiên ở Brazil) cũng đang lây lan ở Ấn Độ. Vì vậy, có thể chúng cũng đóng vai trò quan trọng trong sự gia tăng số ca mắc bệnh. Chúng tôi chưa có dữ liệu để kết luận", ông Andersen nói.
+Vaccine có thể chống lại biến thể B.1.617?
+Một số nghiên cứu cho thấy, hai đột biến chính trong biến thể B.1.617 có thể "trốn tránh" hệ thống miễn dịch. Bởi vậy, vaccine Covid-19 có thể vẫn có tác dụng chống lại B.1.617, nhưng kém hiệu quả hơn một chút. "Có khả năng vaccine sẽ bảo vệ người dùng khỏi triệu chứng mắc bệnh nặng và tử vong nhưng không chống lại nguy cơ lây nhiễm ở những người có phản ứng miễn dịch kém hơn", Ravi Gupta, giáo sư của Đại học Cambridge cho biết.
+Cũng có những dấu hiệu cho thấy những người đã mắc Covid-19 có thể bị tái nhiễm với biến thể này, đặc biệt khi khả năng miễn dịch tự nhiên của họ suy yếu theo thời gian, ông Ravi Gupta cho biết. Tình trạng tái nhiễm có thể là nguyên nhân thúc đẩy đợt bùng phát Covid-19 thứ hai tại Ấn Độ.
+"Thực tế là số ca mắc bệnh ở Ấn Độ đã giảm trong năm 2020 ngay cả khi biện pháp giãn cách xã hội khá hạn chế. Tôi lo ngại rằng sự sụt giảm đến từ việc số người có nguy cơ mắc bệnh cao đã giảm. Làn sóng Covid-19 thứ hai bùng phát do khả năng miễn dịch kém, thêm vào đó là do biến thể như B.1.1.7 và B.1.617 tránh được kháng thể", ông Gupta cho biết.
+Nếu B.1.617 làm tăng khả năng tái lây nhiễm hoặc lây nhiễm ở những người đã được tiêm chủng, biến thể có thể gây bùng phát dịch ở nhiều nơi khác trên thế giới, nơi khả năng miễn dịch tự nhiên hoặc do vaccine của người dân đang suy giảm.
+Theo Mai Trang
+VOV

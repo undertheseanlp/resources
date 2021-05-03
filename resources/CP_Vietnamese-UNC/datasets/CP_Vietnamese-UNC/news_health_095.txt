@@ -1,0 +1,23 @@
+# doc_id = news_health_095
+# url = https://dantri.com.vn/suc-khoe/da-nang-len-tieng-ve-truong-hop-mac-covid-19-sau-khi-hoan-thanh-cach-ly-20210429204755403.htm
+# date = 20210429
+&nbspTối 29/4, Sở Y tế TP Đà Nẵng đã thông tin về trường hợp ở Hà Nam vừa được công bố mắc Covid-19 (BN2899) sau khi hoàn thành cách y tế.
+Theo đó, anh N.V.Đ (sinh năm 1993, trú thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân, tỉnh Hà Nam) từ Nhật Bản về Việt Nam trên chuyến bay VJ3613 hạ cánh tại sân bay Quốc tế Đà Nẵng lúc 16h20 ngày 7/4; có 222 khách nhập cảnh được kiểm tra, giám sát, kiểm dịch y tế và vận chuyển cách ly y tế tập trung tại 2 khách sạn trên địa bàn quận Sơn Trà.
+Anh N.V.Đ. được cách ly tại Khách sạn Alisia (19 Hoàng Sa, quận Sơn Trà, Đà Nẵng).
+Tất cả phi hành đoàn và đội ngũ cán bộ, nhân viên làm nhiệm vụ tại cửa khẩu sân bay đều được trang bị trang phục bảo hộ và toàn bộ đã được xét nghiệm âm tính với SARS-CoV-2.
+Đà Nẵng đã lấy mẫu xét nghiệm các trường hợp tiếp xúc với ca dương tính với SARS-CoV-2 ở Hà Nam.
+Ngày 8/4, kết quả xét nghiệm lần 1 ngay sau khi cách ly của 222 khách nói trên: 218 trường hợp âm tính và 4 trường hợp dương tính với SARS-CoV-2 (các bệnh nhân 2676, 2677, 2679 ở khách sạn Alisia và bệnh nhân 2680 ở khách sạn Paracel).
+Bệnh nhân N.V.Đ được lấy mẫu xét nghiệm lần 1 ngày 8/4, kết quả xét nghiệm âm tính. Tuy nhiên, bệnh nhân N.V.Đ là F1 của bệnh nhân 2677 (ngồi gần trên chuyến bay VJ3613 nêu trên) nên được chuyển sang cách ly tại phòng 1203 cùng phòng với N.V.D (cũng là F1 của bệnh nhân 2677) và được lấy mẫu lần 2 vào ngày 12/4, kết quả xét nghiệm âm tính với SARS-CoV-2.
+Kết quả theo dõi hàng ngày qua hệ thống camera và kết quả trích xuất camera từ ngày 7-21/4, cho thấy bệnh nhân tuân thủ nội quy quy định, không bước ra khỏi phòng, không giao tiếp với ai trong quá trình cách ly tại khách sạn Alisia.
+Bệnh nhân N.V.Đ được lấy mẫu xét nghiệm lần 3 vào ngày 14 trước khi hoàn thành cách ly, kết quả xét nghiệm âm tính với SARS-CoV-2. Bệnh nhân được hoàn thành cách ly và rời khỏi khách sạn lúc 18h40 ngày 21/4.
+Trung tâm Kiểm soát bệnh tật Đà Nẵng đã có thông báo về danh sách các trường hợp dự kiến hoàn thành cách ly tập trung và trở về địa phương gửi cho Trung tâm Kiểm soát bệnh tật các tỉnh, thành phố có liên quan (trong đó có Trung tâm Kiểm soát bệnh tật tỉnh Hà Nam).
+Trước khi hoàn thành cách ly, bệnh nhân đăng ký với Trung tâm Y tế quận Sơn Trà sẽ đi về Hà Nam bằng xe ô tô, biển số xe đưa bệnh nhân từ khách sạn ra Bến xe Trung tâm Đà Nẵng: 43A - 40907.
+Tại Bến xe Trung tâm Đà Nẵng, bệnh nhân đi xe khách Tân Kim Chi, biển số xe 43B - 048.78, xuất phát từ Đà Nẵng lúc 20h30 ngày 21/4 đến Hà Nam lúc 7h30 ngày 22/4.
+Theo Sở Y tế Đà Nẵng, qua điều tra dịch tễ, kết quả rà soát, kết quả xét nghiệm, đánh giá quá trình cách ly tại khách sạn cho thấy anh N.V.Đ đủ điều kiện hoàn thành cách ly y tế.
+"Có khả năng bệnh nhân mắc Covid-19 do nhiễm biến chủng virus mới có thời gian ủ bệnh kéo dài hơn 14 ngày hoặc bệnh nhân có thể mắc Covid-19 trong quá trình di chuyển và sinh hoạt sau khi hoàn thành cách ly y tế tại Đà Nẵng", Sở Y tế Đà Nẵng nhận định.
+Ngay sau khi nhận được thông tin từ Trung tâm Kiểm soát bệnh tật tỉnh Hà Nam vào sáng ngày 29/4, ngành y tế thành phố Đà Nẵng đã triển khai điều tra, cách ly y tế, xét nghiệm các trường hợp tiếp xúc gần với bệnh nhân.
+Theo đó, có 12 trường hợp là F1 ở quận Sơn Trà, gồm 11 người làm nhiệm vụ tại khách sạn Alisia, 1 lái xe (từ khách sạn ra bến xe): đã lấy mẫu xét nghiệm và chuyển cách ly y tế tập trung tại khách sạn khác. Tối cùng ngày, 12 trường hợp F1 này đã có kết quả âm tính lần 1 với SARS-CoV-2.
+Ngành y tế Đà Nẵng cũng đã lập danh sách, điện thoại liên lạc trực tiếp toàn bộ người trên xe khách Tân Kim Chi từ Đà Nẵng đi Hà Nam gồm 34 hành khách, 2 lái xe, 1 phụ xe và thông báo hành khách và các địa phương liên quan để cách ly y tế, lấy mẫu xét nghiệm.
+Trong đó, đã truy vết, cách ly y tế tập trung và lấy mẫu xét nghiệm 10 người tại Đà Nẵng; đang tiếp tục thực hiện công tác truy vết, thông báo cho hành khách và các địa phương liên quan.
+4 hành khách là người Đà Nẵng đi cùng chuyến bay VJ3613 nhập cảnh từ Nhật Bản ngày 7/4 với bệnh nhân, hoàn thành cách ly y tế ngày 21/4, đã được lấy mẫu xét nghiệm và tiếp tục theo dõi sức khỏe.
+Khánh Hồng

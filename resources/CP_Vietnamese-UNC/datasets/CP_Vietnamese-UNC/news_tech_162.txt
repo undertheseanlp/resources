@@ -1,0 +1,24 @@
+# doc_id = news_tech_162
+# url = https://dantri.com.vn/suc-manh-so/meo-hay-de-khong-bi-quang-cao-lam-phien-khi-xem-youtube-noi-bat-tuan-qua-20210404020258429.htm
+# date = 20210404
+Những giải pháp để không bị làm phiền bởi các nội dung quảng cáo "gây ám ảnh" trên Youtube
+Những ngày gần đây, nhiều người dùng YouTube tại Việt Nam phản ánh rằng họ liên tục gặp phải các quảng cáo thuốc đông y, thuốc nam… Đủ mọi loại thuốc như trị xương khớp, trị xuất tinh sớm, trị sỏi thận… xuất hiện khi đang xem video trên Youtube, khiến nhiều người dùng khó chịu. Tần suất của các nội dung quảng cáo này dày đặc đến mức khiến nhiều người cảm thấy ám ảnh và bực bội.
+Bài viết được Dân trí giới thiệu tại đây sẽ giúp bạn thoát khỏi những nội dung quảng cáo gây ám ảnh và không bị làm phiền bởi quảng cáo khi xem Youtube.
+Thủ thuật giúp sử dụng đồng thời 2 tài khoản Facebook, Zalo… trên một smartphone
+Đôi khi bạn muốn đăng nhập đồng thời 2 tài khoản trên một smartphone, ví dụ như trường hợp bạn sử dụng một tài khoản Facebook cho cá nhân và một tài khoản Facebook khác cho công việc (để quản lý các trang Facebook khác nhau hoặc tài khoản Facebook để bán hàng…). Với các tài khoản mạng xã hội khác, như Zalo hay WhatsApp…, cũng tương tự.
+Để thực hiện điều này, bạn có thể cần đến sự trợ giúp của Dual Space.
+Dual Space là ứng dụng miễn phí, sẽ tạo ra một môi trường riêng để chạy các ứng dụng đã cài đặt trên smartphone. Các ứng dụng sẽ chạy trên Dual Space hoàn toàn độc lập so với môi trường bình thường trên smartphone, đồng nghĩa với việc bạn có thể đăng nhập vào tài khoản thứ 2 trên các ứng dụng và chạy song song 2 tài khoản khác nhau trên cùng một smartphone.
+Các ứng dụng hoạt động trong môi trường của Dual Space cũng có đầy đủ tính năng và giao diện giống như ứng dụng chính hoạt động trên smartphone.
+Hiện ứng dụng chỉ có phiên bản dành cho điện thoại Android, người dùng có thể tìm và tải Dual Space trên CH Play, hoặc download ứng dụng trực tiếp tại đây hoặc tại đây (tương thích Android 4.1 trở lên). Xem hướng dẫn cách dùng ứng dụng đã được Dân trí giới thiệu tại đây.
+Thủ thuật giúp sao lưu và phục hồi toàn bộ tin nhắn trên smartphone
+Sau một thời gian dài sử dụng, chắc chắn trên smartphone của bạn sẽ có những tin nhắn với nội dung quan trọng mà bạn luôn muốn lưu để xem lại khi cần. Nếu muốn đổi sang smartphone mới, hoặc để đề phòng trường hợp điện thoại bị mất cắp, hư hỏng, thì bạn sẽ có nhu cầu tạo một bản sao lưu toàn bộ nội dung tin nhắn hiện có trên smartphone.
+SMS Backup là ứng dụng miễn phí cho phép người dùng dễ dàng sao lưu và phục hồi toàn bộ tin nhắn SMS trên smartphone hiện có. Với sự trợ giúp của SMS Backup, người dùng có thể tạo bản sao các tin nhắn quan trọng đang có trên smartphone, hoặc có thể dễ dàng chuyển đổi tin nhắn smartphone cũ sang smartphone mới khi cần.
+Ứng dụng hiện chỉ có phiên bản dành cho Android, bạn đọc có thể tìm và tải từ CH Play, hoặc download SMS Backup trực tiếp tại đây hoặc tại đây (tương thích Android 5.0 trở lên). Xem hướng dẫn cách dùng ứng dụng đã được Dân trí giới thiệu tại đây.
+Ứng dụng tích hợp trí tuệ nhân tạo giúp chụp ảnh đẹp hơn trên smartphone
+Nhiều người thường có thói quen dùng các ứng dụng xử lý ảnh để thêm các bộ lọc màu sắc (filter) lên các hình ảnh được chụp bằng smartphone, giúp tạo ra những bức ảnh với chất lượng đẹp mắt và tông màu mà mình yêu thích, chẳng hạn những bức ảnh với tông màu lạnh, tông màu ấm hoặc màu dịu…
+Tuy nhiên, không ít trường hợp người dùng phải "đau đầu" để lựa chọn một bộ lọc màu sắc phù hợp với hình ảnh mà mình vừa chụp, giúp cho bức ảnh trở nên đẹp mắt và mang tính nghệ thuật hơn.
+Picaii là ứng dụng được ra đời để giúp người dùng giải quyết vấn đề "đau đầu" này.Picaiilà ứng dụng chụp ảnh, được tích hợp trí tuệ nhân tạo, sẽ tự động nhận diện đối tượng và khung cảnh mà camera đang hướng đến, từ đó đưa ra các gợi ý về bộ lọc màu sắc phù hợp nhất với khung cảnh để người dùng lựa chọn.
+Đặc biệt, trí tuệ nhân tạo của Picaiicòn có thể ghi nhớ được tông màu sắc yêu thích của người dùng khi chụp ảnh để đưa ra các gợi ý về bộ lọc màu sắc phù hợp với sở thích của người dùng.
+Với Picai,,, người dùng sẽ không còn mất nhiều thời gian xử lý và lựa chọn bộ lọc hiệu ứng màu sắc sau khi chụp ảnh, bởi lẽ ứng dụng này sẽ tự động xử lý giúp người dùng.
+Ứng dụng có cả phiên bản dành cho Android lẫn iOS, người dùng có thể tìm và tải Picaiitrên CH Play hoặc App Store, hoặc có thể download ứng dụng trực tiếp tại đây hoặc tại đây (tương thích Android 6.0 trở lên) hoặc tại đây (tương thích iOS 10.0 trở lên). Xem hướng dẫn cách dùng ứng dụng đã được Dân trí giới thiệu tại đây.
+Quang Huy

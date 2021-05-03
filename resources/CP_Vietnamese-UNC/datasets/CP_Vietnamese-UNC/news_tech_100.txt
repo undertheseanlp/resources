@@ -1,0 +1,12 @@
+# doc_id = news_tech_100
+# url = https://dantri.com.vn/suc-manh-so/facebook-noi-gi-ve-tinh-trang-quang-cao-lo-de-tran-lan-20210413225345789.htm
+# date = 20210413
+Tuần trước, Dân trí đã phản ánh về tình trạng quảng cáo lô đề xuất hiện tràn lan trên mạng xã hội Facebook . Theo đó, nhiều người dùng Facebook cho biết rằng họ thường xuyên bắt gặp những đoạn quảng cáo liên quan đến các hội nhóm tư vấn chơi lô đề, nhất là khi xem video trên nền tảng này.
+Trao đổi với Dân trí, đại diện Facebook tại Việt Nam xác nhận những quảng cáo trên vi phạm chính sách của mạng xã hội này, đồng thời cho biết người dùng đã sử dụng một số thủ thuật để đánh lừa hệ thống xét duyệt quảng cáo của họ.
+"Đôi khi người dùng đánh lừa hệ thống xét duyệt quảng cáo của Facebook bằng cách sử dụng các thủ thuật mới (chẳng hạn như sử dụng biểu tượng hoặc ký tự Unicode trong văn bản quảng cáo nhằm mục đích che giấu các từ hoặc cụm từ) để cản trở hệ thống quảng cáo phát hiện và thực thi chính sách. Chúng tôi đang nỗ lực để phát hiện những hành động này và cập nhật hệ thống để ngăn chặn những quảng cáo không phù hợp", đại diện Facebook tại Việt Nam chia sẻ với Dân trí.
+Ngoài ra, Facebook cũng cho biết công ty có chính sách quảng cáo chi tiết và rõ ràng, được thiết kế để đảm bảo rằng các quảng cáo không vi phạm chính sách này và không liên kết đến các nội dung gây hiểu lầm, spam hoặc gian lận.
+"Quảng cáo trước khi xuất hiện trên Facebook hoặc Instagram sẽ được xem xét để đảm bảo tuân thủ theo Chính sách quảng cáo. Bất kỳ ai cũng có thể báo cáo một quảng cáo trên Facebook nếu họ tin rằng nó vi phạm Chính sách Quảng cáo của chúng tôi", đại diện Facebook cho biết thêm.
+Dẫu vậy, trong thời gian qua, hàng loạt quảng cáo sai phạm vẫn liên tục xuất hiện trên nền tảng này từ quảng cáo thuốc đông y, lô đề, cờ bạc cho đến các quảng cáo liên quan tới những hội nhóm "Sugar Baby - Sugar Daddy".
+"Cũng giống như các quảng cáo thuốc đông y, những người này thường có thói quen làm việc theo kiểu ăn xổi, đánh nhanh rút gọn. Vì thế, họ sẽ spam quảng cáo trong một khoảng thời gian ngắn để thu hút được một lượng người quan tâm. Sau khi đạt được mục đích, họ có thể bỏ luôn tài khoản Facebook Ads đó", ông Nguyễn Nhật Anh, một chuyên gia hoạt động trong lĩnh vực Digital Marketing chia sẻ.
+Trao đổi với Dân trí, đại diện Công ty Luật TNHH DTLAW cho biết những đoạn video quảng cáo như trên đã vi phạm nghiêm trọng khoản 1, điều 7 Luật Quảng cáo 2012, cấm quảng cáo "hàng hóa, dịch vụ bị cấm kinh doanh theo quy định pháp luật".
+Thế Anh

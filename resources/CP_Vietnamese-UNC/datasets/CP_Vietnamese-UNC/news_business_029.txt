@@ -1,0 +1,11 @@
+# doc_id = news_business_029
+# url = https://dantri.com.vn/kinh-doanh/anh-tinh-phat-hanh-tien-so-rieng-giua-con-bao-bitcoin-20210419221337211.htm
+# date = 20210419
+Vương quốc Anh sẽ là quốc gia mới nhất tham gia vào cuộc đua phát hành tiền số của các ngân hàng trung ương trên toàn cầu (Ảnh: Getty).
+Phát biểu tại một hội nghị ngành công nghệ tài chính diễn ra ngày 19/4, Bộ trưởng Tài chính Anh Rishi Sunak cho biết: "Chúng tôi đang thành lập một lực lượng đặc nhiệm mới giữa Bộ Tài chính và Ngân hàng Trung ương Anh (BoE) để phối hợp nghiên cứu phát triển một loại tiền kỹ thuật số do ngân hàng trung ương phát hành".
+Trong một tuyên bố riêng, BoE cũng cho biết, đây là một loại tiền tệ kỹ thuật số do BoE phát hành. Đồng tiền này sẽ được sử dụng rộng rãi và tồn tại song song cùng với tiền mặt và tiền gửi ngân hàng chứ không phải để thay thế.
+Theo CNBC, hiện chính phủ Anh vẫn chưa quyết định có giới thiệu phiên bản kỹ thuật số của đồng bảng Anh hay không nhưng cho biết sẽ xem xét "các mục tiêu, trường hợp sử dụng, các cơ hội cũng như các rủi ro" liên quan nếu đồng tiền được phát hành. BoE cũng sẽ thành lập một đơn vị chuyên về tiền số của ngân hàng trung ương.
+Động thái này diễn ra trong bối cảnh một số ngân hàng trung ương đang chạy đua để tìm ra chiến lược riêng cho các đồng tiền số do ngân hàng trung ương phát hành. Sự bùng nổ của bitcoin và các đồng tiền số khác cùng với xu hướng giảm sử dụng tiền mặt đã tạo động lực cho các sáng kiến đó.
+Ngoài ra, một yếu tố khác thúc đẩy các ngân hàng trung ương triển khai tiền số là các dự án tiền ảo tư nhân. Các loại tiền này đang cố gắng neo giá trị thị trường vào một số tham chiếu bên ngoài như đồng đô la Mỹ để tránh biến động giá như hầu hết các loại tiền điện tử hiện nay.
+Trung Quốc dường như đã đi trước các nước lớn khác về phát hành tiền số của ngân hàng trung ương. Ngân hàng Trung ương Trung Quốc đã thực hiện một số thử nghiệm với tiền số của mình tại các thành phố lớn. Một quan chức hàng đầu ở Trung Quốc cho biết, họ có thể sẽ triển khai đồng nhân dân điện tử cho du khách nước ngoài tại Thế vận hội Olympic mùa Đông Bắc Kinh 2020.
+Nhật LinhTheo Reuters

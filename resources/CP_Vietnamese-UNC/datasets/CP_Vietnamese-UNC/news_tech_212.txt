@@ -1,0 +1,16 @@
+# doc_id = news_tech_212
+# url = https://dantri.com.vn/suc-manh-so/sony-ra-mat-loat-tv-bravia-xr-tai-viet-nam-tich-hop-tri-tue-nhan-thuc-20210427161434677.htm
+# date = 20210427
+Sáng 27/4, Sony Electronics Việt Nam đã ra mắt thế hệ TV BRAVIA XR mới, bao gồm các dòng Master Series Z9J 8K LED, A90J OLED, A80J OLED, X95J và X90J 4K LED.
+Điểm đáng chú ý nhất trên thế hệ TV BRAVIA mới nằm ở bộ xử lý trí tuệ nhận thức Cognitive Processor XR. Sony cho biết bộ não của các dòng TV BRAVIA XR sử dụng phương pháp xử lý hoàn toàn mới, vượt ngoài khả năng của trí tuệ nhân tạo (AI), mô phỏng cách con người nghe và nhìn.
+Thế hệ TV BRAVIA mới được trang bị bộ xử lý trí tuệ nhận thức Cognitive Processor XR.
+Theo đó, bộ xử lý Cognitive Processor XR với trí tuệ nhận thức sẽ tự nhận biết vị trí của điểm nhìn bằng cách chia màn hình ra thành nhiều vùng và nhận diện từng đối tượng riêng lẻ trong các vùng này.
+Trí tuệ nhân tạo hiện chỉ tìm kiếm và phân tích các yếu tố hình ảnh như màu sắc, sự tương phản và các chi tiết một cách riêng lẻ. Trong khi đó, bộ xử lý mới của Sony có thể phân tích chéo khoảng vài trăm nghìn yếu tố khác nhau cùng một thời điểm tương tự cách não người hoạt động.
+Bằng cách này, mỗi yếu tố sẽ được điều chỉnh để có kết quả tốt nhất và đồng bộ với nhau nhằm tạo ra sự hài hòa và cảm giác hoàn toàn chân thực - điều mà AI chưa thể đạt được.
+Ngoài ra, bộ xử lý trí tuệ nhận thức Cognitive Processor XR có thể phân tích vị trí của tín hiệu âm thanh để đồng bộ chuẩn xác những gì đang thể hiện trên màn ảnh, đồng thời nâng cấp mọi tín hiệu âm thanh lên chuẩn âm thanh vòm 3D.
+Cognitive Processor XR có khả năng học, phân tích, hiểu được lượng dữ liệu lớn và tối ưu một cách thông minh mọi điểm ảnh, khung hình và cảnh để mang đến chất lượng hình ảnh, âm thanh sống động nhất.
+Loạt TV mới của Sony được tích hợp nhiều tính năng chuyên biệt phục vụ nhu cầu giải trí, chơi game.
+Bên cạnh đó, thế hệ TV BRAVIA XR mới cũng được tích hợp Google TV, cho phép người dùng dễ dàng truy cập vào các nội dung giải trí, phim ảnh, chương trình truyền hình, chương trình trực tuyến và các ứng dụng.
+Ngoài ra, tất cả TV BRAVIA XR đều được trang bị HDMI 2.1 và tương thích e-ARC, hỗ trợ hình ảnh với độ phân giải 4K cùng tần số quét 120 fps, phù hợp với những người dùng có nhu cầu chơi game.
+Hiện tại, Sony chưa công bố giá bán của thế hệ TV mới của hãng tại thị trường Việt Nam.
+Thế Anh

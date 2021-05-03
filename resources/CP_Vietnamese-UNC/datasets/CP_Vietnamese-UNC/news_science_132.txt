@@ -1,0 +1,15 @@
+# doc_id = news_science_132
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/loai-con-trung-ky-la-co-kha-nang-an-cap-dna-tu-thuc-vat-20210326062018776.htm
+# date = 20210326
+Một nhóm nghiên cứu của Trung Quốc tiết lộ rằng ruồi trắng sử dụng gene bị đánh cắp này để phân giải các chất độc phổ biến mà thực vật sử dụng để tự vệ chống lại côn trùng, cho phép chúng ăn cây một cách an toàn.
+"Đây là ví dụ đầu tiên được ghi nhận về việc chuyển gene theo chiều ngang của một gene chức năng từ thực vật sang côn trùng. Trong đó, BtPMaT1 là gene vô hiệu hóa các hợp chất độc hại do cây tạo ra", Ted Turlings, nhà sinh thái học hóa học và côn trùng học tại Đại học Neuchâtel, Thụy Sĩ.
+Các nhà khoa học tin rằng thực vật có thể sử dụng BtPMaT1 trong tế bào của chúng để lưu trữ các hợp chất độc hại ở dạng vô hại, vì vậy thực vật không tự nhiễm độc.
+Mới đây, nhóm nghiên cứu do Youjun Zhang từ Viện Rau và Hoa thuộc Học viện Khoa học Nông nghiệp Trung Quốc, đã sử dụng kết hợp các phân tích di truyền và phát sinh loài, để phát hiện ra rằng khoảng 35 triệu năm trước, ruồi trắng đã đánh cắp gene bảo vệ này để giúp chúng có khả năng tự giải độc các hợp chất độc hại.
+Turlings giải thích: "Chúng tôi nghĩ rằng một loại virus trong cây có thể đã sử dụng gene BtPMaT1 và sau khi bị ruồi trắng ăn vào, virus này hẳn đã làm gì đó bên trong côn trùng, nhờ đó gene đó đã được tích hợp vào bộ gene của ruồi trắng. Tất nhiên, đây là một sự kiện cực kỳ khó xảy ra, nhưng nếu bạn nghĩ về khoảng thời gian hàng triệu năm và hàng tỷ loài côn trùng, virus và thực vật theo thời gian, thì điều này có thể xảy ra một lần. Nếu gene thu được là một lợi ích cho côn trùng, sau đó nó sẽ được ưa thích về mặt tiến hóa và có thể lây lan".
+Ruồi trắng thực tế là một loài có hại với nông nghiệp trên toàn thế giới. Nó có thể tấn công ít nhất 600 loài thực vật khác nhau trên toàn thế giới.
+"Một trong những câu hỏi mà chúng tôi tự hỏi là làm thế nào những loài côn trùng này có được những khả năng thích nghi đáng kinh ngạc như vậy để phá vỡ sự phòng thủ của thực vật. Với khám phá mới, ít nhất một lý do có thể được quan tâm," Turlings nói.
+Sử dụng kết quả nghiên cứu mới, các nhà khoa học từ Trung Quốc đã tạo ra một chiến lược mới để tác động đến ruồi trắng. Cụ thể, các nhà khoa học đã phát triển một phân tử RNA nhỏ can thiệp vào gen BtPMaT1 của ruồi trắng, làm cho ruồi trắng nhạy cảm với các hợp chất độc hại của thực vật.
+"Bước thú vị nhất của thiết kế này là khi các đồng nghiệp của chúng tôi điều khiển gene cây cà chua để bắt đầu tạo ra phân tử RNA này. Một khi ruồi trắng ăn cà chua và ăn phải RNA do thực vật tạo ra, gene BtPMaT1 của chúng đã bị tắt khiến côn trùng chết 100%, nhưng thao tác di truyền không ảnh hưởng đến sự tồn tại của các loài côn trùng khác đã được thử nghiệm", Turlings cho biết.
+Với những nỗ lực tập trung để sản xuất cây trồng biến đổi gene có khả năng ngăn chặn gene ruồi trắng, đây có thể hoạt động như một chiến lược mục tiêu để kiểm soát dịch hại nhằm chống lại sự tàn phá nông nghiệp do quần thể ruồi trắng gây ra.
+Trang Phạm
+Theo Scitech Daily

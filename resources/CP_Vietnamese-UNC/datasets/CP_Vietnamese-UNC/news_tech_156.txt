@@ -1,0 +1,21 @@
+# doc_id = news_tech_156
+# url = https://dantri.com.vn/suc-manh-so/may-chu-cho-doanh-nghiep-sme-va-cau-chuyen-bao-mat-20210427201555937.htm
+# date = 20210427
+Theo báo cáo của IDC, nhu cầu sử dụng máy chủ tại khối doanh nghiệp vừa và nhỏ (SME) đã tăng trưởng mạnh. Đơn cử, trong quý 2/2020, thị trường kinh doanh máy chủ toàn cầu ghi nhận doanh thu ở mức 24 tỷ USD, tăng 19,8% so với cùng kỳ 2019. Chi tiết hơn, nhóm máy chủ tầm trung ghi nhận doanh thu lên đến 3,3 tỷ USD.
+Điều đó cho thấy, quan niệm rằng chỉ có các doanh nghiệp lớn, với ngân sách dồi dào và sở hữu hạ tầng CNTT cùng đội ngũ nhân sự riêng biệt thì mới "an tâm" đầu tư máy chủ đã hoàn toàn thay đổi. Vậy lí do cho sự thay đổi này là gì?
+An toàn từ nội lực
+Theo báo cáo kinh tế Việt Nam 2020 của StreamBit, số lượng doanh nghiệp áp dụng các nền tảng kĩ thuật số lên đến 48%. Ngoài ra, 5% các doanh nghiệp đầu tư các giải pháp công nghệ mới, dẫn đến nhu cầu trang bị máy chủ tại các đơn vị này cũng tăng vọt. Tuy nhiên, với doanh nghiệp SME, việc chọn mua máy chủ luôn phải đứng trước hàng loạt "cân nhắc" giữa giá thành, hiệu suất, khả năng thích ứng với hạ tầng cũng như nguồn nhân sự CNTT hiện tại.
+Theo số liệu điều tra năm 2020 do hãng viễn thông Mỹ Verizon thực hiện, hơn 28% các cuộc tấn công đánh cắp dữ liệu là nhắm vào các SMB. Thậm chí, hãng bảo mật Kaspersky đã ngăn chặn tổng cộng hơn 2,89 triệu lượt tấn công nhắm vào các SMB, tăng đến 20% so với năm 2019.
+Dẫu vậy, tâm lý "ngại" giá cao, quy trình vận hành phức tạp là thách thức lớn khi doanh nghiệp SME cân nhắc đến yếu tố bảo mật cho hệ thống của mình. Không ít doanh nghiệp thờ ơ với kho dữ liệu quý giá của chính mình, giữ thói quen lưu trữ, sao lưu truyền thống.
+Nhằm "hóa giải" bài toán kinh phí lẫn vận hành cho các doanh nghiệp SME khi triển khai máy chủ, HPE cung cấp các giải pháp máy chủ ProLiant Gen10 / Gen10 Plus với chi phí hợp lý, khả năng vận hành giản đơn và hơn hết là tính bảo mật tuyệt đối. Với dải sản phẩm cực đa dạng, đáp ứng mọi nhu cầu hạ tầng CNTT của doanh nghiệp SME:
+- ML Series: Nhóm máy chủ dạng tower
+- DL Series: Nhóm máy chủ dạng rack
+- MicroServer: Máy chủ mini cho các văn phòng nhỏ
+Với quan niệm "bảo mật phải từ lõi", công nghệ độc quyền Silicon Root of Trust của các dòng sản phẩm cao cấp đã được HPE trang bị trên tất cả dòng máy chủ HPE Proliant Gen10. Công nghệ này cung cấp một khả năng tự động hóa ở mức cao nhất, cho phép kiểm tra định kì và cập nhật firmware cho máy chủ, ngăn chặn ngay nếu có sai sót và cho phép khôi phục lại trạng thái tốt nhất trước đó. HPE Silicon Root of Trust đã được công nhận là giải pháp Cyber Catalyst năm 2019.
+Ngoài ra, để hỗ trợ nhân viên IT theo sát được tình trạng máy chủ và xử lý ngay khi có vấn đề, HPE cung cấp tính năng iLO 5 được nhúng trên bo mạch hệ thống cho phép thực hiện tất cả các tác vụ như bật, tắt, vận hành và giám sát tình trạng hoạt động máy chủ từ xa thông qua máy tính cá nhân.
+Công ty Gentis là một đơn vị tiên phong trong lĩnh vực phân tích di truyền tại Việt Nam. Với số lượng khách hàng lên đến 100,000 người, công ty cần lưu trữ và xử lý lượng dữ liệu cực lớn.
+"Các mẫu phân tích về di truyền, sinh hóa, miễn dịch lại thuộc về yếu tố cá nhân, đòi hỏi khả năng bảo mật dữ liệu của Gentis phải đạt mức cao nhất cũng như các kết quả phải luôn luôn sẵn sàng để nhân viên Gentis có thể tra cứu nhanh chóng khi cần", ông Nguyễn Tuấn Đạt, phụ trách IT tại Gentis chia sẻ.
+Từ thực tế đó, Gentis đã tìm kiếm, cân nhắc nhiều giải pháp CNTT, trong đó có việc trang bị các hệ thống máy chủ với tiêu chí chi phí đầu tư ban đầu hợp lí, thiết kế tinh gọn, nhưng vẫn đảm bảo hiệu suất và quan trọng nhất là yếu tổ bảo mật dữ liệu.
+Đến nay, sau 4 năm chọn và sử dụng các giải pháp HPE Proliant để đầu tư cho hạ tầng CNTT, ông Đạt hồ hởi cho biết hệ thống CNTT của Gentis hoạt động rất ổn định. Công ty luôn cảm thấy "an tâm" với việc quản lý và bảo mật thông tin khách hàng. Các kết quả xét nghiệm luôn được "khóa két" tuyệt đối, hạn chế tình trạng bị rò rỉ thông tin ảnh hưởng đến cá nhân của khách hàng và uy tín của Gentis. Ông Đạt cũng cho biết sẽ tiếp tục lựa chọn giải pháp HPE ProLiant để mở rộng hạ tầng CNTT của Gentis trong tương lai.
+Để tìm hiểu thêm về giải pháp máy chủ HPE ProLiant, vui lòng xem tại link: https://smb-server.elite-jsc.vn/video/
+Trường Thịnh

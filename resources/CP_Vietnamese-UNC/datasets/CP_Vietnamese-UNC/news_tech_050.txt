@@ -1,0 +1,15 @@
+# doc_id = news_tech_050
+# url = https://dantri.com.vn/suc-manh-so/bop-meo-canh-tranh-apple-nhan-an-phat-tuong-duong-10-doanh-thu-20210501130031605.htm
+# date = 20210501
+Theo Phone Arena, Ủy ban châu Âu (EC) vừa có kết luận cáo buộc Apple đã "bóp méo sự cạnh tranh trên thị trường nhạc trực tuyến, lạm dụng vị trí thống trị của mình trong việc phân phối ứng dụng qua App Store".
+Trước khi đi đến kết luận này, EC xem xét 2 yếu tố, một là cơ chế bắt buộc mua hàng trong ứng dụng đối với các app phát nhạc trực tuyến của bên thứ 3, và hai là thiếu tùy chọn hỗ trợ nhà phát triển thêm phương thức mua hàng khác.
+Đây là những hành vi mà theo EC, là chống lại sự cạnh tranh theo luật của Liên minh châu Âu. Do đó, Apple một lần nữa bị cáo buộc vi phạm quy định chống độc quyền.
+Nếu chính thức bị kết tội, Apple có thể nhận khoản tiền phạt lên tới 27 tỷ USD, tương đương 10% doanh thu hàng năm của công ty. Quan trọng hơn, Apple sẽ cần phải thay đổi "cơ chế kinh doanh" nếu muốn tiếp tục cung cấp một số dịch vụ nhất định ở EU.
+"Với Apple Music, hãng cũng chèn ép các nhà cung cấp dịch vụ phát nhạc trực tuyến. Bằng cách đặt ra các quy tắc nghiêm ngặt trên App Store, gây bất lợi cho đối thủ, Apple tước đi những lựa chọn rẻ hơn dành cho người dùng và bóp méo cạnh tranh", bà Margrethe Vestager - Phó Chủ tịch EC cho biết.
+Bà cũng nhận định rằng Apple từ lâu đã cho thấy họ là "người gác cổng cho người dùng iPhone, iPad qua App Store", và trở thành thế lực quá lớn của nền kinh tế kỹ thuật số, lấn áp các phương thức kinh doanh khác.
+Horacio Gutierrez - Giám đốc pháp lý tại Spotify thì cho rằng đây chỉ là bước đầu tiên để buộc Apple phải chịu trách nhiệm về hành vi phản cạnh tranh. Ông cũng khẳng định cầncó một sân chơi bình đẳng cho tất cả các nhà phát triển ứng dụng.
+Phản hồi sau kết luận của EC, một đại diện của Apple cho biết: "Spotify không trả Apple bất kỳ khoản hoa hồng nào đối với hơn 99% người dùng của họ và chỉ trả 15% cho những thuê bao còn lại".
+Gã khổng lồ xứ Cupertino cũng không quên chỉ trích Spotify muốn hưởng lợi từ App Store nhưng không trả bất cứ nào, đồng thời cho rằng điều này là ngược lại với tinh thần cạnh tranh công bằng.
+Trước cáo buộc nêu trên, Apple cũng đang gặp khá nhiều rắc rối về pháp lý với các lý do tương tự. Mới đây nhất là từ Rakuten hay Epic Games (nhà phát triển của Fortnite).
+Nguyễn Nguyễn
+Theo Phonearena

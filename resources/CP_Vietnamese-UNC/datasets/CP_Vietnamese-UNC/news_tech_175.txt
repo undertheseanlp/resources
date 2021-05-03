@@ -1,0 +1,23 @@
+# doc_id = news_tech_175
+# url = https://dantri.com.vn/suc-manh-so/nha-may-thong-minh-la-chia-khoa-de-dn-viet-vuot-len-thach-thuc-dich-benh-20210430043003925.htm
+# date = 20210430
+Năm 2021, doanh nghiệp (DN) sản xuất vẫn phải đối mặt với nhiều thách thức khách quan và chủ quan như dịch bệnh, áp lực cạnh tranh từ đối thủ nước ngoài, đình trệ chuỗi cung ứng, giá cả hàng hóa leo thang, năng suất sản xuất thấp....
+Vì lẽ đó, các DN này đang chung trăn trở làm sao giảm chi phí, nâng cao năng suất, chất lượng sản phẩm và trải nghiệm khách hàng.
+Đây là nhận định của ông Lê Đức Anh - Giám đốc giải pháp Nhà máy Thông minh, Khối Giải pháp SMB, CMC TS tại Hội thảo trực tuyến "Smart Manufacturing - Lộ trình Chuyển đổi số cho Doanh nghiệp sản xuất" do CMC TS cùng HPE, Siemens và Aruba tổ chức.
+Trong đó theo ông, hướng đi chuyển đổi số nhà máy sản xuất được xem là khả thi và đáng để thực hiện cho các DN Việt Nam trong bối cảnh thế giới đã bắt đầu chuyển mình trước trào lưu này.
+Xu hướng chuyển mình sang Nhà máy thông minh
+Chia sẻ tại Hội thảo, ông Lê Đức Anh cho biết trên thế giới, công nghệ được ứng dụng mạnh nhất để chuyển đổi số nhà máy sản xuất là Quản lý vòng đời sản phẩm (PLM) chiếm 40%, MES/SCADA cung cấp dữ liệu được ứng dụng nhiều thứ hai… Ngoài ra, có các hệ thống như: giám sát từ xa, robotics, phân tích số liệu, in 3D…
+Tại Việt Nam, việc ứng dụng công nghệ diễn ra ở nhiều cấp độ. Đa phần DN có bước đi ban đầu ở mảng thu thập số liệu để có bức tranh trực quan về hoạt động sản xuất, hệ thống giám sát hiện trường giúp giám sát từ xa,...
+Tuy nhiên, máy móc sản xuất tự động hóa chưa được kết nối lên hệ thống quản lý thông tin nên vẫn tồn tại thao tác thủ công, chưa đem lại hiệu quả tối ưu cho hoạt động sản xuất kinh doanh.
+Để giải bài toán cho các DN, ông Lê Đức Anh đưa ra một số phương pháp như ứng dụng thu thập số liệu, kết nối tự động hóa, hệ sinh thái IoT,... giúp kết nối chuỗi sản xuất từ nguyên vật liệu, nhà cung cấp, nhà máy, khách hàng…
+Từ đó, thúc đẩy hệ thống sản xuất kết nối với đối tác, đảm bảo cung ứng thông suốt. "Nhà máy thông minh là nhà máy ứng dụng, tận dụng tối đa công nghệ để tạo đột biến về năng suất, chất lượng, đảm bảo tối đa lợi ích cho khách hàng." - ông Lê Đức Anh nhấn mạnh.
+Thời điểm phù hợp nhất để phát triển nhà máy thông minh với cloud và AI?
+Hội thảo trực tuyến "Smart Manufacturing - Lộ trình Chuyển đổi số cho Doanh nghiệp sản xuất"
+Theo ông Bằng Tạ - Giám đốc Kinh doanh Siemens tại thị trường Việt Nam, DN Việt dường như đang ở thời điểm phù hợp để phát triển nhà máy thông minh với trí tuệ nhân tạo và điện toán đám mây, nhưng để xây dựng được cần lộ trình, chiến lược và hiểu biết của con người.
+Là DN đứng đầu mảng phần mềm, đầu tư 5 - 6 tỷ USD cho R&D, ông Tạ cho biết Siemens đã áp dụng nhiều công nghệ tiên tiến vào chuyển đổi số mô hình sản xuất truyền thống. DN này định nghĩa nhà máy thông minh cần sử dụng công nghệ thông tin để phục vụ cho vận hành, xây dựng và kết nối các phòng ban trong hệ thống. Trong đó, thông tin là quan trọng nhất.
+Trong khi đó, ông Tariq Shallwani - Giám đốc Kinh doanh khu vực châu Á-Thái Bình Dương của HPE cho rằng sản xuất thông minh bắt đầu từ xu hướng lớn như: Trí tuệ nhân tạo; Sản xuất bền vững (giúp giảm khí thải, giảm chỉ số carbon); Siêu kết nối (dữ liệu liên tục chảy); An ninh công nghiệp (các thuật toán truyền thống được kết nối lại, bảo mật là giá trị của DN)…
+Ngoài ra, một thách thức lớn trong chuyển đổi số nhà máy sản xuất là khả năng kết nối và tuân thủ. Một mặt, kỳ vọng của khách hàng ngày càng tăng có nghĩa là thiết kế và mô phỏng kỹ thuật số là những khía cạnh quan trọng để cải thiện sản phẩm và dịch vụ.
+Ông Nguyễn Thái Vinh - Kỹ sư tư vấn Giải pháp Aruba thì cho rằng khi áp dụng nhiều công nghệ vào sản xuất thì nhà máy sẽ đối mặt nguy cơ mất an ninh cho hệ thống, gây tác động đến quy trình sản xuất đang hoạt động liên tục.
+Để giải quyết vấn đề này, ông Vinh đề xuất ứng dụng AI vào công tác vận hành để hiểu hành vi của khách hàng, đề xuất được cấu hình tốt nhất cho từng khối khách hàng. Từ đó, phát hiện ra sự cố tiềm tàng và tìm ra hướng xử lý.
+Đại diện này cũng khẳng định chuyển đổi số chính là chìa khóa mở đầu cho quá trình chuyển đổi từ nhà máy truyền thống sang nhà máy thông minh với sản xuất tự động hóa và đảm bảo an ninh thông tin.
+Nguyễn Nguyễn

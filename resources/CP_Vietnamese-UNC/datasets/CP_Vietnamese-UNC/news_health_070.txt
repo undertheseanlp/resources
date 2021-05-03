@@ -1,0 +1,12 @@
+# doc_id = news_health_070
+# url = https://dantri.com.vn/suc-khoe/ca-covid-19-lay-tu-chuyen-gia-an-do-nhiem-chung-bien-the-lay-lan-nhanh-20210430180455700.htm
+# date = 20210430
+Trước tình hình dịch Covid-19 ở các nước xung quanh Việt Nam đang diễn biến phức tạp. Bộ trưởng Bộ Y tế đã chỉ đạo các viện đầu ngành tiến hành giải trình tự gen của những người nhập cảnh vào Việt Nam đã mắc Covid-19 để đánh giá, có các biện pháp kiểm soát dịch phù hợp.
+Tại Yên Bái, nơi phát hiện nhân viên khách sạn Như Nguyệt 2 - nơi đoàn chuyên gia Ấn Độ cách ly mắc Covid-19, Viện Vệ sinh dịch tễ Trung ương đã tiến hành lấy mẫu tất cả các chuyên gia Ấn Độ và trường hợp bệnh nhân này để xét nghiệm giải trình tự gen.
+Kết quả ngày 30/4 cho thấy, tất cả các mẫu xét nghiệm của các chuyên gia Ấn Độ và nhân viên khách sạn thuộc biến thể hiện đang lưu hành và gây bệnh tại Ấn Độ. Cụ thể là biến thể B.1.167.2.
+Trước đó, như Dân trí đưa tin, ca Covid-19 ở Yên Bái là nhân viênkhách sạn Như Nguyệt 2, do tiếp xúc, lây nhiễm từ đoàn chuyên gia Ấn Độ.
+Ngày 26/4/2021, Sở Y tế tổ chức lấy mẫu xét nghiệm lần 4 cho 7 trường hợp F1 của các bệnh nhân BN 2786, BN 2.811, BN 2.812, BN 2.831 (là 4 chuyên gia Ấn Độ nhập cảnh vào Việt Nam, được cách ly tại Yên Bái) và lấy mẫu lần 2 cho 01 trường hợp F1 là nhân viên khách sạn và 01 cán bộ y tế tại khu cách ly tập trung Khách sạn Như Nguyệt 2, thành phố Yên Bái, tỉnh Yên Bái.
+Kết quả có 01 trường hợp dương tính với SARS-CoV-2, 08 trường hợp còn lại có kết quả âm tính.
+Trường hợp dương tính vớiSARS-CoV-2là nam giới, 63 tuổi, nhân viên khách sạn có tiếp xúc với đoàn chuyên gia Ấn Độ nhập cảnh từ ngày 18/4/2021, trong đoàn đã có 04 ca dương tính trước đó.
+Hiện bệnh nhân đang tiếp tục được điều trị tại Bệnh viện Bệnh Nhiệt đới Trung ương.
+Tú Anh

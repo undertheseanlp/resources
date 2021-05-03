@@ -1,0 +1,21 @@
+# doc_id = news_tech_052
+# url = https://dantri.com.vn/suc-manh-so/cach-thoat-khoi-noi-am-anh-ba-con-goi-cho-toi-tri-xuong-khop-20210331140043922.htm
+# date = 20210331
+Những ngày gần đây, nhiều người dùng YouTube tại Việt Nam phản ánh rằng họ liên tục gặp phải các quảng cáo thuốc đông y, thuốc nam. Đủ mọi loại thuốc như trị xương khớp, trị xuất tinh sớm, trị sỏi thận xuất hiện trên nền tảng xem video trực tuyến này. Tần suất của chúng dày đặc đến mức khiến nhiều người cảm thấy ám ảnh, khó chịu.
+Dưới đây là một số giải pháp có thể giúp bạn thoát khỏi nỗi ám ảnh trên và không còn phải nghe câu nói "bà con, ai đang gặp các vấn đề về xương khớp gọi cho tôi. Tôi cam kết chữa khỏi 100%".
+Khi xem YouTube trên trình duyệt web
+Đây là một thủ thuật rất đơn giản, giúp người dùng không bị làm phiền bởi quảng cáo khi xem video trên Youtube mà không cần phải cài đặt thêm bất kỳ phần mềm hoặc công cụ hỗ trợ nào.
+Theo đó, bạn chỉ việc thêm một dấu "." vào phía sau phần mở rộng ".com" trên đường link của video Youtube bạn đang xem. Tuy nhiên, giải pháp này chỉ có thể áp dụng khi xem Youtube trên trình duyệt web của máy tính.
+Chẳng hạn, nếu video trên Youtube bạn đang xem có đường link https://www.youtube.com/watch?v=4LNbLv6OANU thì bạn cần sửa đường link này trên trình duyệt web thành https://www.youtube.com./watch?v=4LNbLv6OANU (thêm dấu "." vào phía sau phần ".com") rồi nhấn nút Enter. Bây giờ, đoạn video Youtube sẽ được phát mà không hề có sự xuất hiện của bất kỳ nội dung quảng cáo nào.
+Đáng chú ý, sau khi bạn đã sửa lại đường link của video trên Youtube thành dạng https://www.youtube.com./, nếu tiếp tục chuyển sang xem các video khác trên Youtube, định dạng đường link vẫn được giữ nguyên như vậy, đồng nghĩa với việc bạn sẽ không còn bị quảng cáo làm phiền.
+Dùng ứng dụng thay thế
+Hiện tại, có khá nhiều phần mềm khác nhau có khả năng thay thế ứng dụng YouTube của Google và hỗ trợ người dùng xem video trên nền tảng này mà có thể bỏ qua hoàn toàn quảng cáo như YouTube Vanced, Vanced Tuber,...
+Bên cạnh việc công dụng chặn quảng cáo, chúng còn được tích hợp thêm nhiều chức năng nâng cao khác như phát video dưới nền, phát video khi tắt màn hình nhằm tối ưu hóa trải nghiệm khi xem Youtube của người dùng.
+YouTube Vanced hay Vanced Tuber đều có khả năng chặn quảng cáo hoàn toàn ở các vị trí khác nhau. Tính năng này giúp cho người xem có thể tập trung vào nội dung chính của video mà không bị phân tán bởi các quảng cáo xuất hiện trên Youtube.
+Các phần mềm này đều cho phép người dùng đăng nhập bằng tài khoản Google và sử dụng mọi tính năng tương tự phiên bản YouTube gốc. Tuy nhiên, một hạn chế của những ứng dụng này là nó hiện chỉ hỗ trợ trên các thiết bị chạy trên hệ điều hành Android như smartphone Android hay TV thông minh Android.
+Đăng ký tài khoản Premium
+Ngoài ra, đối với những người dùng muốn xem video trên ứng dụng YouTube gốc của Google, bạn có thể đăng ký tài khoản Premium. Điều này sẽ giúp bạn loại bỏ toàn bộ quảng cáo trên mọi thiết bị từ smartphone, máy tính hay smart TV.
+Tuy nhiên, hiện tại YouTube chưa hỗ trợ dịch vụ này chính thức tại thị trường Việt Nam. Để có thể đăng ký tài khoản Premium, người dùng sẽ cần phải sử dụng một số thủ thuật.
+Đầu tiên, bạn cần tải một phần mềm VPN để chuyển đổi vùng quốc gia của tài khoản YouTube mà bạn đang sử dụng sang một quốc gia khác có hỗ trợ đăng ký YouTube Premium. Sau khi đã chuyển đổi, bạn chỉ cần thực hiện đăng ký như các dịch vụ thông thường.
+Cần lưu ý rằng, sau khi đăng ký thành công dịch vụ Premium, tài khoản của bạn sẽ chỉ có tính năng loại bỏ quảng cáo. Ngoài ra, các chức năng khác như xem video dưới nền hay tắt màn hình khi xem video sẽ không hoạt động.
+Thế Anh

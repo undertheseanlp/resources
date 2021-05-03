@@ -1,0 +1,15 @@
+# doc_id = news_health_030
+# url = https://dantri.com.vn/suc-khoe/3-cong-dan-tu-lao-ve-cach-ly-o-ha-tinh-duong-tinh-voi-sars-co-v-2-20210430231613194.htm
+# date = 20210430
+Chiều tối 30/4, thông tin từ Sở Y tế Hà Tĩnh, kết quả xét nghiệm các công dân tại khu cách ly tập trung ở địa phương này đã ghi nhận có 3 trường hợp dương tính với vi-rút SARS-CoV-2.
+Các trường hợp gồm: N.V.H. (SN 1991), T.T.H. (SN 1990), N.Đ.A (SN 2020, đều trú tại TP Thanh Hóa, tỉnh Thanh Hóa). Cả 3 công dân đều đi về từ Thủ đô Viêng Chăn, Lào.
+Khu cách ly Mitraco - nơi có 3 trường hợp đang cách ly dương tính với SARS-CoV-2.
+Hiện các bệnh nhân nói trên đã được đưa tới Bệnh viện Đa khoa khu vực Cửa khẩu quốc tế Cầu Treo để điều trị và theo dõi.
+Trước đó, ngày 28/4, 3 công dân làm thủ tục nhập cảnh qua Cửa khẩu quốc tế Cầu Treo. Đến khoảng 21h ngày 28/4 được đưa về cách ly tập trung tại khu ký túc xá Mitraco (thị xã Kỳ Anh).
+Ngày 29/4, Trung tâm Kiểm soát bệnh tật tỉnh Hà Tĩnh đã điều tra, lấy mẫu làm xét nghiệm lần 1 cho kết quả nghi ngờ.
+Ngày 30/4, Trung tâm Kiểm soát bệnh tật tỉnh Hà Tĩnh lấy mẫu xét nghiệm lần 2 cho kết quả dương tính.
+Sau khi có kết quả của 3 bệnh nhân nói trên, các lực lượng chức năng đã tiến hành khử khuẩn khu vực cách ly tập trung khu KTX Mitraco.
+Sở Y tế Hà Tĩnh cũng đã chỉ đạo thực hiện cách ly nghiêm ngặt đối với 3 công dân trên. Tiến hành lấy mẫu xét nghiệm tất cả những người đi cùng chuyến xe từ Cửa khẩu quốc tế Cầu Treo về khu cách ly với 3 trường hợp dương tính.
+Kết quả xét nghiệm tất cả 14 người (đi cùng xe với các bệnh nhân từ Lào về) đã có kết quả âm tính, trong đó: 4 người âm tính 2 lần, 10 người âm tính lần 1.
+Ngoài ra, những người làm nhiệm vụ có tiếp xúc trực tiếp với các bệnh nhân, do đều được trang bị bảo hộ đầy đủ nên chỉ tiến hành lấy mẫu xét nghiệm sàng lọc.
+Tiến Hiệp

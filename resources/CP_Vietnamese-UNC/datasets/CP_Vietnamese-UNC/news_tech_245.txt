@@ -1,0 +1,11 @@
+# doc_id = news_tech_245
+# url = https://dantri.com.vn/suc-manh-so/ung-dung-di-dong-ho-tro-du-khach-tham-quan-bao-tang-my-thuat-20210422161215415.htm
+# date = 20210422
+Đây là ứng dụng đa phương tiện (audio, text, ảnh chất lượng cao), trợ giúp người dùng tham quantrực tuyếnhoặctrực tiếptại Bảo tàng Mỹ thuật Việt Nam. Ứng dụng được tích hợp trên cả hai nền tảng Android và iOS, sử dụng công nghệ quét mã QR và định vị iBeacon.
+Hơn cả một ứng dụng Thuyết minh tự động thông thường, iMuseum VFA còn có những tính năng đáng chú ý như cho phép xem hình ảnh chất lượng cao của tác phẩm, đọc nội dung bài giới thiệu, xác định chính xác vị trí trưng bày hiện vật, xem sơ đồ hệ thống trưng bày, phân biệt các phòng đã, đang và chưa tham quan bằng màu sắc,…
+Du khách có thể quét mã QR để khám phá 100 tác phẩm tiêu biểu trên hệ thống trưng bày thường xuyên của Bảo tàng Mỹ thuật Việt Nam.
+Chỉ với chiếc điện thoại di động hoặc máy tính bảng có kết nối Internet và trả phí sử dụng ứng dụng 50.000 đồng/lượt, du khách có thể tự do khám phá 100 tác phẩm tiêu biểu trên hệ thống trưng bày thường xuyên của Bảo tàng Mỹ thuật Việt Nam ở bất cứ nơi đâu, bất cứ khi nào. Thời lượng cho mỗi lần sử dụng là 8 giờ, với 8 ngôn ngữ: Việt, Anh, Pháp, Trung, Nhật, Hàn, Tây Ban Nha và Ý (trong thời gian tới sẽ bổ sung thêm tiếng Đức).
+Ứng dụng iMuseum VFA là kết quả của dự án xã hội hóa phối hợp giữa Bảo tàng Mỹ thuật Việt Nam và Công ty Cổ phần Phần mềm Ứng dụng Di động Việt Nam (VINMAS), xuất phát từ nhu cầu cải thiện chất lượng tham quan cho du khách, đồng thời nắm bắt được lợi ích của việc ứng dụng công nghệ thông tin vào công tác bảo tồn và phát huy giá trị di sản văn hóa nói chung và di sản mỹ thuật nói riêng.
+Đây cũng là bước cụ thể hóa chủ trương của lãnh đạo Bộ Văn hóa, Thể thao và Du lịch trong việc triển khai các hoạt động theo chương trình chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030 của Chính phủ.
+"Đây chắc chắn sẽ là một cú húych để các điểm du lịch văn hóa nói chung và hệ thống các bảo tàng nói riêng có động lực chuyển mình, bắt kịp với xu hướng trên thế giới, tạo ra những trải nghiệm mới, thú vị và tiện lợi cho khách du lịch", ông Nguyễn Trung Khánh, Tổng cục trưởng Tổng Cục Du lịch chia sẻ tại buổi lễ.
+Thế Anh

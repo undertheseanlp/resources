@@ -1,0 +1,38 @@
+# doc_id = news_education_191
+# url = https://dantri.com.vn/giao-duc-huong-nghiep/on-thi-tot-nghiep-thpt-mon-vat-li-bi-quyet-kiem-diem-7-mot-cach-de-dang-20210416212023975.htm
+# date = 20210416
+Đó là lời khuyên của thầy Đỗ Ngọc Hà, giáo viên Vật lí tại Hệ thống Giáo dục HOCMAI. Bên cạnh đó, thầy Hà cũng đưa ra một số lưu ý giúp các em tránh được những lỗi sai cơ bản khi làm bài thi.
+Ưu tiên ôn luyện kiến thức cơ bản
+Trong cấu trúc đề thi môn Vật lí có đến 70% là mức độ Nhận biết - Thông hiểu. Do đó, học sinh phải ưu tiên ôn luyện kiến thức cơ bản để có thể nắm chắc 7 điểm.
+Nếu các em đặt ra mục tiêu điểm số cao thì cần chú ý tới kiến thức của các chương Dao động cơ, Sóng cơ và Dòng điện xoay chiều. Đa số các câu hỏi Vận dụng - Vận dụng cao trong đề thi chính thức thuộc các chương này. Đặc biệt, các câu hỏi trong đề thi đóng vai trò quan trọng như nhau nên các em không được chủ quan trước những câu hỏi dễ.
+"Bên cạnh đó, trong quá trình ôn luyện các em cần chú ý tới việc không học những kiến thức đã được Bộ Giáo dục và Đào tạo công bố công văn tinh giản gần nhất, tránh mất thời gian vào những vùng kiến thức đã được lược bỏ", thầy Hà cho biết.
+Thầy giáo Vật lý Đỗ Ngọc Hà
+Ở giai đoạn này, học sinh nên kết hợp luyện đề và tổng ôn, rà soát kiến thức. Trong quá trình luyện đề, các em sẽ phát hiện được những lỗ hổng, thiếu sót về kiến thức và từ đó tìm ra cách khắc phục những lỗi mà mình mắc phải. Vùng kiến thức nào còn yếu, các em nên quay lại phần đó và học kĩ, hiểu sâu.
+Thêm vào đó, trong khi làm đề các em cần tìm các đề thi thử chất lượng của các trường uy tín, của các thầy cô giáo có kinh nghiệm để làm, tránh chọn bừa các đề thi có cách ra đề không bám sát bản chất,...
+Khi luyện đề, học sinh nên quan tâm đến chất lượng hơn số lượng, không nên chạy đua làm nhiều đề thi nhưng lại không đọng lại được nhiều kinh nghiệm, kiến thức cho bản thân.
+Những lưu ý để tránh mất điểm oan
+Theo chia sẻ của thầy Đỗ Ngọc Hà, những nguyên nhân mà học sinh mất điểm trong quá trình làm bài có thể kể đến như lý thuyết không nắm vững, biến đổi cẩu thả, phân bổ thời gian làm bài không hợp lí,…
+Để tránh những lỗi sai này các em nên dành thời gian còn lại để khắc phục những điểm yếu mình thường mắc phải khi làm đề, xây dựng phương pháp học hiệu quả phù hợp với mục tiêu điểm số bản thân.
+Với việc chuẩn bị hành trang kiến thức không chu đáo, khi làm bài các em dễ dàng bị "mắc bẫy" ở những câu hỏi yêu cầu phải hiểu bản chất của vấn đề. Ví dụ câu hỏi như sau:
+Một mạch dao động LC lý tưởng đang có dao động điện từ tự do. Gọi u là hiệu điện thế giữa bản A và bản B của tụ điện thì điện tích của bản B biến thiên
+A. trễ pha π/2 so với u.
+B. sớm pha π/2 so với u.
+C. ngược pha với u.
+D. cùng pha với u."
+Khi gặp câu hỏi này rất nhiều thí sinh với kiến thức nền tảng không tốt sẽ chọn ngay phương án D bởi vì các em chỉ nhớ máy móc rằng: điện tích và hiệu điện thế trên tụ điện là cùng pha với nhau.
+Tuy nhiên, trong câu hỏi này thí sinh phải hiểu bản chất của vấn đề là: điện tích của bản A và bản B trên tụ điện luôn trái dấu - tức ngược pha nhau, hiệu điện thế giữa bản A và bản B thì cùng pha với điện tích của bản A và ngược pha với điện tích của bản B. Do đó, phương án đúng phải là C.
+Đây là một ví dụ nhỏ minh chứng cho việc nhiều bạn học sinh đang có xu hướng học "vẹt", không hiểu bản chất vật lý trong bài toán dẫn đến lựa chọn phương án sai.
+Một điểm cần lưu ý nữa, các em học sinh thường chủ quan với các câu hỏi dễ, đọc không kĩ đề, không chú ý tới đơn vị đo,... Chẳng hạn như câu hỏi sau:
+Biết c = 3.108 m/s. Năng lượng nghỉ của 3 gam một chất bất kì bằng
+A. 2,7.1014 kWh.
+B. 7,5.107 kWh.
+C. 2,7.1017 kWh.
+D. 7,5.1010 kWh"
+Trong câu hỏi này, nhiều học sinh sử dụng công thức E = m.c2 và bấm máy tính sẽ cho ra kết quả là 2,7.1014 và ngay lập tức chọn phương án A. Tuy nhiên kết quả 2,7.1014 mà học sinh bấm máy đang có đơn vị là jun (J). Do đó, đáp án A (đơn vị kWh) là không chính xác. Học sinh phải làm thêm 1 bước nữa là đổi đơn vị từ J sang kWh (lấy 2,7.1014 chia cho 3,6.106) và cho ra phương án chính xác là B. 7,5.107 kWh
+Thêm vào đó, việc phân bổ thời gian không hợp lí cũng chính là lý do khiến thí sinh mất điểm. Các em thường dành nhiều thời gian ở một số câu hỏi nhưng không giải quyết được dẫn đến thiếu thời gian ở những câu hỏi khác mà trong khả năng các em có thể làm được.
+Chuẩn bị tâm lí thật tốt cho kì thi sắp tới
+Việc chuẩn bị tâm lý tốt sẽ giúp học sinh có phong độ học tập và kết quả làm bài hiệu quả cao. Trong mùa thi, các em thường bị căng thẳng kéo dài tác động mạnh đến tinh thần, sức khỏe. Từ đó dẫn đến các trường hợp như suy giảm trí nhớ, tiếp thu kiến thức và phân tích thông tin chậm, làm cho quá trình ôn thi trở nên kém hiệu quả.
+Để giải quyết vấn đề này các em nên ôn tập một cách bình tĩnh với tâm thế tự tin nhất. Ăn uống đủ chất và đúng giờ, không nên thức quá khuya, nên dành thời gian ngủ đủ để đầu óc được thư giãn. Các hoạt động thể dục, thể thao, giải trí cũng là một cách để các em giải phóng năng lượng, tăng khả năng tập trung và tiếp thu kiến thức.
+"Mỗi học sinh nên biết lựa chọn cho mình một phương pháp học tập phù hợp, xây dựng một thời gian biểu hợp lí, khoa học, một lối sống lành mạnh.
+Bên cạnh đó, các em cần tránh việc học tủ và hạn chế việc ôm đồm học quá nhiều, thấy thầy cô nào cũng theo dẫn đến việc rối loạn kiến thức,.. từ đó dẫn đến việc ôn thi không hiệu quả, kết quả lại không cao", thầy Hà nhấn mạnh.
+Nhật Hồng
