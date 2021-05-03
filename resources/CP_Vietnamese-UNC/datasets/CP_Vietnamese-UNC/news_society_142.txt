@@ -1,11 +1,9 @@
 # doc_id = news_society_142
-# url = https://dantri.com.vn/xa-hoi/hai-can-nha-boc-chay-du-doi-o-sai-gon-20210426192544590.htm
-# date = 20210426
-Theo Phòng Cảnh sát PCCC và Cứu nạn cứu hộ Công an TPHCM, lúc 17h45 cùng ngày, căn nhà trên đường Lý Thường Kiệt (phường 11, quận Tân Bình) bất ngờ xảy ra hỏa hoạn.
-Ngay khi ngọn lửa bùng phát, lực lượng chữa cháy tại chỗ cố gắng dùng nước và bình chữa cháy để dập lửa, nhưng không hiệu quả. Đám cháy sau đó lan sang căn nhà 4 tầng kinh doanh về mặt hàng sơn kế bên.
-Sau đó, đội Cảnh sát PCCC và Cứu nạn cứu hộ Công an quận Tân Bình điều động nhiều xe chuyên dụng và hàng chục cán bộ chiến sĩ đến hiện trường, chia thành nhiều mũi, triển khai các biện pháp phun nước vào bên trong để dập lửa.
-Ghi nhận thực tế tại hiện trường vào thời điểm xảy ra vụ hỏa hoạn, hệ thống điện bị ngắt trên diện rộng, nhiều tiếng nổ phát ra từ căn nhà 4 tầng. Ngoài ra, giao thông qua khu vực ùn tắc cả hai hướng.
-Cảnh sát vẫn đang nỗ lực khống chế đám cháy.
-Bước đầu xác định, hỏa hoạn không gây thiệt hại về người nhưng nhiều tài sản ở 2 căn nhà bị "Bà hỏa" viếng đều bị thiêu rụi.
-Nguyên nhân đang được công an điều tra.
-Hoàng Thuận
+# url = https://dantri.com.vn/xa-hoi/hai-duong-tam-dung-cac-hoat-dong-dong-nguoi-dip-le-304-va-15-20210430044543319.htm
+# date = 20210430
+Tối 29/4, trao đổi với phóng viên Dân trí, một lãnh đạo Tỉnh ủy tỉnh Hải Dương cho biết, trước tình hình dịch Covid-19 đang diễn biến phức tạp trên thế giới, đặc biệt là một số nước ở gần với nước ta, UBND tỉnh Hải Dương đã yêu cầu tạm dừng tổ chức các sự kiện biểu diễn nghệ thuật, lễ hội và các hoạt động có tập trung đông người trong dịp nghỉ lễ 30/4 và 1/5.
+Hải Dương tạm dừng hoạt động đông người dịp 30/4-1/5. (Ảnh minh họa: Nguyễn Dương).
+Tỉnh Hải Dương yêu cầu cán bộ, công chức, viên chức, người lao động và người dân ra khỏi địa bàn tỉnh vào dịp nghỉ lễ 30/4 và 1/5 khi quay trở về bắt buộc phải khai báo y tế; nếu có một trong các biểu hiện ho, sốt, khó thở... phải báo với cơ sở y tế nơi gần nhất để được hướng dẫn. Xử lý nghiêm các cá nhân không khai báo y tế hoặc khai báo y tế không trung thực.
+Tiếp tục tăng cường công tác quản lý đối với các trường hợp đề nghị nhập cảnh vào Việt Nam để phòng chống dịch bệnh Covid-19 theo hướng dẫn gửi kèm Công văn số 3440/CV-BCĐ ngày 27/4/2021 của Ban Chỉ đạo Quốc gia và Quyết định số 936/QĐ-UBND ngày 23/3/2021 của UBND tỉnh Hải Dương về việc ban hành Quy chế tạm thời về phối hợp tổ chức cách ly y tế tập trung tại khách sạn cho người lao động nước ngoài và thân nhân vào cách ly tại tỉnh Hải Dương.
+Các sở, ban, ngành, đoàn thể, đơn vị trong tỉnh, UBND các huyện, thị xã, thành phố khẩn trương triển khai thực hiện ý kiến chỉ đạo của Ban Thường vụ Tỉnh ủy tại Thông báo số 203-TB/TU ngày 28/4/2021 và tiếp tục thực hiện nghiêm Công điện số 02/CĐ-UBND ngày 26/4/2021 của Chủ tịch UBND tỉnh Hải Dương về tăng cường thực hiện phòng chống dịch bệnh Covid-19.
+Nguyễn Dương

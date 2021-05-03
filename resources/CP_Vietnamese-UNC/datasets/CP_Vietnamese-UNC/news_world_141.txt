@@ -1,15 +1,11 @@
 # doc_id = news_world_141
-# url = https://dantri.com.vn/the-gioi/may-bay-lon-nhat-the-gioi-tro-lai-bau-troi-sau-2-nam-o-an-20210501220001348.htm
-# date = 20210501
-Stratolaunch ngày 29/4 đã cất cánh lần thứ 2 tại Nam California, Mỹ.
-Chuyến bay thử nghiệm kéo dài 4 giờ đồng hồ được thực hiện ở sa mạc Mojave.
-Stratolaunch, chiếc máy bay lớn nhất thế giới, đã bay thử lần đầu vào 2 năm trước, nhưng sau đó, nó đã "im hơi lặng tiếng" cho tới ngày 29/4.
-Chiếc máy bay 6 động cơ đã hạ cánh an toàn trên đường băng bằng 28 bánh xe và công ty Stratolaunch đã gọi đây là một bài bay thử nghiệm "thành công". 
-Stratolaunch có tên gọi khác là Roc - một loài chim huyền thoại khổng lồ trong thần thoại Trung Đông.
-Nó có sải cánh 117 mét, độ cao tối đa hơn 10.600 mét.
-Máy bay này được phát triển bởi người đồng sáng lập tập đoàn Microsoft, tỷ phú Paul G. Allen.
-Tuy nhiên, ông Allen đã qua đời vài tháng trước khi Roc cất cánh lần đầu vào tháng 4/2019. Chiếc máy bay sau đó đã được bán cho một bên khác.
-Ông Allen ban đầu muốn dùng chiếc máy bay để phóng các tên lửa mang vệ tinh vào không gian ở trên cao. Tuy nhiên, chủ mới của Roc muốn sử dụng nó để làm công cụ phóng các phương tiện bay siêu thanh sử dụng trong nghiên cứu.
-Roc được trang bị 6 động cơ, và sải cánh của nó dài hơn một sân bóng bầu dục của Mỹ.
+# url = https://dantri.com.vn/the-gioi/may-bay-quan-su-my-thoi-bay-bai-dap-truc-thang-20210423154240088.htm
+# date = 20210423
+Bãi đáp trực thăng bị gió từ cánh quạt máy bay thổi bay (Ảnh chụp màn hình).
+Theo RT, bãi đáp trực thăng của bệnh viện Addenbrooke ở Cambridge, Anh đã bị thổi bay bởi chiếc CV22 Osprey khi nó tham gia một cuộc huấn luyện hôm 21/4.
+Trong đoạn video ghi lại vụ việc, máy bay quân sự Mỹ đã gây ra vụ việc trong lúc cất cánh và gió mạnh từ cánh quạt đã xé toạc và thổi tung từng phần của bãi đáp trực thăng. Bãi đáp sau đó được sửa chữa.
+Vì một số cơ sở cấp cứu trước đó sử dụng bãi đáp trên để chuyên chở bệnh nhân nên các trực thăng của những cơ sở này hiện buộc phải chuyển hướng hạ cánh xuống sân bay thành phố Cambridge cách đó vài km. Sau đó, bệnh nhân tiếp tục được chuyển bằng xe cứu thương tới bệnh viện. Điều này làm dấy lên lo ngại về việc các bệnh nhân có thể phải chờ đợi lâu hơn để có thể được cấp cứu trong lúc trình trạng nguy cấp.
+Trong khi đó, những người chứng kiến vụ việc cho biết, vì sàn đáp bị xé rách thành nhiều mảnh nên họ lo các mảnh này có thể "đi lạc" vào cánh quạt gây ra tai nạn nguy hiểm tới chiếc máy bay.
+Phía không đoàn máy bay chiến đấu 48 của Mỹ đóng quân tại căn cứ Mildenhall của Anh xác nhận vụ việc, và cho biết họ đang giải quyết sự cố.
 Đức Hoàng
-Ảnh: Reuters
+Theo RT

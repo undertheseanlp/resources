@@ -1,19 +1,21 @@
 # doc_id = news_travel_168
-# url = https://dantri.com.vn/du-lich/loat-mon-an-noi-tieng-viet-nam-nhung-doa-du-khach-nuoc-ngoai-khoc-thet-20210425190834177.htm
-# date = 20210425
-Việt Nam nổi tiếng với văn hóa ẩm thực đa dạng và phong phú. Tuy nhiên, không ít món ăn đặc sản lại là thử thách với khách nước ngoài.
-Nhộng tằm
-Nhộng tằm là loại côn trùng giàu chất dinh dưỡng, được dùng làm thức ăn phổ biến ở Việt Nam. Đĩa tằm rang vàng ruộm thêm chút lá chanh thái nhỏ dễ dàng kích thích du khách. Nhộng tằm có vị béo bùi và giòn tan trong miệng khi thưởng thức nên được xem là món khoái khẩu của nhiều người.
-Tuy nhiên, món đặc sản Việt Nam này lại là nỗi e sợ với nhiều du khách quốc tế, nhất là khi chưa qua chế biến. Những con nhộng tằm nhiều đốt ngoe nguẩy qua lại khiến nhiều vị khách "sởn da gà".
-Ve sầu
-Món ăn là đặc sản của miền Tây Việt Nam với giá cả khá đắt đỏ, từ 300.000 đến 500.000 nghìn đồng/kg. Cũng giống như côn trùng, ve sầu sống dưới đất hoặc trên các tán cây, chúng có thể là vật chủ của các bào tử nấm, sinh vật ký sinh gây hại.
-Tuy là đặc sản với người Việt Nam nhưng vì hình thù của những con ve sầu giống những con sâu bọ, nên nhiều du khách không dám thưởng thức.
-Tiết canh
-Món ăn này phổ biến từ xa xưa trong ẩm thực của người Việt, đặc biệt là ở miền Bắc, nhưng hiếm thấy trong ẩm thực các quốc gia khác trên thế giới.
-Trong quá trình chế biến, tiết của động vật không qua bất kỳ công đoạn tiệt trùng nào mà được ăn trực tiếp cùng với lạc rang và rau thơm. Nhiều vị khách nước ngoài chỉ nhìn thôi cũng đã e sợ.
-Tiết canh cũng thường xuyên nằm trong danh sách những món ăn kinh dị nhất thế giới.
-Nem chua
-Nem chua là đặc sản được ưa thích bởi nhiều du khách trong nước.
-Nem thường được làm từ thịt lợn sống trộn cùng các gia vị và phụ gia, cho thêm men tự chín và ủ sau một thời gian ngắn thì có thể dùng chứ không làm chín bằng nhiệt.
-Người Việt Nam thường hay dùng nem chua như một món nhậu. Nhưng đối với du khách nước ngoài món ăn từ thịt sống như thế này lại không mấy dễ ăn.
+# url = https://dantri.com.vn/du-lich/mon-tom-bo-nhay-tanh-tach-trong-mieng-thach-thuc-thuc-khach-o-quang-ninh-20210410182536487.htm
+# date = 20210410
+Tôm bò là món đặc sản nổi tiếng của vùng Liên Vị, đảo Hà Nam, Quảng Yên (Quảng Ninh). Du khách đến đây, khi nghe về món ăn mang tên "tôm bò" thì phần đa đều ngạc nhiên, tò mò.
+Sở dĩ gọi là tôm bò vì trước kia, khi người Liên Vị ăn món này: tôm được thả trong chậu hay xô nước, ăn đến đâu bắt đến đấy. Con tôm tươi còn phải nhảy tanh tách, khiến nước bắn tung tóe mới "đúng kiểu". Ngày nay, tôm được để vào trong bát ô tô hay đĩa sâu lòng để nhìn gọn gàng, đẹp đẽ hơn.
+Tôm rảo còn tươi roi rói, nhảy tanh tách trong bát.
+Để có món tôm bò đúng chuẩn Liên Vị thì trước nhất là phải chọn được loại tôm rảo - loại nhỏ, cỡ như đầu đũa là ngon nhất.
+Nhưng giờ trong các nhà hàng thì loại tôm rảo này thường có kích cỡ to hơn, tầm bằng ngón tay trỏ, nặng 15-20 gram.
+Tôm rảo, còn có tên gọi khác là tôm đất đồng, là loài tôm biển thuộc chi, họ tôm he. Tôm rảo có thân màu xanh trong, chùy trán hơi cong lên; các đốt bụng 2 - 3 có gờ ở lưng khá rõ; các chân bò thường có vằn nâu nhạt.
+Tôm mua về được rửa sạch, để ráo nước hoặc sau khi rửa sạch với nước thì để vào một bát ô tô nước sạch.
+Tôm vẫn phải tươi sống, nhảy tanh tách trong bát. Tôm bò bản chất cũng là món gỏi nên không thể thiếu các loại rau sống ăn kèm.
+Ăn kèm cùng tôm sẽ là rau chuối thái mỏng, rau muống chẻ, diếp cá, rau thơm; thêm cả dứa, gừng tươi và cà rốt thái chỉ.
+Một loại rau ăn kèm không thể thiếu là rau lá mui - một giống cây được trồng ở các ô đầm nuôi thủy sản. Lá mui là một loại kháng sinh rất tốt khi ăn sống hải sản. Người dân ở đây cũng thường chuẩn bị thêm bánh đa, cơm nguội để ăn kèm.
+Cái vị của món tôm bò nằm ở loại nước chấm riêng có gọi là nước chua. Nước chua được nấu từ me xanh. Nước me đun sôi cho đến khi đặc quánh thì bỏ thêm lạc rang thơm, ớt chỉ thái nhỏ, vài tép tỏi đập dập, nêm nếm gia vị cho vừa ăn.
+Món nước chua không thể thiếu trong món tôm bò.
+Khi ăn, thực khách sẽ chọn 1 - 2 con tôm rảo, bỏ đầu, gói trong lá mui, rau sống, cơm nguội sao cho gọn, vừa miếng rồi chấm vào nước chua.
+"Người bản địa thì sẽ cho tôm nguyên con, rau, cơm nguội, bánh đa bẻ nhỏ vào bát, rồi chan nước me, thêm ít lạc rang, ớt tươi. Đưa vào miệng, cảm giác như con tôm vẫn nhảy tanh tách, quẫy quẫy lên" - anh Quang Huy (người dân Quảng Yên) chia sẻ.
+Món tôm bò nổi danh Quảng Ninh. (Ảnh: Quang Huy).
+Cái cảm giác như con tôm tươi đang nhảy tanh tách trong miệng có thể khiến thực khách thích thú, phấn khích nhưng cũng có thể khiến nhiều thực khách khác phải "sởn da gà".
+Món ăn đặc sản của vùng Quảng Yên này không phải mùa nào cũng có, mùa nào cũng ngon và cũng không phải ở cửa hàng nào cũng chuẩn vị tôm bò Liên Vị.
 Khôi Vũ

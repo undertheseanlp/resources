@@ -1,15 +1,20 @@
 # doc_id = news_world_151
-# url = https://dantri.com.vn/the-gioi/my-day-manh-dan-mat-than-do-tham-bien-dong-doi-pho-trung-quoc-20210501085030090.htm
-# date = 20210501
-Máy bay do thám P-8A Poseidon (Ảnh: Wikipedia).
-Một thống kê của tổ chức Sáng kiến Thăm dò Tình hình Chiến lược ở Biển Đông (SCSPI) thuộc Đại học Bắc Kinh, Trung Quốc công bố hôm 30/4 cho thấy Mỹ đã thực hiện 65 chuyến bay do thám trên Biển Đông vào tháng 4.
-Ngoài ra, theo SCSPI, kể từ khi Tổng thống Mỹ Joe Biden nhậm chức, Mỹ trong 4 tháng đầu năm 2021 đã thực hiện số nhiệm vụ do thám tăng 40% so với cùng kỳ năm 2020.
-Theo bản báo cáo trên, Mỹ đã đưa 5 loại máy bay trinh sát tới Biển Đông trong thời gian qua, phản ánh mối quan tâm của Mỹ tới mọi hoạt động trong khu vực từ tuần tra hàng hải đến tình báo tín hiệu.
-P-8A Poseidon là máy bay thực hiện nhiều nhiệm vụ trinh thám nhất, với 43 lần xuất phát trong tháng 4, trong khi chiếc E-8C Orion nhận 5 nhiệm vụ. Hai loại máy bay này đều có khả năng theo dõi tàu mặt nước và tàu ngầm. Trong khi đó, chiếc EP-3E Aries II thực hiện 10 nhiệm vụ trinh thám, và chiếc RC-135W thực hiện 6 nhiệm vụ.
-Ngoài ra, SCSPI cũng phát hiện ra máy bay E-8C Joint STARS 5 lần xuất phát để trinh thám ở Biển Đông trong tháng qua. Máy bay không người lái MQ-4C Triton cũng được điều động làm nhiệm vụ tại khu vực biển giàu tài nguyên trong tháng 4.
-Trước đó, tháng 2/2021 được xem là tháng SCSPI phát hiện số chuyến bay trinh thám Biển Đông nhiều nhất từ phía Mỹ với 75 nhiệm vụ.
-Động thái của Mỹ diễn ra trong bối cảnh căng thẳng đang nóng lên ở Biển Đông, khu vực mà Trung Quốc nêu yêu sách chủ quyền phi pháp với phần lớn diện tích thông qua cái gọi là "đường chín đoạn" - thuật ngữ không được cộng đồng quốc tế công nhận. Hồi giữa tháng, cả Mỹ và Trung Quốc đều đưa các nhóm tác chiến tàu sân bay tới Biển Đông, động thái được xem là phát đi thông điệp cứng rắn.
-Hôm 29/4, người phát ngôn Bộ Quốc phòng Trung Quốc Wu Qian nói rằng, kể từ khi ông Biden nhậm chức vào ngày 20/1, số chuyến bay do thám Biển Đông của Mỹ tăng 40%, trong khi các tàu chiến làm số nhiệm vụ tăng 20% so với cùng kỳ năm trước.
-Mỹ khẳng định các yêu sách chủ quyền của Trung Quốc ở Biển Đông là bất hợp pháp và tuyên bố sẽ có động thái giúp bảo vệ quyền lợi của các quốc gia khác trong khu vực theo luật lệ quốc tế.
+# url = https://dantri.com.vn/the-gioi/my-dieu-may-bay-quan-su-tim-kiem-tau-ngam-indonesia-giua-luc-song-con-20210423063854136.htm
+# date = 20210423
+Cảnh sát biển Indonesia tham gia tìm kiếm tàu ngầm mất tích (Ảnh: AFP).
+Phát ngôn viên Lầu Năm Góc John Kirby ngày 22/4 thông báo rằng Mỹ đang điều "vũ khí hoạt động trên không" tới hỗ trợ tìm kiếm tàu ngầm Indonesia mất tích hôm 21/4.
+"Chúng tôi rất đau buồn khi nghe tin về tàu ngầm Indonesia mất tích. Theo đề nghị từ phía chính phủ Indonesia, chúng tôi điều động khí tài trên không tới hỗ trợ cuộc tìm kiếm", ông Kirby nói.
+Các nỗ lực tìm kiếm tàu đang được huy động tổng lực, gồm 3 tàu ngầm, 5 máy bay và 21 chiến hạm, Tham mưu trưởng hải quân Indonesia Yudo Margono cho biết.
+Ông Kirby cho biết thêm, Bộ trưởng Quốc phòng Mỹ Lloyd Austin dự kiến sẽ trao đổi với người đồng cấp Indonesia Prabowo Subianto trong hôm nay để bàn bạc thêm về những hạng mục Mỹ có thể làm để hỗ trợ cuộc tìm kiếm.
+Đài ABC của Australia đưa tin, chính quyền Indonesia cho biết, đội cứu hộ đã phát hiện ra một vật thể có "từ tính cao" trôi nổi ở độ sâu 50 -100 mét ở vùng biển phía bắc Bali, nơi tàu KRI Nanggala-402 mất tích.
+Tham mưu trưởng Margono cho biết, giới chức cho rằng vật thể chưa xác định có liên quan tới chiếc tàu ngầm mất tích sau khi mất toàn bộ liên lạc trong một cuộc tập trận ngư lôi 2 ngày trước đó.
+Ông Margono cho hay, bên cứu hộ hiện đang chờ đợi tàu hải quân được trang bị phương tiện dò tìm đến khu vực nhằm điều tra sâu hơn về nghi vấn trên.
+Trước đó, giới chức Indonesia tiết lộ rằng, lượng ôxy trên tàu ngầm đang sắp tới mức cạn kiệt và các nỗ lực tìm kiếm cần được đẩy lên nhanh để "chạy đua với thời gian" tìm kiếm khí tài này.
+Con tàu hiện đã mất tích 48 giờ, đồng nghĩa với việc trong gần 24 giờ tới, lượng ôxy sẽ hết và cơ hội cứu được thủy thủ đoàn đang thấp dần.
+"Hy vọng là chúng tôi có thể giải cứu họ trước khi cạn kiệt dưỡng khí vào 3h sáng ngày 24/4", ông Margono cho biết. Indonesia tuyên bố, ưu tiên chính lúc này là sự an toàn của 53 người trên tàu.
+Trước đó, đội cứu hộ đã tìm được một vết dầu loang trên khu vực gần nơi tàu biến mất, dấu hiệu cho thấy tàu ngầm có thể có trục trặc với khoang nhiên liệu hoặc đây là tín hiệu gửi đi từ các thủy thủ.
+Tuy nhiên, các chuyên gia cho rằng, nghi vấn rằng tàu ngầm có thể đã chìm xuống độ sâu 700 mét khiến hy vọng về việc cứu được hơn 50 người trở nên mong manh hơn khi những tàu chạy bằng diesel - điện cỡ nhỏ như KRI Nanggala-402 khó có thể chống chọi được áp suất vượt qua giới hạn cho phép.
+Ngoài Mỹ, thì Pháp, Đức, Nga, Thổ Nhĩ Kỳ, Hàn Quốc, Ấn Độ, Singapore, Malaysia đã điều động tàu giúp tìm kiếm hoặc đề nghị hỗ trợ Indonesia tìm tàu ngầm trong lúc "ngàn cân treo sợi tóc".
+Đồ họa mô phỏng vị trí tàu ngầm của Indonesia vào thời điểm mất tích (Ảnh: AFP).
 Đức Hoàng
-Theo Sputnik
+Theo ABC

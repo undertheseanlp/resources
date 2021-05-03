@@ -1,15 +1,13 @@
 # doc_id = news_health_148
-# url = https://dantri.com.vn/suc-khoe/khan-tim-hanh-khach-di-chung-chuyen-xe-da-nang-ha-noi-voi-ca-duong-tinh-20210429184215154.htm
-# date = 20210429
-Bộ Y tế đề nghị những hành khách đi trên xe khách (43B-048.78) tuyến Đà Nẵng - Hà Nội xuất phát lúc 20h30 ngày 21/4/2021 cần nhanh chóng liên hệ ngay với cơ quan y tế gần nhất để được tư vấn hỗ trợ.
-Hoặc có thể gọi điện đến các đường dây nóng cung cấp số điện thoại những người đã tiếp xúc gần với mình theo các số:
-+ 1900.9095 (Bộ Y tế)
-+ 0905.108.844 (Trung tâm Kiểm soát bệnh tật Đà Nẵng)
-+ 0969.082.115/0949.396.115 (Trung tâm Kiểm soát bệnh tật Hà Nội)
-- Khai báo y tế trực tuyến tại https://tokhaiyte.vn và thường xuyên cập nhật tình trạng sức khỏe.
-Thông báo này được cho là có liên quan đến ca dương tính SARS-CoV-2 tại Hà Nam.
-Thông tin từ Sở Y tế tỉnh Hà Nam cho biết, bệnh nhân N.V.Đ. (SN 1993), trú tại huyện Lý Nhân đã có kết quả xét nghiệm dương tính vớiSARS-CoV-2lần 1 tại Trung tâm Kiểm soát bệnh tật (CDC) tỉnh Hà Nam.
-Bệnh nhân N.V.Đ. nhập cảnh từ Nhật về, cách ly đủ 14 ngày tại Đà Nẵng và đã có 3 lần xét nghiệm âm tính với SARS-CoV-2 trong đó lần xét nghiệm cuối cùng là ngày 21/4. Khi về địa phương, ban đầu xác định có 4 trường hợp F1 của nam thanh niên này đã dương tính lần 1 với SARS-CoV-2.
-Liên quan đến ca mắc này, Hà Nội cũng xác định 1 trường hợp F1 đầu tiên, đi cùng chuyến xe từ Đà Nẵng ra Hà Nội với bệnh nhân.
-F1 này là một thanh niên, học viên của một trường học trên địa bàn. Hiện cơ quan chức năng đã giám sát chặt chẽ, lấy mẫu xét nghiệm, tiến hành các biện pháp phòng, chống dịch theo quy định.
-Tú Anh
+# url = https://dantri.com.vn/suc-khoe/lan-dau-tien-tinh-quang-nam-tiem-vac-xin-phong-covid-19-20210423115531894.htm
+# date = 20210423
+Sáng 23/4, tại điểm tiêm vắc xin phòng Covid-19 ở Trung tâm y tế dự phòng tỉnh Quảng Nam, rất nhiều bác sĩ, nhân viên y tế và những người tham gia phòng chống dịch thuộc thành viên Ban chỉ đạo phòng chống dịch tỉnh đã đến tiêm vắc xin phòng Covid-19.
+Những người đến tiêm vắc xin ngừa Covid-19 ghi phiếu đồng thuận.
+Ông Trần Văn Kiệm, Giám đốc Trung tâm kiểm soát bệnh tật Quảng Nam (CDC Quảng Nam) cho hay, để thực hiện tốt công tác tiêm vắc xin ngừa Covid-19, đảm bảo an toàn tiêm chủng và các biện pháp phòng chống lây nhiễm virus SARS-CoV-2, Sở Y tế đã giao CDC Quảng Nam làm đầu mối chỉ đạo hướng dẫn chuyên môn, kỹ thuật, đào tạo tập huấn, hướng dẫn các đơn vị triển khai; đảm bảo cung ứng đầy đủ vắc xin, trang thiết bị, vật tư, bơm kim tiêm, hộp an toàn, cho các cơ sở tiêm chủng, đồng thời sẵn sàng hỗ trợ chuyên môn, kỹ thuật và những vấn đề khác cho 20 cơ sở sáng nay triển khai tiêm đợt 1 bao gồm 18 Trung tâm y tế tuyến huyện/thị xã/thành phố, BVĐK tỉnh và CDC Quảng Nam.
+Ông Mai Văn Mười - Giám đốc Sở Y tế tỉnh Quảng Nam được tiêm vắc xin ngừa Covid-19.
+Ông Mai Văn Mười - Giám đốc Sở Y tế tỉnh Quảng Nam - cho biết, trong đợt 1, ngành y tế Quảng Nam đã nhận được 8.400 liều vắc xin vắc xin ngừa Covid-19 và đã triển khai trên toàn tỉnh, ưu tiên nhóm đối tượng ở tuyến đầu phòng, chống dịch.
+"Đến thời điểm này, công tác tiêm vắc xin ngừa Covid-19 đầu tiên trên địa bàn tỉnh diễn ra đúng quy tắc của Bộ Y tế", Giám đốc Sở Y tế tỉnh Quảng Nam cho hay.
+Lọ vắc xin ngừa Covid-19 được tiêm đầu tiên ở tỉnh Quảng Nam.
+Cũng theo Giám đốc Sở Y tế tỉnh Quảng Nam, thời gian kết thúc tiêm vắc xin đợt 1 dự kiến vào ngày 5/5 tới. Trong đợt này Sở Y tế Quảng Nam triển khai tiêm tại tất cả các cơ sở y tế, trung tâm kiểm soát bệnh tật, có sự hỗ trợ từ các bệnh viện đa khoa tuyến tỉnh nhằm đảm bảo quy trình trước, trong và sau tiêm.
+Trong sáng 23/4, những người đến tiêm vắc xin này đều thực các bước như đi vào khu vực chờ, ghi phiếu đồng thuận, khám sàng lọc, tiêm chủng và theo dõi sau tiêm chủng. Sau hơn 1 giờ triển khai tiêm vắc xin, mọi diễn tiến đều an toàn, tốt đẹp. Những người được tiêm mũi đầu tiên đều vui vẻ, sức khỏe tốt.
+Công Bính

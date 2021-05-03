@@ -1,14 +1,11 @@
 # doc_id = news_travel_212
-# url = https://dantri.com.vn/du-lich/quang-ngai-muon-dung-cong-vien-dia-chat-can-lang-nghe-y-kien-nha-khoa-hoc-20210409195759660.htm
-# date = 20210409
-Trao đổi với PV Dân trí, Tiến sĩ Trần Tân Văn - nguyên Viện trưởng Viện khoa học Địa chất và Khoáng sản (Bộ TN&MT) bày tỏ bất ngờ trước ý định dừng công viên địa chất Lý Sơn - Sa Huỳnh của tỉnh Quảng Ngãi.
-"Tỉnh Quảng Ngãi đã tốn rất nhiều thời gian, tiền bạc. Các nhà khoa học trong và ngoài nước cũng tốn nhiều công sức, tâm huyết cho đề án này. Nếu Quảng Ngãi quyết định dừng thì thật sự rất tiếc nuối. Tỉnh cần lắng nghe ý kiến các nhà khoa học trước khi quyết định", Tiến sĩ Văn chia sẻ.
-Tại buổi họp báo mới đây, Chủ tịch UBND tỉnh Quảng Ngãi Đặng Văn Minh cho rằng, hiệu quả kinh tế - xã hội của Công viên địa chất Lý Sơn - Sa Huỳnh không rõ ràng. Do đó, với quan điểm cá nhân, ông Minh muốn dừng thực hiện Đề án. Vấn đề này sẽ được đưa ra Ban Thường vụ Tỉnh ủy xem xét, quyết định.
-Theo Tiến sĩ Trần Tân Văn, lý do dừng Đề án nêu trên là chưa đúng, chưa thuyết phục. Lấy ví dụ là cao nguyên đá Đồng Văn được công nhận Công viên địa chất toàn cầu, Tiến sĩ Văn cho rằng, danh hiệu quốc tế đã tác động tích cực đến kinh tế, xã hội của tỉnh Hà Giang.
-Trong 10 năm qua, nguồn lực đầu tư từ Trung ương cho tỉnh Hà Giang cũng cao hơn. Cơ sở hạ tầng giao thông, giáo dục… được đầu tư bài bản. Tỉnh Hà Giang đã thu hút được hàng loạt dự án lớn đầu tư vào lĩnh vực du lịch.
-Trước khi được công nhận Công viên địa chất toàn cầu, lượng du khách đến Hà Giang chỉ đạt khoảng 300 nghìn lượt mỗi năm. Sau 10 năm đạt danh hiệu quốc tế, lượng du khách đã tăng lên khoảng 2 triệu lượt mỗi năm và tiếp tục tăng. Tỉnh Hà Giang đang tính toán đến việc hạn chế du khách để đảm bảo "sức chịu tải" của cao nguyên đá Đồng Văn.
-Công viên địa chất Lý Sơn - Sa Huỳnh với vùng lõi là đảo Lý Sơn từng được kỳ vọng là đòn bẩy phát triển du lịch của tỉnh Quảng Ngãi.
-Việc triển khai xây dựng Đề án là ý chí của tỉnh Quảng Ngãi. Các nhà khoa học trong và ngoài nước chỉ được mời để giúp tỉnh hoàn thành Đề án này. Sau hơn 5 năm với bao công sức, tiền bạc, hồ sơ của Công viên địa chất Lý Sơn - Sa Huỳnh đã hoàn thành và vượt vòng sơ loại của UNESCO. Nhiều nhà khoa học, các tổ chức phải cùng chung tay mới đạt được kết quả này. Thế nhưng, tỉnh Quảng Ngãi lại có ý định dừng Đề án nhưng không hề tham vấn những cá nhân, tổ chức đã đồng hành trong nhiều năm qua.
-"Hồ sơ đã vượt vòng sơ loại và được UNESCO đánh giá khá tốt, vậy mà tỉnh Quảng Ngãi lại có ý định dừng. Điều này chắc chắn sẽ dẫn đến phản ứng tiêu cực từ UNESCO, không chỉ riêng Quảng Ngãi mà sau này các địa phương khác cũng sẽ bị ảnh hưởng", Tiến sĩ Trần Tân Văn nhận định.
-Trong vai trò là người gắn bó với Đề án từ khi thành lập, Tiến sĩ Trần Tân Văn kiến nghị, tỉnh Quảng Ngãi cần có một hội thảo để lắng nghe ý kiến của các nhà khoa học trước khi đưa ra quyết định.
-Quốc Triều
+# url = https://dantri.com.vn/du-lich/rung-ron-canh-dung-dia-hut-mau-trong-nam-moi-de-cau-may-man-suc-khoe-20210402114121044.htm
+# date = 20210402
+Đã bao giờ bạn đặt những con đỉa hút máu lên chân mình? Nghe có vẻ đáng sợ, nhưng đây lại là truyền thống của người dân địa phương tại vùng Kashmir (Ấn Độ) vào dịp tết Ba Tư, Navroz.
+Truyền thống này được người dân duy trì từ nhiều đời nay nhằm đánh dấu sự khởi đầu của mùa xuân, đồng thời cầu một năm mới nhiều sức khỏe, may mắn.
+Theo người Kashmir, đỉa hút máu giúp điều trị những bệnh ngoài da, gồm cả viêm khớp, đau đầu mãn tính. Những con đỉa sẽ hút lượng máu nhỏ trên chân rồi tự động rời ra sau khoảng 30 phút. Được biết, liệu pháp điều trị này đã tồn tại khoảng 2.000 năm lịch sử.
+Trên thực tế, dùng đỉa để trị liệu không còn là phương pháp quá xa lạ với con người. Trong quá khứ, liệu pháp này thậm chí rất được ưa chuộng. Từ thời Ai Cập cổ đại, con người đã dùng đỉa để "tiêu máu độc" vốn được cho là gây ra nhiều bệnh. Tài liệu đầu tiên về việc dùng đỉa trong y học còn được tìm thấy trong thời Ấn Độ cổ đại.
+Sau đó, các bác sỹ thời Trung Cổ đã sử dụng chúng như "phụ tá hút máu" trong quá trình phẫu thuật. Tới đầu thế kỷ 19, liệu pháp đỉa đạt tới mức thịnh hành ở châu Âu.
+Vào thời điểm đó, mỗi năm Pháp dùng tới 20 - 30 triệu con đỉa, trong khi nước Anh cũng dùng 7 - 9 triệu con. Lúc bấy giờ, tại các bệnh viện hay nhà thuốc, người dân châu Âu đều quen thuộc với hình ảnh một chiếc lọ sứ đựng đỉa luôn có mặt trên quầy.
+Huy Hoàng
+Theo SCMP/ Healthline

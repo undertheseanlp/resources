@@ -1,15 +1,45 @@
 # doc_id = news_travel_058
-# url = https://dantri.com.vn/du-lich/cay-da-khong-lo-nhat-the-gioi-tuoi-doi-250-nam-tan-cay-phu-rong-14000-m-2-20210405163801720.htm
-# date = 20210405
-Khi du khách tận mắt chứng kiến cây đa khổng lồ trồng ở vườn bách thảo Acharya Jagadish Chandra Bose (Ấn Độ) có thể nhầm tưởng đó là một khu rừng. Với tuổi đời hơn 250 năm, cây cổ thụ này có phần tán cây trải rộng trên diện tích hơn 14.493 m2.
-Trên thực tế, chưa ai dám chắc chính xác tuổi của cây đại thụ này bởi không có tài liệu chính thức. Nhưng các chuyên gia dự đoán nó ít nhất 250 năm tuổi căn cứ theo tài liệu tham khảo được tìm thấy trong bài viết có niên đại từ thế kỷ 19 trở lại đây.
-Dọc theo chiều dài lịch sử và năm tháng, cây cổ thụ này đã trụ vững và sống sót qua 2 trận lốc xoáy lớn xảy ra vào năm 1864 và 1867. Không những thế, vào năm 1925, người ta còn phải cắt bỏ phần thân chính của nó do bị nhiễm loại nấm nguy hiểm.
-Dù trải qua cuộc "đại phẫu" như vậy, nhưng cây đa khổng lồ vẫn kiên cường và tiếp tục phát triển. Đáng chú ý ở chỗ, hàng nghìn rễ khí mọc từ cành và đâm thẳng xuống đất khiến nó giống như một khu rừng lớn.
-Việc chăm sóc đại thụ phức tạp tới mức vườn bách thảo cần đội ngũ 13 nhân viên phối hợp với nhau liên tục. Họ có nhiệm vụ ngoài kiểm tra đảm bảo "sức khỏe" của cây, còn theo dõi liệu rễ cây có phát triển đúng cách hay không.
-Ông Arabinda Pramanick, giám đốc vườn bách thảo cho biết: "Trong 30 năm qua, cây đa đã mở rộng và che phủ thêm hơn 8.000 m2. Hàng rào đầu tiên xung quanh cây được dựng ra vào năm 1985 rồi tới năm 2015 phải nới rộng thêm".
-Theo văn hóa Ấn Độ, cây đa vốn là một trong những loài cây được tôn kính nhất. Nó còn được coi là loại cây thiêng liêng trong các tôn giáo khác nhau.
-Chẳng hạn, trong Ấn Độ giáo, nó tượng trưng cho tuổi thọ, đại diện cho đấng sáng tạo Brahma. Với Phật giáo, loại cây này cũng mang ý nghĩa đặc biệt quan trọng vì người ta tin rằng Đức Phật đã ngồi dưới gốc đa suốt 7 ngày sau khi được giác ngộ. Ngoài ra, dưới tán cây đa thường là nơi người dân Ấn Độ tụ họp, trò chuyện và thư giãn.
-Muốn tận mắt nhìn thấy cây đa khổng lồ to như khu rừng này, du khách có thể đi bằng ô tô hoặc xe bus từ trung tâm thành phố Kolkata tới vườn bách thảo.
-Thời gian lý tưởng nhất để ghé thăm vào giữa tháng 9 tới tháng 3 hàng năm. Đó là lúc cái nóng oi ả của mùa hè đã giảm bớt. Ngoài đa khổng lồ, du khách có thể chiêm ngưỡng nhiều loài cây độc lạ khác từ khắp nơi trên thế giới.
-Quốc Việt
-Theo Odd/ Atlas Obscura
+# url = https://dantri.com.vn/du-lich/checkin-nhung-diem-den-bao-chill-o-xu-quang-20210424153952669.htm
+# date = 20210424
+Quảng Nam là một điểm đến du lịch hấp dẫn, tuyệt vời mà bạn nên trải nghiệm trong dịp nghỉ lễ này.
+Phố cổ Hội An là điểm đến được du khách yêu thích.
+Không chỉ sở hữu một điểm đến hai di sản thế giới khu đền tháp Mỹ Sơn và phố cổ Hội An; nơi đây còn được thiên nhiên ưu ái với những bãi biển xanh mát, đảo Cù Lao Chàm - khu dự trữ sinh quyển thế giới xinh đẹp, độc đáo…
+Hội An
+Hội An là điểm đến văn hóa, lịch sử, thiên nhiên không thể bỏ qua trên hành trình khám phá dải đất miền Trung của du khách.
+Ngoài ra, du khách có thể khám phá rừng dừa Bảy Mẫu, các làng nghề như làng gốm Thanh Hà, mộc Kim Bồng…
+Ngoài phố cổ Hội An, du khách sẽ có nhiều lựa chọn tuyệt vời trên hành trình khám phá của mình như tham quan các làng nghề truyền thống: làng gốm Thanh Hà, làng rau Trà Quế, mộc Kim Bồng… Các bãi biển xinh đẹp được bình chọn trên các tạp chí uy tín thế giới như An Bàng, Cửa Đại hay dạo quanh vùng ngoại ô thanh bình…
+Dịp nghỉ lễ ngắn ngày sắp đến, các resort, khách sạn, điểm du lịch tại Hội An cũng tung ra nhiều gói kích cầu, khuyến mãi hấp dẫn nhằm thu hút du khách.
+Theo ghi nhận của Hiệp hội Du lịch Quảng Nam, hiện tại, hầu hết các homestay, villas và nhiều khách sạn tại Hội An đã được đặt gần kín phòng trong thời gian dịp lễ sắp tới. Hội An còn có thể rơi vào tình trạng "overbooking" vì lượng khách đặt phòng vẫn tiếp tục tăng.
+Khách du lịch trong kì nghỉ ngắn ngày sắp tới chủ yếu là khách gia đình, đến từ nhiều địa phương trong cả nước, nhiều nhất là du khách từ Hà Nội và TPHCM…
+Cù Lao Chàm
+Cách Hội An khoảng 10km từ cảng Cửa Đại, với diện tích hơn 15 km vuông, đảo Cù Lao Chàm bao gồm 8 hòn đảo lớn nhỏ, là một vùng sinh thái vừa có núi, có rừng, có biển với nhiều hệ động thực vật đa dạng, phong phú.
+Khám phá Cù Lao Chàm xua tan đi cái nắng oi bức, thỏa sức cùng biển đảo.
+Nước biển trong xanh, không gian thanh bình, hoang sơ, Cù Lao Chàm được người dân đảo và chính quyền Hội An ra sức bảo tồn khỏi các tác động tiêu cực của sự phát triển du lịch ồ ạt.
+Cù Lao Chàm có một hệ sinh thái phong phú, trong đó san hô cũng là một điểm nhấn không thể bỏ qua. Chỉ cần khoảng thời gian 45 phút lênh đênh ngoài biển, bạn sẽ tận mắt ngắm nhìn và cảm nhận vẻ đẹp tuyệt vời của rạn san hô tại khu bảo tồn biển Cù Lao Chàm.
+Tour lặn ngắm san hô tại Cù Lao Chàm cũng được nhiều du khách ưa chuộng.
+Nơi đây còn hấp dẫn du khách bởi những món ăn tươi ngon được chế biến từ thành quả mà người dân biển Cù Lao mang lại. Những món hải sản được chế biến ngay sau khi đánh bắt từ biển về còn mang đậm dư vị của biển.
+Hành trình một ngày từ Tam Tiến - Phú Ninh - Tam Kỳ
+Cách TP Tam Kỳ 15km, chợ cá bãi ngang Tam Tiến thuộc thôn Hồ Lộc (xã Tam Tiến, Núi Thành) được xem là chợ cá vùng bãi ngang lớn nhất tỉnh Quảng Nam. Nơi đây chỉ hoạt động vào mùa hè từ tháng 4 đến tháng 9, dậy thật sớm đến đây du khách sẽ được tận hưởng không gian tươi xanh của biển cả, đất trời, cuộc mưu sinh tập nập của người dân vùng biển.
+Đặc biệt, thưởng thức hải sản tươi ngon được đánh bắt trong ngày. Chợ mở từ 2-8 giờ sáng.
+Dậy thật sớm khám phá chợ cá bãi ngang Tam Tiến cách TP Tam Kỳ (Quảng Nam) chưa đầy 15km.
+Hưởng trọn cái tươi mát của vùng biển Tam Tiến, du khách lại ngược gió để đến với hồ Phú Ninh, cách trung tâm thành phố Tam Kỳ 7km về phía Tây.
+Hồ Phú Ninh được hình thành từ công trình thủy lợi Phú Ninh, đây là một trong những hồ chứa nước nhân tạo lớn nhất Việt Nam, hồ được ngăn bởi hệ thống đập có đập chính cao trên 35m và dài hơn 350m.
+Sau đó sẽ ngược gió lên hồ Phú Ninh để đắm chìm trong không gian xanh mát, thơ mộng và yên bình nơi đây.
+Đến với hồ Phú Ninh, ấn tượng đầu tiên của các du khách là không gian rộng ngút ngàn của sơn thủy, tạo ra bức tranh vô cùng hài hòa, đẹp mắt. Ngoài việc du thuyền ngắm hồ với 30 đảo lớn nhỏ, du khách còn được tham gia nhiều trò chơi dưới nước hấp dẫn, hoặc zipline băng qua mặt hồ; thưởng thức đặc sản sông hồ thơm ngon, hấp dẫn.
+Du khách có thể ghé Tam Kỳ để tham quan các địa chỉ đỏ nổi tiếng tại đây như Tượng đài Mẹ Việt Nam Anh Hùng, địa đạo Kỳ Anh…
+Sau khi thư giãn, nghỉ ngơi tại hồ Phú Ninh, buổi chiều du khách có thể ghé Tam Kỳ để tham quan các địa chỉ đỏ nổi tiếng tại đây như Tượng đài Mẹ Việt Nam Anh Hùng, địa đạo Kỳ Anh…
+Đặc biệt, là thưởng thức các món ăn hấp dẫn, độc đáo nơi đây như cơm gà Tam Kỳ, mít hông…
+Khu đền tháp Mỹ Sơn
+Với vẻ đẹp hoang sơ kỳ bí và mang đậm dấu ấn tâm linh, khu đền tháp Mỹ Sơn là một trong những điểm du lịch độc đáo nhất của tỉnh Quảng Nam, thu hút hàng ngàn du khách từ trong và ngoài nước ghé thăm mỗi năm.
+Chiêm ngưỡng nền văn hóa Chămpa kỳ vĩ và tìm hiểu lịch sử, văn hóa ở khu đền tháp Mỹ Sơn.
+Sau phố cổ Hội An thì khu đền tháp Mỹ Sơn chính là di sản văn hóa thế giới thứ hai của tỉnh Quảng Nam.
+Khu đền tháp Mỹ Sơn nằm cách Hội An khoảng 40 cây số về phía Tây, cách thành phố Đà Nẵng khoảng 70 cây số về phía Tây Nam, thuộc địa phận của xã Duy Phú, huyện Duy Xuyên, Quảng Nam, được bao bọc bởi một thung lũng có đường kính 2 km và xung quanh là núi đồi hùng vĩ.
+Trong dịp nghỉ lễ này, khu đền tháp Mỹ Sơn sẽ có nhiều ưu đãi hấp dẫn: giảm 40% phí tham quan cho đoàn từ 10 người trở lên; giảm 10% hóa đơn khi sinh viên mua tại các quầy dịch vụ.
+Rừng sinh thái Hà Gia
+Tọa lạc tại khối phố Hà Bản, xã Điện Dương, thị xã Điện Bàn, Quảng Nam, cách sân bay quốc tế Đà Nẵng 20km, phố cổ Hội An 10km, rừng Hà Gia sẽ đưa bạn về quang cảnh miền quê truyền thống, đậm chất Việt xưa.
+Du khách check-in ở rừng Hà Gia.
+Những căn phòng hướng sông thơ mộng, những ngôi nhà gỗ mái ngói đất nung, mở cửa ra là hàng tre xanh, hồ sen, ao cá… Tiếng ve râm ran và gió thổi ngọn tre xào xạc sẽ đánh thức bạn mỗi sáng. Mở cửa sổ ra cho ánh ban mai tràn vào và bạn sẽ có một tầm nhìn tuyệt đẹp ra sông Cổ Cò.
+Tại đây, du khách có thể khám phá nhiều loại tre khác nhau được chủ đầu tư kì công sưu tầm từ nhiều nơi về. Ở đây còn có trò chơi đường trượt Zipline dài 250m trên dòng sông Cổ Cò thơ mộng. Zipline có 2 đường trượt nên bạn có thể lựa chọn trượt 1 người hoặc rủ bạn thân. Rừng Hà Gia còn có khu cắm trại, khu nhà sàn Tây Bắc, bạn có thể tự nấu ăn, đốt lửa trại…
+Đi thuyền dạo sông Cổ Cò ở rừng Hà Gia.
+Đến rừng sinh thái Hà Gia, du khách sẽ khám phá cuộc sống thôn quê trên chiếc xe đạp hay băng qua những cánh đồng lúa xanh bát ngát hương, những tán cây cổ thụ, những vòng bánh xe đưa bạn đến một vùng trời bình yên và trở về với những ký ức thân thương đong đầy kỷ niệm thời thơ ấu.
+Công Bính - Ngô Linh

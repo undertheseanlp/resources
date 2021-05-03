@@ -1,15 +1,35 @@
 # doc_id = news_sport_263
-# url = https://dantri.com.vn/the-thao/vi-sao-chelsea-nhanh-chong-thao-chay-khoi-european-super-league-20210421121128639.htm
-# date = 20210421
-Ngay trong sáng 21/4, lần lượt Man City, Chelsea rồi đến các CLB còn lại trong nhóm "Big Six" ở Premier League đều tuyên bố rút lui khỏi giải đấu European Super League - giải đấu mà họ cùng với 6 CLB khác ở Ý và Tây Ban Nha thành lập vào tối 18/4.
-Về lý do Chelsea nằm trong số CLB rút lui sớm nhất khỏi siêu giải đấu mới này, tờ The Guardian tiết lộ Chelseacó những lý do hết sức hợp lý và đáng suy ngẫm để tháo chạy. Nhà báo Sean Ingle trích dẫn từ một nguồn tin giấu tên cho biết các quan chức Chelsea đã nhận được một cảnh báo có hậu quả cực kỳ nghiêm trọng tới tương lai của đội bóng.
-Chelsea Pitch Owners dọa sẽ chấm dứt cho thuê sân Stamford Bridge cũng như tước quyền sở hữu tên CLB Chelsea khiến tỷ phú Abramovich phải tháo chạy European Super League
-Đó là việc tổ chức Chelsea Pitch Owners (CPO) định tổ chức một cuộc họp trong ngày mai (22/4) để xem xét việc chấm dứt cho thuê sân Stamford Bridge với Chelsea. SVĐ này không được Chelsea sở hữu mà thuộc về CPO, một tổ chức phi lợi nhuận với thành viên là các fan của Chelsea và CLB này chỉ thuê sân.
-Không chỉ cho thuê sân, CPO còn nắm luôn cả quyền sở hữu tên CLB bóng đá(Chelsea Football Club Ltd). Chelsea đã suýt mất Stamford Bridge vào thập kỷ 1990 do nợ nần nên chủ tịch khi đó là Ken Bates đã lập ra CPO để dùng tổ chức này mua lại khu đất chứa sân vận động khi bên chủ đất bị phá sản. Chelsea thuê sân Stamford Bridge trên phần đất này và chỉ được phép gọi mình là CLB Chelsea nếu thi đấu ở đây.
-Hơn 10 năm trước, tỷ phú Roman Abramovich đã tìm cách mua lại quyền sở hữu CPO với mục đích di chuyển CLB tới một sân vận động mới xây trên khu đất gần khu vực nhà máy điện Battersea thuộc bờ nam sông Thames. Tuy nhiên Abramovich không đạt được điều kiện đủ 75% số thành viên tổ chức chấp thuận bán, do đó CPO vẫn đang nắm quyền sở hữu sân lẫn tên của CLB Chelsea.
-Nói cách khác, CPO định họp vào ngày 22/4 tới để bàn về khả năng tống cổ Chelsea khỏi sân Stamford Bridge lẫn tước luôn tên của CLB.
-CĐV Chelsea xuống đường phản đối CLB Chelsea tham gia Euripean Super League
-Làn sóng biểu tình dữ dội buộc tỷ phú Abramovich "quay đầu" rời khỏi European Super League
-Không chỉ CPO đe dọa, mà hàng nghìn CĐV của Chelsea cũng đã xuống đường để phản đối "The Blues" tham gia siêu giải đấu European Super League. Trận đấu giữa Chelsea với Brighton vào tối qua cũng đã muộn hơn 15 phút khi CĐV đội bóng chặn đường để phản đối đội bóng.
-Trước mối đe dọa đến từ nhiều phía, tỷ phú Roman Abramovich buộc phải nhượng bộ và nhanh chóng rút chạy khỏi European Super League.
-Sông Lam
+# url = https://dantri.com.vn/the-thao/west-ham-01-chelsea-lingard-tat-tieng-va-chiec-the-do-tranh-cai-20210424115743174.htm
+# date = 20210424
+Chelsea làm khách trên sân của West Ham chỉ ít ngày sau trận hòa thất vọng trước Brighton vào giữa tuần. Cả Chelsea và West Ham đều hướng tới chiến thắng ở trận đấu thuộc vòng 33 Premier League, trận đấu được ví như trận chung kết của top 4 khi khoảng cách giữa hai đội trên bảng xếp hạng chỉ là chỉ số phụ.
+Với đẳng cấp cao hơn đối thủ, đoàn quân của HLV Tuchel nhập cuộc tự tin, những phút đầu trận đấu Chelsea lấn lướt hơn so với đội chủ nhà. Phút thứ 4, Werner thoải mái dứt điểm ở đầu vòng cấm sau đường căng ngang từ bên phải vào. Không bị ai kèm, đáng tiếc tiền đạo người Đức lại sút vội vàng đưa bóng vọt xà.
+Chelsea (áo xanh) chơi áp đảo trước West Ham trong những phút đầu trận.
+Trong khoảng 15 phút đầu tiên, Chelsea có vài lần dứt điểm và cũng có những cú sút trúng đích, dẫu vậy thủ thành Fabianski của đội chủ nhà không gặp phải quá nhiều thách thức do đội khách dứt điểm "hiền". Sau khoảng 15 phút, West Ham dần đòi lại thế trận và thậm chí dồn ép đối thủ. Dẫu vậy, hàng thủ của Chelsea vô hiệu hóa thành công các ngòi nổ của đội chủ nhà.
+West Ham đang tạo được thế trận tốt thì bất ngờ họ bị thủng lưới. Phút 43, đội chủ nhà lên bóng nhuyễn, Chiwell lao lên nhận bóng ở bên trái, anh căng ngang vào cho Werner đệm bóng một chạm chính xác hạ gục Fabianski mở tỉ số trận đấu. Thủ thành của đội chủ nhà bị hút về bên phải nên không kịp di chuyển cản phá cú dứt điểm của Werner.
+Sai lầm lớn trong bàn thua thuộc về hàng thủ của đội chủ nhà, họ quên không theo kèm người, để Werner tự do trong vòng cấm địa. Ngoài ra, hai cầu thủ đội chủ còn mắc lỗi khi chặn hụt đường chuyền của Chiwell nên đã phải trả giá.
+Werner ăn mừng sau khi mở tỉ số trận đấu.
+Chelsea bước vào giờ nghỉ với lợi thế dẫn bàn.Mặc dù đã có được bàn thắng nhưng Werner vẫn chưa hết... vô duyên. Phút 54, thủ thành Fabianski ngăn cản cú sút của cầu thủ chủ nhà, bóng đập cột dọc bật trở lại đúng chỗ Werner băng vào. Cả cầu môn trống trải trước mắt, nhưng cầu thủ người Đức lại dứt điểm cắt mặt khung thành ra ngoài.
+Phút 60, West Ham đáp trả với một đợt tấn công dồn dập. Sau khi đồng đội dứt điểm bị chặn, Lingard nhận được bóng ở đầu vòng cấm địa và cầu thủ người Anh thực hiện một cú vuốt bóng ngẫu hứng hướng tới sát cột dọc phải ra ngoài.
+Chelsea tạo được nhiều cơ hội dứt điểm hơn so với hiệp một, độ chính xác trong khâu dứt điểm cũng tốt hơn. Tuy nhiên, thủ thành Fabianski cũng chơi chắc chắn trong khung gỗ với những tình huống ra vào, bay người cản bóng rất hợp lý. Do vậy bài sút xa của Chelsea không làm khó được thủ thành người Ba Lan.
+Giữa hiệp hai, HLV Moyes quyết định thay người nhằm gia tăng tấn công trong giai đoạn cuối trận. Tuy nhiên, đội chủ nhà còn chưa có dấu hiệu vùng lên, họ đã bị mất người. Balbuena bị trọng tài Kavanagh rút thẻ đỏ trực tiếp trong tình huống va chạm với Chiwell ở phút 81.
+Trọng tài Kavanagh xem lại pha va chạm giữa Balbuena và Chiwell.
+Trọng tài Kavanagh đuổi Balbuena khỏi sân.
+Balbuena nỗ lực phá bóng lên trên, có vẻ anh trượt chân sau cú phá bóng và đạp thẳng vào ống chân của Chiwell. Pha quay chậm cho thấy dường như đó là lỗi vô tình của cầu thủ West Ham. Đáng tiếc, ông Kavanagh lại cho rằng đó là pha bóng nguy hiểm của cầu thủ chủ nhà nên rút thẻ đỏ trực tiếp.
+Ngoài đường biên HLV Moyes phải đối quyết liệt, nhưng vô hiệu. Với chỉ 10 người, West Ham chống đỡ rất vất vả trong khoảng thời gian còn lại. Đội chủ sân London may mắn không phải nhận thêm bàn thua, song cũng không có cơ hội gỡ hòa, vì vậy họ vẫn không có điểm.
+Đây đã là trận thua thứ hai liên tiếp của West Ham, điều đó khiến hi vọng chen chân vào top 4 của "Búa tạ" bị đe dọa nghiêm trọng, nhưng chưa hẳn đã kết thúc. Chelsea vươn lên vị trí thứ 4 với 58 điểm, hơn West Ham ba điểm và hơn đội đứng thứ sáu Liverpool bốn điểm.
+Đội hình thi đấu
+Chelsea (3-4-2-1): Mendy; Rudiger, Silva, Christensen; Chilwell, Jorginho, Kante, Azpilicueta (James); Pulisic (Ziyech), Mount; Werner (Abraham)
+West Ham United (3-4-1-2): Fabianski; Diop, Balbuena, Ogbonna; Coufal, Noble (Lanzini), Soucek, Fredericks (Johnson), Fornals (Benrahma); Lingard, Bowen.
+Jorginho chê Lampard "quá non" khi dẫn dắt Chelsea
+Frank Lampard đến Stamford Bridge vào năm 2019 để thay thế Maurizio Sarri và dẫn dắt câu lạc bộ giành vị trí thứ 4 tại Premier League và lọt vào chung kết FA Cup trong mùa giải đầu tiên của ông. Đây được coi là một mùa giải thành công sau khi Chelsea để mất ngôi sao hàng đầu Eden Hazard và không thể ký hợp đồng với cầu thủ do lệnh cấm chuyển nhượng từ FIFA.
+Chelsea đã chi 220 triệu bảng vào mùa hè năm ngoái, nhưng Lampard không có được những bản hợp đồng tốt nhất. Các ngôi sao lớn mang nhiều kỳ vọng như Timo Werner, Kai Havertz, Hakim Ziyech đều chưa đáp ứng được kỳ vọng, dẫn đến việc Lampard bị sa thải vào tháng Giêng .
+Jorginho (trái) không được Lampard tin tưởng.
+Jorginho chỉ chơi đủ 90 phút trong bốn lần dưới thời Lampard ở mùa giải này. Tiền vệ gốc Brazil cho biết huyền thoại của câu lạc bộ cần thêm kinh nghiệm quản lý trước khi tiếp quản Chelsea.
+"Hãy nhìn xem, tôi sẽ nói thực sự chân thành ở đây với Lampard. Tôi tin rằng, anh ấy đã là một huyền thoại ở câu lạc bộ, anh ấy đã bỏ qua một số bước học hỏi cần thiết trước khi chuyển đến một câu lạc bộ lớn", Jorginho nói với ESPN.
+"Anh ấy đến câu lạc bộ nơi anh ấy là một huyền thoại, nhưng lại không có kinh nghiệm quản lý ở các câu lạc bộ khác. Tôi nghĩ anh ấy đến quá sớm, bỏ qua một vài bước và chưa sẵn sàng cho một công việc ở cấp độ này, thành thật mà nói như vậy".
+Lampard bước vào sự nghiệp cầm quân từ đầu năm 2018, ở Derby County, ông dẫn dắt đội bóng này đến trận chung kết play-off Championship 2019, nhưng thất bại trước Aston Villa.
+Lampard bị Chelsea sa thải chỉ sau hơn một mùa giải.
+Sau đó, Lampard chuyển tới Chelsea theo lời mời từ Chủ tịch Roman Abramovich. Khi đó Lampard trở lại Stamford Bridge, ông được ngợi ca là dũng cảm, bởi đội hình Chelsea đã gặp rất nhiều bất ổn, họ lại không thể tham gia thị trường chuyển nhượng. Ít nhiều Lampard cũng tạo ra dấu ấn cá nhân riêng trong thời gian hơn một mùa giải tại Chelsea.
+Áp lực lớn với Lampardở mùa giải này khi Chelsea vung ra số tiền lớn chiêu mộ quân số. Đáng tiếc, ảnh hưởng của đại dịch Covid-19, chấn thương và đặc biệt phòng thay đồ rối loạn khiến Chelsea phập phù và rồi Lampard phải chia tay. Một trong những nguyên nhân chính được cho là khiến Lampard mất chức, là các học trò "bẻ ghế". Rất nhiều các cầu thủ có tiếng nói trong phòng thay đồ Chelsea bị Lampard bỏ qua, thậm chí muốn họ rời khỏi đội càng sớm càng tốt.
+Thomas Tuchel lên thay thế Lampard vào tháng Giêng và đưa đội bóng vào bán kết Champions League, họ cũng đua tranh trở lại để kết thúc mùa giải trong top bốn Premier League.
+Hạo Minh

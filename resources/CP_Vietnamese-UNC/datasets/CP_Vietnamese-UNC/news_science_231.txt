@@ -1,12 +1,12 @@
 # doc_id = news_science_231
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tieu-hanh-tinh-huy-diet-khung-long-da-mang-lai-cho-trai-dat-he-thuc-vat-moi-20210409070345875.htm
-# date = 20210409
-Nghiên cứu được xuất bản trên tạp chí Science đã cung cấp bức tranh về các khu rừng rậm ở những nơi như Colombia trước và sau sự xuất hiện của tiểu hành tinh khổng lồ đâm sầm vào Mexico ngày nay.
-Sự thay đổi khí hậu mạnh mẽ đã thay đổi hoàn toàn cấu trúc của đời sống hệ thực vật trên toàn cầu, trong đó các khu rừng nhiệt đới được cho có những thay đổi lớn nhất.
-Khi tiểu hành tinh đâm vào Trái đất, nó đã tạo ra một lượng bụi và mảnh vỡ khổng lồ được đẩy vào bầu khí quyển và bao phủ khắp toàn cầu. Đây là thứ đã giết chết những con khủng long trên quy mô toàn hành tinh vì nó làm giảm lượng ánh sáng Mặt trời chiếu xuống bề mặt Trái đất. Thực vật bắt đầu chết trước, sau đó là toàn bộ chuỗi thức ăn đã sụp đổ.
-Những con khủng long ăn thực vật không có gì để ăn và ngay sau đó là những con khủng long ăn thịt đã ăn thịt những loài ăn thực vật đó. Đó là một thời kỳ cực khắc nghiệt.
-Cây cối chết khô ảnh hưởng đặc biệt nghiêm trọng đến các khu rừng. Tất cả các loài thực vật đều phải chịu đựng theo cách này hay cách khác, và những cây lá kim lớn thống trị rừng nhiệt đới cổ đại cũng không phải là ngoại lệ. Cây cối chết đi với tốc độ nhanh chóng. Các bằng chứng hóa thạch cho thấy chúng không bao giờ hồi sinh.
-Cho đến khi lớp bụi cuối cùng đã lắng xuống, những khu vực từng là rừng một lần nữa bắt đầu nhận được ánh sáng Mặt trời đầy đủ, các loài thực vật mới xuất hiện thay thế các loài thực vật từng thống trị. Chúng đầy màu sắc với những bông hoa nở rộ và những chiếc lá giống như cây dương xỉ. Những loài thực vật mới này đã thúc đẩy một cấu trúc tán cây khép kín với nhiều lớp thực vật thay vì những cây lá kim lớn vươn lên bầu trời trước đó.
-"Thực vật có hoa đã thống trị các khu rừng trong hơn 6 triệu năm sau khi Trái đất phục hồi. Dữ liệu về lá cây cho thấy tán rừng phát triển từ tương đối mở sang khép kín và phân lớp, dẫn đến sự phân tầng thẳng đứng tăng lên cùng sự đa dạng hơn về các hình thức sinh trưởng của thực vật", các nhà nghiên cứu cho hay.
-Kết quả chính là những khu rừng mưa nhiệt đới mà chúng ta thấy ngày nay đã tồn tại sau thời kì thống trị của khủng long. Tác động của tiểu hành tinh đã giết chết những sinh vật khổng lồ, nhưng thay vào đó là một sự thay đổi cực lớn với các loài thực vật trên Trái đất.
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tim-thay-cac-manh-vo-thien-thach-430000-nam-tuoi-cuc-hiem-o-nam-cuc-20210402061022787.htm
+# date = 20210402
+Được tìm thấy trên đỉnh của ngọn núi có tên Walnumfjellet, những mảnh vỡ hiếm hoi cho thấy tảng đá không gian này phải có đường kính ít nhất là 100 mét khi lao về phía Trái đất ở tốc độ cực cao. Tuy nhiên, điều đặc biệt ở sự kiện này là thiên thạch lại không tạo ra một hố va chạm.
+Các tác giả nghiên cứu mô tả tác động là một sự kiện hiếm gặp, trong đó phản lực của vật liệu thiên thạch nóng chảy đã hóa hơi có thể gây ra thiệt hại nghiêm trọng nhưng thiếu mật độ cần thiết để tạo ra một miệng núi lửa trên bề mặt Trái đất.
+Trong số các hạt còn sót lại của thiên thạch 430.000 năm tuổi, hạt lớn nhất có kích thước chưa đến nửa milimét. Sử dụng kính hiển vi điện tử quét, các nhà nghiên cứu nhận thấy các mảnh vỡ được tạo thành chủ yếu từ sắt và olivine với hàm lượng niken cao.
+Các mảnh đá không gian nhỏ bé cũng chứa các đồng vị ôxy đặc trưng của băng ở Nam Cực, cho thấy rằng chúng có được khi va chạm với bề mặt, chứ không phải bằng cách đốt cháy trong không khí.
+Dựa trên quan sát mới, các nhà nghiên cứu suy đoán rằng tất cả các hạt này đều được tạo ra bởi cùng một tiểu hành tinh phát nổ và vụ va chạm đã tạo ra một loạt các mảnh vỡ trải dài trên một khu vực rộng lớn.
+Theo tính toán của các nhà khoa học, vụ nổ có thể bao phủ phạm vi lên đến 100.000 km vuông đồng thời cũng sản xuất đủ bức xạ nhiệt để đốt cháy diện tích đến 1.000 km vuông.
+"Mặc dù các sự kiện chạm đến mặt đất có thể không đe dọa hoạt động của con người nếu xảy ra ở trên Nam Cực, nhưng nếu nó diễn ra trên một khu vực đông dân cư sẽ dẫn đến hàng triệu người thương vong và gây ra thiệt hại nghiêm trọng trên khoảng cách lên đến hàng trăm km", tác giả nghiên cứu Matthias van Ginneken cho biết.
 Trang Phạm
+Theo IFL Science

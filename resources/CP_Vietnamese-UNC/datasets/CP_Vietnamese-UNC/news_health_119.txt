@@ -1,14 +1,15 @@
 # doc_id = news_health_119
-# url = https://dantri.com.vn/suc-khoe/giup-quy-ong-tang-khoai-cam-20210429090938142.htm
-# date = 20210429
-Vậy các bà nội trợ thông thái cần phải làm những món ăn như nào để giúp quý ông? Những món ăn dưới đây dễ tìm, dễ làm, mời các bà tham khảo.
-Gà đen hầm hạt dẻ: Gà đen 500g, nhân hạt dẻ 100g, hành đủ dùng; gừng 5g, rượu 20ml, dầu ăn 30ml. Gà đen làm sạch lông, bỏ nội tạng, rửa sạch, chặt miếng, chần qua, vớt ra rổ để ráo nước.
-Bắc nồi lên bếp, cho dầu ăn, hành phi thơm rồi đổ gà vào, xào qua, cho nhân hạt dẻ vào cùng, đổ nước sâm sấp vào hầm đến khi chín nhừ, nêm gia vị là dùng được.
-Món ăn giàu protein, axit béo không bão hòa, các khoáng chất như canxi, photpho, sắt và các vitamin.
-Canh hải sâm
-Canh hải sâm: Hải sâm 100g ngâm nở, măng 20g, nấm hương 5g, dầu thực vật, rượu, bột ngọt, hành băm, gừng băm, muối, tiêu bột vừa đủ.
-Hải sâm thái từng thỏi, măng xé nhỏ, phi hành, gừng cho thơm, đổ vào nước dùng, cho tiếp hải sâm, nấm, măng, gia vị đun tới sôi, rắc tiêu bột là được. Ăn kèm trong bữa cơm. Công dụng bổ thận tráng dương ích khí, tăng số lượng, chất lượng tinh trùng.
-Cháo thịt dê nhộng tằm: Nhộng tằm 50g, thịt dê 50g, gạo tẻ 50g, gia vị vừa đủ. Thịt dê rửa sạch cắt từng miếng nhỏ, nhộng tằm xào sơ, hai thứ trộn chung, tẩm gia vị vừa ăn.
-Nấu gạo thành cháo vừa chín thì cho hai thứ trên vào khuấy đều, nấu cháo chín nhừ. Ngày ăn 2 lần sáng chiều. Ăn liên tục 7-10 ngày.
-Theo BS. Đào Minh Sơn
-Sức khỏe & Đời sống
+# url = https://dantri.com.vn/suc-khoe/ha-nam-nhan-vien-y-te-nghi-nhiem-covid-19-co-ket-qua-am-tinh-20210430210844317.htm
+# date = 20210430
+Thông tin từ Trung tâm Kiểm soát bệnh tật tỉnh (CDC) Hà Nam cho biết, chiều ngày 30/4, ca nghi nhiễm Covid-19 là cán bộ Trung tâm y tế huyện Lý Nhân đã cho kết quả âm tính với virus SARS-Cov-2.
+Các trường hợp tiếp xúc gần với các ca nhiễm Covid-19 tại Hà Nam được đưa đi cách ly.
+Trước đó, chị H.T.H (SN 1983) là cán bộ y tế làm việc tại bộ phận cấp phát thuốc của Trung tâm Y tế huyện Lý Nhân có kết quả xét nghiệm sàng lọc Covid-19 lần 1 vào ngày 29/4 cho kết quả dương tính với virus SARS-Cov-2.
+Qua điều tra dịch tễ ban đầu cho thấy, cán bộ y tế này có mặt làm việc tại Trung tâm Y tế huyện vào thời điểm bệnh nhân N.V.V (bố đẻ của bệnh nhân N.V.Đ) ở thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân đến khám bệnh trong chiều ngày 27/4. Tuy nhiên, chị H.T.H không tiếp xúc trực tiếp với bệnh nhân N.V.V.
+Theo báo cáo của Sở Y tế Hà Nam, đến 14h chiều ngày 30/4, toàn tỉnh Hà Nam có 7 trường hợp dương tính với SARS-CoV-2 liên quan đến ổ dịch Đạo Lý. Cơ quan chức năng đã điều tra được 359 trường hợp F1 (Lý Nhân 337, Bình Lục 15, Thanh Liêm 2, Phủ Lý 5). Số trường hợp F2 đã điều tra được là 1.128 trường hợp, hiện đang cách ly tại nhà. Tổng số mẫu xét nghiệm đã lấy 991 mẫu, trong đó 7 mẫu dương tính của 7 ca bệnh đã ghi nhận, 180 mẫu âm tính, 806 mẫu đang chờ kết quả.
+Hiện, các bệnh nhân mắc Covid-19 đang được theo dõi, điều trị tại Bệnh viện Đa khoa tỉnh Hà Nam.
+Quảng Nam: 8 ca F1 có kết quả xét nghiệm âm tính
+Tối 30/4, trao đổi với phóng viên, bác sĩ Mai Văn Mười - Giám đốc Sở Y tế Quảng Nam - cho biết, 8 người dân địa phương liên quan đến bệnh nhân 2899 (tỉnh Hà Nam), vừa có kết quả âm tính lần 1 với SARS-CoV-2.
+8 người đi cùng xe với bệnh nhân 2899 có kết quả xét nghiệm âm tính lần 1. (Ảnh minh họa).
+Theo bác sĩ Mười, 7/8 trường hợp thuộc diện F1 đi cùng xe với bệnh nhân 2899. Trường hợp còn lại đi cùng chuyến bay từ Nhật về và ở cùng khách sạn với bệnh nhân. Hiện các trường hợp này vẫn đang được cách ly, theo dõi cho đủ 14 ngày theo quy định và ngành y tế địa phương sẽ tiếp tục lấy mẫu xét nghiệm.
+Liên quan đến tình hình phòng chống dịch Covid-19, sau lễ 30/4-1/5, Sở Y tế Quảng Nam sẽ chỉ đạo Trung tâm Kiểm soát Bệnh tật tỉnh Quảng Nam (CDC Quảng Nam) lấy mẫu xét nghiệm SARS-CoV-2 ngẫu nhiên tại các cơ sở y tế, các khu du lịch, khu công nghiệp, chợ, siêu thị, nhà ga, bến tàu, sân bay, nơi tụ tập đông người... để kịp thời ngăn chặn, kiểm soát tốt dịch bệnh Covid-19 trên địa bàn tỉnh.
+Đức Văn - Công Bính

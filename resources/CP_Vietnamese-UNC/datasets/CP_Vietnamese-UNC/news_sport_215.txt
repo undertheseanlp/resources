@@ -1,13 +1,15 @@
 # doc_id = news_sport_215
-# url = https://dantri.com.vn/the-thao/real-madrid-chiu-ton-that-lon-vi-ly-do-khong-ai-ngo-toi-20210429123927738.htm
-# date = 20210429
-Ở trận lượt đi bán kết Champions League, Real Madrid đã để hòa 1-1 trước Chelsea. Kết quả này khiến cho đội bóng Hoàng gia Tây Ban Nha gặp bất lợi nhất định trước thềm trận lượt về diễn ra ở Stamford Bridge diễn ra vào giữa tuần sau.
-Marcelo sẽ vắng mặt trong trận đấu với Chelsea vì bận giám sát cuộc bầu cử vào Quốc hội Madrid.
-Thế nhưng, trong bối cảnh ấy, Real Madrid còn chịu tổn thất nặng nề về mặt nhân sự khi sẽ không có sự phục vụ của hậu vệ cánh trái Marcelo. Nguyên nhân không phải vì tuyển thủ Brazil chấn thương mà vì lý do ít ai ngờ tới.
-Theo đó, Marcelo không thể phục vụ Real Madrid vì bận… giám sát cuộc bầu cử vào Quốc hội Madrid vào ngày 4/5 (1 ngày trước thềm trận đấu với Chelsea). Chắc chắn Marcelo sẽ không kịp tham dự trận đấu với Chelsea bởi những quy định phức tạp liên quan tới Covid-19 (nên không thể sang Anh kịp thời).
-Sở dĩ Marcelo buộc phải làm công việc trên bởi đó là nghĩa vụ bắt buộc với công dân Tây Ban Nha. Cầu thủ này đã có quốc tịch Tây Ban Nha kể từ năm 2011 và phải có trách nhiệm tới làm việc ở các điểm bỏ phiếu theo quy định. Tại đây, các công dân Tây Ban Nha sẽ được trả 65 euro cho mỗi ngày làm việc.
-Trong bối cảnh Ferland Mendy vắng mặt vì chấn thương, HLV Zidane thực sự đau đầu.
-Trong quá khứ, từng có một vài cầu thủ đã được miễn tham gia hoạt động này. Đơn cử như thủ thành Aitor Fernández của Levante vào năm 2019 và tiền đạo Inaki Williams của Bilbao vào năm 2015. Thế nhưng, họ được miễn bởi thời điểm thực hiện nghĩa vụ trùng với khi trận đấu diễn ra. Trong khi đó, trường hợp của Marcelo lại không có "lý do vắng mặt" bởi trận đấu giữa Real Madrid và Chelsea diễn ra một ngày sau đó.
-Nếu như Marcelo vắng mặt, Real Madrid sẽ gặp khó khi không còn hậu vệ trái đúng nghĩa nào. Ở thời điểm này, Ferland Mendy đang phải điều trị chấn thương. Đó là lý do mà HLV Zidane sử dụng Marcelo trong những trận đấu vừa qua của Los Blancos.
-Trong thế bí, HLV Zidane có thể sử dụng hậu vệ phải như Alvaro Odriozola, Dani Carvajal trám vào vị trí này. Ngoài ra, ông cũng tính tới phương sử dụng Marco Asensio để thay thế (trong sơ đồ 3-5-2).
+# url = https://dantri.com.vn/the-thao/real-madrid-se-bi-cam-thi-dau-o-champions-league-20210423121100128.htm
+# date = 20210423
+Bất chấp việc 9 CLB đã tháo chạy khỏi European Super League thì giải đấu vẫn chưa "giải tán" khi ba đội bóng Real Madrid, Juventus và Barcelona vẫn nhất quyết trụ lại dự án này. Điều đó khiến cho UEFA cảm thấy vô cùng tức giận.
+Real Madrid của Chủ tịch Florentino Perez sẽ bị cấm thi đấu ở Champions League mùa giải tới?
+Trong đó, UEFA nhận định Real Madrid và Juventus là những "kẻ khơi mào" và ngoan cố trong việc cố tính chống lại cơ quan quyền lực cao nhất của bóng đá châu Âu (bất chấp việc UEFA đã cho các CLB thời hạn sửa sai).
+Thậm chí, trong những ngày qua, Chủ tịch của Real Madrid, Florentino Perez còn nhiều lần thách thức UEFA và FIFA với những giọng điệu hết sức ngông cuồng. Hôm qua, người đứng đầu Real Madrid còn khẳng định European Super League sẽ không sụp đổ.
+Chủ tịch Florentino Perez nhấn mạnh rằng: "Không ai có thể rút lui khỏi dự án bởi có những điều khoản ràng buộc và nó đã có hiệu lực sau sự đồng thuận của 12 CLB vào thứ Bảy tuần trước".
+Chính điều đó khiến cho UEFA tổ chức cuộc họp khẩn vào tối nay (theo giờ địa phương). Trong đó, cơ quan quyền lực nhất của bóng đá châu Âu xem xét việc cấm Real Madrid và Juventus thi đấu ở Champions League mùa giải tới theo đề xuất của nhiều thành viên của tổ chức này.
+UEFA sẽ mạnh tay trừng phạt nhóm phản loạn.
+Trước đó, UEFA từng dọa sẽ cấm Chelsea, Man City, Real Madrid thi đấu ở bán kết Champions League mùa này vì chống đối. Tuy nhiên, họ chưa thể làm được điều đó bởi vấn đề liên quan tới bản quyền truyền hình.
+Chủ tịch Florentino Perez khẳng định không hề sợ bị UEFA cấm thi đấu ở Champions League bởi sẽ vướng vào pháp lý. Tuy nhiên, UEFA tuyên bố họ có quyền hạn và cơ sở để đưa ra quyết định này. Họ không ngại loại bỏ những đội bóng lớn, để tạo nên khối đoàn kết ở bóng đá châu Âu.
+Trong đó, hai Chủ tịch Florentino Perez và Andrea Agnelli (Agnelli đã từ chức Chủ tịch Juventus) chính là hai "kẻ cứng đầu" đối đầu trực tiếp với UEFA.
+Thế nhưng, cuộc chiến của UEFA và European Super League vẫn còn rất nóng khi hôm qua, Barcelona đã bất ngờ tuyên bố sẽ không rời khỏi dự án này.
 H.Long

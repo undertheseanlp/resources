@@ -1,15 +1,11 @@
 # doc_id = news_tech_253
-# url = https://dantri.com.vn/suc-manh-so/video-an-chan-gau-cua-you-tuber-quynh-tran-jp-gay-tranh-cai-tren-internet-20210426135146999.htm
-# date = 20210426
-Ngày 24/4, Quỳnh Trần JP đã đăng tải lên trang YouTube cá nhân một video với nội dung chế biến và ăn thử món chân gấu. Ngay lập tức, video này đã thu hút được sự chú ý của lượng lớn người dùng Internet với hàng loạt phản ứng trái chiều.
-Ngay đoạn mở đầu, có vẻ như YouTuber này đã nhận thức được rằng đây sẽ là một video gây tranh cãi.
-"Hôm nay, Quỳnh sẽ làm một mâm đồ ăn gây tranh cãi, đó là chân gấu hầm táo đỏ và kỷ tử. Ngoài ra, Quỳnh cũng có mua thêm một ít thịt gấu đã cắt lát", YouTuber này cho biết.
-Trong video trên, Quỳnh Trần JP cũng cho biết thêm rằng bàn chân gấu và những loại thịt này được nhập từ Trung Quốc và bày bán rộng rãi tại các siêu thị ở Nhật Bản. Vì thế, việc cô mua và sử dụng chúng không hề phạm luật.
-Tuy nhiên, nhiều người dùng Internet đã lên án YouTuber này vì ăn thịt động vật hoang dã và cho rằng video chứa nội dung phản cảm, không phù hợp với đối tượng khán giả Việt Nam, đặc biệt là trẻ em.
-"Chị làm YouTube có đối tượng người xem chủ yếu đến từ Việt Nam, tiền kiếm được cũng từ cộng đồng người Việt ủng hộ. Vì thế, chị nên làm những video phù hợp với thuần phong mỹ tục của người Việt Nam", tài khoản Phạm Thái bình luận.
-"Chị dạy con yêu thương động vật nhưng lại ăn chân gấu trước mặt con. Hơn nữa, kênh YouTube của chị có rất nhiều trẻ nhỏ xem", tài khoản Minh Hà nhận xét.
-Bên cạnh những ý kiến phản đối, một bộ phận người dùng khác lại cho rằng việc Quỳnh Trần JP mua và ăn chân gấu là hoàn toàn bình thường. bởi sản phẩm này được bày bán hợp pháp trong các siêu thị tại Nhật Bản.
-"Mỗi nơi có một phong tục, tập quán khác nhau, không thể so sánh chung được. Nếu siêu thị tại Nhật Bản bày bán thì mua về ăn thôi vì đâu có vi phạm pháp luật", tài khoản Ngọc Anh bình luận.
-Quỳnh Trần JP (sinh năm 1985) là YouTuber người Việt đang sinh sống tại Nhật Bản. Kênh YouTube của cô hiện sở hữu 3,76 triệu người theo dõi. Các video làm về ẩm thực của cô thu hút người xem bởiphong cách trò chuyện gần gũi, tự nhiên.
-Trong các video của Quỳnh Trần JP còn xuất hiện bé Sa (con trai của cô) được nhiều người yêu quý. Loạt khoảnh khắc như Sa ngủ gật, Sa mệt mỏi vì phải chào đi chào lại "cô chú anh chị",... đã từng trở thành chủ đề cho loạt ảnh chế (meme) hài hước trên Internet.
-Thế Anh
+# url = https://dantri.com.vn/suc-manh-so/vietnam-expo-2021-quy-tu-hon-320-dn-cung-luan-ban-ve-chuyen-doi-so-20210414135704110.htm
+# date = 20210414
+Vietnam Expo 2021 chính thức khai mạc, diễn ra trong 4 ngày từ 14-17/04/2021.
+Nét mới tại Hội chợ Vietnam Expo 2021 đó là nhấn mạnh chủ đề "Đồng hành cùng DN trong kỷ nguyên số" với mục tiêu giúp các DN trong và ngoài nước giao lưu, quảng bá và tìm kiếm cơ hội đầu tư, kinh doanh.
+Hội chợ cũng được tổ chức với kỳ vọng mang đến sự cộng hưởng và sức lan tỏa chương trình "Chuyển đổi số quốc gia" được Chính phủ phát động, tạo diễn đàn kết nối cộng động doanh nghiệp, doanh nhân tiếp cận giải pháp chuyển đổi số, ứng dụng gia tăng sức cạnh tranh trong sản xuất và kinh doanh.
+Thứ trưởng Bộ Công Thương Đỗ Thắng Hải. Ảnh: Nguyễn Nguyễn
+Do đó, các câu chuyện chuyển đổi số của DN, chia sẻ trải nghiệm, kỹ năng vận hành sẽ là những hoạt động trọng tâm của kỳ hội chợ năm nay.
+Vietnam Expo 2021 có sự phối hợp của các Bộ, ngành địa phương, các tổ chức xúc tiến thương mại trong và ngoài nước với mục tiêu đồng hành cùng DN đẩy mạnh xuất nhập khẩu, phát triển thị trường nội địa, mở rộng và đa dạng hóa các loại hình dịch vụ.
+Sự kiện năm nay thu hút sự tham gia của 320 doanh nghiệp (DN) đến từ Việt Nam và hơn 5 quốc gia, vùng lãnh thổ trên thế giới cùng nhau trưng bày, giới thiệu sản phẩm.
+Nguyễn Nguyễn

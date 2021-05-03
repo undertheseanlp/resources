@@ -1,15 +1,9 @@
 # doc_id = news_world_162
-# url = https://dantri.com.vn/the-gioi/nga-dieu-40-chien-ham-200-may-bay-tap-tran-ram-ro-gan-ukraine-20210422212654663.htm
-# date = 20210422
-Nga ngày 22/4 đã tổ chức cuộc tập trận quy mô lớn với 10.000 quân nhân, 40 tàu chiến, hơn 200 máy bay quân sự và trên 1.200 phương tiện tại bán đảo Crimea.
-Bộ trưởng Quốc phòng Nga Sergei Shoigu đã đích thân tới Crimea vào hôm nay để theo dõi cuộc tập trận của quân nhân quân khu Nam Nga và lực lượng nhảy dù.
-Ông Shoigu bay bằng trực thăng tới trường bắn Opuk, nơi các quân nhân và khí tài quân sự được triển khai nhằm kiểm tra năng lực sẵn sàng tác chiến của lực lượng hải quân và mặt đất Nga.
-Bộ trưởng Shoigu yêu cầu quân đội phải sẵn sàng để phản ứng nhanh chóng với "những diễn biến không có lợi", trong bối cảnh NATO sắp tổ chức một số cuộc tập trận ở khu vực Balkan và Biển Đen.
-Cuộc tập trận này là một phần trong hoạt động triển khai lực lượng của Nga gần Ukraine mà phương Tây mô tả là "lớn nhất" kể từ năm 2014, khi Nga sáp nhập Crimea. 
-Ukraine và phương Tây cáo buộc Nga có hành động khiêu khích khi điều động quân đội và vũ khí số lượng lớn, tuy nhiên, Nga tuyên bố động thái của họ là vì lý do an ninh và không nhằm vào bất cứ quốc gia nào.
-Cuộc tập trận diễn ra trong bối cảnh căng thẳng ở miền Đông Ukraine giữa lực lượng chính phủ Kiev và lực lượng ly khai leo thang trong thời gian qua. Ukraine cáo buộc Nga hậu thuẫn cho lực lượng đòi độc lập nói trên, điều mà Nga nhiều lần bác bỏ.
-Sau khi cuộc tập trận kết thúc, Bộ trưởng Shoigu tuyên bố hoạt động này đã đạt được mục tiêu và chỉ đạo các quân nhân rút về các căn cứ thường trực trước khi hết tháng.
-Ông Shoigu nhận định, các quân nhân đã thể hiện năng lực quốc phòng đáng tin cậy trong cuộc tập trận, nhưng nhấn mạnh Moscow sẽ cần tiếp tục cảnh giác với các động thái của NATO.
-Hàng chục trực thăng tham gia tập trận cùng xe tăng, tiêm kích, các hệ thống tên lửa, xe vận chuyển. Nga dường như sử dụng các tiêm kích MiG-31 và Su-27 trong hoạt động diễn tập.
-Đức Hoàng
-Ảnh: Bộ Quốc phòng Nga, Reuters, Euro News
+# url = https://dantri.com.vn/the-gioi/nga-doi-hoa-luc-vao-sao-huyet-phien-quan-o-syria-tieu-diet-200-tay-sung-20210420074134165.htm
+# date = 20210420
+Tại một cuộc họp báo ngày 19/4, ông Alexander Karpov, phó giám đốc Trung tâm hòa giải các bên tham chiến ở Syria, cho biết các máy bay chiến đấu của Không quân Vũ trụ Nga đã tấn công vào các mục tiêu ở thành phố cổ Palmyra của Syria, phá hủy một căn cứ ngầm của phiến quân tại đây.
+Ông Karpov cho biết, lực lượng của Nga tại Syria đã nhận được thông tin tình báo rằng phiến quân đã lập một căn cứ ngầm ở Palmyra, nơi được cho là sào huyệt của phiến quân để tổ chức các vụ tấn công khủng bố và chế tạo thiết bị nổ. Sau khi xác định được vị trí của các mục tiêu này, lực lượng của Không quân Vũ trụ Nga đã tiến hành đợt không kích nhằm vào đây.
+"Kết quả là, 200 tay súng, 24 xe bán tải chở súng máy hạng nặng cũng như khoảng 500kg đạn dược, linh kiện chế tạo thiết bị nổ đã bị phá hủy", ông Karpov nói.
+Quan chức Nga cho biết thêm, các nhóm vũ trang bất hợp pháp ở Syria đã lên kế hoạch thực hiện các vụ tấn công khủng bố nhằm vào các cơ quan chính phủ ở các thành phố lớn để&nbspgây bất ổn trước cuộc bầu cử tổng thống dự kiến diễn ra vào ngày 26/5 tới. Ông Karpov nói, các phần tử khủng bố được huấn luyện trong các trại nằm "trong các vùng lãnh thổ mà chính phủ Syria không kiểm soát, kể cả trong khu vực At-Tanf, do lực lượng Mỹ kiểm soát".
+Không quân Vũ trụ Nga đóng vai trò quan trọng trong chiến dịch quân sự của Nga ở Syria kể từ năm 2015 sau khi Tổng thống Syria Bashar Assad đề nghị Nga hỗ trợ chống khủng bố. Hiện tại, Nga, Thổ Nhĩ Kỳ, Iran là các nước đứng ra đảm bảo lệnh ngừng bắn ở Syria.
+Minh PhươngTheo Sputnik

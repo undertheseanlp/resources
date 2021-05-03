@@ -1,24 +1,11 @@
 # doc_id = news_world_064
-# url = https://dantri.com.vn/the-gioi/campuchia-ghi-nhan-ky-luc-ca-nhiem-moi-thai-lan-them-15-nguoi-chet-20210429081540583.htm
-# date = 20210429
-Nhân viên y tế lấy mẫu xét nghiệm Covid-19 tại Phnom Penh (Ảnh: PhnomPenh Post)
-Campuchia ngày 28/4 ghi nhận số ca mắc và phục hồi Covid-19 trong một ngày cao nhất kể từ khi đại dịch bắt đầu vào 1 năm ngoái, với 698 người có kết quả xét nghiệm dương tính, trong khi 994 bệnh nhân đã được xuất viện.
-Tính đến nay, số người mắc Covid-19 tại Campuchia đã lên tới 11.761 trường hợp, trong khi số người xuất viện sau khi điều trị Covid-19 tăng lên 4.698 trường hợp.
-Campuchia ngày 28/4 cũng ghi nhận thêm 6 ca tử vong, nâng tổng số người chết vì Covid-19 tại nước này lên 88 trường hợp.
-Theo số liệu mới nhất về số ca nhiễm trong ngày, thủ đô Phnom Penh một lần nữa là nơi có số ca mắc Covid-19 cao nhất nước. Trong số 558 ca nhiễm mới tại Phnom Penh có 1 người Trung Quốc.
-Sau Phnom Penh, Kandal có 72 ca nhiễm mới, Banteay Meanchey có 43 ca và Sihanoukville có 16 ca.
-Dù ghi nhận số ca nhiễm cao kỷ lục, song ngày 28/4 cũng là ngày hiếm hoi mà số người xuất viện cao hơn số người được xác nhận nhiễm bệnh ở Campuchia.
-Trước tình hình dịch lây lan nhanh, thủ đô Phnom Penh chính thức phong tỏa hai tuần bắt đầu từ ngày 15/4, đồng thời thiết lập các "vùng đỏ", "vùng cam", cấm người dân ra khỏi nhà trừ các lý do cấp thiết về y tế.
-Chính quyền Phnom Penh yêu cầu đóng cửa toàn bộ chợ dân sinh từ ngày 24/4 đến ngày 7/5 do xuất hiện nhiều ca bệnh mới liên quan đến các chợ. Chính quyền địa phương cũng khuyến khích các tiểu thương và bảo vệ các chợ làm xét nghiệm Covid-19.
-Mặc dù nhiều khu vực đã bị khoanh vùng báo động tại Phnom Penh, song ngày càng có nhiều lo ngại rằng số ca nhiễm sẽ tiếp tục tăng lên cho đến khi các bộ kit xét nghiệm được triển khai rộng rãi, năng lực xét nghiệm được cải thiện và các biện pháp phong tỏa nghiêm ngặt hơn được triển khai.
-Thái Lan thêm 15 người chết vì Covid-19
-Nhân viên y tế lấy mẫu xét nghiệm Covid-19 tại Bangkok (Ảnh: Bangkok Post)
-Chính phủ Thái Lan ngày 28/4 thông báo nước này ghi nhận thêm 15 ca tử vong vì Covid-19 và 2.012 ca nhiễm mới trong vòng 24 giờ, nâng tổng số người chết vì Covid-19 lên 178 trường hợp và tổng số ca nhiễm lên 61.699 người.
-Apisamai Srirangson, phát ngôn viên của Trung tâm Quản lý Tình hình Covid-19, cho biết trong số 15 ca tử vong mới, có 11 nam và 4 nữ, tuổi từ 35-88. 9 người trong số họ ở Bangkok, 2 người ở Chiang Mai và Samut Prakan và 1 người ở Chon Buri và Ranong.
-Bà Apisamaicho biết số người bệnh nặng tại Bangkok tăng từ 109 người hôm 21/4 lên 255 người hôm 27/4. Số người bệnh phải dùng máy thở cũng tăng từ 42 người hôm 21/4 lên 104 người hôm 27/4.
-Bệnh nhân có các triệu chứng nhẹ được yêu cầu chuyển đến bệnh viện dã chiến để nhường giường cho những người bệnh nặng.
-Số ca nhiễm tăng vọt tại Thái Lan trong những tuần gần đây một phần được cho là do sự xuất hiện của biến chủng mới dễ lây lan hơn có tên gọi B.1.1.7, phát hiện lần đầu tiên ở Anh cuối năm ngoái.
-Bangkok, điểm nóng bùng phát dịch ở Thái Lan, đã yêu cầu đóng cửa các địa điểm công cộng như công viên, trung tâm thể thao, phòng tập gym, bể bơi, viện bảo tàng, thư viện, trung tâm hội nghị, bắt đầu từ ngày 26/4 đến ngày 9/5.
-Bangkok và 40 tỉnh thành của Thái Lan yêu cầu người dân đeo khẩu trang bắt buộc ở nơi công cộng. Hiệp hội Bán lẻ Thái Lan cũng yêu cầu các trung tâm thương mại giới hạn giờ mở cửa từ 11 giờ sáng đến 8 giờ tối, còn các cửa hàng tiện lợi mở cửa từ 5 giờ sáng đến 10 giờ tối. Trường học, nhà hàng, quán bar tiếp tục đóng cửa đến đầu tháng sau.
-Thành Đạt
-Theo PhnomPenh Post, Bangkok Post
+# url = https://dantri.com.vn/the-gioi/campuchia-phong-toa-hoan-toan-thanh-pho-sihanoukville-20210423105940846.htm
+# date = 20210423
+Ông Kheang Phearum, Người phát ngôn Tòa thị chính tỉnh Preah Sihanouk cho biết Chính quyền tỉnh Preah Sihanouk đã quyết định phong tỏa khu vực thành phố Preah Sihanouk, là nơi bùng phát dịch bệnh Covid-19 liên quan đến "Sự kiện cộng đồng ngày 20/2" trong 14 ngày kể từ 0h00 ngày 23/4 đến ngày 6/5/2021 nhằm kiểm soát hiệu quả, ngăn chặn dịch bệnh lây lan sang các khu vực khác.
+Bản đồ quy định "vùng đỏ" tại thành phố Preah Sihanouk. Ảnh: Chính quyền tỉnh Preah Sihanouk
+Trong thời gian thực hiện lệnh phong tỏa này, mọi người đều bị cấm rời khỏi nhà hoặc nơi ở hiện tại của mình trừ trường hợp khẩn cấp. Với những người vi phạm lệnh cấm, cơ quan chức năng sẽ thực hiện xử lý nghiêm theo quy định của pháp luật.
+Cán bộ hướng dẫn người dân thực hiện quy định của chính quyền
+Các doanh nghiệp tại thành phố Preah Sihanouk cũng bị cấm hoạt động trong thời gian phong tỏa, ngoại trừ các cửa hàng dịch vụ thiết yếu phục vụ cuộc sống hàng ngày như dịch vụ y tế và cung cấp thực phẩm. Ngoài ra, chính quyền tỉnh Preah Sihanouk cũng thiết lập "vùng đỏ", đối với các tổ 1, 2, 3, 4 và 5 thuộc phường 4 của thành phố Preah Sihanouk.
+Preah Sihanouk là thành phố thứ 3 bị phong tỏa hoàn toàn tại Campuchia sau thủ đô Phnom Penh và thành phố Takhmao (tỉnh Kandal). Một số tỉnh khác tại Campuchia cũng đang tiếp tục áp dụng lệnh giới nghiêm từ 20h tối đến 5h sáng hôm sau để ngăn chặn dịch bệnh lây lan.
+Theo Văn Đỗ, Tâm Hiếu
+VOV

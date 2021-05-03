@@ -1,12 +1,15 @@
 # doc_id = news_health_052
-# url = https://dantri.com.vn/suc-khoe/be-2-tuoi-phai-muc-bo-mat-vi-phat-hien-ung-thu-muon-20210428122107445.htm
-# date = 20210428
-Trường hợp thương tâm trên là bệnh nhi N.V.K. (2 tuổi) vừa được tiếp nhận, điều trị tại Bệnh viện Nhi Đồng Thành Phố. Thời điểm bệnh nhi nhập viện, tình trạng sức khỏe khá ổn định. Khai thác bệnh sử của bác sĩ từ phía gia đình cho biết, trước khi nhập viện người nhà phát hiện mắt phải của bé có vùng bị trắng đục bất thường ở đồng tử nên đưa đến bệnh viện kiểm tra.
-Kết quả chẩn đoán hình ảnh cho thấy, mắt phải của bệnh nhi có khối u lớn nguy cơ xâm lấn, di căn.
-Qua thăm khám, chẩn đoán, bác sĩ xác định bệnh nhi bị ung thư nguyên bào võng mạc mắt bên phải. Sau khi hội chẩn kết hợp giữa tình trạng lâm sàng và hình ảnh cận lâm sàng cho thấy khối u đã phát triển khá lớn có nguy cơ xâm lấn, di căn. Các bác sĩ đã phải đưa ra quyết định rất khó khăn là cắt bỏ nhãn cầu để ngăn chặn sự tiến triển của khối u nhằm bảo vệ tính mạng cho bệnh nhi.
-Sau hơn 1 giờ phẫu thuật, nhãn cầu mắt phải có khối u của bệnh nhi đã được lấy ra ngoài thành công. Từ tình trạng sức khỏe của con ổn định, không có biểu hiện bất thường, bỗng nhiênphát hiện vùng trắng đục ở mắt phải rồi phải múc bỏ nhãn cầu khiến cha mẹ bệnh nhi vô cùng xót xa. 
-Từ trường hợp trên, bác sĩ cảnh báo, ung thư nguyên bào võng mạc là một loại u ác tính trong mắt ở trẻ em. Bệnh thường xuất hiện với tần suất cao ở trẻ nhỏ từ 1 đến 2 tuổi, bệnh cũng có thể gặp ở trẻ 3 đến 6 tuổi thậm chí 8 tuổi nhưng tỷ lệ thấp.
-Ung thư nguyên bào võng mạc có thể xảy ra một bên mắt hoặc hai bên mắt. Tuy là bệnh ác tính, hiếm gặp nhưng ung thư nguyên bào võng mạc có thể chữa lành được. Thống kê cho thấy 95% trường hợp được chữa lành hoàn toàn nếu bệnh nhân được điều trị sớm ngay khi bệnh bắt đầu và việc điều trị sẽ nhẹ nhàng, ít tốn kém.
-Bác sĩ khuyến cáo phụ huynh cần quan sát kỹ con mình để nhận biết sớm những dấu hiệu gợi ý của ung thư võng mạc như: trẻ bị lé; đồng tử (con ngươi) có vùng trắng đục; ánh mắt mèo khi chụp hình trong tối có đèn flash. Phụ huynh nên đưa con đi kiểm tra mắt định kỳ khi trẻ được 1 tuổi, sau 3 tuổi và trước khi vào lớp 1, khám mắt định kỳ mỗi 6 tháng khi đi học để phát hiện sớm các dấu hiệu giúp chẩn đoán, điều trị kịp thời.
-Với sự tiến bộ của y học hiện đại, ung thư nguyên bào võng mạc ở trẻ nếu được phát hiện sớm có thể điều trị khỏi. Tùy thuộc vào kích thước khối u, vị trí u, 1 u hay nhiều u, 1 mắt hay 2 mắt và độ tuổi của trẻ bác sĩ sẽ đưa ra những chỉ định điều trị phù hợp. Đối với khối u kích thước nhỏ có thể điều trị giữ được mắt. Đối với khối u kích thước lớn, phương pháp điều trị duy nhất hiện tại là cắt bỏ nhãn cầu và đặt mắt giả, có thể kết hợp điều trị bằng hóa chất trước và sau phẫu thuật hoặc xạ trị sau phẫu thuật.
-Vân Sơn
+# url = https://dantri.com.vn/suc-khoe/be-so-sinh-trai-qua-phau-thuat-dau-don-vi-bi-chich-mun-bang-kim-khau-20210427154242223.htm
+# date = 20210427
+Ngày 27/4, Bệnh viện Nhi Trung ương thông tin về ca bệnh hi hữu, bé sơ sinh 15 ngày tuổi bị nhiễm trùng huyết, hoại tử phần mềm vùng lưng do người nhà tự lấy kim khâu quần áo để chích mụn nhọt.
+Bé sơ sinh 15 ngày tuổi nhập viện trong tình trạng hoại tử lan rộng vùng lưng, nhiễm trùng máu nguy hiểm.
+Trước đó, ngày 2/4, Trung tâm Sơ sinh, Bệnh viện Nhi Trung ương tiếp nhận bé trai S.V.P. (15 ngày tuổi, ở Lai Châu) vào viện trong tình trạng nhiễm trùng huyết, vùng lưng hoại tử.
+Người nhà bệnh nhi cho biết, sau sinh ba ngày, thấy trên lưng trẻ có xuất hiện nốt mụn nhỏ li ti, người nhà đã lấy kim khâu quần áo để chích mụn cho trẻ.
+Một ngày sau, vết mụn xuất hiện viêm tấy đỏ và ngày càng lan rộng. Đến ngày thứ 7, trẻ có dấu hiệu hoại tử phần da vùng lưng nên được người nhà đưa đến trung tâm y tế huyện khám và tiếp tục được chuyển đến bệnh viện tỉnh để thăm khám và điều trị.
+Tại đây, trẻ được chẩn đoán nhiễm trùng huyết, hoại tử phần mềm vùng lưng. Ngày 2/4 trẻ được chuyển đến Bệnh viện Nhi Trung ương để tiếp tục theo dõi và điều trị.
+Bác sĩ CKII Lê Thị Hà - Giám đốc Trung tâm Sơ sinh, Bệnh viện Nhi Trung ương cho biết, bệnh nhi bị viêm mủ phần mềm nặng dẫn đến nhiễm khuẩn huyết do người nhà tự xử lý các tổn thương da và đưa trẻ đến bệnh viện muộn khi tổn thương da lan rộng.
+"Mụn mủ trên da thường do tụ cầu gây ra, cần được khám và dùng kháng sinh phù hợp. Việc xử lý vết thương tại nhà có thể tạo điều kiện cho vi khuẩn xâm nhập vào máu gây nhiễm trùng máu, gây nguy hiểm đến tính mạng của trẻ" - bác sĩ Hà cho hay.
+Các bác sĩ đã nỗ lực điều trị kháng sinh, rửa vết thương, chiếu plasma lạnh hàng ngày nhưng da vùng lưng của trẻ vẫn tiếp tục hoại tử lan rộng, không thể khống chế. Vì thế, ngày 13/4, các bác sĩ đã chỉ định mổ cắt lọc tổ chức hoại tử.
+Hơn một tuần sau phẫu thuật, hiện tình trạng sức khỏe của bệnh nhi đã ổn định hơn, vết thương khô, tuy nhiên vẫn cần được tiếp tục theo dõi, điều trị và chăm sóc vết thương.
+BS Hà khuyến cáo, khi phát hiện trẻ có mụn mủ hoặc bất cứ bất thường nào trên da, người nhà cần đưa trẻ đi khám để được tư vấn và xử trí kịp thời. Tuyệt đối không tự ý chích nặn mụn, nhọt hoặc dùng các loại cao dán, lá cây để đắp vì dễ gây viêm loét rộng, gây nhiễm trùng máu, đặc biệt là trẻ sơ sinh có thể nguy hiểm đến tính mạng.
+Hồng Hải

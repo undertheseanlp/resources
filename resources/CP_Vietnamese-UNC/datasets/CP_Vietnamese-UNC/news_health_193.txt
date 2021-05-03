@@ -1,12 +1,10 @@
 # doc_id = news_health_193
-# url = https://dantri.com.vn/suc-khoe/phau-thuat-thanh-cong-cho-nu-benh-nhan-bi-ung-thu-luoi-20210426212610058.htm
-# date = 20210426
-Ngày 27/4, tin từ Bệnh viện Hữu nghị Việt Nam - Cu Ba Đồng Hới (Quảng Bình) cho biết, các bác sĩ Khoa Răng hàm mặt và Khoa Ung bướu vừa phẫu thuật thành công cho bệnh nhân H.T.Đ (47 tuổi), trú xã Trọng Hóa, huyện Minh Hóa, bị ung thư lưỡi.
-Trước đó, bệnh nhân Đ. nhập viện trong tình trạng mệt mỏi, suy nhược, có khối u sùi lưỡi bên trái, đau, rất khó ăn uống. Theo người nhà, bệnh nhân xuất hiện đau lưỡi nhưng không đi khám vì điều kiện gia đình khó khăn,đường sá xa xôi.
-Gần đây, bệnh nhân đau lưỡi nhiều, nói khó hơn, tự sờ thấy khối ở lưỡi to dần nên đi khám tại bệnh viện tuyến huyện, sau đó được chuyển lên Bệnh viện Hữu nghị Việt Nam - Cu Ba Đồng Hới điều trị.
-Sau mổ, bệnh nhân đang nằm điều trị tại Khoa Răng hàm mặt, sức khỏe ổn định, vết mổ tiến triển tốt.
-Tại đây, sau khi làm các xét nghiệm cận lâm sàng, các bác sĩ phát hiện có khối u sùi vùng hông lưỡi trái kích thước khoảng 2x3 cm, cứng, đau, dễ chảy máu. Qua hội chẩn chuyên môn, các bác sĩ xác định bệnh nhân bị ung thư lưỡi có chỉ định phẫu thuật.
-Sau khi bệnh nhân được cắt rộng lấy trọn khối u sùi vùng lưỡi, các bác sĩ đã tiến hành cắt 1/2 lưỡi bên trái kèm theo nạo vét hạch cổ bên trái, hạch dưới hàm trái. Ca phẫu thuật diễn ra thuận lợi. Sau mổ, bệnh nhân đang nằm điều trị tại Khoa Răng hàm mặt, sức khỏe ổn định, vết mổ tiến triển tốt.
-Theo các bác sĩ, ung thư lưỡi là một trong những loại ung thư thường gặp nhất ở vùng miệng. Hầu hết ung thư lưỡi không tìm được nguyên nhân gây bệnh nhưng có một số yếu tố nguy cơ liên quan đến bệnh bao gồm: hút thuốc lá, uống rượu, nhai trầu, tình trạng vệ sinh răng miệng kém. Triệu chứng ban đầu của ung thư lưỡi thường nghèo nàn nên hay bị bỏ qua, rất nhiều trường hợp khi bệnh nhân đến viện đã ở giai đoạn muộn, điều trị hết sức khó khăn.
-Các bác sĩ cũng khuyến cáo người dân khi có bất kỳ triệu chứng nào bất thường về răng miệng, nên đi khám chuyên khoa để được khám, phát hiện, tư vấn và điều trị kịp thời.
+# url = https://dantri.com.vn/suc-khoe/quang-binh-trien-khai-tiem-nhung-mui-vac-xin-covid-19-dau-tien-20210427104836288.htm
+# date = 20210427
+Sáng 27/4, ngành y tế Quảng Bình bắt đầu triển khai tiêm những mũi vắc xin đầu tiên cho các đối tượng thuộc Nghị quyết số 21/NQ-CP ngày 26/2/2021 của Chính phủ.
+Ông Nguyễn Đức Cường, Giám đốc Sở Y tế Quảng Bình tiêm vắc xin phòng chống Covid-19.
+Những trường hợp được ưu tiên tiêm miễn phí gồm: người làm việc trong các cơ sở y tế; lực lượng tham gia phòng, chống dịch ở các tuyến (thành viên ban chỉ đạo phòng chống dịch các cấp; người làm việc ở các khu cách ly y tế tập trung; người làm nhiệm vụ truy vết, điều tra dịch tễ; tổ Covid-19 dựa vào cộng đồng…); cán bộ, nhân viên thuộc các đơn vị: Hải quan Quảng Bình, Cửa khẩu quốc tế Cha Lo, Cảng Hòn La, Cảng hàng không Đồng Hới, Ga Đồng Hới; lực lượng bộ đội biên phòng; lực lượng công an nhân dân; người làm việc tại các cơ quan, đơn vị hành chính thường xuyên tiếp xúc với nhiều người.
+Tại Quảng Bình, ông Nguyễn Đức Cường, Giám đốc Sở Y tế là người đầu tiên tiêm mũi vắc xin phòng chống Covid-19 của AstraZeneca. Từ ngày 27 đến 29/4, ở 2 điểm tiêm vắc xin Covid-19 tại Bệnh viện đa khoa TP. Đồng Hới và Bệnh việnĐa khoa khu vực Bắc Quảng Bình sẽ thực hiện tiêm cho hơn 800 người là các đối tượng ưu tiên theo quy định. Dự kiến đến 15/5, sẽ có hơn 10 ngàn người tại Quảng Bình được tiêm vắc xin phòng Covid-19.
+Sau khi tiêm, người được tiêm chủng sẽ ở lại để theo dõi 30 phút nhằm phát hiện sớm các trường hợp phản ứng sau tiêm chủng.
+Sau khi tiêm, người được tiêm chủng sẽ ở lại để theo dõi 30 phút nhằm phát hiện sớm các trường hợp phản ứng sau tiêm chủng. Lực lượng y tế sẵn sàng các phương tiện cấp cứu tại chỗ, hộp thuốc phòng chống sốc, có sẵn phương án phân công cụ thể người hỗ trợ cấp cứu, đội cấp cứu lưu động, phương tiện vận chuyển bệnh nhân khi cần thiết.
 Đặng Tài

@@ -1,8 +1,20 @@
 # doc_id = news_travel_197
-# url = https://dantri.com.vn/du-lich/pho-tay-ha-noi-dong-nghet-nguoi-nhu-chua-he-co-covid-19-20210404075829158.htm
-# date = 20210404
-Các quán Karaoke, vũ trường tại Hà Nội được phép hoạt động trở lại (từ ngày 23/3), tối qua nhiều người dân đã lên phố Tạ Hiện để ăn uống, vui chơi.
-Chị Huyền Lê (một chủ quán bia ở Tạ Hiện) cho biết: "Từ khi được mở cửa trở lại, đây là tuần đông khách nhất, cơ bản dịch bệnh đã được kiểm soát tốt nên nhiều người cũng yên tâm khi đến đây ăn uống và vui chơi".
-Nhân viên của một nhà hàng mỏi tay ghi thực đơn do khách yêu cầu. Việc mở cửa quán bar, vũ trường trở lại khiến không khí tại phố Tạ Hiện nhộn nhịp.
-Anh Huệ (khách hàng) cho biết: "Thỉnh thoảng vào ngày cuối tuần tôi cũng cùng bạn bè lên đây để nghe nhạc, ăn uống cho thoải mái tinh thần. Hy vọng dịch sớm hết hẳn để xã hội ổn định trở lại".
-Phi Hùng
+# url = https://dantri.com.vn/du-lich/quan-banh-cuon-dat-hang-suot-40-nam-ngay-ban-200-suat-o-ha-noi-20210406045642294.htm
+# date = 20210406
+Bánh cuốn là một thứ đặc sản bình dị của mảnh đất Hà thành, được ăn cùng hành khô, giò chả Ước Lễ, thêm vài nhánh rau mùi, rau húng để tăng thêm mùi vị, chấm nước mắm chua ngọt.
+Ngày nay, dạo một vòng quanh khắp phố phường Hà Nội, tần suất xuất hiện của món bánh này cũng không thua kém gì những món ăn phổ biến khác của Thủ đô như là phở, bánh mì…
+Nằm trên con phố Phan Phù Tiên (Đống Đa, Hà Nội), quán bánh cuốn do bà Lộc mở từ 1985, ngày nay đang được 2 người con gái của bà tiếp quản, trực tiếp tráng bánh và quản lý quán.
+Từ những ngày đầu mở quán, 4 người con gái của bà Lộc đã cùng nhau phụ với mẹ bán bánh cuốn, mẹ tráng còn con bê bánh phục vụ khách.
+"Nhà tôi có 4 chị em gái, 3 chị em ở Hà Nội, 1 chị ở Sài Gòn đều lưu giữ nghề gia truyền của mẹ để lại. Mọi người đến quán toàn thấy mấy chị em gái làm nên hay gọi là quán chị em", chị Hoàng Hồng Ánh cho biết.
+Chỉ với một vài dụng cụ "tự chế" đơn giản cùng với 3 nồi nước luôn sôi nghi ngút, chị Hương (em gái chị Ánh) thoăn thoắt múc bột bánh vào nắp tráng bột gáo dừa và dàn mỏng trên mặt vải.
+Sau đó úp vung đến khi bánh phồng lên tức đã chín, chị nhanh tay lấy bánh, chị Ánh đỡ lá bánh, cho nhân thịt băm trộn lẫn với mộc nhĩ rồi gấp lại, lớp bánh mỏng dính cuộn đều ôm lấy nhân bên trong bóng bẩy, đầy tinh tế.
+Nhìn 2 chị em họ làm bánh cuốn như những nghệ nhân, rất điệu nghệ. Những chiếc nồi nhôm dùng để tráng bánh của quán nhỏ hơn so với các quán khác. Chị Ánh nhanh nhảu giải đáp: "Khuôn bánh nhà tôi chỉ nhỏ như chiếc bánh đa nem, bánh tráng mỏng và không bị nhiều bột, lãng phí bột".
+Bánh cuốn ngon nhất khi ăn lúc còn nóng hổi nên khi có khách 2 chị em mới bắt đầu làm. Bánh tráng đến đâu, ăn đến đó, đòi hỏi người ăn phải kiên nhẫn chờ đợi. Thế nhưng, không có ai cằn nhằn, khó chịu, bởi sự chờ đợi của họ luôn được đền đáp xứng đáng bằng đĩa bánh cuốn nóng hổi, thơm nức.
+Điểm đặc trưng của quán nằm ở bát nước chấm gia truyền do mẹ chị để lại. Nước chấm được pha từ nước thịt lợn thăn ninh nhừ, sau đó thêm nước mắm, giấm, nước cốt chanh cho vừa vặn. Nước chấm trong, ngọt thanh và không bị lênh láng mỡ.
+Gắp từng miếng bánh chấm thật đẫm vào bát nước chấm, cái đậm đà của nhân bánh kết hợp với cái dẻo mịn của lớp vỏ và hương vị độc đáo của nước mắm, của rau mùi hòa quyện khiến thực khách ăn mãi mà không muốn dừng đũa.
+Bên cạnh nước chấm, nhiều thực khách còn "nghiền" hành khô giòn rụm ăn cùng bánh cuốn của quán. Chị Ánh cho biết, hành khô do nhà chị tự làm nên là hành nguyên chất 100%, bột gạo để làm bánh chị cũng tự xay. Thậm chí, hạt tiêu chị mua cả hạt về rang rồi xay nhỏ để rắc vào bát nước chấm.
+Ngoài nhân thịt băm mộc nhĩ quen thuộc, quán còn nổi tiếng với món trứng hấp. Trứng được hấp chín khoảng 70%, xắn miếng trứng lòng đào dẻo, ngậy, béo mà không bị tanh.
+Quán mở bán từ 6 giờ 30 sáng đến 1h30 chiều, đông nhất là những ngày cuối tuần. Trung bình mỗi ngày bán được khoảng 200 đĩa bánh, nhiều thực khách ăn từ khi còn nhỏ, giờ đã lên chức bố, mẹ vẫn thường xuyên tới quán thưởng thức.
+Chị Đào Ngọc Anh ở phố Tôn Đức Thắng (Đống Đa, Hà Nội) chia sẻ: "Tôi ăn bánh cuốn ở đây từ khi mới đi học lớp 1, đến nay đã có con rồi tôi vẫn chỉ trung thành quán này. Thỉnh thoảng tôi dẫn cả con đến đây ăn, hương vị vẫn giữ nguyên như vậy từ thời bà Lộc bán. Vỏ bánh vừa mướt, mỏng mà vẫn dai dai không có quán nào có được".
+Không cao sang, cầu kỳ, bánh cuốn Hà Nội chiếm trọn trái tim của thực khách từ mọi lứa tuổi, mọi địa vị, tầng lớp bởi chính cái vẻ mộc mạc, thanh nhã vốn có của mình, trở thành một thứ đặc sản không thể thiếu của Thủ đô.
+Toàn Vũ - Hà Hiền

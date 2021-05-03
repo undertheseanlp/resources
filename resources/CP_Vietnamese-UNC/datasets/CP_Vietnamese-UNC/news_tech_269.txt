@@ -1,29 +1,16 @@
 # doc_id = news_tech_269
-# url = https://dantri.com.vn/suc-manh-so/xiaomi-ra-mat-smartphone-voi-thiet-ke-2-man-hinh-doc-dao-mi-11-ultra-20210330112417715.htm
-# date = 20210330
-Sau khi ra mắt Mi 11 hồi tháng 1 vừa qua, Xiaomi vừa tiếp tục trình làng thêm một biến thể mới của sản phẩm, với tên gọi Mi 11 Ultra. Điểm nhấn đáng chú ý nhất của sản phẩm đó là sự xuất hiện của màn hình phụ, được tích hợp ngay cạnh camera ở lưng máy, cho phép người dùng có thể sử dụng camera sau để chụp ảnh selfie, thay vì phải dùng camera ở mặt trước.
-Mi 11 Ultra nổi bật với màn hình phụ ở lưng máy.
-Màn hình phụ này có kích thước 1,1 inch, sử dụng công nghệ OLED với độ phân giải 294 x 126. Màn hình có tính năng tiết kiệm năng lượng để không làm ảnh hưởng đến thời lượng sử dụng pin trên sản phẩm. Ngoài ra, Xiaomi cho biết màn hình sẽ có chế độ luôn hiển thị (always-on), để người dùng xem giờ, các thông báo đến, thông tin cập nhật… ngay cả khi úp mặt smartphone xuống bàn.
-Ngoài điểm nhấn về thiết kế 2 màn hình, Xiaomi 11 Ultra còn được trang bị một cấu hình mạnh mẽ, với màn hình 6,8 inch độ phân giải 2K+, sử dụng công nghệ OLED, tần số làm tươi 120Hz. Bên trong sản phẩm là bộ vi xử lý Snapdragon 888 cao cấp nhất của Qualcomm, tùy chọn bộ nhớ RAM 8/12GB, đi kèm bộ nhớ lưu trữ 256/512GB, không hỗ trợ khe cắm thẻ nhớ ngoài.
-Mặt sau của sản phẩm được trang bị cụm 3 camera, bao gồm camera chính 50 megapixel, camera góc rộng 48 megapixel và camera tele 48 megapixel, hỗ trợ zoom quang học 5x. Mặt trước là camera 20 megapixel, được thiết kế dạng "đục lỗ" đặt ngay trong màn hình.
-Màn hình phụ có thể dùng để xem thông tin hoặc sử dụng để chụp ảnh selfie bằng camera sau.
-Xiaomi Mi 11 Ultra được trang bị thỏi pin dung lượng 5.000mAh, hỗ trợ sạc có dây và không dây đều 67W, giúp sạc đầy pin chỉ sau 39 phút. Sản phẩm hỗ trợ kết nối mạng 5G. Khác với phiên bản Mi 11, Mi 11 Ultra đã được Xiaomi trang bị tính năng chống nước và bụi theo chuẩn IP68, cho phép ngâm nước ở độ sâu 1,5m trong thời gian 30 phút.
-Mi 11 Ultra sẽ được bán ra đầu tiên tại thị trường Trung Quốc với mức giá khởi điểm 5.999 tệ (tương đương 900 USD) và tại châu Âu giá 1.199 Euro. Hiện chưa rõ thời điểm sản phẩm sẽ bán ra tại các thị trường khác.
-Xiaomi Mi 11i
-Ngoài Mi 11 Ultra, Xiaomi cũng giới thiệu thêm một phiên bản Mi 11i giá rẻ.
-Về cấu hình cơ bản, Mi 11i không kém nhiều so với Mi 11 Ultra, cũng được trang bị chip Snapdragon 888 cao cấp của Qualcomm, nhưng chỉ có bộ nhớ RAM 8GB (không có tùy chọn 12GB), đi kèm bộ nhớ lưu trữ 128GB và 256GB.
-Sản phẩm được trang bị màn hình 6,67 inch độ phân giải Full HD+ (2400x1080), sử dụng công nghệ AMOLED với tần số làm tươi 120Hz. Mặt sau cũng là cụm 3 camera, với camera chính 108 megapixel, camera góc rộng 8 megapixel và camera 5 megapixel để chụp ảnh macro. Mặt trước là camera 20 megapixel.
-Mi 11i dùng thỏi pin dung lượng 4.520mAh, hỗ trợ sạc nhanh 30W. Sản phẩm được trang bị cảm biến vân tay ở cạnh bên, tích hợp vào nút nguồn, thay vì được đặt vào màn hình.
-Điểm nhấn đáng chú ý nhất của Mi 11i là mức giá "mềm" so với cấu hình, khi sản phẩm sẽ được bán ra đầu tiên tại thị trường châu Âu với mức giá 649 Euro.
-Xiaomi Mi 11 Lite
-Xiaomi Mi 11 Lite cũng là một phiên bản giá rẻ thuộc dòng smartphone Mi 11. So với các phiên bản khác, Mi 11 Lite có cấu hình thấp hơn, sử dụng chip xử lý Snapdragon 780G (đối với phiên bản hỗ trợ mạng 5G) hoặc Snapdragon 732 (đối với phiên bản chỉ hỗ trợ mạng 4G), bộ nhớ RAM 8GB, đi kèm tùy chọn lưu trữ 128GB hoặc 256GB (phiên bản mạng 4G có thêm tùy chọn bộ nhớ 6/64GB).
-Sản phẩm có màn hình 6,55 inch độ phân giải Full HD+, sử dụng công nghệ AMOLED với tần số làm tươi 90Hz.
-Mặt lưng là cụm 3 camera, bao gồm camera chính 64 megapixel, camera góc rộng 8 megapixel và camera 5 megapixel để chụp ảnh macro. Mặt trước là camera 20 megapixel dạng đục lỗ.
-Mi 11 Lite được trang bị thỏi pin dung lượng 4.250mAh, hỗ trợ sạc nhanh 33W. Sản phẩm sẽ bán ra đầu tiên tại thị trường Trung Quốc vào ngày 4/4 tới đây, với mức giá khởi điểm 2.299 tệ (tương đương 350 USD) cho tùy chọn bộ nhớ 8/128GB. Phiên bản Mi11 Lite (4G) với bộ nhớ 6/64GB sẽ được bán ra với giá 299 Euro tại thị trường châu Âu.
-Vòng đeo tay thông minh Mi Band 6
-Ngoài loạt smartphone Mi 11, Xiaomi cũng đã ra mắt vòng đeo tay thông minh Mi Band 6 mới nhất của hãng, với nhiều thay đổi cả về thiết kế lẫn tính năng.
-So với phiên bản Mi Band 5 ra mắt vào năm ngoái, Mi Band 6 được thiết kế với màn hình tràn viền, bo tròn cả ở 4 cạnh, với kích thước 1,56 inch, sử dụng công nghệ AMOLED. Sản phẩm được trang bị tính năng theo dõi nhịp tim suốt 24 giờ và quản lý mức Oxy trong máu SpO2, giúp quản lý chất lượng giấc ngủ tốt hơn.
-Mi Band 6 có 30 chế độ theo dõi hoạt động khác nhau và tự động phát hiện 6 hoạt động tập thể dục khác nhau để theo dõi quá trình vận động của người dùng. Sản phẩm được trang bị tính năng chống nước với độ sâu lên đến 50m, giúp người dùng thoải mái mang sản phẩm để bơi lội hoặc vận động dưới nước.
-Về pin, Mi Band 6 cho thời lượng pin sử dụng 14 ngày, nhiều hơn thời lượng pin sử dụng 10 ngày của Mi Band 5.
-Sản phẩm sẽ được bán ra đầu tiên tại thị trường Trung Quốc, với mức giá chưa được tiết lộ.
-T.ThủyTheo PA/GSMArena
+# url = https://dantri.com.vn/suc-manh-so/youtuber-phat-truc-tiep-canh-hanh-ha-va-sat-hai-ban-gai-tren-internet-20210429145655543.htm
+# date = 20210429
+Stanislav Reshetnikov (trái) và cô bạn gái Valentina Grigoryeva (phải)
+Stanislav Reshetnikov, 30 tuổi, chủ sở hữu của kênh Youtube có tên ReeFlay, vừa bị tòa án tại thủ đô Moscow (Nga) kết án 6 năm tù vì tội danh tấn công người khác dẫn đến tử vong.
+Trước đó, Stanislav đã phát trực tiếp cảnh tên này lăng mạ, đánh đập cô bạn gái Valentina "Valya" Grigoryeva, 28 tuổi, trên kênh Youtube của mình. Stanislav còn thực hiện theo yêu cầu của những người theo dõi buổi livestream để đánh đập và hành hạ bạn gái.
+Stanislav sau đó còn ép bạn gái cởi hết áo quần, chỉ mặc nội y, rồi buộc cô phải đi ra giữa trời tuyết lạnh giá và không được vào nhà. Đến khi Stanislav cho phép bạn gái quay trở vào nhà, Valentina đã rơi vào trạng thái bất tỉnh, lúc này một người theo dõi buổi livestream của Stanislav mới gọi điện thông báo sự việc với cảnh sát.
+"Thật kinh tởm. Chúng có thể làm mọi thứ chỉ để có được người xem và trở nên nổi tiếng trên mạng xã hội. Thật đáng khinh", một cư dân mạng đã phải thốt lên sau khi xem đoạn clip của Stanislav.
+Valentina sau đó được đem đến bệnh viện với nhiều vết thương trên cơ thể và cô đã không qua khỏi vì bị thương nặng ở đầu, khiến não bị tổn thương.
+Cảnh sát đã tiến hành bắt giữ Stanislav và tên này thừa nhận đã đánh đập bạn gái cho đến chết. Y đã bật khóc khi bị cảnh sát bắt.
+Bà Elena Reshetnyak, một giám đốc bán hàng và mẹ của Stanislav, cho biết bà không tin con mình phạm tội vì Stanislav là "một cậu bé ngoan và không bao giờ làm hại ai".
+Các giám định tâm lý và sức khỏe tâm thần sau đó đã xác định rằng Stanislav hoàn toàn bình thường để có thể ra tòa. Tòa án đã đưa ra phán quyết Stanislav phạm các tội danh cố ý gây thương tích, lăng mạ người khác và vô ý gây chết người, với mức án tù 6 năm.
+Tuy nhiên, nhiều người đã phản đối mức án phạt dành cho Stanislav vì cho rằng mức án này quá nhẹ và không tương xứng với tội ác do tên này gây ra.
+Cũng như nhiều quốc gia khác, Youtuber đã trở thành một xu hướng để kiếm tiền và xuất hiện ngày càng nhiều tại Nga. Tuy nhiên, nhiều Youtuber tại Nga đã bất chấp tất cả để "câu view", bao gồm cả những hành động bạo lực và man rợ.
+Hiện nhiều nhà lập pháp tại Nga đang kêu gọi áp dụng những chính sách nghiêm ngặt hơn để ngăn chặn các hành vi bạo lực, vi phạm pháp luật để "câu view" trên mạng xã hội, trong đó bao gồm việc cho phép cảnh sát theo dõi hoạt động của các Youtuber nổi tiếng và yêu cầu các Youtuber phải đóng thuế đầy đủ cho các khoản đóng góp nhận được từ người xem.
+T.ThủyTheo SoMag

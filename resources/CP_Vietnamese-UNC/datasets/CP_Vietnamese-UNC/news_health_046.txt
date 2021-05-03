@@ -1,24 +1,11 @@
 # doc_id = news_health_046
-# url = https://dantri.com.vn/suc-khoe/9-nguoi-trung-quoc-nhap-canh-trai-phep-am-tinh-lan-1-voi-sars-co-v-2-20210428153052462.htm
-# date = 20210428
-Nhóm người Trung Quốc nhập cảnh trái phép vào Việt Nam đều cho kết quả âm tính lần 1 với SARS-CoV-2.
-Ngày 28/4, thông tin từ Trung tâm Kiểm soát bệnh tật tỉnh Bình Phước cho biết, 9 đối tượng người Trung Quốc nhập cảnh trái phép bị phát hiện, bắt giữ tại xã An Phú (huyện Hớn Quản) đều cho kết quả âm tính lần 1 với SARS-CoV-2.
-Thông tin ban đầu, khoảng 6h30 sáng 26/4, Công an xã An Phú nhận tin báo về một nhóm người Trung Quốc xuất hiện trên địa bàn có dấu hiệu nhập cảnh trái phép nên tổ chức chốt chặn, vây bắt. Khoảng 3 giờ sau, nhóm người này di chuyển đến khu vực ấp An Tân (xã An Phú) thì bị công an chặn lại.
-Bị phát hiện, nhóm người Trung Quốc lập tức bỏ chạy, trốn vào vườn điều của người dân. Ngay lập tức, Công an xã An Phú, Ban Chỉ huy Quân sự xã cùng người dân bao vây, bắt giữ cả 9 đối tượng đưa về trụ sở.
-Bước đầu, nhóm đối tượng khai có quốc tịch Trung Quốc, sau khi nhập cảnh vào Campuchia, 9 người này tiếp tục vượt biên trái phép theo đường mòn vào Việt Nam. Di chuyển vào địa bàn xã An Phú thì nhóm người này bị phát hiện, bắt giữ.
-Ngay sau đó, Ban Chỉ đạo phòng, chống dịch Covid-19 huyện Hớn Quản đã chỉ đạo ngành y tế điều tra truy vết, phun khử khuẩn khu vực các đối tượng lẩn trốn; đồng thời đưa 9 đối tượng đi cách ly tập trung theo quy định.
-Lào Cai: Tiêm phòng vắc xin phòng dịch Covid -19 cho lực lượng báo chí
-Tại điểm tiêm vắc xin phòng dịch Covid-19 tại Bệnh viện sản nhi tỉnh Lào Cai ngày 28/4 có hơn 80 phóng viên báo chí tỉnh Lào Cai được tiêm phòng. (Ảnh Sở Y tế Lào Cai)
-Theo chỉ đạo của UBND tỉnh Lào Cai, trong ngày 28/4 hơn 80 phóng viên, báo chí tham gia phòng chống dịch của tỉnh Lào Cai đã hoàn thành tiêm vắc xin phòng Covid-19 mũi 1 tại Bệnh viện sản nhi tỉnh Lào Cai.
-Sau tiêm tất cả các trường hợp đều được theo dõi sức khỏe từ 30-60 phút tại điểm tiêm, đồng thời được cán bộ y tế hướng dẫn theo dõi sức khỏe tại nhà trong vòng 24 giờ và tiếp tục theo dõi ít nhất 7 ngày sau khi tiêm.
-Lực lượng biên phòng tỉnh Lào Cai được cấp 965 liều vắc xin Covid- 19 và điểm tiêm tại Trung tâm Kiểm soát bệnh tật tỉnh Lào Cai sẽ tiêm cho cán bộ, chiến sĩ Bộ Chỉ huy Bộ đội Biên phòng tỉnh Lào Cai, Đồn biên phòng Bản Lầu, Đội cơ động biên phòng Bản Lầu và Đồn Biên Phòng cửa khẩu quốc tế Lào Cai với tổng số 396 liều.
-Thái Bình: Triển khai kế hoạch tiêm 13.450 liều vắc Covid-19 đợt 1
-13.450 liều vaccine AstraZeneca đang được bảo quản tại CDC Thái Bình.
-Theo phân bổ, Bệnh viện Đa khoa tỉnh Thái Bình sẽ được tiêm hơn 500 liều vắc xin Covid-19, mỗi ngày sẽ tiêm cho 50 người, không tiêm vào những ngày cuối tuần, ngày nghỉ để đảm bảo điều kiện theo dõi.
-Trước đó, Sở Y tế tỉnh Thái Bình ban hành cụ thể kế hoạch tiêm 13.450 liều vắc xin Covid-19 đợt 1 cho các đối tượng ưu tiên đã qua phân loại, sàng lọc kỹ lưỡng thời gian vừa qua trên địa bàn tỉnh này.
-Đối tượng được ưu tiên tiêm đợt đầu, gồm: Người làm trong cơ sở y tế (ưu tiên người làm trực tiếp, thường xuyên như khám, cách ly, điều trị người bệnh/nghi bệnh Covid-19; điều tra dịch tễ, truy vết; lấy mẫu, làm mẫu xét nghiệm; vệ sinh khử khuẩn…; tiêm chủng vắc xin, chốt kiểm dịch).
-Các đối tượng ưu tiên khác là thành viên ban chỉ đạo chống dịch cấp xã; người làm việc ở các khu cách ly tập trung; thành viên tổ truy vết; người tham gia điều tra dịch tễ; tổ Covid-19 dựa vào cộng đồng; tình nguyện viên; phóng viên; lực lượng công an, quân đội tham gia phòng, chống dịch và một số cán bộ khác trực tiếp tham gia phòng, chống dịch.
-Thời gian tổ chức tiêm phòng vắc xin Covid-19 bắt đầu từ sáng 28/4 và kết thúc vào ngày 14/5. Bắt đầu từ ngày 29/4, sẽ triển khai tiêm tại một số đơn vị y tế tuyến tỉnh, Ban Bảo vệ sức khỏe tỉnh…
-Từ ngày 4/5, triển khai tại các điểm tiêm còn lại thuộc tuyến tỉnh và các bệnh viện, trung tâm y tế huyện, thành phố. Từ ngày 5/5, triển khai tiêm tại các trạm y tế xã, phường, thị trấn do ban chỉ đạo các huyện, thành phố lựa chọn, không quá 10 điểm tiêm chủng/ngày.
-Đối với trạm y tế xã, phường, thị trấn không đáp ứng điều kiện nhân lực thì thành lập tổ tiêm chủng theo cụm xã, phường, thị trấn, nhưng không quá 5 xã, phường, thị trấn/cụm.
-Phan Lâm - Phạm Ngọc Triển - Đức Văn
+# url = https://dantri.com.vn/suc-khoe/an-giang-bat-giu-3-tan-cha-don-chay-khong-dam-bao-an-toan-thuc-pham-20210422211153437.htm
+# date = 20210422
+Chiều 22/4, Phòng Cảnh sát Môi trường Công an tỉnh An Giang cho biết, đơn vị vừa phối hợp với Đội Quản lý thị trường số 1 phát hiện và bắt giữ hơn 3 tấn chả đòn chay không chứng nhận đủ điều kiện an toàn thực phẩm.
+Theo thông tin, khoảng 5h20, sáng 22/4, qua công tác trinh sát và nhận được tin báo từ quần chúng nhân dân, Phòng Cảnh sát Môi trường Công an tỉnh An Giang phối hợp Đội Quản lý thị trường số 1 (Cục Quản lý thị trường tỉnh An Giang) bất ngờ kiểm tra cơ sở sản xuất thực phẩm chay tại ấp Hậu Giang 1, xã Tân Hòa, huyện Phú Tân, An Giang, do bà Phan Thị Bích Tuyền làm chủ.
+Phòng Cảnh sát Môi trường Công an tỉnh An Giang vừa phát hiện và bắt giữ trên 3 tấn chả đòn chay không đảm bảo an toàn thực phẩm
+Cơ sở sản xuất chả đòn chay không có giấy chứng nhận đủ điều kiện an toàn thực phẩm.
+Qua kiểm tra, lực lượng chức năng phát hiện cơ sở của bà Tuyền sản xuất thực phẩm chay vi phạm không có giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm; sản xuất thực phẩm mà không có bản tự công bố sản phẩm theo quy định của pháp luật.
+Tại hiện trường, lực lượng chức năng phát hiện, bắt giữ hơn 3 tấn chả đòn chay nghi vấn là có nhiều chả đòn chay trộn với thịt cá để lấy mẫu kiểm nghiệm đánh giá, phân tích chất lượng sản phẩm.
+Hiện vụ việc đang được cơ quan chức năng tiếp tục điều tra làm rõ.
+Huỳnh Minh

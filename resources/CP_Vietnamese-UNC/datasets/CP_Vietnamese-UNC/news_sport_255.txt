@@ -1,14 +1,13 @@
 # doc_id = news_sport_255
-# url = https://dantri.com.vn/the-thao/uefa-tuyen-bo-soc-man-city-chelsea-real-bi-loai-khoi-champions-league-20210420102219332.htm
-# date = 20210420
-Những cuộc tranh cãi liên quan đến European Super League vẫn đang diễn ra hết sức căng thẳng. Mới đây, Chủ tịch liên đoàn bóng đá Đan Mạch đồng thời là thành viên Ủy ban điều hành UEFA Jesper Moller đã giáng một đòn mạnh vào 3 thành viên sáng lập của giải đấu này là Real Madrid, Chelsea và Man City.
-Theo tuyên bố từ vị lãnh đạo của UEFA, ba ông lớn trên sẽ bị loại khỏi Champions League 2020/21 dù đã tiến tớivòng bán kết. PSG rất có thể được trao ngôi vương ngay lập tức khi đội chủ sân Công viên các hoàng tử là đội duy nhất trong 4 đội lọt vào bán kết không tham gia siêu giải đấu European Super League.
-UEFA khẳng định sẽ loại Man City, Chelsea và Real Madrid khỏi bán kết Champions League vì tham gia siêu giải đấu European Super League
-Bên cạnh Man City và Chelsea, hai đại diện nước Anh khác là Man Utd và Arsenal cũng sẽ bị loại khỏi sân chơi Europa League dù cả hai cũng đều đã vượt qua các đối thủ để có mặt ở vòng bán kết.
-Moller nói với tờ DR Sport: "Các CLB nổi loạn sẽ bị loại khỏi vòng bán kết ngay trong tuần này. Chúng ta sẽ phải nghĩ đến kịch bản làm sao để Champions League năm nay kết thúc trọn vẹn". Ông nói thêm: "Phải có một cuộc họp ban chấp hành bất thường vào thứ sáu tuần này. Tôi kỳ vọng rằng cả 12 câu lạc bộ sẽ bị loại".
-Ngoài việc khẳng định lập trường cứng rắn với các CLB đòi ly khai khỏi UEFA và FIFA, ông Moller cũng lên tiếng tin tưởng các cầu thủ sẽ ủng hộ UEFA cũng như Liên đoàn bóng đá của mỗi quốc gia.
-"Tôi tin rằng các hợp đồng của cầu thủ với các CLB nổi loạn sẽ tự động mất hiệu lực", ông Moller nói về việc những cầu thủ ở 12 CLB nổi loạn hoàn toàn có quyền tự động chấm dứt hợp đồng.
-PSG rất có thể sẽ được trao ngôi vương Champions League ngay lập tức sau cuộc họp của UEFA vào cuối tuần này
-Với tư cách là Chủ tịch Liên đoàn bóng đá Đan Mạch, ông Moller sẽ bảo vệ cho 5 cầu thủ Đan Mạch hiện đang thi đấu cho các CLB nổi loạn là Christian Eriksen ở Inter Milan, Simon Kjaer ở AC Milan, Andreas Christensen ở Chelsea, Martin Braithwaite ở Barcelona và Pierre Emile Hojbjerg ở Tottenham.
-Theo ông Moller, UEFA sẽ cho phép các cầu thủ từ 12 CLB nói trên quyền lựa chọn ở lại CLB hoặc kết thúc hợp đồng sớm. "Tôi tin rằng các hợp đồng sẽ tự động mất hiệu lực khi các CLB chọn không tham gia các giải đấu của UEFA. Sau đó, các cầu thủ được tự do và có thể chọn chơi cho một CLB khác nằm trong hệ thống kim tự tháp mang tính đoàn kết và tính cộng đồng của chúng tôi", ông Moller nói.
-Sông Lam
+# url = https://dantri.com.vn/the-thao/van-lam-noi-gi-sau-buoi-tap-dau-tien-cung-clb-cerezo-osaka-20210422125921461.htm
+# date = 20210422
+Văn Lâm đã chính thức ra mắt CLB Cerezo Osaka vào ngày Chủ nhật vừa qua. Thủ thành người Việt Nam nhận được sự kỳ vọng lớn từ những người hâm mộ đội bóng mới.
+Vào buổi sáng nay, Văn Lâm đã chính thức có buổi tập đầu tiên cùng CLB Cerezo Osaka. Ngay sau buổi tập, thủ thành này đã có những chia sẻ nhanh với người hâm mộ Việt Nam trên trang Facebook của CLB Cerezo Osaka.
+Văn Lâm ra mắt CLB Cerezo Osaka.
+Văn Lâm cho biết: "Chào tất cả mọi người. Hôm nay Lâm đã có buổi tập đầu tiên cùng với cả đội. Tôi rất vui khi tập luyện cùng những đồng đội mới. Lâm sẽ cố gắng tập luyện tốt, để có phong độ tốt chuẩn bị cho mùa giải. Cảm ơn mọi người, những ai quan tâm và theo dõi Lâm".
+Trước đó, trong ngày ra mắt CLB Cerezo Osaka, Văn Lâm đã khiến nức lòng CĐV đội bóng mới bằng phát biểu: "Xin chào tất cả mọi người. Tôi là Đặng Văn Lâm. Thủ môn tới từ Việt Nam. Tôi rất vui khi có mặt ở đây và trở thành một phần của đội bóng. Đây là lần đầu tiên tôi có mặt ở Nhật Bản. Hy vọng các bạn sẽ ủng hộ tôi. Tôi sẽ nỗ lực hết sức vì đội bóng".
+Văn Lâm có thể ra mắt CLB mới trong trận đấu với Gamba Osaka vào ngày 2/5.
+Vào ngày 2/5, Cerezo Osaka sẽ chạm trán với Gamba Osaka ở giải VĐQG Nhật Bản. Rất nhiều người hâm mộ Việt Nam đang chờ đợi thủ thành sinh năm 1993 ra mắt trong trận đấu này. Hiện tại, thủ thành người Hàn Quốc, Kim Jin-Hyeon vẫn là thủ môn số 1 của đội bóng. Cầu thủ này đã ra sân trọn vẹn 12 trận đấu của Cerezo Osaka trong mùa giải này.
+Văn Lâm chính là cầu thủ Việt Nam đầu tiên thi đấu ở giải vô địch quốc gia Nhật Bản. Trước đó, Công Vinh, Công Phượng hay Tuấn Anh đều đã thi đấu ở giải hạng Hai ở đất nước Mặt trời mọc.
+Hiện tại, CLB Cerezo Osaka đang xếp thứ 4 trên bảng xếp hạng giải VĐQG Nhật Bản với 20 điểm sau 12 trận. Họ đang kém đội đầu bảng Kawasaki Frontale tới 12 điểm.
+H.Long

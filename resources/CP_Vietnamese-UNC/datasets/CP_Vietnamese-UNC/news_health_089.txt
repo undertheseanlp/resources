@@ -1,15 +1,28 @@
 # doc_id = news_health_089
-# url = https://dantri.com.vn/suc-khoe/chuyen-gia-noi-gi-ve-muc-do-nguy-hiem-cua-bien-chung-kep-tai-an-do-20210428120306481.htm
-# date = 20210428
-Chia sẻ bên lề hội nghị trực tuyến về an toàn tiêm chủng sáng 28/4, GS.TS Nguyễn Văn Kính, nguyên Giám đốc Bệnh viện Bệnh Nhiệt đới Trung ương, Chủ tịch Hội truyền nhiễm cho biết hiện nay cả thế giới đang chú ý đến biến chủng kép của Ấn Độ B.1.617. 
-Chủng này có đột biến kép ở đoạn protein S nên lan tràn rất nhanh, tử vong rất cao. Trước đây, biến chủng chưa kép là B.1.1.7 từ Anh có mức độ lan tràn rất nhanh, tăng cao hơn 70% so với chủng ban đầu. Chủng kép của Ấn Độ có mức độ lan tràn còn nhanh hơn. Hiện chưa có số liệu thống kê cụ thể tuy nhiên có thể thấy nó nhanh hơn rất nhiều so với các chủng trước đây mà Ấn Độ từng gặp.
-Về nguy cơ tử vong ở bối cảnh như Ấn Độ theo TS Kính có nhiều lý do, trong đó có vấn đề về độc lực của virus. Giới chuyên môn đang nghiên cứu xem độc lực của biến chủng này có nặng nề hơn, có tối nguy hiểm hơn không để dẫn đến tử vong nhiều hơn.
-"Với bối cảnh thực tế hiện nay, người ta thấy rằng trong 10 ngày nữa Ấn Độ mới đạt đỉnh về số tử vong. Hiện nay mỗi ngày quốc gia này có hơn 2.000 ca tử vong, người ta cho rằng con số tử vong có thể đạt đỉnh 13.000 người tử vong một ngày. Đấy là một thảm kịch kinh khủng cho Ấn Độ nếu không kịp thời ứng phó với đại dịch này", TS Kính nói.
-Theo chuyên gia, hiện nay không chỉ riêng Ấn Độ đang phải đối mặt với biến chủng kép này mà cả thế giới đều phải quan tâm, để nó không lan tràn thêm các nước khác. Dù vậy nhiều nước vẫn đang mở cửa, chưa đóng cửa biên giới nên đã có sự lây lan của chủng này sang nước khác. Những người Ấn Độ cũng đi rất nhiều nơi trên thế giới, ngay tại Việt Nam các chuyên gia Ấn Độ cũng vào và cũng bị nhiễm (4 chuyên gia Ấn Độ và một người Việt Nam bị lây).
-Hiện nay tất cả các bệnh nhân liên quan đoàn chuyên gia của Ấn Độ đang điều trị tại Bệnh viện Bệnh Nhiệt đới Trung ương. Việt Nam đang giải trình tự gen để xem đây là chủng B.1.1.7 của Anh trước đây hay là chủng kép.
-Nếu phát hiện thêm chủng mới, Việt Nam sẽ có 5 chủng virus SARS-CoV-2 lưu hành, bên cạnh chủng đột biến B.1.1.7 của Anh, chủng Nam Phi, chủng D614G ở châu Âu và chủng ở Vũ Hán.
-Sức khỏe của các bệnh nhân Ấn Độ hiện ổn định, các bác sĩ vẫn đang theo dõi, chưa có ca nào phải thở máy. Triệu chứng lâm sàng của các bệnh nhân này cũng không có khác biệt gì, chỉ có sốt 38,5 độ C, ngày thứ 4 hết sốt, X-quang phổi có tổn thương nhưng không nhiều.
-Đến nay thế giới đã ghi nhận gần 150 triệu ca mắc. Dịch Covid-19 đang diễn biến phức tạp với số ca mắc cao và lây lan diện rộng tại các quốc gia như Mỹ, Ấn Độ, Ba Lan và Brazil. Tâm điểm dịch vẫn là Ấn Độ, với số ca mắc mới trong 24 giờ qua ghi nhận ở mức rất cao - hơn 363 nghìn ca, trở thành ngày thứ 6 liên tiếp có số ca nhiễm mới trên mức 300 nghìn ca/ngày.
-Chính phủ Ấn Độ đã ra lệnh cho các lực lượng vũ trang hỗ trợ giải quyết tình trạng gia tăng số ca mắc Covid-19 đang khiến các bệnh viện quá tải. Nhiều nước trên thế giới, trong đó có Thái Lan, Malaysia và Úc đã thông báo tạm dừng các chuyến bay đến và đi từ Ấn Độ do lo ngại nguy cơ cao lây lan dịch bệnh.
-Đông Nam Á đang chứng kiến làn sóng lây nhiễm Covid-19 nghiêm trọng tại 3 quốc gia vốn được coi là khá an toàn và hiệu quả trong việc phòng chống đợt dịch bùng phát đầu tiên vào năm ngoái là Lào, Campuchia và Thái Lan.
-Nam Phương
+# url = https://dantri.com.vn/suc-khoe/chuyen-gia-phan-tich-4-kha-nang-mac-covid-19-cua-ca-sieu-lay-nhiem-ha-nam-20210430123205281.htm
+# date = 20210430
+Ông Trần Đắc Phu, Cố vấn cao cấp Trung tâm đáp ứng khẩn cấp Sự kiện Y tế công cộng Việt Nam đánh giá, ca F0 ở Hà Nam, bệnh nhân 2899 hiện có nguy cơ cao với cộng đồng bởi việc lây nhiễm rất nhanh.
+Đánh giá về caCovid-19 ở Hà Nam, Bộ trưởng Y tế Nguyễn Thanh Long cho rằng tốc độ lây nhiễm nhanh, mức độ tấn công nhanh. Bộ Y tế sẽ tiến hành đánh giá và phân tích giải trình tự gen ca mắc này.
+Liên quan đến việc bệnh nhân dương tính SARS-CoV-2 khi trở về địa phương sau khi hoàn thành cách ly 14 ngày, PGS.TS Trần Đắc Phu đánh giá, phải phân tích kỹ, điều tra thật kĩ để xác định nguyên nhân.
+PGS Phu phân tích 4 nguyên nhân lây nhiễm có thể xảy ra với ca Covid-19 tại Hà Nam như sau:
+Có thể lây nhiễm trong khu cách ly
+Theo PGS Phu, có thể bệnh nhân này lây nhiễm Covid-19 ngay trong khu cách ly, tuy nhiên đến khi rời khỏi khu cách ly mới phát bệnh.
+Thời gian ủ bệnh quá 14 ngày
+Khả năng thứ 2 có thể nhiễm SARS-CoV-2 ở bệnh nhân này, PGS Phu nhận định có thể do thời gian ủ bệnh quá 14 ngày.
+Trên thực tế, có một số ca mắc Covid-19 biểu hiện muộn sau 14 ngày.
+Kiểm tra ngày xét nghiệm cuối cùng
+Khả năng thứ 3 có thể xảy ra và cần kiểm tra lại lần xét nghiệm cuối cùng tại khu cách ly là ngày thứ bao nhiêu, có đúng là ngày thứ 14 không.
+Trước đó, bệnh nhân N.V.Đ. nhập cảnh từ Nhật về, cách ly đủ 14 ngày tại Đà Nẵng và đã có 3 lần xét nghiệm âm tính với SARS-CoV-2 trong đó lần xét nghiệm cuối cùng là ngày 21/4.
+Đến ngày 22/4 bệnh nhân đi xe khách từ Đà Nẵng về Liêm Tuyền và bắt taxi từ Liêm Tuyền về nhà ở thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân, tỉnh Hà Nam. Sáng 24/4, bố bệnh nhân này ra trạm y tế xã khai báo do thấy con trai có biểu hiện ho sốt, đau họng. Sau đó cơ quan chức năng đã đến lấy mẫu, điều tra dịch tễ. Chiều ngày 27/4 xét nghiệm, xác nhận dương tính lần 1 với SARS-CoV-2.
+Có thể lây nhiễm khi di chuyển, trong cộng đồng
+Theo PGS Phu, khả năng thứ 4 có thể xảy ra với trường hợp này, đó là lây nhiễm trong quá trình di chuyển về nhà và tiếp xúc nhiều người.
+"Có thể trong quá trình di chuyển bệnh nhân bị lây nhiễm. Cũng có thể bệnh nhân bị lây ở cộng đồng, mà không thể xác định được nguồn lây là ở đâu", ông Phu nói.
+"Tuy nhiên, như tôi đã nói, phải điều tra dịch tễ rất kỹ càng mới có thể đánh giá nguồn lây, thậm chí có những trường hợp không thể truy vết được lây nhiễm của ca F0", ông Phu nhấn mạnh.
+Theo chuyên gia, vấn đề xác định nguồn lây rất quan trọng để định hướng truy vết và đánh giá quy mô dịch. "Tuy nhiên, điều quan trọng lúc này là ưu tiên truy vết hết F0, F1, F2... trong cộng đồng để tránh lây lan và tiếp đến phải khẳng định trường hợp này có bị lây nhiễm ở cộng đồng không để có biện pháp chống dịch phù hợp", ông Phu nói.
+Chuyên gia này cũng đánh giá, quy định thời gian cách ly tập trung của Bộ Y tế 14 ngày về cơ bản là đảm bảo an toàn. Ngoài ra, quy định cũng nêu rõ sau 14 ngày xét nghiệm 3 lần âm tính, bệnh nhân về nhà phải theo dõi sức khỏe, hạn chế tiếp xúc không cần thiết.
+Trước đó, liên quan quá trình cách ly của ca "siêu lây nhiễm" ở Hà Nam,Sở Y tế Đà Nẵng khẳng định, qua điều tra dịch tễ, kết quả rà soát, kết quả xét nghiệm, đánh giá quá trình cách ly tại khách sạn cho thấy anh N.V.Đ. đủ điều kiện hoàn thành cách ly y tế.
+Theo đó, anh N.V.Đ. được cách ly tại Khách sạn Alisia (19 Hoàng Sa, quận Sơn Trà, Đà Nẵng) từ ngày 7/4.
+Bệnh nhân N.V.Đ. được lấy mẫu xét nghiệm lần 1 ngày 8/4, kết quả xét nghiệm âm tính. Tuy nhiên, bệnh nhân N.V.Đ là F1 của bệnh nhân 2677 (ngồi gần trên chuyến bay VJ3613 nêu trên) nên được chuyển sang cách ly tại phòng 1203 cùng phòng với N.V.D (cũng là F1 của bệnh nhân 2677) và được lấy mẫu lần 2 vào ngày 12/4, kết quả xét nghiệm âm tính với SARS-CoV-2.
+Kết quả theo dõi hàng ngày qua hệ thống camera và kết quả trích xuất camera từ ngày 7-21/4, cho thấy bệnh nhân tuân thủ nội quy quy định, không bước ra khỏi phòng, không giao tiếp với ai trong quá trình cách ly tại khách sạn Alisia.
+Bệnh nhân N.V.Đ. được lấy mẫu xét nghiệm lần 3 vào ngày 14 trước khi hoàn thành cách ly, kết quả xét nghiệm âm tính với SARS-CoV-2. Bệnh nhân được hoàn thành cách ly và rời khỏi khách sạn lúc 18h40 ngày 21/4.
+Hồng Hải

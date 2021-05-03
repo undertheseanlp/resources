@@ -1,11 +1,11 @@
 # doc_id = news_society_265
-# url = https://dantri.com.vn/xa-hoi/xac-dinh-4-nguoi-hai-phong-di-cung-chuyen-bay-voi-ca-benh-o-ha-nam-20210430133013871.htm
-# date = 20210430
-Có 4 người Hải Phòng đi cùng chuyến bay với ca bệnh ở Hà Nam. Những người này đã được xét nghiệm và đưa đi cách ly.
-Trao đổi với Dân trí trưa nay (30/4), một lãnh đạo Sở Y tế TP Hải Phòng xác nhận, sáng cùng ngày, ngành Y tế thành phố qua rà soát đã phát hiện có 4 người Hải Phòng đi cùng chuyến bay với ca bệnh số 2899 ở Hà Nam. Đó là chuyến bay VJ3613, từ Nhật Bản hạ cánh tại sân bay quốc tế Đà Nẵng vào ngày 7/4.
-Trước đó, đã có 11 người (Hà Nam 7, TPHCM 1, Hưng Yên 2 và Hà Nội 1) đã lây nhiễm Covid-19 từ ca bệnh này.
-Ngay khi phát hiện, Sở Y tế đã cho lấy mẫu và làm xét nghiệm ngay đối với 4 trường hợp kể trên; đưa đi cách ly y tế tập trung 14 ngày. Các trường hợp tiếp xúc gần với 4 trường hợp này cũng được yêu cầu giám sát chặt chẽ, cách ly tại nhà.
-Sở Y tế đề nghị, những người có tiếp xúc gần với 11 ca bệnh đã công bố, tiếp xúc gần với các F1 của các ca bệnh đó, liên hệ Trạm Y Tế nơi cư trú để khai báo y tế.
-Sở Y tế đề nghị những người đang lưu trú tại Hải Phòng, có mặt trong chuyến bay trên và chuyến bay VJ133 khởi hành từ Hà Nội đến thành phố Hồ Chí Minh ngày 27/4 hay trên xe khách (biển số 43B-048.78) từ Đà Nẵng ra Hà Nội, xuất phát hồi 20 giờ 30 ngày 21/4 hoặc những người có tiếp xúc gần với 11 ca bệnh đã công bố, tiếp xúc gần với các F1 của các ca bệnh đó, liên hệ Trạm Y Tế nơi cư trú để khai báo y tế.
-Hoặc liên hệ qua các số điện thoại đường dây nóng Sở Y tế: 0978.789.499, 0902.210.218, 0912.498.366 để được hướng dẫn biện pháp phòng, chống dịch.
-An Nhiên
+# url = https://dantri.com.vn/xa-hoi/xe-khach-giuong-nam-dau-dau-xe-tai-gan-10-nguoi-bi-thuong-20210425094111543.htm
+# date = 20210425
+Chiếc xe khách giường nằm lao vào lề đường.
+Khuya 24/4, một vụ tai nạn giao thông nghiêm trọng xảy ra trên quốc lộ 14 (đoạn qua ấp 5, xã Đồng Tâm, huyện Đồng Phú, tỉnh Bình Phước), chiếc xe khách giường nằm tông trực diện xe tải lưu thông theo chiều ngược lại, khiến gần 10 người bị thương, hàng chục hành khách trên xe hoảng loạn, la hét kêu cứu, 2 phương tiện hư hỏng nặng.
+Theo thông tin ban đầu, khoảng 21h cùng ngày, tài xế Nguyễn Đình Tuấn (45 tuổi, ngụ tại thành phố Pleiku, tỉnh Gia Lai) điều khiển xe khách giường nằm mang biển số 82B-004.10, lưu thông trên quốc lộ 14, hướng từ Thành phố Hồ Chí Minh đi tỉnh Đắc Lắc.
+Khi đến đoạn km 19, thuộc ấp 5, xã Đồng Tâm, chiếc xe tải mang biển số 65C-123.88 (chưa rõ người điều khiển), lưu thông theo chiều ngược lại, đang đổ dốc, bất ngờ tông trực diện vào xe khách.
+Đầu xe tải hư hỏng sau khi "đấu đầu" với xe khách.
+Cú tông mạnh khiến cả 2 đầu xe bị hư hỏng nặng, toàn bộ kính bên trái của xe khách bị vỡ nát bắn tung tóe trên xe và khắp mặt đường. Vụ tai nạn khiến 2 tài xế bị thương, nhiều hành khách trên xe bị va đập và bị kính bắn vào người bị thương, được người dân đưa đi cấp cứu ngay sau đó. Hàng chục hành khách khác trên xe hoảng loạn, la hét kêu cứu.
+Cảnh sát giao thông, công an tỉnh Bình Phước đã có mặt tại hiện trường, điều tra, làm rõ nguyên nhân vụ tai nạn.
+Phan Lâm

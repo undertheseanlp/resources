@@ -1,15 +1,10 @@
 # doc_id = news_travel_054
-# url = https://dantri.com.vn/du-lich/canh-sac-lang-man-dep-nhu-co-tich-o-da-lat-mua-phuong-tim-20210412181622421.htm
-# date = 20210412
-Đà Lạt những ngày tháng 3, tháng 4, nhiều góc trời được nhuộm màu tím biếc, vừa mộng mơ lại vừa man mác chút buồn. (Ảnh: Phúc Dương).
-Phượng tím là loài hoa giản đơn, níu chân những vị khách lữ hành với nét đẹp dịu dàng, đằm thắm và đầy hoài niệm. "Năm nào tôi cũng lưu lại bộ ảnh về phượng tím Đà Lạt với những cảm xúc riêng. Chúng đẹp nhưng man mác buồn, dễ khiến lòng người nhung nhớ, xốn xang", nhiếp ảnh gia trẻ Tiến Đà Lạt chia sẻ. (Ảnh: Tiến Đà Lạt).
-Khi những cánh mai anh đào ngọt ngào cuối cùng rơi xuống thì cũng là thời điểm mà những cánh phượng tím Đà Lạt nở rộ khoe sắc. Từ tháng 3 đến cuối tháng 4 là thời điểm phượng tím nở rợp trời, du khách bốn phương tìm về chiêm ngưỡng. (Ảnh: Phúc Dương).
-Dọc các tuyến phố ở Đà Lạt như Trần Phú, Hai Bà Trưng, Nguyễn Thị Minh Khai, quanh Hồ Xuân Hương... đều bung nở những cánh phượng tím. (Ảnh: Phúc Dương).
-"Mình đã ghé thăm Đà Lạt nhiều lần, nhưng đây là mùa phượng tím đầu tiên mình được chiêm ngưỡng. Loài hoa này thu hút mình từ cái nhìn đầu tiên. Mình chụp hàng trăm tấm hình để có bức ảnh ưng ý nhất về phượng tím", bạn Phúc Dương (TP Hồ Chí Minh) chia sẻ. (Ảnh: Phúc Dương).
-Cứ đến mùa phượng tím, những người mê chụp ảnh lại tìm về Đà Lạt. (Ảnh: Phúc Dương).
-Những cây phượng tím đầu tiên tại Đà Lạt: một cây trên đường Nguyễn Thị Minh Khai, hai cây còn lại được trồng ở công viên hoa Đà Lạt. Khi những chùm hoa đầu tiên bắt đầu bung nở, người ta dần bị quyến rũ bởi màu tím mộng mơ ấy. Sau đó, hoa được trồng nhân rộng khắp thành phố như bây giờ. (Ảnh: Tiến Đà Lạt).
-Phượng tím khi nở có hình ống, dài 4-5cm và mọc thành từng chùm. Cây phượng tím có thân gỗ lớn, thô nhám, cao từ 10-15m, tán phủ rộng với đường kính 5 - 7 m và lá có hình dạng lá kép giống như lá cây phượng vĩ của Việt Nam. (Ảnh: Tiến Đà Lạt).
-Phượng tím trở thành "chất liệu" giúp du khách có những bức hình vừa lãng mạn vừa độc đáo khi đến với Đà Lạt. (Ảnh: Đồng Ngô).
-Cánh hoa mỏng manh màu tím biếc tạo nên sự lãng mạn, nên thơ cho Đà Lạt. (Ảnh: Đồng Ngô).
-Còn chờ gì mà không xách balo lên và đi Đà Lạt ngắm mùa phượng tím mộng mơ. (Ảnh: Đồng Ngô).
-Khôi Vũ
+# url = https://dantri.com.vn/du-lich/canh-thu-hoach-sau-rieng-o-viet-nam-khien-nhieu-nguoi-xem-giat-thot-tim-20210330191541266.htm
+# date = 20210330
+Vốn được mệnh danh là "vua của các loại trái cây", dù gây nhiều tranh cãi về hương thơm và mùi vị nhưng không thể phủ nhận sầu riêng được nhiều thực khách ưa chuộng với giá bán không hề rẻ.
+Do đặc tính có nhiều gai nhọn cùng lớp vỏ dày và mọc trên những tán cây cao khiến việc thu hoạch không hề đơn giản. Bởi vậy, cảnh thu hoạch sầu riêng có thể khiến nhiều người giật mình "thót tim" vì sợ.
+Mới đây trên các trang mạng xã hội ở nước ngoài chia sẻ đoạn video quay lại khoảnh khắc thu hoạch sầu riêng được ghi hình tại một vườn ở tỉnh Bình Phước, Việt Nam, thu hút lượng lớn lượt xem.
+Video được quay từ trên cao, ghi cảnh một người đàn ông đứng phía trên dùng dao cắt trái sầu riêng rồi thả xuống cho người bên dưới dùng giỏ để hứng. Cả hai đều dày dặn kinh nghiệm nên phối hợp ăn ý nhịp nhàng.
+Nhờ việc dùng giỏ hứng nên các trái sầu riêng vẫn còn nguyên vẹn mà không nứt vỡ khi rơi xuống. Tuy vậy, khoảnh khắc những trái to nặng nhiều gai rơi từ trên xuống, "liệng" qua đầu người hứng rồi mới rơi vào giỏ, khiến không ít người thấy sợ. Thậm chí có bình luận cho rằng, nghề thu hoạch sầu riêng chỉ dành cho ai có kinh nghiệm, đặc biệt "chống chỉ định" với người thuộc "hội yếu tim".
+Huy Hoàng
+Theo News

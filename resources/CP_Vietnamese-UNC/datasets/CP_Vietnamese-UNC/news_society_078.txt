@@ -1,17 +1,11 @@
 # doc_id = news_society_078
-# url = https://dantri.com.vn/xa-hoi/con-duong-duoc-menh-danh-ron-ngap-sai-gon-truoc-ngay-hoan-thanh-sua-chua-20210427150916008.htm
-# date = 20210427
-Dự án sửa chữa, nâng cấp đường Nguyễn Hữu Cảnh dài 3,2 km nối quận 1 với quận Bình Thạnh có vốn đầu tư hơn 470 tỷ đồng, nhằm chống ngập kéo theo ùn tắc giao thông cho khu vực. Sau gần 18 tháng thi công, dự án đã bước vào giai đoạn hoàn thiện khi mặt đường đã được trải nhựa, bó vỉa hè, lát gạch, trồng cây xanh, lắp đặt hệ thống chiếu sáng…
-Suốt tuyến đường, máy ủi hoạt động liên tục từ sáng đến đêm để lu nền. Theo kế hoạch, nền được nâng từ 50 cm đến 1,2 m tùy từng khu vực.
-Các công nhân trồng cỏ, cây xanh tạo cảnh quan tại nhiều khu vực dải phân cách, hông cầu vượt…
-Phần vỉa hè hai bên đường các công nhân gấp rút hoàn thiện lát gạch.
-Công nhân điện lực tiếp tục lắp đặt những cột đèn chiếu sáng mới giữa dải phân cách tại đoạn đã hoàn thành mặt đường.
-Cầu vượt Nguyễn Hữu Cảnh cũng đã cơ bản sửa xong, chỉ chờ lắp biển báo, kẻ vạch làn. Trước đó cầu đã cấm xe từ tháng 10/2020 để thi công.
-Nam công nhân tên Hoàng dùng xi măng gia cố các khối bê tông đúc ở hai bên thành cầu vượt Nguyễn Hữu Cảnh.
-Hiện tại, phần vỉa hè hướng từ cầu Thủ Thiêm tới chân cầu Sài Gòn đang được đơn vị thi công bó vỉa hè, nâng các trụ nước cứu hỏa lên bằng với mặt đường sau khi tháo dỡ rào chắn.
-Một số khu vực của tuyến đường được thiết kế, lắp đặt hệ thống cống thoát nước ngay trên mặt đường.
-Nhiều năm nay, một số đoạn đường bị lún sâu, gây ngập nặng kèm theo kẹt xe, được mệnh danh là "rốn ngập" ở TPHCM.
-Dự án khiến một số hộ hai bên bị thấp hơn mặt đường, có nhà thấp hơn nửa mét.
-Theo chủ đầu tư Ban quản lý Dự án đầu tư xây dựng các công trình giao thông TP.HCM, sau khi đường nâng cấp, có hơn 60 căn nhà bị thấp hơn mặt đường từ 15 - 20 cm, gần 70 căn thấp hơn 30 - 50 cm. Hầu hết các căn nhà thấp ở quận Bình Thạnh.
-Đường Nguyễn Hữu Cảnh là tuyến huyết mạch từ cửa ngõ phía Đông vào trung tâm thành phố, được khai thác từ năm 2002.
-Nguyễn Quang
+# url = https://dantri.com.vn/xa-hoi/cong-an-da-nang-tinh-rut-luc-luong-truc-o-cac-diem-cach-ly-co-thu-phi-20210426193355087.htm
+# date = 20210426
+Thiếu tướng Vũ Xuân Viên: - Giám đốc Công an TP Đà Nẵng.
+Tại buổi họp báo của chính quyền TP Đà Nẵng chiều 26/4, lãnh đạo Công an TP Đà Nẵng chia sẻ, một trong những mối bận tâm của Công an TP là phối hợp với ngành y tế, tổ chức cách ly người nhập cảnh có thu phí.
+Hiện có 85% lượt người được giải cứu được đưa về cách ly tại các khách sạn có thu phí ở Đà Nẵng. Trong số đó, đã phát hiện 47 trường hợp mắc Covid-19. Công tác tổ chức cách ly ở các khách sạn có thu phí có áp lực với lực lượng ngành công an, và chia sẻ với ngành y tế, nhất là về lực lượng làm nhiệm vụ bảo vệ.
+Theo đó, mỗi điểm khách sạn tổ chức cách ly có thu phí, bố trí 6 cán bộ, chiến sĩ công an luân phiên trực bảo vệ 24/24. Cả thành phố có 40-50 điểm như thế, cần lực lượng lớn. Trong khi đó, về mặt căn cứ pháp lý, thì không có căn cứ bố trí lực lượng trực ở các điểm cách ly có thu phí. Do đó, sắp tới, lực lượng công an sẽ rút khỏi các điểm này, chỉ làm nhiệm vụ đảm bảo an ninh trật tự chung. Còn các cơ sở tổ chức cách ly có thu phí phải có trách nhiệm tính toàn phương án người trực bảo vệ.
+Tại buổi họp báo, Thiếu tướng Vũ Xuân Viên cũng trả lời báo chí về công tác quản lý người nước ngoài. Theo đó, khẳng định đây là một trong những công tác trọng tâm của ngành, trong bối cảnh dịch Covid-19 diễn biến phức tạp. Riêng xử lý người nước ngoài nhập cảnh và lưu trú trái phép, Công an TP Đà Nẵng xử lý rất nghiêm khắc, đã xử lý hình sự 16 trường hợp. Đặc biệt, công an Đà Nẵng đã phát hiện 2 đường dây đưa người nhập cảnh trái phép từ biên giới vào đến địa bàn thành phố.
+Liên quan đến tăng cường phòng, chống dịch Covid-19, bà Ngô Thị Kim Yến - Giám đốc Sở Y tế TP Đà Nẵng tham mưu chính quyền thành phố hết sức dè dặt, chưa tính đến chuyện tổ chức đón khách nước ngoài có hộ chiếu vắc xin.
+"Tình hình dịch đang diễn biến phức tạp, nhất là ở các nước láng giềng trong khu vực Đông Nam Á. Các nước tổ chức thí điểm đón khách nước ngoài có hộ chiếu vắc xin cũng có phương án cách ly ngắn ngày hơn, như thời gian cách ly sau khi nhập cảnh chỉ 5-6 ngày, song vẫn còn nhiều ý kiến chỗ này. Do đó, Thành phố hết sức dè dặt, chưa tính đến việc đón khách có hộ chiếu vắc xin. Đặc biệt, ngay trong dịp nghỉ lễ 30/4--1/5 sắp tới, cần tăng cường biện pháp hạn chế tụ tập đông người cùng với việc tăng cường tuyên truyền các biện pháp phòng, chống dịch" - bà Yến nói.
+Tâm An

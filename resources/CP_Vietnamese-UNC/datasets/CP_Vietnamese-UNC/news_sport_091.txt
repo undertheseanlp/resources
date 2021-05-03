@@ -1,78 +1,31 @@
 # doc_id = news_sport_091
-# url = https://dantri.com.vn/the-thao/danh-bai-tottenham-man-city-lan-thu-8-vo-dich-carabao-cup-20210425121401035.htm
-# date = 20210425
-Man City áp đảo Tottenham ngay sau tiếng còi khai cuộc, từ kiểm soát bóng tới dứt điểm, đội bóng của Guardiola đều vượt trội. Chỉ có điều Man City lại không dễ dàng tìm được bàn thắng, họ dứt điểm rất nhiều trong 80 phút đầu tiên, nhưng không có bàn thắng. Phải tới khi Laporte mở tỉ số cho đội chủ nhà từ cú đánh đầu trong tình huống lên tham gia vào một quả đá phạt ở phút 82, Man City mới có thể mở tỉ số trận chung kết Carabao Cup.
-Tottenham chơi rất kém cỏi, cả trận họ có hai lần dứt điểm. Chiến thuật của huấn luyện viên trẻ Ryan Mason vô cùng mờ nhạt và quả thật người hâm mộ Tottenham nên tiếc nuối khi đội bóng của họ vội vàng Jose Mourinho ngay trước thềm trận chung kết. Mason còn quá non so với Guardiola, vì vậy Tottenham thua cũng không phải kết quả ngạc nhiên.
-Man City vô địch Carabao Cup lần thứ 4 liên tiếp, chưa đội bóng nào làm được điều đó. Man City nâng tổng số lần vô địch lên con số 8, cân bằng cả kỷ lục của Liverpool ở giải đấu này. Trong khi đó Tottenham sẽ vẫn phải chờ đợi danh hiệu để giải tỏa cơn khát, lần gần nhất họ vô địch Carabao Cup là từ năm 2008. Đó cũng là danh hiệu gần nhất mà Tottenham có được.
-Năm thứ tư liên tiếp Man City vô địch Carabao Cup.
-Phút 90+4: Hết giờ.
-Phút 90+1: Nỗ lực đi bóng và dứt điểm của Foden ở trung tâm vòng cấm địa của Tottenham, bóng đi vọt xà.\
-Phút 90: Tottenham thay người, Aurier nhường chỗ cho Bergwijn.
-Phút 89: Laporte lên tham gia quả phạt góc, anh đánh đầu đưa bóng ra ngoài.
-Các cầu thủ Man City ăn mừng bàn thắng mở tỉ số của Laporte.
-Phút 87: Man City thay người, Silva thay De Bruyne.
-Phút 85: De Bruyne đi bóng xâm nhập vòng cấm địa, anh dứt điểm nhưng bóng đập chân cầu thủ của Tottenham bật trở lại.
-Phút 83: Man City thay người, Fernandinho rời sân nhường chỗ cho Rodri. Tottenham đưa Alli vào thay Hojbjerg.
-Laporte ghi bàn thắng mở tỉ số cho Man City.
-Phút 82 - Bàn thắng: Man City được hưởng đá phạt ở bên trái. De Bruyne treo bóng chính xác để Laporte ập vào đánh đầu tung lưới của Tottenham mở tỷ số trận đấu.
-Phút 74:Mahrez đi bóng rất hay ở trung lộ, anh dứt điểm từ đầu vòng cấm. Bóng hướng vào góc trái, Lloris tung người cản phá thành công. Thủ môn của Tottenham chơi quá hay ở pha bóng này.
-Phút 72: Sterling thoát xuống nhận bóng bên phải, anh chuyền bóng lại cho Gundogan dứt điểm ở cự ly chỉ chừng 7m, cầu thủ người Đức sút bóng ra ngoài.
-Phút 71: Fernandinho băng xuống đánh đầu ở phía trái, cự ly gần nhưng góc hẹp. Lloris đã bắt gọn bóng.
-Pha tranh bóng quyết liệt giữa Sterling và Aurier.
-Phút 67: Tottenham thay người, Sissoko và Bale vào thay Lo Celso, Moura.
-Phút 64: Moura va chạm với Cancelo khiến hậu vệ người Bồ Đào Nha bị đau, nhưng trọng tài chỉ nhắc nhở không rút thẻ phạt với cầu thủ của Tottenham.
-Phút 61: Gundogan đánh đầu với ở gần cột dọc trái khung thành Tottenham, anh cũng quay lưng lại cầu môn. Bóng đi ra ngoài.
-Phút 59: Fernandinho nhận thẻ vàng do phạm lỗi với cầu thủ Tottenham.
-Dias bám theo Lo Celso.
-Phút 54: Mahrez đảo chân cố gắng qua mặt hậu vệ của Tottenham. Tuy nhiên, cú dứt điểm bằng chân phải của anh ở bên phải trong vòng cấm đã đập Alderweireld, giảm lực và không gây khó cho Lloris.
-Phút 47: Lo Celso dứt điểm từ đầu vòng cấm địa, anh cứa lòng hướng bóng vào góc trái, thủ thành của Man City đã tung người đẩy bóng ra ngoài biên.
-Phút 46: Tottenham giao bóng.
-Phút 45+1: Hết giờ.
-Tình huống tranh cãi giữa Mason (phải) và Guardiola (trái).
-Phút 41: Sterling thoát xuống theo đường chuyền dài của De Bruyne, thật đáng tiếc tiền đạo người Anh lại đệm bóng hụt ở cự ly gần.
-Phút 38: Thêm một pha dứt điểm căng bằng chân thuận của Mahrez, bóng vẫn đi ra ngoài.
-Phút 35: Mahrez đi bóng rất điệu nghệ ở bên phải, anh qua mặt Reguilon và dứt điểm hướng vào góc xa bằng cú cứa lòng chân trái. Bóng đi cắt mặt khung thành của Tottenham ra ngoài.
-Kane vất vả ngăn chặn De Bruyne cầm bóng băng lên.
-Phút 29: Fernandinho xé toang hàng thủ của Tottenham với đường chuyền cho Sterling thoát xuống xâm nhập từ bên trái. Sterling bấm bóng qua thủ thành Lloris nhưng bóng đi cắt mặt ra ngoài.
-Phút 28: Fernandinho dứt điểm từ bên ngoài vòng cấm địa, bóng đi không chính xác.
-Phút 27: Reguilon nhận thẻ vàng sau pha vào bóng quét trụ đối với De Bruyne ở gần biên phải.
-Phút 26: Hậu vệ của Tottenham chặn được đường căng ngang của De Bruyne, Foden có cơ hội lấy bóng. Anh dứt điểm đập chân hậu vệ Tottenham, đập cột dọc phải bật ra ngoài.
-Alderweireld đối đầu với Foden.
-Phút 23: Man City được hưởng quả đá phạt cách khung thành Tottenham chừng 21m, De Bruyne đá phạt, bóng đập hàng rào nảy ra ngoài.
-Phút 20: Cú sút từ rất xa của Alderweireld, bóng đi ra ngoài phía gần cột dọc trái khung thành Man City.
-Phút 19: Son Heung Min đá phạt góc cho Tottenham, thủ thành Steffen băng ra hợp lý và đấm bóng thành công.
-Lo Celso đuổi theo Gundogan.
-Phút 14: Sterling nhận bóng và xoay người dứt điểm ở trung tâm vòng cấm địa, Dier đã lăn xả chặn bóng, giúp khung thành đội bóng của mình được an toàn.
-Phút 11: Lloris đã phải tung người hết tầm mới có thể đẩy được cú treo bóng điểm rơi rất khó chịu từ quả phạt góc của Mahrez.
-Phút 8: Sterling bay người đánh đầu đưa bóng ra ngoài, Alderweireld đã đeo bám sát và rất khó để một cầu thủ nhỏ bé như Sterling có thể tranh chấp thắng trung vệ của Tottenham.
-Phút 7: Sterling chuyền bóng từ sát biên vào trong chuyền bóng cho Foden dứt điểm ở trung tâm vòng cấm, cầu thủ người Anh sút bóng ra ngoài.
-Phút 4: Sterling cầm bóng xâm nhập vào vòng cấm địa của Tottenham, anh bị ngã sau khi bị Aurier tranh chấp, nhưng trọng tài không cắt còi.
-Phút 1: Man City giao bóng.
-22h30 - Trận đấu bắt đầu
-Đội hình ra sân của Tottenham và Man City.
-Một tấm banner phản đối European Super Cup.
-Đội hình ra sân
-Man City: Steffen, Walker, Dias, Laporte, Cancelo, Fernandinho, Gundogan, De Bruyne, Mahrez, Foden, Sterling.
-Dự bị: Ederson, Ake, Jesus, Aguero, Zinchenko, Rodrigo, Bernardo, Torres, Mendy
-Tottenham: Lloris, Aurier, Alderweireld, Dier, Reguilon, Hojbjerg, Winks, Lo Celso, Lucas Moura, Son, Kane.
-Dự bị: Hart, Sanchez, Tanganga, Sissoko, Dele Alli, Ndombele, Lamela, Bergwijn, Bale.
-Kane khởi động ở Wembley.
-Cổ động viên được tới sân theo dõi trận chung kết Carabao Cup
- Man City hướng tới kỷ lục 8 lần vô địch Carabao Cup
-Nếu Man City giành chiến thắng trước Tottenham, Fernandinho và Sergio Aguero sẽ trở thành những cầu thủ giàu thành tích nhất trong lịch sử giải đấu với sáu lần vô địch, vượt qua những vĩ nhân như Ian Rush và David Silva. Ngay cả khi Man City không thành công, Fernandinho sẽ trở thành cầu thủ thứ ba có sáu lần ra sân ở trận chung kết cúp Liên đoàn (cùng với Rush và Emile Heskey).
-Đối với một người đã đạt được rất nhiều thành tích trong tám mùa giải của ở Man City, Fernandinho xếp hạng thành công tại Carabao Cup là một trong những thành công lớn nhất trong sự nghiệp của anh.
-"Tôi nghĩ đây sẽ là một trong những khoảnh khắc đáng tự hào nhất kể từ khi tôi ký hợp đồng với Man City", Fernandinho nói. "Cơ hội giành được danh hiệu thứ sáu trong giải đấu này là một điều gì đó đặc biệt. Đây sẽ là một khoảnh khắc đặc biệt đối với tôi và cả đội bóng".
-Fernandinho (trái) đang đứng trước thành công lớn tại Carabao Cup.
-"Danh hiệu vô địch sẽ đặc biệt đối với tôi. Thi đấu ở Wembley mang tới cảm giác đặc biệt, dẫn dắt CLB ra sân ở Wembley cũng rất đặc biệt và chúng tôi có cơ hội giành được chiếc cúp đầu tiên của mùa giải, đó là điều đặc biệt. Nếu điều đó xảy ra, đó sẽ là một khoảnh khắc thực sự quan trọng đối với chúng tôi với tư cách là một câu lạc bộ bóng đá và đối với cá nhân tôi".
-"Đó là điều mà tôi thực sự mong đợi, là điều mà chúng tôi sẽ chuẩn bị thật tốt và mục tiêu rất đơn giản. Chúng tôi cố gắng hết sức để giành chiến thắng trong trận chung kết".
-Fernandinho đã trở lại vị trí tiền vệ quen thuộc của anh trong mùa giải này sau khi được bố trí ở vị trí trung vệ ở mùa giải năm ngoái khi Man City gặp khủng hoảng lực lượng. Fernandinho đã cho thấy rằng vẫn có thể chơi tốt ở mọi vị trí được yêu cầu.
-Vai trò quan trọng nhất của Fernandinho kể từ khi David Silva ra đi là đội trưởng câu lạc bộ. Khả năng lãnh đạo phòng thay đồ tốt của Fernandinho góp phần quan trọng để Guardiola có thể đạt được thành công trên sân cỏ.
-"Thật vinh dự khi được trở thành đội trưởng của câu lạc bộ, kể từ thời điểm tôi được hỏi, tôi đã rất vui rồi", Fernandinho nói.
-Fernandinho trở thành đội trưởng của Man City sau khi David Silva ra đi.
-"Đó là một khoảnh khắc đặc biệt đối với tôi, điều tôi thực sự thích thú. Tôi cố gắng đặt mình vào vị trí tốt nhất có thể để giúp mọi người trong câu lạc bộ bất cứ lúc nào, trong và ngoài sân cỏ. Tôi có trách nhiệm rất cao, nhưng đó là điều gì đó tôi thích nên bây giờ tôi chỉ muốn nói "chúng ta hãy chuẩn bị sẵn sàng cho phần cuối của mùa giải và hãy đạt được mục tiêu của mình".
-"Chúng tôi muốn đạt được mục tiêu của mình trong mùa giải này và tôi hy vọng rằng chúng tôi sẽ ăn mừng thành công vào cuối mùa giải"
-"Tôi đã ở đây tám mùa giải và tôi đã dành rất nhiều thời gian với các cựu đội trưởng của câu lạc bộ, những người mà tôi đã nói chuyện về vai trò của một đội trưởng trong đội. Vì vậy, mức độ trách nhiệm không phải là điều ngạc nhiên đối với tôi, nhưng tôi đang cố gắng luôn cố gắng hết sức và thực sự rất vui khi được đảm nhận vị trí của mình".
-"Đó là một vai trò mà tôi cảm thấy tự hào, tôi tham gia vào rất nhiều thứ ngoài sân cỏ, tôi được nói chuyện với rất nhiều người, công việc của tôi là giúp sửa chữa mọi thứ nếu họ không đi đúng hướng và đó là điều tôi rất thích".
-"Cách tốt nhất để tận hưởng điều gì đó là luôn cố gắng hết sức khi bạn đang làm và giúp những người khác để họ cố gắng hết sức. Đây không chỉ là một vai trò trong bóng đá, nó cũng quan trọng ở ngoài sân cỏ".
-Man City hiện tại đang sở hữu 7 danh hiệu vô địch Carabao Cup. Nếu vô địch, The Citizens sẽ có 8 lần vô địch, cân bằng kỷ lục vô địch nhiều nhất đang được nắm giữ bởi Liverpool.
-Hạo Minh
+# url = https://dantri.com.vn/the-thao/danh-bai-villarreal-barcelona-sang-cua-vo-dich-la-liga-20210426061236235.htm
+# date = 20210426
+Sau khi Real Madrid bị Betis cầm hòa còn Atletico gục ngã trên sân Bilbao, Barcelona hiểu rằng cơ hội bứt phá của họ đã đến. Một chiến thắng trên sân Villarreal là đủ để Barcelona cải thiện vị trí.
+Samuel Chukwueze bất ngờ giúp Villarreal vượt lên dẫn trước.
+Villarreal đang đua suất dự Europa League mùa tới và họ nhập cuộc đầy quyết tâm. Nỗ lực của "Tàu ngầm vàng" được cụ thể hóa ở phút 26 với bàn thắng mở tỷ số của Samuel Chukwueze.
+Mặc dù vậy, Barcelona cũng không phải chờ đợi lâu khi ngay lập tức Griezmann lập cú đúp giúp CLB xứ Catalonia dẫn lại 2-1. Đoàn quân HLV Koeman có được lợi thế hơn người ở hiệp 2 nên chơi khá ung dung.
+Villarreal bất lực trong việc ghi bàn và chấp nhận thua 1-2 ngay trên sân El Madrigal. Barcelona giành 3 điểm vô cùng quan trọng để tiếp tục nuôi hy vọng vô địch La Liga năm nay.
+Griezmann gỡ hòa 1-1 cho Barcelona ngay sau đó.
+Hiện tại Atletico dẫn đầu với 73 điểm, hơn Real Madrid và Barcelona 2 điểm. Tuy nhiên Barcelona vẫn đá ít hơn hai đối thủ 1 trận và nếu thắng Granada ở trận đấu bù tuần sau, họ sẽ chính thức lên ngôi đầu bảng.
+Trước Villarreal được đánh giá cao, Barcelona sử dụng đội hình thiên về tấn công 3-5-2 với bộ ba De Jong-Busquets-Pedri ở giữa sân, Jordi Alba và Dest hoạt động ở hai cánh hỗ trợ cho cặp tiền đạo Messi-Griezmann.
+Barcelona nhập cuộc đầy hưng phấn, nhưng ngay ở phút thứ 4, hàng thủ đội khách đã phải đối mặt với tình huống sóng gió đầu tiên khi Manu Trigueros thoải mái đánh đầu về góc xa trong tình huống không bị ai kèm.
+Griezmann hoàn tất cú đúp giúp Barcelona dẫn 2-1 ở hiệp 1.
+May mắn cho đội quân của HLV Koeman là cầu thủ này dứt điểm không thành công. Những phút tiếp theo, Barca giành lại quyền kiểm soát bóng và tạo ra các tình huống nguy hiểm lên phía cầu môn đối phương.
+Đáng chú ý nhất là ở phút 16, De Jong lao vào đệm bóng cận thành nhưng bị thủ môn đối phương đẩy ra ngay trước vạch vôi. Tấn công nhiều không ghi được bàn thắng, Barca lại bị thủng lưới trước.
+Phút 26, Parejo chọc khe chính xác cho Chukwueze bứt tốc, vượt qua thủ môn Ter Stegen trước khi đưa bóng vào lưới trống. 1-0 cho "Tàu ngầm Vàng" và bàn thua này giúp Barcelona nhanh chóng bừng tỉnh.
+Barcelona bảo toàn chiến thắng 2-1 sau khi kết thúc 90 phút.
+Tuy nhiên, niềm vui của Villarreal chỉ tồn tại được có 2 phút. Từ pha chọc khe thông minh của Óscar Mingueza, Griezmann thoát xuống cực nhanh rồi thoải mái tâng bóng về góc xa, gỡ hòa 1-1 cho Barcelona.
+Có được bàn thắng, Barca chơi tốt hơn và Griezmann đã đánh dấu hiệp 1 xuất sắc bằng pha lập công thứ 2. Sau đường chuyền về tai hại của Foyth, Griezmann liền có mặt và dứt điểm một chạm rất nhanh, nâng tỷ số lên 2-1 cho Barcelona.
+Sang hiệp 2, thế trận vẫn diễn ra khá cởi mở. Cả hai đội bóng đều có cơ hội để ghi bàn nhưng Lionel Messi hay Paco Alcacer đều không thể tận dụng thành công. Messi chơi khá năng nổ, nhưng anh không có duyên ghi bàn ở trận đấu này.
+Đoàn quân HLV Koeman nắm quyền tự quyết trong cuộc đua vô địch La Liga năm nay.
+Đến phút 65, Villarreal chỉ còn chơi với 10 người khi Manu Trigueros phải nhận thẻ đỏ trực tiếp sau pha vào bóng thô bạo với Messi. Được thi đấu hơn người, Barca dồn ép Villarreal và đội chủ nhà buộc phải căng mình chống đỡ.
+Tuy nhiên, bàn thắng vẫn là thứ xa xỉ với đoàn quân HLV Koeman ở hiệp 2. Trận đấu kết thúc với tỷ số 2-1 nghiêng về phía Barcelona và họ nắm quyền tự quyết ở cuộc đua vô địch La Liga năm nay.
+Đội hình thi đấu
+Villarreal: Sergio Asenjo; Juan Foyth, Pau Torres, Raul Albiol Alberto Moreno; Samu Chukwueze, Etienne Capoue, Dani Parejo, Manu Trigueros; Gerard Moreno, Paco Alcacer
+Bàn thắng: Samuel Chukwueze 26'
+Thẻ đỏ: Manuel Trigueros 65'
+Barcelona: Marc-Andre ter Stegen, Oscar Mingueza, Gerard Pique, Clement Lenglet; Sergino Dest, Frenkie de Jong, Sergio Busquets, Pedri, Jordi Alba; Lionel Messi, Antoine Griezmann
+Bàn thắng: Antoine Griezmann 28,', 35'
+Bảng xếp hạng La Liga sau vòng 33.
+Thùy Anh

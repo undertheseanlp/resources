@@ -1,11 +1,19 @@
 # doc_id = news_health_169
-# url = https://dantri.com.vn/suc-khoe/nghe-an-gia-tang-tre-nhap-vien-voi-hoi-chung-viem-mang-nao-20210421174800912.htm
-# date = 20210421
-Ngày 21/4, khoa Bệnh nhiệt đới Bệnh viện Sản Nhi Nghệ An đang điều trị cho hơn 100 bệnh nhân hội chứng viêm màng não do virus. Các bệnh nhân nhập viện điều trị với các triệu chứng sốt, đau đầu, nôn và tiêu chảy. Đặc biệt có những trường hợp 2-3 bệnh nhân là trẻ trong cùng một gia đình.
-Theo thống kê của Bệnh viện Sản Nhi Nghệ An, từ cuối tháng 3/2021 đến nay, mỗi ngày có khoảng 130-150 trẻ đến khám, 20 -30 trẻ nhập viện bởi hội chứng viêm màng não do virus.
-Theo bác sỹ Võ Mạnh Hùng - Trưởng khoa Bệnh nhiệt đới, Bệnh viện Sản Nhi Nghệ An, năm nay số lượng bệnh nhân hội chứng viêm màng não (viêm màng bao phủ não và tủy sống) tăng cao hơn cùng kỳ các năm trước. Bệnh có nguyên nhân thường gặp là do nhiễm virus, ngoài ra còn có nguyên do vi khuẩn, nấm, ký sinh nhưng ít hơn.
-Bác sĩ Trần Văn Cương - Phó Giám đốc Bệnh viện Sản Nhi Nghệ An cho biết: Các ca bệnh đều được kiểm soát tốt, điều trị khỏi, xuất viện sau 10-14 ngày điều trị. Trong thời gian qua, bệnh viện chưa ghi nhận trường hợp lây chéo giữa bệnh nhi và người chăm sóc.
-Trước thông tin lây nhiễm bệnh viêm màng não ở trẻ, Bệnh viện Sản Nhi Nghệ An đã phối hợp Trung tâm kiểm soát dịch bệnh tỉnh Nghệ An hỗ trợ chuyên môn, lấy mẫu bệnh phẩm gửi ra tuyến Trung ương để xác định chính xác chủng virus gây bệnh.
-Các chuyên gia y tế khuyến cáo: Hiện nay, chưa có vắc- xin phòng hội chứng viêm màng não. Vậy nên để phòng bệnh, cần vệ sinh nhà cửa sạch sẽ, thông thoáng; vệ sinh chuồng trại, phun hóa chất diệt con vật trung gian gây bệnh; thường xuyên vệ sinh cá nhân, rửa tay bằng xà phòng; đeo khẩu trang ở nơi công cộng.
-Bệnh viêm màng não do virus cần được phát hiện, điều trị sớm để tránh chuyển biến nguy hiểm, có thể dẫn đến tử vong nếu chuyển sang viêm não. Khi xuất hiện các triệu chứng đau đầu dữ dội, nôn, sốt cần đưa bệnh nhân đến ngay các cơ sở y tế để khám sàng lọc, điều trị kịp thời.
-Vĩnh Khang
+# url = https://dantri.com.vn/suc-khoe/nha-may-gan-xu-ly-ruou-bia-nhu-the-nao-20210430104323662.htm
+# date = 20210430
+Gánh nặng của lá gan
+Gan là một cơ quan quan trọng trong việc cân bằng và duy trì sức khỏe của con người. Trên thực tế, các chức năng của gan vẫn còn là ẩn số. Tuy nhiên, một số nghiên cứu đã thống kê được hơn 500 vai trò, sinh lý chức năng gan riêng biệt.
+Ngoài việc chuyển hóa các chất để có thể dễ dàng hấp thụ vào cơ thể; tổng hợp các chất cần thiết như các yếu tố đông máu, tổng hợp albumin… Gan còn là "ngôi nhà" dự trữ rất nhiều vitamin và khoáng chất. Ngoài ra, gan còn là nơi sản xuất dịch mật, một dịch thể quan trọng trong quá trình tiêu hóa.
+Bên cạnh đó, một chức năng không thể thiếu của gan đó là đào thải độc tố. Những độc tố tan trong mỡ sẽ được các tế bào gan phân giải thành những chất kém nguy hiểm hơn hoặc dễ tan trong nước hơn để đào thải ra bên ngoài. Chính vì những chức năng quan trọng đó mà gan được xem như là một "nhà máy hóa chất" của con người.
+Tuy nhiên ở rất nhiều người, gan không chỉ phải "xử lý" một khối công việc khổng lồ như thế, mà còn phải thường xuyên "tăng ca" xử lý thêm rượu, bia, đồ uống có cồn. Điều này vô hình chung, khiến cho gan bị quá tải và phải chịu "áp lực" nặng nề.
+"Công suất" xử lý rượu bia của "nhà máy" gan
+Nghiên cứu đã chỉ ra, chỉ có khoảng 5 - 10% lượng rượu đưa vào cơ thể được bài tiết qua mồ hôi, hơi thở và nước tiểu; 90 - 95% lượng rượu, bia còn lại được chuyển đến gan để xử lý. Tuy nhiên, một lá gan khỏe mạnh, "công suất" tối đa chỉ có thể xử lý được khoảng 2 đơn vị cồn một ngày.
+Theo các chuyên gia, lượng cồn đi vào cơ thể ở mức an toàn là một đơn vị/ngày. Trong đó một đơn vị = 25 ml thức uống chứa cồn 40 độ, hoặc 50 ml thức uống chứa cồn 20 độ. Nếu vượt quá, tế bào gan hoạt động quá tải, cồn trong rượu chuyển hóa thành acetaldehyde - đây không chỉ là một chất độc hại đối với gan mà còn làm tổn thương đến cả hệ thần kinh, thị giác, tiêu hóa….
+Ngoài ra, hiện nay trên thị trường có rất nhiều loại rượu giả, rượu nhái kém chất lượng, chứa toàn cồn công nghiệp ethanol. Lượng rượu bia này nếu được hấp thụ vào cơ thể không những làm tăng tốc độ "tàn phá" gan mà còn có nguy cơ gây ngộ độc rượu.
+Rượu bia phá hủy gan như thế nào?
+Theo GS.TS Đào Văn Long - Nguyên Trưởng khoa tiêu hóa Bệnh viện Bạch Mai, Nguyên Giám Đốc Bệnh viện Đại học Y Hà Nội, Chủ tịch Hội đồng Sáng lập Viện Nghiên cứu và Đào tạo Tiêu hóa, Gan Mật cho biết: "Những người tiêu thụ rượu bia thường xuyên là những đối tượng dễ bị mắc các bệnh lý nguy hiểm về gan như gan nhiễm mỡ, viêm gan, xơ gan,… hơn những người khác".
+Trong đó, gan nhiễm mỡ là giai đoạn sớm nhất liên quan tới thói quen uống rượu bia. Theo thống kê cho thấy, có đến 90% người thường xuyên sử dụng rượu bia bị gan nhiễm mỡ. Tình trạng gan nhiễm mỡ sẽ dần thuyên giảm nếu người bệnh uống ít đi hoặc ngừng uống rượu.
+Ở giai đoạn viêm gan, các tế bào gan bị hoại tử. Viêm gan do rượu có thể diễn biến nặng hơn, nhất là ở những người đã có bệnh lý về gan từ trước như viêm gan B, viêm gan C... Ở giai đoạn này, người bệnh sẽ có các triệu chứng như: sốt, vàng da, chán ăn, đau vùng hạ sườn bên phải,….. Khi gan bị tổn thương kéo dài, tế bào chết dần được thay thế bằng các mô xơ và bắt đầu quá trình xơ hóa gan.
+Theo các bác sĩ, phần lớn người thường xuyên sử dụng rượu bia có biến chứng thành xơ gan. Đây là một bệnh lý nguy hiểm bởi nếu không được phát hiện và điều trị kịp thời, xơ gan có thể tiến triển nặng và biến chứng thành ung thư gan gây tử vong ở người bệnh.
+Ung thư gan - đây là "đoạn cuối con đường" của các bệnh lý về gan và cũng là mức độ nặng nhất. Ước tính, ung thư gan nguyên phát trên nền xơ gan chiếm tới 80% các trường hợp. Tổ chức nghiên cứu ung thư quốc tế (IARC) đã xếp hạng rượu bia là tác nhân gây ung thư mức độ 1 không chỉ đối với gan mà còn cả thực quản, dạ dày, đại trực tràng,…
+Thu Trang

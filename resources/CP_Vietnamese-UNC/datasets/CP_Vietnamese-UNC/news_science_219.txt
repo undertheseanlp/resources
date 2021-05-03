@@ -1,17 +1,14 @@
 # doc_id = news_science_219
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tau-ngam-indonesia-vua-mat-tich-bi-an-co-vu-khi-gi-dac-biet-20210421230331749.htm
-# date = 20210421
-Tàu KRI Nanggala - 402 của hải quân Indonesia trong chuyến trinh sát vùng biển Java năm 2015. (ảnh: Wikipedia)
-Ngày 21/4, hải quân Indonesia đưa thông báo khẩn về việc tìm kiếm 53 người trên một chiếc tàu ngầm mất tích trong một cuộc diễn tập.
-Được biết, chiếc tàu ngầm nêu trên có mã hiệu là KRI Nanggala-402, đóng vai trò như một phương tiện chiến đấu chủ lực của quân đội Indonesia.
-Đây là chiếc tàu ngầm thứ 2 trong lớp tàu ngầm tấn công lớp Cakra và nằm dưới sự kiểm soát của Đơn vị tàu ngầm, thuộc Bộ Tư lệnh Hạm đội Miền Đông, Hải quân Indonesia.
-KRI Nanggala được đưa vào hạm đội tàu chiến của Hải quân Indonesia cùng một tàu ngầm cùng lớp Cakra là KRI Cakra - 401. Tàu ngầm này có phương châm phục vụ là "Vững vàng đến cùng".
-Tàu KRI Nanggala - 402 được chế tạo bởi tập đoàn Howaldtswerke, Kiel, Tây Đức vào năm 1981. Đây là loại tàu ngầm tấn công Type 209/1300 được sử dụng rộng rãi bởi nhiều lực lượng hải quân trên thế giới trong các thập niên 80, 90.
-Tàu KRI Nanggala - 402 sử dụng hệ thống động cơ điện Siemens loại có tốc độ thấp, truyền lực trực tiếp (không có hộp số giảm tốc) qua trục các đăng tới chân vịt của tàu.
-Ngư lôi hạng nặng AEG SUT được nạp lên tàu ngầm.
-Tổng công suất được cung cấp cho tàu ngầm KRI Nanggala - 402 từ hệ thống động cơ Siemens là 5000 sức ngựa, có tốc độ hành trình tối đa 21,5 hải lý /giờ, và đã trải qua quá trình tân trang kéo dài 2 năm tại Hàn Quốc và hoàn thiện vào năm 2012.
-Động cơ điện lấy từ tổ hợp pin lớn với trọng lượng nặng, chiếm đến 25% trọng lượng của toàn bộ con tàu, pin của hệ thống Siemens được sản xuất bởi hai công ty Varta (loại công suất thấp) và Hagen (loại công suất cao).
-Nguồn pin được sạc đầy bởi một máy phát điện do 4 động cơ diesel siêu nạp MTU sản xuất ra. Vũ khí chính của tàu ngầm tàu KRI Nanggala - 402 gồm 8 ống phóng ngư lôi 533 mm, 14 ngư lôi hạng nặng AEG SUT.
-Vụ mất tích của tàu KRI Nanggala - 402 có nhiều tình tiết khó lý giải. Trong đó, đáng chú ý nhất là chi tiết đường dây liên lạc của tàu đã ngay lập tức bị đứt đoạn sau khi nó nhận được thông báo từ chỉ huy cho phép lặn xuống nước biển.
-Bộ Quốc phòng Indonesia cho hay nỗ lực tìm kiếm từ trên không tàu ngầm KRI Nanggala-402 đã phát hiện ra một vết tràn dầu ở gần nơi con tàu chìm xuống trước đó. Tuy nhiên, vẫn chưa đội cứu hộ vẫn chưa tìm được người sống sót sau vụ mất tích bí ẩn.
-Minh Khôi
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tau-tham-hiem-vua-phat-hien-ra-hon-da-ky-la-tren-sao-hoa-20210403063035269.htm
+# date = 20210403
+Công việc chủ yếu của nó trong tháng 3 vừa qua là kiểm tra lại hoạt động của các hệ thống của tàu để đảm bảo tàu vẫn có thể vận hành tốt sau một hành trình dài đi từ Trái Đất.
+Hiện nay, trong lúc chờ máy bay trực thăng siêu nhỏ có tên Ingenuity, cũng có nhiệm vụ khám phá sao Hỏa, thực hiện chuyến bay đầu tiên, các nhà khoa học đang vận hành tàu Perseverance tìm hiểu đất đá ngay trong khu vực tàu đỗ. Con tàu đã phát hiện ra một hòn đá kỳ lạ và chụp ảnh nó bằng ánh sáng laser.
+Hòn đá lạ trên sao Hỏa mà tàu thám hiểm Perseverance của NASA vừa phát hiện ra.
+Hòn đá có vẻ bề ngoài khác hẳn với những hòn đá khác xung quanh với những vết rỗ trên bề mặt rất nhẵn. Hiện các nhà khoa học của NASA đang tranh luận xem nó là gì và từ đâu đến.
+Trong bức ảnh có độ phân giải cao, chúng ta có thể thấy hòn đá nằm nổi trên mặt đất. Đất ở đây có nhiều màu sắc từ nâu đen cho đến vàng nhạt, thỉnh thoảng có những hòn đá to nổi bật trên nền những hòn đá nhỏ nằm rải rác xung quanh. Hòn đá màu xanh kỳ lạ có những vết rỗ được phủ một lớp bụi giống như bụi vẫn bay quanh năm trên bề mặt sao Hỏa. Tuy vậy, cũng chưa có manh mối gì để giải thích nguồn gốc của nó.
+Trong khi chờ đợi chiếc máy bay trực thăng sẵn sàng hoạt động, thì con tàu vẫn không thể làm gì khác ngoài xem xét đất đá ngay ở nơi tàu đỗ. Riêng hòn đá lạ này, các nhà khoa học đang đưa ra nhiều giả thuyết. Nó dài khoảng 15cm và khi nhìn kỹ, chúng ta có thể nhận ra những đường chiếu laser ở giữa hòn đá, gần mép bên phải của bức ảnh, mà con tàu đang phát ra để ghi hình và nghiên cứu sơ bộ về hòn đá này.
+Nếu phóng to ảnh ra, chúng ta có thể thấy nhiều chấm nhỏ, đó là những điểm mà tàu chiếu tia laser cực mạnh để thu thập được nhiều hơn các dữ liệu phục vụ nghiên cứu cấu tạo của hòn đá. Phần lớn bề mặt của hòn đá đều nhẵn bóng, cho dù nó bị gió và bụi thổi qua suốt ngày đêm.
+Các nhà khoa học của NASA đang có nhiều giả thuyết, chẳng hạn như nó là một tảng đá do tác động của thời tiết nên bị tách ra từ một thềm đá gần đó; hay là một vẫn thạch từ một vụ va chạm giữa các thiên thạch; hoặc có thể nó là một cái gì đó khác hẳn. Những giả thuyết này chưa có gì thuyết phục hay thỏa mãn được trí tò mò của những người quan tâm.
+Tuy nhiên, đó chính là bản chất của việc khám phá vũ trụ. Đôi khi chúng ta không thể giải thích được tất cả mọi thứ chúng ta tìm thấy.
+Phạm Hường
+Theo BGR

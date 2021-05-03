@@ -1,16 +1,18 @@
 # doc_id = news_sport_237
-# url = https://dantri.com.vn/the-thao/thua-tran-ra-mat-hlv-han-quoc-noi-ve-nguy-co-mat-ghe-o-clb-ha-noi-20210429070052940.htm
-# date = 20210429
-Tiếp đón CLB Bình Định, đội thua 3 trận liên tiếp trên sân nhà Hàng Đẫy, CLB Hà Nội rất quyết tâm giành chiến thắng để làm quà tặng tân HLV trưởng Park Choong Kyun trong trận ra mắt. Tuy nhiên, chiến lược gia người Hàn Quốc và các học trò đã sớm nhận "gáo nước lạnh".
-Phút 22, bộ đôi ngoại binh Rimario - Hendrio đột phá dũng mãnh trong vòng vây hậu vệ CLB Hà Nội, trước khi Hendrio dứt điểm quyết đoán đánh bại Tấn Trường, ghi bàn thắng duy nhất của trận đấu tại vòng 11 LS V-League 2021.
-HLV Park Choong Kyun đã có màn ra mắt không thành công khi CLB Hà Nội thua Bình Định (Ảnh: Tiến Tuấn).
-Nói về màn ra mắt thất vọng, HLV Park Choong Kyun cho biết: "Tôi có rất ít thời gian để chuẩn bị, chỉ khoảng 1 tuần thôi. Nhiều tuyển thủ lại bị sốt nhẹ sau khi tiêm phòng, rồi chấn thương nên hôm nay tôi phải lắp ráp đội hình như vậy.
-Tất nhiên tôi không lấy tìm lý do nào để bào chữa cho trận thua này. Các học trò của tôi đã chơi tốt, nhưng rất tiếc Hà Nội lại để thua ngay trên sân nhà".
-HLV đồng hương của thầy Park cho biết Hà Nội cần một số điều chỉnh về nhân sự để lấy lại sức mạnh: "Tôi nghĩ để khắc phục vấn đề thì cả nội và ngoại binh đều cần rất nhiều thời gian. Chúng tôi cũng đã liên hệ để đưa về thêm một cầu thủ Hàn Quốc nhưng cũng phải chờ sau giai đoạn 1 đã. Tình hình dịch bệnh như thế này thì cũng không kịp để bổ sung cho 2 trận còn lại được.
-Tôi hi vọng chấn thương của các cầu thủ sẽ sớm bình phục. Triết lý của tôi không phải lối đá giàu sức mạnh mà đội phải dùng nhiều đường chuyền ngắn. Khi Hùng Dũng bình phục trở lại, cậu ấy sẽ là nhân tố mà tôi rất cần".
-Theo tiết lộ từ HLV người Hàn Quốc, Hà Nội FC đã gặp khó khăn trong việc tìm kiếm phiên dịch Việt - Hàn. Điều này ảnh hưởng đến việc giao tiếp, truyền đạt chiến thuật cho cầu thủ. Đặc biệt, vị HLV này cũng thẳng thắn nói về nguy cơ mất ghế ở Hà Nội FC.
-"Khi đến đây, tôi đã gặp HLV Park Hang Seo và lắng nghe nhiều chia sẻ từ ông ấy. Vali của tôi còn chưa mở hết đồ ra và tôi có thể chuẩn bị để ra đi bất cứ lúc nào", HLV Park Choong Kyun nói.
-Trong khi đó, HLV Nguyễn Đức Thắng của CLB Bình Định bày tỏ: "Với Hà Nội FC, việc lần đầu tiên có HLV ngoại có lẽ cũng khiến họ gặp khó khăn nhất định. Ông ấy cũng chia sẻ rằng thời gian chuẩn bị quá ngắn và khó có thể tạo ra sự thay đổi triệt để. Tôi cũng tiếc cho Hà Nội FC khi phải vắng Hùng Dũng, Đình Trọng, Văn Hậu vì chấn thương.
-Về phía Bình Định, chiến thắng hôm nay là một kết quả ngọt ngào sau 3 trận thua liên tiếp, bao gồm cả ở Cúp Quốc gia. Chúng tôi lấy lại được sự tự tin, đồng thời vượt lên trên đối thủ. Đó là điều hạnh phúc và may mắn.
-Chúng tôi cố gắng giành từng điểm, vào được top 6 là hạnh phúc. Tôi muốn đội có được thành tích cao nhưng cũng phải nhìn vào thực tế nữa. Như Hà Nội FC lực lượng dày như vậy còn gặp khó khăn vì chấn thương, huống hồ chúng tôi là đội bóng có nhiều cầu thủ trẻ".
-Thùy Linh
+# url = https://dantri.com.vn/the-thao/tien-linh-mo-nhat-binh-duong-thua-soc-truoc-doi-bet-bang-ha-tinh-20210427203222254.htm
+# date = 20210427
+Trận đấu giữa Hồng Lĩnh Hà Tĩnh (HL Hà Tĩnh) và Becamex Bình Dương (B.Bình Dương) thuộc vòng 11 LS V-League 2021 diễn ra vào chiều tối nay (27/4) bất ngờ không cho phép khán giả vào sân dù trước đó BTC sân đã bán vé cho người hâm mộ. Tất cả những người mua vé xem sẽ được hoàn tiền. Nguyên nhân là bởi chính phủ lo ngại khả năng bùng phát của dịch Covid-19.
+HL Hà Tĩnh đang xếp chót bảng khi mới giành được 9 điểm sau 10 vòng đấu, nhưng được dự báo sẽ gặp rất nhiều khó khăn trước đội khách B.Bình Dương. Tuy nhiên, diễn biến của trận đấu đã diễn ra nằm ngoài mọi dự đoán khi đội chủ nhà chơi bùng nổ ngay những phút đầu trận.
+Kelly Oahimijie mở tỷ số cho HL Hà Tĩnh ở phút 16.
+Phút thứ 16, HL Hà Tĩnh đã sớm có được bàn thắng mở tỷ số khi tiền đạo Kelly Oahimijie đánh đầu tung lưới thủ môn Đức Cường sau pha treo bóng thuận lợi của đồng đội Văn Hiệp. Bàn thắng mở tỷ số khiến đội chủ nhà càng chơi hưng phấn, và họ liên tục có thêm nhiều pha tấn công nguy hiểm về phía khung thành đối phương.
+HL Hà Tĩnh dẫn trước B.Bình Dương 3 bàn chỉ trong 45 phút đầu tiên của hiệp một.
+Phút 42, HL Hà Tĩnh gia tăng cách biệt và người kiến tạo vẫn là tiền vệ Văn Hiệp khi anh chuyền bóng thuận lợi cho Tuấn Hải dứt điểm tung lưới thủ thành Đức Cường. Chỉ 3 phút sau, đến lượt Phi Sơn đi bóng khéo léo trước khi dứt điểm mang về bàn thắng thứ 3 cho HL Hà Tĩnh. Thậm chí tỷ số suýt chút nữa đã là 4-0 khi pha dứt điểm của Phi Sơn ở phút bù giờ 48 của hiệp một bóng lại đập trúng xà ngang đi ra ngoài đáng tiếc.
+Bước sang hiệp hai, HL Hà Tĩnh vẫn duy trì sức ép lớn lên phía khung thành của thủ môn Đức Cường mặc dù đang dẫn cách biệt 3-0. Phút 55, Nguyễn Văn Vĩ căng ngang ở sát đáy biên trước khi Ismaheel Akinade ra chân dứt điểm. Trong nỗ lực phòng ngự bất thành, Nguyễn Thanh Long đã đá phản lưới nhà bên phía Bình Dương.
+HL Hà Tĩnh tạm thời vươn lên vị trí thứ 10 trên BXH sau chiến thắng trước B.Bình Dương.
+Chưa đầy 1 tiếng của trận đấu, HL Hà Tĩnh đã dẫn trước B.Bình Dương với tỷ số 4-0, là điều khó tin khi mà đội chủ nhà đang đứng bét bảng trên BXH. Sau khi bị dẫn tới 4 bàn, B.Bình Dương dường như không còn gì để mất nên dâng cao đội hình nhằm tìm kiếm bàn thắng danh dự.
+Phút 69, tiền vệ Tống Anh Tỷ đã giúp đội khách tìm được điều mình cần khi cú ra chân đầy quyết đoán của anh đưa bóng về góc xa để giúp Bình Dương có bàn thắng danh dự trong trận đấu này. Tỷ số cuối cùng của trận đấu là 4-1, giúp đội chủ nhà HL Hà Tĩnh từ vị trí bét bảng (thứ 14) tạm thời vươn lên vị trí thứ 10 trên BXH.
+Đội hình xuất phát:
+Hồng Lĩnh Hà Tĩnh:Quang Tuấn, Kelly, Trọng Sáng, Xuân Hùng, Văn Vĩ, Văn Hiệp, Trung Học, Phi Sơn, Văn Công, Tuấn Hải, Akinade
+Bình Dương:Đức Cường, Thanh Long, Anh Tài, Trung Tín, Rabo Ali, Tuấn Cảnh, Mansaray, Trọng Huy, Việt Cường, Tiến Linh, Omar
+Sông Lam
+Ảnh: Gia Hưng

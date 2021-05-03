@@ -1,13 +1,27 @@
 # doc_id = news_sport_188
-# url = https://dantri.com.vn/the-thao/nguoi-dep-lang-golf-buon-kho-vi-cao-buoc-phan-biet-chung-toc-20210419212347810.htm
-# date = 20210419
-Mới đây, người đẹp nổi tiếng của làng golf thế giới, Paige Spiranac đã bất ngờ bị "ném đá" chỉ vì chia sẻ về chiến thắng của Hideki Matsuyama tại giải The Masters 2021.
-"Thực đơn buổi tối cho nhà vô địch chắc chắn sẽ bùng cháy thực sự vào năm sau", Paige Spiranac từng chia sẻ một cách vô tư.
-Chẳng ngờ, nhiều ý kiến lại cho rằng Paige Spiranac có ý "phân biệt chủng tộc" chỉ vì Hideki Matsuyama là tay golf nam người Nhật Bản đầu tiên vô địch tại một giải Major của hệ thống PGA Tour.
-Điều này khiến cho Paige Spiranac cảm thấy vô cùng bức xúc. Người đẹp sinh năm 1993 đã phải ngay lập tức lên tiếng phân bua trên mạng xã hội: "Tôi có một lời bình luận về việc thực đơn năm sau sẽ tuyệt vời như thế nào, chỉ bởi vì tôi yêu thích đồ ăn Nhật Bản mà thôi".
-"Phần lớn những người chiến thắng đều tạo ra một thực đơn để vinh danh quê hương của họ và tôi trông đợi rằng Kideki cũng sẽ làm điều tương tự", Paige Spiranac chia sẻ một cách thành thật.
-Paige Spiranac cũng khẳng định bản thân không bao giờ phân biệt chủng tộc và người đẹp 9x đang hết sức "khó chịu" vì bị cáo buộc một cách vô lý.
-Trên thực tế, không chỉ mình Paige Spiranac mà đông đảo các tín đồ làng golf đều hân hoan chúc mừng chiến tích lẫy lừng của Hideki Matsuyama.
-Cách đây ít ngày, tay golf sinh năm 1992 vừa xuất sắc vô địch giải The Masters 2021 diễn ra tại Augusta National, Mỹ với thành tích 278 gậy (tức 10 gậy dưới par), hơn người thứ nhì Will Zalatoris đúng 1 gậy.
-Dung Nhi
-Theo TS
+# url = https://dantri.com.vn/the-thao/nha-vo-dich-cu-ly-sieu-marathon-70-km-ha-thi-hau-toi-moi-tap-chay-ma-thoi-20210427233808760.htm
+# date = 20210427
+PV: Có người bảo Hậu là VĐV "vô danh" ở làng chạy marathon, nhưng lại gây bất ngờ khi giành chức vô địch ngay trong lần đầu tham dự cự ly siêu marathon 70km ở Mộc Châu (Sơn La) vừa qua?
+VĐV Hà Thị Hậu: Vừa đúng mà vừa không đúng. Đúng là ở chỗ em lần đầu tham dự cự ly siêu marathon 70km nhưng may mắn giành chức vô địch ở nội dung dành cho nữ. Em cũng chỉ mới bắt đầu tập chạy rồi thi đấu kể từ tháng 7 năm ngoái mà thôi, nên hầu như không ai biết cũng phải.
+Hà Thị Hậu gây bất ngờ khi lần đầu đăng ký cự ly siêu marathon 70km ở giải đường mòn Mộc Châu (Sơn La) đã giành luôn giải nhất
+Còn không đúng là trước khi giành giải nhất ở cự ly 70km này, em cũng từng gặt hái một số thành tích, với 3 lần giành giải nhất cự ly 21km (bán marathon). Một lần em về nhất ở giải chạy marathon địa hình ở Sapa vào năm ngoái (Vietnam Mountain Marathon 2020) cự ly 21km, sau đó là về nhất cũng ở cự ly 21km ở giải chạy leo núi Fansipan và giải chạy leo núi Lảo Thẩn. Tất cả đều ở Lào Cai. Chỉ lần này em mới tham dự giải chạy ngoài tỉnh và ở cự ly khắc nghiệt hơn.
+PV: Hậu đã giành giải nhất nào ở cự ly 42km?
+VĐV Hà Thị Hậu: Em còn chưa chạy ở cự ly 42km bao giờ thì lấy đâu ra giải. Sau 3 lần giành giải ở cự ly 21km, em đăng ký thẳng cự ly 70km vì thấy phù hợp với khả năng và sở thích của mình hơn. Để tham dự cự ly 70km, em cũng đã phải gửi tracklog (bài test thử) cho ban tổ chức, họ đồng ý thì mới được tham gia. Ở lần giành giải nhất cự ly 21km giải VMM, em còn về trước VĐV nam đến 28 phút cơ (cười).
+Giây phút tranh thủ check-in trên đường chạy của Hà Thị Hậu
+PV: Giải chạy marathon đường mòn Việt Nam 2021 (Vietnam Trail Marathon - VTM 2021) vừa qua được xem là vô cùng khắc nghiệt khi thời tiết rất nóng, độ dốc cao, nhiều VĐV phải bỏ cuộc giữa chừng. Vậy đâu là bí quyết để Hậu hoàn thành cự ly 70km rất khắc nghiệt như vậy ?
+VĐV Hà Thị Hậu: Thực tế là em cũng chẳng có bí quyết nào cả, thậm chí em còn không biết dùng gậy trên đường đua vì chưa bao giờ phải dùng gậy khi chạy. Thế nên em bị chuột rút ngón tay và phải chịu đau trong một thời gian dài trước khi về đích.
+Em bị đau gối khi đến Trạm tiếp sức số 7 (CP7) và cố chạy được khoảng 3km nữa. Đến 4km cuối cùng là em chỉ đi bộ về đích, vì không thể cố thêm được nữa. Thực sự trời rất nóng và khắc nghiệt, lần đầu tiên tham dự một giải chạy mà em thấy mình không hề dễ dàng để chiến thắng đến như vậy. Tất cả những người về đích ở giải đấu này đều phải có một ý chí vô cùng mạnh mẽ và quyết tâm chinh phục đường đua.
+Theo Hà Thị Hậu, để hoàn thành cự ly 70km đòi hỏi một ý chí kiên cường cũng như nỗ lực tập luyện của mỗi VĐV
+Trước giải chạy này, em cũng tập chạy suốt một tháng. Ngày nào cũng chạy, bắt đầu từ 4h tối đến khi hoàn thành các cự ly đặt ra mới thôi. Ban đầu em đặt mục tiêu 12km, rồi tăng lên 14km, 17km và 26km mỗi ngày. Ngoài việc duy trì chế độ tập luyện hàng ngày, các VĐV cần tăng cường chế độ ăn uống, nghỉ ngơi đầy đủ để luôn giữ cho mình sức khỏe tốt nhất thì khi vào giải chính thức mới đạt hiệu suất tốt nhất.
+PV: Chỉ chưa đầy một năm tập chạy mà Hậu đã gặt hái rất nhiều thành tích đáng nể như vậy, có thể tiết lộ nguyên nhân nào để Hậu đến với bộ môn thể thao này?
+VĐV Hà Thị Hậu: Nghề của em là làm du lịch, chủ yếu cho khách du lịch thuê xe máy cũng như tư vấn bán tour cho khách du lịch nước ngoài. Nhưng năm vừa qua do đại dịch Covid-19 mà du lịch ế ẩm, Sapa nhiều thời điểm không có khách du lịch tham quan.
+Em bị thất nghiệp và tăng cân phi mã, nên ý định ban đầu của em khi tập chạy là để giảm cân, tăng cường sức khỏe. Nhưng rồi càng chạy lại càng thích, lại được các chị em trong nhóm chạy ở Sapa rủ rê rồi trở thành niềm đam mê lúc nào không hay.
+Theo Hà Thị Hậu, chạy marathon giúp giảm cân đồng thời chiêm ngưỡng những cung đường đẹp nhất của Việt Nam
+Một khoảnh khắc đẹp mà Hà Thị Hậu trải nghiệm trên đường chạy của mình
+Chạy marathon cũng giúp em trải nghiệm những cung đường tuyệt đẹp của đất nước, có những giây phút hòa vào thiên nhiên mà ít ai có được khi nhiều người trong chúng ta do quá bận rộn với công việc mà quên đi cuộc sống tuyệt vời chung quanh mình.
+PV: Mục tiêu của Hậu trong thời gian tới ?
+VĐV Hà Thị Hậu: Em sẽ tiếp tục tập luyện để tham gia giải đấu Vietnam Mountain Marathon 2021 ở Nậm Cang (Lào Cai) và chinh phục "sống khủng long" - đường chạy được xem là đẹp nhất Việt Nam vào tháng 6 tới.
+Hà Thị Hậu sẽ tiếp tục chinh phục giải chạy ở Nậm Cang vào tháng 6 tới với cự ly cao nhất là 52km
+Lần này em sẽ tham dự cự ly dài nhất của giải đấu là 52km. Em không đặt mục tiêu phải về nhất, mà chỉ cần mình đạt phong độ tốt nhất mà thôi.
+PV: Xin cảm ơn Hậu về buổi trò chuyện này !
+Sông Lam

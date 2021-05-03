@@ -1,8 +1,12 @@
 # doc_id = news_travel_126
-# url = https://dantri.com.vn/du-lich/hu-hon-di-qua-cay-cau-nguy-hiem-say-chan-mot-chut-co-the-mat-mang-20210425173036226.htm
-# date = 20210425
-Cầu treo Hussaini nằm ở miền Bắc, Pakistan giúp kết nối người dân làng Zarabad với làng Hussaini ở vùng Gilgit-Baltistan. Tuy nhiên, việc qua cầu không hề đơn giản mà nó là thử thách thực sự vì các tấm ván gỗ trên mặt cầu nằm tách rời nhau, nếu như sơ sẩy có thể rơi xuống dưới sông và gặp nguy hiểm.
-Bên dưới cây cầu là sông Hunza - phụ lưu của hệ thống sông Indus, đây được đánh giá là sông "hung dữ" với nước chảy xiết. Thành cầu là những sợi dây thép mỏng manh và thưa khiến nhiều người đi qua có thể không dám nhìn sang 2 bên. Khi qua cầu, những cơn gió thổi có thể khiến toàn bộ công trình lắc lư, đôi chỗ còn bị mất hẳn tấm ván càng làm cho hành trình không đơn giản.
-Mặc dù có vẻ ngoài nguy hiểm, song cầu Hussaini là địa điểm thu hút du khách từ khắp nơi đến trải nghiệm và khám phá. Những ai đến đây đều cố gắng đi bộ qua cầu để thử thách bản thân.
-Phương Hà
-Theo India/ Atlas
+# url = https://dantri.com.vn/du-lich/khach-tay-thich-thu-trai-nghiem-cuoi-trau-lam-nong-dan-o-hoi-an-20210403070132322.htm
+# date = 20210403
+Trước dịch Covid-19, các cánh đồng lúa tại Hội An vốn là nơi được nhiều du khách quốc tế yêu mến khám phá, tận hưởng không gian yên bình vùng ngoại ô phố cổ Hội An, tìm hiểu về nền nông nghiệp lúa nước tại Việt Nam.
+Nhiều tour du lịch được du khách yêu thích như "Một ngày làm nông dân", cưỡi trâu, đạp xe dạo quanh các cánh đồng lúa… giúp du khách có thêm nhiều trải nghiệm, sản phẩm để lựa chọn khi du lịch Hội An; đồng thời cũng giúp nhiều nông dân có thêm thu nhập để trang trải cuộc sống, làm du lịch xanh an toàn, bền vững.
+Ảnh hưởng dịch Covid-19, du lịch bị thiệt hại nặng nề, vắng khách khiến nhiều hoạt động du lịch đình trệ, các cánh đồng lúa Hội An vì vậy cũng buồn hơn. Tận dụng vẻ đẹp do thiên nhiên ban tặng, nhiều năm qua, ngành du lịch Hội An đã khuyến khích phát triển các tour du lịch "chân lấm tay bùn" để phục vụ du khách. Theo thống kê của UBND TP Hội An, trước dịch trung bình mỗi tháng có khoảng 4.000 du khách nước ngoài đến địa phương tham gia tour du lịch đồng quê.
+Nông dân Hội An lại trở về với cuộc sống đồng áng, nhưng họ cũng tiếc nuối khi vắng các vị khách phương xa đến thăm quê hương. Ông Nguyễn Văn Năm (người chuyên cho du khách cưỡi trâu chụp hình) chia sẻ: "Trước dịch Covid-19 khách nước ngoài đông lắm, mỗi khi đến vụ mùa họ lại đạp xe đến chụp ảnh, khám phá loanh quanh. Nông dân cũng nhiệt tình với khách, đây cũng là cơ hội mình tự hào để quảng bá quê hương, con người Việt Nam thân thiện, hiếu khách đến bạn bè thế giới. Chúng tôi cũng được lên hình báo nước ngoài, tour này nọ, khách họ biết rồi cầm ảnh chụp gặp tận nơi, sướng lắm".
+Khám phá cánh đồng lúa Hội An vào buổi sớm mai du khách sẽ được tận hưởng một không gian yên bình, nên thơ. Ánh bình minh dần ló dạng xua tan đi cái se lạnh buổi sớm mai, một ngày mới bắt đầu với tiếng chim hót líu lo, các cư dân phố Hội lại tất bật với cuộc sống mưu sinh…
+Tháng 4 về, hoa xuyến chi mong manh nở khắp các cánh đồng, đặc biệt ven các con kênh là nơi được loài hoa này ưa thích để đâm chồi nảy lộc.
+Hoàng hôn dần buông xuống, các chú trâu lại lục tục trở về chuồng, không khó để bắt gặp những hình ảnh nên thơ như một bức họa. Các sản phẩm du lịch đặc sắc trên cánh đồng lúa, cũng như tại các làng nghề… đã giúp du khách có những phút giây thư giãn, hòa mình cùng đời sống người dân; đồng thời tạo thêm nhiều sản phẩm du lịch xanh, thân thiện môi trường, qua đó góp phần bảo tồn nghề truyền thống địa phương để Hội An trở thành địa chỉ hấp dẫn, thú vị với du khách gần xa.
+Khung cảnh thiên nhiên nên thơ, yên bình quanh ngoại ô thành phố sẽ là trải nghiệm thú vị với du khách bên cạnh tham quan các địa điểm nổi tiếng tại Hội An.
+Công Bính - Ngô Linh

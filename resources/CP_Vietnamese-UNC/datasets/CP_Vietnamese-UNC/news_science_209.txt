@@ -1,11 +1,17 @@
 # doc_id = news_science_209
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tai-sao-con-nguoi-khong-the-nghe-thay-trong-khi-ngu-20210430061752937.htm
-# date = 20210430
-Trong khi ngủ, cơ thể con người có thể quyết định bỏ qua âm thanh, chuyển động và mùi xảy ra xung quanh, những thứ có thể đánh thức chúng ta. Việc ra quyết định này chủ yếu xảy ra trong não bộ.
-Đây là một công cụ đặc biệt vì nó giúp bảo vệ giấc ngủ của con người, do đó chúng ta không thức giấc trước mọi thứ diễn ra trong khi ngủ. Nhưng nó cũng không hoàn toàn ngăn chúng ta khỏi thế giới bên ngoài.
-Bộ não có phản ứng với những âm thanh to và có nhiều khả năng đánh thức chúng ta hơn những âm thanh nhỏ hơn. Ví dụ, một tiếng động lớn do ai đó đánh rơi vật gì đó vào lúc nửa đêm có thể khiến chúng ta giật mình và bị đánh thức. Nhưng chúng ta vẫn sẽ ngủ bình thường trước tiếng muỗi vo ve bên tai.
-Những âm thanh bất thường hoặc quan trọng cũng có nhiều khả năng đánh thức chúng ta hơn. Bộ não giải thích những âm thanh bất thường là một mối đe dọa và cảnh báo chúng ta về mối nguy hiểm đó. Điều này cho phép quyết định xem có cần tự bảo vệ mình hay chạy trốn nếu cần thiết.
-Bộ não cũng có nhiều khả năng đánh thức bằng những âm thanh mà nó coi là quan trọng như tên của chúng ta.
-Thực tế, khi ngủ chúng ta trải qua các chu kỳ bao gồm giai đoạn nhẹ và giai đoạn sâu của giấc ngủ. Có khoảng năm đến sáu chu kỳ ngủ mỗi đêm, tùy thuộc vào thời gian ngủ. Khi ngủ nhẹ, bạn sẽ dễ bị đánh thức hơn so với khi ngủ sâu. Chúng ta có giấc ngủ sâu hơn vào nửa đầu của đêm và ngủ nhẹ hơn vào nửa sau của đêm. Điều này có nghĩa là âm thanh của một con gà trống gáy ngay lập tức đánh thức chúng ta vào lúc bình minh ló dạng.
-Mỗi người có mức độ nhạy cảm rất khác nhau đối với âm thanh. Tiếng nói chuyện rôm rả trong nhà khi bạn đang ngủ trưa có thể không đánh thức bạn nếu bạn không nhạy cảm với tiếng ồn. Tuy nhiên, một người rất nhạy cảm với tiếng ồn có thể cảm thấy khó chịu khi tiếp tục ngủ trong môi trường ồn ào như vậy. Do đó, nếu chúng ta nhạy cảm hơn với âm thanh, thì não có nhiều khả năng sẽ đưa ra quyết định đánh thức.
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tai-sao-long-ho-co-hoa-tiet-van-ven-20210426064512613.htm
+# date = 20210426
+Khi hổ rình mồi, thường là trong ánh sáng âm u của hoàng hôn hoặc bình minh, chúng gần như không thể nhìn thấy. Cho dù chúng sống trong đồng cỏ, hay rừng rậm, hổ hoang dã có bộ lông màu cam đậm với các sọc sẫm. Vậy làm thế nào để một con vật có màu sắc rực rỡ như vậy được che giấu đủ tốt để săn mồi thành công?
+Vì hổ là động vật săn mồi đỉnh cao ở đầu chuỗi thức ăn nên chúng không cần phải trốn tránh những loài động vật khác có thể ăn thịt chúng. Chúng là loài ăn thịt biết dựa vào khả năng "tàng hình" để săn mồi thành công.
+Bộ lông của hổ còn ảnh hưởng đến tầm nhìn hạn chế của con mồi ưa thích của chúng. Thực tế, hươu và các loài động vật có móng khác không thể nhìn thấy đầy đủ các màu sắc, giống như một người mù màu. Đối với những loài này, lông của hổ không có màu cam sáng mà nó có màu xanh lục.
+Các sọc dọc của lông hổ, từ màu nâu đến màu đen, là một ví dụ về cái mà các nhà sinh vật học gọi là màu sắc gây rối. Chúng giúp phá vỡ hình dạng và kích thước của hồ để nó hòa hợp với cây cối và cỏ cao.
+Điều đó quan trọng vì những kẻ săn mồi này không săn mồi theo nhóm như sư tử, hay có tốc độ của báo gêpa. Hổ là loài sống đơn độc dựa vào khả năng tàng hình và ngụy trang để tồn tại.
+Các sọc thậm chí khác nhau giữa sáu phân loài hổ. Phân loài hổ Sumatra có các vằn hẹp hơn nhiều so với các loài khác và có nhiều vằn hơn. Điều này giúp nó ẩn mình trong khu rừng rậm rạp.
+Mỗi mẫu sọc của hổ là duy nhất, giống như của ngựa vằn. Cả hai đều không giống nhau. Chúng khác biệt như dấu vân tay của con người.
+Điều này cho phép các nhà nghiên cứu nghiên cứu hổ trong tự nhiên để xác định và đếm số cá thể hổ. Thường các nhà nghiên cứu sẽ sử dụng máy ảnh từ xa để chụp ảnh những con hổ khi chúng đi ngang qua.
+Sử dụng phương pháp này, các chuyên gia về hổ ước tính rằng chỉ còn khoảng 3.400 con hổ hoang dã trên khắp quê hương châu Á của chúng.
+Không chỉ bộ lông của hổ có sọc đen, da của hổ nếu cạo lông đi cũng gần giống như được xăm: Nó có họa tiết sọc giống như bộ lông.
+Tuy nhiên với những con hổ màu trắng thì sao? Có thể nhiều người sẽ nghĩ rằng chúng là bình thường, nhưng không phải vậy. Một đột biến gene ở hổ Bengal mang lại cho chúng bộ lông màu trắng sữa. Cả bố và mẹ đều phải mang cùng một loại gene rất hiếm để sinh ra đàn con màu trắng. Hổ trắng được lai tạo với họ hàng trong điều kiện nuôi nhốt để thu hút khách du lịch. Chúng giao phối cận huyết và sinh ra những con không khỏe mạnh.
+Không bao giờ có nhiều hơn một vài con hổ trắng trong tự nhiên. Con cuối cùng đã được phát hiện hơn 60 năm trước đây. Điều đó có ý nghĩa về mặt tiến hóa. Một con hổ trắng và đen dễ phát hiện hơn một con hổ cam, vì vậy nó sẽ khó có thể săn mồi.
+Bộ lông sọc đặc biệt của hổ giúp chúng săn mồi thành công, nhưng đó cũng là một lý do khiến chúng có nguy cơ tuyệt chủng trước vấn nạn buôn bán trái phép động vật hoang dã quốc tế rất phức tạp, chủ yếu ở châu Á.
 Trang Phạm

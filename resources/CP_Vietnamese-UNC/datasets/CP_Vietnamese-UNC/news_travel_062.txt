@@ -1,11 +1,8 @@
 # doc_id = news_travel_062
-# url = https://dantri.com.vn/du-lich/chinh-trang-doi-vong-canh-thanh-diem-den-du-lich-tuyet-dep-20210419110918720.htm
-# date = 20210419
-Ngày 19/4, lãnh đạo UBND tỉnh Thừa Thiên Huế và UBND TP Huế cho biết phương án khai thác, cải tạo, chỉnh trang và quản lý phù hợp đồi Vọng Cảnh - địa chỉ du lịch nổi tiếng từ xưa nay tại Huế.
-Theo đó, ông Hoàng Hải Minh, Chủ tịch UBND TP Huế cho biết, dự án Cải tạo chỉnh trang khu vực đồi Vọng Cảnh có tổng mức đầu tư khoảng 13 tỷ đồng nhằm phục vụ chỉnh trang môi trường đô thị; tạo cảnh quan sinh thái, tạo điểm nhấn tham quan du lịch. Hiện, các cơ quan liên quan đang lập dự án và thiết kế nhằm sớm phê duyệt để tiến hành chỉnh trang trong thời gian sớm nhất.
-Qua kiểm tra và khảo sát thực tế khu vực đồi Vọng Cảnh, ông Phan Ngọc Thọ, Chủ tịch UBND tỉnh Thừa Thiên Huế cho rằng, tuy là điểm đến với cảnh quan thiên nhiên đẹp, nhưng khu vực này chưa được khai thác hiệu quả, chưa thực sự hấp dẫn, một số điểm chưa được khai thác, quản lý và sử dụng phù hợp.
-"Cần sớm có phương án để cải tạo, chỉnh trang đồi Vọng Cảnh trên nền tảng bảo tồn, tôn tạo và phát huy được các giá trị sinh thái cảnh quan nơi đây, biến đồi Vọng Cảnh thành điểm thu hút khách du lịch có đẳng cấp, để Huế có thêm nhiều điểm đến phục vụ cho người dân và du khách" - ông Thọ nhấn mạnh.
-Chủ tịch UBND tỉnh đề nghị các đơn vị liên quan sớm có phương án chỉnh trang toàn bộ khuôn viên khu vực do Trung tâm Công viên cây xanh Huế quản lý, giải tỏa lấn chiếm đất công, sửa chữa, cải tạo các lô cốt để trở thành điểm khai thác dịch vụ.
-Khu vực đồi Vọng Cảnh sẽ được tổ chức chỉnh trang cảnh quan như lót đá các tuyến đường, trồng hoa, bố trí thêm ghế đá, trồng thêm thông và hệ thống cây dọc đường kết nối đến công viên hoa để khu vực này trở thành điểm nhấn đặc sắc của đồi Vọng Cảnh; lưu ý hệ thống cây lâm phượng vỹ cần tiếp tục được chăm sóc, cắt tỉa phù hợp và bố trí trồng dày thêm.
-Tại đồi Vọng Cảnh sẽ được triển khai hệ thống đường đi bộ khu vực tiếp giáp bờ sông. Từ đỉnh đồi xuống sông là hệ thống bậc cấp thiết kế hài hòa với không gian cảnh quan. Đường lên đồi Vọng Cảnh chỉ để phục vụ người đi dạo, không tổ chức giao thông xe máy, ô tô. Bên cạnh đó, sẽ lồng ghép bố trí trạm xe đạp thông minh phục vụ nhu cầu du lịch bằng xe đạp tại đồi Vọng Cảnh và khu vực lân cận.
-Đại Dương
+# url = https://dantri.com.vn/du-lich/choang-ngop-cay-bun-300-tuoi-bau-vat-doc-nhat-vo-nhi-o-ha-noi-20210331115408883.htm
+# date = 20210331
+Ông Lâm (người dân) cho biết: "Cây bún thân thuộc với người dân nhiều thế hệ ở đây, chứng kiến nhiều thăng trầm của làng".
+Cây có chiều cao khoảng gần 30 m, đang thời kỳ ra hoa rực rỡ, toàn bộ tán cây vàng rực khiến nhiều người hiếu kỳ.
+Về tên cây bún, nhiều người dân trong làng Đình Thôn cho rằng, sở dĩ có tên như vậy vì chùm hoa bún có 2 màu, có chùm mới bung màu trắng, cánh hoa hình 1 con bún lá, có chùm bung màu vàng rực.
+Cũng có người cho rằng, sở dĩ gọi tên là bún vì ngày xưa khi đói kém người dân hay cúng lễ, trong đó có bún rồi mang ra gốc cây này để cho những người ăn mày khắp nơi tới ăn.
+Phi Hùng

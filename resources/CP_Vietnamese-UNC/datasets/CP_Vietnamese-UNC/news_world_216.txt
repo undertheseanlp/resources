@@ -1,21 +1,16 @@
 # doc_id = news_world_216
-# url = https://dantri.com.vn/the-gioi/sec-an-mieng-tra-mieng-doa-truc-xuat-toan-bo-nha-ngoai-giao-nga-20210421105113517.htm
-# date = 20210421
-Bộ trưởng Ngoại giao và Nội vụ Séc Jan Hamacek (Ảnh: EPA).
-"Tôi đã sẵn sàng cho mọi tình huống. Ngay cả việc xây dựng lại mối quan hệ từ đầu. Có nghĩa là chúng tôi sẽ trục xuất tất cả họ về nước", Bộ trưởng Ngoại giao và Nội vụ Séc Jan Hamacek viết trên Facebook ngày 20/4.
-Trước đó, Bộ trưởng Hamacek nói với các phóng viên rằng ông sẽ triệu tập Đại sứ Nga vào ngày 21/4 để thông báo các bước tiếp theo sau vụ Séc trục xuất 18 nhà ngoại giao Nga - những người bị Praha cho là gián điệp liên quan tới vụ nổ kho đạn năm 2014.
-Đáp lại, Bộ Ngoại giao Nga ngày 18/4 công bố 20 nhân viên Đại sứ quán Séc ở Moscow sẽ phải rời khỏi Nga. Thông báo được đưa ra sau khi Bộ Ngoại giao Nga triệu tập Đại sứ Séc ở Moscow Vitezslav Pivonka nhằm phản đối lệnh trừng phạt nhằm vào Nga trước đó của Séc.
-"Chúng tôi đang kêu gọi hành động tập thể của các nước EU và NATO nhằm trục xuất (các nhà ngoại giao Nga)", Bộ trưởng Hamacek nói thêm.
-Séc cáo buộc gián điệp Nga đứng sau vụ nổ kho đạn tại Séc cách đây 7 năm khiến 2 người thiệt mạng. Cảnh sát Séc cho biết họ đang truy nã 2 công dân Nga bị nghi ngờ có liên quan tới vụ việc.
-Hai nghi phạm bị Séc truy nã sở hữu nhiều hộ chiếu, trong đó có hộ chiếu trùng tên với hai nghi phạm trong nghi án đầu độc cựu điệp viên Nga Sergei Skripal ở Anh năm 2018.
-Séc cáo buộc Nga dàn dựng "cuộc tấn công khủng bố chưa từng có" vào lãnh thổ Séc. Trong khi đó, Nga chỉ trích lệnh trục xuất của Séc là "chưa từng có tiền lệ" và là "hành động thù địch".
-Động thái đáp trả lẫn nhau giữa Nga và Séc diễn ra trong bối cảnh quan hệ giữa Moscow và phương Tây leo thang căng thẳng gần đây. Sau khi Mỹ quyết định trục xuất 10 nhà ngoại giao Nga, Ba Lan cũng thông báo trục xuất 3 nhà ngoại giao của nước này. Ukraine cũng yêu cầu một nhà ngoại giao cấp cao của Nga rời đi.
-Nga trục xuất 2 nhà ngoại giao Bulgaria
-Bộ Ngoại giao Nga ngày 20/4 đã triệu tập Đại sứ Bulgaria Atanas Krystin và thông báo rằng hai nhà ngoại giao Bulgaria đã bị trục xuất. Nga ra thời hạn 72 giờ để hai nhà ngoại giao này rời đi.
-Theo Bộ Ngoại giao Nga, lệnh trục xuất trên được đưa ra để "đáp trả quyết định vô căn cứ của phía Bulgaria hồi tháng 3", khi Bulgaria tuyên bố trục xuất 2 nhân viên của Đại sứ quán Nga.
-Các công tố viên Bulgaria cho biết 2 nhà ngoại giao Nga bị buộc tội "gián điệp". Phía Bulgaria cáo buộc 2 nhà ngoại giao Nga tiến hành các hoạt động tình báo "bất hợp pháp".
-Căng thẳng trong quan hệ giữa Nga và Bulgaria ngày càng xấu đi sau một loạt vụ bê bối gián điệp thời gian gần đây. Từ tháng 10/2019 đến cuối năm 2020, 5 nhà ngoại giao Nga và 1 trợ lý kỹ thuật tại Đại sứ quán Nga đã bị Bulgaria trục xuất.
-Động thái của Nga và Bulgaria diễn ra trong bối cảnh nhiều quốc gia châu Âu gần đây đã lên tiếng cáo buộc Moscow đẩy mạnh hoạt động gián điệp.
-Ngoài Bulgaria, Áo, Hà Lan và Thụy Điển gần đây đều trục xuất các nhà ngoại giao Nga vì nghi ngờ họ là gián điệp.
-Thành Đạt
-Theo AFP, Reuters
+# url = https://dantri.com.vn/the-gioi/sec-truc-xuat-63-nha-ngoai-giao-nga-ngay-sau-toi-hau-thu-20210423084350932.htm
+# date = 20210423
+Ngoại trưởng Séc Jakub Kulhanek (Ảnh: AP).
+"63 nhân viên Đại sứ quán Nga sẽ phải rời Cộng hòa Séc cùng với các thành viên gia đình họ", hãng tin TASS dẫn lời Ngoại trưởng Séc Jakub Kulhanek thông báo trên truyền hình quốc gia ngày 22/4.
+"Chúng tôi giảm số nhà ngoại giao của phái đoàn ngoại giao Nga ở Praha xuống tương ứng số nhà ngoại giao tại đại sứ quán của chúng tôi ở Moscow. Quyết định này có hiệu lực ngay hôm nay. Nga phải đưa người của họ về nước trước cuối tháng 5", Ngoại trưởng Kulhanek tuyên bố hôm qua.
+Quyết định trên được đưa ra sau khi Séc gửi "tối hậu thư" đề nghị Nga rút lại lệnh trục xuất 20 nhà ngoại giao Séc. Theo yêu cầu của Séc, nếu trước 12h ngày 22/4, Nga không nhận lại toàn bộ 20 nhà ngoại giao Séc vừa bị Nga trục xuất, Séc sẽ cắt giảm số lượng nhà ngoại giao của Nga tại Séc xuống bằng với quân số của Đại sứ quán Séc tại Nga hiện nay.
+Căng thẳng Nga - Séc leo thang những ngày gần đây với các động thái trục xuất nhà ngoại giao của nhau. Cuối tuần trước Séc bất ngờ trục xuất 18 nhà ngoại giao Nga với cáo buộc những người này hoạt động tình báo dưới vỏ bọc ngoại giao đồng thời cáo buộc Moscow có liên quan đến vụ nổ kho đạn ở Séc năm 2014.
+Moscow đã bác bỏ cáo buộc và Bộ Ngoại giao Nga ngày 18/4 đáp trả bằng việc trục xuất 20 nhà ngoại giao Séc, yêu cầu họ phải rời khỏi Nga trong vòng 24 giờ.
+Theo Ngoại trưởng Kulhanek, phản ứng trục xuất đáp trả của Nga là không cân xứng và đã làm tê liệt Đại sứ quán Séc tại Nga.
+Slovakia tham gia trừng phạt tập thể nhằm vào Nga
+Trong một động thái được cho là nhằm thể hiện sự đoàn kết giữa các thành viên trong Liên minh châu Âu (EU), Slovakia ngày 22/4 thông báo trục xuất 3 nhân viên ngoại giao của Đại sứ quán Nga tại Bratislava.
+"Theo tình hình địa chính trị hiện nay cũng như tình hình ở Cộng hòa Séc, 3 nhân viên Đại sứ quán Nga ở Bratislava phải rời khỏi lãnh thổ Slovakia trong vòng 7 ngày", Thủ tướng Slovakia Eduard Heger tuyên bố.
+Nga lập tức chỉ trích động thái này của Slovakia và tuyên bố sẽ nhanh chóng có biện pháp đáp trả. "Chúng tôi vô cùng thất vọng về hành động thiếu hữu nghị của Slovakia. Chúng tôi sẽ nhanh chóng có câu trả lời cho hành động này", người phát ngôn Bộ Ngoại giao Nga Maria Zakharova nói.
+Minh Phương
+Theo TASS

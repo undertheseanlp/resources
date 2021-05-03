@@ -1,19 +1,17 @@
 # doc_id = news_travel_147
-# url = https://dantri.com.vn/du-lich/la-ky-hai-hon-dao-cach-nhau-4-km-co-the-quay-nguoc-thoi-gian-20210413072823780.htm
-# date = 20210413
-Dù chỉ cách nhau vỏn vẹn 3,8 km nhưng do nằm ở hai bên đường ranh giới phân chia múi giờ nên thời gian trên hai hòn đảo lại lệch nhau tới 21 giờ đồng hồ tức là gần 1 ngày.
-Cả hai đảo đều nằm trong vùng biển giữa bang Alaska của Mỹ và Siberia của Nga, nhưng có lằn ranh múi giờ chạy qua Thái Bình Dương, nên đảo Diomede lớn thuộc địa phận của Nga, còn đảo Diomede nhỏ là của Mỹ. Bởi vậy múi giờ giữa chúng mới chênh nhau nhiều đến thế.
-Trở lại thời điểm quá khứ vào năm 1897 khi Mỹ mua Alaska, trên hợp đồng bao gồm cả đảo Diomede nhỏ. Khi đó, đường biên giới mới được vạch ra giữa hai hòn đảo và vẫn tồn tại cho tới ngày nay.
-Do vậy theo quy ước, khi ở Nga đã sang ngày mới, Mỹ vẫn là ngày hôm qua. Vì cách tính thời gian này, Big Diomede còn có tên gọi là đảo Ngày Mai (Tomorrow Island), còn Little Diomede là đảo Hôm Qua (Yesterday Island).
-Đảo Lớn được chụp từ Đảo Nhỏ.
-Đảo Diomede lớn - không có gì ngoài chim trời.
-Nga đã di dời toàn bộ cư dân sống trên đảo Big Diomede vào đất liền thời kỳ chiến tranh lạnh. Hiện tại trên đảo chỉ có quân đội cư trú.
-hai hòn đảo nhỏ ở Bearing Sea nổi tiếng là một trong số ít những nơi bạn có thể du hành ngược thời gian. ( Ảnh: Getty image).
-Còn Little Diomede vẫn có khoảng 150 người Mỹ sinh sống, tập trung thành một ngôi làng, nổi tiếng với nghề chạm khắc ngà.
-Theo điều tra của chính quyền Mỹ, hơn 90% dân số trên đảo là người bản xứ. Thu nhập người dân ở đây không cao, nhiều hộ gia đình được xếp vào dạng nghèo. Ngoài ra, đảo có một chiếc trực thăng làm nhiệm vụ chở thực phẩm, thư tín, bưu phẩm và cả vận tải hành khách từ đất liền ra đảo.
-Ở đây cũng không có những con đường trải nhựa, đường cao tốc hay đường thủy. Cách duy nhất để di chuyển là đi bộ trên những tuyến đường mòn, dùng xe trượt tuyết hoặc ván trượt. Tuy vậy, đảo vẫn tiếp đón khách du lịch, những đoàn nghiên cứu từ đất liền tới thăm.
-Quang cảnh hai đảo vào mùa đông.
-Thông thường, phải chèo thuyền hoặc bơi để có thể qua lại giữa hai đảo, nhưng trong mùa đông, giữa hai hòn đảo hình thành một cây cầu băng cho phép nhiều người đi bộ từ đầu này qua đầu kia.
-Tuy nhiên, thực tế, việc đi lại giữa hai hòn đảo bị cấm và các tàu đánh cá nước ngoài đến quá gần chúng sẽ phải đối mặt với lời cảnh báo từ những người lính tuần tra.
-Hằng Đoàn
-Theo Odd/ BBC News
+# url = https://dantri.com.vn/du-lich/la-lung-leu-tinh-yeu-tren-hon-dao-phu-nu-nam-quyen-tuyet-doi-20210329153242296.htm
+# date = 20210329
+Đảo Trobriand có phong cảnh tuyệt đẹp, nằm ở khu vực Nam Thái Bình Dương. Mảnh đất này là nơi phụ nữ có quyền cao hơn nam giới, họ có thể tùy ý yêu bao nhiêu người đàn ông mà mình thích.
+Hòn đảo được người phương Tây tìm thấy hồi năm 1793, đặt theo tên của Denis de Trobriand, một trung úy trên tàu Espérance của Pháp.
+Nhiếp ảnh gia Eric Lafforgue hé lộ, cư dân của đảo Trobriand thoải mái trong chuyện tình dục kể cả trước và sau khi kết hôn. Khi họ thích một ai đó, họ sẽ theo đuổi một cách mạnh mẽ, lộ liễu và không hề ngại. Họ sẽ làm mọi thứ để có được người đàn ông mà họ yêu thích. Các cô gái cũng có quyền từ chối những người đàn ông tán tỉnh mà họ không thích.
+Các cô gái biết đến biện pháp tránh thai từ rất sớm và chuyện trinh tiết không có ý nghĩa.
+Mặc dù, ngày càng có nhiều người dân của đảo đi học nhưng suy nghĩ, thái độ của họ với tình dục không thay đổi. "Nếu một cô gái mang thai, gia đình sẽ giữ đứa bé. Bởi vì, theo phong tục địa phương, đàn ông chỉ giúp người phụ nữ mang thai - người cha thực sự là một Baloma - linh hồn của người chết theo quan niệm của dân trên đảo Trobriand", ông Eric nói.
+Tất cả các làng đều có những túp lều đặc biệt có tên bukumatula, dân địa phương còn gọi là buka. Đây là nơi dành cho những bạn trẻ chưa kết hôn và bạn tình tìm đến "vui vẻ". Mặc dù thoải mái về "chuyện ấy", nhưng cư dân trên đảo không cởi mở vấn đề này với người ngoài.
+Thậm chí, nhiếp ảnh gia Eric Lafforgue còn chia sẻ với Daily Mai: "Mối quan hệ vợ chồng ở đảo không giống châu Âu. Ở Trobriand, đàn ông phải tặng quà cho vợ để trả ơn vì đã quan hệ tình dục".
+Tuy nhiên, mặt trái của vấn đề quá cởi mở trong "chuyện ấy" là dễ nhiễm HIV và AIDS - một căn bệnh được người dân địa phương gọi là "căn bệnh không có thuốc". Tuy vậy, sự xuất hiện của căn bệnh này vẫn không đủ để dân trên đảo từ bỏ lối sống như truyền thống bao đời nay.
+Những mâu thuẫn giữa các làng được giải quyết thông qua các trận đấu bóng chày. Các cô gái cũng tham gia vào "trận chiến" này, nhảy với ngực trần chỉ dùng váy đan bằng cỏ và hoa để che cơ thể, làm đẹp với vòng tay và vòng cổ làm từ vỏ sò. Các điệu nhảy này diễn ra sau các nghi lễ hòa giải giữa 2 bên có mâu thuẫn.
+Ngày nay, đảo thuộc Papua New Guinea. Cuộc sống hằng ngày vẫn giữ nhiều nét văn hóa riêng từ xa xưa như: dùng khoai mỡ làm tiền tệ và theo chế độ mẫu hệ. Ngoài ra, lá chuối khô cũng được xem là tiền để trao đổi của các cư dân.
+Khoai mỡ không chỉ là lương thực, tiền tệ mà còn được xem là thước đo của uy tín và khả năng. Sau khi thu hoạch, khoai mỡ được đưa vào một căn nhà được trang trí lộng lẫy. Mỗi người đàn ông sẽ dựng một ngôi nhà chứa đầy khoai cho vợ của mình.
+Nếu như hai người sống với nhau trên đảo tình Trobriand không hòa hợp thì phụ nữ có thể ly dị chồng. Người chồng muốn níu kéo thì có thể mang khoai mỡ đến nhà vợ cũ để tặngcô ấy cùng với món quà khác. Nếu như cô gái không hài lòng cô sẽ không quay về.
+Phương Hà
+Theo DailyMail, LonelyPlanet

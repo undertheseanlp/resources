@@ -1,20 +1,14 @@
 # doc_id = news_travel_046
-# url = https://dantri.com.vn/du-lich/biet-doi-an-xin-nhi-doi-lot-hang-rong-cheo-keo-khach-o-ha-noi-20210326113313655.htm
-# date = 20210326
-Ghi nhận tại nhiều ngã tư ở các tuyến phố của Hà Nội như: Khuất Duy Tiến, Nguyễn Chí Thanh, Phạm Hùng… không khó để bắt gặp cảnh tượng trẻ em ngồi dưới những cột đèn đỏ, sau đó tận dụng vài chục giây chờ đợi của người đi đường, ra mời mọc mọi người mua hàng cho mình.
-Tại ngã tư Khuất Duy Tiến - Lê Văn Lương, một cháu trai với thân hình gầy gò, đang ngồi bệt xuống đất, cạnh đó là giỏ hàng với vài món đồ lặt vặt. Thỉnh thoảng, cậu bé lại ngước nhìn lên những chiếc đèn tín hiệu giao thông, chỉ cần thấy người đi đường dừng lại là lập tức tiến ra mời mua hàng: "Mua cho cháu đi cô chú…".
-Có người hỏi "Nhà cháu ở đâu, sao lại đi bán thế này?", bé trai chỉ im lặng không đáp, rồi quay sang người khác để tiếp tục công việc.
-Nhiều người thấy thương tình đã mua ủng hộ, thậm chí có người không cần mua hàng rút ra vài đồng tiền lẻ để vào giỏ hàng cho cháu bé.
-Tối về lại tiếp tục bán hàng tại khu vực Ngã Tư Sở.
-Tại Ngã Tư Dương Đình Nghệ - Phạm Hùng, giữa lúc dòng phương tiện đang im ắng dừng chờ đèn đỏ thì những bóng người thấp thoáng di chuyển, phụ nữ có, trẻ nhỏ có, tất cả đều đang miệt mài mời chào để bán hàng.
-Một bé gái bán hàng tại ngã tư Dương Đình Nghệ - Phạm Hùng.
-Anh Đạt - người đi đường, cho biết: "Tôi thường xuyên đi lại tuyến đường này, gần như ngày nào cũng bắt gặp cảnh tượng này, có lần tôi dừng xe lại tò mò hỏi cháu bé vài câu, nhưng không nhận được câu trả lời, thậm chí một người đàn ông không biết từ đâu đi xe máy tới dọa nạt:
-"Hỏi gì nhiều thế, không mua hàng thì đi chỗ khác, đứng đây để làm gì.Sau nhiều lần đi qua đây, tôi quan sát vẫn thấy người đàn ông kia, hôm thì người này dựng xe ở ngay chân cầu đường vành đai 3 trên cao, hôm thì đứng trên vỉa hè đoạn lối rẽ từ đường Dương Đình Nghệ ra đường Phạm Hùng.
-Dù ở vị trí nào, thì người này vẫn hướng đôi mắt về những người bán hàng rong".
-Theo chị Linh (một người dân khác) cho biết, chị hay đi qua tuyến đường Phạm Hùng, Khuất Duy Tiến, cũng gặp những trẻ nhỏ bán hàng rong khá thường xuyên.
-"Cứ giờ tan làm chiều về là tôi thường xuyên gặp, đôi khi tôi mua ủng hộ các cháu cái bút, hoặc có lúc móc trong túi có tiền lẻ thì cho luôn", chị Linh tâm sự.
-Tại các quán cà phê, hay các quán nhậu… khi khách đang mải nói chuyện, hoặc tập trung vào việc riêng thì cũng bị giật mình bởi một giỏ hàng đập ngay trước mắt. Điều đáng nói người bán hàng rong chỉ là những cháu bé khoảng 5 - 7 tuổi.
-"Có lần tôi đang ngồi thì thấy một cháu bé mời mua hàng với giọng rất ngọt ngào, nhưng vì không có nhu cầu nên tôi không mua, cháu bé liền thái độ luôn, bảo: 'không mua thì thôi, lắm tiền mà keo kiệt', rồi bé này bước đi luôn, dáng dấp không còn vẻ đáng thương như lúc mới vào", anh Tuấn - một người dân chia sẻ.
-Thời gian qua, các cơ quan chức năng đã có nhiều biện pháp ra tay quyết liệt song tình trạng chăn dắt trẻ em, người già ăn xin, hàng rong, chèo kéo du khách, người đi đường nhất là ở các thành phố lớn vẫn tái diễn.
-Điều này không chỉ ảnh hưởng, làm xấu đi bộ mặt Thủ đô mà còn là vấn nạn, hành động cần lên án nhất là với những đối tượng sử dụng trẻ em, người già như một công cụ kiếm tiền.
-Phi Hùng
+# url = https://dantri.com.vn/du-lich/binh-dinh-hap-dan-du-khach-check-in-voi-loat-tour-tuyen-moi-20210331160527641.htm
+# date = 20210331
+Ngày 31/3, Sở Du lịch tỉnh Bình Định tổ chức Hội nghị công bố chương trình kích cầu du lịch Bình Định năm 2021 và ký cam kết xây dựng gói giảm giá của các đơn vị tham gia kích cầu du lịch.
+Theo ông Nguyễn Văn Dũng, Giám đốc Sở Du lịch tỉnh Bình Định, chương trình kích cầu du lịch Bình Định tập trung vào việc quảng bá kích cầu du lịch Bình Định "an toàn, thân thiện, văn minh và hấp dẫn"; tổ chức các đoàn Famtrip giới thiệu điểm đến du lịch Bình Định cho các đoàn của tỉnh; tổ chức khảo sát, giới thiệu du lịch tỉnh Bình Định tại các tỉnh thành trong cả nước…
+Xây dựng gói giảm giá các đơn vị tham gia kích cầu du lịch. Theo đó, đối với các cơ sở lưu trú du lịch: đăng ký giảm giá từ 10 đến 30%. Đối với các công ty kinh doanh dịch vụ lữ hành: thực hiện khuyến mãi giảm giá tour từ 10 đến 20%. Các khu, điểm du lịch: tặng kèm sản phẩm/dịch vụ trong giá vé vào cổng tùy từng khu điểm như nước uống, khăn lạnh, quà lưu niệm…
+Xây dựng sản phẩm du lịch mới và các sự kiện, lễ hội du lịch Bình Định trong năm 2021. Trong đó, du khách sẽ được trải nghiệm thú vị với du lịch khoa học tại Trung tâm khám phá khoa học; tour dọc tuyến quốc lộ 19: Tiểu chủng viện làng Sông - Chùa Long Phước (du lịch tâm linh kết hợp xem võ thuật)- tháp Bánh Ít; thưởng thức biểu diễn nghệ thuật tuồng, bài chòi, đấu võ đài; khám phá thành phố biển Quy Nhơn về đêm; chiêm ngưỡng vẻ đẹp huyền bí tại tháp Đôi; phố ẩm thực, chợ đêm…
+Ngoài ra, các sự kiện, lễ hội của tỉnh Bình Định trong năm 2021; các chương trình liên kết du lịch Quy Nhơn- Bình Định tại các tỉnh liên kết: Gia Lai, Đắk Lắk, Kon Tum, Phú Yên; chương trình giới thiệu du lịch Quy Nhơn - Bình Định tại các tỉnh phía Bắc: Hòa Bình, Ninh Bình, Thanh Hóa…
+"Mục đích của kích cầu du lịch là tiếp tục đẩy mạnh hưởng ứng chương trình kích cầu du lịch Việt Nam "Người Việt Nam đi du lịch Việt Nam". Đồng thời, đẩy mạnh quảng bá xúc tiến du lịch Bình Định, thu hút khách du khách đến Bình Định với thông điệp "Du lịch Bình Định an toàn, thân thiện, văn minh và hấp dẫn"", ông Dũng cho hay.
+Theo ông Nguyễn Hoàng Vũ, Chủ tịch Hiệp hội Du lịch tỉnh Bình Định cho biết, đến thời điểm này, du lịch Bình Định đang có tín hiệu vui. Hiện tại, khách du lịch về Quy Nhơn - Bình Định rất đông, tính đến lễ 30/4 và 1/5, lượng khách đã đặt phòng đạt 60-70% số phòng.
+"Có được kết quả này là sự kết nối của các đơn vị kinh doanh dịch vụ du lịch trên địa bàn cùng bắt tay xây dựng chương trình kích cầu du lịch, giảm giá từ 10% đến 40%. Đặc biệt, việc giảm giá nhưng chất lượng dịch vụ vẫn tăng cao, đó là lý do du khách ngày càng đến với Quy Nhơn - Bình Định nhiều hơn", ông Vũ nói.
+Dịp này, Sở Du lịch tỉnh Bình Định đã ký cam kết xây dựng gói giảm giá của các đơn vị tham gia kích cầu du lịch.
+Theo đó, rất nhiều đơn vị kinh doanh dịch vụ du lịch như: khách sạn, lữ hành, nhà hàng, vận tải hành khách… đều đăng ký và cam kết có chính sách giảm giá đối với các sản phẩm du lịch từ 10-30%, áp dụng đến hết 22/4 và 31/5. Tuy nhiên, có đơn vị đã áp dụng chương trình giảm giá 10% đến hết năm 2021.
+Doãn Công

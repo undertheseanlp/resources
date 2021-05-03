@@ -1,11 +1,7 @@
 # doc_id = news_world_192
-# url = https://dantri.com.vn/the-gioi/ong-biden-pha-le-khong-chon-nguoi-chi-dinh-song-sot-o-su-kien-quan-trong-20210428095011300.htm
-# date = 20210428
-Tổng thống Mỹ Joe Biden (Ảnh: NBC).
-Dự kiến, Tổng thống Mỹ Joe Biden hôm nay sẽ có bài phát biểu đầu tiên tại phiên họp chung của quốc hội. Đây cũng là dịp đánh dấu 100 ngày kể từ khi ông nhậm chức.
-Tuy nhiên, ông không chọn "người chỉ định sống sót" trong dịp này. "Không cần người chỉ định sống sót bởi vì nội các sẽ theo dõi bài diễn văn từ văn phòng riêng hoặc tại nhà, thay vì tham gia trực tiếp", Thư ký báo chí Nhà Trắng Jen Psaki cho hay.
-Theo thông lệ, tất cả nghị sĩ và quan chức nội các đều được mời tham dự sự kiện này. Tuy nhiên, năm nay, thành phần tham gia sự kiện đã được giới hạn lại nhằm phòng dịch Covid-19. Trong số 15 bộ trưởng nội các của ông Biden, chỉ có 2 bộ trưởng tham gia gồm Ngoại trưởng Antony Blinken, Bộ trưởng Quốc phòng Lloyd Austin. Ngoài ra, Phó tổng thống Kamala Harris, Chánh án Tòa án Tối cao John Roberts, Đệ nhất phu nhân Jill Biden, Đệ nhị phu quân Douglas Emhoff cũng tham dự.
-Hai người được quy định là trở thành tổng thống tạm quyền khi Tổng thống Biden vì lý do nào đó không thể đảm nhiệm vai trò điều hành, gồm Chủ tịch Hạ viện Nancy Pelosi, Chủ tịch Thượng viện Patrick Leahy cũng đều sẽ có mặt tại sự kiện. Nếu Bộ trưởng Tài chính Janet Yellen không tham dự, bà sẽ trở thành thành viên nội các cấp cao nhất trong danh sách "kế nhiệm" tạm thời vắng mặt.
-Thông thường, các tổng thống Mỹ sẽ chọn một quan chức cấp cao làm "người chỉ định sống sót" vào mỗi dịp quan trọng đòi hỏi sự tham gia của hầu hết quan chức chính phủ như lễ nhậm chức của tổng thống hay ngày tổng thống đọc thông điệp liên bang.
-Danh tính người chỉ định sống sót được giữ kín đến phút chót và người này sẽ được đưa đến một địa điểm bí mật, đề phòng trường hợp xảy ra một vụ tấn công hay thảm họa. Người chỉ định sống sót có thể đảm nhiệm thay vai trò của tổng thống trong trường hợp tổng thống không thể thực hiện các vai trò đó.
-Minh PhươngTheo Politico
+# url = https://dantri.com.vn/the-gioi/ong-bush-tiet-lo-nguoi-duoc-ong-viet-ten-trong-phieu-bau-tong-thong-2020-20210423142131414.htm
+# date = 20210423
+Trả lời phỏng vấn tạp chí People, cựu tổng thống Mỹ George W. Bush cho biết, ông đã viết tên ủng hộ cựu ngoại trưởng Condoleezza Rice trong phiếu bầu tổng thống Mỹ 2020 hồi tháng 11 năm ngoái, mà không phải ông Joe Biden - ứng viên đắc cử sau đó hay ông Donald Trump - người vừa mãn nhiệm tổng thống hồi tháng 1.
+Ông Bush đã nói cho bà Rice biết điều này. "Bà ấy có biết, nhưng bà ấy nói với tôi rằng sẽ từ chối nhận chức vụ đó". Bà Rice (66 tuổi) là ngoại trưởng Mỹ trong nhiệm kỳ thứ hai của ông Bush. Thời điểm đó, bà trở thành phụ nữ gốc Phi đầu tiên có chức vụ cao nhất trong chính phủ Mỹ. Trước đó, bà từng phục vụ trong chính quyền của Tổng thống George H. W. Bush (Bush cha).
+Ở cương vị ngoại trưởng, bà Rice đã nỗ lực cải tổ và tái cấu trúc bộ máy của Bộ ngoại giao Mỹ và công du tới 70 quốc gia. Ngoài tiếng Anh, bà Rice có thể nói tiếng Nga, tiếng Đức, tiếng Pháp, và tiếng Tây Ban Nha. Tạp chí Forbes đã hai lần bầu chọn bà là người phụ nữ quyền lực nhất thế giới. Khi kết thúc nhiệm kỳ vào năm 2009, bà tuyên bố không có ý định tranh cử tổng thống.
+Minh PhươngTheo The Hill

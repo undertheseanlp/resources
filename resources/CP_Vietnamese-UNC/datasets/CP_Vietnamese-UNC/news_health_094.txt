@@ -1,16 +1,22 @@
 # doc_id = news_health_094
-# url = https://dantri.com.vn/suc-khoe/cuu-song-benh-nhan-nhoi-mau-co-tim-cap-gay-bien-chung-ho-van-tim-hai-la-cap-20210419201921823.htm
-# date = 20210419
-Trước đó, vào lúc 21h13 ngày 10/4, ông T. được Bệnh viện đa khoa Quảng Ngãi chuyển cấp cứu đến Bệnh viện Đà Nẵng trong tình trạng suy hô hấp, trụy tim mạch.
-Tại phòng Cấp cứu - Bệnh viện Đà Nẵng, bệnh nhân được cấp cứu hồi sức tim phổi. Sau khi làm các xét nghiệm, bệnh được chẩn đoán nhồi máu cơ tim cấp, biến chứng hở van tim 2 lá cấp, phù phổi cấp, trụy tim mạch.
-Mặc dù được điều trị hồi sức nội khoa tích cực nhưng sau 24 giờ tình trạng huyết động và hô hấp của người bệnh vẫn xu hướng xấu dần. Vì vậy bệnh được hội chẩn và chỉ định mổ cấp cứu.
-Hiện tại, tình trạng bệnh nhân T. đang tiến triển tốt.
-Ekip phẫu thuật và hồi sức gồm khoa Ngoại tim mạch, Gây mê hồi sức và Hồi sức tích cực - chống độc đã tiến hành mổ bắc cầu động mạch chủ vành và thay van tim 2 lá nhân tạo cho bệnh nhân.
-Ngay sau mổ, dù chức năng tim được đánh giá trong giới hạn bình thường nhưng tình trạng phổi của người bệnh tiến triển nặng, đông đặc hai bên, giảm oxy hóa máu nặng kèm liệt mạch, phải dùng các loại thuốc vận mạch liều tối đa.
-Bệnh nhân không đáp ứng với các biện pháp điều trị nội khoa thở máy, lọc máu hấp phụ, vận mạch... Do đó bệnh nhân tiếp tục được chỉ định thực hiện VV-ECMO (ECMO phổi) và lọc máu liên tục.
-Sau mổ 3 ngày, phổi bệnh nhân bắt đầu phục hồi hoạt động nên đã được kết thúc ECMO và ngừng lọc máu. Hiện tại, tình trạng bệnh nhân đang tiến triển tốt dần. Bệnh tỉnh táo, huyết động ổn định, tiếp xúc tốt.
-BS.CK2 Nguyễn Minh Hải, Trưởng khoa Ngoại Tim mạch (Bệnh viện Đà Nẵng) cho biết, đây là trường hợp nhồi máu cơ tim cấp gây biến chứng hoại tử đứt cơ nhú, làm hở van tim 2 lá cấp (biến chứng rất nặng và ít gặp của nhồi máu cơ tim cấp) khiến bệnh nhân rơi vào tình trạng choáng tim nặng, nguy cơ tử vong cao.
-Để cứu sống bệnh nhân cần phải kết hợp chặt chẽ giữa phẫu thuật sửa chữa triệt để các tổn thương tại tim (bắc cầu động mạch chủ vành, thay hoặc sửa van tim 2 lá) và thực hiện kỹ thuật hồi sức chuyên sâu (ECMO, lọc máu…).
-Theo bác sĩ Hải, nhồi máu cơ tim cấp là một trong những bệnh cảnh nguy hiểm của hệ tim mạch với nguy cơ đột tử cao. Việc phát hiện và cấp cứu kịp thời sẽ giúp người bệnh hạn chế tối đa được các biến chứng xảy ra sau nhồi máu cũng như nguy cơ tử vong. Vì thế, người bệnh cần đến ngay cơ sở y tế khi có các dấu hiệu bất thường như đột ngột khó thở, đau tức ngực...
-Bên cạnh đó, việc phòng bệnh có vai trò hết sức quan trọng. Mọi người nên có lối sống lành mạnh, không hút thuốc lá, hạn chế rượu bia, ăn uống điều độ, tập thể dục thường xuyên, kiểm tra sức khỏe định kỳ để theo dõi, phát hiện kịp thời các biểu hiện bất thường…
-Khánh Hồng
+# url = https://dantri.com.vn/suc-khoe/da-nang-28-truong-hop-f-1-cua-ca-mac-covid-19-o-ha-nam-da-am-tinh-20210430123644693.htm
+# date = 20210430
+Ngày 30/4, Trung tâm Kiểm soát bệnh tật (CDC) TP Đà Nẵng cho biết liên quan đến ca bệnh 2899 ở Hà Nam, Đà Nẵng đã rà soát và lấy mẫu xét nghiệm đối với 29 F1.
+Trong đó, CDC TP Đà Nẵng thực hiện lấy mẫu cho 28 trường hợp, 1 người còn lại được Bệnh viện 199 - Bộ Công an lấy mẫu.
+Mẫu xét nghiệm của 28 F1 do CDC Đà Nẵng thực hiện đã có kết quả âm tính với SARS-CoV-2. Còn mẫu xét nghiệm của 1 F1 tại Bệnh viện 199 hiện chưa có kết quả.
+Ngành y tế Đà Nẵng đã lấy mẫu xét nghiệm 29 trường hợp F1 của ca mắc Covid-19 ở Hà Nam, kết quả đã có 28 trường hợp âm tính với SARS-CoV-2, trường hợp còn lại chưa có kết quả.
+Hiện Trung tâm Kiểm soát bệnh tật TP Đà Nẵng đang tiếp tục rà soát, điều tra các trường hợp tiếp xúc gần với bệnh nhân mắc Covid-19 tại Hà Nam để áp dụng các biện pháp can thiệp y tế phù hợp.
+Trước đó, bệnh nhân N.V.Đ (SN 1993, trú tỉnh Hà Nam) từ Nhật Bản nhập cảnh đến Đà Nẵng ngày 7/4 và cách ly tập trung 14 ngày tại khách sạn Alisia. Kết quả xét nghiệm 3 lần vào các ngày 8, 12 và 21/4 của anh Đ. đều âm tính.
+Ngày 22/4, bệnh nhân trở về Hà Nam bằng xe ô tô. Đến ngày 24/4, bệnh nhân xuất hiện ho sốt, đau họng, được cơ quan chức năng đến lấy mẫu, điều tra dịch tễ.
+Kết quả xét nghiệm khẳng định bệnh nhân dương tính với SARS-CoV-2.
+Phú Quốc chuẩn bị tiêm vắc xin phòng Covid-19 cho gần 1.500 người
+Theo kế hoạch,đợt đầu tiên Kiên Giang sẽ có 1.489 người được tiêm vắc xin phòng Covid-19 tại 12 điểm tiêm, bắt đầu từ ngày 2/5 đến ngày 5/5. Riêng tại điểm tiêm tại đại đội pháo 37 sẽ tổ chức tiêm trong 2 ngày 4 và 5/5.
+Những người được tiêm đợt này thuộc lực lượng tuyến đầu phòng dịch làm việc trong các cơ sở y tế; nhân viên, cán bộ hải quan, cán bộ làm công tác xuất nhập cảnh, sân bay; thành viên ban chỉ đạo phòng chống dịch các cấp, làm việc ở các khu cách ly, tình nguyện viên, phóng viên,giáo viên, người làm việc tại các cơ sở giáo dục, người làm việc tại các cơ quan thường xuyên tiếp xúc với nhiều người.
+Theo kế hoạch từ 2/5-5/5, Phú Quốc sẽ tiêm vắc xin phòng Covid-9 cho gần 1.500 người.
+Riêng với đối tượng là giáo viên, sẽ tổ chức tiêm vắc xin phòng Covid-19 cho 3 trường THPT trên địa bàn và giáo viên các trường THCS Dương Đông 1 và THCS Dương Đông 2. Ngoài ra, đối với các trường THCS An Thới 1, TH-THCS An Thới 2 sẽ tiêm dự phòng nếu còn vắc xin.
+Cũng theo kế hoạch, Phú Quốc sẽ bố trí 12 điểm tiêm, bắt đầu từ 2/5 - 5/5. Riêng điểm tiêm tại đại đội pháo 37 sẽ tổ chức tiêm trong 2 ngày (4-5/5).
+Do Phú Quốc là điểm đến lí tưởng của du khách trong và ngoài nước nên UBND tỉnh Kiên Giang có tờ trình xin Chính phủ hỗ trợ để Kiên Giang mua vắc xin tiêm phòng cho tất cả cư dân trên đảo Phú Quốc.
+Theo bác sĩ Lê Công Lĩnh, Giám đốc Trung tâm Y tế TP. Phú Quốc cho biết, trước khi tiêm ngừa vắc xin phòng Covid-19, các trường hợp được tiêm sẽ được nhân viên y tế tổ chức thăm khám. Người nào đủ tiêu chuẩn sẽ được tiêm ngừa, sau đó sẽ được theo dõi khoảng 30 phút. Nếu tình hình sức khỏe ổn định sẽ cho về nhà và tiếp tục theo dõi trong vòng 24 giờ. Sau khi tiêm ngừa khoảng 4 đến 12 tuần sẽ tiếp tục tiêm mũi thứ 2.
+Trước đó, UBND tỉnh Kiên Giang đã có tờ trình gửi Thủ tướng Chính phủ, các bộ, ngành liên quan hỗ trợ Kiên Giang mua vắc xin phòng Covid-19 để tiêm ngừa cho tất cả cư dân trên đảo Phú Quốc.
+Lý do, Kiên Giang có đề xuất này là vì TP. Phú Quốc là trung tâm du lịch của cả nước, là điểm đến lý tưởng của khách quốc tế. Do đó, khi cư dân Phú Quốc được tiêm vắc xin phòng Covid-19 sẽ sẵn sàng đón khách du lịch theo tour khép kín.
+Khánh Hồng - Nguyễn Hành

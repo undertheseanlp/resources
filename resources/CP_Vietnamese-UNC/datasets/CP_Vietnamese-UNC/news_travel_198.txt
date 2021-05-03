@@ -1,14 +1,45 @@
 # doc_id = news_travel_198
-# url = https://dantri.com.vn/du-lich/phong-la-do-tu-ky-vong-dep-nhu-troi-au-den-canh-cui-kho-giua-ha-noi-20210406091458830.htm
-# date = 20210406
-Năm 2018, hơn 260 cây phong được trồng thử nghiệm trên 2 tuyến đường Trần Duy Hưng và Nguyễn Chí Thanh ở Hà Nội. Hàng cây phong lá đỏ từng được kỳ vọng sẽ giúp tuyến đường này trở nên lãng mạn, đẹp nhất Thủ đô. (Ảnh: Toàn Vũ).
-Các chuyên gia cây xanh cũng cho rằng, cây phong lá đỏ sẽ thay lá vào mùa đông và sinh trưởng tốt vào mùa hè, đem màu sắc của châu Âu đến vùng nhiệt đới, tạo ra điểm nhấn du lịch ấn tượng cho Hà Nội. (Ảnh: Toàn Vũ).
-Hàng cây phong lá đỏ được trồng ở giữa dải phân cách của tuyến đường, trong đó mỗi cây cách nhau khoảng 3m. Trong năm đầu tiên trồng thử nghiệm, cây phát triển khá tốt. (Ảnh chụp vào tháng 10/2018).
-Vào khoảng thời gian chuyển mùa từ thu sang đông, nhiều cây phong bắt đầu chuyển màu lá xanh sang đỏ. (Ảnh chụp vào tháng 10/2018).
-Tuy nhiên chỉ một thời gian sau đó, hàng cây phong lá đỏ phát triển chậm chạp, liên tục có dấu hiệu khô héo, trơ trụi. Ảnh chụp vào tháng 9/2019. (Ảnh: Trần Thanh).
-Hàng cây phong chưa kịp chuyển đỏ, lá đã khô héo. Ảnh chụp vào tháng 9/2019. (Ảnh: Trần Thanh).
-Nhìn từ xa các gốc phong còi cọc, trơ trụi như những cành củi khô. Sự thiếu sức sống của hàng cây khiến nhiều người hiểu lầm, cây đã chết. (Ảnh: Toàn Vũ).
-Hàng cây trơ trụi lá giữa đường phố dù thảm thực vật bên dưới vẫn xanh tươi tốt. (Ảnh: Toàn Vũ).
-Đến nay sau 2 năm trồng thử nghiệm, hàng cây phong lá đỏ liên tục có dấu hiệu khô héo, lá xác xơ. Ảnh chụp tháng 4/2021. (Ảnh: Toàn Vũ).
-Mới đây, Phó chủ tịch UBND TP Hà Nội Dương Đức Tuấn đã đồng ý với đề xuất thay thế toàn bộ cây phong lá đỏ trên đường Nguyễn Chí Thanh và Trần Duy Hưng. Như vậy, sau bao kỳ vọng, hàng cây này đã chính thức bị khai tử. Việc trồng cây thay thế sẽ được thực hiện trong tháng 4/2021 và hoàn thành trước dịp nghỉ lễ 30-4 và 1-5. (Ảnh: Toàn Vũ).
-Hiệp Nguyễn
+# url = https://dantri.com.vn/du-lich/quan-banh-my-bao-thu-thoi-bao-cap-moi-buoi-sang-het-bay-400-cai-20210330161002048.htm
+# date = 20210330
+Lạ đời: Hàng bánh mì phố cổ giá chỉ 10 ngàn đồng
+Bánh mì là món ăn phổ biến đến mức, ở bất cứ góc phố, lề đường nào của Việt Nam, thực khách cũng có thể tìm mua.
+Để tăng sức cạnh tranh, thu hút khách hàng, nhiều quán bánh mì không ngừng sáng tạo "làm mới" mình từ ngoại hình: nào là bánh mì than đen, bánh mì thanh long, bánh mì cá sấu, bánh mì khổng lồ... đến phần nhân bánh mì: gà xé, phô mai, trứng muối...
+Ấy vậy mà có một quán bánh mì ở phố cổ Hà Nội lại vô cùng "bảo thủ", suốt hơn 40 năm vẫn giữ hương vị ban đầu - hương vị của bánh mì thời bao cấp với nhân pa-tê, thịt quay, xúc xích đỏ, ruốc bông cùng nước sốt ớt.
+Hương vị chẳng đổi thay mà quán vẫn đông khách nườm nượp. Có người ăn gần như đủ 7 bữa sáng trong tuầntại quán mà vẫn không thấy chán.
+Quán bánh mì "bảo thủ" ấy nằm ở phố Hàng Gai, chỗ giáp với phố Tô Tịch.
+Tiệm bánh mì Hàng Gai bắt đầu bán từ năm 1979, tính đến nay đã 42 năm tuổi, nếu tính về gia truyền đã sang đời thứ 2. Gọi là hàng cho sang vậy thôi, chứ thực ra cả "gia tài" của quán gói gọn trong một tủ kính nhỏ, một cái lò nướng tự chế, dăm ba chiếc ghế nhựa. Thậm chí, quán bánh mì này còn chẳng có biển tên.
+Sáng nào, quán bánh mì này cũng chật cứng khách hàng.
+Người duy trì quán bánh mì hiện tại là chị Linh - con dâu của gia đình chủ quán. Vào giờ cao điểm bán hàng, tay chị lúc nào cũng thoăn thoắt cắt bánh, thêm nhân để kịp bán cho thực khách đang chờ.
+Phóng viên có mặt tại đây vào lúc 7h sáng - thời gian đông khách nhất trong ngày. Chị Linh và hai người bán phụ tất bật làm bánh, gói bánh rồi trả khách mà người chờ vẫn kín cả quán.
+Người vội đi làm, người vội đi học nhưng kì lạ là không ai giục giã. Có lẽ họ cũng đã quen với cảnh này. Và cũng chẳng nỡ giục, vì cô chủ cứ thoăn thoắt làm "không kịp thở" mà vẫn niềm nở hỏi han khách. Có nhiều khách mới tới đỗ xe, chẳng cần nói ăn ra sao chị đã nhớ nằm lòng.
+"Vẫn như cũ chứ em?"
+"Bỏ ớt à chị ơi?"
+"Anh đẹp trai này ăn đầy đủ, nhiều ớt nhé"
+Bà chủ trẻ "nhớ dai" thế đấy.
+"Không nhớ cũng không được vì ngày nào họ cũng ăn ở đây, có khi quanh năm chỉ đổi món khác vài lần", chị Linh bảo.
+Quán vỉa hè nho nhỏ, đơn sơ, chật chội. Ấy thế mà khách vẫn "nghiện".
+Khách đứng xung quanh chờ bánh mì.
+Chị Linh bảo, các nguyên liệu tạo nên chiếc bánh mì, rồi hương vị từng loại nhân của quán từ khi mẹ chồng chị mở bán thế nào, đến đời chị khi được trao truyền lại vẫn giữ nguyên như thế.
+Chiếc bánh mì Hàng Gai đúng vị Hà Nội, thiên về vị mặn, ngậy, xốp, giòn. Đấy là khẩu vị mà suốt ngần ấy năm mẹ chồng chị lúc sinh thời, và chị bây giờ vẫn không muốn đổi. Và cũng là cái hương vị nhiều vị khách không muốn quên.
+"Bánh mì vị "Hà Nội xưa" là thế, không thêm các loại sốt hay rau củ gì cả. Nếu cho vào, chiếc bánh mì sẽ lệch vị không còn là bánh mì vị xưa nữa.
+Nhiều khách hàng trẻ tuổi hỏi tại sao không cho thêm dưa chuột hay rau bắp cải vào ăn sẽ ngon hơn, nhưng mình vẫn giữ nguyên như vậy không thay đổi. Chính vì thế đa phần khách của tôi là những người ngoài 30 hoặc người lớn tuổi thích hoài cổ", chị Linh chia sẻ.
+Chiếc bánh mì bao cấp ở quán chị Linh.
+Cái ngon của bánh mì phố Hàng Gai là phần nhân đều do tự gia đình làm trừ bơ. Bánh mì giòn rụm kết hợp hoàn hảo với vị ngon của thịt xá xíu nửa nạc nửa mỡ, của xúc xích đỏ dai giòn, pa-tê mềm xốp và thơm lừng.
+Màu nâu hồng của pa-tê, cả cái lớp mỡ trắng dẻo quánh, chạm vào lưỡi là tan nổi bật trên ruột bánh mì vừa mềm xốp vừa không quá đặc. Đó là đặc trưng của quán, ai đã ăn rồi là dù đi xa về gần cũng đều đến thưởng thức. Cũng vì tự làm nên bao năm nay, giá bánh mì vẫn vậy, chỉ đúng 10.000 đồng.
+Chỉ mở vài tiếng buổi sáng mà chị Linh bán hết 400 - 500 chiếc/ngày.
+Hương vị 40 năm không đổi thay, quyết trung thành với bí quyết mẹ chồng truyền lại
+Quán được mẹ chồng chị Linh mở cửa từ năm 1979. Đến năm 2007, chị Linh về làm dâu, được bà truyền cho công thức. Mới đầu, chị chỉ phụ bếp nấu nướng, theo bà lên phố ngồi thái thịt, mãi đến 2015 mới tự mình bán.
+Khách sẵn lòng xếp hàng chờ bánh dù lúc rất vội.
+Đa phần khách tới đây đều là khách quen lâu năm.
+Nhiều năm nay, nhà chị Linh chỉ chọn thịt làm nhân bánh từ những nhà dân nuôi đàn nhỏ lẻ, không phải là lợn nuôi trang trại công nghiệp. Sáng sớm, mối thịt ở khu vực Mỹ Đức (Hà Nội) sẽ mang sang cho chị từng miếng thịt, bộ gan, bì… được tuyển lựa theo yêu cầu.
+Bánh mì cũng phải đặt riêng để lò làm cho những mẻ bánh từ bột chọn lọc, vỏ giòn, ruột đặc mà xốp, được nướng bằng lò tự chế để bánh giòn mà không bị chai, phồng, cũng không bị ép xẹp lép như dùng máy kẹp.
+Các nguyên liệu làm nhân bánh đều được gia đình chọn lọc kĩ càng.
+Bánh mì được đặt làm riêng.
+Pa-tê chỉ làm bằng gan và thịt. Bí quyết duy nhất đó là cho nhiều hành khô được phi vàng giòn bằng mỡ gà. Láng mỏng một lớp mỡ khổ dày lót mặt khuôn, pa-tê xay đổ lên trên rồi đem hấp cách thủy liên tục 6 tiếng.
+Chị Linh nghỉ bán hàng về là chuẩn bị xay pa-tê cho kịp lên bếp lúc 1h30 chiều. Đến tối pa-tê vừa chín, sau đó được bỏ ra chờ nguội.
+Thịt xíu, chị cũng phải để ý phần thịt - mỡ cân đối nhau, phải tẩm ướp, hấp rồi mới đem rán cho chảy bớt mỡ. Tương ớt dầu, có váng mỏng li ti trên mặt cũng được chế lại để không quá cay xộc như tương ớt phở.
+Với mức giá 10.000 đồng, mọi tầng lớp đều có thể ăn bánh mì nhà chị, từ người lao động cho tới nhân viên văn phòng.
+Xúc xích đỏ, chị Linh mất khoảng hơn 10 tiếng mới làm ra thành phẩm. Đầu tiên là luộc thịt và bì, sau đó đem xay cùng bột và màu hoa hiên, hấp cho nhừ rồi đem ra nhào nặn cho thật mịn. Cuối cùng là để đông lạnh 5 - 6 tiếng trước khi thái máy.
+Hàng ngày chị Linh phải dậy từ 3h30 sáng để chuẩn bị hàng 6h30 bán đến 10h30 sáng là nghỉ. Mỗi ngày bán hàng là một niềm vui đối với chị Linh.
+Với mức giá 10.000 đồng, mọi tầng lớp đều có thể ăn bánh mì nhà chị, từ người lao động cho tới nhân viên văn phòng. Với chị Linh, dù mọi thứ đều thay đổi theo thời gian nhưng công thức làm bánh mì mẹ chồng để lại, chị vẫn một mực giữ tới cùng để phục vụ những chiếc bánh mì ngon cho thực khách tới ăn.
+Toàn Vũ

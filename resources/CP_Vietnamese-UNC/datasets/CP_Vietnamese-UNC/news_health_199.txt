@@ -1,14 +1,13 @@
 # doc_id = news_health_199
-# url = https://dantri.com.vn/suc-khoe/quang-ninh-truy-vet-cach-ly-18-nguoi-co-lien-quan-den-ca-benh-o-ha-nam-20210501070639459.htm
-# date = 20210501
-Cơ quan y tế lấy mẫu xét nghiệm những người có liên quan đến ca bệnh ở Hà Nam.
-Theo đó, F1 được xác định là ông T.T.T. (SN 1973, quê ở Hà Nam), là thuyền viên thuộc một công ty có địa chỉ tại TP Cẩm Phả, tỉnh Quảng Ninh. Ông T. được xác định đã tiếp xúc gần với ca bệnh 2889 khi nghỉ phép về quê ở Hà Nam vào ngày 21/4.
-Theo lịch trình, ngày 25/4 ông T. đi xe khách từ quê ra TP Hạ Long, tỉnh Quảng Ninh rồi thuê thuyền máy chở ra nơi tàu ông T. đang làm việc neo đậu.
-Từ 25/ 4 đến 27/4, ông T. không đi đâu, ăn nghỉ tại tàu và tiếp xúc gần với 13 người.
-Từ ngày 27/4 đến ngày 29/4, tàu của ông T. làm việc di chuyển đến Cẩm Phả (neo đậu tại khu vực Con Ong- Hòn Nét). Tại đây ông T. có tiếp xúc gần với khoảng 10 người làm việc tại một số tàu khác thuộc công ty (không nhớ cụ thể).
-Ngày 29/4, ông T. biết thông tin về ca bệnh 2899.
-Sáng ngày 30/4, ông T. từ tàu vào khai báo y tế tại Bệnh viện Đa khoa Cẩm Phả và đề nghị được xét nghiệm Covid-19. Tại đây ông T. được nhân viên ở vị trị đón tiếp bệnh nhân hướng dẫn đến Bệnh viện Đa khoa tỉnh khai báo để được xét nghiệm.
-Khoảng 8h sáng cùng ngày 30/4, ông T. lên xe buýt tuyến Mông Dương- Bãi Cháy đến Bệnh viện Đa khoa tỉnh để xét nghiệm Covid-19 (trên xe buýt có nhiều người không biết tên, các hành khách có thực hiện đeo khẩu trang).
-Tiếp nhận thông tin vụ việc, UBND TP Cẩm Phả đã tổ chức khoanh vùng, truy vết khẩn cấp các trường hợp có liên quan.
-Hiện 17 trường hợp F2 đã được đưa đi cách ly. Về phía ông T., kết quả xét nghiệm cho thấy âm tính lần 1 với SaRS-CoV-2.
-An Nhiên
+# url = https://dantri.com.vn/suc-khoe/quang-tri-cach-ly-3-truong-hop-f-1-tiep-xuc-voi-nguoi-mac-covid-19-20210426163838273.htm
+# date = 20210426
+Ngày 26/4, lãnh đạo Sở Y tế tỉnh Quảng Trị xác nhận, đã tiến hành lấy mẫu xét nghiệm đối với 3 người đàn ông tiếp xúc với 1 người nhiễm Covid-19 và đưa đi cách ly tập trung tại Trường Cao đẳng kỹ thuật.
+Trước đó, vào ngày 21/4, 3 người đàn ông quê ở tỉnh Quảng Trị tiếp xúc gần với 1 trường hợp mắc Covid-19 tại cột mốc số 0 khu vực Cửa khẩu quốc tế La Lay (huyện Đakrông, tỉnh Quảng Trị).
+Ba trường hợp tiếp xúc với ca mắc Covid-19 đã được cách ly. Ảnh minh họa.
+Theo thông tin từ cơ quan chức năng: Trường hợp đầu tiên là ông Nguyễn H. (35 tuổi, trú tại thị trấn Bến Quan, huyện Vĩnh Linh, tỉnh Quảng Trị), làm nghề lái xe.
+Vào 13h ngày 21/4, sau khi tiếp xúc với người đàn ông nhiễm Covid-19 ở cột mốc số 0 thì ông H về ngủ trên xe, tiếp xúc với tổ lái xe.
+Đến 19h ngày 22/4, ông H. lái xe từ Cửa khẩu quốc tế La Lay về đến Khu Công nghiệp Nam Đông Hà (TP Đông Hà, tỉnh Quảng Trị), ngủ lại trên xe. Đến 6h ngày 23/4 thì về nhà riêng và tiếp xúc với 4 người nhà…
+Đến ngày 25/4, ông H cùng 2 người đàn ông trú tại TP Đông Hà từng tiếp xúc với người nhiễm Covid-19 ở cột mốc số 0 được lấy mẫu xét nghiệm Covid-19 và cách ly tập trung tại Trường cao đẳng kỹ thuật Quảng Trị.
+Theo lãnh đạo Sở Y tế, 3 người này không có triệu chứng sốt, ho, khó thở, đã được lấy mẫu xét nghiệm và cách ly tập trung.
+Ngoài 3 trường hợp trên, những người tiếp xúc gần với 3 người đàn ông nói trên tự cách ly tại nhà.
+Đăng Đức

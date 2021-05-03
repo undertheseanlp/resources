@@ -1,13 +1,24 @@
 # doc_id = news_entertainment_139
-# url = https://dantri.com.vn/giai-tri/kim-kardashian-tich-cuc-tung-anh-goi-cam-sau-khi-len-chuc-ty-phu-20210417145621518.htm
-# date = 20210417
-Kim Kardashian tung loạt ảnh mới quảng cáo cho sản phẩm nước hoa do cô thiết kế. Người đẹp 41 tuổi cho biết, cô dồn nhiều tâm sức cho sản phẩm nước hoa mới nhất của mình
-Kim Kardashian kinh doanh mỹ phẩm, thời trang trong vài năm nay và nhanh chóng trở thành nữ doanh nhân thành đạt. Mới đây tạp chí Forbes đã đưa tên Kim Kardashian vào danh sách các tỷ phú
-Forbes ước chừng khối tài sản của Kim Kardashian ở mức 1 tỷ USD trong khi đó, khi trả lời phỏng vấn, Kim Kardashian tự tin tuyên bố, công ty thời trang của cô được định giá 1,6 tỷ USD
-Kim Kardashian sở hữu lượng fans khủng và cô có nhiều thuận lợi khi kinh doanh thời trang và mỹ phẩm. Người đẹp "siêu vòng ba" tự đảm nhiệm vai trò người mẫu trong các chiến dịch quảng cáo lớn của mình
-Kim Kardashian khoe thân hình "đồng hồ cát" quảng cáo cho những mẫu thời trang dành cho mùa hè năm 2021 từ bộ sưu tập mới của cô
-Người đẹp bốn con dồn sức cho công việc sau khi đệ đơn xin ly dị chồng Kanye West lên tòa án vào giữa tháng 2 vừa qua. Cặp đôi đang cố gắng hoàn tất thủ tục ly dị một cách nhanh nhất có thể
-Theo thông tin mới từ tòa án, Kanye West yêu cầu quyền giám hộ chung về mặt pháp lý và thể chất đối với 4 đứa con của anh và Kim là bé North, 7 tuổi, Saint, 5 tuổi, Chicago, 3 tuổi và Psalm, 1 tuổi. Kim có đề nghị tương tự trong đơn xin ly dị của mình
-Cả Kim và Kanye đều không yêu cầu sự hỗ trợ về tài chính từ "người cũ" của mình. Cặp đôi đều sở hữu khối tài sản hơn 1 tỷ USD và thuộc top "sao" siêu giàu tại Mỹ.
-Vĩnh Ngọc
-Theo Ins
+# url = https://dantri.com.vn/giai-tri/kinh-do-dien-anh-bollywood-quay-cuong-trong-con-dai-dich-covid-19-20210425132728289.htm
+# date = 20210425
+Đại dịch Covid-19 đang tàn phá quốc gia Ấn Độ khi số người chết của quốc gia châu Á này cùng số người nhập viện ngày một tăng cao. Nhiều ngôi sao của Ấn Độ cũng đang trải qua giai đoạn khó khăn nhất trong cuộc đời họ.
+"Những diễn viên nuôi khao khát trở thành minh tinh màn bạc giờ chỉ còn biết ở nhà vặn ngón tay, suy nghĩ về cuộc đời", tờ India Times nói về tình trạng của những nghệ sĩ tại Ấn Độ khi đại dịch Covid-19 tấn công quốc gia này vào năm ngoái.
+ca sĩ Kanika Kapoor là người nổi tiếng đầu tiên ở Bollywood mắc Covid-19 vào tháng 3/2020.
+Tháng 3/2020, ca sĩ Kanika Kapoor là người nổi tiếng đầu tiên ở Bollywood mắc Covid-19. Sau đó, nhiều cái tên có tiếng trong giới giải trí Ấn Độ như Neil Nitin Mukesh, Manish Malhotra, Katrina Kaif, Akshay Kumar, Govinda, Paresh Rawal, Alia Bhatt… đều có kết quả dương tính với virus Corona. Arjun Rampal và Neil Nitin Mukesh là hai trong số những sao Bollywood mới nhất được xác nhận dương tính với Covid-19.
+Điện ảnh là ngành bị ảnh hưởng nặng nề từ đại dịch Covid-19 ở Ấn Độ. Các bộ phim bị hoãn quay vô thời hạn, nhiều tác phẩm không thể ra rạp, các diễn viên không có khoản thu nhập và tha thiết kêu gọi sự giúp đỡ của chính phủ trước nguy cơ "chết đói".
+Trong đợt lây nhiễm mới nhất, số ca dương tính với Covid-19 tại Bollywood liên tục tăng mạnh, tỉ lệ thuận với mức độ lây nhiễm của cả nước. Từ giữa tháng 3 đến nay, hàng loạt nhân viên trong ngành, nghệ sĩ liên tục được phát hiện nhiễm Covid-19. Nhiều người trong số họ đã bình phục trong khi một số vẫn đang phải chiến đấu với virus chết người này.
+Các diễn viên, đạo diễn và nhân viên liên quan tới ngành công nghiệp điện ảnh của Ấn Độ là những người chịu ảnh hưởng nặng nề nhất của dịch Covid-19 suốt hơn một năm qua.
+Ngoài các nghệ sĩ, những nhân viên làm việc trong ngành công nghiệp điện ảnh Ấn Độ như diễn viên quần chúng, nghệ sĩ trang điểm, vũ công, nhân viên kỹ thuật, hỗ trợ trường quay, phụ trách hậu trường… cũng không có thu nhập suốt thời gian qua.
+Ấn Độ đang là một trong những ổ dịch Covid-19 lớn nhất thế giới và ngành y tế của nước này đang phải làm việc quá tải. Trung tuần tháng 4 vừa rồi, chính quyền một số bang tại Ấn Độ đã ban hành lệnh cấm quay phim cũng như các chương trình truyền hình và lệnh này có thời hạn cho đến 1/5. Như vậy, nhiều người làm việc trong ngành công nghiệp điện ảnh đã mất việc và nếu tình hình dịch bệnh không được cải thiện, chuỗi ngày mất việc của họ sẽ còn tiếp tục.
+Kirat Kaur, một diễn viên đang cư trú tại Oshiwara, Mumbai chia sẻ: "Nếu chúng ta không chết vì Covid-19, chúng ta chắc chắn sẽ chết vì trầm cảm. Chúng tôi không kiếm được một xu. Việc phong tỏa đã khiến mọi người kiệt quệ. Không ai đưa ra bất kỳ hỗ trợ tài chính nào hoặc thậm chí giúp đỡ về nhu yếu phẩm. Làm thế nào chúng tôi có thể sống sót đến tháng 5 này?".
+Nam diễn viên Dinesh Kirar đã bỏ việc ở thành phố lớn, về quê Rajasthan để sinh sống vì tin rằng còn lâu ngành công nghiệp điện ảnh Bollywood mới hồi phục.
+Trong hoàn cảnh khó khăn hiện tại, nhiều nghệ sĩ đã phải đưa ra những quyết định để tìm đường sống. Hơn 1 năm qua, nhiều ngôi sao Bollywood chọn cách bỏ thành phố, về quê, chuyển nghề để có thu nhập ổn định hơn. Nhiều người lựa chọn việc về quê và chờ dịch bệnh qua đi.
+Nam diễn viên Romit Sardana đã chọn cách về quê Karnal học tập để trở thành sĩ quan IAS. Anh chia sẻ: "Tôi xuất thân từ gia đình khá giả và từng có bằng luật sư. Tôi quyết định học tập và trở thành nhân viên ở Bộ hành chính Ấn Độ, tạm gác lại ước mơ diễn xuất".
+Trong khi đó, diễn viên Dinesh Kirar, ngôi sao từng xuất hiện trong các bộ phim truyền hình nổi tiếng như Chandrakanta, Hanuman… cũng bỏ việc ở thành phố lớn, về quê Rajasthan để sinh sống. Anh nói với phóng viên: "Còn rất lâu nữa, ngành công nghiệp hoạt động trở lại. Tôi về quê lập trạm dịch vụ rửa xe ô tô để có kinh tế lo cho gia đình".
+Tháng 4/2021, nam diễn viên Kartik Aaryan xác nhận với công chúng rằng, anh đã mắc Covid-19 và phải thực hiện cách ly.
+Một số diễn viên khác lại tận dụng cơ hội dịch bệnh để học tập, trau dồi khả năng diễn xuất. Nicckkie Dudaaney cho biết vừa ghi danh vào lớp học viết kịch bản trực tuyến của trường Đại học bang Michigan. Ông nói: "Tôi làm diễn viên được 16 năm và muốn theo học chúng từ lâu. Đây là cơ hội giúp tôi trải nghiệm".
+Một số khác vẫn tìm cách xoay sở để các sản phẩm điện ảnh của mình tiếp cận khán giả trong giai đoạn dịch bệnh hoành hành. Diễn viên Anmol Dhillon đã sử dụng ứng dụng trực tuyến để các bộ phim của mình vẫn có thể đến với khán giả dù không thể ra rạp trong giai đoạn này. Anh dường như là nghệ sĩ có cái nhìn lạc quan nhất trong tình hình dịch bệnh vì tin rằng, trong mỗi giai đoạn khó khăn, người ta sẽ có thêm những cơ hội mới.
+Với tình trạng dịch bệnh căng thẳng, nhiều ngôi sao Ấn Độ lên tiếng kêu gọi người dân bảo vệ sức khỏe, thực hiện mọi biện pháp để vượt qua dịch Covid-19. Nữ diễn viên Kangana Ranaut chia sẻ hình ảnh bình phục của đồng nghiệp và kêu gọi người hâm mộ, người dân tiêm vaccine để phòng bệnh. Nam diễn viên Riteish Deshmukh cũng kêu gọi người hâm mộ nên mang khẩu trang để bảo vệ sức khỏe trên trang cá nhân với lời nhắn gửi: "Hãy giữ an toàn cho bản thân và những người thân yêu".
+Nữ diễn viên xinh đẹp Tara Sutaria đã xét nghiệm và xác nhận mắc Covid-19 vào tháng 3 vừa rồi. Sau một tuần cách ly và điều trị, cô tiết lộ đã bình phục.
+Mi Vân
+Theo India Express

@@ -1,13 +1,12 @@
 # doc_id = news_sport_174
-# url = https://dantri.com.vn/the-thao/maria-sharapova-tuong-dai-tai-nang-va-xinh-dep-cua-lang-quan-vot-the-gioi-20210418194905031.htm
-# date = 20210418
-Trên thực tế, Maria Sharapova từng được các fans hâm mộ ưu ái gọi với nhiều mỹ danh như "nữ hoàng quần vợt" hay "búp bê Nga". Và lẽ dĩ nhiên, chẳng ai có thể phủ nhận được tài năng phi thường của cựu số 1 thế giới trong giai đoạn đỉnh cao sự nghiệp.
-Bắt đầu bén duyên với quần vợt từ khi mới 14 tuổi, Maria Sharapova nhanh chóng nổi lên như là một trong những tài năng trẻ triển vọng nhất lúc bấy giờ.
-Sau đó, Sharapova còn trở thành tay vợt đầu tiên 5 lần vô địch Grand Slam, trong đó có chức vô địch Mỹ Mở rộng năm 2006, Úc Mở rộng năm 2008, Pháp Mở rộng năm 2012 và 2014. Đặc biệt, Maria Sharapova còn giành được huy chương bạc tại Olympic 2012.
-Tổng cộng, Maria Sharapova đã 36 lần được vinh danh tại các giải đấu Tour Singles. Và đến năm 2005, tay vợt người Nga đã đạt được vị trí số 1 thế giới và duy trì vị thế này trong suốt 21 tuần.
-Đến tháng 2/2019, Maria Sharapova buộc phải nghỉ thi đấu vì một chấn thương vai nghiêm trọng. Và cũng kể từ đây, các chấn thương liên tiếp đã đeo bám dai dẳng "nữ hoàng quần vợt".
-Phong độ của Maria Sharapova cũng vì đó mà suy giảm nhanh chóng. Cuối cùng, tay vợt người Nga đã buộc phải đưa ra quyết định gác vợt giải nghệ.
-Tuy đã chính thức rời xa sân quần vợt nhưng tên tuổi của Maria Sharapova vẫn chưa bao giờ hết "hot" đối với người hâm mộ. Bên cạnh sự nghiệp thi đấu lẫy lừng, "búp bê Nga" còn gây ấn tượng với phong cách thời trang quý phái, xinh đẹp.
-Maria Sharapova giờ không chỉ là một người mẫu, ngôi sao nổi tiếng trên mạng xã hội mà còn tượng đài của bộ môn tennis nữ. Hiện tại, cựu "nữ hoàng quần vợt" có tới 4,1 triệu người theo dõi trên trang Instagram cá nhân.
-Dung Nhi
-Theo TS
+# url = https://dantri.com.vn/the-thao/mbappe-co-nguy-co-vang-mat-o-cuoc-tai-dau-man-city-20210501063744786.htm
+# date = 20210501
+Paris Saint Germain (PSG) đang gặp những khó khăn nhất định về lực lượng khi Kylian Mbappe được thông báo dính chấn thương bắp chân phải và sẽ không thể ra sân ở trận gặp Lens gặp Ligue 1 tối nay.
+Đội bóng nước Pháp từ chối tiết lộ thông tin về mức độ chấn thương nhưng có vẻ như Mbappe cần ít nhất 1 tuần mới có thể tập luyện trở lại.
+Mbappe khó kịp hồi phục cho trận đấu với Man City vào tuần sau.
+Do đó, Mbappe có nguy cơ vắng mặt khi PSG làm khách trên sân Man City ở bán kết lượt về UEFA Champions League ngày 5/5 tới trên sân Etihad.
+Ở trận lượt đi trên sân Công viên các hoàng tử, PSG đã dẫn trước nhờ công Marquinhos nhưng lại thua ngược 1-2 sau các bàn thắng của De Bruyne và Mahrez. Ở trận đấu này, Mbappe chơi khá tệ hại khi bị Ruben Dias kèm chặt.
+Tương lai của Mbappe đang là dấu hỏi khi có thông tin anh sẽ gia nhập Real Madrid vào mùa hè này. Tuy nhiên HLV Pochettino lại khẳng định: "Đó là câu hỏi dành cho Mbappe chứ không phải tôi. Chúng tôi đã thua một trận nhưng còn trận lượt về.
+Những điều kỳ lạ vẫn xảy ra ở Champions League. Chúng tôi còn một tháng để đạt các mục tiêu đã đề ra và vẫn trong cuộc đua.
+Mbappe còn một năm trong hợp đồng. Tôi đã nói điều này rồi, rằng CLB và tôi đang cố gắng hết sức để đảm bảo cậu ấy sẽ ở đây trong nhiều năm. Ban lãnh đạo đang làm việc với Mbappe và hài lòng với chúng tôi".
+Thùy Anh

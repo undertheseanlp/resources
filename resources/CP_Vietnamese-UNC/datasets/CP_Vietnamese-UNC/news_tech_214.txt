@@ -1,25 +1,14 @@
 # doc_id = news_tech_214
-# url = https://dantri.com.vn/suc-manh-so/sony-trinh-lang-loat-smartphone-xperia-moi-cau-hinh-manh-thiet-ke-cu-20210415120417983.htm
-# date = 20210415
-Theo đó, hãng công nghệ Nhật Bản đã chính thức ra mắt 3 mẫu smartphone mới nhắm đến phân khúc cận cao cấp và cao cấp, bao gồm Xperia 1 III, Xperia 5 III và Xperia 10 III.
-Xperia 1 III
-Cũng như các phiên bản tiền nhiệm (Xperia 1, Xperia 1 II), phiên bản Xperia 1 III vẫn nhắm đến phân khúc smartphone cao cấp, với cấu hình mạnh mẽ. Sản phẩm vẫn giữ nguyên phong cách thiết kế OmniBalance đặc trưng trên các smartphone của Sony, với mặt trước và sau của sản phẩm đều bằng kính cường lực, với khung viền bằng kim loại.
-Tuy nhiên, kiểu thiết kế này của Sony hiện bị đánh giá là khá lỗi thời so với các mẫu smartphone khác đang có mặt trên thị trường.
-Sony cũng không tích hợp cảm biến vân tay vào màn hình như phần lớn smartphone khác hiện nay, mà tích hợp cảm biến vân tay vào nút nguồn ở cạnh bên sản phẩm.
-Điểm nhấn ấn tượng nhất của Xperia 1 III vẫn là màn hình siêu nét, với độ phân giải 4K (3840x1644), kết hợp với kích thước 6,5-inch, cho mật độ điểm ảnh lên đến 643ppi. Sản phẩm sở hữu màn hình công nghệ OLED, tần số làm tươi 120Hz, hỗ trợ video HDR với tính năng Creator Mode mà theo Sony sẽ giúp màu sắc hiển thị trên màn hình được tự nhiên hơn.
-Xperia 1 III cũng được trang bị một cấu hình mạnh mẽ, với bộ xử lý Snapdragon 888 cao cấp nhất của Qualcomm, bộ nhớ RAM 12GB, đi kèm tùy chọn bộ nhớ 256GB hoặc 512GB. Đặc biệt, sản phẩm vẫn hỗ trợ khe cắm thẻ nhớ ngoài và giắc cắm tai nghe 3,5mm, là những tính năng đã bị loại bỏ trên nhiều smartphone ngày nay.
-Sản phẩm hỗ trợ mạng 5G, trang bị thỏi pin dung lượng 4.500mAh, hỗ trợ sạc nhanh 30W, cho phép sạc từ 0 lên 50% chỉ sau 30 phút cắm sạc.
-Mặt sau của sản phẩm là cụm 4 camera, được xếp theo một chiều dọc, trong đó bộ 3 camera chính, camera góc rộng và camera tele (hỗ trợ zoom quang học 4,4x) đều có độ phân giải 12 megapixel. Camera thứ 4 là camera ToF hỗ trợ các tính năng 3D và đo độ sâu trường ảnh. Mặt trước của sản phẩm là camera 8 megapixel.
-Hiện Sony vẫn chưa công bố giá bán và ngày ra mắt chính thức của sản phẩm, nhưng nhiều khả năng Xperia 1 III sẽ được bán ra vào mùa hè năm nay.
-Xperia 5 III
-Đây là mẫu smartphone thứ 2 nhắm đến phân khúc cao cấp mà Sony vừa ra mắt. Cũng như phiên bản Xperia 5 II ra mắt vào năm ngoái, sản phẩm vẫn được nhắm đến đối tượng người dùng yêu thích smartphone cỡ nhỏ, khi giữ nguyên kích cỡ màn hình 6,1-inch như phiên bản tiền nhiệm, với độ phân giải Full HD+ (2520x1080), tần số làm tươi 120Hz.
-Xperia 5 III có cấu hình mạnh mẽ, nhưng thấp hơn đôi chút so với Xperia 1 III. Sản phẩm được trang bị chip Snapdragon 888 cao cấp của Qualcomm, bộ nhớ RAM 8GB, đi kèm tùy chọn bộ nhớ 128GB hoặc 256GB. Sản phẩm cũng hỗ trợ khe cắm thẻ nhớ ngoài và giắc cắm phone 3,5mm tương tự như phiên bản Xperia 1 III.
-Mặt sau là cụm 3 camera, được bố trí theo chiều dọc, đều có độ phân giải 12 megapixel. Bên cạnh camera chính còn có camera tele hỗ trợ zoom quang học 4,4x và camera góc rộng. Camera chính và camera tele đều hỗ trợ công nghệ chống rung quang học. Mặt trước là camera 8 megapixel.
-Xperia 5 III hỗ trợ kết nối mạng 5G, trang bị thỏi pin có dung lượng 4.500mAh, sạc nhanh công suất 30W, cho phép sạc pin từ 0 lên 50% chỉ sau 30 phút cắm sạc.
-Hiện mức giá cũng như ngày chính thức bán ra thị trường của Xperia 5 III vẫn chưa được Sony công bố.
-Xperia 10 III
-Cùng với bộ đôi Xperia 1 III và 5 III cao cấp, Sony cũng đã trình làng thêm chiếc smartphone nhắm đến phân khúc tầm trung, Xperia 10 III. Sản phẩm sở hữu kích thước nhỏ gọn, với màn hình chỉ 6-inch, độ phân giải Full HD+ (2520x1080) và sử dụng công nghệ OLED.
-Về cấu hình bên trong, Xperia 10 III được trang bị bộ xử lý Snapdragon 690, đi kèm bộ nhớ RAM 6GB và bộ nhớ lưu trữ 128GB, hỗ trợ khe cắm thẻ nhớ ngoài. Sản phẩm được trang bị thỏi pin có dung lượng 4.500mAh, nâng cấp đáng kể từ thỏi pin 3.600mAh của Xperia 10 II ra mắt năm ngoái.
-Mặt sau của sản phẩm là cụm 3 camera, bao gồm camera chính 12 megapixel, camera góc siêu rộng và camera tele (hỗ trợ zoom quang học 2x) đều có độ phân giải 8 megapixel. Mặt trước của sản phẩm là camera 8 megapixel.
-Xperia 10 III hỗ trợ kết nối mạng 5G, trang bị giắc cắm tai nghe 3,5mm. Sản phẩm sẽ được bán ra vào đầu mùa hè năm nay, với mức giá chưa được tiết lộ.
-T.ThủyTheo PA/GSMA
+# url = https://dantri.com.vn/suc-manh-so/su-dung-fanpage-gia-mao-de-chiem-doat-tai-khoan-vi-mo-mo-20210324215547254.htm
+# date = 20210324
+"Tối 16/3, tôi có nhận được đường link báo trúng thưởng gửi từ trang Facebook có tên Ví MoMo. Sau đó, có số điện thoại gọi đến tự xưng là nhân viên tổng đài MoMo và hướng dẫn tôi đăng nhập đường link đó để xem danh sách trúng thưởng. Tôi tin tưởng đăng nhập theo yêu cầu và cung cấp OTP. Sau đó, tài khoản của tôi đã bị chiếm đoạt", chị Thạch Thảo, sống tại TP.HCM chia sẻ với Dân trí.
+Qua tìm hiểu của Dân trí, trang Facebook gửi tin nhắn đến chị Thảo là trang giả mạo, không phải fanpage chính thức của Ví MoMo.
+Chị Thảo cho biết thêm sau khi chiếm đoạt được tài khoản Ví MoMo, kẻ gian đã thực hiện nạp tiền từ tài khoản ngân hàng liên kết sang ví và đồng thời chuyển sang ví khác. Điều này khiến cho chị bị thất thoát số tiền gần 3,5 triệu đồng.
+Trao đổi với Dân trí, đại diện Ví MoMo khẳng định không có bất cứ nhân viên nào từ công ty yêu cầu người dùng cung cấp OTP.
+"Chúng tôi xin khẳng định sẽ không có bất cứ nhân viên nào từ Ví MoMo yêu cầu người dùng cung cấp mật khẩu hay mã xác thực (OTP) dưới bất kỳ hình thức nào (gọi điện, chat hay yêu cầu gửi hình ảnh). Bất kỳ ai yêu cầu cung cấp 2 thông tin này chắc chắn là lừa đảo. Mật khẩu và mã xác thực (OTP) phải được xem như tài sản. Người dùng tuyệt đối không cung cấp cho bất kỳ ai", ông Nguyễn Bá Diệp Phó Chủ tịch kiêm đồng sáng lập Ví MoMo chia sẻ với Dân trí.
+Trên thực tế, thủ đoạn lừa đảo trên đã xuất hiện từ khá lâu. Theo đó, kẻ gian sẽ tạo ra các trang web giả mạo để lừa người dùng nhằm đánh cắp các thông tin có giá trị, từ đó chiếm đoạt tài khoản.
+Vài năm gần đây, hình thức này ngày càng trở nên phổ biến. Thậm chí, một số nhóm lừa đảo còn đóng giả là người Việt Nam đang ở nước ngoài, đặt mua hàng và đề nghị chuyển tiền trả trước cho người bán thông qua dịch vụ chuyển tiền quốc tế Western Union.
+Đường link lừa đảo yêu cầu người dùng cung cấp các thông tin về tài khoản, mật khẩu cũng như mã xác thực (OTP).
+Nhóm lừa đảo có thể làm giả hóa đơn, chứng từ tiếp nhận tiền của dịch vụ chuyển tiền quốc tế Western Union; chụp ảnh hóa đơn, chứng từ gửi cho bị hại làm nạn nhân nghĩ là bên mua hàng đã thực hiện lệnh chuyển tiền. Đồng thời, những kẻ lừa đảo sẽ chuyển đường link giả mạo website của dịch vụ chuyển tiền quốc tế Western Union qua các ứng dụng Zalo, Facebook... rồi hướng dẫn bị hại đăng nhập vào đường link này.
+Sau khi có được thông tin, nhóm lừa đảo sẽ chuyển tiền từ tài khoản của bị hại vào tài khoản của họ. Để hoàn tất việc trộm tiền trong tài khoản, nhóm lừa đảo sẽ gửi tin nhắn yêu cầu nạn nhân cung cấp mã OTP trên trang web giả. Khi nạn nhân điền mã OTP này để hoàn tất thủ tục nhận tiền trên website giả mạo, việc chiếm đoạt tiền của nhóm lừa đảo cũng đã xong.
+Thế Anh

@@ -1,15 +1,27 @@
 # doc_id = news_health_226
-# url = https://dantri.com.vn/suc-khoe/the-nao-la-giai-doan-som-cua-ung-thu-thuc-quan-20210421064147133.htm
-# date = 20210421
-Các bác sĩ cho biết, bệnh nhân ung thư thực quản nếu được phát hiện sớm khi chỉ có tổn thương tại chỗ sẽ có thể thực hiện các biện pháp điều trị tại chỗ như phẫu thuật hoặc xạ trị, tiên lượng khả quan. Tuy nhiên, nếu ở giai đoạn muộn, ung thư di căn xa thì phải tiến hành điều trị toàn thân và tiên lượng cũng xấu hơn.
-Vậy ung thư thực quản được chia làm mấy giai đoạn, dấu hiệu để phát hiện sớm ung thư thực quản như thế nào?
-Các giai đoạn ung thư thực quản
-Sau khi được chẩn đoán mắc bệnh ung thư thực quản, các bác sĩ sẽ bước vào đánh giá giai đoạn của bệnh ung thư với 4 giai đoạn sau:
--Ung thư thực quản giai đoạn 1: tế bào ung thư nằm ở lớp trên cùng của thành thực quản.
--Ung thư thựcquản giai đoạn 2: là khi tế bào ung thư đã xâm lấn đến tổ chức bạch huyết lân cận, tuy nhiên chưa ảnh hưởng đến các bộ phận khác của cơ thể.
--Ung thư thực quản giai đoạn 3: trong vùng cạnh thực quản, tế bào ung thư đã xâmlấn tổ chức và bạch huyết, ảnh hưởng đến lớp sâu hơn của thành thực quản.
--Ung thư thực quản giai đoạn 4: tế bào ung thư đã xâm lấn đến các bộ phận khác của cơ thể như: gan, phổi, não, xương. Ở giai đoạn này, cần sử dụng các phương pháp y học như: Chụp cắt lớp vi tính, xạ hìnhxương, nội soi phế quản để chẩn đoán bệnh.
-Điều trị ung thư thực quản cần phụ thuộc vào một số yếu tố như: kích thước, sự lan tỏa của khối u và tình trạng chung của bệnh nhân, bác sĩ sẽ tư vấn và chỉ định phẫu thuật hay hóa trị, xạ trị, liệu pháp miễn dịch .... Tuy nhiên phẫu thuật là biện pháp chủ yếu. Thông qua phương pháp phẫu thuật, khối u sẽ được lấy cùng với một phần hoặc toàn bộ thực quản, tổ chức bạch huyết kệ cận và các tổ chức khác trong vùng.
-Càng được phát hiện sớm, việc điều trị càng mang lại tiên lượng tốt.
-Vì vậy, người dân khi thấy có triệu chứng: nuốt đau, nuốt khó, nuốt nghẹn, gầy sút cân nhiều, đau họng hoặc lưng, ho kéo dài, nôn, ho ra máu cần đi khám chuyên khoa ung bướu và khi phát hiện bệnh cần điều trị sớm tại cơ sở uy tín, không nên đợi bệnh trở nên nghiêm trọng mới đến viện khiến quá trình chữa trị kéo dài, nặng nề, tốn kém.
-Tú Anh
+# url = https://dantri.com.vn/suc-khoe/thu-truong-bo-y-te-co-hien-tuong-mua-ban-long-vong-nang-gia-trang-thiet-bi-20210423164928736.htm
+# date = 20210423
+Thứ trưởng Bộ Y tế chỉ đạo công tác phòng, chống dịch Covid-19 tại Bạc Liêu.
+Ngày 23/4, Thứ trưởng Bộ Y tế Trần Văn Thuấn, Phó Ban chỉ đạo Quốc gia phòng, chống dịch Covid-19 cùng đoàn công tác của Bộ Y tế đã đến làm việc với tỉnh Bạc Liêu về công tác phòng, chống dịch Covid-19.
+Thứ trưởng Bộ Y tế Trần Văn Thuấn (bìa phải) cùng đoàn công tác kiểm tra điểm tiêm vắc xin phòng dịch Covid-19 tại Bệnh viện đa khoa tỉnh Bạc Liêu.
+Báo cáo đoàn công tác, ông Bùi Quốc Nam, Giám đốc Sở Y tế tỉnh Bạc Liêu cho biết, đã qua, tỉnh Bạc Liêu tiếp nhận 14 đợt công dân Việt Nam từ nước ngoài về với tổng số 3.992 người.
+Số trường hợp dương tính đến thời điểm hiện tại là 52 người và tất cả đã được điều trị khỏi bệnh.
+Đồng thời, tỉnh cũng đã có kế hoạch chuẩn bị giường cách ly và giường điều trị phòng, chống dịch bệnh Covid-19 với quy mô 1.400 giường; xây dựng kế hoạch thiết lập bệnh viện dã chiến quy mô 200 giường; có 5 khu cách ly tập trung.
+Bạc Liêu cũng đã tiếp nhận 5.100 liều vắc xin phòng dịch Covid-19 và đã bắt đầu tiêm cho một số đối tượng ưu tiên.
+Giám đốc Sở Y tế tỉnh Bạc Liêu Bùi Quốc Nam cho biết, một trong những khó khăn vừa qua là việc có rất nhiều em nhỏ từ 1-2 tuổi ở nước ngoài về vào khu cách ly và phải có thêm người thân vào chăm sóc.
+Tuy nhiên, theo ông Nam, tỉnh Bạc Liêu có bờ biển dài tiếp giáp với Biển Đông, thường xuyên có tàu đánh bắt cá của ngư dân khai thác thủy sản tiếp giáp với vùng biển của nhiều nước nên rấtkhó kiểm soát công tác phòng, chống dịch trên biển.
+Bên cạnh đó, cơ sở vật chất tại khu cách ly tập trung của tỉnh hiện đã xuống cấp, không còn đảm bảo sinh hoạt cho người cách ly. Việc hợp đồng vận chuyển công dân từ sân bay Cần Thơ về khu cách ly của tỉnh cũng gặp nhiều khó khăn.
+Thứ trưởng Bộ Y tế kiểm tra khu vực nấu ăn trong khu cách ly tập trung công dân từ nước ngoài về.
+Phó Chủ tịch UBND tỉnh Bạc Liêu - bà Cao Xuân Thu Vân cho biết, tỉnh luôn xác định có nguy cơ rất cao trong việc lây nhiễm Covid-19 trong cộng đồng. Trong đó, có các nhóm đối tượng như người lao động ở nơi khác đi về, ngư dân đánh bắt trên biển, chuyên gia các dự án…
+Bà Vân nói, tất cả các kịch bản về phòng, chống dịch bệnh lúc nào cũng nằm trong tình huốngkích hoạt.
+Bà Cao Xuân Thu Vân, Phó Chủ tịch UBND tỉnh Bạc Liêu, đề nghị Bộ Y tế hỗ trợ tỉnh trong việc mua sắm, đấu thầu các trang thiết bị y tế.
+Một trong những "trăn trở" hiện nay theo Phó Chủ tịch Bạc Liêu là Sở Y tế đang lúng túng trong việc mua sắm, đấu thầu như thuốc, trang thiết bị y tế...
+"Theo ngành y tế, hiện nay khó nhất là xác định giá. Các nơi tư vấn về giá hiện nay hầu như đóng băng. Nên các gói thầu triển khai sắp tới như xạ trị, thiết bị… không thiếu tiền, nhưng thiếu những cơ sở để xác định giá.
+Ngành y tế ai cũng sợ làm chủ đầu tư, từ Sở Y tế trả, bệnh viện trả, trung tâm y tế cũng trả, không lẽ UBND tỉnh làm chủ đầu tư, khó từ cơ chế xác định giá, cơ chế đặt hàng, đấu thầu… Do đó, tỉnh kiến nghị Bộ Y tế giúp thực hiện các gói thầu mua sắm trang thiết bị hiện nay", bà Vân nói.
+Thứ trưởng Bộ Y tế Trần Văn Thuấn nhấn mạnh, đấu thầu minh bạch, rõ ràng... thì chắc chắn không có vấn đề gì.
+Ghi nhận những ý kiến, kiến nghị của tỉnh Bạc Liêu trong công tác phòng, chống dịch Covid-19, Thứ trưởng Bộ Y tế Trần Văn Thuấn đề nghị tỉnh chuẩn bị ứng phó mọi tình huống. Trong đó, phối hợp với Bộ Công an để phát hiện kịp thời, xử lý những trường hợp nhập cảnh trái phép.
+Trong công tác tiêm chủng vắc xin, Thứ trưởng đề nghị tỉnh triển khai tiêm vắc xin phòng dịch Covid-19 một cách an toàn, hiệu quả, kịp tiến độ, đảm bảo tiêm mũi nào chắc mũi đấy. Đồng thời, có đường dây nóng và tổ tư vấn an toàn vắc xin để hỗ trợ các đơn vị khi cần thiết.
+Thứ trưởng Trần Văn Thuấn yêu cầu các đơn vị của Bộ Y tế xem xét cấp thêm kinh phí cho tỉnh Bạc Liêu, đồng thời hướng dẫn tỉnh mua sắm, đấu thầu trang thiết bị.
+"Theo tôi, cần chọn lựa đơn vị đủ năng lực để làm, đó mới là quan trọng. Hiện tại chúng tôi biết có xảy ra việc mua bán vòng vo để nâng giá lên. Nhưng cũng đừng vì quá ngại mà không mua thì cũng không có gì để làm.
+Chúng ta phải lấy việc chung là trên hết, đấu thầu công khai, minh bạch, rõ ràng, đàng hoàng, đúng quy định thì chắc chắn không có vấn đề gì", Thứ trưởng Trần Văn Thuấn nhấn mạnh.
+Huỳnh Hải

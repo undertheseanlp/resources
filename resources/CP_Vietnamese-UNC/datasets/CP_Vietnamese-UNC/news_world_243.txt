@@ -1,19 +1,11 @@
 # doc_id = news_world_243
-# url = https://dantri.com.vn/the-gioi/tong-thong-ukraine-tuyen-bo-san-sang-chien-tranh-voi-nga-20210422222659604.htm
-# date = 20210422
-Tổng thống Ukraine Volodymyr Zelensky thị sát vùng chiến sự ở miền Đông hồi đầu tháng 4 (Ảnh: Reuters).
-"Ukraine có muốn chiến tranh không? Không. Ukraine có sẵn sàng cho chiến tranh không? Chắc chắn là có. Nguyên tắc của chúng tôi rất đơn giản: Ukraine không gây chiến trước, nhưng luôn đánh tới người cuối cùng", Tổng thống Ukraine Volodymyr Zelensky nói trong cuộc họp báo tại Kiev ngày 20/4, đề cập đến khả năng xảy ra chiến tranh với Nga.
-Tuyên bố của Tổng thống Zelensky được đưa ra trong bối cảnh căng thẳng giữa Nga và Ukraine vẫn đang leo thang liên quan tới các động thái quân sự gần đây ở biên giới hai nước.
-Ukraine và phương Tây bày tỏ quan ngại và lên án động thái tăng cường lực lượng gần đây của Nga ở biên giới với Ukraine trong bối cảnh chiến sự ở miền Đông Ukraine giữa quân đội Ukraine và lực lượng ly khai nóng trở lại.Ukraine cáo buộc Nga hỗ trợ phe ly khai, trong khi Moscow phủ nhận điều này.
-Nga được cho là đã triển khai hàng nghìn binh sĩ và khí tài tới biên giới Ukraine và Crimea. Moscow cũng tuyên bố cấm tàu quân sự và tàu công vụ nước ngoài qua lại một số khu vực ở Biển Đen từ 24/4 tới hết tháng 10.
-Cao ủy Đối ngoại của EU ước tính Nga đã triển khai hơn 100.000 binh sĩ đến Crimea và khu vực giáp biên giới Ukraine. Trong khi đó, Lầu Năm Góc nói rằng hiện diện quân sự của Nga ở biên giới giáp Ukraine còn lớn hơn thời điểm Moscow sáp nhập bán đảo Crimea năm 2014.
-Nga khẳng định việc triển khai lực lượng trong lãnh thổ Nga là hoàn toàn bình thường, không nhằm vào bất cứ quốc gia nào và không có ý định can thiệp vào xung đột khu vực. Moscow cũng tuyên bố việc triển khai lực lượng tại biên giới nhằm đối phó với các hành động khiêu khích của NATO.
-Giữa lúc căng thẳng, Tổng thống Zelensky kêu gọi Tổng thống Nga Vladimir Putin tham dự hội nghị thượng đỉnh tại vùng xung đột nhằm tìm kiếm giải pháp hòa bình.
-"Không thể dùng xe tăng mang lại hòa bình. Tôi sẵn sàng mời ngài đến gặp ở bất cứ chỗ nào thuộc vùng Donbass của Ukraine, nơi giao tranh đang diễn ra", ông Zelensky nói.
-Nga đã phủ nhận kế hoạch phát động một cuộc xung đột quân sự với Ukraine. Tại cuộc họp báo tuần trước, người phát ngôn Bộ Ngoại giao Nga đã cáo buộc truyền thông phương Tây làm gia tăng căng thẳng.
-"Truyền thông Ukraine và phương Tây đang thổi phồng vấn đề hoạt động quân sự của Nga gần biên giới với Ukraine", người phát ngôn Bộ Ngoại giao Nga Maria Zakharova cho biết.
-Trong thông điệp liên bang ngày 21/4, Tổng thống Putin cảnh báo phương Tây không được vượt qua "lằn ranh đỏ" của Nga, đồng thời nói rằng Moscow sẽ đáp trả nhanh chóng và gay gắt trước bất kỳ hành động khiêu khích nào.
-Ngoại trưởng Mỹ Antony Blinken tái khẳng định sự ủng hộ của chính quyền Tổng thống Joe Biden đối với Ukraine trong những ngày gần đây. Không rõ liệu chính quyền Biden có hỗ trợ Ukraine thông qua các biện pháp quân sự nếu Nga có hành động quân sự hay không, vì Ukraine đã nộp đơn xin gia nhập NATO nhưng chưa phải là thành viên của liên minh quân sự này.
-"Ngoại trưởng Blinken khẳng định sự ủng hộ vững chắc của Mỹ đối với chủ quyền và toàn vẹn lãnh thổ của Ukraine", người phát ngôn Bộ Ngoại giao Mỹ Ned Price tuyên bố.
-Thành Đạt
-Theo Hill
+# url = https://dantri.com.vn/the-gioi/trung-quoc-bien-che-cung-luc-3-tau-chien-co-lon-20210426092044976.htm
+# date = 20210426
+Trung Quốc tăng cường hiện đại hóa hải quân (Ảnh: National Interest).
+Thời báo Hoàn Cầu (Global Times) đưa tin, hôm 23/4, Hải quân Trung Quốc đã tổ chức lễ tiếp nhận biên chế 3 tàu chiến cỡ lớn với sự tham gia của Chủ tịch Tập Cận Bình. Lễ biên chế diễn ra tại một căn cứ hải quân ở tỉnh Hải Nam, miền nam Trung Quốc. Các tàu được bổ sung vào biên chế gồm tàu tấn công đổ bộ Type 075, tàu ngầm chạy bằng năng lượng hạt nhân Trường Chinh - 18, tàu khu trục Đại Liên Type 055.
+Tàu tấn công đổ bộ Type 075 được cho là có thể chở đến 30 trực thăng, hàng trăm binh sĩ. Đây là tàu tấn công đổ bộ lớn nhất từ trước đến nay của Trung Quốc với lượng choán nước ước tính khoảng 40.000 tấn.
+Trong khi đó tàu ngầm mới được biên chế được cho là tàu ngầm mang tên lửa đạn đạo chạy bằng năng lượng hạt nhân thế hệ hai.
+Tàu khu trục Đại Liên Type 055 được trang bị các vũ khí chống ngầm, chống hạm, hệ thống phòng không, phòng thủ tên lửa mới.
+Việc đưa vào biên chế cùng lúc 3 tàu chiến cỡ lớn trên là một phần trong kế hoạch hiện đại hóa của Hải quân Trung Quốc, trong đó bao gồm cả kế hoạch phát triển hạm đội tàu sân bay. Trung Quốc hiện đưa vào biên chế 2 tàu sân bay, một tàu sân bay đang đóng dở dang. Bắc Kinh dự định sở hữu tới 6 tàu sân bay.
+Động thái cải tổ quân đội của Trung Quốc diễn ra trong bối cảnh Bắc Kinh bị cáo buộc tiếp tục chính sách bành trướng ảnh hưởng trong khu vực và trên thế giới, trong đó có các hành động gây quan ngại ở Biển Đông.
+Minh PhươngTheo Bloomberg

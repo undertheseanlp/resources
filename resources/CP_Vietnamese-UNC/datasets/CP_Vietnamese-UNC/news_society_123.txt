@@ -1,15 +1,20 @@
 # doc_id = news_society_123
-# url = https://dantri.com.vn/xa-hoi/ha-nam-phong-toa-thon-co-nam-thanh-nien-duong-tinh-voi-sars-co-v-2-20210428152757277.htm
-# date = 20210428
-Sáng 29/4, Sở Y tế tỉnh Hà Nam tổ chức họp khẩn triển khai các biện pháp phòng chống dịch sau khi một trường hợp ở xã Đạo Lý, huyện Lý Nhân hết thời gian cách ly tập trung (đang cách ly tại nhà) có biểu hiện sốt, đau họng và có kết quả xét nghiệm dương tính với SARS-Cov-2.
-Ông Nguyễn Trọng Khải, Giám đốc Sở Y tế tỉnh Hà Nam phát biểu tại cuộc họp khẩn.
-Bệnh nhân là N.V.Đ. (SN 1993), nhập cảnh từ Nhật Bản về, cách ly đủ 14 ngày tại Đà Nẵng và đã có 3 lần xét nghiệm âm tính với SARS-CoV-2, trong đó lần xét nghiệm cuối cùng là ngày 21/4.
-Ngày 22/4 bệnh nhân đi xe khách từ Đà Nẵng về Liêm Tuyền và bắt taxi từ Liêm Tuyền về nhà. Sau đó, bệnh nhân có biểu hiện sốt, đau họng, được lấy mẫu chiều ngày 28/4 để xét nghiệm và đã cho kết quả dương tính lần 1 với SARS-CoV-2.
-Theo báo cáo dịch tễ của Trung tâm Y tế huyện Lý Nhân, bệnh nhân có lịch sử di chuyển, tiếp xúc phức tạp.
-Các chốt kiểm soát dịch bệnh được lập tại địa bàn xã Đạo Lý, huyện Lý Nhân.
-Ông Nguyễn Trọng Khải, Giám đốc Sở Y tế tỉnh Hà Nam cho biết, công tác kiểm soát dịch bệnh ở địa phương cần tập trung hơn. Ngày 24/4, sau khi từ Đà Nẵng về 3 ngày, bệnh nhân đã có biểu hiện sốt, bố bệnh nhân ra trạm y tế xã khai báo. Sau đó, trạm y tế xã đã đến khám, xác định sốt 38,2 độ C, họng đỏ. Tuy nhiên, đến sáng 28/4, ngành y tế mới lấy mẫu bệnh phẩm xét nghiệm tại CDC Hà Nam, kết quả dương tính lần 1 với SARS-CoV-2.
-Ngành y tế phối hợp với huyện Lý Nhân ngay trong đêm 28/4 đã điều tra dịch tễ, truy vết, khoanh vùng, tạm thời phong tỏa khu vực thôn Quan Nhân. Đến 9h sáng 29/4, đã xác định được 32 trường hợp F1, hơn 200 trường hợp F2. Việc truy vết, điều tra dịch tễ vẫn đang tiếp tục được tiến hành.
-Giám đốc Sở Y tế Hà Nam yêu cầu các đơn vị trong ngành rà soát lại kịch bản phòng, chống dịch đã xây dựng; thực hiện nghiêm chế độ trực 24/24 giờ; tổ chức phân luồng khám, chữa bệnh, kịp thời phát hiện các trường hợp nghi ngờ mắc Covid-19; thực hiện tốt điều tra dịch tễ, truy vết; với các trường hợp nghi ngờ phải lấy mẫu xét nghiệm sàng lọc nhằm phát hiện sớm, xử lý kịp thời, không để lây lan trong cộng đồng.
-Bên cạnh đó, các đơn vị cần chuẩn bị đầy đủ vật tư, hóa chất, cơ sở vật chất và nhân lực để sẵn sàng triển khai các biện pháp phòng, chống dịch hiệu quả; tổ chức triển khai tiêm hết 4.500 liều vắc- xin phòng Covid-19 đã được cấp xong trước ngày 12/5, đảm bảo an toàn ở mức cao nhất.
-Trong chiều nay, Sở Y tế phối hợp với Công an tỉnh kiểm tra công tác phòng chống dịch tại Khu du lịch Tam Chúc trước kỳ nghỉ 30/4 và 1/5.
+# url = https://dantri.com.vn/xa-hoi/ha-nam-thiet-lap-vung-cach-ly-y-te-28-ngay-voi-thon-co-5-ca-mac-covid-19-20210430082247632.htm
+# date = 20210430
+UBND tỉnh Hà Nam vừa có quyết định số 669/QĐ-UBND ngày 29/4, về việc thiết lập vùng cách ly y tế đối với thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân để phòng chống dịch bệnh Covid-19.
+Theo đó, phạm vi vùng cách ly bao gồm toàn bộ thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân, tỉnh Hà Nam, với tổng số 320 hộ tương ứng 1068 nhân khẩu. Việc tổ chức thực hiện cách ly y tế phải đảm bảo an ninh trật tự, an toàn và an sinh xã hội trong vùng cách ly, nhằm ngăn chặn sự lây lan của dịch bệnh Covid-19 do virus SARS-CoV-2 gây ra.
+UBND tỉnh Hà Nam đã quyết định thiết lập vùng cách ly y tế đối với thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân phòng, chống dịch bệnh Covid-19 từ 17h ngày 29/4, thời gian cách ly là 28 ngày.
+Thời gian cách ly là 28 ngày, kể từ 17h ngày 29/4.
+UBND tỉnh Hà Nam giao UBND, Ban chỉ đạo phòng, chống dịch Covid-19 huyện Lý Nhân chủ trì, phối hợp với Sở Y tế, Sở Giao thông vận tải, Công an tỉnh, Bộ Chỉ huy Quân sự tỉnh thiết lập ngay các chốt kiểm soát và thực hiện kiểm soát 24/24 toàn bộ vùng cách ly nói trên.
+Thực hiện cách ly y tế theo đúng quy định hiện hành; đảm bảo an ninh trật tự, an toàn, an sinh xã hội, các nhu cầu thiết yếu của người dân vùng cách ly và lực lượng liên quan làm nhiệm vụ tại địa bàn trong thời gian thực hiện cách ly; đẩy mạnh tuyên truyền tạo sự đồng thuận trong các tầng lớp nhân dân.
+Sở Y tế, Bộ Chỉ huy Quân sự tỉnh, Sở Giao thông vận tải, Công an tỉnh chủ động phối hợp hướng dẫn UBND huyện Lý Nhân thực hiện các biện pháp phòng dịch hiệu quả, đúng quy định.
+Việc khoanh vùng cách ly phong tỏa tại thôn Quan Nhân xã Đạo Lý phải đáp ứng được hai yêu cầu: một là "nội bất xuất, ngoại bất nhập", hai là phải dập dịch ngay tại chỗ trong địa bàn đang có dịch.
+Các hộ dân, cá nhân thuộc vùng cách ly có trách nhiệm thực hiện đúng các quy định, nội quy hướng dẫn phòng, chống dịch Covid-19 của các cơ quan chức năng trong thời gian thực hiện cách ly.
+Cũng ngay trong đêm ngày 29/4, Hà Nam đã huy động các lực lượng y tế khẩn trương lấy mẫu bệnh phẩm cho 1.068 nhân khẩu tại thôn Quan Nhân, xã Đạo Lý.
+Cũng trong đêm 29/4, Bí thư Tỉnh ủy tỉnh Hà Nam Lê Thị Thủy và ông Trần Xuân Dưỡng, Phó Chủ tịch UBND tỉnh Hà Nam, cùng lãnh đạo Sở Y tế… đã đi kiểm tra, chỉ đạo công tác phòng chống Covid-19 tại tâm dịch xã Đạo Lý, huyện Lý Nhân.
+Để nhanh chóng dập dịch trên địa bàn, Bí thư Tỉnh ủy Hà Nam đề nghị đối với địa bàn huyện Lý Nhân và xã Đạo Lý cần tiếp tục tập trung truy vết thần tốc các trường hợp F1. Huy động các lực lượng y tế khẩn trương lấy mẫu bệnh phẩm ngay trong đêm 29/4 và đảm bảo đến sáng ngày 30/4 phải lấy hết được mẫu bệnh phẩm cho 1.068 nhân khẩu tại xóm Quan Nhân, xã Đạo Lý.
+Bên cạnh đó, đối với việc khoanh vùng cách ly phong tỏa tại thôn Quan Nhân xã Đạo Lý phải đáp ứng được hai yêu cầu: một là "nội bất xuất, ngoại bất nhập", hai là phải dập dịch ngay tại chỗ trong địa bàn đang có dịch.
+Ngay trong đêm 29/4 ngành y tế Hà Nam đã lấy hết được mẫu bệnh phẩm cho 1.068 nhân khẩu tại xóm Quan Nhân, xã Đạo Lý và đang chờ kết quả xét nghiệm (ảnh: Hà Nam TV).
+Đồng thời, thành lập ngay các tổ "Covid cộng đồng" để tuyên truyền vận động đến từng nhà dân, hướng dẫn cho dân cách phòng chống dịch bệnh và cách kê khai y tế, đặc biệt là nắm bắt tâm tư, nguyện vọng và giám sát hằng ngày đối với các trường hợp có biểu hiện ho, sốt để đưa đi xét nghiệm kịp thời. Chuẩn bị các điều kiện tốt nhất để cho người dân trong khu vực cách ly yên tâm, đảm bảo cuộc sống bình thường…
+Sáng ngày 30/4, thông tin với PV Dân trí, ông Nguyễn Trọng Khải, Giám đốc Sở Y tế tỉnh Hà Nam xác nhận, sáng ngày 30/4, Hà Nam có thêm 2 ca dương tính với SARS-Cov-2 và 1 trường hợp nghi ngờ. Trường hợp nghi ngờ là bác sỹ ở Trung tâm Y tế huyện Lý Nhân. Trường hợp này sẽ tiếp tục được làm xét nghiệm lại. Như vậy tính đến 8h sáng ngày 30/4, Hà Nam đã có 7 ca dương tính với SARS-Cov-2.
 Đức Văn

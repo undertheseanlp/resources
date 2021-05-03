@@ -1,16 +1,14 @@
 # doc_id = news_world_183
-# url = https://dantri.com.vn/the-gioi/nha-trang-ung-ho-thu-do-washington-thanh-bang-thu-51-cua-my-20210422074625308.htm
-# date = 20210422
-Nhà Trắng tại thủ đô Washington D.C của Mỹ (Ảnh: Reuters).
-Trong thông báo hôm 20/4, Nhà Trắng bày tỏ sự ủng hộ với dự luật mang tên HR 51 của Hạ viện Mỹ. Hiện thủ đô của Mỹ có tên chính thức là Đặc khu Colombia, và không phải là một bang của Mỹ.
-"Đã từ rất lâu, hơn 700.000 người dân Washington D.C đã bị tước đi quyền được đại diện một cách đầy đủ trong quốc hội Mỹ. Việc (người dân) đóng thuế mà không có đại diện (được dân bầu ở quốc hội) và khước từ quyền tự quản lý (của Washington D.C) là đi ngược lại các giá trị dân chủ mà đất nước chúng ta dựa vào đó để lập quốc", thông báo của Nhà Trắng cho hay.
-Nếu HR 51 được thông qua, Washington D.C sẽ thành một tiểu bang. Ngoài ra, dự luật cũng đề xuất một khu vực nhỏ hơn gồm Nhà Trắng, khu Đồi Capitol (nơi đặt nhà Quốc hội Mỹ) và một số tòa nhà liên bang, tượng đài vẫn thuộc quyền giám sát của chính phủ Mỹ.
-Chính quyền Biden cho rằng việc lập nên bang thứ 51 sẽ khiến khối liên hiệp Mỹ trở nên mạnh hơn.
-"Washington D.C có nền kinh tế mạnh mẽ, một nền văn hóa phong phú và dân số đa dạng thuộc mọi tầng lớp xã hội, những người có quyền tham gia đầy đủ và bình đẳng vào nền dân chủ của chúng ta", tuyên bố viết.
-Tuy nhiên, giới quan sát cho rằng động thái hiện đang gặp phải rào cản lớn.
-Phe Dân chủ là bên có quan điểm ủng hộ HR 51 vì cho rằng người dân Washington D.C đóng thuế nhưng chỉ được cử đại diện không được phép bỏ phiếu vào cơ quan lập pháp. Ngoài ra, dân số của Washington D.C có xu hướng ủng hộ đảng Dân chủ, vì vậy việc đưa thủ đô Mỹ thành bang thứ 51 có thể mang lại lợi thế cho đảng Dân chủ khi các cuộc bầu cử diễn ra.
-Chính vì vậy, phía Cộng hòa nhiều lần phản đối việc chuyển Washington D.C thành một bang riêng.
-HR 51 đã được Hạ viện Mỹ thông qua, nhưng thách thức hiện nằm ở Thượng viện. Dù đảng Dân chủ hiện đang nắm đa số ghế ở Thượng viện, nhưng cách biệt mong manh chỉ 1 ghế.
-Để dự luật được thông qua, phe Dân chủ phải có đủ 60 phiếu ủng hộ HR 51 ở Thượng viện, đồng nghĩa rằng họ phải kêu gọi thêm khoảng 10 thượng nghị sĩ Cộng hòa ủng hộ. Đây là một thách thức lớn vì ngay cả trong nội bộ đảng Dân chủ có 6 người vẫn chưa chính thức tuyên bố ủng hộ HR 51.
+# url = https://dantri.com.vn/the-gioi/nhat-lan-dau-tap-tran-voi-phap-my-ngam-gui-thong-diep-toi-trung-quoc-20210423175137440.htm
+# date = 20210423
+Chiến hạm Nhật Bản (Ảnh: AP).
+Nhật Bản ngày 23/4 thông báo sẽ tổ chức tập trận chung với Mỹ và Pháp tại khu vực tây nam nước này. Hoạt động diễn tập dự kiến diễn ra từ ngày 11-17/5, đánh dấu lần đầu tiên một cuộc tập trận chung quy mô lớn giữa 3 nước diễn ra trên lãnh thổ Nhật Bản.
+Động thái trên diễn ra trong bối cảnh Nhật Bản đang đẩy mạnh hoạt động hợp tác quốc phòng với các đối tác ngoài đồng minh Mỹ nhằm đối phó với các động thái của Trung Quốc ở khu vực.
+"Pháp chia sẻ tầm nhìn về Ấn Độ - Thái Bình Dương tự do và mở. Bằng việc nâng cao hợp tác giữa Nhật, Mỹ và Pháp, chúng tôi muốn cải thiện hơn nữa các chiến thuật và kỹ năng của Lực lượng Phòng vệ", Bộ trưởng Quốc phòng Nhật Bản Nobuo Kishi cho biết.
+Pháp có lợi ích chiến lược ở Ấn Độ - Thái Bình Dương, nơi Paris có lãnh thổ hải ngoại như đảo Reunion ở Ấn Độ Dương và French Polynesia ở Nam Thái Bình Dương.
+Cuộc diễn tập sẽ được tổ chức ở khu huấn luyện Kirishima và căn cứ Ainoura ở vùng Kyushu và bao gồm cả hoạt động diễn tập đổ bộ.
+Tuần trước, Thủ tướng Nhật Bản Suga Yoshihide và Tổng thống Mỹ Joe Biden cam kết sẽ hợp tác cùng nhau để đối phó với thách thức từ Trung Quốc.
+Nhật Bản và Trung Quốc đang tranh chấp chủ quyền ở khu vực quần đảo Senkaku mà Bắc Kinh gọi là Điếu Ngư tại biển Hoa Đông. Nhật Bản nhiều lần bày tỏ lo ngại với các hành động của Trung Quốc ở khu vực này.
+Mỹ trước đó khẳng định rằng hiệp ước an ninh giữa nước này và Nhật Bản bao gồm cả quần đảo nói trên.
 Đức Hoàng
-Theo Independent
+Theo AFP

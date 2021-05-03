@@ -1,17 +1,15 @@
 # doc_id = news_sport_244
-# url = https://dantri.com.vn/the-thao/tottenham-chon-xong-nguoi-thay-the-hlv-mourinho-20210420124328020.htm
-# date = 20210420
-Như đã biết, ngày hôm qua, Tottenham đã chính thức sa thải HLV Mourinho sau thành tích bết bát trong mùa giải này. Đây được xem là quyết định đột ngột bởi chỉ vài ngày nữa, Tottenham sẽ thi đấu với Man City ở trận chung kết League Cup.
-HLV Julian Nagelsmann là ưu tiên số 1 của Tottenham để thay thế HLV Mourinho.
-Trước mắt hai trợ lý Ryan Mason và Chris Powell sẽ tạm thay thế HLV Mourinho dẫn dắt Tottenham trong phần còn lại của mùa giải này.
-Theo nguồn tin từ tờ Daily Mail, Chủ tịch Daniel Levy đang "rất mê mẩn" HLV Julian Nagelsmann của Leipzig. Do đó, ông đang tìm mọi cách để đưa chiến lược gia sinh năm 1987 này về thay thế HLV Mourinho.
-Trong những năm qua, HLV Julian Nagelsmann nổi lên như HLV trẻ tài năng của bóng đá thế giới. Ông đã giúp Leizpig trở thành đội bóng mạnh ở Đức cũng như tạo dấu ấn ở Champions League.
-Mặc dù vậy, Tottenham có thể gặp khó trong vụ này bởi HLV Julian Nagelsmann vẫn còn 2 năm hợp đồng với Leipzig. Nếu muốn sở hữu chiến lược gia có biệt danh là "Baby Mourinho", Spurs sẽ phải trả số tiền 10 triệu bảng. Đây không phải là số tiền nhỏ trong bối cảnh "Gà trống" đang gặp khủng hoảng tài chính.
-Mức lương hiện tại của HLV Julian Nagelsmann vào khoảng 5 triệu bảng/năm. Tuy nhiên, theo dự đoán của tờ Daily Mail, chắc chắn ông sẽ đòi hỏi cao hơn nếu tới CLB mới.
-Một điểm khó nữa của Tottenham ở vụ này là sự cạnh tranh của Bayern Munich. Sau khi HLV Hans Flick ra đi, "Hùm xám" đang ngắm tới Julian Nagelsmann để thay thế.
-Khả năng HLV Brendan Rodgers đồng ý tới Tottenham là rất thấp.
-HLV Brendan Rodgers của Leicester là lựa chọn khác của Tottenham. Cũng giống như Julian Nagelsmann, Spurs sẽ phải trả số tiền cực lớn để giải phóng hợp đồng của ông. Tuy nhiên, có vẻ như HLV Brendan Rodgers không hứng thú với việc tới dẫn dắt Spurs. Ông đang tạo nên được sự ổn định ở Leicester và không muốn tới CLB có quá nhiều bất ổn như Tottenham.
-Cựu cầu thủ của Tottenham, Scott Parker (người đang dẫn dắt Fulham) cũng là gương mặt được ngắm tới. Ngoài ra, trong danh sách ứng cử viên thay thế HLV Mourinho còn có Nuno Espirito Santo (Wolves) hay HLV Maurizio Sarri (đang thất nghiệp).
-Cũng theo tờ Daily Mail, số tiền đền bù của Tottenham với HLV Mourinho sẽ không tới mức 30 triệu bảng. Do gặp khó khăn tài chính, họ đã chọn cách vẫn đều đặn trả lương cho HLV Mourinho tới khi ông tìm được công việc mới. Theo tính toán, gói đền bù này có thể chỉ rơi vào khoảng 16 triệu bảng.
-Bên cạnh đó, do HLV Mourinho bị sa thải khi chưa hoàn thành mục tiêu lọt vào top 4 Premier League nên ông sẽ không thể nhận đủ số tiền đền bù 30 triệu bảng.
+# url = https://dantri.com.vn/the-thao/trong-tai-sai-lam-cong-phuong-mat-oan-ban-thang-20210428202745257.htm
+# date = 20210428
+HA Gia Lai tiếp tục đà thăng hoa khi giành chiến thắng với tỷ số 2-1 trước Thanh Hóa ở vòng 11 LS V-League 2021. Trong đó, Công Phượng và Minh Vương là những người đã ghi bàn cho HA Gia Lai trong trận đấu này.
+Tình huống Công Phượng bị bắt việt vị. Pha làm chậm cho thấy có vẻ như tiền đạo của HA Gia lai bị bắt việt vị oan.
+Với 3 điểm có được, đoàn quân của HLV Kiatisuk tiếp tục dẫn đầu V-League với 28 điểm, bỏ xa đội xếp thứ 2 là Viettel 5 điểm.
+Với bàn thắng trong trận đấu với Thanh Hóa, Công Phượng đã có 6 bàn thắng ở V-League. Cầu thủ này đã vươn lên vị trí thứ 2 trong danh sách ghi bàn, chỉ kém người đứng đầu Oussou Konan của Nam Định 1 bàn.
+Đáng ra, Công Phượng đã có thể cải thiện thành tích ghi bàn của mình khi đã bị từ chối bàn thắng hợp lệ trong trận đấu với Thanh Hóa. Cụ thể, trong tình huống ở phút 69, tiền đạo người Nghệ An đã thoát xuống sau đường chuyền của Tuấn Anh và đưa được bóng vào lưới của Thanh Hóa.
+Thế nhưng, trọng tài đã từ chối bàn thắng này khi cho rằng Công Phượng đã ở trong tư thế việt vị. Vấn đề ở chỗ, khi xem lại pha quay chậm, tiền đạo của HA Gia Lai vẫn còn đứng trên cầu thủ Thanh Hóa.
+Công Phượng đã đưa bóng vào lưới Thanh Hóa nhưng không được công nhận.
+Nhận định về tình huống này, trọng tài Dương Mạnh Hùng cho biết: "Tình huống đó Công Phượng không việt vị. Khi trái bóng rời chân của Tuấn Anh thì cậu ấy vẫn ở ngang với cầu thủ phòng ngự cuối cùng của Thanh Hóa.
+Trợ lý trọng tài có vẻ như có chỗ đứng không tốt và nhận định sai khi căng cờ việt vị. Những tình huống như vậy đòi hỏi trọng tài cần phải có vị trí đứng tốt để đưa ra quyết định chính xác".
+Nói về việc dành quả phạt đền cho Công Phượng, HLV Kiatisuk cho biết: "Tôi dành cơ hội đá penalty lần lượt cho các cầu thủ, không ưu ái ai cả".
+Sau trận đấu này, HA Gia Lai sẽ trở về sân nhà để đụng độ với Bình Dương ở vòng 12 V-League. Sau đó, họ sẽ lần lượt chạm trán với Than Quảng Ninh (V-League) và SHB Đà Nẵng (cúp quốc gia) trước khi nhường chỗ cho đội tuyển quốc gia tập trung.
 H.Long

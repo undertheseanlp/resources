@@ -1,16 +1,19 @@
 # doc_id = news_travel_247
-# url = https://dantri.com.vn/du-lich/tuong-gau-truc-khong-lo-cam-dien-thoai-chup-anh-gay-sot-20210414085150442.htm
-# date = 20210414
-Ảnh chụp từ trên không "Gấu trúc tự sướng" tại quảng trường Dương Thiên Vũ ở Dujiangyan, tỉnh Tứ Xuyên phía tây nam Trung Quốc. (Tân Hoa Xã / Wang Xi).
-Tượng gấu khổng lồ mô phỏng "quốc bảo" của Trung Quốc đang cần cây gậy selflie, nằm ngửa chụp ảnh trên bãi cỏ xanh, một chân gác lên lồng kín.
-Tượng được lấy cảm hứng từ câu chuyện có thật về chú gấu trúc đi lạc trong khu trung tâm Đô Giang Yển, từng gây sốt trên mạng xã hội Trung Quốc hồi năm 2005.
-Với kích thước to gần bằng căn nhà hai tầng với chiều dài 26,5 m, bề ngang 11 m và cao 12m. Tác phẩm được hoàn thành với sự hỗ trợ của khoảng 3 triệu thanh thép không gỉ, sơn trắng, đen - màu lông đặc trưng của gấu trúc. Tổng khối lượng nặng khoảng 130 tấn.
-Toàn cảnh "Gấu trúc tự sướng".
-Thời gian lên ý tưởng, chuẩn bị cho bức tượng khổng lồ này mất khoảng gần 1 năm.
-Khung lắp đặt tại xưởng Thượng Hải.
-Vài ngày sau khi chú gấu trúc khổng lồ ra mắt với công chúng, nơi đây nhanh chóng trở thành điểm du lịch nổi tiếng.
-Khách du lịch chụp ảnh với bức tượng.
-Trên thực tế, gấu trúc biết chụp ảnh là dịch vụ đặc biệt của Trung tâm nghiên cứu nhân giống gấu trúc Đô Giang Yển suốt nhiều năm nay. Một số chú gấu trúc ở đây có khả năng nhận biết ống kính máy ảnh, gậy selfie.
-Thậm chí, nó còn có thể tự điều chỉnh góc ảnh theo ý mình. Hofman đã dựa vào đó để phát triển ý tưởng, quảng bá về loài gấu trúc ở Thành Đô.
-Hằng Đoàn
-Theo Designboom/ Xinhua
+# url = https://dantri.com.vn/du-lich/vua-chan-vua-hup-mon-banh-lo-nhan-tru-danh-hai-phong-20210408153226132.htm
+# date = 20210408
+Không chỉ nổi tiếng với nhiều danh lam thắng cảnh, địa điểm du lịch hấp dẫn, Hải Phòng còn là vùng đất có nền ẩm thực phong phú, gây thương nhớ với thực khách gần xa.
+Ngoài những đặc sản nức tiếng như bánh đa cua, nem cua bể,... ở Hải Phòng còn nhiều món ăn "trứ danh" dễ dàng chinh phục khẩu vị của mọi người với mức giá bình dân. Một trong số đó chính là bánh bèo - thức quà ăn vặt chứa đựng tinh hoa ẩm thực của thành phố hoa phượng đỏ.
+Khác với bánh bèo xứ Huế đựng trong những chiếc chén nhỏ nhắn thì bánh bèo Hải Phòng lại được gói gọn gàng bởi những lớp lá chuối màu xanh.
+Thoạt nhìn, bánh bèo Hải Phòng có nguyên liệu khá giống bánh giò Hà Nội nhưng dễ dàng phân biệt được qua vẻ ngoài và cách thưởng thức.
+Bánh bèo Hải Phòng là sự kết hợp hoàn hảo từ phần vỏ làm từ bột gạo và phần nhân gồm mộc nhĩ, thịt lợn băm. Tất cả nguyên liệu được gói gọn trong lá chuối, tạo hình khum khum như một chiếc thuyền nhỏ.
+Cách làm bánh bèo khá đơn giản nhưng để làm được những mẻ bánh thơm ngon, chất lượng nhất cũng đòi hỏi sự kỳ công, tỉ mỉ. Lá chuối phải chọn những lá không quá già mới giữ được màu xanh đẹp mắt. Sau khi rửa sạch, lá chuối được trụng qua nước sôi rồi xếp thành khuôn có tạo hình như chiếc thuyền lá.
+Khó nhất và đòi hỏi nhiều kinh nghiệm là công đoạn hòa bột gạo. Bột phải được hòa với nước sao cho đúng tỉ lệ để tránh tình trạng bột bị vón cục. Bên cạnh đó, thịt làm nhân phải lựa chọn từ phần đùi lợn để không bị khô.
+Thịt được sơ chế sạch sẽ, xay nhuyễn rồi xào cùng mộc nhĩ thái nhỏ và thêm chút muối, tiêu, bột ngọt nêm nếm cho vừa ăn. Sau khi chuẩn bị các nguyên liệu hoàn tất, người ta khéo léo rót từ từ phần bột vào khuôn lá rồi cho hỗn hợp nhân lên trên cùng. Hấp khoảng 30 phút là bánh chín.
+Khi bánh chín, phần nhân sẽ nổi lên trên phần vỏ trắng trong trông rất đẹp mắt. Mỗi chiếc bánh được bày ra đĩa, cắt thành 6-8 miếng vừa ăn và rắc thêm chút hành khô.
+Những chiếc bánh có phần vỏ mịn núng nính, cắn một miếng như mềm tan trong miệng hòa cùng vị béo ngậy của nhân thịt và mùi thơm của lá chuối.
+Nhưng quan trọng hơn cả, nước chấm ngon ngọt, đậm đà được hầm từ xương với nhiều gia vị hấp dẫn mới chính là yếu tố tạo nên "cái hồn" của món ăn, khiến nó trở nên trọn vẹn, có sức hấp dẫn riêng làm say đắm thực khách.
+Bánh bèo khá mỏng nên thường được bán theo từng cặp. Mỗi suất có giá từ 15.000 - 20.000 đồng. Thực khách có thể thưởng thức bánh bèo kèm nước chấm có chả, thịt viên.
+Nước chấm còn nóng hổi, đậm vị, có chút béo ngậy, đủ vị chua cay mặn ngọt với chút lá răng cưa (mùi ngò gai) thái nhỏ được rắc lên trên tạo nên hương vị đặc trưng chỉ riêng Hải Phòng mới có.
+Thực khách chấm miếng bánh bèo nóng hổi, đưa bát lên húp nhẹ phần nước chấm ngọt thanh và từ từ cảm nhận tinh hoa của món ăn đang tan chậm trong khoang miệng.
+Đến thành phố Cảng, du khách có thể dễ dàng tìm kiếm và thưởng thức bánh bèo ở các khu chợ, quán ăn vỉa hè hay đơn giản chỉ là gánh hàng rong. Chỉ đôi quang gánh với vài ba cái ghế cũng đủ tạo nên góc ẩm thực độc lạ làm say đắm bao thế hệ người Hải Phòng.
+Thảo Trinh

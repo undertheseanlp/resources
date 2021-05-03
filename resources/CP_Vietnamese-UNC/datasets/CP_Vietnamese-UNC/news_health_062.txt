@@ -1,17 +1,23 @@
 # doc_id = news_health_062
-# url = https://dantri.com.vn/suc-khoe/binh-phuoc-cach-ly-3-nguoi-di-chung-chuyen-bay-voi-ca-mac-covid-19-20210430153318013.htm
-# date = 20210430
-Nhân viên y tế lấy mẫu xét nghiệm đối với các trường hợp tiếp xúc gần với bệnh nhân mắc Covid-19.
-Ngày 30/4, lực lượng chức năng tỉnh Bình Phước đang theo dõi sát sao những người đi cùng chuyến bay VJ 133 có người mắc Covid-19. Hiện TP Đồng Xoài đã xác định được 3 trường hợp F1 gồm anh L.H. (27 tuổi), chị P.T.T.H. (24 tuổi, vợ anh H.), bé L.Đ.H. (4 tuổi, con anh H., cùng trú tại khu phố Phú Lộc, phường Tân Phú, TP Đồng Xoài), ngồi ghế số 5A, 5B, 5C. Hiện cả 3 trường hợp được lấy mẫu xét nghiệm, cách ly tập trung.
-Theo điều tra dịch tễ, sáng ngày 27/4, cả gia đình 3 người làm thủ tục từ sân bay Nội Bài vào sân bay Tân Sơn Nhất cùng chuyến bay với bệnh nhân (BN) 2910 ngồi ghế 20B. Khoảng 12h30, cả gia đình xuống tới sân bay Tân Sơn Nhất. Trong quá trình làm thủ tục, trên máy bay, xuống máy bay 2 vợ chồng luôn mang khẩu trang, con trai không đeo.
-Khoảng 13h30, khi ra khỏi sân bay, gia đình này đón xe Thành Công để về nhà, trên xe có 5 người (chưa rõ địa chỉ). Trên đường, 2 vợ chồng có xuống trạm dừng chân Phước Hòa nghỉ ăn bún.
-Đến 16h, khi đến bến xe Thành Công, anh H. lấy xe máy đi về nhà, vợ và con trai được xe trung chuyển đưa về, sau đó đi ăn mì Quảng tại ngã ba Hùng Vương.
-Sáng 28/4, vợ chồng anh H. đi ăn cháo lòng,đi chợ, đi mua trà sữa. Từ khoảng 19h - 20h người vợ có đi chùa Giác Viên để tụng kinh (có khoảng 10 người) nhưng không đeo khẩu trang.
-Ngày 29/4, vợ chồng anh H. bán bánh ướt từ 5h30 đến 9h sáng tại đường Trần Phú (không đeo khẩu trang), sau đó có đi ăn sáng tại quán bún bò trên đường Lê Duẩn.
-Từ 12h cùng ngày, anh H. đi xe máy lên rẫy của một người bạn tại xã Đồng Nai (huyện Bù Đăng), đến chiều về nhà không đi đâu.
-Lực lượng chức năng phun thuốc khử trùng tại một điểm từng ghi nhận F1.
-Sau khi có thông tin ca bệnh 2910, Ban chỉ đạo phòng chống Covid-19 TP Đồng Xoài đã nhanh chóng điều tra xác minh, lấy mẫu xét nghiệm đối với 3 trường hợp trên đưa đi cách ly tập trung tại Trung tâm giáo dục quốc phòng Trung đoàn 736 - Bộ chỉ huy quân sự tỉnh Bình Phước.
-Đối với những trường hợp tiếp xúc gần với các trường hợp trên đã được hướng dẫn cách ly, theo dõi tại nhà. Công an TP Đồng Xoài đã trích xuất camera tại những điểm có yếu tố dịch tễ để phục vụ công tác truy vết các trường hợp tiếp xúc với 3 hành khách đi trên chuyến bay VJ133.
-BN2910 ở phường Bình Hưng Hòa (quận Bình Tân, TP.HCM). Qua điều tra dịch tễ cho thấy, ngày 22/4, BN2910 có đi uống bia với BN2899 tại tỉnh Hà Nam, sau đó về nhà.
-Ngày 27/4, BN2910 đi chuyến bay số hiệu VJ133 số ghế 20B từ Sân bay Nội Bài đến sân bay Tân Sơn Nhất. Sau đó bệnh nhân đi taxi về nhà của người thân tại khu phố 2 (phường Bình Hưng Hòa, quận Bình Tân).
-Phan Lâm
+# url = https://dantri.com.vn/suc-khoe/bo-truong-y-te-dot-dich-sau-thuong-xay-ra-tan-khoc-hon-20210425103947544.htm
+# date = 20210425
+GS.TS Nguyễn Thanh Long, Phó trưởng Ban Thường trực Ban Chỉ đạo Quốc gia phòng chống dịch Covid-19, Bộ trưởng Bộ Y tế nhận định diễn biến tình hình dịch Covid-19 trên thế giới và trong khu vực khiến nguy cơ lây nhiễm Covid-19 từ nước ngoài vào Việt Nam rất lớn.
+"Trong 24h qua, nhìn bức tranh tổng thể của dịch Covid-19 trên toàn cầu, nhất là tại các nước trong khu vực, chúng tôi rất lo lắng về nguy cơ tình hình dịch lây nhiễm Covid-19 vào Việt Nam. Ví dụ tại Ấn Độ, trong 24 giờ qua đã phát hiện thêm 340.000 ca nhiễm mới. Tại Campuchia là trên 600 trường hợp. Ngay tại Lào, cũng trong 24h, số nhiễm phát hiện được vượt qua số cao nhất từ trước đến nay của Việt Nam. Điều này khiến chúng tôi rất lo lắng", Bộ trưởng Long chia sẻ.
+Trên thế giới: "Đợt dịch xảy ra lần sau thường lớn hơn, mạnh hơn, tàn khốc hơn"
+Theo Bộ trưởng, có thể thấy trên thế giới tất cả những đợt dịch xảy ra lần sau thường lớn hơn, mạnh hơn và tàn khốc hơn lần trước. Vì thế, Việt Nam cần hết sức cảnh giác, tập trung triển khai tất cả các biện pháp phòng chống dịch, tích cực chủ động để làm sao kiểm soát tốt tình hình dịch.
+"Việc xuất hiện đợt dịch thứ 4 ở Việt Nam là nguy cơ hiện hữu. Chúng tôi lo lắng, nguy cơ lây nhiễm từ ngoài vào Việt Nam cộng thêm việc một bộ phận người dân lơ là, mất cảnh giác với việc lây nhiễm Covid-19", Bộ trưởng nhấn mạnh.
+Chính phủ, Thủ tướng Chính phủ liên tục có những chỉ đạo với công tác phòng chống dịch Covid-19, liên tục có cảnh báo với người dân, đồng thời triển khai quyết liệt các biện pháp ngăn chặn lây nhiễm từ nước ngoài vào Việt Nam. Đồng thời, cũng chuẩn bị các kịch bản trong tình huống dịch lan rộng, tình huống dịch xuất hiện tại địa phương, nhất là với khu vực Tây Nam Bộ.
+Bộ trưởng nhấn mạnh đến vai trò của người đứng đầu các địa phương với công tác phòng chống dịch.
+Bộ Y tế đánh giá Tây Nam Bộ là khu vực trọng điểm vì tình hình lây nhiễm Covid-19 ở Campuchia, khả năng xâm nhập ca bệnh vào Việt Nam. Mặc dù kiểm soát biên giới đường bộ đã làm tốt, nhưng kiểm soát biên giới trên đường biển lại là thách thức đối với tất cả các tỉnh tại khu vực này.
+Lập bệnh viện dã chiến tại khu vực Tây Nam Bộ
+Bộ Y tế cũngđã quyết định thành lập bệnh viện dã chiến tại khu vực này để có thể chủ động và tích cực ứng phó với dịch bệnh khi có kịch bản xấu xảy ra.
+Lý do vì từ Hà Tiên về TP Rạch Giá (thuộc tỉnh Kiên Giang) cách nhau 100km, việc đi lại khó khăn. Thứ hai, ngay tại Hà Tiên đang điều trị số ca mắc Covid-19 khá lớn. Ngoài ra, còn có nguy cơ xâm nhập dịch bệnh từ Campuchia về Việt Nam.
+Bộ Y tế đã chuẩn bị các kịch bản nếu khu vực này xuất hiện ca nhiễm cộng đồng; có ca lây nhiễm trong cộng đồng mà chúng ta không biết; xuất hiện lây nhiễm mạnh trong cộng đồng.
+Dù vậy, Bộ trưởng cũng bày tỏ lo lắng về nguy cơ các biến chủng kép SARS-CoV-2 tại Ấn Độ hoặcbiến chủng của Anh tại Campuchia xâm nhập vào nước ta mà không biết được. Do đó việc lây nhiễm cộng đồng có thể xảy ra và nguy cơ rất lớn. Từ ổ dịch nhỏ thành ổ dịch lớn.
+"Chúng tôi rất quyết liệt chỉ đạo khu vực này để làm sao khống chế, kiểm soát khi xảy ra tình hình dịch, không luống cuống, bối rối hay chủ quan, lơ là trong phòng chống dịch", Bộ trưởng nhấn mạnh.
+Bên cạnh đó, một tháng qua, Việt Nam chưa ghi nhận ca mắc Covid-19 tại cộng đồng nên thời gian qua đã có yếu tố lơ là, chủ quan mất cảnh giác, trong đó nhiều người ra đường không đeo khẩu trang, không thực hiện biện pháp 5K của Bộ Y tế.
+Do đó, Bộ trưởng khuyến cáo người dân thực hiện triệt để thông điệp 5 K của Bộ Y tế, trong đó 2 yếu tố quan trọng có thể quyết định làm giảm nguy cơ lây nhiễm Covid-19 là đeo khẩu trang và sát khuẩn tay.
+Thứ hai, hiện nay, Bộ Y tế đang triển khai công tác tiêm chủng vắc xin phòng Covid-19. Vì vậy, Bộ khuyến cáo người dân và tất cả những ai thuộc nhóm đối tượng được tiêm chủng hãy thực hiện tiêm chủng đầy đủ để có thể kiểm soát tốt tình hình.
+Thứ ba, người dân cũng như các cấp, các ngành và các địa phương không được chủ quan, lơ là, mất cảnh giác. Đây là thông điệp mà Chính phủ, Thủ tướng Chính phủ đã nhắc nhiều lần.
+"Tất cả các tỉnh, thành phố, nhất là các địa phương có đường biên giới phải kiểm soát tốt tình hình nhập cảnh, đặc biệt là nhập cảnh trái phép. Người dân nếu phát hiện người nhập cảnh trái phép cần lập tức báo với chính quyền địa phương", Bộ trưởng nói.
+Nam Phương

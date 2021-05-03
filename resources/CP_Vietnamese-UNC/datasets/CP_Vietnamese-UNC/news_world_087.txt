@@ -1,15 +1,17 @@
 # doc_id = news_world_087
-# url = https://dantri.com.vn/the-gioi/dai-su-my-tai-nga-phot-lo-loi-goi-y-hoi-huong-cua-moscow-20210420100319036.htm
-# date = 20210420
-Đại sứ Mỹ tại Nga John Sullivan (IAnhr: AP).
-Trang in Axios dẫn các nguồn thạo tin cho hay, Đại sứ Sullivan không có kế hoạch rời Nga dù Moscow trước đó đã khuyên ông trở về Washington để thực hiện các cuộc tham vấn.
-Theo Axios, quan điểm của ông Sullivan là chỉ Moscow bắt buộc ông rời đi thì ông mới làm như vậy.
-Hôm 16/4, Ngoại trưởng Nga Sergey Lavrov cho hay trợ lý tổng thống Nga Yuri Ushakov đã thông báo ngắn gọn với ông Sullivan về các biện pháp trả đũa của Moscow với Washington trong cuộc gặp tại thủ đô Nga. Ngoài ra, ông Ushakov đã "khuyên" ông Sullivan hãy trở về nước để tiến hành tham vấn với các bên liên quan.
-Ngày 15/4, Tổng thống Mỹ Joe Biden đã ký mệnh lệnh hành pháp trừng phạt 32 cá nhân, tổ chức và 6 doanh nghiệp trong lĩnh vực công nghệ của Nga. Ngoài ra, lệnh trừng phạt cũng bao gồm lệnh trục xuất 10 nhà ngoại giao của Nga với cáo buộc đây là các sĩ quan tình báo dưới vỏ bọc ngoại giao.
-Nhà Trắng cho biết, sắc lệnh trừng phạt này "nhằm phát đi thông điệp rằng Mỹ sẽ buộc Nga phải trả giá cả về mặt chiến lược và kinh tế nếu tiếp tục leo thang các hành động gây bất ổn".
-Ngày 16/4, Nga có động thái "ăn miếng trả miếng" khi tuyên bố Moscow sẽ trục xuất 10 quan chức ngoại giao Mỹ, nhưng không bao gồm ông Sullivan. Nga cũng cấm 8 quan chức cấp cao khác của Mỹ, bao gồm cả đương nhiệm và mãn nhiệm, nhập cảnh vào Nga vì góp phần vào hoạt động "chống Nga".
-Ngoài lệnh trục xuất và cấm nhập cảnh, Bộ Ngoại giao Nga cho biết nước này sẽ chấm dứt hoạt động tại Nga của các quỹ và tổ chức phi chính phủ của Mỹ mà Moscow tin rằng can thiệp vào công việc nội bộ của Nga.
-Trong khi đó, Đại sứ Nga tại Mỹ Anatoly Antonov vẫn tiếp tục thực hiện các cuộc tham vấn tại Moscow sau khi rời Mỹ hồi tháng 3 nhằm phản đối việc ông Biden từng có một số phát ngôn "nặng lời" với ông Putin trước đó.
-Trước khi 2 nước trục xuất nhà ngoại giao của nhau, chính quyền Mỹ đã để ngỏ về một cuộc gặp giữa Tổng thống Biden và Putin ở châu Âu vào mùa hè năm nay. Bất chấp việc các lệnh trừng phạt có nguy cơ dập tắt cơ hội tổ chức hội nghị thượng đỉnh, Tổng thống Biden đã tổ chức một cuộc họp báo vào tối 15/4, kêu gọi "đối thoại" với Nga, đồng thời nói rằng các lệnh trừng phạt của Mỹ là "tương xứng".
+# url = https://dantri.com.vn/the-gioi/dai-su-viet-nam-gat-nuoc-mat-tim-giuong-cho-ky-su-viet-mac-covid-19-o-an-do-20210422200653982.htm
+# date = 20210422
+Đại sứ Phạm Sanh Châu tại một bệnh viện ở New Delhi, Ấn Độ (Ảnh: Facebook Đại sứ Phạm Sanh Châu).
+Đại sứ Phạm Sanh Châu đã có những chia sẻ về tình hình dịch Covid-19 đang rất căng thẳng tại Ấn Độ trên mạng xã hội Facebook, thu hút sự quan tâm của đông đảo người theo dõi.
+"Giờ đây nếu ai mắc Covid 19 ở đây thì chỉ còn trông cậy vào sức đề kháng của bản thân và sự may rủi của số phận vì gọi điện đến bệnh viện nào thì cũng được cho biết là giường bệnh không còn, máy thở ôxy đã hết và ôxy cũng hết luôn", ông viết.
+Nhà ngoại giao Việt Nam chia sẻ rằng ông "chưa bao giờ cảm thấy lằn ranh giữa cái chết và sự sống lại mỏng manh đến thế".
+Làn sóng Covid-19 đang bùng phát mạnh mẽ ở Ấn Độ. Trong 24 giờ qua, nước này ghi nhận gần 315.000 ca nhiễm mới - con số phá kỷ lục thế giới về số ca bệnh xác nhận mắc trong 1 ngày.
+Ấn Độ hiện là vùng dịch lớn thứ 2 thế giới với 15,9 triệu ca bệnh và hơn 184.000 người chết, chỉ xếp sau Mỹ. Theo Đại sứ Phạm Sanh Châu, ở quốc gia tỷ dân, một thống kê cho thấy cứ 40 giây lại có một người thiệt mạng vì Covid-19.
+Trong những giờ phút đầy khó khăn, Đại sứ Phạm Sanh Châu chia sẻ rằng nhờ có sự giúp đỡ của Lãnh đạo Bộ Ngoại giao Ấn Độ và các vụ chức năng mà Đại sứ quán Việt Nam đã có thể "dành" được một giường chữa bệnh cho một kỹ sư Việt Nam đang làm việc ở Ấn Độ.
+"Đau đớn biết rằng để có được "giường bệnh" này có thể phải đánh đổi bằng sinh mạng của người khác. Có được giường mừng rơi nước mắt vì vừa tủi vừa thương, Đại sứ xúc động viết.
+Nhà ngoại giao Việt Nam mô tả tình trạng của kỹ sư này khá nghiêm trọng khi sốt cao nhiều ngày liên tiếp không thuyên giảm, "có lúc nồng độ ô xy trong máu dưới 90%, mức có thể gây tử vong"."Giờ đây, nơi nào ở đây cũng thành ổ dịch", ông cho biết.
+Nhà ngoại giao Việt Nam cũng cảnh báo rằng, điều tồi tệ nhất "vẫn đang ở phía trước. Ngay cả những ai đã tiêm 2 liều vắc xin vẫn có thể nhiễm như cựu Thủ tướng Momanhant Singh. Nhiễm rồi vẫn có thể bị tái nhiễm".
+Ông Phạm Sanh Châu thừa nhận "không muốn khóc mà nước mắt cứ trào ra. Nhìn ra đường chỉ nhìn toàn thấy xe cứu thương chạy ngược xuôi. Đến lò thiêu xác cũng quá tải đành mang xác ra vườn lấy cành khô trên cây mà đốt".
+Nhà ngoại giao Việt Nam bày tỏ sự cảm thương với tình hình dịch bệnh nghiêm trọng ở Ấn Độ khi chỉ sau vài ngày mà Ấn Độ đã "vỡ trận" và rơi vào "cơn đại hồng thủy" Covid-19.
+Theo các nhà khoa học, tình hình dịch bệnh ở Ấn Độ xấu đi nhanh chóng được xem một phần là do sự lây lan của biến chủng mới mang tên B1617, gồm 2 đột biến gen khiến nó trở nên dễ lây nhiễm hơn chủng ban đầu.
 Đức Hoàng
-Theo Tass, Axios

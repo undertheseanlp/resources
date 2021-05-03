@@ -1,14 +1,10 @@
 # doc_id = news_health_141
-# url = https://dantri.com.vn/suc-khoe/hon-100-nguoi-co-bieu-hien-ngo-doc-sau-khi-an-tiec-dam-cuoi-20210421100820575.htm
-# date = 20210421
-Hơn 100 người có biểu hiện ngộ độc sau khi ăn tiệc đám cưới.
-Ngày 21/4, Bệnh viện Đa khoa tỉnh Đắk Nông cho biết, đêm 20/4 đơn vị tiếp nhận gần 30 bệnh nhân có biểu hiện ngộ độc. Hiện tại, tình trạng bệnh nhân đã ổn định, tỉnh táo và không có trường hợp nào nặng.
-Trong khi đó, ông Nguyễn Tôn Đông Khoa, Chủ tịch UBND xã Quảng Hòa (huyện Đắk G'Long, tỉnh Đắk Nông) thông tin, có khoảng hơn 100 người dân cùng có biểu hiện ngộ độc sau khi tham dự một đám cưới tại thôn 8.
-Số lượng người ngộ độc được đưa đến 3 bệnh viện để điều trị gồm Bệnh viện Đa khoa tỉnh Đắk Nông, Bệnh viện Đa khoa vùng Tây Nguyên và Bệnh viện đa khoa huyện Lắk (tỉnh Đắk Lắk).
-Hiện tình hình sức khỏe của những người nghi ngộ độc đã ổn định, không ai nguy hiểm đến tính mạng.
-Theo ông Khoa, trưa ngày 20/4, một hộ dân thôn 8 tổ chức đám cưới và tự nấu tiệc. Đến khoảng 13h cùng ngày, nhiều người tham dự ăn uống có biểu hiện đau bụng, tiêu chảy, trong đó có nhiều trẻ em.
-Ngay sau đó, địa phương cùng người dân đưa các bệnh nhân đi cấp cứu tại các cơ sở y tế. Một số trường hợp nhẹ hơn thì được điều trị tại Trạm y tế xã Quảng Hòa.
-Anh Hầu Văn Sanh (trú thôn 8), có 2 con nhập viện điều trị cho biết, chiều hôm qua anh có việc bận nên không tham dự đám cưới mà chỉ có 2 con tham dự. Đến chiều thì cả 2 cháu bị đau bụng, nôn ói.
-Theo anh này, phần lớn người tham gia đều có chung biểu hiện đau bụng, tiêu chảy. Chỉ những ai không ăn món trứng gà thì không bị.
-Hiện cơ quan chức năng đang tổ chức lấy mẫu xét nghiệm để điều tra, làm rõ nguyên nhân.
-Dương Phong
+# url = https://dantri.com.vn/suc-khoe/ket-qua-xet-nghiem-cua-truong-hop-f-1-tai-bv-phu-san-trung-uong-20210501154436473.htm
+# date = 20210501
+PGS.TS Trần Danh Cường, Giám đốc Bệnh viện Phụ sản Trung ương cho biết kết quả xét nghiệm của trường hợp F1 liên quan đến Bệnh viện đã âm tính lần 1 với SARS-CoV-2.
+Trước đó, chiều 30/4, ngay sau khi nhận được thông tin về nữ bệnh nhân điều trị tại khoa Phụ 1 là F1 của ca bệnh 2928, Bệnh viện khẩn trương triển khai quy trình cách ly theo đúng quy định đối với trường hợp F1. Trong lúc chờ CDC Hoàn Kiếm đến lấy mẫu xét nghiệm và đón bệnh nhân về cách ly tập trung tại Bệnh viện Công an TP Hà Nội, bệnh nhân đã được chuyển sang khu vực cách ly riêng.
+Khoa Phụ 1 cũng tạm thời cách ly trong khi chờ kết quả xét nghiệm. Tuy nhiên, mọi hoạt động khám chữa bệnh khác trong bệnh viện vẫn diễn ra bình thường, không có sự xáo trộn.
+Bệnh viện cũng rà soát có tất cả 41 nhân viên y tế tiếp xúc với trường hợp F1 này và 17 bệnh nhân nằm cùng phòng điều trị. Sau khi nhận được thông báo kết quả xét nghiệm lần 1 của bệnh nhân âm tính với SARS-CoV-2, Bệnh viện đã họp và đưa ra quyết định mọi hoạt động của bệnh viện đều bình thường. 41 cán bộ y tế đang cách ly tại nhà cũng sẽ trở lại đi làm bình thường sau ngày nghỉ lễ.
+Trước đó, nữ bệnh nhân là F1 này vào Bệnh viện Phụ sản Trung ương điều trị từ ngày 28/4 do thai ngoài tử cung. Sau 2 ngày phẫu thuật, sức khỏe của bệnh nhân này đã ổn định. Vợ chồng nữ bệnh nhân này có ăn cơm cùng ca bệnh Covid-19 được Bộ Y tế công bố chiều 30/4. Hiện người chồng cũng đã có kết quả âm tính với SARS-CoV-2.
+Bệnh nhân 2928 là công nhân tại nhà máy Panasonic, khu công nghiệp Bắc Thăng Long, là F1 của nam bệnh nhân 2911 ở Đông Anh, Hà Nội.
+Nam Phương

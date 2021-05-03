@@ -1,9 +1,15 @@
 # doc_id = news_world_086
-# url = https://dantri.com.vn/the-gioi/dai-su-bi-tai-han-quoc-xin-loi-sau-vu-vo-tat-nhan-vien-ban-hang-20210422172536787.htm
-# date = 20210422
-Đại sứ quán Bỉ tại Hàn Quốc hôm nay 22/4 đăng tải một bình luận trên tài khoản Facebook chính thức nói rằng, Đại sứ Peter Lescouhier "thực sự hối tiếc về vụ việc liên quan đến phu nhân. Đại sứ muốn thay mặt phu nhân xin lỗi. Cho dù thế nào, phản ứng của bà ấy cũng không thể chấp nhận được".
-Đại sứ quán Bỉ cũng nhấn mạnh: "Chúng tôi hy vọng bà ấy sẽ nhanh chóng khỏe lại để có thể hợp tác điều tra với cảnh sát và chúng tôi có thể gạt sự việc đáng tiếc này sang một bên".
-Vợ của Đại sứ Bỉ Lescouhier, Xiang Xueqiu, 63 tuổi, đã khiến dư luận ở Hàn Quốc "dậy sóng" sau khi bà tát một nhân viên bán hàng ở Seoul sau khi lời qua tiếng lại.
-Vụ việc xảy ra hôm 9/4, khi bà Xiang bị hiểu nhầm trộm đồ tại một cửa hàng thời trang ở Seoul. Mặc dù nhân viên bán hàng đã xin lỗi, nhưng bà vẫn lời qua tiếng lại và thậm chí xô xát, tát một nhân viên ở đây.
-Sau khi nhận được nhiều khiếu nại, cảnh sát Seoul muốn thẩm vấn bà Xiang về vụ việc. Tuy nhiên, đến nay họ chưa thể liên lạc với bà vì bà vẫn phải nằm viện.
-Minh PhươngTheo AFP
+# url = https://dantri.com.vn/the-gioi/dai-su-my-tai-nga-phot-lo-loi-goi-y-hoi-huong-cua-moscow-20210420100319036.htm
+# date = 20210420
+Đại sứ Mỹ tại Nga John Sullivan (IAnhr: AP).
+Trang in Axios dẫn các nguồn thạo tin cho hay, Đại sứ Sullivan không có kế hoạch rời Nga dù Moscow trước đó đã khuyên ông trở về Washington để thực hiện các cuộc tham vấn.
+Theo Axios, quan điểm của ông Sullivan là chỉ Moscow bắt buộc ông rời đi thì ông mới làm như vậy.
+Hôm 16/4, Ngoại trưởng Nga Sergey Lavrov cho hay trợ lý tổng thống Nga Yuri Ushakov đã thông báo ngắn gọn với ông Sullivan về các biện pháp trả đũa của Moscow với Washington trong cuộc gặp tại thủ đô Nga. Ngoài ra, ông Ushakov đã "khuyên" ông Sullivan hãy trở về nước để tiến hành tham vấn với các bên liên quan.
+Ngày 15/4, Tổng thống Mỹ Joe Biden đã ký mệnh lệnh hành pháp trừng phạt 32 cá nhân, tổ chức và 6 doanh nghiệp trong lĩnh vực công nghệ của Nga. Ngoài ra, lệnh trừng phạt cũng bao gồm lệnh trục xuất 10 nhà ngoại giao của Nga với cáo buộc đây là các sĩ quan tình báo dưới vỏ bọc ngoại giao.
+Nhà Trắng cho biết, sắc lệnh trừng phạt này "nhằm phát đi thông điệp rằng Mỹ sẽ buộc Nga phải trả giá cả về mặt chiến lược và kinh tế nếu tiếp tục leo thang các hành động gây bất ổn".
+Ngày 16/4, Nga có động thái "ăn miếng trả miếng" khi tuyên bố Moscow sẽ trục xuất 10 quan chức ngoại giao Mỹ, nhưng không bao gồm ông Sullivan. Nga cũng cấm 8 quan chức cấp cao khác của Mỹ, bao gồm cả đương nhiệm và mãn nhiệm, nhập cảnh vào Nga vì góp phần vào hoạt động "chống Nga".
+Ngoài lệnh trục xuất và cấm nhập cảnh, Bộ Ngoại giao Nga cho biết nước này sẽ chấm dứt hoạt động tại Nga của các quỹ và tổ chức phi chính phủ của Mỹ mà Moscow tin rằng can thiệp vào công việc nội bộ của Nga.
+Trong khi đó, Đại sứ Nga tại Mỹ Anatoly Antonov vẫn tiếp tục thực hiện các cuộc tham vấn tại Moscow sau khi rời Mỹ hồi tháng 3 nhằm phản đối việc ông Biden từng có một số phát ngôn "nặng lời" với ông Putin trước đó.
+Trước khi 2 nước trục xuất nhà ngoại giao của nhau, chính quyền Mỹ đã để ngỏ về một cuộc gặp giữa Tổng thống Biden và Putin ở châu Âu vào mùa hè năm nay. Bất chấp việc các lệnh trừng phạt có nguy cơ dập tắt cơ hội tổ chức hội nghị thượng đỉnh, Tổng thống Biden đã tổ chức một cuộc họp báo vào tối 15/4, kêu gọi "đối thoại" với Nga, đồng thời nói rằng các lệnh trừng phạt của Mỹ là "tương xứng".
+Đức Hoàng
+Theo Tass, Axios

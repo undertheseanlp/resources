@@ -1,21 +1,16 @@
 # doc_id = news_sport_109
-# url = https://dantri.com.vn/the-thao/ha-aston-villa-man-city-dap-tat-hy-vong-vo-dich-cua-man-utd-20210422070017367.htm
-# date = 20210422
-Man City thi đấu không tốt trong thời gian gần đây ở các giải đấu trong nước, khi bị Chelsea đánh bại ở bán kết FA Cup. Tuy nhiên, thầy trò Guardiola đã chặn đứng đà sa sút khi họ thi đấu trên sân của Aston Villa ở trận đấu muộn của vòng 32 Premier League.
-Aston Villa mở tỷ số ngay ở phút đầu tiên của trận đấu. McGinn dứt điểm chéo góc từ trung tâm vòng cấm địa vào góc phải cầu môn hạ gục thủ thành Ederson đưa đội chủ nhà vượt lên dẫn trước. Bàn thắng tới từ một đợt lên bóng nhanh của Aston Villa và McGinn dứt điểm trong tư thế không bị ai theo kèm.
-Aston Villa ăn mừng bàn thắng ngay phút đầu tiên
-Áp lực lớn cho Man City bởi nếu thua trận đấu này, họ hoàn toàn có nguy cơ tuột mất chức vô địch, giống như Man Utd vào năm 2012. Dẫu vậy thời gian của trận đấu còn rất dài và Man City chưa đầu hàng. Bằng sự áp đảo về thời gian cầm bóng, Man City dồn ép đối thủ.
-Phút 22, các cầu thủ Man City xé toang hàng thủ đối phương bằng những đường chuyền nhuyễn. Silva thoát xuống sát biên ngang bên phải nhận bóng rồi chuyền ngược lại khu trung tâm cho Foden đệm bóng vào lưới đội chủ nhà. Một miếng đánh khoét nách đối thủ quen thuộc của Man City, khi phong độ cao họ thường xuyên thành công với miếng đánh này.
-Đưa trận đấu về vạch xuất phát, tâm lý các cầu thủ Man City thoải mái hơn. Phút 40, Silva tạt bóng từ bên phải để Rodri bật cao đánh đầu ghi bàn từ cự ly chỉ 5m. Thủ thành của Aston Villa lao ra không chính xác và bỏ trống khung thành nên đội chủ nhà bị trừng phạt.
-Pha vào bóng khiến Stones nhận thẻ đỏ.
-Có được bàn thắng vượt lên dẫn trước chưa được bao lâu, Man City đã bị thiệt hại quân số. Stones trong khi cố gắng phá bóng ở đợt phản công nhanh của đối phương đã đá vào đùi đối thủ. Một lỗi có vẻ không có tình của cầu thủ người Anh bởi anh và đối phương cùng lao vào đá quả bóng đang trên không. Dẫu vậy, sau khi xem lại video, trọng tài đã rút thẻ đỏ đuổi Stones.
-Lợi thế hơn người của Aston Villa không kéo dài. Phút 57, Cash tự mất bóng sau đó lao vào đốn hạ Foden. Một tình huống phạm lỗi như… bán độ. Ba phút trước Cash phải nhận thẻ vàng nhưng anh không quan tâm. Sau khi để rơi bóng bên phần sân đối phương, cũng chưa gây nguy hiểm cho đội chủ nhà bởi Foden không có người tiếp ứng để phản công. Vậy nên càng không nhất thiết phải phi thân hạ gục đối thủ như vậy.
-Một pha vào bóng rất thiếu trách nhiệm của cầu thủ số 2 của đội chủ nhà khiến họ đánh mất đi lợi thế hơn người và cũng tiêu tan vọng giành điểm.
-Pha chặt chém ngu ngốc của Cash với Foden.
-Quân số trở về thế cân bằng giúp Man City dễ thở, họ vẫn nhỉnh hơn đội chủ nhà về thế trận. Tuy nhiên, việc thiếu người khiến các đợt tấn công của Man City không còn sắc nét, bởi vậy các cơ hội uy hiếp khung thành của Martinez trong khoảng thời gian còn lại không nhiều, tỉ số 2-1 giữ nguyên cho tới khi hết giờ.
-Man City vươn lên điểm số 77 sau 33 trận đã thi đấu, hơn Man Utd 11 điểm. Và cho dù "Quỷ đỏ" có thắng ở vòng 33 vào cuối tuần này, khoảng cách giữa hai đội vẫn sẽ là 8 điểm. Bốn vòng đấu trước mắt, khoảng cách 8 điểm là đủ an toàn để Man City ung dung… đi bộ cũng về đích.
-Aston Villa thua trận thứ hai liên tiếp, giậm chân ở điểm số 44. Đội bóng của Dean Smith không còn cơ hội đua tranh giành suất dự cúp châu Âu ở mùa này, họ đã tụt xuống đứng thứ 11. Dù sao trụ hạng sớm cũng đã hoàn thành mục tiêu với Aston Villa
-Đội hình thi đấu
-Aston Villa (4-2-3-1) Martinez; Cash, Konsa, Mings, Targett; Luiz, Nakamba (Barkley 63); Traore 5.5 (El Ghazi 75), McGinn, Ramsey (Davis 46); Watkins.
-Man City: (4-3-3) Ederson; Walker, Stones, Dias, Zinchenko; Bernardo Silva, Rodri, Gundogan; Mahrez (Fernandinho 90), Jesus (Laporte 46), Foden.
-Hạo Minh
+# url = https://dantri.com.vn/the-thao/ha-duc-chinh-du-bi-doi-bong-cua-hlv-le-huynh-duc-thua-sai-gon-fc-20210428192601798.htm
+# date = 20210428
+Trước khi vòng 11 LS V-League 2021 khởi tranh, HLV Lê Huỳnh Đức của SHB Đà Nẵng tăng cường tiền đạo ngoại Claudecir, nhằm thay thế cho những chân sút mà cựu tiền đạo số 1 của bóng đá Việt Nam đã chê trước đó.
+Claudecir xuất hiện ngay từ đầu trong đội hình xuất phát của đội bóng sông Hàn, đá thay cho tuyển thủ quốc gia là Hà Đức Chinh.
+Tuy nhiên, ấn tượng mà Claudecir để lại trong suốt hiệp 1 không nhiều, ngoài tình huống đánh đầu… hụt của anh ở giữa hiệp, sau tình huống thủ môn Phạm Văn Phong bên phía Sài Gòn FC chọn sai điểm rơi, và Claudecir gần như đối diện với khung thành bỏ trống.
+Người có cơ hội nguy hiểm nhất cho SHB Đà Nẵng trong hiệp đấu đầu tiên là Rafaelson với tình huống đi bóng qua người hậu vệ đội Sài Gòn FC, trước khi tung cú sút từ góc hẹp, nhưng bị thủ môn Phạm Văn Phong của đội khách khép góc cản phá.
+Ở đầu sân bên kia, Sài Gòn FC có câu trả lời sau đó không lâu, với tình huống đánh đầu đưa bóng đi sạt xà ngang từ cự ly chừng 8m, trong tình huống mà thủ môn Thanh Bình của đội chủ nhà đã bó tay.
+Đến phút bù giờ đầu tiên của hiệp 1, tiền vệ người Hàn Quốc Woo Sang-ho của Sài Gòn FC tiếp tục có một tình huống sút bóng đầy uy lực từ khoảng 18m, khiến thủ thành Thanh Bình bên phía SHB Đà Nẵng giật mình, nhưng may cho đội bóng sông Hàn là bóng lại dội một hậu vệ đội này đi ra ngoài.
+Chơi có phần chậm chạp trong hiệp 1, nhưng Sài Gòn FC lại bất ngờ tăng tốc ở đầu hiệp 2, rồi tìm thấy bàn thắng. Phút 48, đón quả phạt góc từ biên phải của đồng đội, Nguyễn Hoàng Quốc Chí của đội bóng Sài thành đánh đầu ngược chuyền cho Đỗ Merlo, để cựu cầu thủ của SHB Đà Nẵng đá vô lê cận thành, ghi bàn vào lưới đội bóng cũ, giúp Sài Gòn FC mở tỷ số 1-0.
+Chưa hết choáng váng sau bàn thua vừa nêu, đội bóng của HLV Lê Huỳnh Đức lại thua tiếp bàn thứ 2 sau đó chỉ hơn chục phút.
+Phút 59, cầu thủ vào sân từ băng ghế dự bị là Bùi Xuân Quý có pha đá vô lê tuyệt đẹp từ khoảng 25m, đánh bại thủ môn Thanh Bình bên phía SHB Đà Nẵng, ghi bàn nâng tỷ số lên 2-0 cho đội bóng của HLV trẻ Phùng Thanh Phương.
+Trong những phút cuối trận, SHB Đà Nẵng đẩy cao đội hình ép sân dữ dội, nhưng mãi đến phút bù giờ thứ 3 của hiệp 2, tiền đạo ngoại Rafaelson mới ghi bàn thắng thu ngắn cách biệt xuống còn 1-2 cho đội bóng sông Hàn, sau tình huống đá bồi cận thành.
+Dù vậy, bàn thắng vừa nêu là chưa đủ để đoàn quân của HLV Lê Huỳnh Đức tránh được thất bại 1-2 ngay trên sân nhà trước Sài Gòn FC.
+Với Sài Gòn FC, chiến thắng trước SHB Đà Nẵng giúp đội này tạm thoát khỏi vị trí chót bảng, trước khi họ "nhường" lại vị trí này cho đội bóng cùng thành phố là CLB TPHCM.
+Kim Điền

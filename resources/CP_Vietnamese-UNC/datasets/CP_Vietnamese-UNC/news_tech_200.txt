@@ -1,12 +1,11 @@
 # doc_id = news_tech_200
-# url = https://dantri.com.vn/suc-manh-so/redmi-note-10-pro-mff-phien-ban-gioi-han-chi-khac-mau-sac-vo-op-lung-20210411161517227.htm
-# date = 20210411
-Redmi Note 10 Pro MFF (Mi Fan Festival) là mẫu smartphone đặc biệt được Xiaomi sản xuất giới hạn nhằm kỷ niệm sinh nhật lần thứ 11 của hãng. Điểm khác biệt lớn nhất của chiếc máy này so với phiên bản Redmi Note 10 Pro tiêu chuẩn nằm ở phần màu sắc phía mặt lưng cùng logo MFF 2021.
-Theo đó, phần mặt lưng của máy được hoàn thiện từ chất liệu kính nhám với màu sắc chủ đạo là màu cam bạc. Mặt lưng này có thể thay đổi màu sắc đậm nhạt khi người dùng nghiêng máy theo nhiều góc nhìn khác nhau. Điểm hạn chế là phần khung viền của máy vẫn chỉ được hoàn thiện từ chất liệu nhựa.
-Ngoài ra, các thông số phần cứng khác vẫn được giữ nguyên giống với phiên bản tiêu chuẩn. Màn hình của máy có kích thước 6,67 inch, sử dụng tấm nền AMOLED, độ phân giải 1.080 x 2.400 pixel và hỗ trợ công nghệ HDR10.
-Chất lượng của màn hình này tương đối tốt, màu sắc trong, hình ảnh hiển thị được tinh chỉnh theo hướng nịnh mắt. Ngoài ra, máy cũng hỗ trợ tần số quét 120 Hz, mang lại khả năng hiển thị tương đối mượt mà.
-Cụm camera chính của máy được làm nhô lên hẳn so với mặt lưng, khá giống với thiết kế của chiếc Xiaomi Mi 10T Pro. Hệ thống camera này bao gồm ống kính chính 108 MP, ống kính góc siêu rộng 8MP, ống kính macro 5MP và ống kính 2 MP hỗ trợ đo độ sâu trường ảnh.
-Một số trải nghiệm nhanh cho thấy camera của mẫu máy này cho chất lượng tương đối tốt. Ở điều kiện đủ sáng, hình ảnh chụp lại có chi tiết tốt, màu sắc và độ tương phản ở mức vừa phải, không quá rực. Trong điều kiện ánh sáng yếu, máy kiểm soát noise khá tốt, nhưng màu sắc tái tạo có phần nhạt hơn so với thực tế.
-Redmi Note 10 Pro MFF được trang bị bộ xử lý Snapdragon 732G, dung lượng RAM 8 GB cùng với bộ nhớ trong 128 GB. Viên pin đi kèm theo máy có dung lượng 5.020 mAh, hỗ trợ sạc nhanh 33 W. Cấu hình này có thể đáp ứng tốt đa số nhu cầu giải trí, chơi game. Tuy nhiên, để có thể chơi các tựa game nặng một cách mượt mà nhất, người dùng sẽ cần điều chỉnh thiết lập đồ họa về mức trung bình.
-Redmi Note 10 Pro MFF được Xiaomi giới thiệu tại sự kiện Mi Fans Festival 2021 với mức giá 7,5 triệu đồng. Máy sẽ cạnh tranh trực tiếp với một số đối thủ trong cùng phân khúc giá như Samsung Galaxy A51, Oppo Reno4 hay Vivo V20.
+# url = https://dantri.com.vn/suc-manh-so/reno-5-marvel-edition-ra-mat-tai-viet-nam-gia-97-trieu-dong-20210329135434290.htm
+# date = 20210329
+Oppo vừa ra mắt chiếc smartphone phiên bản đặc biệt Reno5 Marvel Edition được phát triển dựa trên sự hợp tác giữa OPPO và Marvel. So với phiên bản thường, chiếc Reno5 Marvel Edition được hãng làm mới về thiết kế bên ngoài cũng như giao diện sử dụng bên trong theo phong cách "Avengers".
+Thiết kế là điểm gây ấn tượng nhất trên mẫu máy này. Oppo cho biết máy thiết kế của Reno5 Marvel Edition lấy cảm hứng từ trang phục lượng tử mà các Avengers mặc trong bộ phim Avengers: Endgame với 4 màu sắc chủ đạo gồm đen, xám, bạc và đỏ.
+Giao diện ColorOS 11.1 cũng được tùy biến lại theo phong cách "Avengers" từ hình nền, hiệu ứng chuyển cảnh cho đến các biểu tượng của ứng dụng. Ngoài ra, Oppo cũng tạo riêng cho mẫu máy này 6 hình nền màn hình khóa khác nhau tương ứng với 6 siêu anh hùng Avengers.
+Chưa dừng lại ở đó, các phụ kiện đi kèm trong hộp bao gồm tai nghe, que lấy SIM, củ sạc và cáp sạc, tất cả đều có yếu tố trang trí và màu sắc mang đậm dấu ấn các Avengers của Marvel.
+Về thông số kỹ thuật, máy vẫn được trang bị màn hình AMOLED kích thước 6,4 inch cùng tầnsố quét 90 Hz. Reno5 Marvel Edition sử dụng bộ xử lý Snapdragon 720G, dung lượng RAM 8 GB cùng bộ nhớ trong 128 GB.
+Viên pin đi kèm theo máy có dung lượng 4.300 mAh, hỗ trợ công nghệ sạc nhanh 50 W. Máy sở hữu hệ thống 4 camera ở mặt lưng bao gồm ống kính chính 64 MP, ống kính góc siêu rộng 8 MP, ống kính đơn sắc 2 MP và ống kính macro 2 MP.
+Reno5 Marvel Edition được bán ra tại thị trường Việt Nam với mức giá 9,7 triệu đồng. Máy sẽ cạnh tranh trực tiếp với một số đối thủ trong cùng phân khúc giá như Samsung Galaxy A52, Vsmart Aris Pro, Nokia 8.3 5G.
 Thế Anh

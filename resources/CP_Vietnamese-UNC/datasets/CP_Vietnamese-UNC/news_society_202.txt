@@ -1,20 +1,12 @@
 # doc_id = news_society_202
-# url = https://dantri.com.vn/xa-hoi/nong-dan-cho-dua-nam-dieu-hoa-co-thanh-qua-sieu-dat-do-khi-ban-ra-20210501203455604.htm
-# date = 20210501
-Chuyện những loại trái cây có giá tiền triệu, thậm chí hàng chục, hàng trăm triệu đồng là điều lạ lùng với chúng ta. Nhưng tại Nhật Bản, đây là câu chuyện không mới. Một trong những loại quả có giá cao ngất ngưởng ở Nhật là dưa lưới Crown.
-Thông thường mức giá bán loại dưa này trên thị trường là 200 USD/quả (4,6 triệu đồng). Thậm chí trong một cuộc đấu giá hồi năm 2019, 2 quả dưa được bán với giá 22.500 USD/quả (hơn 500 triệu đồng).
-Lý do gì mà loại trái cây này lại có mức giá đắt đến như vậy?
-Quy trình chăm sóc khác lạ: Mỗi cây chỉ giữ lại duy nhất một quả
-Theo truyền thống của người Nhật, trái cây không phải đồ ăn tráng miệng mà là một thứ xa xỉ đóng vai trò lớn trong văn hóa quà tặng của đất nước này.
-Từ dưa Yubari King, dưa Andes, dưa xanh Higo đến nhiều loại hoa quả khác đều thể hiện sự tâm huyết, chăm chút đầu tư kỹ lưỡng của những nông dân Nhật. Trong đó, dưa Crown nổi tiếng với hương vị thơm ngon.
-Những quả dưa Crown chỉ được trồng ở Shizuoka, miền trung Nhật Bản. Quy trình chăm sóc loại dưa này vô cùng khắt khe.
-Những quả dưa Crown được sinh trưởng trong điều kiện tốt và được chăm sóc kỹ.
-Một quả dưa lưới ở Nhật mất khoảng 3 tháng để phát triển. Nơi trồng dưa có điều hòa không khí được kiểm soát để đảm bảo cho sự sinh trưởng của cây và giữ nhiệt độ không thay đổi.
-Được mát xa và đánh bóng bằng tay 
-Người Nhật sẽ xác định mức giá dựa vào vẻ đẹp của những đường rãnh trên vỏ. Do đó, những quả dưa thường được người trồng massage bằng tay và đánh bóng thủ công. Hành động "cưng nựng" này giúp kích thích sự tăng trưởng và "lên đường" (ngọt hơn).
-Khi quả lớn lên, chúng được bọc cẩn thận trong giấy trắng để bảo vệ khỏi ánh nắng mặt trời cho giai đoạn cuối cùng. Trái dưa lưới càng to, tròn, vỏ ngoài càng đẹp thì càng được giá.
-Mỗi quả được bày trong hộp riêng 
-Dù đắt đỏ nhưng thị trường dưa của Nhật luôn trong tình trạng thiếu hàng do nhu cầu người dùng cao. Người dân Nhật Bản sẵn sàng bỏ ra số tiền lớn để sử dụng những quả trái cây có chất lượng hoàn hảo. Các quả dưa Crown bày bán trong siêu thị thường có hộp riêng, đặt trên những tấm lụa mềm cùng cỏ khô được sơ chế và một dải ruy băng trông rất sang trọng.
-Thậm chí, vào mùa dưa nhiều nhà vườn còn tổ chức đấu giá các quả dưa chất lượng cao với giá vô cùng đắt đỏ.
-Quang Anh
-Theo BI
+# url = https://dantri.com.vn/xa-hoi/o-to-dai-nao-trong-san-benh-vien-3-nguoi-bi-thuong-nang-20210427094149342.htm
+# date = 20210427
+Sáng nay 27/4, trao đổi với PV Dân trí, lãnh đạo Bệnh viện Đa khoa khu vực Quảng Nam cho biết, khoảng 19h tối qua, 3 người (gồm 1 nam, 2 nữ) đi ô tô vào thăm người thân trong ở bệnh viện, lúc ra về thì gặp nạn ngay trong khuôn viên bệnh viện.
+"Thay vì đạp chân phanh, tài xế lại đạp chân ga. Xe đi lùi với tốc độ cao đã tông thẳng vào gara để xe ô tô của bệnh viện", lãnh đạo Bệnh viện Đa khoa khu vực Quảng Nam cho hay.
+Tiếp đó, xe ô tô còn tông vào đầu xe cấp cứu của bệnh viện. Lúc này, tài xế càng hoảng loạn đạp tiếp chân ga (khi chuyển qua số tiến) lao thẳng từ gara xuống trước cửa Khoa Phục hồi chức năng, tông vào tường rồi mới chịu dừng lại.
+Chiếc ô tô gây tai nạn trong sân bệnh viện. (Ảnh bệnh viện cung cấp).
+Ngay sau đó, các nạn nhân ngồi trên xe ô tô bốn chỗ được đưa vào các khoa chức năng cấp cứu.Bác sĩ Võ Thôi (trực cấp cứu của bệnh viện) cho biết,lái xe là ông N.T.C. (SN 1964, trú xã Duy Sơn, Duy Xuyên) bị đa chấn thương, tổn thương phần mềm vùng trán.
+Người đi cùng là bà B.T.S. (SN 1968, trú xã Duy Sơn, Duy Xuyên) bị đa chấn thương, vỡ lồi cầu và cổ xương đùi phải, tổn thương phức tạp. Người bị nặng nhất là bà B.T.B. (SN 1959, trú quận Thanh Khê, TP Đà Nẵng) bị gãy xương cánh tay trái, gãy 2 xương cẳng chân, gãy xương đùi phải, mất nhiều máu.
+Bác sĩ Võ Thôi cho hay, đến hơn 2h sáng 27/4, các bệnh nhân đã được phẫu thuật xong, qua cơn nguy kịch, chỉ số sinh tồn ổn định và đang được theo dõi ở Khoa Hồi sức tích cực.
+Xe ô tô gây tai nạn bị vỡ nát phần đầu, đuôi, bung túi khí, kính chắn gió trước và sau bị vỡ.
+Công Bính

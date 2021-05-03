@@ -1,14 +1,10 @@
 # doc_id = news_health_221
-# url = https://dantri.com.vn/suc-khoe/than-duoc-nha-ai-cung-co-giup-nao-to-hon-day-lui-benh-nan-y-20210420071338254.htm
-# date = 20210420
-Nghiên cứu vừa công bố từ Trung tâm Chăm sóc lão khoa Baycrest (Canada) cho thấy nếu người lớn tuổi dành nhiều thời gian hơn để làm việc nhà, họ sẽ có kích thước não lớn hơn so với người đồng trang lứa, từ đó đẩy lùi nhóm bệnh mất trí nhớ đang gây đau đầu cho các nhà khoa học khắp thế giới.
-Việc nhà chính là "thần dược" cho nhóm bệnh nan y là mất trí nhớ (Ảnh minh họa từ Internet).
-"Hiểu được các hình thức hoạt động thể chất khác nhau đóng góp như thế nào đối với sức khỏe não bộ là rất quan trọng để phát triển các chiến lược nhằm giảm nguy cơ suy giảm nhận thức và sa sút trí tuệ ở người lớn tuổi" - tiến sĩ Noah Koblinsky, nhà sinh lý học thể dục và là điều phối viên dự án tại Trung tâm Chăm sóc lão khoa Baycrest, giải thích trên Medical Xpress.
-Nghiên cứu vừa công bố trên BMC Geriatrics đã xem xét mối liên hệ giữa tần suất làm việc nhà, khối lượng não và khả năng nhận thức trên 66 tình nguyện viên. Các tác giả nhận thấy có 3 lý do khiến công việc nhà tác động tích cực lên não bộ.
-Một là, sức khỏe tim mạch gắn liênnfvới sức khỏe của não. Công việc nhà tác động tốt đến tim và mạch máu không kém những chuyến đi bộ tập thể dục, bởi chúng được coi là bài tập cardio (rèn luyện nhịp tim) cường độ thấp.
-Hai là, việc lập kế hoạch và tổ chức công việc gia đình trơn tru là cơ hội tốt để người lớn tuổi hoạt động não bộ, thúc đẩy sự hình thành các kết nối thần kinh. Nghiên cứu cho thấy, não bộ cần hoạt động tích cực, nếu không sẽ bị "hư hỏng" ảnh hưởng nhiều đến khả năng tư duy, khả năng nhận thức và trí nhớ.
-Ba là, những người lớn tuổi siêng làm việc nhà ít thời gian tĩnh tại hơn, sự thụ động đã chứng minh sẽ dẫn đến các vấn đề sức khỏe tiêu cực về não bộ.
-Đây là một gợi ý rất thú vị vì quan niệm người già lúc nào cũng cần nghỉ ngơi, được con cháu hay người giúp việc phục vụ toàn bộ mọi thứ vẫn còn khá phổ biến. Điều này vô tình khiến họ trở nên thụ động ngay trong chính ngôi nhà của mình.
-Trong khi đó, nhóm bệnh mất trí nhớ - đứng đầu là Alzheimer - vẫn là nhóm bệnh nan y, hiện không có thuốc chữa. Nhóm bệnh này được WHO xếp hàng thứ 5 trong các nguyên nhân tử vong sớm.
-Một số quốc gia như Anh, Mỹ, Úc còn xếp mất trí nhớ là nguyên nhân gây tử vong sớm hàng thứ 1 hoặc 2, và cảnh báo nhóm bệnh này đang có xu hướng gia tăng rất nhanh.
-Theo Người lao động
+# url = https://dantri.com.vn/suc-khoe/thanh-hoa-ket-qua-xet-nghiem-16-f-1-cua-cac-ca-benh-covid-19-20210501201312539.htm
+# date = 20210501
+Ngày 1/5, Trung tâm Kiểm soát bệnh tật Thanh Hóa cho biết, từ 29/4 đến sáng ngày 9h45 ngày 1/5, hệ thống giám sát dịch tại Thanh Hóa đã ghi nhận 16 trường hợp F1 và 13 trường hợp nguy cơ cao liên quan đến các bệnh nhân 2899 (Hà Nam), 2911 và 2928 (Hà Nội); 144 trường hợp F2.
+Kết quả xét nghiệm 16 F1 của các bệnh nhân Covid-19 đều âm tính với SARS-CoV-2.
+Cụ thể, trong số 29 F1 và các trường hợp nguy cơ cao, tại thành phố Thanh Hóa có 7, Quảng Xương 3, Nga Sơn 3, Triệu Sơn 2, thành phố Sầm Sơn 2, thị xã Nghi Sơn 2, Ngọc Lặc 2, Thọ Xuân 2, Hoằng Hóa 2, Cẩm Thủy 1, Yên Định 1, Như Xuân 1, Hà Trung 1; có 4 trường hợp đang ở tỉnh ngoài.
+CDC Thanh Hóa đã phối hợp với trung tâm y tế các huyện, thị xã, thành phố tiến hành giám sát, truy vết, cách ly lấy mẫu các trường hợp liên quan đến các ca bệnh Covid-19 ở ngoài tỉnh.
+Kết quả, đã lấy 157 mẫu xét nghiệm SARS-CoV-2, có 144 mẫu âm tính (trong đó có 16 trường hợp F1), còn 13 mẫu F2 chưa có kết quả xét nghiệm.
+Ban Chỉ đạo phòng, chống dịch các cấp của tỉnh Thanh Hóa tiếp tục tăng cường hoạt động Tổ giám sát cộng đồng, phát hiện sớm các trường hợp mắc, nghi mắc, F1, F2, các trường hợp trở về từ các ổ dịch đang hoạt động tại Việt Nam, các trường hợp nhập cảnh trái phép trên địa bàn tổ chức cách ly triệt để; giám sát và tuyên truyền người dân thực hiện các biện pháp phòng, chống dịch.
+Trần Lê

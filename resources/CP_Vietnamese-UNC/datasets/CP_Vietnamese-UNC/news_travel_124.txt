@@ -1,17 +1,23 @@
 # doc_id = news_travel_124
-# url = https://dantri.com.vn/du-lich/hoi-an-to-chuc-nhieu-hoat-dong-nhung-ngay-van-hoa-han-quoc-tai-quang-nam-20210406094238045.htm
-# date = 20210406
-Ngày 6/4, Trung tâm Văn hóa - Thể thao và Truyền thanh - Truyền hình TP Hội An cho hay, sau 2 lần (2017 và 2019) tổ chức thành công sự kiện "Những ngày văn hóa Hàn Quốc tại Quảng Nam"; năm nay Đại sứ quán Hàn Quốc, Trung tâm Văn hóa Hàn Quốc tại Việt Nam tiếp tục phối hợp với tỉnh Quảng Nam, thành phố Hội An tổ chức sự kiện này.
-Hoạt động giao lưu văn hóa nghệ thuật Hàn Quốc "Những ngày văn hóa Hàn Quốc tại Quảng Nam" năm 2019.
-Sự kiện năm nay sẽ diễn ra từ ngày 9-13/4/2021 với các hoạt động văn hóa, nghệ thuật, thể thao đặc sắc. Sự kiện cũng hy vọng thu hút du khách tham quan Hội An nói riêng và các điểm du lịch của tỉnh Quảng Nam nói chung.
-Tại TP Hội An, sự kiện "Những ngày văn hóa Hàn Quốc tại Quảng Nam, Hội An 2021" sẽ diễn ra từ ngày 9-11/4/2021 với nhiều hoạt động văn hóa đa dạng và ý nghĩa như trưng bày, triển lãm ảnh, trải nghiệm văn hóa, ẩm thực Hàn Quốc, Hội An, hoạt động chợ phiên Hội An, chương trình biểu diễn nghệ thuật, biểu diễn Teawondo…
-Đặc biệt, chương trình khai mạc và bế mạc với sự tham gia của nghệ sĩ nổi tiếng Hàn Quốc như nghệ sỹ Violin JMI KO, ca sĩ Seok Hun, ca sĩ Hansara, nhóm nhảy K-pop Hàn Quốc.
-JMI KO là nữ nghệ sĩ violin Hàn Quốc nhưng lại có tình cảm đặc biệt với đất nước Việt Nam. JMI KO được khán giả Việt Nam biết đến với phiên bản Violin "Xin chào Việt Nam" được thực hiện tại nhiều thắng cảnh nổi tiếng tại Việt Nam, trong đó có phố cổ Hội An.
-Nữ nghệ sĩ đã từng lưu diễn ở nhiều nơi trên thế giới. Cuối cùng, cô đã chọn Việt Nam như quê hương thứ hai của mình, cô đã sinh sống và làm việc tại TPHCM gần 10 năm qua.
-Nữ ca sĩ Han Sara là nữ ca sĩ trẻ Hàn Quốc đang hoạt động âm nhạc tại Việt Nam. Cô từng tham gia giọng hát Việt mùa 4 và đã gây ấn tượng mạnh mẽ cho khán giả Việt Nam bởi ngoại hình xinh xắn cùng giọng hát đầy nội lực.
-Các sản phẩm âm nhạc của cô mang màu sắc tuổi trẻ học đường, với giai điệu dễ thương như: Tớ thích cậu, Tận cùng nỗi nhớ, Mình hẹn hò nhau đi… đã nhanh chóng được khán giả đón nhận, đặc biệt là các khán giả trẻ tuổi.
-Theo Ban tổ chức, mặc dù năm nay, do tình hình dịch bệnh, chương trình không có sự tham gia của các nghệ sỹ đến từ Hàn Quốc, chỉ có các nghệ sỹ Hàn Quốc đang hoạt động nghệ thuật tại Việt Nam nhưng với sự chuyên nghiệp của nhóm nhảy K-pop, các nghệ sỹ Hàn Quốc… với các bước nhảy uyển chuyển, linh hoạt trên nền những bản nhạc Hàn Quốc đang được giới trẻ yêu thích sẽ đem đến một sân khấu đầy ấn tượng.
-Sự kiện "Những ngày văn hóa Hàn Quốc tại Quảng Nam" Hội An 2021 là hoạt động mang nhiều ý nghĩa quan trọng trong mối quan hệ ngoại giao giữa Việt Nam và Hàn Quốc nói chung và giữa tỉnh Quảng Nam, Hội An và Hàn Quốc nói riêng.
-Hoạt động nhằm quảng bá hình ảnh, văn hóa của đất nước Hàn Quốc, tăng cường giao lưu, mở ra cơ hội hợp tác giữa hai đất nước, mà trong đó Hội An đang là điểm đến yêu thích của đông đảo du khách đến từ khắp nơi trên thế giới, đặc biệt là du khách đến từ Hàn Quốc.
-"Hoạt động lần này nhằm góp phần thu hút ngày càng đông khách du lịch đến với Hội An sau thời gian dài chịu ảnh hưởng của dịch bệnh. Quan trọng hơn là việc khẳng định vị trí của Hội An trong việc giao lưu hội nhập quốc tế", thông tin từ Ban tổ chức cho hay.
-Công Bính
+# url = https://dantri.com.vn/du-lich/khach-o-at-huy-tour-den-sam-son-doanh-nghiep-ngoi-tren-dong-lua-20210429211121369.htm
+# date = 20210429
+Thành phố biển Sầm Sơn, tỉnh Thanh Hóa đã tổ chức khai trương du lịch hè năm 2021 vào ngày 24/4 vừa qua.
+So với các năm trước, năm nay, Sầm Sơn khai trương du lịch hè sớm hơn. Hầu hết các khách sạn, cơ sở lưu trú cũng đã sẵn sàng để phục vụ người dân và du khách.
+Nhiều khách sạn, cơ sở lưu trú, lượng khách đặt phòng lên đến 80-90%, thậm chí, có những khách sạn đã kín khách đặt phòng từ trước cho dịp nghỉ lễ 30/4 và 1/5.
+Anh N.V.L, chủ của nhiều khách sạn trên đường Hồ Xuân Hương, thành phố Sầm Sơn chia sẻ: "Những ngày khai trương vừa qua, khách sạn không còn phòng trống, chúng tôi đã phải huy động hàng trăm nhân viên dọn phòng, phục vụ ăn uống, sắp xếp xe cộ…".
+Tuy nhiên, những ngày gần đây, khi tình hình dịch bệnh Covid-19 diễn biến phức tạp đã tác động đến tâm lý của nhiều du khách.
+Ngày mai (30/4) là ngày đầu tiên của kỳ nghỉ lễ, tuy nhiên, từ ngày 29/4, nhiều du khách đã hủy phòng khách sạn tại thành phố Sầm Sơn, đặc biệt là khách tour.
+Theo anh L., hiện cơ bản các tour đã hủy phòng, còn khách du lịch nhỏ lẻ, gia đình vẫn chưa có kế hoạch thay đổi.
+"Khi có chỉ đạo của các ngành chức năng, chúng tôi đã nghiêm túc thực hiện các biện pháp phòng, chống dịch Covid-19, như chuẩn bị khẩu trang, nước sát khuẩn cũng như tờ khai y tế…
+Để chuẩn bị vào mùa du lịch mới, ngoài cơ sở vật chất phòng ốc, chúng tôi đã phải huy động hàng trăm nhân sự, làm việc hơn một tuần nay từ ngày khai trương. Việc nhiều đoàn khách hủy tour, trả phòng sẽ ảnh hưởng rất nhiều đến các cơ sở lưu trú như chúng tôi", anh L. chia sẻ.
+Có khoảng 30% các tour hủy đặt phòng khách sạn, lưu trú tại Sầm Sơn trong kỳ nghỉ lễ 30/4 và 1/5.
+Nếu tình hình vẫn tiếp tục diễn biến theo chiều hướng xấu, thì thiệt hại về kinh tế đối với các nhà hàng, khách sạn và các cơ sở lưu trú là rất lớn.
+Ông Bùi Quốc Đạt, Phó chủ tịch UBND thành phố Sầm Sơn chia sẻ: "Theo thống kê chiều ngày 29/4, các tour du lịch đến Sầm Sơn hủy khoảng 30%, còn các gia đình, cá nhân vẫn bình thường.
+Thành phố đã tăng cường công tác kiểm tra, yêu cầu các khách sạn, cơ sở lưu trú phải chuẩn bị khẩu trang, nước sát khuẩn. Sau một ngày đoàn kiểm tra đến nhắc nhở mà các cơ sở không thực hiện nghiêm thì sẽ bị đình chỉ hoạt động.
+Du khách đến với Sầm Sơn phải thực hiện theo khuyến cáo của Bộ Y tế, chúng tôi luôn cố gắng để Sầm Sơn là điểm đến an toàn", ông Đạt cho biết.
+Cũng theo ông Đạt, thành phố Sầm Sơn đã đồng ý cho Trung tâm Y tế mua 10.000 khẩu trang để sẵn sàng tiếp ứng cho các điểm du lịch trên địa bàn.
+Ngày 29/4, Tổng cũng Du lịch cũng đã tiến hành kiểm tra và cơ bản đánh giá tốt công tác chuẩn bị của địa phương cũng như các nhà hàng, khách sạn, cơ sở lưu trú.
+Theo thống kê của ngành chức năng, trong 4 ngày nghỉ lễ 30/4 và 1/5, lượng khách đặt phòng đạt khoảng 85%/tổng lượng phòng toàn tỉnh Thanh Hóa.
+Trao đổi với Dân trí, bà Vương Thị Hải Yến, Phó Giám đốc Sở Văn hóa - Thể thao và Du lịch Thanh Hóa cũng cho biết, trong 4 ngày nghỉ lễ 30/4 và 1/5, lượng khách đặt phòng du lịch tại Thanh Hóa đạt khoảng 85%.
+Tuy nhiên, do ảnh hưởng của dịch Covid-19, cho đến nay lượng khách hủy phòng khoảng 30% (tương đương 12.000 phòng/ngày); ước thiệt hại về doanh thu buồng phòng khoảng 40 tỷ đồng; thiệt hại về doanh thu ăn uống khoảng 160 tỷ đồng; thiệt hại về các dịch vụ khác khoảng 30 tỷ đồng…
+Trần Lê

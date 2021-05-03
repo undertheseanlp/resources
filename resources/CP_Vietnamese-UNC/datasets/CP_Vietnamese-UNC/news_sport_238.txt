@@ -1,18 +1,18 @@
 # doc_id = news_sport_238
-# url = https://dantri.com.vn/the-thao/thuc-hu-thong-tin-bau-duc-thuong-tien-ty-cho-ha-gia-lai-20210420100401170.htm
-# date = 20210420
-Chiều 18/4, HA Gia Lai dưới sự dẫn dắt của HLV Kiatisuk đã xuất sắc đánh bại Hà Nội FC trên sân Pleiku với tỷ số 1-0 bằng tuyệt phẩm của đội trưởng Lương Xuân Trường. Với 3 điểm giành được trước kình địch, đội bóng nhà bầu Đức tiếp tục đứng vững trên bảng xếp hạng LS V-League 2021 với 25 điểm sau 10 vòng đấu.
-Thành tích của HA Gia Lai đi vào lịch sử đội bóng, khi trải qua 6 trận toàn thắng liên tiếp, 9 trận bất bại. Với những gì đã thể hiện, đội bóng phố Núi đang rất tự tin tranh chức vô địch mùa này.
-Sau trận thắng CLB Hà Nội, xuất hiện nhiều thông tin về việc bầu Đức vì quá vui sướng đã thưởng nóng cho thầy trò HLV Kiatisuk. Cụ thể, Xuân Trường và các đồng đội đã nhận được số tiền thưởng lên tới 1 tỷ đồng.
-HA Gia Lai xác nhận thông tin bầu Đức thưởng nóng tiền tỷ là không chính xác.
-Việc HA Gia Lai được thưởng sau thành tích như mơ là rất xứng đáng. Tuy nhiên, đây là thông tin không chính xác, ngay lập tức đã được đại diện đội bóng phủ nhận.
-"Tin đồn HA Gia Lai được bầu Đức thưởng nóng là không đúng. Bầu Đức chưa có thưởng gì với đội cả. HA Gia Lai đang tập trung cho 3 trận còn lại của giai đoạn 1 V-League 2021", đại diện CLB HA Gia Lai lên tiếng trong sáng nay, 20/4.
-Thực tế, bầu Đức hiếm khi thưởng cho các cầu thủ mà công bố ra bên ngoài. Bản thân ông bầu này thường nhấn mạnh việc thưởng nóng sẽ làm hư đám trẻ. Công Phượng, Xuân Trường, Tuấn Anh… luôn nhận được những gì xứng đáng nhất nếu thi đấu đạt kết quả tốt và phải chơi đẹp.
-Ở trận thắng Hà Nội vừa qua, do bận công việc ở TP.HCM, bầu Đức đã không thể có mặt để chứng kiến đội bóng của mình làm nên "trang sử mới". Sau rất nhiều năm chỉ biết hòa và thua, cuối cùng HA Gia Lai cũng đã thắng Hà Nội ở một trận đấu chính thức, bằng siêu phẩm của Xuân Trường.
-Nếu bầu Đức có mặt trên sân, màn ăn mừng của HA Gia Lai có thể sẽ vui trọn vẹn hơn. Tuy nhiên, theo HLV Kiatisuk, bầu Đức vắng mặt cũng không sao, các cầu thủ chỉ quan tâm tới trận đấu chứ không để ý chuyện bên lề.
-"Tôi muốn học trò vào trận với tâm lý thoải mái, cống hiến cho người hâm mộ. Bởi trận đấu này thu hút sự quan tâm không chỉ từ người hâm mộ Việt Nam mà cả fan Thái Lan nữa. Về vấn đề tinh thần, sau trận thắng Nam Định, tôi nói các học trò không được chủ quan.
-Bởi chỉ cần lơ là một chút, HA Gia Lai có thể bị Viettel san bằng khoảng cách điểm số. HA Gia Lai thắng Hà Nội FC nhưng tôi nghĩ họ vẫn là đội bóng mạnh. Quang Hải và ngoại binh của Hà Nội FC rất nguy hiểm và chúng tôi hôm nay đã không để họ chơi bóng", HLV Kiatisuk giữ đôi chân của các học trò ở lại mặt đất.
-Thành tích ấn tượng cùng chiến thắng trước Hà Nội của HA Gia Lai đang gây sốt không chỉ với báo chí trong nước mà cả khu vực.
-"Zico Thái một lần nữa cho thấy khả năng dàn binh bố trận hợp lý và kết thúc trận đấu bằng chiến thắng ấn tượng trước Hà Nội FC. Màn trình diễn xuất sắc của HA Gia Lai xứng đáng với sự kỳ vọng của khán giả nhà, những người không ngại khó khăn để có mặt trên khán đài sân Pleiku chiều 18/4. Dưới sự dẫn dắt của "Zico Thái", HA Gia Lai luôn là đề tài nóng ở các sân đấu tại V-League 2021", trang Siam Sport viết.
-Ở vòng 11, HA Gia Lai có chuyến làm khách trên sân của Thanh Hóa - đội cũng đang có phong độ rất tốt với 3 trận toàn thắng, 5 trận bất bại dưới sự dẫn dắt của HLV kỳ cựu Petrovic.
-Tiến Đạt
+# url = https://dantri.com.vn/the-thao/tiet-lo-bat-ngo-ve-sieu-pham-day-psg-xuong-dia-nguc-20210429121927471.htm
+# date = 20210429
+Đêm qua, Man City đã thể hiện bản lĩnh tuyệt vời trong trận đấu với Paris Saint Germain (PSG) ở lượt đi bán kết UEFA Champions League. Mặc dù bị PSG vượt lên dẫn trước trong hiệp 1 nhưng đoàn quân của HLV Pep Guardiola đã lội ngược dòng giành chiến thắng 2-1. Với kết quả này, The Citizens đang có lợi thế cực lớn trước thềm trận lượt về diễn ra vào tuần sau.
+Riyad Mahrez chủ động xin De Bruyne cho thực hiện quả đá phạt.
+Trong đó, siêu phẩm sút phạt của Riyad Mahrez ở phút 71 đã thực sự đẩy PSG xuống địa ngục. Cầu thủ người Algeria đã thực hiện cú sút phạt xuyên qua khe hở nhỏ trong hàng rào của PSG, trước khi làm thủthành Keylor Navas bó tay.
+Thế nhưng, ít ai biết rằng, Riyad Mahrez đã phải "xin xỏ" De Bruyne để thực hiện cú sút phạt ấy. Bởi lẽ, ngôi sao người Bỉ là người được giao trọng trách thực hiện những cú đá phạt cho Man City.
+Thông tin trên đã được chính De Bruyne tiết lộ trên truyền hình BT Sport. Ngôi sao sinh năm 1991 chia sẻ: "Riyad Mahrez hỏi tôi rằng liệu có thể nhường cậu ấy thực hiện quả đá phạt hay không? Tôi trả lời, nếu cậu tự tin thì cứ việc sút. Tôi không từ chối yêu cầu của Riyad Mahrez bởi rất tin tưởng đồng đội của mình".
+Nói thêm về trận đấu với PSG, De Bruyne chia sẻ: "Chúng tôi đã trải qua quãng thời gian đầu tồi tệ và hiểu rằng cần phải xốc lại tinh thần và nỗ lực chạy nhiều hơn. Chúng tôi đã không may phải nhận bàn thua sớm ở trận đấu này.
+Cú sút phạt của Riyad Mahrez xuyên qua khe hở ở hàng rào Man City.
+Sau đó, chúng tôi đã phải thay đổi cách pressing, cố gắng tạo ra những cơ hội ghi bàn. Sang hiệp 2, toàn đội đã thi đấu tốt và gây áp lực lên đối thủ. Bàn thắng đầu tiên của tôi thực sự may mắn nhưng chúng tôi đã có màn trình diễn tuyệt vời.
+Toàn đội đã phát triển bóng nhanh hơn, cố gắng tìm ra nhiều khoảng trống để khai thác. Cuối cùng, bàn thắng thứ 2 của tới. Tôi rất vui mừng vì kết quả này nhưng chúng tôi vẫn còn trận lượt về ở phía trước".
+Trong khi đó, cựu danh thủ Chris Sutton cũng cho rằng Man City gặp may. Tuy nhiên, anh cho rằng yếu tố đó có thể giúp đoàn quân của HLV Pep Guardiola vô địch Champions League mùa giải này.
+Cựu danh thủ người Anh chia sẻ: "Man City đã có 2 bàn thắng không giống với phong cách thường thấy của họ. Có thể yếu tố này sẽ giúp họ giành chức vô địch Champions League. Tôi nghĩ rằng các cầu thủ Man City cũng cảm giác mọi thứ đang ủng hộ họ bởi cả 2 bàn thắng vào lưới PSG đều may mắn.
+De Bruyne đã đưa bóng vào lưới bằng một quả tạt, còn Riyad Mahrez bằng một cách nào đó có thể sút xuyên qua khe hở hàng rào. Bây giờ, Man City đã hoàn thành một nửa công việc. Vẫn còn chút lý do để lo ngại khi họ thi đấu không tốt trong hiệp 1.
+Sau khi lên kế hoạch bắt chết Mbappe hay Neymar, việc Man City để thủng lưới từ tình huống cố định sẽ khiến HLV Pep Guardiola cảm thấy không hài lòng. Họ để cho Marquinhos quá dễ đánh đầu ghi bàn. Phản ứng của các cầu thủ Man City trong tình huống đó là quá chậm".
+Trận lượt về bán kết Champions League giữa Man City và PSG sẽ diễn ra trên sân Etihad vào lúc 02h00 ngày 5/5.
+H.Long

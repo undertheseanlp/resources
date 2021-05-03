@@ -1,16 +1,9 @@
 # doc_id = news_society_218
-# url = https://dantri.com.vn/xa-hoi/suc-khoe-ky-su-nhan-o-an-do-hien-nay-the-nao-20210501153111864.htm
-# date = 20210501
-Đại sứ Việt Nam tại Ấn Độ kiêm nhiệm Nepal và Bhutan Phạm Sanh Châu chia sẻ tuần qua là một tuần đầy thách thức đối với Đại sứ quán Việt Nam tại Ấn Độ.
-Sau hơn 1 tuần nằm viện, anh Nhân, kỹ sư Việt Nam đang xây trụ sở cho Đại sứ quán mắc Covid-19 nặng, đã đỡ hơn nhưng vẫn phải thở ô-xy. Tám bệnh nhân người Việt khác đã khá hơn nhiều nhưng vẫn cần tiếp tục theo dõi.
-Bệnh viện ở Ấn Độ không còn giường bệnh trước làn sóng Covid-19 - Ảnh: Đại sứ Phạm Sanh Châu cung cấp
-Trước đó, nam kỹ sư đã trải qua những giờ phút nguy kịch. Anh sốt trên 39 độ nhiều ngày liên tiếp không thuyên giảm, có lúc nồng độ ô-xy trong máu dưới 90%, mức có thể gây tử vong.
-Với sự hỗ trợ trực tiếp của Bộ Ngoại giao Ấn Độ, nỗ lực của Đại sứ quán với đích thân "xuất Đại sứ", đã "giành" được một giường bệnh cho anh ở bệnh viện Apollo ở Delhi. Khi chính thức nhập viện, bệnh nhân vào đến phòng ô-xy thì lượng ô-xy trong máu chỉ còn 84%, rất nguy kịch.
-Theo Đại sứ Phạm Sanh Châu, từ ngày 27-4 đến 30-4, mỗi ngày Đại sứ quán Việt Nam tại Ấn Độ có 1 ca nhiễm mới. Ca nhiễm thứ 10 là một người đã tiêm vắc-xin ngừa Covid-19. Ca nhiễm thứ 11 là một thanh niên đã từng nhiễm vào tháng 10-2020, lần này tái nhiễm với chủng mới. Ca nhiễm thứ 12 là một cán bộ rất trẻ và khỏe.
-Đại sứ Phạm Sanh Châu xúc động cho biết những ngày qua, lãnh đạo và nhân dân hai nước Việt Nam và Ấn Độ, cũng như bạn bè khắp năm châu đã gọi điện và gửi lời thăm hỏi, sẻ chia tới cán bộ, nhân viên Đại sứ quán Việt Nam tại Ấn Độ. Đây là nguồn động viên tinh thần to lớn, kịp thời và rất đáng quí đối với anh chị em ở Đại sứ quán trong những giờ phút cam go này.
-"Những ngày trước mắt còn nhiều khó khăn, nhưng chúng tôi tin chắc chắn một điều, đó là chúng tôi sẽ vững vàng cùng nhau vượt qua thử thách to lớn này và chiến thắng bệnh dịch, cũng giống như dân tộc Việt Nam đã từng chiến thắng trong ngày này của 46 năm trước"- Đại sứ chia sẻ. Ông cũng bày tỏ tin tưởng Ấn Độ sẽ sớm vượt qua đại dịch này.
-Trước tình hình dịch bệnh tại Ấn Độ và các nước Đông Nam Á đang diễn biến phức tạp, Bộ Ngoại giao đã yêu cầu các cơ quan đại diện ngoại giao chuẩn bị sẵn sàng các phương án bảo hộ công dân, cũng như phối hợp chặt chẽ với các cơ quan chức năng sở tại để cập nhật sát tình hình dịch bệnh, đề nghị quan tâm và tích cực cứu chữa các công dân Việt Nam gặp khó khăn.
-Thời gian qua Bộ Ngoại giao, các Cơ quan Đại diện Việt Nam tại Ấn Độ phối hợp chặt chẽ với các cơ quan chức năng trong nước và sở tại, các hãng hàng không tổ chức các chuyến bay đưa gần 1.000 công dân Việt Nam về nước an toàn. Hiện còn khoảng 100 công dân Việt Nam đang ở lại Ấn Độ.
-Tại cuộc họp báo thường kỳ của Bộ Ngoại giao chiều 29-4, Phó Phát ngôn Bộ Ngoại giao Việt Nam Đoàn Khắc Việt cho biết Bộ Ngoại giao và các cơ quan đại diện Việt Nam tại Ấn Độ đang tiếp tục phối hợp chặt chẽ với các cơ quan chức năng trong nước, các hãng hàng không để lên các phương án hỗ trợ và thu xếp các chuyến bay đưa công dân về nước trong trường hợp cần thiết, phù hợp với diễn biến tình hình dịch bệnh. Công dân Việt Nam tại Ấn Độ có thể truy cập website chính thức của Đại sứ quán Việt Nam tại Ấn Độ hoặc đường dây nóng của Đại sứ quán Việt Nam tại Ấn Độ +91-7303-625-588 để cập nhật thông tin chính xác.
-Theo D. Ngọc
-Người lao động
+# url = https://dantri.com.vn/xa-hoi/tau-hang-mong-co-bi-nghieng-18-container-roi-xuong-song-sai-gon-20210426150456392.htm
+# date = 20210426
+Vào khoảng 9h30 ngày 26/4, tàu Alica có số hiệu JVRN7 mang quốc tịch Mông Cổ, dài 71,96m chở theo 54 container đang neo đậu tại cầu cảng TCHP 1 của bến Tân cảng Hiệp Phước (TPHCM) thì bất ngờ bị nghiêng ra phía lòng sông Sài Gòn.
+Sự cố trên khiến 18 thùng container bị rớt xuống sông Sài Gòn, không có thiệt hại về người.
+Sau khi sự việc xảy ra, Tổng công ty Tân cảng Sài Gòn, Cảng vụ TPHCM đã điều lực lượng, phương tiện ra sông Sài Gòn để đánh dấu, di chuyển các container được tìm thấy đến vị trí an toàn.
+Để đảm bảo an toàn đường thủy sau sự cố trên, lực lượng chức năng của TPHCM đã phân luồng tàu thuyền ra vào cảng theo luồng hàng hải Sài Gòn - Vũng Tàu.
+Nguyên nhân xảy ra sự cố trên đang được lực lượng chức năng điều tra, làm rõ.
+Hoàng Thuận

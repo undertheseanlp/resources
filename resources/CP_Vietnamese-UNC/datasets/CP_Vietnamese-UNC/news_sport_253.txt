@@ -1,20 +1,9 @@
 # doc_id = news_sport_253
-# url = https://dantri.com.vn/the-thao/uefa-doa-phat-nang-real-madrid-ong-trum-perez-phan-ung-bat-ngo-20210424203113976.htm
-# date = 20210424
-Sau khi tuyên bố thành lập vào tuần trước, giải European Super League đang đứng trước nguy cơ tan rã khi 9 CLB đã rút lui. Giờ đây, chỉ còn 3 CLB sót lại là Real Madrid, Barcelona và Juventus. Thậm chí, Barcelona còn không ngại tuyên bố vẫn tiếp tục gắn bó với siêu dự án này.
-Chủ tịch UEFA, Aleksander Ceferin ép các CLB phải lựa chọn thi đấu ở European Super League hoặc Champions League.
-Trong phiên họp mới đây, UEFA khẳng định vẫn sẽ tạo điều kiện cho Real Madrid tham dự Champions League mùa này. Sở dĩ họ không thể loại Los Blancos bởi những vấn đề liên quan tới bản quyền truyền hình.
-Thế nhưng, điều đó không có nghĩa rằng cơ quan quyền lực cao nhất của bóng đá châu Âu sẽ tha bổng cho nhóm "phản loạn". Họ vẫn tiếp tục cho các 3 CLB nói trên thêm thời gian để rút lui khỏi giải đấu. Bằng không, UEFA sẽ có hình phạt nặng trong tương lai.
-Chủ tịch UEFA, Aleksander Ceferin tuyên bố mạnh mẽ: "Rõ ràng, những CLB này buộc phải lựa chọn rằng họ sẽ tham dự European Super League hay sẽ thi đấu ở cúp châu Âu. Nếu họ muốn thi đấu ở European Super League thì không cần phải góp mặt ở Champions League.
-Nếu như họ muốn lập giải đấu của riêng mình thì cứ việc làm điều đó. Tôi có cái nhìn rất khác về những đội bóng đã chủ động thừa nhận sai lầm và rời khỏi dự án European Super League. Các CLB khác cũng thấy dự án này chết yểu nên họ đã không tham gia ngay từ đầu".
-Chủ tịch Real Madrid, Florentino Perez khẳng định sẽ không bắt các CLB tháo chạy đền bù ở thời điểm này, mà hy vọng họ sẽ nghĩ lại.
-Trong khi đó, chia sẻ trong bài phỏng vấn trên tờ AS, Chủ tịch Real Madrid, Florentino Perez khẳng định vẫn hy vọng các CLB tham dự và ủng hộ dự án European Super League.
-Người đứng đầu Real Madrid cho biết: "Ở thời điểm này, tôi sẽ không giải thích bất kỳ điều gì liên quan tới sự ràng buộc của các CLB khi tham gia dự án European Super League. Họ hoàn toàn có thể rút lui.
-Một số CLB trong đó phải chịu áp lực lớn nên đã quyết định ra đi. Nhưng tôi cho rằng dự án European Super League vẫn sẽ tiếp tục. Tôi hy vọng nó sẽ sớm xảy ra.
-European Super League vẫn tồn tại với những thành viên trong đó. Chúng tôi dành vài tuần để suy nghĩ nhưng đang phải đối diện với sự đàn áp của một số người, do không muốn mất đi đặc quyền của họ, đã sử dụng để thao túng dự án".
-Ngân hàng JP Morgan được cho là đã rút khoản tài trợ 3,5 tỷ bảng sau khi European Super League đứng trước nguy cơ tan rã. Trong tuyên bố vào thứ Sáu, họ thừa nhận đã sai lầm khi không đánh giá đúng tình hình.
-Người đứng đầu Real Madrid cảnh báo bóng đá sẽ loạn khi các CLB lớn phá sản trong vài năm tới.
-Tuy nhiên, Chủ tịch Florentino Perez đã bác bỏ thông tin trên: "Điều đó không đúng sự thật. Ngân hàng JP Morgan chưa hề rút tiền. Họ cũng mất một thời gian để suy nghĩ, giống như 12 CLB khi quyết định tham dự European Super League. Nếu như chúng tôi thay đổi được điều gì thì sẽ quyết tâm thay đổi nó".
-Bên cạnh đó, người đứng đầu Real Madrid cảnh báo các CLB có thể phá sản nếu không tìm ra được giải pháp. Ông nói thêm: "Sự thật là phiên bản mới ở Champions League không thuyết phục được tôi. Không phải là vì mô hình của phiên bản, mà là vì thời điểm áp dụng vào năm 2024. Nếu không tìm ra giải pháp sớm hơn, các CLB có thể phá sản.
-Tôi xin cảnh báo rằng bóng đá châu Âu sẽ loạn nếu như hàng loạt CLB lớn phá sản. Chỉ có những CLB được nhà nước cấp vốn hoặc sở hữu bởi những tỷ phú mới có thể thoát khỏi nạn này. Còn không thì các CLB xác định sẽ mất thêm hàng trăm triệu euro mỗi năm".
-H.Long
+# url = https://dantri.com.vn/the-thao/van-dong-vien-truot-tuyet-mat-mang-do-dam-vao-goc-cay-20210419100108202.htm
+# date = 20210419
+Theo thông tin từ RT, một nam vận động viên trượt tuyết giấu tên đã qua đời vào Chủ nhật (18/04) trong khi tham dự cuộc đua trượt tuyết đường trường 30km ở Petropavlovsk-Kamchatskiy, Nga.
+Video quay lại vụ tai nạn kinh hoàng cho thấy khi đoàn đua đi qua một khúc cua, do trơn trượt nên vận động viên xấu số nói trên đã trượt ngã và phi thẳng vào một thân cây ven đường. Hai vận động viên khác cũng ngã ở khúc cua này, nhưng họ không gặp chấn thương nên có thể đứng dậy tiếp tục thi đấu.
+Vận động viên va vào gốc cây nằm sấp trên tuyết, sau đó một vận động viên trượt tuyết khác sau đó va chạm với anh ta. Một số người theo dõi cuộc đua đã tiến lại phía hiện trường.
+Các thông tin về vụ việc sau đó cho biết người đàn ông đã qua đời đại diện cho thành phố Krasnodar của Nga và trước đó đã sống gần địa điểm diễn ra cuộc đua.
+Người trượt tuyết được yêu cầu cung cấp giấy khám sức khỏe đảm bảo rằng họ đủ sức khỏe tham dự cuộc đua, họ cũng cần có kết quả xét nghiệm Covid-19 âm tính và giấy chứng nhận tiêm vắc xin.
+Hạo Minh

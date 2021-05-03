@@ -1,12 +1,15 @@
 # doc_id = news_entertainment_126
-# url = https://dantri.com.vn/giai-tri/kate-winslet-so-nhat-dieu-gi-khi-nghi-ve-titanic-20210427120457470.htm
-# date = 20210427
-Titanic là một trong những bộ phim ăn khách nhất mọi thời đại. Bộ phim công chiếu vào năm 1997 đã biến Leonardo DiCaprio và Kate Winslet trở thành hai ngôi sao điện ảnh hàng đầu thế giới và mang lại cho Kate Winslet cả danh tiếng và tiền bạc nhưng như Kate Winslet trả lời phỏng vấn thì vẫn có những điều khiến nữ diễn viên cảm thấy không hài lòng về bộ phim này.
-Kate Winslet chia sẻ, một trong những điều khiến cô cảm thấy không thoải mái đó chính là hàng chục năm sau khi Titanic công chiếu, khán giả vẫn cầm bức ảnh nhân vật Rose của cô khỏa thân trên phim và xin chữ ký của cô.
-Jack vẽ Rose khỏa thân là một trong những cảnh kinh điển trong phim Titanic
-Nữ diễn viên nổi tiếng nói: "Tôi không nghĩ đó là một bức ảnh mà tôi sẽ nhìn thấy sau nhiều năm đã trôi qua. Nó vẫn còn ám ảnh tôi ... Nó thực sự khá buồn cười. Tôi cảm thấy không thoải mái và thậm chí không muốn ký vào đó".
-Bức phác họa khỏa thân nổi tiếng của ngôi sao Kate Winslet trong phim Titanic đã bán được với giá 16 nghìn USD vào năm 2011. Martin Nolan, giám đốc điều hành của Julian's Auctions, một nhà đấu giá kỷ vật giải trí ở Beverly Hills, California, Mỹ cho biết ông không ngạc nhiên khi bức vẽ bán được giá cao như vậy. Ông nói: "Mọi người sẵn sàng trả tiền kiểu này vì những người nổi tiếng. Đó là tình yêu dành cho bộ phim và tình yêu nghệ thuật".
-Bản phác thảo mô tả một cảnh quan trọng của Titantic: Rose - do Winslet thủ vai, yêu cầu người tình Jack Dawson, do Leonardo DiCaprio thủ vai, vẽ chân dung cô đeo chiếc vòng cổ kim cương xanh và nằm khỏa thân trên một chiếc ghế dài.
-Mặc dù DiCaprio có nhiều tài lẻ nhưng anh không thực sự vẽ được bức chân dung đó mà người vẽ lại chính là đạo diễn của bộ phim James Cameron. Leonardo thuận tay phải và James thuận tay trái. Vì vậy, hãng phim đã sử dụng một số kỹ xảo điện ảnh tiên tiến nhất thời bấy giờ để chỉnh sửa cảnh phim và tạo ra cảnh Jack đang vẽ Rose bằng tay phải trong khi sự thực là James đang làm điều đó bằng tay trái.
+# url = https://dantri.com.vn/giai-tri/kate-winslet-tiet-lo-dieu-it-biet-ve-canh-nong-voi-leonardo-di-caprio-20210415193412347.htm
+# date = 20210415
+Titanic - Bộ phim điện ảnh công chiếu vào năm 1997 đã biến hai diễn viên trẻ Kate Winslet và Leonardo DiCaprio trở thành những ngôi sao điện ảnh hạng A của Hollywood. Câu chuyện tình đẹp đẫm nước mắt của cặp đôi Jack và Rose trên con tàu định mệnh Titanic đã lấy biết bao nước mắt của khán giả.
+Titanic đã được đề cử 14 giải Oscar danh giá và giành được tới 11 giải. Bộ phim có kinh phí làm phim ước chừng 200 triệu USD nhưng đã mang về cho nhà sản xuất gần 2,2 tỷ USD doanh thu phòng vé và đó là bộ phim có doanh thu cao nhất mọi thời đại cho đến khi phim Avatar ra mắt vào năm 2010.
+Kate Winslet và Leonardo DiCaprio trở thành "sao" hạng A nhờ Titanic
+Hàng chục năm sau khi Titanic ra mắt, Kate Winslet vẫn thường được hỏi về vai diễn nàng Rose trong bộ phim này. Trong một cuộc trả lời phỏng vấn với tờ Rolling Stone, Kate Winslet tiết lộ cô và bạn diễn Leonardo DiCaprio đã chia sẻ những bí quyết "phòng the" khi họ quay bộ phim này và cô mô tả cảnh "nóng" của họ trong chiếc xe du lịch Renault là "tuyệt vời."
+Kate Winslet giải thích: "Khi thực hiện cảnh quay đó, đó không phải là chúng tôi. Tuy nhiên, chúng tôi bị khóa chặt vào tất cả những gì phải diễn ra. Rose trong tôi thực sự yêu Jack trong anh ấy. Và mặc dù bản thân tôi không cảm thấy như vậy về Leo, nhưng thật tuyệt khi cảm thấy như vậy trong cảnh quay. Nó khá là đáng yêu."
+Theo Kate Winslet, DiCaprio đã đứng dậy ngay lập tức và bỏ đi khi máy quay ngừng quay cảnh "nóng" của họ còn cô thì vẫn nằm đó. "Tôi nhớ mình đã nằm đó và nghĩ: "Thật là xấu hổ khi chuyện đó đã qua. Bởi vì nó khá đẹp."
+Kate Winslet tiết lộ thêm, cô và Leonardo DiCaprio khá thân thiết nên họ còn chia sẻ kinh nghiệm quay cảnh "phòng the" trên phim trường. Nói chuyện với Rolling Stone, Kate khẳng định cô và Leo hỏi ý kiến của nhau khi đóng cảnh "nóng". "Rất nhiều mẹo mà anh ấy đưa cho tôi đã có tác dụng," Kate tâm sự.
+Kate Winslet cũng thừa nhận, bộ phim Titanic đối với cô là một sự may mắn và cô không nghĩ bộ phim sẽ thành công ngoài sức tưởng tượng như vậy. "Lần đầu tiên tôi đóng vai một người Mỹ. Và làm việc với Leo… Tôi là cô gái thừa cân luôn ở cuối hàng."
+"Bởi vì họ của tôi bắt đầu bằng chữ W, nên đôi khi tôi thậm chí không thể lọt vào các buổi thử giọng vì họ đã hết thời gian trước khi tới tên tôi. Vậy mà tôi được đóng Titanic. Thật là điên rồ", Kate chia sẻ.
+Minh tinh người Anh chia sẻ, cô cũng luôn nhớ những lời chỉ trích về cân nặng của cô vào khoảng thời gian Titanic được phát hành. Nữ diễn viên nổi tiếng cho biết, những lời bình luận gay gắt của công chúng đã "hủy hoại" sự tự tin của cô và khiến cô nâng cao cảnh giác khi theo đuổi sự nghiệp ở Hollywood. "Nó làm xáo trộn ấn tượng của tôi về những điều đẹp đẽ bởi bạn biết không? Tôi đang cảm thấy rất tự tin."
 Vĩnh Ngọc
-Theo Things
+Theo Fox

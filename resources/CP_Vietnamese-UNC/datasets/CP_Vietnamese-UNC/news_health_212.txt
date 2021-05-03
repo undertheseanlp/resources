@@ -1,23 +1,18 @@
 # doc_id = news_health_212
-# url = https://dantri.com.vn/suc-khoe/sang-thuc-day-met-moi-nuoc-tieu-sam-mau-benh-gi-dang-tim-den-20210423130805187.htm
-# date = 20210423
-Gan có thể giúp cơ thể con người lưu trữ glycogen, khử oxy, thúc đẩy quá trình tổng hợp các protein tiết ra, sản xuất và dự trữ máu, thanh nhiệt giải độc.
-Cơ quan duy nhất trong cơ thể không có dây thần kinh ngoại biên là gan. Không chỉ vậy, gan còn là cơ quan phải làm việc nhiều nhất, công việc phức tạp nhất và có khả năng bù trừ mạnh mẽ nhất.
-Chính vì những đặc điểm trên của gan mà ở giai đoạn đầu của bệnh gan mãn tính, người bệnh thường không có bất kỳ biểu hiện bất thường nào.Đặc biệt ngay cả các bệnh lý nghiêm trọng về gan như xơ gan, ung thư gan thì khả năng phát hiện sớm đều cực kỳ thấp.
-Tuy nhiên, khi bệnh gan tiếp tục tiến triển, người bệnh sẽ có các triệu chứng khác nhau. Chẳng hạn như 4 triệu chứng khi thức dậy vào buổi sáng sau đây có thể là lời cảnh báo từ gan:
-Mệt mỏi sau khi thức dậy vàobuổi sáng
-Sau cả một đêm nghỉ ngơi và điều chỉnh, cơ thể sẽ trở lại trạng thái bình thường. Sau khi thức dậy bạn sẽ minh mẫn, tràn đầy năng lượng và sức sống.
-Tuy nhiên, khi bệnh gan mãn tính xuất hiện, cảm giác căng tràn sức sống vào buổi sáng sẽ không còn. Theo các chuyên gia,vì bệnh gan có thể phá hủy chức năng của gan, từ đó ảnh hưởng đến quá trình tiêu hóa và hấp thu của cơ thể, dẫn đến suy dinh dưỡng, thậm chí là phát sinh hội chứng kém hấp thu.
-Đồng thời, khả năng giải độc và chuyển hóa của gan cũng sẽ giảm sút, khiến cơ thể tích tụ một lượng lớn chất thải và chất độc hại, dẫn đến tình trạng mệt mỏi tăng dần, thậm chí sau vài ngày nghỉ ngơi tình trạng này cũng không được cải thiện.
-Chảy máu cam và chảy máu nướu răng
-Gan là một bộ phận của hệ thống đông máu của cơ thể và chịu trách nhiệm sản xuất các yếu tố đông máu khác nhau.
-Do đó, khi bệnh nhân bị xơ gan nặng, ung thư gan giai đoạn cuối và các vấn đề khác, họ thường bị rối loạn đông máu và có xu hướng chảy máu. Biểu hiện dễ nhận thấy nhất là chảy máu cam thường xuyên, chảy máu nướu răng khi đánh răng vào buổi sáng,chảy máutrên các vết thương hở khó cầm.
-Khi tình trạng rối loạn đông máu phát triển đến mức độ nghiêm trọng, người bệnh cũng sẽ gặp phảinhiều vấn đề như:bầm máu dưới da, ban xuất huyết, thiếu máu.
-Hôi miệng bất thường
-Trong hầu hết các trường hợp, hôi miệng có liên quan đến các bệnh lý răng miệng và bệnh đường tiêu hóa.Tuy nhiên, khi bệnh gan tiến triển đến mức độ nặng nhưbệnh nhân xơ gan mất bù, ung thư gangiai đoạn cuối thì trong miệng bệnh nhâncó thể xuất hiện mùi hôi. Mùi này giống như hỗn hợp hoa quả thối và trứng thối.
-Nguyên nhân là do chức năng gan bị tổn thương nghiêm trọng khiến trong cơ thể tích tụ một lượng lớn amoniac, dimethyl sulfide, methyl mercaptan, cuối cùng toát ra từ miệng gây mùi khó chịu.
-Nước tiểubuổi sáng có màu vàng sậm
-Trong nước tiểu có một lượng nhỏ urobilin nên nước tiểu của người bình thường thải ra có màu vàng nhạt.Tuy nhiên, nếu phát hiện nước tiểu có màu trà bất thường sau khi thức dậy vào buổi sáng thì rất có thể đây là dấu hiệu của rối loạn chuyển hóa bilirubin và tổn thương gan.
-Do tế bào gan lúc bị tổn thương không thể hấp thụ, chuyển hóa và bài tiết bilirubin một cách bình thường nên một lượng lớn bilirubin sẽ thâm nhập vào nước tiểu qua quá trình lọc máu, từ đó làm thay đổi màu sắc của nước tiểu.
-Minh Nhật
-Tổng hợp
+# url = https://dantri.com.vn/suc-khoe/suc-khoe-12-nguoi-hai-duong-di-cung-ca-benh-sieu-lay-nhiem-ha-nam-ra-sao-20210501175449268.htm
+# date = 20210501
+Chiều 1/5, trao đổi với phóng viên Dân trí, lãnh đạo Trung tâm Kiểm soát bệnh tật (CDC) Hải Dương cho biết, kết quả xét nghiệm 12 người Hải Dương đi cùng chuyến bay với bệnh nhân 2899 ở Hà Nam đều âm tính lần 1 với SARS - CoV-2.
+Trong đó 8 trường hợp đã có kết quả xét nghiệm từ ngày 28-29/4; 4 trường hợp xét nghiệm trong ngày 30/4. 59 F2 của các trường hợp này cũng đã có kết quả xét nghiệm âm tính.
+Tính đến chiều 1/5, Hải Dương đã 37 ngày không có ca mắc Covid-19 trong cộng đồng. Toàn tỉnh còn 2 bệnh nhân đang điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương, 724 bệnh nhân đã xuất viện.
+Một cơ sở điều trị bệnh nhân Covid-19 tại tỉnh Hải Dương trong đợt bùng phát dịch hồi cuối tháng 1/2021.
+Trước đó, bệnh nhân (BN) N.V.Đ. sau khi hoàn thành cách ly tập trung, bệnh nhân đi xe khách lúc 20h30 ngày 21/4/2021 về đến Hà Nam lúc 7h30 ngày 22/4/2021, trên xe có 34 người đi cùng.
+Ngày 23/4/2021, bệnh nhân có tiếp xúc, tổ chức ăn uống với bạn bè, người thân ở xã Chân Lý và xã Bắc Lý của huyện Lý Nhân (Hà Nam). Từ ngày 26/4 đến ngày 28/4 không đi đâu, tại nhà chỉ tiếp xúc với bố mẹ, vợ, con và cán bộ y tế xã, Trung tâm Y tế huyện.
+Đến sáng 24/4/2021, do bệnh nhân có biểu hiện ho, sốt, đau họng nên bố của bệnh nhân đã báo cho Trạm Y tế xã và được lấy mẫu xét nghiệm gửi Trung tâm Kiểm soát bệnh tật tỉnh Hà Nam thực hiện xét nghiệm và cho kết quả dương tính với virusSARS-CoV-2ngày 29/4/2021.
+Ngay sau khi nhận được thông tin vào chiều ngày 29/4/2021, Bộ Y tế đã chỉ đạo ngành y tế Hà Nam khẩn trương điều tra, tiến hành truy vết thần tốc, làm việc với lãnh đạo tỉnh, Ban Chỉ đạo phòng chốngdịch Covid-19của tỉnh Hà Nam.
+Kết quả kiểm tra, phân tích và đánh giá mối liên hệ giữa trường hợp bệnh nhân này và các hành khách đi chung chuyến máy bay từ Nhật Bản về Đà Nẵng, từ Đà Nẵng sau khi hết cách ly về Hà Nam, và tại nơi cư trú của bệnh nhân cho thấy có mối liên hệ phức tạp.
+Tại địa phương nơi cư trú, qua kết quả truy vết, bệnh nhân đã có tiếp xúc, giao lưu ăn uống, gặp gỡ bạn bè, người quen trong các ngày 22, 23/4/2021. Các người tiếp xúc với bệnh nhân sau đó đã trở về các tỉnh, thành phố khác trên các phương tiện như máy bay (về TPHCM), ô tô (về Hà Nội, Hưng Yên).
+Hải Phòng: 4 trường hợp F1 âm tính với SARS-CoV-2
+4 trường hợp liên quan BN 2899 có kết quả âm tính với SARS-CoV-2.
+4 trường hợp trên thuộc các quận/huyện Dương Kinh, Hải An, Kiến An và Kiến Thụy. Đều là hành khách trên chuyến bay VJ3613, chuyến bay có BN 2899 ở Hà Nam từ Nhật Bản sân bay Đà Nẵng vào ngày 7/4/2021.
+Sau khi được cách ly tập trung tại TP Đà Nẵng, ngày 21/4 đã về các địa phương.
+Nguyễn Dương - An Nhiên

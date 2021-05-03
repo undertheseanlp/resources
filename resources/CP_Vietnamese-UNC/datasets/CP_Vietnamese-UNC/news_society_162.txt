@@ -1,17 +1,13 @@
 # doc_id = news_society_162
-# url = https://dantri.com.vn/xa-hoi/ket-xe-kinh-hoang-keo-dai-hon-2-km-tuyen-duong-pha-cat-lai-nhon-trach-20210430114434577.htm
-# date = 20210430
-Hàng nghìn người đứng "chôn chân" trên đường vào phà Cát Lái
-Hàng nghìn người đi xe máy, ô tô và xe container nhích từng mét trên đoạn đường từ Quận 2 dẫn vào phà Cát Lái để đi sang Đồng Nai, hướng ra Vũng Tàu trong ngày lễ 30/4.
-Trong ngày lễ 30/4, hàng nghìn phương tiện nối đuôi nhau từ vòng xoay Mỹ Thủy hướng về phà Cát Lái.
-Lượng khách gia tăng đột biến vào kỳ nghỉ lễ 30/4 và 1/5 là nguyên nhân khiến tuyến đường này rơi vào tình trạng quá tải.
-Cảnh kẹt xe kéo dài hơn 2km, dòng người đứng "chôn chân" trong nắng nóng gay gắt.
-Kẹt xe bắt đầu từ sáng sớm, lượng người xe từ các khu vực đổ đến để qua phà về các tỉnh Đồng Nai, Bà Rịa - Vũng Tàu…tăng cao và càng về trưa. Anh Trần Hữu Hùng (40 tuổi, tài xế xe container) cho biết, "tôi đưa hàng vào cảng Cát Lái nhưng phải tắt máy xe ngồi chờ gần 1 tiếng vẫn chưa nhích được thêm đoạn nào".
-Nhiều người điều khiển xe máy leo lên vỉa hè để di chuyển tránh kẹt xe.
-Dòng người vật vã chờ đợi hàng giờ để thoát khỏi cảnh kẹt xe giữa trưa.
-Ông Nguyễn Thanh Tuấn, Phó giám đốc Xí nghiệp quản lý phà Thanh niên xung phong - bến Cát Lái, ước tính trong ngày đầu kỳ nghỉ lễ có hàng trăm nghìn lượt người, xe qua phà. Đến 11h trưa nay 30/4, tại bến phà Cát Lái (phía bờ quận 2, TPHCM), lực lượng CSGT, bảo vệ khu phố địa phương… vẫn đang phối hợp cùng nhân viên phà Cát Lái nỗ lực điều tiết, phân luồng, giải tỏa phương tiện tăng đột biến qua phà hướng từ TPHCM về huyện Nhơn Trạch, tỉnh Đồng Nai.
-Người phụ nữ bế con nhỏ tìm chỗ tránh nóng khi phải chờ đợi quá lâu.
-Các nhân viên bán vé phà Cát Lái phải di chuyển cách phà gần 1km để phục vụ hành khách nhằm giảm tải áp lực.
-Nhiều người chờ đợi quá lâu lựa chọn quay đầu xe khiến tình trạng kẹt xe càng trở nên nghiêm trọng hơn.
-Đến 12h trưa, tình trạng kẹt xe trên trục đường Phà Cát Lái hướng qua Nhơn Trạch - Đồng Nai, vẫn chưa có dấu hiệu giảm.
-Nguyễn Quang
+# url = https://dantri.com.vn/xa-hoi/khac-phuc-ho-so-so-ho-tich-bi-mat-hu-hong-do-lu-lut-o-5-tinh-mien-trung-20210425192646840.htm
+# date = 20210425
+Thông tin từ Cục Hộ tịch, quốc tịch và chứng thực (Bộ Tư pháp) cho biết, trong đợt lũ lụt lịch sử năm 2020, trên địa bàn một số tỉnh miền Trung đã bị ngập lụt nặng nề, gây thiệt hại về tài sản của cơ quan, tổ chức và công dân, trong đó có nhiều nơi bị thiệt hại, hư hỏng lớn sổ, hồ sơ hộ tịch.
+Nhằm khắc phục thiệt hại hồ sơ, sổ hộ tịch, kịp thời phục vụ yêu cầu quản lý nhà nước, giải quyết thủ tục hành chính trong lĩnh vực hộ tịch, bảo đảm quyền lợi chính đáng của người dân, Cục Hộ tịch, quốc tịch, chứng thực đã có Công văn số 377/HTQTCT-HT gửi Sở Tư pháp các tỉnh Hà Tĩnh, Thừa Thiên Huế, Quảng Bình, Quảng Trị, Quảng Nam hướng dẫn báo cáo UBND tỉnh cho triển khai thực hiện một số giải pháp khắc phục.
+Giấy chứng nhận kết hôn (Ảnh minh họa).
+Đối với sổ đăng ký khai sinh, sổ đăng ký kết hôn, sổ đăng ký khai tử là các việc hộ tịch quan trọng, có ý nghĩa lớn với công dân mà bị mất, hư hỏng thì Sở Tư pháp xử lý theo 4 hướng.
+Thứ nhất, trường hợp sổ tại UBND cấp xã bị mất, hư hỏng mà UBND cấp huyện (Phòng Tư pháp) còn lưu trữ được thì đề nghị UBND cấp huyện chụp (photocopy) lại, đóng dấu giáp lai các trang của sổ, ký, đóng dấu xác nhận tại trang cuối của sổ về việc chụp sổ hộ tịch, chuyển cho UBND xã để sử dụng.
+Thứ hai, trường hợp sổ lưu trữ tại UBND cấp huyện cũng bị mất, hư hỏng, không còn sử dụng được, nhưng dữ liệu hộ tịch tương ứng đã được số hóa, lưu trữ trên phần mềm, thì cho phép UBND cấp huyện in các trang sổ hộ tịch tương ứng từ phần mềm đăng ký, quản lý hộ tịch điện tử, đóng thành quyển theo năm, đóng dấu giáp lai các trang sổ và xác nhận tại trang cuối của sổ, chuyển cho UBND xã để sử dụng.
+Thứ ba, trường hợp cả 2 phương án nêu trên đều không thể thực hiện được, Cục Hộ tịch, quốc tịch và chứng thực đề nghị Sở Tư pháp phối hợp với Công an tỉnh chỉ đạo Công an cấp huyện, cấp xã cung cấp các thông tin liên quan đến sự kiện hộ tịch (sinh, kết hôn, tử) từ tàng thư hộ khẩu, tàng thư căn cước công dân cho cơ quan đăng ký hộ tịch sử dụng để làm cơ sở xác định nội dung khi công dân có yêu cầu đăng ký lại hộ tịch (đối với các trường hợp khai sinh, khai tử, kết hôn đã đăng ký trước ngày 01/01/2016).
+Thứ tư, đối với các trường hợp sinh, kết hôn, tử đã đăng ký sau ngày 01/01/2016 mà công dân có yêu cầu đăng ký lại khai sinh, khai tử, kết hôn (do mất Sổ và không còn bản chính giấy tờ hộ tịch) thì Sở Tư pháp chỉ đạo cơ quan đăng ký hộ tịch tổng hợp lại số liệu và gửi báo cáo về Bộ Tư pháp (Cục Hộ tịch, quốc tịch, chứng thực) để Bộ Tư pháp báo cáo Chính phủ có biện pháp giải quyết.
+Ngoài ra, trường hợp biểu mẫu sổ, giấy tờ hộ tịch chưa sử dụng mà bị hư hỏng, mất, Cục Hộ tịch, quốc tịch và chứng thực đề nghị Sở Tư pháp chỉ đạo các xã, huyện thống kê cụ thể số lượng, báo cáo đề xuất UBND cấp tỉnh có phương án hỗ trợ, không để thiếu biểu mẫu hộ tịch, làm kéo dài thời gian giải quyết thủ tục đăng ký hộ tịch của người dân.
+Thế Kha

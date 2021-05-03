@@ -1,7 +1,7 @@
 # doc_id = news_tech_174
 # url = https://dantri.com.vn/suc-manh-so/nha-mang-noi-gi-ve-vu-viec-lua-dao-nang-cap-sim-4-g-de-chiem-doat-tai-san-20210406010721086.htm
 # date = 20210406
-Trong thời gian qua, Cục Cạnh tranh và Bảo vệ người tiêu dùng (Bộ Công Thương) đã tiếp nhận hàng chục cuộc gọi, đơn thư phản ánh về việc bị một số đối tượng mạo danh là nhân viên của các nhà mạng gọi điện, nhắn tin hướng dẫn cú pháp để thực hiện nâng cấp SIM 3G thành SIM 4G nhằm lừa đảo, chiếm đoạt quyền kiểm soát SIM điện thoại. 
+Trong thời gian qua, Cục Cạnh tranh và Bảo vệ người tiêu dùng (Bộ Công Thương) đã tiếp nhận hàng chục cuộc gọi, đơn thư phản ánh về việc bị một số đối tượng mạo danh là nhân viên của các nhà mạng gọi điện, nhắn tin hướng dẫn cú pháp để thực hiện nâng cấp SIM 3G thành SIM 4G nhằm lừa đảo, chiếm đoạt quyền kiểm soát SIM điện thoại.
 Từ đó, những đối tượng lừa đảo có thể đánh cắp các thông tin mã OTP để thực hiện vay tiêu dùng hoặc thanh toán các đơn hàng online dựa trên số điện thoại của người tiêu dùng. Đáng chú ý, các chiêu thức lừa đảo tinh vi như vậy xảy ra ở nhiều tỉnh, thành phố trên cả nước.
 Trước thông tin trên, nhà mạng VinaPhone vừa đưa ra khuyến cáo với khách hàng cần phải thận trọng trước các cuộc gọi, tin nhắn mời thay SIM 4G, đồng thời không thực hiện theo các yêu cầu thao tác thay SIM qua điện thoại.
 Theo chia sẻ từ đơn vị này, các đối tượng lừa đảo đã lợi dụng chính sách hỗ trợ đổi SIM 4G của các nhà mạng cùng với một số lý lẽ như thực hiện đổi SIM từ xa nhằm hạn chế tiếp xúc, tránh lây lan của dịch bệnh Covid-19; đổi SIM để được hưởng các ưu đãi, khuyến mãi hay nếu không nâng cấp lên 4G sẽ không thể tiếp tục sử dụng dịch vụ… nhằm chiếm được lòng tin của người dùng.

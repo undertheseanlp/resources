@@ -1,15 +1,30 @@
 # doc_id = news_sport_260
-# url = https://dantri.com.vn/the-thao/van-toan-noi-gi-ve-co-hoi-vo-dich-v-league-cua-ha-gia-lai-20210426120708708.htm
-# date = 20210426
-Hai năm nữa, hàng loạt cầu thủ thuộc thế hệ tài năng, gồm những Công Phượng, Tuấn Anh, Xuân Trường, Văn Toàn, Hồng Duy… sẽ hết hợp đồng với CLB HA Gia Lai. Tương lai chưa thể nói trước, không rõ là họ sẽ còn sát cánh bên nhau sau ngày đó hay không?
-Thế nên, với Văn Toàn, anh muốn trước khi hết hợp đồng với HA Gia Lai, anh có được danh hiệu vô địch V-League cùng đội bóng của bầu Đức.
-Văn Toàn khát khao vô địch V-League trước khi kết thúc hợp đồng hiện tại với CLB HA Gia Lai sau 2 năm nữa.
-Nguyễn Văn Toàn nói: "Đây đã là năm thứ 7 tôi chơi bóng tại V-League. Suốt thời gian đó tôi cảm giác mình có lỗi với chú Đức (ông bầu Đoàn Nguyên Đức - PV) vì chúng tôi chưa thể giành danh hiệu nào hết".
-"Chúng tôi luôn đau đáu với câu hỏi bao giờ mình mới vô địch V-League? Hợp đồng hiện tại giữa chúng tôi với HA Gia Lai còn 1 - 2 năm nữa sẽ kết thúc. Trước khi kết thúc hợp đồng, tôi và các đồng đội muốn giành một danh hiệu để lưu lại kỷ niệm với đội bóng" - Văn Toàn nói thêm.
-Rồi tiền đạo này nói về khát khao vô địch V-League mà anh đang có: "Mong muốn vô địch của tôi chưa bao giờ mất đi. Có thể tất cả mọi người đều rời HA Gia Lai, chỉ còn mình tôi ở lại thì tôi vẫn muốn cùng HA Gia Lai vô địch".
-"Tôi không muốn chơi bóng theo kiểu an phận, tôi muốn được thi đấu bùng nổ, tạo cơ hội cho đội chiến thắng" - vẫn là lời của Văn Toàn.
-Năm nay, khát khao vô địch V-League của Văn Toàn và các đồng đội đang dần thành hiện thực, sau sự xuất hiện của Kiatisuk ở đội bóng phố núi.
-Tiền đạo đang dẫn đầu danh sách vua phá lưới của V-League nói về vai trò của "Zico Thái" ở đội bóng của bầu Đức: "Kiatisuk tạo nên sự đoàn kết, gắn bó trong tập thể đội HA Gia Lai. Ông ấy giúp đội ổn định hàng thủ". 
-"Bản thân Kiatisuk còn là cựu tiền đạo xuất sắc, nên ông ấy chia sẻ kỹ năng cho các tiền đạo như chúng tôi, giúp chúng tôi quyết định chính xác hơn khi đứng trước các tình huống" - Văn Toàn nhấn mạnh.
-Hiện tại, HA Gia Lai đang dẫn đầu bảng xếp hạng LS V-League 2021 sau 10 vòng đấu và đang rất gần với cơ hội vô địch. Nếu điều đó xảy ra, Văn Toàn và các đồng đội sẽ có thể "trả ơn" bầu Đức, như cầu thủ này chia sẻ.
-K.Đ
+# url = https://dantri.com.vn/the-thao/vi-sao-sieu-giai-dau-european-super-league-sup-do-nhanh-chong-20210421131805206.htm
+# date = 20210421
+Sự phản đối gay gắt của người hâm mộ
+Vào chiều qua (theo giờ địa phương), chiếc xe bus chở các cầu thủ Chelsea tới tham dự trận đấu gặp Brighton đã bị chặn lại bởi đám đông người hâm mộ. Tới mức, huyền thoại của đội bóng, Petr Cech đã phải xuống xe để trấn an CĐV. Chiếc xe bus của Chelsea tới sân muộn 15 phút vì sự cố này.
+Sự phản ứng gay gắt của những CĐV Chelsea.
+Thực tế, không phải tới thời điểm này, những CĐV mới bày tỏ sự phản đối. Một ngày trước đó, họ đã đứng bên ngoài sân Stamford Bridge để hò hét, yêu cầu Ban lãnh đạo đội bóng thay đổi quyết định.
+Những người hâm mộ Liverpool đã đốt áo đấu của đội bóng. Những CĐV Man Utd, Arsenal hay Tottenham đều có động thái tương tự.
+Không chỉ những người hâm mộ, ngay cả những huyền thoại của các CLB này như Sir Alex Ferguson, Gary Neville, David Beckham, Jamie Carragher, Kenny Dalglish đều có những động thái tương tự.
+Và chỉ vài giờ sau động thái phản ứng gay gắt của những người hâm mộ, các CLB Anh đồng loạt đưa ra thông báo rút lui khỏi European Super League. Gary Neville đã tạm ăn mừng sau động thái này bằng tuyên bố: "Những sự phản đối cuối cùng đã có kết quả lớn".
+Có chi tiết không ai có thể phủ nhận, bóng đá sinh ra để phục vụ những người hâm mộ. Nguồn lợi kinh tế cũng từ đó mà sinh ra. Có lẽ, khi đặt bút ký vào văn bản thành lập European Super League, những người đứng đầu của các CLB Anh không hình dung ra được sự phản đối dữ dội tới vậy.
+Câu hỏi đặt ra là tại sao những CĐV phản đối mạnh mẽ như vậy?
+Vấn đề nằm ở giá trị tinh thần. Premier League giống như "máu thịt" với những người hâm mộ bóng đá Anh. Kể cả những CĐV đội bóng lớn cũng không vui vẻ gì khi chứng kiến giải đấu mất đi giá trị cốt lõi. Đó chính là sự cạnh tranh.
+Nếu như European Super League ra đời thì Premier League sẽ mất đi nhiều giá trị cốt lõi.
+Trong nhiều năm qua, Premier League vốn nổi tiếng là CLB khốc liệt nhất thế giới. Ở đó, việc cạnh tranh tấm vé dự Champions League còn khốc liệt không kém cuộc đua vô địch. HLV huyền thoại của Arsenal, Wenger từng có phát ngôn để đời: "Top 4 cũng là một danh hiệu".
+Nhưng nếu European Super League ra đời, sự cạnh tranh ấy sẽ mất đi. Bởi lẽ, các CLB không cần phải cố gắng để giành vé dự cúp châu Âu như trước, khi mà họ nghiễm nhiên được tham dự European Super League.
+Gary Neville từng nhấn mạnh: "Sự ra đi của European Super League chỉ có ý nghĩa kiếm lợi nhuận đơn thuần cho các đội bóng. Nhiều giá trị thể thao sẽ mất đi".
+Ở khía cạnh nào đó, việc Premier League ngày càng thiếu cạnh tranh ảnh hưởng lớn tới vấn đề kinh tế, đặc biệt là bản quyền truyền hình. Khi mà sự hứng thú mất đi, thì giá trị đương nhiên sẽ giảm sút.
+Các CLB Anh không dám "mạo hiểm" chống lại tất cả
+Man City là đội bóng đầu tiên rút lui khỏi European Super League. Vì sao lại như vậy? Có chi tiết nhấn mạnh rằng ý tưởng cho ra đời siêu giải đấu này là của giới chủ Mỹ (đang sở hữu Man Utd, Arsenal, Liverpool). Họ muốn tạo ra giải đấu giống như hệ thống thi đấu ở Mỹ. Ở đó, các CLB không phải xuống hạng và lợi nhuận luôn được khai thác tối đa.
+Trong khi đó, ông chủ của Man City là người Ả rập. Ngay từ đầu, họ bị "rủ rê" vì lợi nhuận kinh tế. Nhưng trước làn sóng phản đối, họ ngay lập tức buông bỏ. Bởi tư duy của người Ả rập vốn không giống người Mỹ.
+Các CLB Anh không dám đánh đổi nguồn thu quá lớn ở thời điểm hiện tại, để đổi lấy điều viển vông trong tương lai.
+Đội thứ 2 rời bỏ European Super League là Chelsea. Lý do tương tự giống như Man City (Chelsea sở hữu bởi ông chủ người Nga).
+Sự buông xuôi nhanh chóng của hai CLB này đã kéo theo làn sóng rút lui đồng loạt của các CLB khác ở Premier League.
+Một lý do đơn giản. Tất cả không dám mạo hiểm đánh cược với số phận. Nguồn thu kếch xù từ Premier League hay Champions League cũng đủ để họ tồn tại và lớn mạnh. Nếu tiếp tục chống đối, họ có thể mất nhiều thứ.
+Chủ tịch UEFA, Aleksander Ceferin đã đánh trúng tâm lý này của các CLB Anh bằng lời kêu gọi: "Các bạn đã mắc sai lầm lớn. Tôi cho các bạn thời gian để suy nghĩ về hành động của mình. Hãy tỉnh táo lại. Không phải vì tình yêu với bóng đá mà vì sự tôn trọng dành cho những người từng cống hiến cho đội bóng, sự tôn trọng dành cho đất nước được biết đến như quê hương bóng đá. Tôi không biết mọi thứ đúng sai như thế nào. Nhưng đây là cuộc chiến mà UEFA không thể thua".
+Trước đó, Thủ tướng Anh, Boris Johnson đã hơn một lần nhấn mạnh sự phản đối về European Super League. Ông khẳng định sẽ có sự trừng phạt nặng nếu như các CLB Anh cố tình sai phạm.
+Điều đó khiến cho các CLB Anh càng... rụt rè hơn. Đơn cử như vậy nếu nước Anh ban hành lệnh không cấp phép lao động cho các thương vụ chuyển tới nhóm "Big Six" thì các CLB này sẽ liêu xiêu thực sự.
+Điều quan trọng, European Super League không có tính chính danh (giống như FIFA, UEFA). Nó giống như con cá mập nuốt chửng tất cả nguồn lợi của UEFA, FIFA cũng như những CLB nghèo. Ngay từ xuất phát điểm ấy, nhiều người cho rằng European Super League khó mà thành hiện thực.
+H.Long

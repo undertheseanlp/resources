@@ -1,22 +1,18 @@
 # doc_id = news_sport_214
-# url = https://dantri.com.vn/the-thao/real-madrid-chelsea-cuoc-chien-kho-luong-20210426103651348.htm
-# date = 20210426
-Tuần qua chứng kiến sự biến động lớn của bóng đá châu Âu khi có đến 12 đội bóng quyết định thành lập European Super League. Tuy nhiên chỉ 3 ngày sau, có đến 9 đội bóng rút lui vì sợ lệnh trừng phạt từ UEFA và chỉ còn 3 đội bóng Real Madrid, Barcelona, Juventus chưa đưa ra quyết định.
-Chelsea đang chơi ấn tượng và bất bại 10 trận sân khách dưới sự dẫn dắt của HLV Thomas Tuchel.
-Chelsea cùng với 5 đội bóng Anh sớm đưa ra quyết định rút khỏi European Super League. Nhưng Real Madrid vẫn quyết bám giải đấu này đến cùng, nhất là khi Chủ tịch Florentino Perez của họ là người đứng đầu European Super League.
-Chịu áp lực tâm lý nặng nề, Chelsea phải rất vất vả mới có thể đánh bại West Ham 1-0 để trụ vững tại top 4 Premier League. Real Madrid còn gây thất vọng nặng nề hơn khi để Real Betis cầm hòa 0-0 cùng nguy cơ hụt hơi trong cuộc đua vô địch La Liga.
-Khi không còn cơ hội giành danh hiệu ở giải quốc nội, cả Real Madrid lẫn Chelsea đều coi UEFA Champions League là cơ hội để cứu vãn mùa giải thất bại. Việc góp mặt đến tận vòng bán kết giúp các đội bóng có thêm sự quyết tâm cao độ để bước lên đỉnh cao nhất của bóng đá châu Âu.
-Chi tiết khá thú vị là Real Madrid và Chelsea chưa từng giáp mặt nhau khi giải đấu này đổi tên là UEFA Champions League. Lần cuối hai đội gặp nhau là ở Cúp C2 châu Âu mùa giải 1970-71, Chelsea giành chiến thắng 1-0 nhờ công Peter Osgood.
-Real Madrid đã thị uy sức mạnh khi vượt qua Liverpool ở vòng tứ kết.
-Cả hai đội đều có những hiệu ứng tích cực thời gian qua. Chelsea đang duy trì thành tích bất bại trên sân khách (10 trận) dưới sự dẫn dắt của HLV Thomas Tuchel, trong khi Real Madrid của HLV Zidane luôn thắng "trận cầu lớn" sau những chiến thắng từng bừng trước Barcelona lẫn Liverpool.
-Mặc dù vậy, đây là giai đoạn sống còn của mùa giải này và một kết quả không như ý có thể khiến mọi đội bóng trả giá đắt. Do đó, sự thận trọng và chắc chắn là điều mà cả Chelsea lẫn Real Madrid đều hướng đến trong cuộc so tài ở Di Stefano đêm nay.
-Real Madrid đang chịu những tổn thất nhất định về lực lượng khi hàng loạt trụ cột Sergio Ramos, Lucas Vazquez, Ferland Mendy và Federico Valverde vắng mặt do chấn thương. Eden Hazard đã trở lại ở trận hòa Betis 0-0, nhưng cầu thủ người Bỉ chưa lấy lại phong độ cao nhất trước thềm tái ngộ đội bóng cũ Chelsea.
-Trước Chelsea rất mạnh mẽ về thể lực, nhiều khả năng Real Madrid sẽ phải sử dụng đội hình 4-3-3 quen thuộc. Bộ ba tiền vệ Casemiro, Kroos, Modric chơi ở giữa sân hỗ trợ cho bộ ba tấn công Asensio, Benzema, Vinicius.
-Casemiro cùng Modric, Kroos sẽ giúp Real Madrid có tuyến giữa chắc chắn khi đối đầu Chelsea.
-Chelsea đang chơi khá ổn định với sơ đồ 3-4-3 nhờ sự chắc chắn của bộ ba trung vệ Azpilicueta, Thiago Silva, Rudiger. Jorginho và Kante đóng vai trò "trái tim, lá phổi" ở giữa sân, trong khi nhiệm vụ ghi bàn được trao cho bộ đôi người Đức Werner-Havertz.
-Lối chơi của Real Madrid và Chelsea có khá nhiều điểm tương đồng, khi cả hai HLV Zidane và Tuchel đều thiên về lối chơi phòng ngự chắc chắn. Khi đó, khả năng tạo đột biến của các ngôi sao trên hàng công có ý nghĩa quyết định đến trận đấu.
-Real Madrid có lợi thế sân nhà và kinh nghiệm đối đầu các CLB Anh giúp đoàn quân HLV Zidane được đánh giá cao hơn. Tuy nhiên Chelsea luôn biết cách để lại dấu ấn khi đặt vào thế cửa dưới và kết quả đại chiến trên sân Di Stefano đêm nay hứa hẹn sẽ vô cùng khó lường.
-Đội hình dự kiến
-Real Madrid: Courtois; Carvajal, Varane, Militao, Nacho; Casemiro, Kroos, Modric; Asensio, Benzema, Vinicius
-Chelsea: Mendy; Azpilicueta, Thiago Silva, Rudiger; James, Jorginho, Kante, Chilwell; Mount, Werner; Havertz
-Thùy Anh
+# url = https://dantri.com.vn/the-thao/real-madrid-duoc-uu-ai-huong-loi-truoc-chelsea-20210428101642736.htm
+# date = 20210428
+Đêm qua, Chelsea đã xuất sắc giành kết quả hòa 1-1 trên sân Di Stefano của Real Madrid trong khuôn khổ ở lượt đi vòng bán kết Champions League. Đây là trận đấu mà thầy trò HLV Thomas Tuchel đã thi đấu khá tốt. Họ kiểm soát trong hiệp 1 và có được bàn thắng vượt lên dẫn trước do công của Pulisic.
+Casemiro được cho là đã phạm lỗi với Azpilicueta trước khi Benzema lập công
+Đáng tiếc sau đó, đội bóng thành London đã bị Real Madrid gỡ hòa từ tình huống cố định ở phút 29. Sau trận đấu, HLV Thomas Tuchel đã tỏ ra tiếc nuối vì Chelsea không thể giành chiến thắng khi bỏ lỡ quá nhiều cơ hội.
+Không những vậy, tờ Marca (thân Real Madrid) còn cho rằng đoàn quân của HLV Zidane đã được hưởng lợi trong trận đấu này. Cụ thể, họ thừa nhận rằng bàn thắng của Benzema vào lưới Chelsea ở phút 29 không hợp lệ.
+Theo đó, trước khi tiền đạo người Pháp thực hiện cú vô lê tung lưới thủ thành Mendy ở cự ly gần, Casemiro được cho là đã phạm lỗi với Azpilicueta trong tình huống nhảy lên tranh chấp trước đó.
+Phân tích trên tờ Marca, cựu trọng tài Juan Andujar Oliver cho biết: "Casemiro phạm lỗi với Cesar Azpilicueta trước khi Eder Militao thực hiện cú đánh đầu tiếp theo chuyền bóng cho Benzema ghi bàn".
+Thực tế, trọng tài vẫn công nhận bàn thắng cho Real Madrid mà không cần sự can thiệp của công nghệ VAR. Thậm chí, những trọng tài ở phòng VAR cũng "không hề có chút nghi ngờ". Do đó, họ không thông báo cho trọng tài chính.
+Sau đó, Benzema đã có bàn thắng tuyệt đẹp gỡ hòa cho Real Madrid.
+Trong khi đó, đài El Chiringuito tiết lộ: "Azpilicueta không hề có khiếu nại nào với trọng tài trong tình huống này. Do đó, trọng tài không cho rằng cầu thủ của Chelsea đã bị phạm lỗi".
+Trên mạng xã hội Twitter đã xuất hiện những bình luận phản đối Real Madrid như:
+"Nếu Casemiro mà là cầu thủ tấn công thì chắc chắn anh ta bị thổi phạt rồi".
+"Rõ ràng Casemiro đã có tác động với Azpilicueta trong tình huống Benzema ghi bàn".
+Phát biểu sau trận đấu, Azpilicueta cũng không đề cập tới tình huống này. Thay vào đó, anh chỉ nói về cục diện trận đấu: "Tôi nghĩ chúng tôi đã thi đấu tốt trong khoảng 20-25 phút đầu trận đấu. Đáng tiếc, các cầu thủ không tận dụng cơ hội ghi thêm bàn thắng.
+Real Madrid đã trở lại theo kịch bản định sẵn. Chúng tôi đã có một số thời điểm kiểm soát tốt trận đấu nhưng cũng chịu đựng sự tấn công của đối thủ. Trước trận đấu, chúng tôi biết rằng đối thủ Real Madrid rất khó khăn. Tuy nhiên, toàn đội đã chiến đấu can đảm. Chỉ tiếc rằng chúng tôi chưa có sự chính xác trong những tình huống cuối cùng".
+H.Long

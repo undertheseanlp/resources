@@ -1,26 +1,19 @@
 # doc_id = news_health_265
-# url = https://dantri.com.vn/suc-khoe/vi-sao-khong-co-dau-hieu-gi-da-ung-thu-tien-liet-tuyen-giai-doan-4-20210424165622892.htm
-# date = 20210424
-Có mặt tại buổi hội thảo Chăm sóc sức khỏe toàn diện- Thời 4.0 diễn ra sáng 23/4 tại Hà Nội, ông Vũ (84 tuổi, Hà Nội) băn khoăn không hiểu vì sao bản thân không có dấu hiệu gì mà đã ung thư giai đoạn 4. Ông đã có kết quả sinh thiết khẳng định của Bệnh viện Ung bướu Hà Nội, đã uống thuốc điều trị được 2 tháng nhưng ông vẫn không tin được điều này.
-Ông tự nhận bản thân là người có sức khỏe tốt, 5 năm gần đây cân nặng luôn ổn định ở mức 66kg. Bắt đầu từ năm ngoái, ông thấy cơ thể giảm cân nhiều, còn 58 kg nhưng chủ quan không kiểm tra. Sau đó, nghe lời con trai ông đến một bệnh viện tư gần nhà để khám nhưngkhông phát hiện bất thường.
-Về nhà vẫn thấy đau ở hông, ông tiếp tục đi khám tại một bệnh viện công. Sau 10 ngày nằm viện, ông thấy hết đau nên được cho xuất viện. Tuy nhiên, một tuần sau ông thấy cơ thể mệt mỏi, không ăn được, nổi 2 hạch ở cổ. Ông đi khám và được chuyển đến khám tại Bệnh viện Ung bướu Hà Nội. Sau khi được kiểm tra, làm các xét nghiệm, sinh thiết ông rất bất ngờ khi nhận được chẩn đoán ung thư tuyến tiền liệt giai đoạn 4.
-"Trước đó, tôi không thấy cơ thể có gì bất thường, đi tiểu bình thường, nước tiểu bình thường, không ra máu. Tôi cũng không tiểu rắt, tiểu buốt", ông Vũ nói.
-TS.BS cao cấp Hoàng Văn Tuyết, nguyên Phó giám đốc Bệnh viện Bệnh Nhiệt đới Trung ương.
-"Bệnh ung thư chính là như thế, không có dấu gì mà bệnh đã tiến triển. Chính vì thế khám sức khỏe, tầm soát định kỳ là việc hết sức quan trọng", TS.BS cao cấp Hoàng Văn Tuyết, nguyên Phó giám đốc Bệnh viện Bệnh Nhiệt đới Trung ương cho biết.
-Theo bác sĩ Tuyết trước đây người dân ít biếtđến ung thư tuyến tiền liệt nhưng thời gian gần đây bệnh được nhắc đến nhiều. Điều này là nhờ có các hệ thống máy móc hiện đại được áp dụng trong điều trị cũng như trong chẩn đoán như chụp cộng hưởng từ, xét nghiệm tầm soát sớm ung thư (xét nghiệm chỉ số PSA tự do, PSA toàn phần), sinh thiết hạch cổ…
-"Ung thư tiền liệt tuyến diễn tiến rất âm thầm, kín đáo. Phần lớn các trường hợp mắc chỉ phát hiện ra khi bệnh đã di căn đến nơi khác, khi bệnh khu trú thường không có dấu hiệu. Có đến 70-80% ung thư tiền liệt tuyến được phát hiện đôi khi là từ hạch, đôi khi là di căn ở phổi, bụng, đặc biệt ung thư tiền liệt tuyến rất "yêu thích" và hướng di căn đến xương là chủ đạo. Nhiều người chỉ đau lưng, đau xương đùi, đau hông, đi khám bệnh chụp phim, xét nghiệm thì thấy tổn thương ung thư", bác sĩ Tuyết chia sẻ.
-Theo bác sĩ, dấu hiệu ban đầu của bệnh ung thư tuyến tiền liệt mà nhiều người cảm nhận được chính là dấu hiệu đau lưng. 80-90% người bệnh khi phát hiện bệnh đều có dấu hiệu này.
-Dấu hiệu ung thư tuyến tiền liệt
-Các dấu hiệu ung thư tuyến tiền liệt giai đoạn đầu khá mơ hồ. Các triệu chứng thường chỉ rõ ràng ở giai đoạn tiến triển:
-- Đau lưng, hông
-- Giảm cân
-- Đau vùng khung chậu
-- Tiểu đau buốt hoặc rát, không thể đi tiểu
-- Có máu trong nước tiểu
-- Tiểu đêm
-- Khó khăn trong việc duy trì cương cứng
-- Táo bón mãn tính và các vấn đề đường ruột khác
-Đái khó, đái rắt, đái máu, đôi khi bí đái, đôi khi có biểu hiện tắc niệu quản. Đây là các biểu hiện thể hiện sự xâm lấn hoặc chèn ép gây tắc đường tiết niệu. Những vấn đề như đi tiểu khó khăn, bí tiểu…, thậm chí tiểu ra máu thường gặp ở người lớn tuổi và không phải lúc nào cũng là dấu hiệu ung thư tuyến tiền liệt. Cũng vì thế nhiều người chủ quan khi gặp các dấu hiệu cảnh báo này.
-Ung thư tuyến tiền liệt đôi khi tiến triển trên nhiều người bệnh rất âm thầm không có triệu chứng rõ ràng.
-Nam Phương
-* Tên nhân vật đã được thay đổi
+# url = https://dantri.com.vn/suc-khoe/vin-slim-dong-hanh-cung-chi-em-trong-hanh-trinh-giam-can-giu-dang-20210429191019484.htm
+# date = 20210429
+Vẻ ngoài ưa nhìn: Lợi thế không phải ai cũng có được
+Trong xã hội hiện đại, người ta hiểu và coi trọng vai trò của hình thức bên ngoài, sở hữu một vẻ ngoài ưa nhìn được coi là một lợi thế, là điểm cộng lớn trong công việc lẫn cuộc sống thường nhật. Một trong những điểm mấu chốt tạo nên vẻ đẹp ngoại hình chính là vóc dáng cân đối, giữ gìn thân hình vừa vặn, đây được coi là nhiệm vụ mà chị em buộc phải chú trọng và thực hiện. Đó cũng có thể coi là nét quyết rũ riêng nhất cho mỗi người phụ nữ.
+Bất chấp giảm cân, nên hay không nên?
+Hiểu được tầm quan trọng của vẻ ngoài và vóc dáng, nhiều chị em tin rằng: Chỉ cần ăn kiêng, nhịn ăn là có thể giữ gìn được vócdáng. Tuy nhiên, suy nghĩ này có thực sự chính xác?
+Trên thực tế, việc ăn kiêng khoa học và điều độ sẽ là một phương thức giảm cân hiệu quả và đảm bảo sức khỏe, thế nhưng không phải ai cũng hiểu và biết về những phương thức ăn kiêng khoa học. Việc ăn kiêng quá mức, nhịn ăn mang tới nhiều "tác dụng phụ" cho cơ thể chị em: Khuôn mặt hốc hác, da sạm màu, luôn trong tình trạng thiếu sức sống, mệt mỏi,.... Theo các chuyên gia, việc ăn kiêng quá mức khiến não bộ yêu cầu nhiều calo hơn để bù lấp, điều này có thể dẫn tới hiệu ứng thèm ăn, cuồng ăn không đáng có sau một thời gian. Bên cạnh đó, ăn kiêng còn gây ra hiện tượng thiếu chất kéo dài, từ đó kéo theo một vài triệu chứng như xương yếu, thiếu máu, đau đầu, da xấu, mất cơ hay thậm chí là đãng trí.
+Rõ ràng có thể nhận thấy việc giảm cân thiếu khoa học mang tới những hiệu ứng bất lợi cho cơ thể và sức khỏe con người. Kết hợp giữa việc ăn kiêng khoa học, tập luyện, sử dụng một vài sản phẩm thực phẩm bảo vệ sức khỏe hỗ trợ duy trì vóc dáng sẽ mang lại hiệu quả bền vững.
+Thực phẩm bảo vệ sức khỏe Vin Slim: Hỗ trợ chị em bảo vệ vóc dáng cân đối
+Được nghiên cứu và phát triển bởi Công ty TNHH Đông Nam Dược Thành Đạt với nhiều năm kinh nghiệm cùng dây chuyền sản xuất tiên tiến hiện nay, sản phẩm thực phẩm bảo vệ sức khỏe Vin Slim hiện nay đang là một trong những sản phẩm hỗ trợ giảm béo được chị em tin tưởng sử dụng.
+Thực phẩm bảo vệ sức khỏe Vin Slim có thành phần từ thảo mộc tự nhiên: Chiết xuất cây xạ đen, lá sen, tang diệp, bụp giấm, trà xanh, xương rồng nopan, hoa hòe, linh chi, quả bứa cùng một số phụ liệu khác. Với thành phần từ tự nhiên, thực phẩm bảo vệ sức khỏe Vin Slim an toàn cho người sử dụng, không gây ra những tác dụng phụ không đáng có trong thời gian sử dụng. Việc sử dụng thường xuyên để duy trì cân nặng cũng như vóc dáng sẽ không gây ra bất cứ vấn đề gì với sức khỏe của người sử dụng.
+Là một trong những thành phần chủ đạo của thực phẩm bảo vệ sức khỏe Vin Slim, chiết xuất Xương rồng Nopan (CACTI-NEA CLEAR ORGANIC) được nhập khẩu có công dụng chủ đạo trong việc hỗ trợ giảm lượng cholesterol trong máu, tăng cường tiêu hóa đã được các nhà khoa học Pháp nghiên cứu và đưa ra kết luận.
+Với những thành phần tự nhiên, thực phẩm bảo vệ sức khỏe Vin Slim có công dụng hỗ trợ tăng cường chuyển hóa chất béo, hỗ trợ giảm cholesterol trong máu và đặc biệt hỗ trợ giảm béo. Sản phẩm được sản xuất ở dạng viên nén dễ dàng trong việc sử dụng và bảo quản.
+Sản phẩm này không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+TPBVSK Vin Slim - Đồng hành cùng chị em trong quá trình giữ vóc dáng cân đối
+SĐT: 091 3401919
+Địa chỉ: Đội 7, thôn Xuyên Dương, Xã Xuân Dương, Huyện Thanh Oai, Hà Nội
+Trường Thịnh

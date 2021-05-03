@@ -1,20 +1,17 @@
 # doc_id = news_world_159
-# url = https://dantri.com.vn/the-gioi/myanmar-khong-kich-du-doi-phien-quan-dan-thuong-thao-chay-sang-thai-lan-20210429070136794.htm
-# date = 20210429
-Một công trình nằm trong tiền đồn của quân đội Myanmar gần biên giới Thái Lan bị nhóm vũ trang dân tộc thiểu số phóng hỏa (Ảnh: Reuters).
-AFP dẫn thông báo ngày 28/4 của một quan chức Thái Lan đưa tin, quân đội Myanmar đã ngày thứ 2 liên tiếp thực hiện các cuộc không kích nhằm vào khu vực mà một nhóm phiến quân đang kiểm soát nằm gần biên giới Thái Lan.
-Myanmar đã rơi vào tình trạng hỗn loạn sau vụ quân đội lật đổ chính quyền dân cử hôm 1/2 để giành quyền điều hành đất nước. Hàng trăm nghìn người đã xuống đường biểu tình, đình công phản đối quân đội khiến nền kinh tế Myanmar tê liệt, đồng thời nhiều người đã thiệt mạng khi quân đội thực hiện các biện pháp giải tán đám đông.
-Phong trào phản đối quân đội đã nhận được một số sự ủng hộ từ một số nhóm vũ trang dân tộc thiểu số, các nhóm kiểm soát phần lãnh thổ dọc theo khu vực biên giới Myanmar với các nước láng giềng. Động thái này từng làm dấy lên lo ngại về viễn cảnh một cuộc nội chiến sẽ bùng phát tại Myanmar.
-Một trong những nhóm tích cực nhất là Liên minh quốc gia Karen (KNU). Nhóm này đã lên tiếng chỉ trích chính quyền quân sự vì có các động thái mạnh tay chống lại những người biểu tình phản đối cuộc đảo chính. Khoảng 750 người đã thiệt mạng trong phong trào biểu tình, theo AFP.
-Giao tranh giữa quân đội và lực lượng tại khu vực do KNU kiểm soát ở biên giới phía đông đã gia tăng từ ngày 1/2. Tháng trước, quân đội Myanmar đã thực hiện các vụ không kích nhằm tấn công nhóm phiến quân. Đây được xem là vụ tấn công từ trên không đầu tiên mà quân đội nước này thực hiện ở bang Karen trong hơn 20 năm qua.
-KNU ngày 27/4 đã tấn công một căn cứ lục quân ở bờ sông Salween và quân đội Myanmar đã không kích trả đũa.
-Ngày 28/4, tiếng súng và bom nổ tiếp tục xuất hiện vào 9h sáng ở gần căn cứ Dar Gwin của Myanmar.
-"Đó có thể là quân đội Myanmar nổ súng để bảo vệ căn cứ của họ", ông Sithichai Jindaluang - Thống đốc tỉnh Mae Hong Son, Thái Lan, cho biết. Tỉnh Mae Hong Son giáp với bang Karen của Myanmar.
-Ông Sithichai cho biết, các máy bay quân sự của Myanmar sau đó đã không kích và nổ súng từ trên không, rồi phóng rocket từ trực thăng.
-Trong buổi sáng 28/4, ông Sithichai nói rằng, 68 người dân Myanmar đã tháo chạy sang biên giới Thái Lan để xin tị nạn. Trước đó, dân thường Myanmar cũng đã chạy qua Thái Lan để được trợ giúp y tế.
-Quan chức phụ trách đối ngoại của KNU Padoh Saw Taw Nee xác nhận vụ không kích từ phía quân đội Myanmar, nhưng khẳng định KNU "không tấn công bất cứ mục tiêu nào hôm nay".
-Ông Padoh đồng thời chỉ trích quân đội Myanmar vì đã thực hiện vụ không kích nhằm vào khu vực có dân thường đang sinh sống.
-Ngoài ra, cũng có những vụ không kích khác ở khu vực phía bắc bang Kachin, phát ngôn viên của nhóm vũ trang "Quân đội Kachin độc lập" (KIA) nói với AFP.
-Khoảng 24.000 người đã rời bỏ nhà cửa kể từ khi quân đội Myanmar không kích vào khu vực này từ tháng trước.
-Đức Hoàng
-Theo AFP
+# url = https://dantri.com.vn/the-gioi/nga-bat-ngo-rut-quan-khoi-khu-vuc-gan-bien-gioi-ukraine-20210423060908308.htm
+# date = 20210423
+Bộ trưởng Quốc phòng Nga Sergei Shoigu (Ảnh: TASS).
+Phát biểu nhân chuyến thăm không báo trước đến một địa điểm diễn tập quân sự ở bán đảo Crimea ngày 22/4, Bộ trưởng Quốc phòng Nga Sergei Shoigu ra lệnh cho binh sĩ bắt đầu rút khỏi Crimea và khu vực biên giới với Ukraine để trở về căn cứ thường trực.
+Theo đó, ông Shoigu đã lệnh cho các lực lượng mặt đất của Nga trở lại các căn cứ ở Vladikavkaz và Novosibirsk, trong khi các đơn vị không quân trở về căn cứ ở Pskov, Ivanovo và vùng Krasnodar trước ngày 1/5. Tuy nhiên, các khí tài và thiết bị quân sự vẫn giữ lại ở trường bắn Pogonovo ở vùng Voronezh, cách biên giới Ukraine khoảng 160km về phía đông vì chúng có thể phục vụ cho các cuộc diễn tập của quân đội Nga vào cuối năm nay.
+Nói về lý do rút lực lượng, ông Shoigu cho biết: "Tôi tin rằng chúng tôi đã đạt được các mục tiêu của đợt kiểm tra (mức độ sẵn sàng của quân đội) này. Các binh sĩ đã cho thấy khả năng bảo vệ đất nước một cách đáng tin cậy. Do vậy, tôi quyết định hoàn tất đợt kiểm tra năng lực quân khu phía Tây và phía Nam".
+Tuy nhiên, ông Shoigu cũng ra lệnh cho quân đội sẵn sàng ứng phó với mọi diễn biến bất lợi có thể xảy ra.
+Quyết định rút quân của Nga được đưa ra sau một thời gian phương Tây chỉ trích và bày tỏ quan ngại việc Moscow tăng cường lực lượng quân sự ở Crimea và gần biên giới Ukraine với quy mô lớn chưa từng có kể từ năm 2014.
+Bộ Quốc phòng Nga hôm nay cho biết, các cuộc tập trận ở Crimea những tuần gần đây có sự tham gia của hơn 60 tàu, hơn 10.000 binh sĩ, khoảng 200 máy bay và 1.200 xe quân sự. Trước đó, giới ngoại giao và quân sự phương Tây ước đoán, Nga đã triển khai hơn 120.000 binh sĩ ở Crimea và gần biên giới Ukraine.
+Tuy rút phần lớn binh sĩ, nhưng Nga vẫn duy trì các vũ khí hạng nặng gần biên giới Ukraine (Ảnh: Getty).
+Ukraine hoan nghênh
+Hiện chưa rõ quyết định rút quân của Nga sẽ tác động thế nào đến tình hình căng thẳng suốt thời gian qua ở biên giới với Ukraine nhưng Tổng thống Ukraine Volodymyr Zelensky đã lên tiếng hoan nghênh động thái này. Ông bình luận trên Twitter: "Việc rút dần quân khỏi biên giới hai nước sẽ hạ nhiệt căng thẳng. Ukraine vẫn cảnh giác, nhưng rất hoan nghênh bất cứ động thái nào nhằm giảm quy mô hiện diện quân sự và xuống thang căng thẳng ở vùng Donbass".
+Hôm 20/4, ông Zelensky chủ động đề nghị gặp và hội đàm với Tổng thống Nga Vladimir Putin ở vùng chiến sự miền Đông trong nỗ lực nhằm hạ nhiệt căng thẳng. Đáp lại đề nghị, Tổng thống Putin hôm qua tuyên bố sẵn sàng thảo luận vấn đề quan hệ song phương với người đồng cấp Ukraine tại Moscow bất cứ khi nào thích hợp với nhà lãnh đạo Ukraine.
+Về phía Mỹ, người phát ngôn Bộ Ngoại giao Mỹ Ned Price cho biết, Washington sẽ "tiếp tục theo dõi sát" tình hình ở biên giới Nga - Ukraine sau khi Moscow lệnh rút quân. "Tất cả vẫn mới chỉ là thông báo. Vì vậy, đó là lý do tại sao chúng tôi tiếp tục giám sát chặt tình hình", ông Price nói.
+Minh Phương
+Theo AFP, Reuters

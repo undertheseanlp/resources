@@ -1,19 +1,12 @@
 # doc_id = news_sport_144
-# url = https://dantri.com.vn/the-thao/indonesia-trieu-tap-hang-khung-doi-tuyen-viet-nam-lo-lang-20210427094056883.htm
-# date = 20210427
-Ngày hôm qua, HLV Shin Tae Yong đã công bố danh sách tập trung 34 cầu thủ Indonesia chuẩn bị cho các trận đấu còn lại ở vòng loại World Cup 2022 với UAE, Việt Nam và Thái Lan.
-Mặc dù đã chắc chắn bị loại nhưng đội bóng xứ Vạn đảo vẫn thể hiện quyết tâm lớn. Họ xem đây là cơ hội để kiểm tra sức mạnh ở thời điểm này.
-Marc Klok là cầu thủ nhập tịch nguy hiểm của Indonesia.
-Mặc dù đã tiếp quản công việc ở đội tuyển Indonesia từ năm 2019 nhưng HLV Shin Tae Yong vẫn chưa có trận đấu chính thức nào. Do đó, ông cũng muốn khẳng định tài cầm quân của mình trong những trận đấu vào tháng Sáu tới.
-Trong số 34 gương mặt được HLV Shin Tae Yong triệu tập vào đội tuyển Indonesia, người ta thấy nhiều gương mặt quen thuộc như Osvaldo Haay, Evan Dimas, Egy Maulana Vikri hay Witan Sulaeman…
-Tuy nhiên, theo đánh giá của giới chuyên môn, bí ẩn của đội tuyển Indonesia nằm ở những cầu thủ nhập tịch "khủng" trong đợt này. Đầu tiên là Marc Klok. Cầu thủ gốc Hà Lan vừa hoàn thành thủ tịch nhập tịch ở Indonesia vào cuối năm 2020 và sẽ ra mắt trong đợt tới. Cầu thủ sinh năm 1993 từng có nhiều năm thi đấu ở châu Âu như Hà Lan, Anh… trước khi tới Indonesia thi đấu vào năm 2017.
-Một cái tên khác cũng rất đáng chú ý là Elkan Baggott. Cầu thủ này sở hữu chiều cao tới 1,94 mét và đang tập luyện ở CLB Ipswich Town của Anh.
-Tờ Indosport cho rằng HLV Park Hang Seo sẽ có lo lắng nhất định trước thềm trận đấu với Indonesia.
-Trước tình hình đó, báo chí Indonesia đang tỏ ra tự tin về sức mạnh của đội nhà. Thậm chí, họ còn cho rằng đội tuyển Việt Nam đang thực sự lo lắng.
-Tờ Indosport nhấn mạnh: "Sau khi nghe tin vào việc đội tuyển Indonesia tập trung, HLV Park Hang Seo đã thực sự lo lắng. Ông sẽ ngay lập tức nghiên cứu đội tuyển Indonesia. Đây là HLV nổi tiếng với sự tỉ mỉ. Do đó, chắc chắn ông sẽ có sự thận trọng nhất định khi đối đầu với HLV Shin Tae Yong.
-Tờ Indosport dẫn lời HLV Park Hang Seo: "Chúng tôi phải có sự chuẩn bị tốt nhất trước các trận đấu và có sự phân tích kỹ càng các đối thủ như Indonesia, Malaysia và UAE. Bên cạnh đó, chúng tôi sẽ nghiên cứu thời tiết ở UAE. Tôi sẽ chọn nơi tập huấn giống như ở UAE".
-Cuối cùng, tờ báo này cho rằng tâm lý thoải mái có thể là lợi thế khi đối đầu với đội tuyển Việt Nam. Họ kết luận: "Đội tuyển Indonesia đã bị loại sau khi không có được điểm nào ở vòng loại World cup 2022.
-Dù sao, việc thi đấu với tâm lý thoải mái có thể là lợi thế của Indonesia. Dù thế nào, thầy trò HLV Shin Tae Yong rất quyết tâm chiến thắng. Lý do là nếu đánh bại được Việt Nam, Indonesia, UAE thì đội tuyển Indonesia sẽ thăng tiến chóng mặt trên bảng xếp hạng FIFA".
-Theo kế hoạch, thầy trò HLV Park Hang Seo hội quân vào ngày 10/5 tới, dự kiến là ở Quy Nhơn. Đội tuyển di chuyển sang UAE vào ngày 27/5, nhằm giúp các cầu thủ có thêm thời gian thích nghi với điều kiện thời tiết, mặt sân.
-Theo lịch, đội tuyển Việt Nam sẽ gặp Indonesia ngày 7/6, gặp Malaysia ngày 11/6 và khép lại chiến dịch bằng trận gặp đội chủ nhà UAE ngày 15/6. Hiện tại, chúng ta đang dẫn đầu bảng G với 11 điểm, hơn Malaysia 2 điểm, hơn Thái Lan 3 điểm và hơn UAE 5 điểm (UAE thi đấu ít hơn 1 trận). Do đó, mục tiêu của HLV Park Hang Seo là giành 6 điểm trong 3 trận đấu này.
-H.Long
+# url = https://dantri.com.vn/the-thao/kanya-keomany-nguoi-lanh-dao-xinh-dep-va-day-tai-nang-cua-bong-da-lao-20210425195529415.htm
+# date = 20210425
+Kanya Keomany hiện được xem là một trong những cái tên có tầm ảnh hưởng quan trọng đối với bóng đá nữ Lào nói riêng và cả châu Á nói chung.
+Với kinh nghiệm hơn một thập kỷ làm việc cho Liên đoàn bóng đá châu Á (AFC), vào năm 2018, Kanya Keomany đã được bầu vào Ban chấp hành AFC và trở thành một trong bốn thành viên nữ hiếm hoi của cơ quan này.
+Đặc biệt, Kanya Keomany cũng tham gia vào Ủy ban bóng đá nữ AFC và tích cực đóng góp cho sự phát triển bóng đá nữ tại châu Á.
+"Tôi thấy biết ơn nếu những gì tôi làm có thể ảnh hưởng tới nhiều chị em phụ nữ hơn, để tiến tới tạo ra một sự khác biệt. Điều quan trọng nhất là có thể đưa ra một ví dụ tiêu biểu rằng, bóng đá là môn thể thao dành cho tất thảy mọi người, từ nhhiều tầng lớp khác nhau, bất kể giới tính của họ", Kanya Keomany chia sẻ cùng trang FIFA.com.
+Dĩ nhiên, bông hoa của "đất nước triệu voi" cũng hiểu rõ những khó khăn và thách thức mà mình sẽ phải đối mặt: "Chúng ta đều biết rằng đôi khi, là phụ nữ trong một ngành nghề mà đàn ông thống trị thì bạn sẽ phải làm việc chăm chỉ gấp đôi để được chấp nhận. Mọi người có xu hướng theo dõi từng bước bạn đi để chỉ trích sai lầm của bạn hoặc là để mổ xẻ thành tích của bạn".
+Dù vậy, Kanya Keomany không hề cảm thấy nản lòng hay bỏ cuộc. Thay vào đó, Tổng Thư ký của Liên đoàn bóng đá Lào đang rất nỗ lực để cùng đội tuyển bóng đá nữ quốc gia này chạy đua giành vé tham gia FIFA World Cup nữ sắp tới.
+Kanya Keomany cho biết: "May mắn là tại Lào, đặc biệt là trong thế hệ này và trong bóng đá nói riêng, chúng tôi được trao cơ hội bình đẳng giữa nam và nữ. Tuy nhiên, quan điểm và sự rập khuôn về bóng đá nữ, hoặc là phụ nữ đá bóng, vẫn cứ là một trở ngại trong việc đưa chị em phụ nữ đến với bóng đá".
+Dung Nhi
+Theo TS

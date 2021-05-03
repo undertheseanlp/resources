@@ -1,10 +1,13 @@
 # doc_id = news_travel_118
-# url = https://dantri.com.vn/du-lich/hanh-khach-danh-nhau-chi-de-tranh-gianh-xem-ai-duoc-xuong-may-bay-truoc-20210329121716416.htm
-# date = 20210329
-Vụ việc xảy ra trên chuyến bay mang số hiệu 2275 của hãng hàng không American Airlines. Đó là thời điểm máy bay vừa hạ cánh xuống sân bay quốc tế Phoenix Sky Harbour (Mỹ), thì bất ngờ hai nữ hành khách xông vào đánh nhau dữ dội.
-Theo chia sẻ của các nhân chứng, lý do khiến cả hai ẩu đả chỉ vì muốn xem ai là người được xuống máy bay trước tiên. Vụ việc khiến chuyến bay náo loạn còn những hành khách khác bị kẹt lại suốt nửa tiếng.
-Một trong những vị khách có mặt tại thời điểm đó, chị Annie Victoria Reso đã quay video ghi cảnh đánh nhau và chia sẻ lên mạng xã hội. Do bị kẹt lại trên máy bay nên Reso rất sốt ruột. Nhưng may mắn cô được "giải cứu" và vẫn kịp giờ đón một chuyến bay nối chuyến tiếp theo vào những giây cuối cùng.
-Cũng theo vị khách này, thực ra trước khi ẩu đả, hai phụ nữ trên đã sớm "hục hặc" nhau vì chuyện chỗ ngồi trên máy bay, trước thời điểm phi công cất cánh.
-Trong khi đó, phát ngôn viên của hãng bay cho biết "đã nhận được thông báo về vụ việc xảy ra giữa hai vị khách" nhưng người này từ chối cung cấp thông tin chi tiết về vụ việc. Rất may sau vụ ẩu đả, cả hai không ai bị thương.
-Huy Hoàng
-Theo NYPost
+# url = https://dantri.com.vn/du-lich/hoang-hot-voi-40-nguoi-de-len-vom-da-nui-lua-hang-trieu-nam-tuoi-20210419102405290.htm
+# date = 20210419
+Hình ảnh đoàn khách du lịch 40 người trèo lên cổng Tò Vò (thôn Tây An Vĩnh, huyện Lý Sơn) chụp ảnh gây nên nhiều ý kiến trái chiều. Phần lớn ý kiến tỏ ra bức xúc vì hành động này xâm hại nghiêm trọng đến thắng cảnh cổng Tò Vò.
+Hình ảnh đoàn khách 40 người trèo lên cổng Tò Vò khiến nhiều người bức xúc (Ảnh: Facebook)
+Cổng Tò Vò là dạng địa hình hiếm có trên thế giới. Vòm đá này được hình thành từ trầm tích núi lửa cách đây hàng triệu năm. Cổng Tò Vò có chiều dài khoảng 20 m, đỉnh cổng cao hơn bề mặt mài mòn biển 4 m, điểm hẹp nhất rộng khoảng 2 m.
+Theo một số nghiên cứu, cổng Tò Vò cónhiều khe nứt là vị trí xung yếu dễ bị sóng biển phá hủy. Trên thực tế, cấu trúc của cổng Tò Vò vẫn đang bị sóng biển xâm thực, đặc biệt là vào mùa mưa bão. Do đó, việc có hàng chục người trèo lên cùng lúc có nguy cơ gây sụp đổ cổng Tò Vò.
+Cổng Tò Vò là thắng cảnh nổi tiếng ở Lý Sơn, mỗi năm địa điểm này đón hàng chục nghìn lượt khách du lịch.
+Theo ông Trương Đình Thuận - Phó trưởng phòng Văn hóa - Thông tin huyện Lý Sơn, cổng Tò Vò là một trong những thắng cảnh nổi tiếng của huyện đảo Lý Sơn. Mỗi năm có hàng chục nghìn du khách đến tham quan. Nhiều đoàn khách đông người trèo lên cổng Tò Vò cùng lúc gây ảnh hưởng xấu đến di sản địa chất.
+"Từ năm 2017, huyện đã cắm bảng khuyến cáo không quá 7 người cùng trèo lên cổng Tò Vò cùng lúc. Tuy nhiên, nhiều đoàn khách đông người vẫn cố tình leo lên cổng Tò Vò chụp ảnh, gây ảnh hưởng xấu đến vòm đá này", ông Thuận cho biết.
+Vòm đá nham thạch được phát hiện vào năm 2014 ngoài khơi đảo Bé, huyện đảo Lý Sơn.
+Ngoài cổng Tò Vò trên cạn, tại đảo Lý Sơn còn có một vòm đá núi lửa khác nằm ở độ sâu 13 m dưới đáy biển cách đảo Bé khoảng 1 hải lý. Tổng thể khối nham thạch tạo nên vòm đá kéo dài gần 100 m, trong đó phần mái vòm dài khoảng 20 m. Tính từ đáy biển lên, nơi cao nhất của vòm đá khoảng 5 m.
+Quốc Triều

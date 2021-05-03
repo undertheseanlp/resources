@@ -1,16 +1,14 @@
 # doc_id = news_health_204
-# url = https://dantri.com.vn/suc-khoe/san-phu-dot-ngot-tu-vong-sau-khi-tiem-tai-trung-tam-y-te-huyen-20210419092127058.htm
-# date = 20210419
-Ngày 19/4, cơ quan chức năng tỉnh Hòa Bình đang điều tra nguyên nhân dẫn đến sự việc sản phụ C.T.P. (SN 1988, trú Phố Sấu, xã Lạc Thịnh, huyện Yên Thủy) tử vong vào lúc hơn 2h ngày 18/4 tại Trung tâm Y tế huyện Yên Thủy.
-Trung tâm Y tế huyện Yên Thủy (Hòa Bình) nơi xảy ra sự việc sản phụ P. tử vong bất thường sau tiêm.
-Ông Dương Văn Tiến, Giám đốc Trung tâm Y tế huyện Yên Thủy xác nhận sự việc chị P. tử vong tại trung tâm và cho biết thêm, không biết là do nguyên nhân gì. Hiện Công an và pháp y đang làm việc để làm rõ nguyên nhân sự việc.
-Theo ông Tiến, chị P. tử vong lúc hơn 2h sáng 18/4. "Lúc 12h đêm qua vẫn đang nói chuyện với chồng bình thường, anh em cũng đi kiểm tra, có 20 phút thôi nhưng không biết sao lại đột ngột xảy ra tử vong mà các bác sĩ cấp cứu không kịp", ông Tiến nói.
-Anh Nguyễn Ngọc Quân (SN 1983 chồng chị P.) cho biết, vợ anh nhập viện khoảng 15h ngày 16/4 để sinh con thứ 4. Lúc 17h23 thì sinh cháu trai, sau đó được chuyển lên phòng ở tầng 2.
-Anh Quân (chồng chị P. áo đen) kể lại quá trình đi sinh của sản phụ.
-"Sau sinh vợ tôi bình thường, có hơi đau nhưng các bác sĩ bảo là đau dạ con, nếu có đau quá thì gọi. Đêm ngày 17/4, vợ tôi đau bụng, tôi gọi 2 nhân viên y tế đến xem, họ khuyên không nên tiêm nhiều và nói nên dùng viên thuốc đút. Nhưng vì khó chịu nên vợ tôi không dùng, tôi chỉ ngồi và xoa bụng cho vợ đỡ đau", anh Quân nhớ lại.
-Khoảng hơn 1h sáng 18/4, thấy vợ đau quá, anh Quân tiếp tục đến gọi nhân viên y tế tại phòng trực. Sau đó, có một người đến không khám gì cho chị P. mà đi thẳng vào phòng thuốc lấy thuốc và tiêm cho sản phụ sau đó quay lại phòng trực luôn.
-"Vì mệt nên tôi ngả lưng ngay chỗ giường bệnh của vợ, đến khoảng 2h sáng tôi nghe tiếng ú ớ của vợ giật mình dậy thấy vợ có hiện tượng tím tái, ngáp ngáp. Tôi lập tức gọi mẹ vợ đang nằm cạnh đó dậy xem thế nào và tức tốc lao thẳng xuống phòng trực báo tình hình. Các nhân viên y tế đến tiêm, truyền và dùng máy thở ô xy để cấp cứu, đến khoảng 2h20' thì vợ tôi mất", anh Quân đau buồn kể lại.
-Gia đình làm đám tang cho chị P. và mong muốn cơ quan chức năng sớm làm rõ nguyên nhân dẫn đến cái chết bất thường của sản phụ.
-Anh Quân cho biết thêm: "Sau khi xảy ra sự việc, ông Dương Văn Tiến, Giám đốc Trung tâm Y tế gọi tôi ra thảo luận, bảo gia đình có xe thì đưa về, không có thì để bệnh viện hỗ trợ và đưa 100 triệu đồng. Tôi không đồng ý, và báo cáo cơ quan chức năng yêu cầu làm rõ nguyên nhân vợ tôi tử vong".
-Được biết, vợ chồng anh Quân, chị P. sinh được người con (3 nữ, 1 nam), cháu đầu sinh năm 2011, cháu thứ 2 sinh năm 2014, cháu thứ 3 sinh năm 2019 và cháu trai thứ 4 mới sinh chiều 16/4. Sau khi chị P. mất, gia đình phải gửi cháu bé tại nhà người thân để lo hậu sự.
-Thái Bá
+# url = https://dantri.com.vn/suc-khoe/sang-244-viet-nam-ghi-nhan-2-ca-mac-moi-covid-19-20210424061037281.htm
+# date = 20210424
+2 ca mắc mới (BN2831-2832) được cách ly ngay sau khi nhập cảnh tại Yên Bái (01), Thái Bình (01). Cụ thể:
+- CA BỆNH 2831 (BN2831) ghi nhận tại tỉnh Yên Bái: Bệnh nhân nam, 49 tuổi, quốc tịch Ấn Độ, là chuyên gia. Bệnh nhân trên từ Ấn Độ quá cảnh Dubai, sau đó nhập cảnh Sân bay Nội Bài ngày 18/4/2021 và được cách ly ngay sau khi nhập cảnh tại tỉnh Yên Bái. Kết quả xét nghiệm lần 3 ngày 23/4/2021 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh.
+- CA BỆNH 2832 (BN2832) ghi nhận tại tỉnh Thái Bình: Bệnh nhân nam, 27 tuổi, công dân Việt Nam, địa chỉ tại huyện Phù Ninh, tỉnh Phú Thọ. Bệnh nhân từ Nhật Bản nhập cảnh Sân bay Vân Đồn ngày 20/04/2021 trên chuyến bay VJ7837 và được cách ly ngay sau khi nhập cảnh tại tỉnh Thái Bình. Kết quả xét nghiệm lần 2 ngày 23/4/2021 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Đa khoa tỉnh Thái Bình.
+Tính đến 6h ngày 24/4, Việt Nam có tổng cộng 2.832 ca mắc Covid-19, trong đó 1.570 ca do lây nhiễm trong nước. Số lượng ca mắc mới tính từ ngày 27/1 đến nay là 910 ca.
+Số người cách ly: Tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 39.191, trong đó:
+- Cách ly tập trung tại bệnh viện: 518
+- Cách ly tập trung tại cơ sở khác: 23.688
+- Cách ly tại nhà, nơi lưu trú: 14.985
+Về tình hình điều trị, theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế, Việt Nam đã chữa khỏi 2.490 trường hợp, 35 ca tử vong. Hiện trong số bệnh nhân đang điều trị có 40 người đã âm tính từ 1-3 lần với SARS-CoV-2.
+Về tình hình tiêm chủng, đến chiều ngày 23/04/2021, tổng cộng Việt Nam đã thực hiện tiêm vắc xin phòng Covid-19 đợt 1 và 2 cho 176.037 người là cán bộ, nhân viên y tế đang trực tiếp điều trị bệnh nhân Covid-19, các nhân viên y tế thực hiện các nhiệm vụ như lấy mẫu bệnh phẩm, xét nghiệm, truy vết, thành viên các tổ Covid-19 cộng đồng, Ban Chỉ đạo phòng chống dịch các cấp, các lực lượng công an và quân đội.
+Hồng Hải

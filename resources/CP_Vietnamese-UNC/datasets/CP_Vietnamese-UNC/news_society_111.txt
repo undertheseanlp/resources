@@ -1,21 +1,11 @@
 # doc_id = news_society_111
-# url = https://dantri.com.vn/xa-hoi/du-co-bien-cam-tu-tap-ho-dong-mo-van-tap-nap-nguoi-den-cam-trai-20210502013846882.htm
-# date = 20210502
-Hồ Đồng Mô vẫn tấp nập người đến cắm trại dù có biển cấm tụ tập
-Hồ Đồng Mô (Hà Nội) là điểm đến ưa thích của giới trẻ yêu thiên nhiên, trong dịp nghỉ lễ 30/4 và 1/5 nơi đây thu hút khá nhiều người đổ về nghỉ ngơi thư giãn dù có biển cấm tụ tập phòng dịch Covid-19.
-Hồ Đồng Mô thuộc địa phận thị xã Sơn Tây và một phần thuộc huyện Ba Vì, Hà Nội, nằm trong quần thể du lịch Làng văn hóa các dân tộc Việt Nam. Hồ chứa nước rộng khoảng 500 ha, dưới chân núi Ba Vì.
-Quanh hồ có nhiều bãi cỏ thoải sát mặt nước, có cây xanh tỏa bóng mát cùng tầm quan sát tuyệt đẹp. Vào dịp cuối tuần, dịp nghỉ lễ hồ Đồng Môthu hút một lượng lớn người dân đến cắm trại thư giãn.
-Tại một số vị trí đẹp mặt hồ đều có các biệt thự, khu du lịch sinh thái, sân gôn án ngữ, vì thế muốn cắm trại phải đi qua những điểm này mới xuống được bãi ven hồ. Tại đây, có thể dựng trại, vui chơi, bơi lội.
-Thoát ra khỏi đoạn biệt thự, sân gôn bắt gặp hàng đoàn xe đỗ ven đường và nhiều nhóm hạ trại ăn trưa.
-Một vài điểm ven hồ có biển cấm người vào để phòng chống lây lan dịch Covid-19 nhưng khách tới đây vẫn bất chấp, vượt rào vào nghỉ ngơi, vui chơi. Trong ảnh là một vị trí hạ trại có thể nói là đẹp nhất còn lại ven hồ Đồng Mô không bị thu phí.
-Hà Nội đang trong thời điểm hạn chế tụ tập đông người, dừng nhiều tụ điểm giải trí, lễ hội để ngăn chặn sự lây lan dịch bệnh Covid-19, hồ Đồng Mô vì thế vắng hơn song vẫn thu hút vì nơi đây thoáng đãng rộng rãi và có thể thực hiện việc giãn cách giữa các nhóm nhỏ với nhau.
-Theo truyền thuyết Sơn Tinh - Thủy Tinh, khu vực lòng hồ Đồng Mô hiện nay là nơi đại thủy chiến giữa Sơn Tinh (thần núi Tản Viên) và Thủy Tinh (thần nước) để giành giật công chúa Mị Nương. Trong trận chiến đó, Thủy Tinh dâng nước cùng với các loài thủy tộc lên đánh Sơn Tinh, Sơn Tinh làm phép dâng núi lên cao, nước dâng đến đâu, núi cao đến đó, cuối cùng Thủy Tinh chịu bại trận. Vì thế nên đỉnh núi Ba Vì đến nay cao hơn 1.000m, trên đỉnh núi vẫn còn đền thờ thần Sơn Tinh (Thánh Tản Viên).
-Những vị trí cắm trại rất đẹp song không còn nhiều.
-Trong dịp nghỉ lễ 30/4 và 1/5, một lượng lớn người dân đổ về đây thuộc Ba Vì, Sơn Tây và lượng khách ít hơn đến từ Hà Nội. Vào các kỳ nghỉ ngắn ngày hồ thu hút khá đông các gia đình cùng trẻ nhỏ về vui chơi với không gian thiên nhiên xanh mát.
-Trong ảnh là những điểm nghỉ ngơi ven hồ tự nhiên, người dân có thể tự do hạ trại. Ngoài ra còn khá nhiều khu biệt thự, khu sinh thái chiếm vị trí đẹp mở cửa thu phí cho người có nhu cầu.
-Một nhóm bạn trẻ ở thị xã Sơn Tây chọn hồ Đồng Mô làm nơi vui chơi khi được nghỉ học, vì trong thị xã và các nơi lân cận, nhiều hoạt động văn hóa giải trí đã bị hạn chế vì dịch Covid-19.
-Nếu không thích ồn ào có thể chọn một góc yên tĩnh hơn để mắc võng nằm nghỉ.
-Trong ảnh là một vị trí thuộc địa phận xã Kim Sơn, nơi đây không có các biệt thự, khu sinh thái, sân gôn che chắn vì thế đoạn ven hồ này là điểm đến ưa thích của những người thích thiên nhiên mà không bị gò ép trong khuôn khổ không gian của các khu dịch vụ.
-Bãi cắm trại ven hồ rất đẹp thuộc một khu sinh thái có thu phí, tuy vậy khách vào không đông.
-Các bãi ven bờ hồ là điểm nghỉ ngơi thư giãn rất lý tưởng cho người dân song sau khi tan cuộc vui, đọng lại là... rác rất nhiều.
-Hữu Nghị
+# url = https://dantri.com.vn/xa-hoi/du-khach-nigeria-mat-tich-khi-tham-quan-thac-nuoc-o-dak-nong-20210426102605853.htm
+# date = 20210426
+Trưa 26/4, lãnh đạo UBND xã Đắk Sôr (huyện Krông Nô, Đắk Nông) cho biết, lực lượng chức năng tỉnh Đắk Nông đã tìm thấy nam du khách 36 tuổi tên tên R.A.C., quốc tịch Nigeria, mất tích khi tham quan thác Đray Sap.
+Được biết, chiều 24/4, nam du khách ngoại quốc cùng chị T.T.C.H. (ở TPHCM) đến Khu du lịch Đray Sap tham quan và xuống chơi dưới thác nước. Sau đó, người phụ nữ không thấy nam du khách quay trở lại nên nghi ngờ anh này bị rơi xuống thác nước.
+Thác Đray Sap - nơi nam du khách mang quốc tịch Nigeria mất tích.
+Ngay sau đó, người phụ nữ trên đã báo sự việc với đội quản lý khu du lịch Đray Sap để tổ chức tìm kiếm du khách nước ngoài.
+Theo lãnh đạo UBND xã Đắk Sôr, thời tiết 2 ngày qua khá thuận lợi nên không ảnh hưởng nhiều đến quá trình tìm kiếm du khách mất tích. Sau 2 ngày tìm kiếm, trưa nay 26/4, lực lượng chức năng đã tìm thấy thi thể của nạn nhân R.A.G. Thi thể được phát hiện bị kẹt lại tại hai mỏm đá, ngay dưới chân thác nước.
+Lãnh đạo xã thông tin thêm, ngày 24/4, chị T.T.C.H. cùng bạn trai ngoại quốc đến khu du lịch sinh thái cụm thác Đray Sap - Gia Long tham quan du lịch. Cả hai người đi bộ qua cầu treo và lên đầu thác chơi.Lúc này anh R.A.G. dùng flycam quay lại cảnh thác, sau đó anh để máy quay tự động rồi đặt bộ điều khiển gần chỗ chị H. để đi xuống dưới thác nước.
+Một lúc sau, chị H. thấy màn hình bộ điểu khiển mất tín hiệu nên đi tìm bạn trai nhưng không thấy, liền báo lực lượng chức năng.
+Dương Phong

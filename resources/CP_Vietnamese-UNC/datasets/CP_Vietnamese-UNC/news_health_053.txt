@@ -1,15 +1,17 @@
 # doc_id = news_health_053
-# url = https://dantri.com.vn/suc-khoe/be-so-sinh-trai-qua-phau-thuat-dau-don-vi-bi-chich-mun-bang-kim-khau-20210427154242223.htm
-# date = 20210427
-Ngày 27/4, Bệnh viện Nhi Trung ương thông tin về ca bệnh hi hữu, bé sơ sinh 15 ngày tuổi bị nhiễm trùng huyết, hoại tử phần mềm vùng lưng do người nhà tự lấy kim khâu quần áo để chích mụn nhọt.
-Bé sơ sinh 15 ngày tuổi nhập viện trong tình trạng hoại tử lan rộng vùng lưng, nhiễm trùng máu nguy hiểm.
-Trước đó, ngày 2/4, Trung tâm Sơ sinh, Bệnh viện Nhi Trung ương tiếp nhận bé trai S.V.P. (15 ngày tuổi, ở Lai Châu) vào viện trong tình trạng nhiễm trùng huyết, vùng lưng hoại tử.
-Người nhà bệnh nhi cho biết, sau sinh ba ngày, thấy trên lưng trẻ có xuất hiện nốt mụn nhỏ li ti, người nhà đã lấy kim khâu quần áo để chích mụn cho trẻ.
-Một ngày sau, vết mụn xuất hiện viêm tấy đỏ và ngày càng lan rộng. Đến ngày thứ 7, trẻ có dấu hiệu hoại tử phần da vùng lưng nên được người nhà đưa đến trung tâm y tế huyện khám và tiếp tục được chuyển đến bệnh viện tỉnh để thăm khám và điều trị.
-Tại đây, trẻ được chẩn đoán nhiễm trùng huyết, hoại tử phần mềm vùng lưng. Ngày 2/4 trẻ được chuyển đến Bệnh viện Nhi Trung ương để tiếp tục theo dõi và điều trị.
-Bác sĩ CKII Lê Thị Hà - Giám đốc Trung tâm Sơ sinh, Bệnh viện Nhi Trung ương cho biết, bệnh nhi bị viêm mủ phần mềm nặng dẫn đến nhiễm khuẩn huyết do người nhà tự xử lý các tổn thương da và đưa trẻ đến bệnh viện muộn khi tổn thương da lan rộng.
-"Mụn mủ trên da thường do tụ cầu gây ra, cần được khám và dùng kháng sinh phù hợp. Việc xử lý vết thương tại nhà có thể tạo điều kiện cho vi khuẩn xâm nhập vào máu gây nhiễm trùng máu, gây nguy hiểm đến tính mạng của trẻ" - bác sĩ Hà cho hay.
-Các bác sĩ đã nỗ lực điều trị kháng sinh, rửa vết thương, chiếu plasma lạnh hàng ngày nhưng da vùng lưng của trẻ vẫn tiếp tục hoại tử lan rộng, không thể khống chế. Vì thế, ngày 13/4, các bác sĩ đã chỉ định mổ cắt lọc tổ chức hoại tử.
-Hơn một tuần sau phẫu thuật, hiện tình trạng sức khỏe của bệnh nhi đã ổn định hơn, vết thương khô, tuy nhiên vẫn cần được tiếp tục theo dõi, điều trị và chăm sóc vết thương.
-BS Hà khuyến cáo, khi phát hiện trẻ có mụn mủ hoặc bất cứ bất thường nào trên da, người nhà cần đưa trẻ đi khám để được tư vấn và xử trí kịp thời. Tuyệt đối không tự ý chích nặn mụn, nhọt hoặc dùng các loại cao dán, lá cây để đắp vì dễ gây viêm loét rộng, gây nhiễm trùng máu, đặc biệt là trẻ sơ sinh có thể nguy hiểm đến tính mạng.
-Hồng Hải
+# url = https://dantri.com.vn/suc-khoe/benh-nhan-tre-thap-tu-nhat-sinh-vi-can-benh-o-nguoi-gia-20210423184637287.htm
+# date = 20210423
+Đó là trường hợp bệnh nhân L.T.L. (45 tuổi, ngụ tại Bình Thạnh, TPHCM) chuyển đến cấp cứu tại Bệnh viện Nhân dân Gia Định lúc 18 giờ ngày 18/4. Thời điểm vào viện, bệnh nhân trong tình trạng trụytim mạch, lơ mơ, không bắt được mạch, không đo được huyết áp.
+Khai thác bệnh sử của bác sĩ từ phía gia đình ghi nhận, khoảng 17 giờ 30 cùng ngày, bệnh nhân đột ngột đau ngực, mất tri giác được người nhà đưa đi cấp cứu. Khi vào tới bệnh viện, người bệnh đã thở ngáp cá, huyết áp và mạch không đo được, không nghe được tiếng tim, tay chân lạnh, môi tím và toàn thân nhợt nhạt.
+Nữ bệnh nhân nhập viện trong tình trạng thập tử nhất sinh may mắn được bác sĩ cứu sống.
+Nhận thấy tình trạng khẩn cấp, các bác sĩ cho chụp ngay MSCT ngực thì phát hiện bệnh nhân bị phình động mạch chủ ngực kèm tràn dịch ngoài màng tim, nghi phình động mạch đã vỡ. Nữ bệnh nhân đối mặt với nguy cơ tử vong rất cao, nhưng còn nước còn tát ngay lập tức, các bác sĩ đã tiến hành hội chẩn khẩn và đưa ra chỉ định phẫu thuật.
+TS.BS Bùi Minh Thành, Trưởng khoa Phẫu thuật Tim chia sẻ, gia đình đã tính buông xuôi nhưng với bản năng của người thầy thuốc chúng tôi cố gắng thuyết phục. Ngay sau khi nhận được sự đồng thuận bệnh nhân được chuyển vào phòng mổ tim. Ê kíp phẫu thuật gồm 11 người đã khẩn trương thực hiện ca mổ.
+Trên bàn mổ tình trạng huyết động bệnh nhân rất nguy kịch, các bác sĩ nhanh chóng áp dụng phương tiện hồi sức tim, thiết lập đường truyền tim mạch trung tâm, thuốc adrenaline để duy trì huyết áp tối thiểu, huyết áp động mạch xâm lấn. Thiết lập ngay hệ thống tuần hoàn ngoài cơ thể.
+Sau khi mở ngực và màng ngoài tim, bác sĩ đã lấy ra một khối máu tụ khoảng 400gram và dịch máu đang chèn ép lên các buồng tim và động mạch chủ ngực, lúc này nhịp tim chỉ còn đập thoi thóp. Bác sĩ xác định khối phình động mạch chủ ngực từ gốc động mạch chủ ngực lên đến tận quai ngang, kích thước lớn đường kính khoảng 7-8cm, đang vỡ và chảy máu ở mặt sau.
+Cùng với việc sử dụng hệ thống tuần hoàn ngoài cơ thể các bác sĩ đã thực hiện phương pháp hạ thân nhiệt chủ động, giảm nhiệt độ cơ thể bệnh nhân xuống còn 28-30 độ C, gây liệt tim và cô lập hoàn toàn vị trí phình động mạch chủ ngực. Các bác sĩ đã cắt toàn bộ túi phình động mạch bị vỡ và thay thế bằng mạch máu nhân tạo dài khoảng 12cm.
+5 ngày sau cuộc phẫu thuật khẩn nguy, bệnh nhân đã bình phục hoàn toàn tri giác.
+Sau 5 giờ khẩn trương thực hiện các kỹ thuật chuyên môn sâu,trái tim bệnh nhân được sưởi ấm dần và tự đập lại trong niềm vui cứu sống bệnh nhân của đội ngũ y bác sỹ. Sau 30 giờ hồi sức tim, bệnh nhân tự thở được, huyết động ổn, rút được nội khí quản. Sau 72 giờ hậu phẫu bệnh nhân không có biểu hiện suy tạng và hồi phục nhận thức hoàn toàn.
+Phân tích chuyên môn của TS.BS Bùi Minh Thành chỉ ra: "Phình động mạch chủ ngực là bệnh thường gặp ở người trên 60 tuổi, xuất phát từ các nguyên nhân xơ vữa động mạch và tăng huyết áp; ở độ tuổi trẻ hơn có thể gặp do bệnh lý nhiễm trùng (giang mai, nhiễm trùng máu). Tuy nhiên, thời gian gần đây phình động mạch chủ ngực ghi nhận ngày càng nhiều ở độ tuổi từ 40 đến 50.
+Trường hợp bệnh nhân trên, nguyên nhân có thể do bệnh mô liên kết bẩm sinh. Bệnh nhân may mắn được cấp cứu, phẫu thuật kịp thời, nếu trễ hơn khoảng thời gian ngắn nữa có thể sẽ không cứu được bệnh nhân vì động mạch chủ ngực xuất phát từ tim, là động mạch lớn nhất của cơ thể, sau khi vỡ gây chèn ép tim cấp, thiếu máu tạng (não, gan, thận…) gây tử vong.
+Để tránh những trường hợp tương tự có thể xảy ra, bác sĩ khuyến cáo người trẻ tuổi, có tăng huyết áp và đau ngực nên đi khám sức khỏe định kỳ để được bác sĩ phát hiện phình động mạch chủ ngực, từ đó có phương pháp theo dõi và điều trị kịp thời.
+Vân Sơn

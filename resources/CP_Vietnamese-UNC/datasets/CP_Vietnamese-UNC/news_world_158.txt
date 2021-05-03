@@ -1,11 +1,20 @@
 # doc_id = news_world_158
-# url = https://dantri.com.vn/the-gioi/myanmar-dong-y-cham-dut-bao-luc-doi-voi-dan-thuong-20210424214027271.htm
-# date = 20210424
-Thống tướng Myanmar Min Aung Hlaing (trái) đến Indonesia dự Hội nghị cấp cao ASEAN ngày 24/4 (Ảnh: Reuters).
-Hãng tin Bernama dẫn lời Thủ tướng Malaysia Muhyiddin Yassin cho biết, tại hội nghị cấp cao ASEAN hôm nay, các nhà lãnh đạo trong khu vực đã đồng loạt kêu gọi chính quyền quân sự Myanmar chấm dứt bạo lực nhằm vào dân thường và trả tự do cho các nhà lãnh đạo dân chủ, trong đó có Cố vấn Nhà nước Aung San Suu Kyi.
-"Myanmar đã đồng ý với đề xuất chấm dứt bạo lực nhằm vào dân thường. Chúng ta đã thành công. Cuộc họp đã thành công hơn cả dự kiến", Thủ tướng Yassin nói.
-Các nhà lãnh đạo tại Hội nghị cấp cao ASEAN ở Indonesia ngày 24/4 (Ảnh: AFP).
-Hội nghị cấp cao ASEAN diễn ra hôm nay 24/4 ở thủ đô Jakarta của Indonesia. Thống tướng Myanmar Min Aung Hlaing cũng tham dự hội nghị, đánh dấu chuyến công du nước ngoài đầu tiên của ông kể từ khi quân đội lật đổ chính quyền dân sự hôm 1/2.
-Theo truyền thông địa phương, Thủ tướng Singapore Lý Hiển Long cho biết: "Ông ấy nói ông ấy đã lắng nghe chúng tôi và sẽ chấp nhận những luận điểm có ích, không phản đối phái đoàn của ASEAN đóng vai trò mang tính xây dựng hay cử phái đoàn hoặc hỗ trợ nhân đạo ở Myanmar".
-Hội nghị cấp cao ASEAN diễn ra trong bối cảnh Myanmar tiếp tục chìm trong cuộc khủng hoảng kể từ khi quân đội lật đổ chính quyền dân sự hồi đầu tháng 2. Đến nay, hơn 700 người đã thiệt mạng trong các cuộc đụng độ giữa lực lượng an ninh và người biểu tình ở Myanmar. Cộng đồng quốc tế đã kêu gọi quân đội Myanmar chấm dứt bạo lực nhằm vào dân thường và trả tự do cho các nhà dân chủ.
-Minh PhươngTheo Reuters
+# url = https://dantri.com.vn/the-gioi/myanmar-khong-kich-du-doi-phien-quan-dan-thuong-thao-chay-sang-thai-lan-20210429070136794.htm
+# date = 20210429
+Một công trình nằm trong tiền đồn của quân đội Myanmar gần biên giới Thái Lan bị nhóm vũ trang dân tộc thiểu số phóng hỏa (Ảnh: Reuters).
+AFP dẫn thông báo ngày 28/4 của một quan chức Thái Lan đưa tin, quân đội Myanmar đã ngày thứ 2 liên tiếp thực hiện các cuộc không kích nhằm vào khu vực mà một nhóm phiến quân đang kiểm soát nằm gần biên giới Thái Lan.
+Myanmar đã rơi vào tình trạng hỗn loạn sau vụ quân đội lật đổ chính quyền dân cử hôm 1/2 để giành quyền điều hành đất nước. Hàng trăm nghìn người đã xuống đường biểu tình, đình công phản đối quân đội khiến nền kinh tế Myanmar tê liệt, đồng thời nhiều người đã thiệt mạng khi quân đội thực hiện các biện pháp giải tán đám đông.
+Phong trào phản đối quân đội đã nhận được một số sự ủng hộ từ một số nhóm vũ trang dân tộc thiểu số, các nhóm kiểm soát phần lãnh thổ dọc theo khu vực biên giới Myanmar với các nước láng giềng. Động thái này từng làm dấy lên lo ngại về viễn cảnh một cuộc nội chiến sẽ bùng phát tại Myanmar.
+Một trong những nhóm tích cực nhất là Liên minh quốc gia Karen (KNU). Nhóm này đã lên tiếng chỉ trích chính quyền quân sự vì có các động thái mạnh tay chống lại những người biểu tình phản đối cuộc đảo chính. Khoảng 750 người đã thiệt mạng trong phong trào biểu tình, theo AFP.
+Giao tranh giữa quân đội và lực lượng tại khu vực do KNU kiểm soát ở biên giới phía đông đã gia tăng từ ngày 1/2. Tháng trước, quân đội Myanmar đã thực hiện các vụ không kích nhằm tấn công nhóm phiến quân. Đây được xem là vụ tấn công từ trên không đầu tiên mà quân đội nước này thực hiện ở bang Karen trong hơn 20 năm qua.
+KNU ngày 27/4 đã tấn công một căn cứ lục quân ở bờ sông Salween và quân đội Myanmar đã không kích trả đũa.
+Ngày 28/4, tiếng súng và bom nổ tiếp tục xuất hiện vào 9h sáng ở gần căn cứ Dar Gwin của Myanmar.
+"Đó có thể là quân đội Myanmar nổ súng để bảo vệ căn cứ của họ", ông Sithichai Jindaluang - Thống đốc tỉnh Mae Hong Son, Thái Lan, cho biết. Tỉnh Mae Hong Son giáp với bang Karen của Myanmar.
+Ông Sithichai cho biết, các máy bay quân sự của Myanmar sau đó đã không kích và nổ súng từ trên không, rồi phóng rocket từ trực thăng.
+Trong buổi sáng 28/4, ông Sithichai nói rằng, 68 người dân Myanmar đã tháo chạy sang biên giới Thái Lan để xin tị nạn. Trước đó, dân thường Myanmar cũng đã chạy qua Thái Lan để được trợ giúp y tế.
+Quan chức phụ trách đối ngoại của KNU Padoh Saw Taw Nee xác nhận vụ không kích từ phía quân đội Myanmar, nhưng khẳng định KNU "không tấn công bất cứ mục tiêu nào hôm nay".
+Ông Padoh đồng thời chỉ trích quân đội Myanmar vì đã thực hiện vụ không kích nhằm vào khu vực có dân thường đang sinh sống.
+Ngoài ra, cũng có những vụ không kích khác ở khu vực phía bắc bang Kachin, phát ngôn viên của nhóm vũ trang "Quân đội Kachin độc lập" (KIA) nói với AFP.
+Khoảng 24.000 người đã rời bỏ nhà cửa kể từ khi quân đội Myanmar không kích vào khu vực này từ tháng trước.
+Đức Hoàng
+Theo AFP

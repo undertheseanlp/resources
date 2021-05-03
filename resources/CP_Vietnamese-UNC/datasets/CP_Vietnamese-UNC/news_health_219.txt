@@ -1,16 +1,11 @@
 # doc_id = news_health_219
-# url = https://dantri.com.vn/suc-khoe/tay-da-tam-trang-lam-tang-nguy-co-ung-thu-20210420074752357.htm
-# date = 20210420
-Ngay cả với viên uống trắng da, bản chất cũng là hạn chế sự phát triển của các sắc tố trên da phát triển. Trong khi đó đây là lớp giúp chống đỡ lại tia nắng mặt trời, tia UV để bảo vệ da.
-Không khuyến khích tắm trắng
-Chuyên gia da liễu chia sẻ, ông không khuyến khích chị em tắm trắng, dùng các loại tẩy làm trắng da, nhất là tắm trắng với tần suất liên tục.
-"Một chu kỳ phát triển của tế bào khoảng 30 ngày, phải đợi lớp da ngoài sừng hóa dần, chết đi, lớp trong dần phát triển. Nếu thực hiện việc tắm trắng liên tục sẽ càng nguy cơ", BS Minh nói.
-Trong khi đó, các sản phẩm quảng cáo trắng da trên thị trường chủ yếu đều mang tính chất lột, tẩy đi lớp tế bào biểu bì (tế bào sừng trên cùng) bị già hóa, đen do bị tác động của môi trường, tia tử ngoại. Đáng nói là để da thực sự sáng, nhiều người dùng các sản phẩm mang tính lột, tẩy da này một cách liên tục.
-"Đây là cách làm trắng phản khoa học bởi khoảng 4 tuần lớp da ngoài mới già hóa. Vì dù muốn làm sáng màu da hơn, cũng phải dựa vào nguyên tắc tự nhiên. Nếu lột, tẩy liên tục sẽ khiến da sẽ trở nên rát, đỏ ứng, dễ bị kích ứng", chuyên gia này cho biết.
-BS Minh cũng khuyến cáo, màu sắc của làn da do cấu trúc tự nhiên của gen nên dùng thuốc không thể thay đổi được màu sắc của da. Việc tác động từ bên ngoài chỉ có tác dụng rất hạn chế. Tắm trắng thực chất là sử dụng mỹ phẩm để lột bỏ lớp da chết bên ngoài trong thời gian nhất định chứ không thể làm thay đổi số lượng sắc tố trong da.
-Lớp da non bị tẩy, lột liên tục càng trở nên yếu ớt, nhạy cảm với bức xạ tử ngoại vì nó chưa kịp sinh ra tế bào sắc tố nên nhanh chóng bị đen sạm. Nếu vẫn tiếp tục lột những lớp da non bị lão hóa nhanh chóng này, da sẽ mỏng, dễ kích ứng, khi đó da bị xỉn màu và nổi mụn nhiều… là điều tất yếu.
-Vì thế, để làm da sáng hơn, tốt nhất sử dụng phương pháp tắm dưỡng da đúng hơn là tắm trắng. Qua một quá trình, da được nuôi dưỡng tốt hơn, khỏe mạnh hơn sẽ có tác dụng chống lại tác nhân môi trường, sẽ đỡ đen hơn. Tuy nhiên, để có được kết quả, cần phải có một quá trình. Bên cạnh đó cần uống đủ nước, ăn nhiều trái cây, rau xanh sẽ giúp dabóng khỏe.
-Để ngăn ngừa nguy cơ tác động xấu tới làn da, nguy cơ ung thư da, vào mùa hè nóng gắt, cần phải bảo vệ da bằng cách bôikem chống nắng, dùng mũ rộng vành, quần áo che chắn...
-Việc tẩy tế bào chết cũng chỉ nên sử dụng sản phẩm có tính chất lột nhẹ để loại bỏ lớp tế bào sừng ở vùng mặt, thân nhưng phải rõ nguồn gốc, axit có nguồn gốc từ hoa quả thì sẽ có độ an toàn cao hơn. Chỉ thực hiện 1 lần/tuầnđể không gây lột tẩy hết lớp tế bào sừng, lộ vùng da non rất dễ bị bắt nắng, xấu da và gây hại cho da.
-Ngoài ra, ung thư da sẽ có nguy cơ cao hơn ở những người tiếp xúc nhiều với ánh nắng, tích lũy theo tháng năm, càng tiếp xúc nhiều với tia cực tím càng có nguy cơ gây hại cho da.
-Hồng Hải
+# url = https://dantri.com.vn/suc-khoe/thanh-hoa-co-11-f-1-lien-quan-den-ca-benh-covid-19-ha-nam-20210430095234926.htm
+# date = 20210430
+Sáng 30/4, thông tin từ Trung tâm Kiểm soát bệnh tật tỉnh Thanh Hóa (CDC Thanh Hóa) cho biết, ngay sau khi có thông tin về bệnh nhân 2899 ở Hà Nam, đơn vị này cùng với Ban Chỉ đạo phòng, chống dịch Covid-19 phối hợp với các địa phương khẩn trương triển khai rà soát, truy vết.
+Kết quả đã truy vết và phát hiện có tổng cộng 11 người địa phương là F1 liên quan đến bệnh nhân 2899 ở Hà Nam. Trong đó, có 8 người ở cùng khu cách ly với bệnh nhân 2899 (ở cùng khu cách ly tại Đà Nẵng), 3 người đi cùng chuyến xe (Đà Nẵng - Hà Nội), trên chuyến xe này có bệnh nhân 2899.
+Trong số 8 người là F1 ở cùng khu cách ly với bệnh nhân 2899 sau khi về Thanh Hóa, có 3 người đã quay trở lại thành phố Đà Nẵng, còn 5 người đã được đưa đi cách ly tập trung.
+Ngoài ra, còn 3 người khác là F1 đi cùng chuyến xe khách tuyến Đà Nẵng - Hà Nội với bệnh nhân 2899 cũng đã được cách ly.
+Cơ quan chức năng đã tiến hành lấy mẫu xét nghiệm 8 trường hợp F1 đang có mặt ở Thanh Hóa, kết quả 7 người âm tính lần 1 với SARS-CoV-2, còn 1 trường hợp đang chờ kết quả.
+Các trường hợp F1 là người Thanh Hóa được phát hiện có địa chỉ tại các huyện như: Thành phố Thanh Hóa, Thọ Xuân, Như Xuân, Quảng Xương, Hoằng Hóa, thị xã Nghi Sơn.
+Hiện CDC Thanh Hóa đang tiếp tục rà soát các trường hợp F2, yêu cầu cách ly tại nhà và lấy mẫu xét nghiệm.
+Trần Lê

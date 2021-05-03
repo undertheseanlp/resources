@@ -1,12 +1,14 @@
 # doc_id = news_sport_134
-# url = https://dantri.com.vn/the-thao/hlv-petrovic-cau-thu-ha-gia-lai-nham-mat-cung-choi-duoc-voi-nhau-20210428201306965.htm
-# date = 20210428
-"HA Gia Lai là đội chơi hay hơn, họ có 4-5 cầu thủ hay nhất Việt Nam hiện tại. Họ chơi với nhau từ nhỏ, nhắm mắt cũng có thể đá cùng nhau được", HLV Petrovic nói sau trận thua HA Gia Lai ở vòng 11 LS V-League 2021.
-"HA Gia Lai chơi tốt nhưng chúng tôi cũng tốt. Chúng tôi thi đấu đoàn kết và gây ra nhiều khó khăn cho đối thủ, dù vậy Thanh Hóa đã không may mắn", HLV Petrovic chia sẻ tiếp.
-HLV Petrovic đánh giá cao sức mạnh của HA Gia Lai (Ảnh: Đỗ Linh).
-"Khi HA Gia Lai ghi bàn, Thanh Hóa cũng có cơ hội gỡ hòa nhưng Xuân Tuân dứt điểm chạm xà ngang. Hy vọng trận tới sẽ may mắn hơn", nhà cầm quân từng giành cúp C1 châu Âu nói.
-"Thanh Hóa đầu tư bao nhiêu tiền để đạt được đội hình mạnh như HA Gia Lai bây giờ?", một phóng viên đặt câu hỏi. Đáp lại, HLV Petrovic cho biết: "Chúng tôi có tiền cũng không thể mua cầu thủ như HA Gia Lai.
-Họ chơi với nhau từ nhỏ rồi, không thể có cơ hội làm như vậy. Họ là một đội bóng mạnh, trẻ trung, tuyến trẻ U17 vô địch, U19 cũng rất hay, có những cầu thủ được lên tuyển. Hy vọng lứa này tốt, thì tương lai bóng đá Việt Nam sẽ có một thế hệ tốt".
-"Thời gian quá ngắn, 3 tháng không thể cải thiện ngay khi dẫn dắt Thanh Hóa. Khi muốn thi đấu ngang ngửa với HA Gia Lai, không thể xây dựng trong thời gian ngắn, mà cần nhiều thời gian", HLV Petrovic nói.
-Cuối cùng, thuyền trưởng CLB Thanh Hóa từ chối đánh giá về cơ hội vô địch của HA Gia Lai dưới thời Kiatisuk.
-Hoàng Quốc
+# url = https://dantri.com.vn/the-thao/hlv-solskjaer-khiem-ton-la-thuong-sau-chien-thang-dam-truoc-as-roma-20210430073347154.htm
+# date = 20210430
+Thực tế Man Utd đã có khởi đầu trong hiệp một không tốt khi họ để cho đội khách Roma dẫn trước với tỷ số 2-1. Tuy nhiên, thầy trò HLV Solskjaer đã hoàn toàn "lột xác" trong hiệp hai khi thi đấu bùng nổ và thắng ngược với tỷ số đậm 6-2.
+Man Utd trải qua hiệp một không tốt khi để đối thủ dẫn trước 2-1
+Bruno Fernandes và Cavani cùng lập cú đúp, còn Paul Pogba và Mason Greenwood góp công trong 2 bàn còn lại để giúp Man Utd đặt một chân vào chơi ở trận chung kết.
+Hiệp hai là màn trình diễn xuất sắc của các cầu thủ Man Utd khi "Quỷ đỏ" lội ngược dòng đánh bại Roma với tỷ số 6-2
+Phát biểu sau trận đấu, HLV Ole Gunnar Solskjaer đã ca ngợi tinh thần thi đấu của các học trò:"Chúng tôi đã chơi không quá tốt trong hiệp 1, nhưng 45 phút tiếp theo Man Utd đã chơi thực sự xuất sắc. Chúng tôi sắc bén hơn, chạy nhiều hơn, chuyền bóng nhiều hơn và cũng tận dụng cơ hội tốt hơn. Tôi rất hài lòng với những gì các học trò thể hiện, chúng tôi xứng đáng giành chiến thắng".
+Mặc dù vậy, chiến lược gia người Na Uy khẳng định sẽ không hề chủ quan trong trận lượt về vào tuần tới: "Giành chiến thắng 6-2 ở lượt đi, tất nhiên chúng tôi đang chiếm lợi thế trước trận lượt về trên sân của Roma. Tuy nhiên, Man Utd vẫn chưa vào chung kết. Chúng tôi cần đến Italia với quyết tâm và sự tập trung cao độ. Các cầu thủ không được phép chủ quan".
+Man Utd tái lập thành tích của Real Madrid sau 60 năm khi đánh bại đối thủ với tỷ số kỷ lục 6-2 trong một trận bán kết Europa League
+Tiền vệ Paul Pogba cũng đồng quan điểm với HLV Solskjaer khi nói:"Kết quả khả quan, nhưng mọi chuyện vẫn chưa kết thúc. Chúng tôi phải chơi trận lượt về với sự thận trọng y hệt lượt đi.
+Man Utd tái lập thành tích của Real Madrid sau gần 60 năm
+TheoOpta, chỉ có 2 CLB ghi được 6 bàn ở một trận bán kết cúp châu Âu, đó là Man Utd (2020/21) và Real Madrid ở European Cup (tiền thân Champions League) mùa 1964. Lần đầu tiên từ năm 2007, Man Utd mới lại ghi từ 6 bàn trở lên ở một trận đấu tại cúp châu Âu. Ở tứ kết Champions League cách đây 14 năm, C.Ronaldo cùng đồng đội cũng vùi dập chính Roma với tỷ số 7-1.
+Sông Lam

@@ -1,13 +1,17 @@
 # doc_id = news_health_251
-# url = https://dantri.com.vn/suc-khoe/tphcm-giam-sat-nguoi-den-tu-vung-co-ca-covid-19-ngoai-cong-dong-20210430152026140.htm
-# date = 20210430
-Cụ thể là những người từ thôn Quang Nhân, xã Đạo Lý, huyện Lý Nhân, tỉnh Hà Nam; thôn Hoàng Xá, xã Tiền Tiến, huyện Phù Cừ, tỉnh Hưng Yên; thôn Khu Trung, xã Việt Hùng, huyện Đông Anh; Hà Nội. Đây là 3 địa phương đang có ca bệnh Covid-19.
-Những người này khi đến TPHCM sẽ được giám sát trong vòng 14 ngày từ ngày rời khỏi địa phương, cách ly tại nhà, xét nghiệm theo quy định.
-&nbspTrước đó, vào chiều ngày 29/4, TPHCM phát hiện ca bệnh Covid-19 mới là BN2910. Bệnh nhân nam, 28 tuổi, quốc tịch Việt Nam và có tiếp xúc gần với BN2899 tại Hà Nam.
-Trong cuộc họp khẩn của Ban chỉ đạo phòng chống dịch Covid-19 TPHCM vào sáng 30/4, Chủ tịch UBND TP Nguyễn Thành Phong chỉ đạo các Sở, ban, ngành cần thực hiện nghiêm túc các giải pháp phòng chống dịch.
-Cụ thể, phải đảm bảo không để xảy ra tình trạng lây nhiễm trong khu cách ly, những đợt cách ly có ca dương tính phải điều tra nghiêm túc tình trạng tiếp xúc và phải đảm bảo cách ly đủ thời gian quy định đối với người tiếp xúc gần tính từ ngày tiếp xúc cuối cùng với ca dương tính; không cho kết thúc cách ly khi chưa đủ thời gian theo quy định.
-Đồng thời, nghiêm túc thực hiện giám sát người sau cách ly tập trung về địa phương, nhắc nhở tuân thủ các quy định như hạn chế tiếp xúc người khác trong 14 ngày sau cách ly.
-Ngành y tế phối hợp với các địa phương, đơn vị tiếp tục giám sát chặt chẽ các địa bàn, lĩnh vực có nguy cơ cao lây nhiễm Covid-19, phát hiện sớm bệnh xâm nhập, khoanh vùng xử lý kịp thời, không để dịch lây lan trong cộng đồng.
-Ngoài ra, Chủ tịch UBND TP chỉ đạo Công an TP và Bộ tư lệnh TP tiếp tục kiểm soát chặt chẽ việc nhập cảnh trái phép; phát huy vai trò của Tổ dân phố và các gia đình có người thân ở nước ngoài, để chủ động đưa người thân ra trình diện chính quyền địa phương nếu nhập cảnh trái phép.
-Chiều 30/4, UBND TPHCM có văn bản truyền đạt chỉ đạo của Chủ tịch UBND TPHCM Nguyễn Thành Phong. Theo đó, trước tình hình dịch bệnh Covid-19 đang diễn biến phức tạp, tại TP đã ghi nhận 1 ca dương tính trong cộng đồng, UBND TPHCM chỉ đạo tạm dừng hoạt động các cơ sở kinh doanh dịch vụ karaoke, vũ trường và quán bar từ 18h ngày 30/4.
-Tùng Nguyên
+# url = https://dantri.com.vn/suc-khoe/trieu-chung-nuot-nghen-canh-bao-ung-thu-thuc-quan-20210421062720555.htm
+# date = 20210421
+"Cơ thể tôi hoàn toàn bình thường, chỉ xuất hiện triệu chứng nuốt nghẹn nhẹ khi ăn", anh M. cho biết.
+Lúc đầu anh chỉ nghĩ do mình ăn đồ ăn khô nên chủ quan không đi khám. Nhưng đến khi tình trạng nuốt nghẹn càng tăng, sụt cân, anh mới đến viện khám, bàng hoàng khi bác sĩ thông báo anh bị ung thư thực quản.
+Hình ảnh ung thư thực quản di căn.
+Tại Bệnh viện Ung Bướu Hà Nội, các kết quả cận lâm sàng cho thấy, dày thành thực quản 1/3 dưới tạo khối kích thước 5x2.5cm, thâm nhiễm mỡ xung quanh, có nhiều hạch quanh tổn thương, kích thước hạch lớn nhất 2 cm. Đáng nói, ung thư đã di căn gan với ổ lớn nhất đường kính 3 cm. Tại giai đoạn này, các biện pháp điều trị tại chỗ, tại vùng không còn chỉ định điều trị. Bệnh nhân được chỉ định điều trị hóa chất toàn thân.
+Các chuyên gia cho biết, có nhiều dấu hiệu cảnh báo ung thư thực quản, trong đó nuốt nghẹn là triệu chứng dễ cảm nhận và gặp ở đa số bệnh nhân ung thư thực quản. Lúc đầu, bệnh nhân thường có biểu hiện khó nuốt nhưng không cảm thấy đau. Khi bệnh nặng hơn, khó nuốt sẽ kèm thêm đau. Lúc đầu, bệnh nhân chỉ khó nuốt với thức ăn rắn, về sau khó nuốt với cả thức ăn lỏng, thậm chí nuốt nước bọt cũng thấy đau và khó thực hiện.
+Ngoài ra, bệnh nhân cũng thường xuyên có hiện tượng chảy nước bọt kèm theo hơi thở mùi hôi khó chịu, ợ hơi, sặc khi ăn uống.
+Người bệnh ung thư thực quản cũng sụt giảm cân rõ rệt, xảy ra tình trạng mất nước và dần dần là suy kiệt do không ăn và nuốt được.
+Thường xuyên bị đau lưng, phía sau xương ức hoặc hai xương bả vai.
+Có thể cảm thấy rát họng, ho kéo dài, thậm chí ho ra máu.
+Thường xuyên cảm thấy nôn, buồn nôn.
+Các biểu hiện khác có thể bắt gặp khi khối u phát triển như tức nặng, cảm giác vướng vùng họng, khó thở, khạc đờm, khàn giọng,...
+Tuy nhiên, chỉ dựa vào các triệu chứng bệnh (tiêu biểu là nuốt nghẹn, khó nuốt) là chưa đủ để kết luận mắc căn bệnh này. Việc chẩn đoán ung thư thực quản còn dựa vào các chẩn đoán hình ảnh và xét nghiệm cận lâm sàng khác. Để chẩn đoán chính xác ung thư thực quản, bệnh nhân cần được nội soi kết hợp với siêu âm và sinh thiết để có thể nhìn thấy hình ảnh bất thường về hình dạng của thực quản cũng như các tổ chức ung thư hoặc các bất thường của tổ chức dẫn đến ung thư hoặc các tổn thương khác.
+Vì thế, khi nhận thấy bất cứ dấu hiệu bất thường nào của cơ thể, đặc biệt là các dấu hiệu kể trên, người bệnh cần đến cơ sở y tế chuyên khoa sớm nhất để được chẩn đoán và điều trị kịp thời.
+Hải Minh

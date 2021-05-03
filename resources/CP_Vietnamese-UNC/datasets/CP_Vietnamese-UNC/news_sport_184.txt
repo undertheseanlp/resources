@@ -1,12 +1,16 @@
 # doc_id = news_sport_184
-# url = https://dantri.com.vn/the-thao/muon-loi-hlv-polking-bao-thai-lan-che-bong-da-viet-nam-xuong-cap-20210419175514822.htm
-# date = 20210419
-Tờ Siam Sport của Thái Lan viết: "HLV Mano Polking nóng mặt sau khi bị đánh bại 3-2 bởi đội Nam Định".
-"Sự không hài lòng này của HLV Mano Polking đến từ khoảng thời gian 12 phút cuối trận, khiến ông Polking nổi nóng" - tờ nhật báo thể thao hàng đầu Thái Lan nói thêm.
-Khoảng thời gian 12 phút vừa nêu chính là khoảng thời gian… bù giờ của hiệp 2. Ban đầu trọng tài Ngô Duy Lân chỉ thông báo bù giờ 5 phút, nhưng do các cầu thủ Nam Định câu giờ quá nhiều, mà thời gian đá bù được nâng lên đến 12 phút.
-Cũng tờ Siam Sport dẫn lời vị HLV trưởng của CLB TPHCM: "Tôi không có ý coi thường đội Nam Định, kể cả với các cầu thủ của họ. Họ là đội chiến thắng. Nhưng nhìn cách mà họ bảo vệ tỷ số, tôi cảm thấy xấu hổ'.
-"Mọi đội bóng đều muốn làm bất cứ điều gì cần thiết để bảo toàn chiến thắng, nhưng cách của đội Nam Định khiến tôi không thể hài lòng" - HLV Mano Polking phát biểu thêm - "Tất cả các thành viên của họ đều cố gắng câu giờ, người ở bên trong thì nằm sân, còn người ở bên ngoài thì đá thêm bóng vào trong".
-Rồi cũng tờ nhật báo thể thao hàng đầu Thái Lan mượn lời vị HLV mang 2 quốc tịch Đức và Brazil cám cảnh cho những gì mà giới bóng đá và người hâm mộ vừa chứng kiến: "Bóng đá ngày nay không giống như 20 năm trước, khi có ai đó hỏi tôi về V-League, tôi buộc phải nói rằng tôi xấu hổ với những hình ảnh mà tôi vừa thấy".
-Điều đáng nói ở chỗ thời gian gần đây báo chí Thái Lan không còn thường xuyên đưa tin về HLV Alexandre Mano Polking, người từng có thời gian dài làm việc tại giải Thai-League. Tuy nhiên, ngay sau khi ông Polking nói về mặt lạc hậu của một đội bóng tại V-League mà ông vừa được chứng kiến, truyền thông Thái Lan lập tức khai thác đề tài này, và cho rằng đây là đề tài nóng.
-Trong khi đó, đáp lời HLV Mano Polking của CLB TPHCM, HLV Nguyễn Văn Sỹ bên phía đội Nam Định cho biết: "Những gì đội Nam Định đã làm để bảo toàn tỷ số hoàn toàn nằm trong giới hạn cho phép của bóng đá. Đối phương mà thắng thì có lẽ họ cũng làm như vậy!".
-Thiện Nhân
+# url = https://dantri.com.vn/the-thao/ngoi-sao-man-city-lon-tieng-chi-trich-uefa-tan-bao-20210423125100945.htm
+# date = 20210423
+Man City là CLB đầu tiên "quay đầu" xin rút lui khỏi European Super League. Điều đó dẫn tới hiệu ứng domino khi 8 CLB tiếp theo là Man Utd, Chelsea, Tottenham, Arsenal, Liverpool, Inter, AC Milan, Atletico Madrid đều lần lượt tháo chạy.
+Gundogan cho rằng thể thức thi đấu mới ở Champions League cũng tệ không kém European Super League.
+Điều đó khiến cho dự án tổ chức siêu giải đấu có nguy cơ sụp đổ bởi chỉ còn 3 CLB góp mặt là Juventus, Real Madrid và Barcelona. Trước tình hình đó, những người đứng đầu European Super League đã thông báo rằng giải đấu tạm ngừng.
+Để đáp lại European Super League, UEFA cũng công bố thể thức thi đấu mới của Champions League, bắt đầu vào năm 2024. Theo đó, số đội tham dự giải đấu sẽ được tăng từ 32 lên 36 đội.
+Theo đó, mỗi bảng đấu sẽ có 6 đội, chia đều 6 bảng. Các CLB phải thi đấu 10 trận vòng bảng thay vì 6 trận đấu như cũ. 36 đội bóng sẽ thi đấu sẽ theo thể thức như giải vô địch quốc gia, 8 đội đứng đầu sẽ giành quyền đi tiếp.
+16 đội đứng ở vị trí tiếp theo sẽ chia cặp đá play-off để chọn ra 8 đội cuối cùng giành vé dự vòng knock-out. UEFA cũng cân nhắc sẽ đưa ra thêm thay đổi ở Europa League tùy theo tình hình.
+Theo tính toán, với thể thức mới này, Champions League sẽ có thêm khoảng 100 trận đấu nữa. Đó là con số không nhỏ trong bối cảnh các cầu thủ đã phải cày ải với mật độ dày đặc trong suốt mùa giải.
+Thể thức thi đấu mới khiến Champions League sẽ tăng khoảng 100 trận so với trước.
+Trước tình hình đó, ngôi sao Ilkay Gundogan của Man City đã lớn tiếng chỉ trích UEFA. Trên trang Twitter cá nhân, cầu thủ người Đức cho biết: "Với những diễn biến hiện tại của European Super League, chúng ta có nên bàn bạc về thể thức thi đấu mới ở Champions League hay không?
+Càng ngày, chúng tôi càng phải thi đấu thêm nhiều trận. Liệu những bên đấu đá nhau có nghĩ cho lợi ích của các cầu thủ? Thể thức thi đấu mới của Champions League chỉ là thứ ít tồi tệ hơn European Super League. Cả hai đều là những thứ ma quỷ.
+Theo tôi thì thể thức thi đấu hiện tại của Champions League đang hoạt động hiệu quả. Đó là lý do vì sao đây là giải đấu số 1 thế giới, với cả các cầu thủ và người hâm mộ nữa".
+Trước đó, Chủ tịch Florentino Perez của Real Madrid cho rằng thể thức mới của Champions League chỉ càng tạo thêm những trận đấu vô bổ, mà khán giả không cần quan tâm.
+H.Long

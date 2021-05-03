@@ -1,17 +1,13 @@
 # doc_id = news_sport_173
-# url = https://dantri.com.vn/the-thao/mang-xa-hoi-tran-ngap-anh-che-su-sup-do-cua-european-super-league-20210421234016907.htm
-# date = 20210421
-Sự xuất hiện một cách đầy bất ngờ của siêu giải đấu European Super League trở thành đề tài bàn tán sôi nổi và hấp dẫn nhất của truyền thông và mạng xã hội trong suốt 3 ngày qua, để rồi kết cục dẫn đến là sự sụp đổ nhanh chóng "ngay từ trong trứng nước" của một giải đấu không được ủng hộ của người hâm mộ bóng đá cả thế giới như vừa qua.
-Người hâm mộ xuống đường phản đối các CLB tham dự European Super League
-Sự phản đối mạnh mẽ của người hâm mộ đối với một siêu giải đấu không đứng về lợi ích của họ chính là nguyên nhân lớn nhất dẫn đến sự sụp đổ nhanh chóng này. Chiến thắng đã khiến người hâm mộ bóng đá cả thế giới thấy phấn khích, đặc biệt hàng loạt những hình ảnh chế giễu về siêu giải đấu "chết yểu" đã xuất hiện tràn ngập trên mạng xã hội trong ngày hôm nay.
-Jamie Carragher, bình luận viên của kênh Sky Sport, người đã ngay từ đầu phản đối mạnh mẽ việc thành lập European Super League, đã thể hiện sự phấn khích trước sự sụp đổ của siêu giải đấu bằng cách đăng trên twitter cá nhân hình ảnh một tấm bia mộ chế giễu việc European Super League chỉ tồn tại không quá hai ngày.
-Jamie Carragher khắc bia mộ cho giải đấu chết yểu European Super League
-Cựu cầu thủ của Man Utd, Rio Ferdinand cũng bày tỏ sự vui mừng khi chia sẻ một đoạn clip ghi lại cảnh anh vừa cười vừa xoa tay vào nhau trong phòng thu đồng thời hét vang "Hãy vui lên nào".
-Rio Ferdinand bảy tỏ niềm vui khi nghe tin giải đấu European Super League chết yểu
-Rất nhiều lời khen ngợi đã được đưa ra khi sớm ngăn chặn một ý tưởng gây náo loạn thế giới như European Super League trong mấy ngày qua. Trung tâm của sự tức giận của hầu hết mọi người là Florentino Perez, chủ tịch CLB Real Madrid, người sẽ giữ vai trò chủ tịch của European Super League. 
-Vào tối 19/4i, Perez đã có một cuộc phỏng vấn gây kinh ngạc trên truyền hình Tây Ban Nha, khi ông tuyên bố European Super League sẽ 'cứu bóng đá' trước khi khẳng định một số CLB lớn nhất thế giới - bao gồm cả Real Madrid - đã mất rất nhiều tiền trong đại dịch Covid-119.
-Siêu dự án của Perez đổ bể chỉ sau 3 ngày trước sự phản ứng mạnh mẽ của người hâm mộ bóng đá thế giới
-Người hâm mộ đã nhanh chóng chế nhạo Perez, khi lồng vào bức ảnh ngôi sao PSG, Kylian Mbappe, vượt qua sự truy cản của Gerard Pique bằng cách chèn tên Perez đang cố gắng níu giữ sự sụp đổ nhanh chóng của European Super League.
-Ảnh chế theo trend "Hãy bắt tôi nếu có thể" để chế giễu chủ tịch Perez cố gắng ngăn cản các CLB tháo chạy khỏi European Super League
-Cuối cùng, như HLV Pep Guardiola chia sẻ, việc European Super League chết yểu là điều tất nhiên, khi "Đó là giải đấu mà thành công không cần đến nỗ lực, phần thưởng không cần sự cố gắng. Đó là giải đấu mà thành công đã được đảm bảo sẵn, còn thất bại thì không hề quan trọng".
+# url = https://dantri.com.vn/the-thao/mbappe-chan-thuong-psg-lo-lang-tot-do-truoc-dai-chien-voi-man-city-20210425105700197.htm
+# date = 20210425
+Làm khách trên sân của Metz, dù gặp đôi chút khó khăn nhưng PSG vẫn ra về với chiến thắng 3-1 tại Ligue 1. Với 3 điểm trọn vẹn giúp nhà đương kim vô địch Ligue 1 tạm chiếm ngôi đầu từ tay Lille (hơn Lille 2 điểm nhưng thi đấu nhiều hơn một trận).
+Dù vậy, niềm vui của đội chủ sân Công viên các hoàng tử lại không được trọn vẹn khi tiền đạo ngôi sao Kylian Mbappe dường như đã gặp chấn thương.
+Mbappe lập cú đúp vào lưới Metz
+Chân sút người Pháp giúp PSG tạm thời giành ngôi đầu Ligue 1 sau 34 vòng đấu
+Mbappe tiếp tục thể hiện phong độ không thể ngăn cản khi đóng góp cú đúp bàn thắng. Tuy nhiên, chân sút người Pháp lại bị đau sau một pha bóng ở cuối trận và buộc phải rời sân nhường chỗ cho Julian Draxler.
+Theo báo giới Pháp, có vẻ như Mbappe đã dính chấn thương đùi và điều này sẽ khiến PSG lo lắng tột độ khi giữa tuần tới họ sẽ có trận đại chiến bán kết lượt đi Champions League với Man City.
+Mbappe bị đau và phải rời sân ở phút 87
+Dù vậy HLV Mauricio Pochettino lên tiếng trấn an người hâm mộ sau trận đấu: "Chúng tôi hy vọng chấn thương của Mbappe không quá nghiêm trọng. Kylian rất ổn khi bị thay ra, nhưng ngay cả một cú húc đơn giản cũng luôn gây đau đớn".
+Ở mùa giải năm nay, Mbappe là cây săn bàn tốt nhất của PSG với 37 bàn sau 42 trận trên mọi đấu trường. Quan trọng hơn cả là việc anh liên tục tỏa sáng tại Champions League, thể hiện qua cú hat-trick trước Barcelona ngay tại Camp Nou cùng cú đúp vào lưới cựu vương Bayern Munich trên sân Allianz Arena.
 Sông Lam

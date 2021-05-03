@@ -1,6 +1,0 @@
-# doc_id = news_sport_270
-# url = https://dantri.com.vn/the-thao/xuan-truong-va-cau-thu-ha-gia-lai-mung-sinh-nhat-cuc-lay-loi-20210428213929130.htm
-# date = 20210428
-HLV Kiatisuk và Petrovic bắt tay trước trận đấu ở vòng 11 LS V-League 2021. Đây là màn đấu trí, đấu sức rất thú vị của hai HLV tài ba.
-Do BTC không mở cửa cho khán giả để phòng chống dịch Covid-19 nên các CĐV HAGL cổ vũ từ bên ngoài sân.
-Hoàng Quốc

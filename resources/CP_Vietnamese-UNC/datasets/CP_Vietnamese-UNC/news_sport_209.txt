@@ -1,14 +1,29 @@
 # doc_id = news_sport_209
-# url = https://dantri.com.vn/the-thao/quyet-dau-doi-tuyen-viet-nam-indonesia-trieu-tap-cau-thu-goc-ha-lan-20210427080815362.htm
-# date = 20210427
-Liên đoàn Bóng đá Indonesia (PSSI) đã công bố danh sách sơ bộ 34 cầu thủ được triệu tập chuẩn bị cho vòng loại World Cup 2022 khu vực châu Á diễn ra tại UAE vào tháng 6 tới.
-Trung vệ Otavio Dutra, người từng góp mặt trong trận gặp tuyển Việt Nam cuối năm 2019 đã không được triệu tập và tiền vệ Marc Klok là cầu thủ nhập tịch duy nhất được gọi lên tuyển trong đợt tập trung lần này.
-HLV Shin Tae Yong gọi duy nhất cầu thủ nhập tịch Marc Klok lên tuyển chuẩn bị cho vòng loại World Cup 2022
-Marc Klok sinh năm 1993 tại Hà Lan và đang khoác áo CLB Persija Jakarta ở giải VĐQG Indonesia. Anh được PSSI tạo điều kiện hoàn tất nhanh chóng thủ tục nhập tịch để chính thức trở thành công dân Indonesia từ cuối năm 2020.Sau một năm bóng đá Indonesia chịu ảnh hưởng của đại dịch Covid-19, Marc Klok vẫn sở hữu phong độ cao.
-Tại giải giao hữu Menpora Cup 2021, Marc được bầu chọn là cầu thủ hay nhất với 1 bàn thắng và 2 kiến tạo.Nòng cốt của đội tuyển Indonesia dự vòng loại World Cup vẫn là những gương mặt quen thuộc giành huy chương Bạc môn bóng đá nam SEA Games 30 (thua Việt Nam ở chung kết), bao gồm Osvaldo Haay, Evan Dimas, Egy Maulana Vikri hay Witan Sulaeman. Bên cạnh đó sự xuất hiện đáng chờ đợi của cầu thủ trẻ đang chơi bóng ở Anh Elkan Baggot.
-Dự kiến tuyển Indonesia sẽ tập trung từ cuối tháng 5 tại thủ đô Jakarta. Sau đó, thầy trò HLV Shin Tae Yong sẽ bay sang Dubai (UAE) để đá hai trận giao hữu với Afghanistan và Oman trước khi bước vào vòng loại WorldCup 2022.
-Đội tuyển Việt Nam cần đánh bại Indonesia để chắc suất đi tiếp vào vòng 12 đội mạnh nhất châu Á
-Tại bảng G, tuyển Indonesia sẽ còn 3 trận nữa, lần lượt chạm trán Thái Lan, Việt Nam và UAE vào ngày 3/6, 7/6 và 11/6. Tuy nhiên Indonesia đã chính thức không còn cơ hội cạnh tranh tấm vé vào vòng loại thứ 3 nên họ chỉ coi các trận còn lại là cơ hội để rèn quân, luyện chiến thuật hướng đến những giải đấu sau như VCK AFF Cup 2020.
-Trong khi đó đội tuyển Việt Nam đang chiếm lợi thế trong cuộc đua giành quyền vào vòng loại thứ 3 với vị trí đầu bảng, nhưng thầy trò HLV Park Hang Seo sẽ không được phép chủ quan, đặc biệt đặt mục tiêu giành trọn 3 điểm trước Indonesia để đảm bảo giành tấm vé vào vòng loại 12 đội mạnh nhất châu Á.
-Bảng xếp hạng bảng G vòng loại World Cup 2022 khu vực châu Á
+# url = https://dantri.com.vn/the-thao/real-madrid-atletico-hay-barcelona-se-len-ngoi-vuong-la-liga-20210501091338153.htm
+# date = 20210501
+Trận thua của Barcelona trước Granada đã khiến cuộc đua vô địch La Liga trở nên khó lường hơn bao giờ hết, khi đội xếp thứ tư là Sevilla chỉ kém đội dẫn đầuAtletico Madrid 3 điểm.
+Atletico Madrid đang tạm dẫn đầu bảng xếp hạng La Liga với 73 điểm
+Thầy trò HLV Simeone hiện xếp đầu bảng với 73 điểm, tiếp theo là Real Madrid và Barcelona, cùng chia nhau vị trí thứ hai và thứ ba mặc dù cả hai cùng có 71 điểm. Sevilla hiện có 70 điểm, tạo nên một cuộc đua danh hiệu hấp dẫn hơn bao giờ hết khi La Liga hiện chỉ còn 5 vòng đấu.
+4 đội cùng có cơ hội tranh ngôi vương
+Trong 5 trận đấu cuối, Atletico Madrid sẽ tiếp đón Elche trước khi đối đầu với Barcelona tại sân Camp Nou và Real Sociedad tại sân nhà Estadio Wanda Metropolitano.
+Về lý thuyết, hai trận cuối cùng của mùa giải sẽ dễ dàng hơn với Atletico khi họ sẽ tiếp đón Osasuna và chơi trên sân khách của Real Valladolid. Trong khi đó, Real Madrid có tổng cộng 3 trận đấu trên sân nhà, trước Osasuna, Sevilla và Villarreal. Thầy trò HLV Zidane có 2 trận đấu trên sân khách trước các đối thủ Granada và Athletic Club.
+Barcelona bỏ lỡ cơ hội giành ngôi đầu bảng sau trận thua sốc trước Granada
+Ba trận đấu tiếp theo của Barcelona có tầm quan trọng vô cùng lớn vì đội bóng xứ Catalan sẽ phải đối đầu với Valencia và Levante, đặc biệt là trận cầu quyết định với Atletico Madrid. Trong hai trận đấu cuối cùng, đoàn quân của HLV Ronald Koeman sẽ tiếp đón Celta Vigo trước khi chạm trán với Eibar tại sân Ipurua.
+Đội bóng được đánh giá yếu nhất trong 4 đội trong ngôi vương là Sevilla cũng sẽ không có những trận đấu dễ dàng, vì họ sẽ tiếp đón Athletic Club, Valencia và Alaves, trong khi họ cũng gặp Real Madrid và Villarreal trên đường đua tranh.
+Cầu thủ phải vắng mặt trong 5 trận đấu cuối
+Tin tích cực cho Atletico Madrid là phần lớn các cầu thủ đá chính đều có thể ra sân, đặc biệt bộ đôi tiền đạo Luis Suarez và Joao Felix đã bình phục hoàn toàn và trở lại thi đấu trong trận thua 1-2 trước Athletic Club cuối tuần trước.
+Real Madrid sẽ không thể trông chờ vào sự phục vụ của Dani Carvajal hay Lucas Vazquez, khi cả hai đều gặp chấn thương phải nghỉ hết mùa giải. Trong khi đó, sự trở lại của Sergio Ramos sẽ là một động lực lớn cho đội bóng của Zidane, nhưng cả Ferland Mendy và Fede Valverde dự kiến không thể ra sân trong trận đấu với Osasuna vào thứ Bảy.
+Real Madrid trông chờ vào khả năng săn bàn của Benzema
+Cả Philippe Coutinho và Ansu Fati đều phải ngồi ngoài trong phần còn lại của mùa giải, nhưng sự vắng mặt quan trọng nhất đối với Barcelona có thể là HLV Ronald Koeman trong các trận đấu với Valencia và Atletico Madrid. Chiến lược gia người Hà Lan đã bị cấm thi đấu hai trận sau khi bị đuổi khỏi sân trong trận thua 1-2 của Barcelona trước Granada, nhưng đội chủ sân Camp Nou dự kiến sẽ đưa ra kháng cáo án phạt này.
+Trong khi đó, chuỗi trận ấn tượng của Sevilla có được chủ yếu nhờ các cầu thủ trụ cột đều ra sân, vì họ may mắn không gặp nhiều chấn thương nặng ở mùa giải năm nay.
+Real Madrid đang căng mình ở cả hai mặt trận
+Real Madrid là ứng cử viên vô địch La Liga duy nhất còn thi đấu tại Champions League, khi họ có trận lượt về bán kết Champions League với Chelsea sẽ diễn ra ở London vào giữa tuần tới.
+Bão chấn thương đã khiến HLV Zidane gặp nhiều khó khăn, khi chiến lược gia người Pháp dự kiến sẽ xoay tuađội hình trong trận gặp Osasuna vào lúc 2h rạng sáng mai (2/5) trước khi đối đầu với đối thủ nặng ký Sevilla vào ngày 9/5, ngay sau cuộc đụng độ với Chelsea ở Champions League.
+Ngôi sao quyết định mùa giải của đội bóng
+Atletico Madrid đã gặp khó khăn về mặt ghi bàn trong vài trận gần đây vì thiếu vắng Suarez do chấn thương. Sự trở lại của chân sút người Uruguay có thể đóng một vai trò quan trọng trong cơ hội vô địch của Atletico, vì anh hiện là cầu thủ ghi nhiều bàn thắng nhất cho Atletico mùa này với 19 bàn ở LaLiga.
+Sự trở lại của đôi trưởng Sergio Ramos đóng vai trò quan trọng với Real Madrid
+Dù Eder Militao và Nacho Fernandez đều đá chính khi Ramos vắng mặt, nhưng đội trưởng của Real Madrid là đầu tàu của Los Blancos trên sân. Màn trình diễn của Ramos trong vài trận gần đây, cùng với vua phá lưới Karim Benzema, có thể mang tính quyết định đối với Real Madrid.
+Messi là nhân tố quyết định giúp Barcelona hi vọng lên ngôi vương ở 5 vòng đấu cuối
+Trong khi đó, phong độ của Lionel Messi luôn mang tính quyết định đối với Barcelona. Không có nhiều cầu thủ ở La Liga có thể quyết định trận đấu ở bất kỳ thời điểm nào, nhưng Messi chắc chắn sở hữu khả năng này.
+Đối với Sevilla, HLV Julen Lopetegui đã cố gắng tập hợp một đội có màn trình diễn không dựa vào vai trò cá nhân, nhưng nếu chân sút Youssef En-Nesyri tiếp tục nâng cao con số 17 bàn thắng ấn tượng ở những trận đấu cuối thì Sevilla sẽ gây bất ngờ lớn ở La Liga mùa này.
 Sông Lam

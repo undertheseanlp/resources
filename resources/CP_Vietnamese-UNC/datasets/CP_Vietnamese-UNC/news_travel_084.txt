@@ -1,21 +1,19 @@
 # doc_id = news_travel_084
-# url = https://dantri.com.vn/du-lich/den-da-nang-san-binh-minh-o-lang-chai-co-dep-nhat-nam-trung-bo-20210424150830694.htm
-# date = 20210424
-Bình minh ở làng chài Mân Thái.
-Tọa lạc ở phía Đông TP. Đà Nẵng, nằm lọt dưới chân bán đảo Sơn Trà, làng chài cổ Mân Thái được ví là một trong những làng chài đẹp nhất Nam Trung Bộ.
-Mặc cho TP. Đà Nẵng trở mình với nhịp sống ồn ào của phố thị thì làng chài Mân Thái vẫn bình yên trong sự mộc mạc, bình dị, chan hòa của con người với thiên nhiên nơi đây.
-Mặc nhịp sống ồn ào của phố thị, làng chài Mân Thái vẫn bình yên trong sự mộc mạc, bình dị.
-Chẳng ai biết làng chài có từ bao giờ, chỉ biết rằng khi Sơn Trà còn hoang vắng, người dân ở đây sống bằng nghề đánh bắt hải sản để mưu sinh, rồi lập làng. Lâu dần, ngôi làng chài nằm giữa phố trở thành bến đậu bình yên, nuôi dưỡng biết bao thế hệ người con Mân Thái.
-Người làng Mân Thái vẫn giữ nghề chài lưới mưu sinh qua bao thế hệ.
-Là một làng chài mang đậm đặc trưng của người vùng biển, thế nên cuộc sống của người dân ở Mân Thái xem đại dương là ngôi nhà thứ hai của mình. Với họ biển là làng mà làng cũng là biển, cả cuộc đời của họ gắn liền với biển, ngay cả lúc quay về nhà, họ vẫn nghe tiếng sóng biển rì rào bên tai.
-Nhộn nhịp nhất ở làng chài này là vào lúc sáng mai. Trong ánh bình minh đang ló dạng, tiếng í ới gọi nhau của bạn thuyền cùng tiếng du khách vang động như đánh thức cả một vùng Sơn Trà đang còn ngái ngủ.
-Làng chài nhộn nhịp nhất vào những sớm mai.
-Phía ngoài xa con nước chồm lên bạc đầu là hàng trăm ngư dân đánh thuyền thúng ra khơi. Ở gần mép nước, những ngư dân bắt đầu kéo lưới trong ánh sáng chớm bừng của bình minh. Những người đàn ông căng mình kéo lưới, đôi bàn tay thoăn thoắt, những bước chân vững chãi trên mép sóng.
-Từ những chiếc thuyền thúng trĩu nặng đang cập bến sau một đêm mưu sinh. Những con cá tươi ngon thân bạc trắng theo đôi quang gánh của các chị, các mẹ tỏa đi các chợ ở Đà Nẵng cho kịp buổi chợ sáng.
-Hải sản làng chài theo chân các bà, các mẹ ra chợ sớm.
-Trên bãi cát ven biển có không ít người phụ nữ đội nón lá hay nón vải trên đầu, tay cầm thúng mủng đứng đón những chiếc thuyền thúng chở đầy mẻ cá cập bờ. Đó là những người vợ đợi chồng về sau một đêm đi biển. Mặc cho cuộc mưu sinh nhọc nhằn nhưng người làng Mân Thái vẫn nở trên môi nụ cười hiền hậu đón khách phương xa.
-Đều đặn như vậy, sáng sớm trên bãi biển làng chài, những ngư dân với gương mặt chai sạm của thời gian với nước da đen mặn mòi miền biển trở về trên những con thuyền đầy ắp tôm cá cùng nụ cười rực rỡ... 
-Khi con thuyền nằm im bến nghỉ, những trai tráng cũng trở về với gia đình sau một đêm dài mưu sinh trên biển.
-Buổi chợ tan, người làng mới về ngơi nghỉ.
-Mân Thái là vậy đó! Một làng chài nhỏ hiền hòa, bình dị, nơi đó hiện lên vẻ đẹp đời thường của những ngư dân với màu da rám nắng, cái nắng cháy của miền biển, vị muối hòa với vị tanh của hải sản. Sớm mai thôi, lại là một ngày tất bật ra khơi để lo cho cuộc sống gia đình.  
-Hoài Sơn
+# url = https://dantri.com.vn/du-lich/den-noi-xem-nguoi-dan-di-chuyen-bang-cach-nhay-sao-qua-vach-nui-20210429073210668.htm
+# date = 20210429
+Cách người dân vượt qua những vách núi hiểm trở.
+Quần đảo Canary là một cộng đồng tự trị của Tây Ban Nha nằm ở Đại Tây Dương, cách Marrocco 100 km về phía Tây.
+Những ngọn đồi dốc, vách đá sắc nhọn và địa hình đá mấp mô nơi đây là một cửa ải khó nhằn đối với những người đam mê tốc độ.
+Tuy nhiên đối với những người dân bản địa, những đặc điểm này giúp họ thử sức và sáng tạo nên trò chơi "dân gian" mang tên Salto del pastor hay còn được biết tới như "bước nhảy của những người chăn cừu".
+Môn thể thao này được người dân gọi là "bước nhảy của những người chăn cừu".
+Để tăng tốc trong quá trình vượt qua những ngọn đồi dốc,… người dân sử dụng một chiếc sào gỗ dài có đầu nhọn hay một cây giáo để nhảy qua những phần có địa hình không bằng phẳng.
+Thực tế, truyền thống này đã có từ thế kỷ 15 khi thổ dân Guanche tới các đảo ở Canary sinh sống, địa hình địa thế nơi đây đòi hỏi họ phải có cách di chuyển an toàn qua các đá núi sắc nhọn.
+Đây là một trò chơi mạo hiểm đòi hỏi nhiều kỹ năng.
+Cách nhảy này ban đầu được xem như bí quyết di chuyển của người dân bản địa. Đặc biệt, những người chăn cừu của Canary rất ưa chuộng cách nhảy này khi chăn thả gia súc trên núi.
+Để thực hiện những cú nhảy nguy hiểm trên các vách đá, người Canary phải gắn chắc đầu sào nhọn vào đất, đá rồi dùng lực tay cũng như cơ thể để khéo léo di chuyển.
+Vị trí để tay (gọi là manas) vô cùng đa dạng và chủ yếu phụ thuộc vào cách di chuyển của người dùng sào, là leo lên, leo xuống hoặc phanh lại.
+Một trong những động tác thử thách nhất được gọi là salto a regaton muerto, hoặc "cú nhảy chết chóc". Thay vì đâm sào vào đất đá để lấy đà và lực trước khi nhảy, người tham gia trước hết phải xác định điểm rơi của mũi giáo sau đó quăng cây giáo tới đúng điểm rơi, và cuối cùng là nhảy tới điểm đó.
+Vào thập niên 1990, việc tập luyện môn nhảy sào trên núi đá này rất nguy hiểm, có thể gây chết người. Vì thế những người theo nhảy sào tự gọi mình là các jurria, thành lập một nhóm nhằm rèn luyện và bảo tồn bộ môn truyền thống này.
+Juan Aleman, chủ tịch Hiệp hội Salto del Pastor ở Canary cho biết: "Đại dịch diễn ra lại càng khuyến khích nhiều người tham gia môn thể thao mạo hiểm này. Số người vào hiệp hội tăng lên, và tôi tin là ham muốn tự do mạnh mẽ nên mọi người càng muốn ra ngoài, tới những vùng đồi núi hơn".
+Hằng Đoàn
+Theo Daily mail

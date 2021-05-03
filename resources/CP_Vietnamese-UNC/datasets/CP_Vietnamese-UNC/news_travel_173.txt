@@ -1,21 +1,13 @@
 # doc_id = news_travel_173
-# url = https://dantri.com.vn/du-lich/mon-tom-bo-nhay-tanh-tach-trong-mieng-thach-thuc-thuc-khach-o-quang-ninh-20210410182536487.htm
-# date = 20210410
-Tôm bò là món đặc sản nổi tiếng của vùng Liên Vị, đảo Hà Nam, Quảng Yên (Quảng Ninh). Du khách đến đây, khi nghe về món ăn mang tên "tôm bò" thì phần đa đều ngạc nhiên, tò mò.
-Sở dĩ gọi là tôm bò vì trước kia, khi người Liên Vị ăn món này: tôm được thả trong chậu hay xô nước, ăn đến đâu bắt đến đấy. Con tôm tươi còn phải nhảy tanh tách, khiến nước bắn tung tóe mới "đúng kiểu". Ngày nay, tôm được để vào trong bát ô tô hay đĩa sâu lòng để nhìn gọn gàng, đẹp đẽ hơn.
-Tôm rảo còn tươi roi rói, nhảy tanh tách trong bát.
-Để có món tôm bò đúng chuẩn Liên Vị thì trước nhất là phải chọn được loại tôm rảo - loại nhỏ, cỡ như đầu đũa là ngon nhất.
-Nhưng giờ trong các nhà hàng thì loại tôm rảo này thường có kích cỡ to hơn, tầm bằng ngón tay trỏ, nặng 15-20 gram.
-Tôm rảo, còn có tên gọi khác là tôm đất đồng, là loài tôm biển thuộc chi, họ tôm he. Tôm rảo có thân màu xanh trong, chùy trán hơi cong lên; các đốt bụng 2 - 3 có gờ ở lưng khá rõ; các chân bò thường có vằn nâu nhạt.
-Tôm mua về được rửa sạch, để ráo nước hoặc sau khi rửa sạch với nước thì để vào một bát ô tô nước sạch.
-Tôm vẫn phải tươi sống, nhảy tanh tách trong bát. Tôm bò bản chất cũng là món gỏi nên không thể thiếu các loại rau sống ăn kèm.
-Ăn kèm cùng tôm sẽ là rau chuối thái mỏng, rau muống chẻ, diếp cá, rau thơm; thêm cả dứa, gừng tươi và cà rốt thái chỉ.
-Một loại rau ăn kèm không thể thiếu là rau lá mui - một giống cây được trồng ở các ô đầm nuôi thủy sản. Lá mui là một loại kháng sinh rất tốt khi ăn sống hải sản. Người dân ở đây cũng thường chuẩn bị thêm bánh đa, cơm nguội để ăn kèm.
-Cái vị của món tôm bò nằm ở loại nước chấm riêng có gọi là nước chua. Nước chua được nấu từ me xanh. Nước me đun sôi cho đến khi đặc quánh thì bỏ thêm lạc rang thơm, ớt chỉ thái nhỏ, vài tép tỏi đập dập, nêm nếm gia vị cho vừa ăn.
-Món nước chua không thể thiếu trong món tôm bò.
-Khi ăn, thực khách sẽ chọn 1 - 2 con tôm rảo, bỏ đầu, gói trong lá mui, rau sống, cơm nguội sao cho gọn, vừa miếng rồi chấm vào nước chua.
-"Người bản địa thì sẽ cho tôm nguyên con, rau, cơm nguội, bánh đa bẻ nhỏ vào bát, rồi chan nước me, thêm ít lạc rang, ớt tươi. Đưa vào miệng, cảm giác như con tôm vẫn nhảy tanh tách, quẫy quẫy lên" - anh Quang Huy (người dân Quảng Yên) chia sẻ.
-Món tôm bò nổi danh Quảng Ninh. (Ảnh: Quang Huy).
-Cái cảm giác như con tôm tươi đang nhảy tanh tách trong miệng có thể khiến thực khách thích thú, phấn khích nhưng cũng có thể khiến nhiều thực khách khác phải "sởn da gà".
-Món ăn đặc sản của vùng Quảng Yên này không phải mùa nào cũng có, mùa nào cũng ngon và cũng không phải ở cửa hàng nào cũng chuẩn vị tôm bò Liên Vị.
-Khôi Vũ
+# url = https://dantri.com.vn/du-lich/ngan-ngam-canh-bai-gui-xe-quan-nuoc-che-song-tam-gui-tai-di-tich-pho-co-20210402100625946.htm
+# date = 20210402
+Không biết từ bao giờ, hình ảnh những quán ăn vỉa hè, quán trà đá, bãi trông xe "mọc chình ình" trước cửa đền, chùa - di tích của thủ đô lại trở nên "quen thuộc" đến vậy. Hoạt động xâm lấn đang làm giảm đi sự tôn nghiêm, nét đẹp của những di tích phố cổ.
+Ngay trước cổng đền Hương Tượng (nằm trên phố Mã Mây, Hoàn Kiếm), một quán trà đá "mọc" lên, trở thành nơi tụ tập chè - thuốc của nhiều người. Chỗ trống còn lại thì được trưng dụng làm chỗ để xe.
+Tại cổng đền Hương Tượng, hai bên tường bao của đình chùa Thái Cam (phường Hàng Vải) cũng là quán trà đá, kèm thêm quầy bán hàng tẩy rửa. Phía trước cổng, nhiều xe ôm ngang nhiên biến thành "điểm đón chờ khách".
+Xe máy ngang nhiên dựng trước tấm bảng "cấm vi phạm" của di tích này.
+Đủ loại phao bơi, balo, túi xách... được chủ quán "vô tư" treo lơ lửng ngay trước cổng một điểm di tích.
+Đền Nhân Nội Linh Từ trên phố Bát Đàn tạm thời đóng cửa. Buổi sáng ở đây thường xuất hiện cảnh: các hàng quán xung quanh kê bàn ghế, bếp than, xô chậu bừa bãi ngay trước lối đi vào.
+Những góc vỉa hè trống trước cổng đình cũng thành nơi để xe của người dân xung quanh hay khách đến hàng quán ăn uống. Người muốn vào đình phải khéo léo len qua dãy xe cộ, đồ đạc lỉnh kỉnh trước cổng đình.
+Đây là hình ảnh PV ghi lại tại khu vực chùa Vĩnh Trù (Hàng Lược) -di tích kiến trúc nghệ thuật hạng quốc gia, đã được Bộ Văn hóa Thể thao và Du lịch xếp hạng năm 1994.
+Mới đây, Thành phố Hà Nội đã công bố 6 đồ án quy hoạch phân khu (1/2.000) nội đô lịch sử bao phủ 4 quận nội đô. Với yêu cầu chính là kiểm soát dân số tại 4 quận, các đồ án nhằm mục tiêu giảm từ 1,2 triệu dân (năm 2009) xuống dự kiến còn 672.000 dân; bảo tồn những giá trị văn hóa, lịch sử; đồng thời cải thiện hệ thống hạ tầng xã hội và hạ tầng kỹ thuật.
+Toàn Vũ

@@ -1,25 +1,22 @@
 # doc_id = news_travel_239
-# url = https://dantri.com.vn/du-lich/thu-ngoe-nguay-nhin-ron-da-ga-nhung-len-mam-lai-tro-thanh-dac-san-dat-gia-20210420192328541.htm
-# date = 20210420
-Cá mút đá
-Cá mút đá (hay còn gọi là cá ninja, cá quỷ) vốn đã quen thuộc và trở thành một món ăn nổi tiếng, đắt tiền ở Hàn Quốc cùng một số nước châu Âu. Vài năm trở lại đây, món cá mút đá được nhiều người Việt biết đến và yêu thích.
-Ở Việt Nam, cá mút đá được phát hiện sống phổ biến nhất ở khu vực biển Quy Nhơn (Bình Định), Khánh Hòa. Loài cá này có vẻ ngoài kỳ lạ, xấu xí, thậm chí còn được ví là "quái vật" biển sâu. Ngoài ra, nó còn có tên gọi khác là cá "giấu đầu lòi đuôi" bởi khi bắt lên, nó thường cuộn đầu như giấu đi.
-Da cá trơn như cá chình, có màu đen xuyên suốt, đường kính khoảng 4cm, dài cỡ hai gang tay. Đầu cá giống cá chạch, có ria ngắn, đuôi bè ra.
-Theo giải thích của các ngư dân, sở dĩ cá mút đá được gọi là cá ninja bởi rất khó đánh bắt. Loài cá này sống ở tầng đáy, ở độ sâu hơn 1000m so với mực nước biển, thoắt ẩn thoắt hiện với phần da màu đen trùm kín từ đầu đến đuôi giúp nó dễ "ngụy trang", lẩn trốn.
-Cá mút đá có thể chế biến thành nhiều món ăn bổ dưỡng như lẩu, cà ri, chiên bột... nhưng ngon và hợp "gu" thực khách Việt Nam nhất vẫn là hai món cá om chuối đậu và cá nướng muối ớt. (Ảnh: meohaisan).
-Hiện, loại cá xấu xí này có giá 250 - 300.000 đồng/kg. Tuy nhiên, khách ở Hà Nội hay các tỉnh phía Bắc thường phải đặt trước mới mua được.
-Sâu tre
-Sâu tre (hay còn gọi sâu măng) là loài côn trùng ký sinh trong thân cây tre, thường xuất hiện ở một số tỉnh vùng núi Tây Bắc như Sơn La, Điện Biên, Lai Châu hay huyện Mường Lát (Thanh Hóa).
-Sinh vật này có kích thước nhỏ, dài gần hai đốt ngón tay, màu trắng muốt. Tuy vẻ ngoài không bắt mắt, khiến nhiều người e sợ nhưng sâu tre lại là nguyên liệu làm nên nhiều món khoái khẩu "được lòng" giới sành ăn.
-Sâu tre thường sống trong thân cây tre (hoặc nứa) non. Khoảng từ tháng 9 - tháng 11 âm lịch là thời điểm sâu sinh sôi nảy nở, phát triển nhiều và béo ngậy nhất. Thời gian này, người dân địa phương thường vào rừng "săn" sâu.
-Mỗi thân cây có thể chứa cả nửa kg sâu tre, người dân "bội thu" nếu bắt đúng tổ. (Ảnh: Bình Tóc Xoăn).
-Trên một vài diễn đàn chợ mạng, sâu tre được rao bán tới 700.000 đồng/kg. Tuy nhiên, chủ yếu là hàng cấp đông hoặc hút chân không vì sâu tươi khó bảo quản.
-Rươi
-Đây là đặc sản có nhiều ở tỉnh Hải Dương. Hình dáng của con rươi khiến nhiều người e ngại, thậm chí là sợ nhưng những món ăn chế biến từ loài vật này thì ai cũng phải gật gù thừa nhận "ngon khó cưỡng".
-Một năm có hai mùa rươi là từ tháng 4, 5 và tháng 9, 10 âm lịch. (Ảnh: Toàn Vũ).
-Rươi có thể chế biến thành nhiều món nhưng ngon nhất là chả rươi. Rươi sau khi sơ chế được trộn cùng với thịt nạc băm, trứng gà, hành hoa, thì là, ớt tươi và không thể thiếu là vỏ quýt hôi.
-Rươi được bán với giá từ 500 - 600.000 đồng/kg tùy thời điểm. (Ảnh: Toàn Vũ).
-Con rươi tuy có hình thức khiến nhiều người e sợ nhưng nó chứa nhiều thành phần dinh dưỡng rất giàu đạm và chứa nhiều loại muối khoáng cần thiết cho cơ thể như canxi, sắt và kẽm…
-Sá sùng
-Theo quảng cáo của người bán, dòng này là nguyên con, không vụn, nát. Khi nấu canh hay lẩu, khách chỉ cần thả một mẩu sá sùng bằng đầu ngón tay vào nồi là không cần mì chính, hạt nêm hay ninh xương ống mà nước dùng vẫn thơm ngon, đậm vị.
-Khôi Vũ
+# url = https://dantri.com.vn/du-lich/truoc-gio-g-don-7-van-khach-sa-pa-lang-le-nhieu-khach-san-trong-phong-20210429153215983.htm
+# date = 20210429
+Dịp lễ 30/4 - 1/5 được xem là cao điểm du lịch ở Sa Pa (Lào Cai). Theo ghi nhận của PV báo Dân trí, một ngày trước kỳnghỉ lễ, lượng khách về Sa Pa chưa nhiều; các nhà hàng, khách sạn đang tất bật chuẩn bị đón khách nhưng nhiều nơi vẫn khẳng định còn nhiều phòng trống, không còn tình trạng "cháy phòng" như nhiều năm trước và xuất hiện tình trạng khách trả phòng... do lo ngại dịch Covid-19.
+Ngày 29/4, trao đổi với chúng tôi, ông Vương Trinh Quốc, Chủ tịch UBND Thị xã Sa Pa cho biết: trong dịp lễ ngày 30/4 và 1/5, dự kiến Sa Pa sẽ đón 65.000 đến 70.000 lượt khách, tăng 30-40% so với quý I/2021 nhưng chỉ bằng 70% so với cùng kỳ năm 2019.
+Trước thông tin các nhà nghỉ, khách sạn tại Sa Pa "cháy phòng" và bị "đội giá", ông Quốc cho hay: "Chúng tôi đã chỉ đạo đội kiểm tra liên ngành tăng cường kiểm tra những hành vi tăng giá bất hợp pháp.
+Qua báo cáo của đội kiểm tra, có một số đối tượng lập lên những nhóm trên mạng xã hội để mua phòng nghỉ theo giá niêm yết rồi rao bán trên mạng với giá chênh lệch để thu lợi.
+Đây cũng là một hiện tượng xảy ra thường xuyên trong vài năm gần đây nên chúng tôi đã chủ động ngăn chặn từ tháng 4 để hạn chế tối đa tình trạng này.
+Trước đó nhiều khách sạn, nhà nghỉ, cơ sở kinh doanh ăn uống tại Sa Pa... đã có cam kết không tăng giá trong dịp nghỉ lễ", ông Quốc cho biết thêm.
+Trước diễn biến phức tạp của dịch Covid-19, theo thống kê từ UBND thị xã Sa Pa, đến ngày 29/4 đã có khoảng 10% du khách đặt phòng sớm gọi hủy - trả phòng.
+Trước tình hình dịch bệnh Covid-19 có khả năng bùng phát trở lại, ông Quốc cho hay, việc phòng chống dịch bệnh trên địa bàn thị xã vẫn diễn ra thường xuyên. "Chúng tôi luôn chủ động, không lơ là và thực hiện chống dịch theo hướng dẫn của UBND tỉnh và Bộ Y tế. Chúng tôi đã phổ biến thông điệp 5K đến các đơn vị lữ hành, khách sạn, nhà hàng... trên địa bàn".
+Ông Quốc thông tin thêm, trước tình hình dịch bệnh hiện tại, những sự kiện do chính quyền tổ chức tại Sa Pa đang lên phương án tạm dừng tổ chức còn những hoạt động thuộc điểm du lịch của doanh nghiệp thì doanh nghiệp chủ động phòng dịch theo giám sát của cơ quan chức năng.
+Đến 17h chiều 29/4, các địa điểm tại trung tâm thị xã Sa Pa vẫn vắng bóng du khách.
+Ông Nguyễn Viết Tuân một tài xế lái xe điện cho biết: "Hiện tại lượng khách đổ về Sa Pa còn rất vắng, tôi hy vọng ngày mai lượng người đổ về đây sẽ đông hơn. Giá xe điện vẫn không có thay đổi so với ngày thường".
+Theo ghi nhận, đa số du khách đến Sa Pa sớm đều thực hiện nghiêm túc quy định đeo khẩu trang nơi công cộng.
+Tại các địa điểm công cộng, UBND thị xã triển khai các xe lưu động hoạt động thường xuyên để nhắc nhở du khách về thông tin phòng chống dịch.
+Các nhà hàng, khách sạn đang tất bật chuẩn bị đón khách.
+Tuy nhiên, rất nhiều nhà nghỉ, khách sạn treo biển "còn phòng trống". "Hiện tại, 3 cơ sở nhà nghỉ của chúng tôi tại khu vực thị xã và lân cận đều còn 10 - 20% phòng trống", một chủ cơ sở kinh doanh cho biết.
+Nhiều khách sạn ở trung tâm thị xã Sa Pa treo biển còn phòng nghỉ.
+Trước diễn biến phức tạp của dịch Covid-19, theo thống kê từ UBND thị xã Sa Pa, đến ngày 29/4 đã có khoảng 10% du khách đặt phòng sớm gọi hủy - trả phòng.
+Nhiệt độ tại Sa Pa hiện đang mát mẻ, lạnh về đêm và sáng sớm, có mưa rải rác trong ngày.
+Toàn Vũ

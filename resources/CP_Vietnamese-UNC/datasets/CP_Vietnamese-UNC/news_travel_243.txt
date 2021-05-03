@@ -1,12 +1,15 @@
 # doc_id = news_travel_243
-# url = https://dantri.com.vn/du-lich/tim-thay-80-guong-bau-2000-nam-tuoi-va-dieu-bat-ngo-khi-lau-sach-20210419105157399.htm
-# date = 20210419
-Trong bài viết đăng trên Tạp chí Heritage Science Journal, 2 tác giả Jiafang Lian và Quentin Parker công tác tại Đại học Hồng Kông, Trung Quốc hé lộ các nhà khảo cổ học phát hiện 80 chiếc gương bằng đồng tinh xảo tại Thiểm Tây, Trung Quốc.
-Cuộc khai quật do các nhà khảo cổ học tại Viện Khảo cổ tỉnh Thiểm Tây thực hiện ở một nghĩa địa ở làng Dabaozi, thành phố Hàm Dương. Nơi tìm thấy nhiều gương báu là nghĩa trang có 400 ngôi mộ của giới quý tộc thời nhà Hán.
-Những hiện vật này được đánh giá ở trong tình trạng tuyệt vời dù trải qua 2 thiên niên kỷ nằm dưới lòng đất. Thậm chí, sau khi lau chùi sạch, vẫn có thể soi bằng những chiếc gương được khai quật. Ngoài ra, trên gương còn có những chữ khắc và biểu tượng của Trung Quốc khiến các chuyên gia vào cuộc nghiên cứu.
-Những chiếc gương được tìm thấy có chiều dài từ 7-22cm, thường được chôn gần đầu hay xung quanh phần trên cơ thể của người đã chết trong lăng mộ.
-Các nhà khảo cổ còn tìm thấy những món đồtùy táng khác trong mộ như: gốm, đồ bằng ngọc, sắt và đồng. Một số chiếc gương có bốn chữ Hán tạm dịch là "ngôi nhà của sự thịnh vượng".
-Chiếc gương đồng cổ xưa nhất từng được tìm thấy ở Trung Quốc là trong một cuộc khai quật ở tỉnh Cam Túc thuộc về nền văn hóa Qijia của Thời kỳ Đồ Đá Mới (2200 TCN - 1600 SCN).
-Trong 3 thời kỳ Chiến quốc (475 TCN đến 221 TCN), nhà Hán (202 TCN - 220 SCN) và nhà Đường (618 SCN - 907 SCN), kỹ thuật làm đồ bằng đồng đã dần hoàn thiện, phong cách trang trí tinh tế, đa dạng ở thời Chiến quốc. Còn trong thời kỳ nhà Hán, số lượng sản xuất đã ở mức quy mô hàng loạt.
-Phương Hà
-Theo Ancient-origins
+# url = https://dantri.com.vn/du-lich/ve-dong-thap-di-cau-phao-ngam-vuon-sen-bat-ngan-hoa-20210501070525593.htm
+# date = 20210501
+Với diện tích rộng hơn 2ha, cánh đồng sen rộng lớn nằm trong khuôn viên khu du lịch Đất Sen tọa lạc tại xã Thạnh Lợi, huyện Tháp Mười (Đồng Tháp) đang là điểm dã ngoại lí tưởng của nhiều du khách.
+Du khách tạo dáng bên hoa sen (Ảnh: Bảo Kỳ).
+Ngoài cảnh sắc thiên nhiên nên thơ hữu tình, điểm ấn tượng nhất với du khách phải kể đến trải nghiệm đi cầu phao ngắm ao sen.
+Chiếc cầu có chiều dài gần 100 mét, nối từ trong bờ ra ao sen, được lót ván gỗ, lan can sơn đủ màu. Cầu được thiết kế hình dích dắc, mỗi khúc cua có khoảng trống cho du khách chụp ảnh.
+Chị Trương Thị Ngọc Như, một người dân đến tham quan vườn sen cho biết: "Ấn tượng nhất phải kể đến chiếc cầu phao đi xuyên qua ao sen.
+Tôi có thể đi bộ và thưởng ngoạn khung cảnh thơ mộng xung quanh đồng sen. Lúc buổi sáng hoặc chiều tà, có thể tản bộ, ngắm sen, chụp ảnh để ghi lại những khoảnh khắc đáng nhớ. Đồng thời có cả trang phục áo dài truyền thống, áo bà ba cho những ai thích chụp ảnh đồng quê".
+Còn du khách An Nhiên thì cho rằng: Đây là một dịch vụ thú vị giúp du khách hòa mình với thiên nhiên. Dọc theo lối đi của chiếc cầu phao là những chiếc chòi nhỏ, có độ cao hợp lý và được dựng giữa đầm sen trông rất đẹp mắt. Từ trong chòi nhìn ra, hướng tầm mắt xung quanh là những đầm sen bát ngát, trải dài đến bất tận.
+Ngoài ao sen thơ mộng, các trò chơi vận động luôn được nhiều bạn trẻ thích thú trải nghiệm. Các trò chơi dân gian ở đây vô cùng đa dạng, từ chơi dưới nước cho đến trên cạn, phù hợp với mọi sự lựa chọn "khó tính" của các nhóm bạn trẻ.
+Anh Lê Trí Hướng, Phó Giám đốc khu du lịch cho biết, khu du lịch mang phong cách đồng quê đậm chất Đồng Tháp có đồng sen, ruộng lúa, ao cá…
+Khu du lịch có tổng diện tích hơn 4 ha chia làm 3 khu gồm khu ẩm thực, khu trò chơi người lớn và trẻ em và khu ao sen được đưa vào hoạt động từ đầu năm 2021.
+Khu ẩm thực với 20 căn chòi giữa cánh đồng sen và lúa (Ảnh: Bảo Kỳ).
+Bảo Kỳ

@@ -1,18 +1,12 @@
 # doc_id = news_science_255
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/vi-sao-hoa-lai-co-mui-huong-20210414094018801.htm
-# date = 20210414
-Mùi hương của hoa thực sự là một phần của chiến lược giúp các loài cây có hoa sinh sôi, "duy trì nòi giống". Hương hoa có thể giúp cây cỏ giải quyết một vấn đề lớn; đó chính là thụ phấn.
-Thụ phấn là quá trình mà các hạt phấn, hay còn gọi là bào tử đực, di chuyển từ bao phấn đến đầu nhụy của hoa để thụ phấn tại noãn, nằm bên dưới nhụy hoa trong bầu noãn. Tại đầu nhụy, hạt phấn hoa nảy mầm và phát triển xuống vòi nhụy đi vào bầu noãn, nơi nó thụ tinh cho noãn và sau đó sẽ phát triển thành hạt.
-Một số cây có thể tự thụ phấn, sử dụng hạt phấn của chính mình để thụ tinh cho noãn. Những một số cần phấn hoa từ một cây khác cùng loài, gọi là thụ phấn chéo. 
-Vậy làm thế nào để một cây lấy được phấn hoa của cây khác? Đôi khi trọng lực giúp phấn hoa rơi vào đúng vị trí. Đôi khi gió sẽ giúp sức; hoa được thụ phấn nhờ gió là kiểu của nhiều loại cây và cỏ, và trong trường hợp này, hoa không có mùi hương.
-Một số loài hoa được thụ phấn bởi chim, dơi, côn trùng hoặc thậm chí các loài gặm nhấm nhỏ mang phấn hoa từ hoa này sang hoa khác. Trong trường hợp này, tự thân những bông hoa phải tạo ra chút sức hút. Những loài giúp hoa thụ phấn được "trả công" bằng mật hoa và chất dinh dưỡng trong phấn hoa.
-Không chỉ có "phần thưởng" cho các loài giúp mình thụ phấn, hoa còn tạo ra mùi hương để mời gọi đúng đối tượng.
-Một cây phong lan nở trong rừng nhiệt đới hoặc một bông hồng trồng trong vườn nhà cần thu hút một loài thụ phấn của cùng cây hoa cùng loài. Vì thế, hoa của mỗi loài lại có mùi hương riêng, để quyến rũ đối tượng riêng.
-Tương tự như nước hoa, mùi hương của hoa được tạo thành từ một số lượng lớn và đa dạng các chất hóa học dễ bay hơi, lơ lửng trong không khí. Loại hóa chất, số lượng và sự tương tác của nó với các hóa chất khác tạo cho hoa có mùi hương độc đáo. Mùi hương của hoa hồng có thể chứa tới 400 loại hóa chất khác nhau.
-Do đó, chúng ta có thể ngửi thấy những mùi hương hoa này vì chúng dễ dàng bay hơi từ hoa, trôi theo các luồng không khí để thu hút các loài thụ phấn.
-Hương hoa có thể ngọt ngào và có mùi trái cây, hoặc có thể có mùi xạ hương, thậm chí có mùi hôi hoặc thối rữa tùy thuộc vào loài thụ phấn mà chúng đang cố gắng thu hút.
-Cây táo hoặc cây anh đào nở hoa tỏa ra hương thơm ngào ngạt để thu hút các loài ong. Trong khi đó, hoa lê có mùi khá khó chịu, vì chúng cần thu hút ruồi đến thụ phấn.
-Tương tự, loài hoa xác chết, có nguồn gốc từ rừng nhiệt đới Indonesia, tỏa ra mùi như thịt thối rữa để thu hút ruồi và bọ cánh cứng đến thụ phấn.
-Sau khi được thụ phấn, hoa sẽ ngừng tạo ra hương hoa và mật hoa để dồn năng lượng cho quá trình phôi thụ tinh trở thành hạt giống.
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/vi-sao-mot-so-nguoi-co-the-kiem-soat-kha-nang-noi-da-ga-20210329061813147.htm
+# date = 20210329
+Nổi da gà là một quá trình tiến hóa còn sót lại từ tổ tiên của chúng ta. Trong tự nhiên, một khoảnh khắc bay hoặc đánh nhau, các cơ nhỏ xung quanh nang lông co lại, khiến lông trồi lên và khiến con vật trông to lớn và đáng sợ hơn.
+Tuy nhiên, đối với con người, đây thường được coi là một phản ứng không tự nguyện, được điều khiển bởi các dây thần kinh từ hệ thần kinh giao cảm điều chỉnh các hành động vô thức của cơ thể. Vì vậy, với sự hiểu biết hiện tại về mặt sinh lý học không thể kiểm soát hành động này. Tuy nhiên, có vẻ như một số người lại có khả năng ngược lại.
+Trong một nghiên cứu năm 2018, được công bố trên tạp chí PeerJ, các nhà nghiên cứu từ Đại học Northeastern đã tập hợp 32 người có thể chứng minh khả năng kiểm soát tự nguyện của họ đối với piloerection, tên khoa học nói về sự co thắt các cơ nhỏ ở gốc nang lông gây nổi da gà. Hầu hết những người tham gia giải thích rằng họ rất dễ nổi da gà theo ý muốn. Thậm chí, họ còn ngạc nhiên khi hầu hết mọi người không có khả năng này.
+Nằm trong một phần của nghiên cứu, những người tham gia được yêu cầu hoàn thành một cuộc khảo sát về tính cách của họ, cũng như các câu hỏi khác về chứng nổi da gà.
+Nhóm nghiên cứu nhận thấy tất cả những người có thể kiểm soát cơn nổi da gà của mình đều thể hiện mức độ cởi mở cao hơn. Đây là một đặc điểm tính cách thường đề cập đến xu hướng của một người là có khả năng tiếp thu nhiều hơn với những ý tưởng mới và trải nghiệm mới.
+Những người này có xu hướng sáng tạo, giàu trí tưởng tượng và tò mò, cũng như có sự đánh giá cao hơn đối với nghệ thuật hay cái đẹp.
+Tuy nhiên, trước câu hỏi vì sao có những người có khả năng kiểm soát khả năng nổi da gà, các nhà nghiên cứu vẫn chưa đưa ra một câu trả lời thuyết phục hơn. Để đi sâu hơn vào bí ẩn, các tác giả nghiên cứu cho biết rất mong muốn tiếp tục thực hiện một nghiên cứu lớn hơn liên quan đến nhiều người hơn.
 Trang Phạm
-Theo The Conversation
+Theo IFL Science

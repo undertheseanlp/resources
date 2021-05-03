@@ -1,23 +1,19 @@
 # doc_id = news_world_156
-# url = https://dantri.com.vn/the-gioi/my-se-chuyen-60-trieu-lieu-vac-xin-covid-19-cho-cac-nuoc-20210427090548306.htm
-# date = 20210427
-Lọ đựng vắc xin AstraZeneca tại trung tâm vắc xin ở Pháp (Ảnh: AFP).
-Thư ký Báo chí Nhà Trắng Jen Psaki cho biết Mỹ sẽ phân phối vắc xin Covid-19 của AstraZeneca cho các nước khác khi chúng có sẵn.
-Bà Psaki nói rằng, có thể 10 triệu liều vắc xin sẽ được chuyển đi "trong những tuần tới". Trong khi đó, khoảng 50 triệu liều nữa đang được sản xuất và có thể xuất xưởng vào tháng 5 và tháng 6.
-"Hiện tại, chúng tôi không có sẵn vắc xin AstraZeneca", bà Psaki nói và lưu ý rằng, các cơ quan quản lý của Mỹ vẫn cần phải xem xét chất lượng của những sản phẩm vắc xin đã được sản xuất.
-Theo bà Psaki, chính quyền Tổng thống Joe Biden vẫn đang xem xét quy trình để xác định các quốc gia được nhận vắc xin cũng như cách thức chia sẻ.
-"Chúng tôi sẽ xem xét một loạt lựa chọn từ các quốc gia đối tác của chúng tôi và tất nhiên, phần lớn trong số đó sẽ thông qua các mối quan hệ trực tiếp", Thư ký Báo chí Nhà Trắng nói thêm.
-Hiện vắc xin AstraZeneca vẫn chưa được Cục Quản lý Thực phẩm và Dược phẩm Mỹ (FDA) cấp phép sử dụng. Mặc dù vậy, vắc xin này vẫn đang được nhiều quốc gia trên thế giới sử dụng.
-Theo Guardian, một quan chức cấp cao Nhà Trắng nói với các phóng viên trong một cuộc gọi rằng: "Hiện có nhiều vắc xin đã được Mỹ sử dụng và FDA cấp phép. Vắc xin AstraZeneca vẫn chưa được cấp phép sử dụng tại Mỹ, chúng tôi sẽ không dùng vắc xin này trong vài tháng tới. Vì vậy, Mỹ đang xem xét chia sẻ vắc xin AstraZeneca với các nước khi chúng sẵn có".
-Tuy nhiên, quan chức trên khẳng định trước khi vận chuyển bất kỳ liều AstraZeneca nào, chúng phải đáp ứng "kỳ vọng về chất lượng sản phẩm" của FDA.
-Chính quyền Tổng thống Biden hồi tháng 3 thông báo sẽ gửi khoảng 4 triệu liều vắc xin AstraZeneca của nhà sản xuất dược phẩm Anh tới Canada và Mexico. Mỹ đang chịu áp lực ngày càng lớn về việc mở rộng chia sẻ kho dự trữ vắc xin với Ấn Độ và các quốc gia khác.
-Người phát ngôn của AstraZeneca không bình luận về chi tiết cụ thể của thỏa thuận với Mỹ, nhưng cho biết lượng vắc xin trên là một phần trong cam kết của AstraZeneca với chính phủ Mỹ.
-"Các quyết định gửi nguồn cung vắc xin của Mỹ đến các quốc gia khác là do chính phủ Mỹ đưa ra", người phát ngôn cho biết.
-AP ngày 26/4 đưa tin vắc xin Covid-19 của AstraZeneca sẽ được Mỹ chia sẻ trong những tháng tới sau khi được FDA thông qua.
-Ấn Độ mong đợi hỗ trợ của Mỹ
-Ấn Độ, vùng dịch lớn thứ 2 thế giới, đang kỳ vọng nhận được sự hỗ trợ từ Mỹ để đối phó với đại dịch.
-Nhà Trắng cho biết Mỹ đang làm việc suốt ngày đêm để triển khai các bộ kit xét nghiệm, máy thở và thiết bị bảo hộ cá nhân, đồng thời sẽ tìm cách cung cấp ôxy cho Ấn Độ. Nhà Trắng cũng thông báo sẽ cung cấp các nguồn nguyên liệu thô cần thiết cho Ấn Độ để nước này sản xuất vắc xin Covid-19.
-"Mỹ cam kết hỗ trợ đầy đủ và khẩn cấp các nguồn lực trong cuộc chiến chống dịch Covid-19. Ấn Độ đã giúp chúng tôi, và chúng tôi sẽ giúp lại họ", Tổng thống Joe Biden viết trên Twitter.
-"Cũng giống như Ấn Độ đã gửi viện trợ đến Mỹ khi các bệnh viện của chúng tôi bị quá tải trong thời gian đầu của đại dịch, chúng tôi quyết tâm giúp đỡ Ấn Độ vào thời điểm cần thiết", Tổng thống Biden tuyên bố.
-Thành Đạt
-Theo Reuters, Guardian
+# url = https://dantri.com.vn/the-gioi/my-tung-don-thi-thuc-voi-nga-moscow-trung-phat-quan-chuc-eu-20210501071826361.htm
+# date = 20210501
+Đại sứ quán Mỹ tại Moscow (Ảnh: Reuters).
+Reuters đưa tin, điện Kremlin ngày 30/4 đã cáo buộc Mỹ làm gia tăng căng thẳng với những "động thái thiếu thiện chí" sau khi Đại sứ quán Mỹ ở Moscow tuyên sẽ cắt giảm nhân viên và dừng xử lý thị thực cho hầu hết công dân Nga.
+Cơ quan ngoại giao của Mỹ tuyên bố đang cắt giảm 75% nhân viên lãnh sự, và từ ngày 12/5 sẽ ngừng xử lý đơn xin thị thực phi nhập cư cho các chuyến đi không phải vì mục đích ngoại giao tới Mỹ. Trước đó, Nga đã ra yêu cầu giới hạn về số lượng nhân viên người Nga có thể làm việc tại các cơ quan ngoại giao nước ngoài, bao gồm Mỹ.
+Động thái mới nhất của Mỹ đồng nghĩa với việc những người Nga không phải là nhà ngoại giao hoặc người đang xin cấp thẻ xanh sẽ không còn có thể nộp đơn xin thị thực trong nước Nga để đến Mỹ. Thay vào đó, họ sẽ phải nộp đơn xin ở một nước thứ 3 nếu có nhu cầu.
+Trong khi đó, phía Nga cho rằng, lãnh sự quán nước này ở Mỹ vẫn đang tiếp tục cấp thị thực cho công dân Mỹ trong vòng 10 ngày dù Moscow cũng bị cắt giảm nhân viên ngoại giao. Moscow khẳng định, không điều gì có thể ngăn cản Washington bổ sung thêm nhân viên ngoại giao mang quốc tịch Mỹ tới Nga.
+Moscow cho biết hạn ngạch nhân viên ngoại giao Mỹ ở Nga là 455, trong khi Washington hiện mới chỉ có 280 người.
+Phát ngôn viên Điện Kremlin Dmitry Peskov cho hay, quyết định của Mỹ sẽ ít có ảnh hưởng thực tế tới công dân Nga vì ông nói rằng người dân Nga từ trước tới nay vẫn gặp khó khăn trong việc xin thị thực Mỹ.
+Căng thẳng Mỹ - Nga leo thang trong 100 ngày đầu cầm quyền của Tổng thống Mỹ Joe Biden khi Washington ban hành loạt lệnh trừng phạt lên Moscow liên quan tới hàng loạt cáo buộc như can thiệp bầu cử, tấn công mạng - những tuyên bố mà Moscow nhiều lần bác bỏ. Nga cũng tung lệnh trừng phạt đáp trả lại Mỹ.
+Nga trừng phạt quan chức EU
+Ngày 30/4, căng thẳng giữa Nga và Liên minh châu Âu EU cũng tiếp tục leo thang khi Moscow tuyên bố cấm 8 quan chức EU nhập cảnh vào nước này. EU sau đó cảnh báo rằng họ có thể sẽ đáp trả động thái từ Nga.
+Nga tuyên bố động thái mới nhất của họ nhằm trả đũa lệnh trừng phạt mà Hội đồng châu Âu ban hành hồi tháng trước chống lại 4 quan chức an ninh cấp cao của Moscow liên quan tới vụ Nga bắt giam lãnh đạo đối lập Alexei Navalny.
+"EU tiếp tục chính sách áp dụng các biện pháp đơn phương hạn chế bất hợp pháp nhằm vào các công dân và tổ chức Nga. Mục tiêu thực sự của họ là nhằm kìm hãm sự phát triển của Nga bằng bất cứ giá nào", Bộ Ngoại giao Nga cáo buộc.
+EU chỉ trích động thái của Nga, cho rằng điều này là "không thể chấp nhận được" vì thiếu đi "căn cứ pháp lý nào và hoàn toàn vô căn cứ".
+Hồi tháng 3, EU cấm các quan chức cấp cao Nga nhập cảnh vào khối và đóng băng tài sản của họ, bao gồm người đứng đầu Ủy ban Điều tra của Nga Alexander Bastrykin và Tổng công tố viên Nga Igor Krasnov.
+Đức Hoàng
+Theo Reuters, AFP

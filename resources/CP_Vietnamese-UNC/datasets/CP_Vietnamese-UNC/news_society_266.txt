@@ -1,11 +1,9 @@
 # doc_id = news_society_266
-# url = https://dantri.com.vn/xa-hoi/xac-dinh-nguyen-nhan-ca-gian-dieu-hoa-o-chung-cu-roi-xuong-khu-vui-choi-20210428103829546.htm
-# date = 20210428
-7 cục nóng điều hòa rơi xuống khu vui chơi trẻ em tại khu chung cư An Bình.
-Liên quan đến vụ 7 chiếc điều hòa cư rơi xuống khu vui chơi trẻ em, xảy ra tại chung cư An Bình (số 97 Trần Bình, Mỹ Đình 2, Nam Từ Liêm, Hà Nội), sáng 28/4, trao đổi với PV Dân trí, đại diện chủ đầu tư tòa nhà cho biết, sau khi xảy ra sự việc, đơn vị này đã phối hợp cùng lực lượng chức năng làm rõ những vấn đề liên quan.
-"Đây là giàn điều hòa của những doanh nghiệp đang thuê tại tầng 2 tòa nhà. Họ đặt quá nhiều cục nóng vào một vị trí, dẫn đến bung mối hàn giá sắt. Vị trí đặt cục nóng điều hòa này nằm cách mặt đất khoảng 4m", đại diện chủ đầu tư chung cư An Bình nói.
-Cũng theo chủ đầu tư chung cư An Bình, ngay sau khi xảy ra sự việc, đơn vị đã phối hợp với lực lượng chức năngxử lý vụ việc. Đơn vị này cho biết, trong ngày hôm nay sẽ cho rà soát lại toàn bộ các điểm lắp đặt điều hòa khác trong tòa nhà, để tránh xảy ra tình huống tương tự.
-"Có thể do đơn vị vào thuê văn phòng lại lắp đặt cục nóng điều hòa với số lượng lớn gần nhau nên mới gây ra sự cố. Trước đó, các mối hàn tại khu vực giá đỡ cục nóng điều hòa đã đượcnhà thầu và chủ đầu tư kiểm tra. Vì vậy, chúng tôi sẽ làm việc với các bên liên quan để làm rõ nguyên nhân dẫn đến sự cố và trách nhiệm của các bên", đại diện chủ đầu tư nói thêm.
-Sự việc xảy ra vào đêm khuya, ít người đi lại nên không có người bị thương. Sau khi xảy ra vụ việc, lực lượng bảo vệ của chung cư không cho người dân đi qua khu vực nguy hiểm.
-Trước đó, như Dân trí đã đưa tin, khoảng 22h ngày 27/4, bảo vệkhu chung cư An Bình nghe thấy tiếng động lớn phía sau nhà, chạy ra thì phát hiện giàn điều hòa rơi xuống khu vui chơi trẻ em.
-Trần Thanh
+# url = https://dantri.com.vn/xa-hoi/xe-khach-huc-vao-duoi-xe-may-mot-nguoi-dan-ong-chet-tai-cho-20210426182859877.htm
+# date = 20210426
+Vào khoảng 14h30 ngày 26/4, xe khách BKS 51B-504.66, đang lưu thông theo hướng miền Tây về TPHCM. Khi đến khu vực dốc Cầu Ván, đoạn km 1939+400m quốc lộ 1 (thuộc địa phận ấp 2, xã Nhựt Chánh, huyện Bến Lức, tỉnh Long An) đã xảy ra va chạm với xe máy BKS 63B9-473.03, đang di chuyển phía trước, cùng chiều.
+Cú va chạm đã làm cho người điều khiển xe máy bị văng khỏi xe gần 10m và tử vong tại chỗ. Sau khi gây tai nạn chết người, tài xế xe khách đã cầm giấy tờ tùy thân đến công an huyện trình báo sự việc.
+Tại hiện trường, vị trí xe khách gây tai nạn nằm sát lề làn đường dành cho xe máy và phương tiện thô sơ.
+Nạn nhân không mang theo giấy tờ tùy thân nên vẫn chưa xác định được danh tính, địa chỉ nơi cư trú.
+Hiện lực lượng chức năng huyện Bến Lức (Long An) đang tiến hành khám nghiệm hiện trường vụ tai nạn, đồng thời truy tìm tung tích nạn nhân.
+Nam Thái

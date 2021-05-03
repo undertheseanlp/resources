@@ -1,12 +1,14 @@
 # doc_id = news_sport_206
-# url = https://dantri.com.vn/the-thao/premier-league-trung-phat-cac-doi-bong-gia-nhap-european-super-league-20210422074609449.htm
-# date = 20210422
-Trước sức ép của dư luận, cả 6 đội bóng Anh gồm Man Utd, Man City, Liverpool, Arsenal, Chelsea và Tottenham quyết định rút khỏi European Super League. Atletico, AC Milan, Inter Milan, Juventus đã có động thái tương tự và giải đấu này chứng kiến 10/12 đội bóng rút lui (chỉ còn lại Real Madrid, Barcelona).
-Dù nhóm "Big Six" ở giải Anh đưa ra động thái kịp thời, nhưng Ban tổ chức Premier League vẫn có động thái trừng phạt. Theo tờ Sky Sports, Giám đốc Điều hành (GĐĐH) Richard Masters của Premier League quyết định loại thành viên của Man Utd, Man City, Chelsea, Arsenal và Liverpool khỏi các ban điều hành giải đấu.
-Giám đốc Điều hành (GĐĐH) Richard Masters của Premier League quyết định loại thành viên của MU, Man City, Chelsea, Arsenal và Liverpool khỏi các ban điều hành giải đấu.
-Tottenham hiện không có thành viên trong tổ chức nên họ không có nhân vật bị mất chức. Mặc dù vậy, ảnh hưởng của Spurs với Premier League không phải quá lớn.
-Những người bị yêu cầu thôi chức là Bruce Buck (Chủ tịch Chelsea), Vinai Venkatesham (Giám đốc điều hành Arsenal), Ferran Soriano (Giám đốc điều hành Man City), Ed Woodward (Phó chủ tịch Man Utd) và Tom Werner (Giám đốc điều hành Liverpool). Trong trường hợp tất cả không từ chức, Premier League sẽ ra lệnh sa thải.
-Chủ tịch CLB Chelsea, Bruce Buck được xem như nhân vật không thể thay thế ở Premier League. Ông đang giữ cương vị chủ tịch Ủy ban Đề cử Premier League và nắm vai trò quan trọng để Richard Masters được giữ ghế Giám đốc điều hành Premier League.
-Việc "trảm" thành viên của nhóm các đội bóng lớn này là động thái cứng rắn của Premier League, nhằm tránh nguy cơ giải đấu bị phá vỡ nếu các đội bóng như Man Utd, Man City, Liverpool, Arsenal, Chelsea, Tottenham có động thái bất ngờ.
-Trước đó, 14 đội bóng còn lại ở Premier League rất tức giận khi 6 CLB lớn nhất nước Anh gia nhập European Super League. Quyết định của Giám đốc Điều hành (GĐĐH) Richard Masters nhận được sự ủng hộ tuyệt đối của nhóm 14 CLB trên ở Premier League.
-Thùy Anh
+# url = https://dantri.com.vn/the-thao/quyet-dau-doi-tuyen-viet-nam-indonesia-trieu-tap-cau-thu-goc-ha-lan-20210427080815362.htm
+# date = 20210427
+Liên đoàn Bóng đá Indonesia (PSSI) đã công bố danh sách sơ bộ 34 cầu thủ được triệu tập chuẩn bị cho vòng loại World Cup 2022 khu vực châu Á diễn ra tại UAE vào tháng 6 tới.
+Trung vệ Otavio Dutra, người từng góp mặt trong trận gặp tuyển Việt Nam cuối năm 2019 đã không được triệu tập và tiền vệ Marc Klok là cầu thủ nhập tịch duy nhất được gọi lên tuyển trong đợt tập trung lần này.
+HLV Shin Tae Yong gọi duy nhất cầu thủ nhập tịch Marc Klok lên tuyển chuẩn bị cho vòng loại World Cup 2022
+Marc Klok sinh năm 1993 tại Hà Lan và đang khoác áo CLB Persija Jakarta ở giải VĐQG Indonesia. Anh được PSSI tạo điều kiện hoàn tất nhanh chóng thủ tục nhập tịch để chính thức trở thành công dân Indonesia từ cuối năm 2020.Sau một năm bóng đá Indonesia chịu ảnh hưởng của đại dịch Covid-19, Marc Klok vẫn sở hữu phong độ cao.
+Tại giải giao hữu Menpora Cup 2021, Marc được bầu chọn là cầu thủ hay nhất với 1 bàn thắng và 2 kiến tạo.Nòng cốt của đội tuyển Indonesia dự vòng loại World Cup vẫn là những gương mặt quen thuộc giành huy chương Bạc môn bóng đá nam SEA Games 30 (thua Việt Nam ở chung kết), bao gồm Osvaldo Haay, Evan Dimas, Egy Maulana Vikri hay Witan Sulaeman. Bên cạnh đó sự xuất hiện đáng chờ đợi của cầu thủ trẻ đang chơi bóng ở Anh Elkan Baggot.
+Dự kiến tuyển Indonesia sẽ tập trung từ cuối tháng 5 tại thủ đô Jakarta. Sau đó, thầy trò HLV Shin Tae Yong sẽ bay sang Dubai (UAE) để đá hai trận giao hữu với Afghanistan và Oman trước khi bước vào vòng loại WorldCup 2022.
+Đội tuyển Việt Nam cần đánh bại Indonesia để chắc suất đi tiếp vào vòng 12 đội mạnh nhất châu Á
+Tại bảng G, tuyển Indonesia sẽ còn 3 trận nữa, lần lượt chạm trán Thái Lan, Việt Nam và UAE vào ngày 3/6, 7/6 và 11/6. Tuy nhiên Indonesia đã chính thức không còn cơ hội cạnh tranh tấm vé vào vòng loại thứ 3 nên họ chỉ coi các trận còn lại là cơ hội để rèn quân, luyện chiến thuật hướng đến những giải đấu sau như VCK AFF Cup 2020.
+Trong khi đó đội tuyển Việt Nam đang chiếm lợi thế trong cuộc đua giành quyền vào vòng loại thứ 3 với vị trí đầu bảng, nhưng thầy trò HLV Park Hang Seo sẽ không được phép chủ quan, đặc biệt đặt mục tiêu giành trọn 3 điểm trước Indonesia để đảm bảo giành tấm vé vào vòng loại 12 đội mạnh nhất châu Á.
+Bảng xếp hạng bảng G vòng loại World Cup 2022 khu vực châu Á
+Sông Lam

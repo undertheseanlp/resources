@@ -1,24 +1,13 @@
 # doc_id = news_health_183
-# url = https://dantri.com.vn/suc-khoe/nhung-thoi-quen-xau-lam-giam-phong-do-quy-ong-20210426160703730.htm
-# date = 20210426
-Thói quen sinh hoạt tình dục
-Việc sinh hoạt tình dục bừa bãi, mất kiểm soát cũng là nguyên nhân gây yếu sinh lý. Khi quan hệ tình dục, sinh lực của đàn ông sẽ bị hao tổn, do đó cần có thời gian nghỉ ngơi để phục hồi sức khỏe.
-Quan hệ tình dục quá nhiều sẽ khiến nam giới mệt mỏi, giảm ham muốn. Nếu tình trạng này diễn ra trong thời gian dài có thể làm rối loạn chức năng tình dục hay suy giảm khả năng sinh lý ở nam giới.
-Đời sống tình dục ở ngoài đời thường đôi khi không giống trên phim ảnh. Thế nên nghiện xem phim sex cũng không tốt. Nó dẫn đến tâm lý kỳ vọng và ảo tưởng trong quá trình quan hệ.
-Hút thuốc lá
-Hút thuốc lá có hại cho sức khỏe, là nguyên nhân của nhiều căn bệnh nguy hiểm như tim mạch, phổi, ung thư... Không những thế, chất nicotine có trong thuốc lá có thể làm giảm sự hưng phấn của nam giới trong chuyện vợ chồng. Bên cạnh đó, hút thuốc lá nhiều cũng ảnh hưởng đến khả năng sinh sản của đàn ông.
-Hút thuốc còn có thể gây giảm sút chất lượng và số lượng tinh trùng được sản xuất. Hút thuốc lá còn ảnh hưởng đến tỷ lệ tử vong và khả năng di chuyển của tinh trùng.
-Tập thể dục giúp tăng lượng testosterone, làm tăng ham muốn tình dục.
-Lạm dụng bia rượu
-Uống nhiều rượu bia sẽ làm suy giảm khả năng sản sinh testosterone - hormon sinh dục nam. Ngoài ra, thường xuyên sử dụng rượu bia, đồ uống có cồn sẽ làm ức chế trung khu thần kinh khiến ham muốn tình dục suy giảm, gây rối loạn chức năng sinh dục ở nam giới, teo tinh hoàn...
-Ngoài ra, việc lạm dụng rượu bia cũng ảnh hưởng rất xấu đến chất lượng tinh trùng, làm giảm khả năng sinh sản ở nam giới, ảnh hưởng lớn đến thế hệ sau. Nếu người đàn ông quan hệ khi say rượu, có thể dẫn đến việc mất tự chủ. Họ có thể xuất tinh sớm hoặc không thể xuất tinh do bị ức chế thần kinh.
-Không rèn luyện thân thể
-Các ông sẵn sàng đi nhậu nhẹt tối ngày nhưng lại không dành thời gian rèn luyện thân thể bằng việc chơi một vài môn thể thao, đi bộ, bơi, tập gym... Tập thể dục là cách thức tự nhiên giúp tăng lượng testosterone, làm tăng ham muốn tình dục ở cả nam và nữ.
-Rèn luyện thể dục thể thao làm tăng lưu lượng máu, giảm cholesterol, kích thích ham muốn. Tập thể dục làm tăng lưu thông máu và làm cho quá trình cương cứng diễn ra lâu hơn giúp kéo dài thời gian quan hệ ở những người mắc chứng rối loạn cương dương.
-Nhịn sex
-Tình dục điều độ sẽ rất có lợi cho sức khỏe. Nó thúc đẩy hệ miễn dịch và tăng sức đề kháng, giảm mệt mỏi bởi vì nó như một hình thức tập luyện thể dục. Ngoài ra, nó còn kích thích sự lưu thông tuần hoàn của mạch máu đến tim, bảo vệ bộ não, tăng tuổi thọ, giúp các cơ bắp, xương cốt được vận động dễ dàng hơn...
-Ngược lại, khi thiếu sex, hoặc tình dục không được thỏa mãn, thì con người luôn cảm thấy bực bội, cáu kỉnh, bứt rứt, khó chịu. Không hài lòng đối với các việc làm của mình, luôn trong trạng thái áp lực đè nén. Khó tính, không kiềm chế được nỗi giận dữ của bản thân... Hiệu quả công việc và chất lượng sống vì thế cũng giảm hẳn. Không khí gia đình căng thẳng, dễ dẫn đến ngoại tình.
-Trên thực tế, nam giới có thể nhịn sex không quá 3 tuần. Nữ giới thời gian chịu đựng lâu hơn (do bận rộn, con nhỏ...), tuy nhiên không quá 2 tháng (đặc biệt đối với người trẻ không nên nhịn sex). Thiếu sex sẽ ảnh hưởng đến sức khỏe, gây ra các bệnh về tuyến tiền liệt, túi tinh... Không được thỏa mãn sex sẽ gây ra những ảnh hưởng tới hệ thần kinh trung ương, làm ức chế tâm lý
-Tình dục là một phần quan trọng của cuộc sống. Vì vậy, để giữ gìn hạnh phúc gia đình và sức khỏe của bản thân, nên sắp xếp công việc hợp lý, đừng để ảnh hưởng đến đời sống tình dục.
-"Yêu" đều đặn cũng là một cách giữ sức khỏe, sức trẻ tối ưu mà không cần đến nhiều lý trí như các môn thể thao khác.
-Theo Sức khỏe & Đời sống
+# url = https://dantri.com.vn/suc-khoe/noi-am-anh-6-nam-duoi-lop-khan-che-mat-cua-co-gai-tre-20210428100144048.htm
+# date = 20210428
+Bệnh nhân N.T.T. (24 tuổi, Nghệ An) cho biết, từ năm 19 tuổi, dưới miệng cô xuất hiện nốt nhỏ như hạt gạo, rất nhỏ. Hạt gạo này lớn dần lên nhưng chưa lầnnào T. đi khám. Đến khi ăn uống khó khăn, không thể ăn cơm chỉ ăn được đồ nước như cháo, sữa, rồi không thể nằm nghiêng vì khối u đè nặng, đánh răng cũng khó khăn... cô gái tìm giải pháp mua một chiếc khăn to, bịt kín hết cả mặt và khối u để mọi người không tò mò, chỉ trỏ mỗi khi nhìn thấy cô.
+Rồi cũng qua 6 năm cô gái giấu kỹ gương mặt, khối u dưới lớp khăn che kín mít. Nhưng khối u ngày càng lớn hơn, đến mức mệt mỏi, suy dinh dưỡng chỉ nặng 40kg, khối u nặng như muốn kéo cô gái xuống... lúc này cô mới đến bệnh viện khám.
+PGS.TS. Vũ Ngọc Lâm, Giám đốc Trung tâm Phẫu thuật sọ mặt và tạo hình, Bệnh viện Trung ương Quân đội 108 cho biết, bệnh nhân T. nhập viện trong tình trạng sức khỏe yếu, khối u vùng xương hàm lớn, gây biến dạng xương hàm dưới và mặt; há miệng hạn chế. Bệnh nhân được chẩn đoán bị khối u men khổng lồ xương hàm dưới, cần phải phẫu thuật.
+PGS Lâm cho biết, ngay thời điểm chỉ định phẫu thuật, các bác sĩ đã xác định đây là một trường hợp khó, nhiều khó khăn. Bởi khối u phát triển rất to, to tương đương đầu của bệnh nhân. Trong khi đó khối u có hệ thống mạch máu rất giàu, phong phú, vì thế, khi cắt khối u sẽ gây nên chảy máu.
+"Ngoài ra một vấn đề đau đầu khác, đó là khi cắt bỏ khối u, toàn bộ vùng hàmdưới bị khuyết, hổng, sẽ phải xử lý như thế nào?", PGS Lâm nói.
+Sau khi tiến hành hội chẩn, đánh giá kỹ, các bác sĩ quyết định can thiệp phẫu thuật. Sau ca mổ diễn ra trong gần 6 tiếng đồng hồ, các bác sĩ đã cắt thành công khối u và xử lý vùng khuyết hàm.
+PGS Lâm cho biết, khi kiểm soát được tình trạng chảy máu, các bác sĩ cắt bỏ khối u, với lượng máu chảy mất khoảng 3 lít. Lượng máu này là khá nhiều so với một cuộc mổ thông thường, nhưng với khối u khủng này, đây lại là một giới hạn tốt, cho phép các bác sĩ tiếp tục phẫu thuật tạo hình phần khuyết xương.
+Các bác sĩ đã sử dụng xương ở cẳng chân (xương mác) để thay thế phần xương hàm dưới bị mất đoạn.
+Sau ca mổ, bệnh nhân ổn định, ăn uống tốt hơn. "Điều em mừng nhất từ nay không phải giấu mình dưới lớp khăn che mặt dày cộp, em có thể tự tin đi ra ngoài, ăn uống bình thường", T. chia sẻ.
+Hải Minh

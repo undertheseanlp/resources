@@ -1,11 +1,24 @@
 # doc_id = news_society_113
-# url = https://dantri.com.vn/xa-hoi/du-khach-nigeria-mat-tich-khi-tham-quan-thac-nuoc-o-dak-nong-20210426102605853.htm
-# date = 20210426
-Trưa 26/4, lãnh đạo UBND xã Đắk Sôr (huyện Krông Nô, Đắk Nông) cho biết, lực lượng chức năng tỉnh Đắk Nông đã tìm thấy nam du khách 36 tuổi tên tên R.A.C., quốc tịch Nigeria, mất tích khi tham quan thác Đray Sap.
-Được biết, chiều 24/4, nam du khách ngoại quốc cùng chị T.T.C.H. (ở TPHCM) đến Khu du lịch Đray Sap tham quan và xuống chơi dưới thác nước. Sau đó, người phụ nữ không thấy nam du khách quay trở lại nên nghi ngờ anh này bị rơi xuống thác nước.
-Thác Đray Sap - nơi nam du khách mang quốc tịch Nigeria mất tích.
-Ngay sau đó, người phụ nữ trên đã báo sự việc với đội quản lý khu du lịch Đray Sap để tổ chức tìm kiếm du khách nước ngoài.
-Theo lãnh đạo UBND xã Đắk Sôr, thời tiết 2 ngày qua khá thuận lợi nên không ảnh hưởng nhiều đến quá trình tìm kiếm du khách mất tích. Sau 2 ngày tìm kiếm, trưa nay 26/4, lực lượng chức năng đã tìm thấy thi thể của nạn nhân R.A.G. Thi thể được phát hiện bị kẹt lại tại hai mỏm đá, ngay dưới chân thác nước.
-Lãnh đạo xã thông tin thêm, ngày 24/4, chị T.T.C.H. cùng bạn trai ngoại quốc đến khu du lịch sinh thái cụm thác Đray Sap - Gia Long tham quan du lịch. Cả hai người đi bộ qua cầu treo và lên đầu thác chơi.Lúc này anh R.A.G. dùng flycam quay lại cảnh thác, sau đó anh để máy quay tự động rồi đặt bộ điều khiển gần chỗ chị H. để đi xuống dưới thác nước.
-Một lúc sau, chị H. thấy màn hình bộ điểu khiển mất tín hiệu nên đi tìm bạn trai nhưng không thấy, liền báo lực lượng chức năng.
-Dương Phong
+# url = https://dantri.com.vn/xa-hoi/dung-leu-trai-trong-cong-vien-de-vua-duoc-vui-choi-vua-cach-ly-voi-dam-dong-20210430152738151.htm
+# date = 20210430
+Người dân TP. HCM dựng lều trại trong công viên để vừa được vui chơi vừa cách ly với đám đông xung quanh
+Ngày đầu kỳ nghỉ lễ, nhiều khách ghé thăm Thảo Cầm Viên đã mang theo lều bạt, ô dù để cắm trại cho gia đình nơi vắng vẻ để vừa được vui chơi và như một biện pháp giữ khoảng cách an toàn với những người xung quanh.
+Sáng 30/4,tại khu vui chơi Thảo Cầm Viên (Quận 1), ban quản lý dựng biển báo ngay trước cổng yêu cầu người dân phải rửa tay, mang khẩu trang trước khi vào khu vui chơi.
+Người dân tới khu vui chơi trong dịp lễ chủ động đeo khẩu trang, tự giác sát khuẩn tay bằng dung dịch được chuẩn bị sẵn.
+Theo một số nhân viên tại Thảo Cầm Viên, năm nay lễ 30/4 trúng thời điểm TP.HCM xuất hiện một số ca nhiễm Covid-19 nên lượng khách về vui chơi giảm đi rất nhiều, khoảng hơn một nửa so với những năm chưa có dịch.
+Tuy nhiên, nhiều người quan điểm nếu áp dụng các biện pháp phòng dịch, kháng khuẩn theo quy địnhthì những ngày này vẫn có thể ra đường vui chơi, đón lễ nhưng phải rất thận trọng.
+Bà Hoàng Vân (quận 4, TP.HCM) cho biết đợt nghỉ lễ nào bà cùng gia đình cũng tới Thảo Cầm Viên để vui chơi. "Do dịch khá phức tạo nên tôi và gia đình không đi chơi xa ngoài tỉnh. Cũng khá lo lắng khi tới nơi đông người, nhưng vì chả mấy khi được nghỉ lễ, nên cũng phải đưa các cháu nhỏ trong nhà ra ngoài cho thảnh thơi một chút", bà Vân nói.
+Anh Trần Hoàn Mỹ (quận 8) cho biết đợt lễ này gia đình cũng không thể đi chơi xa như mọi năm được vì Covid-19. "Nhà có sẵn lều trại nên gia đình tôi cùng mấy đứa em đưa các con ra đây chơi. Cũng khá lo lắng vì dịch đang căng thẳng trở lại, tới đây thì cũng kiếm chỗ vắng để dựng trại tách biệt với số đông còn lại, nhắc vợ con chú ý giữ khoảng cách và mang khẩu trang đầy đủ, khôngtới chỗ đông người để đảm bảo an toàn", anh Mỹ cho hay.
+Ghi nhận trong sáng và trưa nay, có khá nhiều người dân mang lều võng, ô dù vào Thảo Cầm Viên để cắm trại, nghỉ ngơi, chống nắng. Đây được coi là một biện pháp cách ly nhất thời giữa các gia đình nhỏ với xung quanh trong công viên rộng lớn và đông người.
+Đến trưa, lượng du khách đổ về Thảo Cầm Viên mỗi lúc một đông hơn. Những khu vực có chiếu nghỉ, bóng mát được lựa chọn là nơi tụ tập để ăn uống, tránh nắng và nghỉ ngơi. Biện pháp phòng dịch hạn chế tập trung đông người đã bị lơ là, bỏ ngõ.
+Khu vực tham quan vườn thú bắt đầu đông đúc, tấp nập người qua lại.
+Cũng trong sáng nay, tại công viên văn hóa Đầm Sen (quận 11, TP.HCM) diễn ra nhiều hoạt động vui chơi nhân dịp nghỉ lễ 30/4, tuy nhiên không khí ở đây khá vắng vẻ.
+Các biện pháp phòng dịch được ban quản lý công viên yêu cầu khách tham quan thực hiện nghiêm ngặt như đeo khẩu trang, sát khuẩn tay, đo thân nhiệt, tránh tập trung đông người tại một điểm...
+Nhân viên y tế mặc đồ bảo hộ, túc trực tại khu vui chơi Đầm Sen để kiểm tra những trường hợp có thân nhiệt cao, hoặc triệu chứng bất thường khi tới khu vui chơi. Tuy nhiên do lượng khách quá vắng nên những nhân viên này luôn trong tình trạng "thất nghiệp".
+Đến 10h trưa, bên trong quảng trường ở khu vui chơi này vẫn khá vắng vẻ, thậm chí vắng hơn cả những ngày bình thường.
+Các khu trò chơi cũng trong tình trạng đìu hiu, khách tới chơi thưa thớt.
+Khu vực cửa soát vé cũng không còn cảnh chen lấn, xếp hàng dài như những năm trước đây.
+Quyết định trên được Chủ tịch UBND TPHCM Nguyễn Thành Phong đưa ra tại cuộc họp Ban chỉ đạo phòng chống dịch Covid-19 TPHCM trưa 30/4, sau khi TPHCM ghi nhận 1 trường hợp nghi nhiễm, sau 75 ngày không xuất hiện ca bệnh trong cộng đồng.Đó là bệnh nhân 2910 tại quận Bình Tân cũng là một trong những ca F1 của ca bệnh ở Hà Nam.
+Liên quan đến bệnh nhân 2910, tối qua cơ quan chức năng TPHCM cũng đã nhanh chóng phong tỏa hẻm 20 đường Phạm Đăng Giảng, quận Bình Tân. Nơi đây có 19 phòng trọ và 57 cư dân.
+Như vậy, sau khi được mở cửa hoạt động bình thường khoảng một tháng rưỡi qua (19/3), đến hôm nay (30/4), các quán bar, vũ trường và karaoke tại TPHCM sẽ tạm thời ngừng hoạt động để triển khai các biện pháp phòng, chống dịch Covid19 khi dịch bệnh này đang có diễn biến phức tạp trở lại.
+Hải Long

@@ -1,30 +1,15 @@
 # doc_id = news_sport_213
-# url = https://dantri.com.vn/the-thao/real-madrid-bi-co-dong-vien-cadiz-tan-cong-trong-ngay-len-ngoi-dau-la-liga-20210422063116418.htm
-# date = 20210422
-Trong giai đoạn cuối mùa giải năm nay, Real Madrid đang chơi đầy thăng hoa. Họ giành chiến thắng ở cả Siêu kinh điển (La Liga) lẫn hai trận đấu với Liverpool (tứ kết Champions League) và đang nuôi mộng giành cú đúp danh hiệu mùa giải này.
-Cổ động viên Cadiz phản ứng dữ dội...
-... và ném pháo sáng phản đối Real Madrid.
-Tuy nhiên, Real Madrid gây sốc khi tham gia liên minh European Super League. Thậm chí, Chủ tịch Florentino Perez còn là người đứng đầu tổ chức này và có nhiều tuyên bố thách thức nhằm vào UEFA, FIFA.
-Ngày hôm qua, 8/12 đội bóng đã tuyên bố rút khỏi siêu giải đấu này. Tuy nhiên Real Madrid vẫn không có bất kỳ động thái nào và chính điều đó khiến họ vấp phải sự phẫn nộ của cổ động viên Cadiz.
-Cổ động viên Cadiz chặn đường tấn công cầu thủ Real Madrid.
-Người hâm mộ La Liga tức giận khi Real Madrid gia nhập European Super League.
-Các cổ động viên Cadiz đã chặn xe bus và tấn công cầu thủ Real Madrid. Trước trận đấu, các cầu thủ Cadiz cũng phản ứng dữ dội quyết định của Real Madrid, điều sẽ ảnh hưởng lớn đến bóng đá châu Âu thời điểm này.
-Cầu thủ Cadiz cũng phản ứng khi Real Madrid gia nhập European Super League.
-Dù chịu nhiều sức ép, Real Madrid vẫn đánh bại Cadiz 3-0 ngay trên sân khách. Benzema tỏa sáng với cú đúp, bàn thắng còn lại thuộc về hậu vệ phải Odriozola.
-Real Madrid tạm thời vươn lên dẫn đầu La Liga với 70 điểm/32 trận, hơn Atletico về tỷ số đối đầu. Kết quả này khiến Atletico chịu áp lực rất lớn khi hành quân đến sân của Bilbao đêm nay.
-Benzema đá phạt đền thành công mở tỷ số cho Real Madrid.
-Trở lại diễn biến trận đấu, Cadiz đã hơn khu vực nguy hiểm tới 9 điểm và khó có khả năng xuống hạng. Chính vì thế, họ không quá quyết tâm ở trận đấu ở vòng 32 La Liga này trong khi Real Madrid cần điểm để đua vô địch La Liga.
-Odriozola đánh đầu chính xác nâng tỷ số lên 2-0 cho Real Madrid.
-HLV Zinedine Zidane đã tung ra một đội hình Real Madrid khá lạ lẫm trong đó có sự góp mặt của cầu thủ trẻ Antonio Blanco. Chính vì thế, trong những phút đầu Cadiz đã chơi tương đối khởi sắc nhờ khả năng uy hiếp của trung phong Alvaro Negredo.
-Niềm vui của Odriozola trong lần hiếm hoi được đá chính.
-Nhưng sai lầm của hàng thủ lại khiến đội chủ nhà phải trả giá. Phút 27, Isaac Carcelen dẫm lên chân của Vinicius trong vòng cấm Cadiz, Real Madrid được hưởng penalty và Benzema mở tỷ số 1-0 sau khi đánh bại thủ môn Ledesma.
-Bàn thua đó mở đầu cho một màn sụp đổ của Cadiz kéo dài 10 phút. Phút 33, Marcelo giúp đội khách cướp lại bóng sau một cú chọc khe hỏng trước khi Benzema tạt vào chuẩn xác cho Odriozola đánh đầu đập đất thành bàn nhân đôi cách biệt lên 2-0 cho Real Madrid.
-Benzema ấn định chiến thắng 3-0 cho Real Madrid ở cuối hiệp 1.
-Và đến phút 40 bàn thắng thứ 3 được ghi cho đội khách nhờ cú bấm bóng tốt của Casemiro cho Benzema đánh đầu cận thành. Ngôi sao người Pháp hoàn tất cú đúp và thể hiện phong độ cao ở các trận đấu vừa qua.
-Benzema tỏa sáng với cú đúp vào lưới Cadiz.
-Ngôi sao người Pháp giúp Real Madrid sống lại hy vọng vô địch La Liga năm nay.
-Dẫn 3-0 chỉ sau hiệp 1 khiến Real Madrid chơi khá nhàn nhã trong hiệp 2 và Zidane rút dần các cầu thủ đá chính. Cadiz cũng không cho thấy động lực quá cao, họ chơi nhạt nhòa và không tạo ra được cơ hội nào.
-Đoàn quân HLV Zidane tạm thời vươn lên dẫn đầu La Liga năm nay.
-Một số cơ hội nhỏ vẫn xuất hiện nhưng chủ yếu cho Real Madrid, tuy nhiên Rodrygo lẫn Marcelo đều không dứt điểm chính xác. Real Madrid bảo toàn chiến thắng 3-0 chung cuộc và kết quả này đủ khiến HLV Zidane hài lòng.
-Bảng xếp hạng tạm thời ở La Liga.
-Thùy Anh
+# url = https://dantri.com.vn/the-thao/real-madrid-co-nguy-co-bi-uefa-tru-dap-hlv-zidane-tuyen-bo-danh-thep-20210427084032044.htm
+# date = 20210427
+Như đã biết, trong thời gian qua, Real Madrid đã đặt mình vào thế đối đầu với UEFA khi nằm trong nhóm sáng lập European Super League. Bất chấp việc 8 CLB đã rút lui khỏi dự án này, Real Madrid (vẫn cùng Barcelona, AC Milan và Juventus) vẫn nhất quyết bám trụ lại giải đấu và đối đầu trực tiếp với UEFA.
+HLV Zidane cho rằng các trọng tài sẽ làm việc công tâm, đúng trách nhiệm.
+Mới đây, Chủ tịch UEFA, Aleksander Ceferin đã lên tiếng cảnh báo sẽ loại Real Madrid ra khỏi Champions League mùa giải tới nếu như không rút khỏi European Super League. Tuy nhiên, người đứng đầu đội bóng, Florentino Perez nhất quyết chống đối.
+Điều đó khiến người ta lo ngại rằng Real Madrid có thể bị UEFA "trù dập" trong trận đấu với Chelsea ở bán kết lượt đi Champions League. Mặc dù vậy, khi được hỏi về điều này, HLV Zidane vẫn tỏ ra bình thản.
+Ông cho rằng các trọng tài sẽ làm đúng với trách nhiệm của mình và không làm khó Real Madrid. HLV người Pháp chia sẻ: "Chúng tôi chỉ quan tâm tới việc thi đấu sao cho tốt nhất. Còn vấn đề trọng tài, tôi không quá lo lắng. Họ sẽ làm đúng với trách nhiệm của mình.
+Nếu như đầu óc chỉ nghĩ tới những điều tiêu cực thì chỉ làm hại đội bóng thôi. Nó chỉ khiến cho mọi thứ rối tung lên. Real Madrid sẽ bước vào trận đấu với quyết tâm cao nhất, mà không quan tâm tới những thứ ngoài lề.
+Ông không cho rằng UEFA sẽ loại Real Madrid ra khỏi Champions League mùa giải tới.
+HLV Zidane cũng không tin rằng Real Madrid sẽ bị loại khỏi Champions League mùa giải tới. Ông nói thêm: "Tôi không tin rằng UEFA sẽ loại Real Madrid ra khỏi Champions League mùa giải tới.
+Nhưng dù sao, đó là câu chuyện xa xôi. Giờ đây, chúng tôi chỉ muốn tập trung vào trận đấu với Chelsea. Chúng tôi không thể kiểm soát được miệng lưỡi người đời. Về quan điểm cá nhân, tôi muốn Real Madrid thi đấu ở Champions League năm sau. Nếu không làm được điều đó thì sẽ là điều thiệt thòi.
+Còn ở mùa giải này, Real Madrid vẫn còn hai mục tiêu ở La Liga và Champions League. Không có chuyện chúng tôi sẽ bỏ mục tiêu nào. Chúng tôi đang gặp những khó khăn nhất định nhưng rất khát khao giành cả hai chức vô địch. Toàn đội sẽ chiến đấu tới những phút cuối cùng".
+Trận đấu lượt đi bán kết Champions League giữa Real Madrid và Chelsea sẽ diễn ra vào lúc 02h00 ngày 28/4 (theo giờ Việt Nam) tại sân Di Stefano.
+H.Long

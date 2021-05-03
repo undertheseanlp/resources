@@ -1,11 +1,22 @@
 # doc_id = news_society_244
-# url = https://dantri.com.vn/xa-hoi/tphcm-phong-toa-khu-nha-23-phong-tro-lien-quan-ca-nghi-mac-covid-19-20210429225814195.htm
+# url = https://dantri.com.vn/xa-hoi/trai-voi-du-doan-san-bay-noi-bai-bat-ngo-vang-khach-do-lo-ngai-dich-benh-20210429193851679.htm
 # date = 20210429
-Tối 29/4, Công an phường Bình Hưng Hòa (quận Bình Tân, TPHCM) đang phong tỏa căn nhà, đồng thời là khu nhà trọ 23 phòng trên đường Phạm Đăng Giảng do có ca nghi mắc Covid-19. Đây là trường hợp F1 của ca bệnh vừa phát hiện ở Hà Nam.
-Ghi nhận của PV Dân trí, rào chắn được đặt ngay đầu cổng khu nhà trọ, người lạ không được vào trong và người bên trong không được ra ngoài.
-Các nhân viên y tế mặc đồ bảo hộ lấy lời khai y tế của những người thuê trọ bên trong, đồng thời phun thuốc khử trùng. Hơn 3 giờ làm việc, các nhân viên y tế mới lấy xong lời khai y tế của những người liên quan tại đây.
-Anh Trịnh Thụy Lang (chủ nhà trọ) cho biết, khu nhà trọ này có 23 phòng và 20 phòng có người thuê. Trung bình mỗi phòng có khoảng 4 người cùng ở.
-Trước đó vào chiều cùng ngày, Trung tâm kiểm soát bệnh tật TPHCM (HCDC), cho biết trên địa bàn thành phố ghi nhận 1 trường hợp nghi nhiễm Covid-19 mới.
-Trường hợp này là nam giới, sinh năm 1993, tiếp xúc gần với trường hợp dương tính với SARS-CoV-2 sau cách ly tại tỉnh Hà Nam.
-Theo kết quả điều tra, có 5 trường hợp tiếp xúc với trường hợp nghi nhiễm này. Tất cả trường hợp tiếp xúc đã được cách ly tập trung, lấy mẫu chờ kết quả xét nghiệm.
-Hoàng Thuận
+Ghi nhận vào khoảng 16h chiều nay, khu vực lối lên cầu dẫn tới địa điểm trả khách đi quốc nội của nhà ga T1 (sân bay Nội Bài), lượng xe thưa thớt, vắng vẻ.
+Lượng xe không quá nhiều nên việc điều hướng xe vào khu vực trả khách của nhân viên an ninh có mặt không gặp nhiều khó khăn.
+Tại khu vực đón khách dưới sảnh tầng 1, hành khách cũng không phải chờ đợi quá lâu để bắt được xe.
+Khu vực soát vé cũng không còn nhộn nhịp và xếp hàng dài như những dịp nghỉ lễ trước đây.
+Bên trong ga đi quốc nội T1 khá vắng vẻ.
+Người dân chủ động việc đeo khẩu trang phòng dịch theo đúng chỉ đạo của Bộ y tế trong bối cảnh dịch bệnh các nước quanh khu vực khá phức tạp.
+Các em nhỏ cũng được bố mẹ hướng dẫn thực hiện việc đeo khẩu trang nghiêm túc.
+Tình hình dịch bệnh Covid-19 đáng lo ngại đang bùng phát trở lại tại Hà Nam ngày hôm nay có thể là lý do khiến nhiều hành khách hủy chuyến.
+Nhân viên cũng hướng dẫn khách du lịch thực hiện việc xếp hàng và vị trí lối ra quầy làm thủ tục theo đúng quy định.
+Nước sát khuẩn được chuẩn bị sẵn cho hành khách sử dụng tại bàn khai báo y tế trước quầy check-in.
+Bảng hướng dẫn khai báo y tế trực tuyến cũng được bố trí bên cạnh lối vào quầy làm thủ tục. Cảng Nội Bài phối hợp chặt chẽ với các hãng hàng không để kiểm soát tốt việc khai báo y tế. Ngoài nhân sự của hãng hàng không tại quầy thủ tục, kiosk check-in, trước khu vực vào soi chiếu an ninh, Cảng HKQT Nội Bài còn bố trí đội thanh niên xung kích hỗ trợ khách khai báo y tế.
+Tình trạng vắng vẻ xảy ra ở nhiều khu vực làm thủ tục của các hãng hàng không. Hiện nay, nhà ga quốc nội T1 hiện có 102 quầy thủ tục, có khả năng phục vụ được đến 3.060 khách/giờ. Ngoài ra, nhà ga hành khách T1 còn 11 quầy thủ tục dự phòng tại khu vực Sảnh E nhằm đảm bảo giải tỏa hành khách khi có nhu cầu.
+Ghi nhận khoảng 5h chiều, lượng khách làm thủ tục tại các quầy của hãng hàng không Bamboo Airways khá thưa thớt, khách du lịch không cần xếp hàng dài chờ tới lượt làm thủ tục.
+Quầy làm thủ tục của Vietnam Airlines đông hơn rất nhiều nhưng so với dịp nghỉ lễ mọi năm thì vẫn khá còn "dễ thở".
+Đại diện Cảng HKQT Nội Bài khẳng định sản lượng vận chuyển các dịp cao điểm hè năm nay hoàn toàn chưa vượt quá năng lực thông qua. Cục Hàng không Việt Nam đưa ra quy định về việc yêu cầu 100% hành khách phải hoàn thành khai báo y tế điện tử trước khi xếp hàng qua cửa kiểm soát an ninh hàng không (ANHK).
+Khu vực bãi để xe và lối vào đón khách nhà ga T1 tính tới 6h chiều lượng xe đi vào vẫn chưa thực sự đông đúc.
+Địa điểm trả khách bên trên, dòng xe ô tô đã tấp nập hơn nhiều, nhân viên an ninh được tăng cường điều phối xe trả khách đúng nơi quy định.
+Để bảo đảm an toàn trật tự, an toàn giao thông, Thủ tướng Chính phủ đã có công điện chỉ đạo dịp nghỉ lễ 30/4 và 1/5. Theo đó, yêu cầu các bộ, ngành, địa phương công bố số điện thoại "đường dây nóng" về bảo đảm trật tự an toàn giao thông (ATGT) của các cơ quan trung ương, của từng địa phương nhằm tiếp nhận phản ánh của người dân về ATGT dịp nghỉ lễ; bảo đảm phương án ứng trực theo chế độ 24/7 để giải quyết, khắc phục kịp thời các vụ việc phát sinh. Huy động lực lượng bảo đảm trật tự ATGT dịp nghỉ lễ; tập trung tuần tra kiểm soát, xử lý nghiêm các hành vi vi phạm; chú ý các hành vi vi phạm nghiêm trọng là nguyên nhân trực tiếp dẫn tới tai nạn, ùn tắc giao thông; chở quá số người quy định, tăng giá vé, lái xe điều khiển phương tiện lưu thông trái phép vào làn thu phí điện tử không dừng (ETC)... Chủ động phòng ngừa, ngăn chặn và xử lý nghiêm các vụ tụ tập gây rối trật tự công cộng, đua xe trái phép, cương quyết xử lý, trấn áp những đối tượng có hành vi chống người thi hành công vụ.
+Đỗ Linh

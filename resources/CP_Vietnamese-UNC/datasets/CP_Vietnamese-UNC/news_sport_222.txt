@@ -1,8 +1,20 @@
 # doc_id = news_sport_222
-# url = https://dantri.com.vn/the-thao/say-ruou-hai-golf-thu-ca-khia-roi-lao-vao-danh-nhau-tui-bui-20210420234942892.htm
-# date = 20210420
-Theo tờ RT, mâu thuẫn giữa hai golf thủ diễn ra tại giải golf từ thiện ở Maccauvlei Golf Club (Nam Phi) cuối tuần qua, khi cả hai sẵn có hơi men trong người đã cà khịa rồi đánh nhau túi bụi như những võ sĩ trong một trận đấu Boxing.
-Nhiều người hâm mộ ví hành động này như một "trò hề", và khuyên hai golf thủ nói trên nên tới với sàn Boxing thì hay hơn là tham dự một sự kiện mang tính chất từ thiện.
-Một số khán giả thậm chí còn khuyên một VĐV nên chơi võ gậy, bởi sau khi dùng tay một người còn rút cán cờ cắm ở gần lỗ golf ra để tấn công đối thủ. Trước thể hình quá "nặng ký" của cả hai người chơi, một số người đứng xem chỉ biết khuyên ngăn chứ không thể lao vào tách họ ra.
-Vụ đánh nhau cuối cùng cũng kết thúc khi cả hai đã mệt nhoài cũng như có rất nhiều người quyết định can ngăn và tách hai VĐV này ra. Video trên sau khi lan truyền trên mạng xã hội đã nhận được hàng triệu lượt xem cũng như bình luận bày tỏ sự thất vọng của mọi người.
-Sông Lam
+# url = https://dantri.com.vn/the-thao/than-dong-thai-lan-tuyen-bo-vuot-mat-doi-tuyen-viet-nam-20210421135138666.htm
+# date = 20210421
+Trong đợt tập trung lần này, Suphanat Mueanta là một trong những gương mặt mà HLV Akira Nishino kỳ vọng nhất ở đội tuyển Thái Lan.
+Suphanat Mueanta cao 1m74, thi đấu tốt ở vị trí tiền đạo cắm, tiền đạo cánh. Anh được xem là "báu vật" của Buriram United và đội tuyển Thái Lan. Tiền đạo này cũng được triệu tập lên đội tuyển Thái Lan vào năm 2019.
+Suphanat Mueanta là cầu thủ trẻ nhất ghi bàn ở VCK U23 châu Á 2020. Ngày 8/1/2020, Suphanat lập cú đúp giúp U23 Thái Lan thắng U23 Bahrain 5-0 vào thời điểm mới 17 tuổi, 5 tháng, 6 ngày.
+Suphanat Mueanta (phải) đang được xem như "viên ngọc quý" của bóng đá Thái Lan.
+Hai kỷ lục khác của Suphanat Mueanta nằm ở Thai League 1. Anh lần lượt là cầu thủ trẻ nhất từng thi đấu (15 tuổi, 8 tháng, 22 ngày) và cầu thủ trẻ nhất ghi bàn (15 tuổi, 9 tháng, 24 ngày) ở Thai League 1, đều trong màu áo Buriram United
+Suphanat là trở thành cầu thủ trẻ nhất khoác áo đội tuyển quốc gia Thái Lan khi mới 16 tuổi, 10 tháng, 3 ngày. Suphanat vào sân 5 phút trong trận Thái Lan thua Việt Nam 0-1 ở King's Cup 2019. Tại SEA Games 30 cũng trong năm 2019, Suphanat từng ghi 5 bàn, trong đó có 1 pha làm bàn vào lưới U22 Việt Nam.
+Được trao cơ hội lên đội tuyển Thái Lan lần này, Suphanat Mueanta hạnh phúc nói: "Tôi cố gắng học hỏi từ tất cả các đàn anh trong đội tuyển. Hiện tại, thể lực của tôi đã tốt hơn rất nhiều. Bản thân tôi cố gắng duy trì một mức độ tập luyện đều đặn, để cơ thể luôn sẵn sàng ở điều kiện cạnh tranh, sau thời gian chấn thương liên tục".
+Thần đồng của Thái Lan tự tin tuyên bố sẽ cùng đội bóng xứ chùa Vàng vượt qua đội tuyển Việt Nam để giành quyền đi tiếp ở bảng G, vòng loại World Cup 2022 khu vực châu Á.
+"Tôi muốn đạt được hiệu quả công việc tốt nhất, để Thái Lan thành công. Bất kỳ ai được triệu tập lần này đều khao khát cơ hội thi đấu. Đội tuyển Thái Lan sẽ vượt qua đội tuyển Việt Nam ở bảng G. Chúng tôi muốn làm nên lịch sử với chiếc vé vào vòng sau", Suphanat Mueanta tự tin nói.
+Liên quan tới sự chuẩn bị của đội tuyển Thái Lan, do chưa tìm lại phong độ tốt nhất sau chấn thương, Teerasil Dangda từ chối lên tuyển đá vòng loại World Cup ở UAE tháng 6/2021.
+Teerasil Dangda từ chối lên tuyển Thái Lan vào tháng 6 tới.
+Đây là một tổn thất lớn với đội tuyển Thái Lan. Teerasil là cầu thủ giàu kinh nghiệm nhất ở tuyển Thái Lan hiện tại, với 104 trận và 45 bàn. Anh cũng là cầu thủ Đông Nam Á đầu tiên thi đấu tại La Liga, trong màu áo Almeria năm 2014. Tiền đạo 32 tuổi cũng thi đấu nhiều năm ở J-League, trước khi trở về Thái Lan khoác áo nhà vô địch Pathum United cuối tháng 12/2020.
+Đội tuyển Thái Lan tập trung từ ngày 3/5, và sang UAE ngày 21/5. Như vậy, thầy trò HLV Nishino khởi động sớm hơn cho chiến dịch vòng loại World Cup 2022.
+Tại UAE, đội tuyển Thái Lan giao hữu hai trận với Oman và Tajikistan. Sau đó, họ gặp Indonesia, UAE và Malaysia lần lượt ngày 3/6, 7/6 và 15/6 tại bảng G.
+Với đội tuyển Việt Nam, thầy trò HLV Park Hang Seo dự kiến tập trung vào ngày 10/5, sau khi vòng 13 V-League kết thúc. Đội tuyển Việt Nam đá giao hữu với Bình Định tại Quy Nhơn, sau đó lên đường sang UAE vào ngày 27/5. Tại đây, Quang Hải và các đồng đội gặp quân xanh Jordan, trước khi bước vào chiến dịch vòng loại World Cup 2022 khu vực châu Á.
+Theo lịch thi đấu đã được AFC công bố, đội tuyển Việt Nam sẽ gặp Indonesia và ngày 7/6/2021, gặp Malaysia vào ngày 11/6/2021 và gặp UAE vào ngày 15/6. Hiện tại, đội tuyển Việt Nam đang dẫn đầu bảng G với 11 điểm. Vị trí nhì bảng đang thuộc về Malaysia với 9 điểm. Tiếp theo lần lượt là Thái Lan (8 điểm), UAE (6 điểm) và cuối cùng là Indonesia (0 điểm).
+Thùy Linh

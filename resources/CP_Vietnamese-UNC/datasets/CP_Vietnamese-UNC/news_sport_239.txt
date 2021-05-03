@@ -1,12 +1,23 @@
 # doc_id = news_sport_239
-# url = https://dantri.com.vn/the-thao/thuc-hu-thong-tin-trong-hoang-kip-du-vong-loai-world-cup-2022-20210501062402699.htm
-# date = 20210501
-CLB Viettel vừa có trận hòa 1-1 trong chuyến làm khách gặp CLB TP.HCM tại vòng 11 V-League 2021. Ở trận đấu này, tiền vệ Trọng Hoàng phải rời sân ở phút 29, nhường chỗ cho Dương Văn Hào.
-Theo kết quả vừa được các bác sĩ CLB Viettel thông báo, Trọng Hoàng bị rách cơ tứ đầu đùi trái. Các bác sĩ chẩn đoán với chấn thương này Trọng Hoàng phải nghỉ thi đấu từ 6-8 tuần. Như vậy, sau Hùng Dũng, HLV Park Hang Seo tiếp tục nhận tin dữ từ Trọng Hoàng. Chiến lược gia người Hàn Quốc đang thực sự đau đầu bởi đây đều là những cầu thủ chủ chốt không thể thay thế ở đội tuyển Việt Nam.
-Trọng Hoàng khó có thể kịp dự vòng loại World Cup 2022.
-Mất Trọng Hoàng là một tin không vui với CLB Viettel và đặc biệt là đội tuyển Việt Nam. Vào tháng 6 tới, thầy trò HLV Park Hang Seo bước vào chiến dịch rất quan trọng là vòng loại World Cup 2022 khu vực châu Á. Với chấn thương vừa gặp phải, Trọng Hoàng gần như không thể cùng tuyển Việt Nam sang UAE.
-Tuy nhiên, trong ngày 30/4, xuất hiện nhiều thông tin cho biết Trọng Hoàng chỉ dính chấn thương nhẹ, chỉ phải nghỉ 1-2 tuần. Mới đây Trọng hoàng đã đăng tải trên trang cá nhân bức ảnh đi du lịch Côn Đảo cùng Quế Ngọc Hải và một số người bạn. Nhìn Hoàng "bò", không ai nghĩ là anh dính chấn thương nặng.
-Trao đổi với chúng tôi về vấn đề này, một đại diện của CLB Viettel cho biết: "Thông tin từ CLB dựa trên kết quả chiếu chụp ngày 29/4 với Trọng Hoàng. Các kết luận về chấn thương và dự kiến thời gian hồi phục là từ bác sĩ của đội. Vậy nên đây là nguồn tin chính thức từ CLB Viettel.
-Với vết rách cơ tứ đầu đùi trái có kích thước là 12x4x2 cm từ góc độ chuyên môn các bác sĩ cho rằng khả năng phục hồi có thể là từ 6-8 tuần. Đội đang tập trung các biện pháp lý liệu tốt nhất để phục hồi chức năng để đẩy thời gian hồi phục sớm hơn dự kiến".
-Nếu Trọng Hoàng không thể lên tuyển, HLV Park Hang Seo có thể sử dụng Văn Thanh, Văn Kiên hoặc Sầm Ngọc Đức thay thế vị trí của cầu thủ xứ Nghệ.
-Hoàng Quốc
+# url = https://dantri.com.vn/the-thao/tinh-canh-trai-nguoc-cua-van-toan-cong-phuong-so-voi-duc-chinh-20210419130709841.htm
+# date = 20210419
+Danh sư xuất cao đồ
+Cách nay ít lâu, HLV Park Hang Seo từng nhận xét, nhóm các tiền đạo hàng đầu Việt Nam hiện tại, theo quan điểm của ông Park, có Nguyễn Tiến Linh, Hà Đức Chinh và Nguyễn Công Phượng.
+Riêng Nguyễn Văn Toàn lúc đó thậm chí còn chưa được ông Park xếp vào nhóm những chân sút tốt nhất nước, mà chỉ mới thuộc loại khá.
+Thế rồi, chỉ vài tháng tập luyện và thi đấu dưới trướng HLV Kiatisuk, Nguyễn Văn Toàn đang ngày một hay hơn, dần vươn lên gia nhập nhóm những tiền đạo lợi hại nhất nước.
+Nếu đánh giá chất lượng của các tiền đạo dựa trên những bàn thắng mà tiền đạo đấy ghi được, thì Văn Toàn hiện là tiền đạo hàng đầu Việt Nam. Cùng với Nguyễn Tiến Linh (B.Bình Dương) và 2 chân sút ngoại khác, Văn Toàn đang dẫn đầu danh sách vua phá lưới V-League 2021 với 6 bàn thắng.
+Điểm đáng chú ý nữa là hầu hết các bàn thắng mà Văn Toàn ghi được cho HA Gia Lai từ đầu mùa đến giờ đều rất quan trọng, góp công lớn vào ngôi đầu của đội bóng phố núi cho đến thời điểm này của mùa giải.
+Tương tự như thế là trường hợp của Công Phượng. Người hâm mộ bóng đá Việt Nam hầu hết có chung nhận xét rằng Công Phượng vốn đã hay đang dường như hay hơn dưới trướng HLV Kiatisuk Senamuang.
+Những nhược điểm của Công Phượng và của Văn Toàn trước đây đang dần được khắc phục kể từ khi họ trở thành học trò của Kiatisuk.
+Chỉ trong vài tháng ngắn ngủi, "Zico Thái" dạy cho các cầu thủ này biết thế nào là sự tinh quái trong các pha xử lý bóng, thế nào là tính hiệu quả các tình huống chọn vị trí và kết thúc, cũng như thời điểm tung ra các pha kết thúc đấy, chứ không sa đà và không mất sức vào các pha đi bóng hoặc bắn phá… vu vơ!
+Nỗi buồn mang tên Hà Đức Chinh
+Trái ngược với hình ảnh ngày một hiệu quả và ngày một đáng sợ của Nguyễn Văn Toàn và Nguyễn Công Phượng thời Kiatisuk, Hà Đức Chinh vẫn đang vật vờ dưới trướng HLV Lê Huỳnh Đức ở SHB Đà Nẵng.
+Có điều lạ là khi khoác áo các đội tuyển quốc gia, Hà Đức Chinh vẫn hiệu quả dưới sự dẫn dắt của HLV Park Hang Seo. Cụ thể, cầu thủ này thi đấu xuất sắc tại VCK giải U23 châu Á năm 2018, hữu ích với đội tuyển Việt Nam tại AFF Cup 2018, và rực sáng tại SEA Games năm 2019, trong tư cách cầu thủ ghi nhiều bàn thắng nhất nội dung bóng đá nam.
+Nhưng cứ mỗi lần về SHB Đà Nẵng của HLV Lê Huỳnh Đức, Hà Đức Chinh dường như... cùn đi, đồng thời anh liên tục bị chính HLV Huỳnh Đức của mình chê thiếu hiệu quả!
+Tính đến sau vòng 10 V-League, Hà Đức Chinh chỉ mới ghi được 1 bàn thắng, và cũng chẳng có gì đảm bảo rằng anh sẽ ghi thật nhiều bàn, chí ít là tiếp cận với số bàn thắng của những Văn Toàn, Công Phượng trong thời gian tới.
+Ngày còn thi đấu đỉnh cao, cả Kiatisuk Senamuang lẫn Lê Huỳnh Đức đều là các chân sút khét tiếng của bóng đá Đông Nam Á. Họ từng được so sánh với nhau, và từng là nỗi kinh hoàng cho nhiều hàng thủ trong khu vực.
+Nhưng khi trở thành HLV, Kiatisuk luôn biết cách phát hiện và bồi dưỡng các tiền đạo mà anh sở hữu, trở thành những chân sút lợi hại bậc nhất.
+Trước Nguyễn Văn Toàn và Nguyễn Công Phượng, trong thời gian còn làm HLV đội tuyển Thái Lan (giai đoạn từ năm 2013 đến đầu năm 2017), Kiatisuk từng biến chân sút vô danh Sirod Chatthong trở thành ngôi sao sáng tại Thái Lan, nâng tầm Teerasil Dangda lên hàng "quái kiệt" trong khu vực 16m50.
+Ngược lại, Lê Huỳnh Đức đã và đang sở hữu một số tiền đạo nội có tiềm năng, như Hà Minh Tuấn trước đây hay Hà Đức Chinh hiện nay, nhưng kỳ thực là Huỳnh Đức chưa bao giờ bồi dưỡng được cho họ trở thành dạng tiền đạo lợi hại như chính anh ngày trước, chí ít là thành tích trên sân cỏ từ các học trò của Lê Huỳnh Đức đang phản ánh điều đó.
+Thậm chí, với Hà Minh Tuấn, chỉ sau khi rời SHB Đà Nẵng của Huỳnh Đức, cầu thủ này mới đá hay hơn ở CLB bóng đá Quảng Nam, và từng được HLV Park Hang Seo gọi vào đội tuyển quốc gia.
+Kim Điền

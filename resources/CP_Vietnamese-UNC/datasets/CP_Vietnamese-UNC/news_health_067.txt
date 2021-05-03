@@ -1,10 +1,7 @@
 # doc_id = news_health_067
-# url = https://dantri.com.vn/suc-khoe/bo-y-te-hoa-toc-de-nghi-yen-bai-xu-ly-ca-covid-19-lay-trong-khu-cach-ly-20210428140532538.htm
-# date = 20210428
-Ngày 26/4, hệ thống giám sát bệnh truyền nhiễm Việt Nam đã ghi nhận một bệnh nhân nam, 63 tuổi (Đồng Tâm, Yên Bái), là lễ tân khách sạn mắc Covid-19 (BN 2.857). 
-Bệnh nhân có tiền sử dịch tễ phục vụ hàng ngày tại khu cách ly có chuyên gia Ấn Độ (trước đó đã ghi nhận 4 chuyên gia Ấn Độ cách ly ngay sau nhập cảnh ngày 18/4, có kết quả xét nghiệm dương tính với SARS-CoV-2 tại khách sạn này). Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh.
-Để triển khai tốt các biện pháp phòng, chống dịch Covid-19, không để dịch lây lan trong khu cách ly và ra cộng đồng, Bộ Y tế - Cơ quan thường trực Ban Chỉ đạo Quốc gia điện và đề nghị UBND Yên Bái tiếp tục mở rộng điều tra dịch tễ, lập danh sách tất cả những người tiếp xúc gần và có liên quan với bệnh nhân, thực hiện thần tốc truy vết, cách ly y tế. Đồng thời, lấy mẫu xét nghiệm diện rộng (bao gồm người thân, nhân viên y tế, nhân viên phục vụ tại khách sạn, người tiếp xúc gần...) để tiến hành xét nghiệm khẳng định.
-Bên cạnh đó, tỉnh cần tổ chức giám sát chặt chẽ hàng ngày tình hình sức khỏe và tổ chức cách ly y tế, lấy mẫu xét nghiệm theo quy định đối với tất cả trường hợp tiếp xúc gần và có liên quan với bệnh nhân. Nếu phát hiện bất kỳ trường hợp nào có biểu hiện sốt, ho, hắt hơi, sổ mũi, mệt mỏi, ớn lạnh hoặc khó thở thì lập tức cho cách ly ngay tại cơ sở y tế và lấy mẫu bệnh phẩm để xét nghiệm.
-Đồng thời, tiến hành việc xử lý, phun khử trùng triệt để môi trường tại nơi bệnh nhân thường trú; các địa điểm bệnh nhân đã từng đến, ở, làm việc; các phương tiện vận chuyển và các khu vực có liên quan khác.
-Bộ Y tế cũng yêu cầu tỉnh tăng cường rà soát, kiểm tra, giám sát chặt chẽ việc thực hiện các quy trình, quy định về nhập cảnh, giám sát, cách ly y tế, xét nghiệm phòng chống dịch Covid-19, tuyệt đối không để lây lan trong khu vực cách ly, lây ra cộng đồng.
-Nam Phương
+# url = https://dantri.com.vn/suc-khoe/bo-y-te-khan-tim-hanh-khach-di-tren-chuyen-bay-tu-nhat-ban-ve-da-nang-20210429165638806.htm
+# date = 20210429
+Hiện tại lực lượng chức năng đã lập 5 chốt và tạm thời cách ly toàn bộ thôn Quan Nhân nơi gia đình 5 bệnh nhân sinh sống với 320 hộ, 1068 nhân khẩu.
+Bên cạnh việc tuyên truyền, khuyến cáo người dân tuân thủ phòng chống dịch, kiên trì thực hiện khuyến cáo 5K của Bộ Y tế, các tỉnh cũng nên có biện pháp xử phạt người không tuân thủ đeo khẩu trang ở nơi công cộng.
+Để phòng chống dịch Covid-19, Bộ Y tế kêu gọi người dân hạn chế đến nơi công cộng, tụ tập đông người không cần thiết. Đồng thời, không được chủ quan, lơ là; luôn đề cao cảnh giác phòng chống dịch, khi phát hiện các trường hợp nghi ngờ nhập cảnh trái phép cần lập tức thông báo ngay cho chính quyền địa phương để tổ chức cách ly, xử lý kịp thời.
+Hồng Hải

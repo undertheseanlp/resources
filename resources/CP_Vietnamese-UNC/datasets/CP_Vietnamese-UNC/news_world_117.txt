@@ -1,10 +1,10 @@
 # doc_id = news_world_117
-# url = https://dantri.com.vn/the-gioi/hon-150-trieu-nguoi-toan-cau-mac-covid-19-an-do-tiep-tuc-lap-ky-luc-20210430145959647.htm
-# date = 20210430
-Theo số liệu của AFP, tính đến ngày 30/4, số người mắc Covid-19 trên thế giới lên tới hơn 150,3 triệu người. Trong đợt bùng phát mới, số ca mắc Covid-19 toàn cầu đều tăng kỷ lục. Số người tử vong vì Covid-19 toàn cầu cũng vượt 3,1 triệu người.
-Mỹ hiện vẫn là tâm dịch lớn nhất thế giới với hơn 32 triệu ca nhiễm, trong đó hơn 575.000 ca tử vong.
-Trong khi đó, Ấn Độ tiếp tục là tâm dịch lớn thứ hai thế giới với hơn 18,7 triệu ca mắc, trong đó hơn 208.000 người tử vong. Số ca mắc và tử vong vì Covid-19 ở Ấn Độ tiếp tục lập kỷ lục suốt một tuần qua.
-Theo số liệu của Bộ Y tế Ấn Độ, nước này ghi nhận kỷ lục 386.452 ca mắc mới trong ngày 30/4. Trong vòng 24 giờ qua, Ấn Độ cũng ghi nhận gần 3.500 ca tử vong vì Covid-19. Kể từ cuối tháng 2, Ấn Độ có thêm 7,7 triệu ca mắc khi làn sóng Covid-19 bắt đầu bùng phát.
-Trong khi đó, các nước châu Âu đang rục rịch nới lỏng các biện pháp hạn chế khi số ca mắc có xu hướng giảm. Tuy nhiên, quan chức Tổ chức Y tế Thế giới (WHO) phụ trách châu Âu Hans Kluge cảnh báo, các nước không nên phạm sai lầm khi nới lỏng các biện pháp hạn chế quá sớm.
-"Khi nới lỏng các biện pháp hạn chế, tình trạng tụ tập đông người lại diễn ra và dẫn đến nguy cơ xuất hiện nhiều biến thể dễ lây lan hơn, trong khi tỷ lệ tiêm chủng còn thấp, tất cả có thể tạo thành cơn bão toàn diện ở bất kỳ quốc gia nào. Quan trọng là phải nhận ra rằng tình hình ở Ấn Độ có thể xảy ra ở bất cứ đâu", ông Kluge nói.
+# url = https://dantri.com.vn/the-gioi/hon-40-nuoc-giai-cuu-an-do-trong-con-khat-oxy-20210429164343554.htm
+# date = 20210429
+Người thân của một bệnh nhân qua đời vì Covid-19 đau buồn tại một địa điểm hỏa táng ở Jammu, Ân Độ (Ảnh: AP).
+Reuters dẫn lời Ngoại trưởng Ấn Độ Harsh Vardhan Shringla hôm nay 29/4 cho hay, Ấn Độ ưu tiên nhập khẩu ôxy để đáp ứng cuộc khủng hoảng thiếu ôxy trầm trọng hiện nay của các bệnh viện. Ông cho biết thêm, đến nay, 40 nước đã cam kết cung cấp ôxy cho Ấn Độ.
+"Chúng tôi đang đàm phán với gần 550 nhà máy sản xuất ôxy từ các nguồn khác nhau trên khắp thế giới", ông Shringla cho biết tại cuộc họp báo hôm nay.Tình trạng thiếu hụt ôxy khiến nhiều bệnh viện của Ấn Độ từ chối tiếp nhận bệnh nhân, hoặc chỉ tiếp nhận bệnh nhân tự túc bình ôxy.
+Hầu hết các bệnh viện ở Ấn Độ không được trang bị các nhà máy độc lập chuyên sản xuất ôxy trực tiếp cho bệnh nhân bởi vì điều này đòi hỏi nguồn cung điện không bị gián đoạn, nhưng ở nhiều bang không đáp ứng được yêu cầu này. Do vậy, các bệnh viện thường dựa vào nguồn cung ôxy trong các bình chứa. Với tình trạng dịch bệnh bùng phát nhanh như hiện nay, nguồn cung này của Ấn Độ cũng trở nên cạn kiệt.
+Theo thống kê, nhu cầu ôxy của các bệnh viện ở Ấn Độ đã tăng gấp 3 lần lên hơn 8.000 tấn/ngày, trong khi công suất của Ấn Độ chỉ khoảng 7.500 tấn/ngày.
+Ấn Độ đang phải đối mặt với làn sóng Covid-19 nghiêm trọng nhất từ trước đến nay. Đến nay, Ấn Độ đã ghi nhận tổng cộng gần 18,4 triệu ca mắc, trong đó hơn 204.000 người đã tử vong.
 Minh PhươngTheo Reuters

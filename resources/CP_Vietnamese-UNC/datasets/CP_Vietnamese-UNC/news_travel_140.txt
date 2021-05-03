@@ -1,21 +1,14 @@
 # doc_id = news_travel_140
-# url = https://dantri.com.vn/du-lich/kho-quen-mon-dac-san-ga-chay-bo-kho-mam-thom-o-vung-cao-nguyen-20210403071021194.htm
-# date = 20210403
-Để làm được món gà kho mắm thơm hảo hạng, vào những ngày tháng 5, khi trái thơm (khóm) ở Phú Yên chín mọng, vàng ươm người dân Cao nguyên Vân Hòa bắt đầu gọt vỏ, chẻ làm tư và phơi nắng cho đến khi héo lớp mặt thì bắt đầu đưa vào hũ sành to để ủ mắm.
-Món gà kho mắm thơm ở Cao nguyên Vân Hòa.
-Mắm được ủ với thơm là mắm cá cơm than (đặc sản của người dân vùng biển tỉnh Phú Yên), những miếng thơm được trộn đều với mắm, sau đó dùng nắp bịt kín hũ để chừng khoảng 5 tháng nữa là dùng được.
-Theo người dân địa phương, những năm trước đời sống khó khăn, nên mắm thơm như một thứ thực phẩm trữ ăn dần vào mùa đông, trời lạnh. Mắm thơm khi được ủ hoàn thành, múc ra bát xé nhỏ, thêm một ớt trái, tỏi, đường, chanh...trộn đều rồi ăn với cơm nóng vừa ngon vừa ấm bụng.
-Mắm thơm được cắt nhỏ để kho cùng thịt gà.
-Sau này, đời sống người dân Cao nguyên Vân Hòa phát triển, nhà nào cũng thả vài con gà để ăn và bán lúc cần tiền, đặc biệt gà ở đây được thả sống tự nhiên hoàn toàn nên thịt rất thơm ngon, người dân đặt tên loại gà này là "gà chạy bộ" để phân biệt với các loại gà công nghiệp khác.
-Thấy gà ngon và mắm thơm hấp dẫn, người dân đã thử kết hợp 2 thứ này, tạo ra món đặc sản gà kho mắm thơm hương vị không vùng nào có được.
-Gà là gà mái tơ tầm 1,2 - 1,5kg, sau đó chặt từng khúc vừa gắp, không cần ướp gia vị mắm muối mà chỉ cần khử ít dầu, đảo cho thịt gà vừa chín rồi cho phần mắm thơm đã chuẩn bị vào, chế ít nước mắm múc ra từ hũ mắm thơm, nêm ít bột nêm để nồi thịt dịu lại và thịt gà tự ra nước.
-Gà kho mắm thơm ăn với cơm nóng thì không còn chỗ chê.
-Mùi của mắm cái, của thơm chín, của thịt gà hòa trộn sẽ cho ra một mùi thơm đặc trưng, ăn cùng một bát cơm nóng nữa thì còn gì bằng.
-Thấy ngon và khách du lịch ngày ghé Vân Hòa tham quan càng nhiều, người dân nơi đây đã giới thiệu món ăn này với du khách. Sau khi thưởng thức nhiều thực khách đã không ngại cho điểm 10 vì độ thơm ngon, độc, lạ của món gà kho mắm thơm, từ đó món ăn này được xem như là đặc sản ở vùng Cao nguyên Vân Hòa.
-Món "canh gà lá dít" kết hợp với măng rừng ở Cao nguyên Vân Hòa.
-Ngoài gà kho mắm thơm, người dân còn chế biến thêm món "canh gà lá dít", thịt gà có vị ngọt, lá dít có vị chua, thêm một ít măng rừng…một món canh giải nhiệt, ngon miệng giữa ngày hè sẽ khiến thực khách dù có ăn kiêng cũng phải "cành hông".
-Rau rừng luộc có giá từ 20 - 30 nghìn đồng.
-Để giảm độ ngán và ngon miệng hơn, thực khách nên gọi thêm một đĩa rau rừng luộc với các loại rau được hái hoàn toàn ngoài tự nhiên như cải trời, rau dớn…
-Một bữa cơm gồm 3 món ở đây có giá từ 300 - 320 nghìn đồng.
-Được biết, giá một con gà sau đó chế biến thành 3 món là 1/2 gà kho mắm thơm, 1/2 nấu canh lá dít, lòng được xào với mướp ở đây được bán với giá từ 300 - 320 nghìn đồng.
-Trung Thi
+# url = https://dantri.com.vn/du-lich/ky-la-buc-tuong-phat-nam-trong-hoc-cay-long-nao-hon-1000-nam-tuoi-20210327234540350.htm
+# date = 20210327
+Long não là loại cây có thể bắt gặp ở bất cứ nơi nào tại tỉnh Phúc Kiến, Trung Quốc. Nhưng trong số đó, có một cây long não cổ thụ rất đặc biệt với tuổi đời trên 1.000 năm đến nay vẫn phát triển tốt. Bất ngờ hơn, trong hốc cây còn có pho tượng Phật kích thước nhỏ khiến nhiều người ngạc nhiên.
+Đó là cây long não nằm ở ngôi làng Kaoting thuộc phía bắc tỉnh Phúc Kiến. Xung quanh làng bao quanh bởi những dãy núi xanh mướt, nước trong vắt và cảnh quan êm đềm. Tuy làng Kaoting không nổi tiếng như nhiều ngôi làng cổ khác nhưng vẫn sở hữu lịch sử và di sản độc đáo riêng mình.
+Trở lại với câu chuyện về pho tượng Phật nhỏ nằm trong hốc cây. Đó là bức tượng Phật có chiều cao khoảng 60 cm làm bằng đất sét. Đứng từ ngoài có thể nhìn thấy từ lỗ nhỏ cách gốc cây chừng 1 m.
+Sự hiện diện của tượng Phật nằm trong thân cây đã thu hút rất đông các tín đồ từ khắp nơi đổ về để chiêm ngưỡng. Và đương nhiên tất cả đều có câu hỏi chung, làm thế nào cây lại ôm trọn được tượng Đức Phật như vậy?
+Theo tương truyền, pho tượng được tạo nên để tưởng nhớ tới vị triết gia nổi tiếng người Trung Quốc - Chu Hi (1130-1200) sau khi ông qua đời. Người dân đã đặt tượng vào thân cây qua một vết nứt. Qua thời gian, vết nứt dần lành lại và tạo nên tuyệt tác như chúng ta thấy ngày nay.
+Nhưng kỳ diệu ở chỗ, thân cây lớn dần và vết nứt dần nhỏ lại nên tạo nên cảnh tượng cây ôm trọn Đức Phật. Tuy nhiên, đây mới chỉ là truyền thuyết và chưa có cơ sở khoa học xác nhận.
+Một điều thú vị khác, dưới gốc cây long não đại thụ đã mọc lên một cây con. Theo các chuyên gia, cây đại thụ phía trên có tuổi đời khoảng 1.020 năm, còn cây nhỏ hơn khoảng 268 năm.
+Cũng nhờ cây cổ thụ nghìn năm tuổi này đã kéo theo sự phát triển của du lịch tại làng Kaoting. Nhiều người tin rằng, chỉ cần tới đây thành tâm cầu nguyện sẽ được Đức Phật ban phước lành.
+Bên cạnh đó, một pho tượng Phật nằm trong gốc cây cũng nổi tiếng không kém tọa lạc tại chùa Mahathat ở Ayutthaya, Thái Lan. Đây vốn là vùng đất có lịch sử lâu đời. Việc sở hữu bức tượng Phật linh thiêng trong hốc cây nghìn năm tuổi khiến ngôi chùa này thu hút rất đông tín đồ Phật giáo tới hành hương mỗi năm.
+Quốc Việt
+Theo China Daily

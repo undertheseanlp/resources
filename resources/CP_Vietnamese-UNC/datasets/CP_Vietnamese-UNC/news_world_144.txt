@@ -1,17 +1,11 @@
 # doc_id = news_world_144
-# url = https://dantri.com.vn/the-gioi/my-bang-california-dung-truoc-cuoc-bau-cu-lich-su-20210427144641746.htm
-# date = 20210427
-Giới chức California thông báo đã có 1,6 triệu chữ ký hợp lệ được xác minh, tức nhiều hơn khoảng 100.000 so với số lượng cần thiết để tiến hành cuộc bầu cử phế truất thống đốc bang.
-Thống đốc Newsom, một đảng viên Dân chủ, đang chuẩn bị kế hoạch tái tranh cử vào năm 2022, song những diễn biến mới nhất cho thấy ông có thể đối mặt với cuộc bỏ phiếu phế truất vào mùa thu này.
-Một trong những đối thủ sắp tới của Thống đốc Newsom có thể là ngôi sao truyền hình thực tế Caitlyn Jenner.
-Bà Caitlyn Jenner. Ảnh: Reuters
-Trong trường hợp cuộc bầu cử phế truất Thống đốc Newsom được tiến hành, đây sẽ là lần thứ 2 trong lịch sử California và lần thứ 4 trong lịch sử toàn nước Mỹ diễn ra một cuộc bầu cử như vậy.
-Cử tri sẽ được hỏi liệu họ muốn Thống đốc Newsom hay một ứng viên khác nắm quyền.
-Ông Newsom mới đây thông qua mạng xã hội Twitter cảnh báo cuộc bầu cử này "đe dọa các giá trị cũng như tiến trình quan trọng mà chúng ta đã đạt được - từ chống Covid-19 đến hỗ trợ các gia đình khó khăn, bảo vệ môi trường và thông qua các giải pháp kiểm soát bạo lực súng đạn".
-Theo giới chuyên gia, nỗ lực phế truất Thống đốcNewsom từ đảng Cộng hòa sẽ gặp nhiều thách thức tại một bang có số đông người theo phe Dân chủ như California, nơi ông đắc cử vào năm 2018 với sự ủng hộ của hơn 60% cử tri Dân chủ.
-Thống đốc California Gavin Newsom. Ảnh: Reuters
-Chiến dịch phế truất Thống đốc Newsom được triển khaihồi tháng 2-2020 bởi nhóm chính trị bảo thủ có tên Liên minh Yêu nước California (CPC).
-Phản đối các chính sách của Thống đốc Newsom, CPC thu thập chữ ký để tiến hành bầu cử phế truất ông từ tháng 6-2020.
-Nỗ lực này nhận được sự ủng hộ gia tăng khi ngày càng nhiều người không đồng tình với cách xử lý khủng hoảng Covid-19 của Thống đốc Newsom, người đã xin lỗi vì không tuân thủ các quy tắc phòng chống đại dịch do chính ông áp đặt
-Theo Cao Lực
-Người lao động
+# url = https://dantri.com.vn/the-gioi/my-bat-ngo-canh-bao-nguy-co-xay-ra-chien-tranh-hat-nhan-20210420213911087.htm
+# date = 20210420
+Tên lửa LGM-30 Minuteman III, một vũ khí trong bộ ba răn đe hạt nhân của Mỹ (Ảnh minh họa: Millitary Today).
+Newsweek đưa tin, Bộ Tư lệnh Chiến lược Mỹ (STRATCOM) tối ngày 19/4 đăng tải trên Twitter thông điệp cảnh báo rằng xu thế của các cuộc xung đột ở thời điểm hiện tại không còn dễ dự đoán và kêu gọi Mỹ cần phải tính tới kịch bản một xung đột có thể dẫn tới viễn cảnh khiến cho các đối thủ xem xét việc sử dụng vũ khí hạt nhân.
+Theo Dailymail, thông điệp bất ngờ từ phía STRATCOM được đưa ra trong bối cảnh ông Charles Richard, người đứng đầu cơ quan này, sắp có phiên điều trần trước ủy ban quân vụ ở Thượng viện và Hạ viện vào tuần này về tình hình nói chung của STRATCOM và kế hoạch sử dụng ngân sách năm 2022 của đơn vị này.
+STRATCOM là "bộ chỉ huy chiến đấu toàn cầu" của Mỹ hoạt động có nhiệm vụ "ngăn chặn cuộc tấn công chiến lược" và "điều động lực lượng theo chỉ dẫn" nhằm đảm bảo an ninh cho Mỹ và đồng minh của Washington. STRATCOM đồng thời cũng có nhiệm vụ kiểm soát bất cứ vụ phóng hạt nhân nào.
+Mỗi năm, STRATCOM nộp lên Quốc hội một bản Đánh giá Khả năng Hạt nhân để cung cấp các thông tin cần thiết về những vấn đề liên quan tới loại vũ khí này.
+Trong bản Đánh giá vũ khí hạt nhân năm 2020, ông Richard từng chỉ ra rằng Washington "sẽ cung cấp khả năng răn đe chiến lược cho Mỹ và đảm bảo những điều kiện tương tự cho các đối tác và đồng minh. Nếu biện pháp răn đe thất bại, chúng ta sẽ chuẩn bị cho các động thái phản ứng quyết đoán bằng mọi cách có thể và chúng ta thực hiện nó với một lực lượng được trang bị và huấn luyện cũng như sẵn sàng chiến đấu".
+Đức Hoàng
+Theo Newsweek

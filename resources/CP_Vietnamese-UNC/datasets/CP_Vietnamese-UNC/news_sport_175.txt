@@ -1,13 +1,13 @@
 # doc_id = news_sport_175
-# url = https://dantri.com.vn/the-thao/mbappe-chan-thuong-psg-lo-lang-tot-do-truoc-dai-chien-voi-man-city-20210425105700197.htm
-# date = 20210425
-Làm khách trên sân của Metz, dù gặp đôi chút khó khăn nhưng PSG vẫn ra về với chiến thắng 3-1 tại Ligue 1. Với 3 điểm trọn vẹn giúp nhà đương kim vô địch Ligue 1 tạm chiếm ngôi đầu từ tay Lille (hơn Lille 2 điểm nhưng thi đấu nhiều hơn một trận).
-Dù vậy, niềm vui của đội chủ sân Công viên các hoàng tử lại không được trọn vẹn khi tiền đạo ngôi sao Kylian Mbappe dường như đã gặp chấn thương.
-Mbappe lập cú đúp vào lưới Metz
-Chân sút người Pháp giúp PSG tạm thời giành ngôi đầu Ligue 1 sau 34 vòng đấu
-Mbappe tiếp tục thể hiện phong độ không thể ngăn cản khi đóng góp cú đúp bàn thắng. Tuy nhiên, chân sút người Pháp lại bị đau sau một pha bóng ở cuối trận và buộc phải rời sân nhường chỗ cho Julian Draxler.
-Theo báo giới Pháp, có vẻ như Mbappe đã dính chấn thương đùi và điều này sẽ khiến PSG lo lắng tột độ khi giữa tuần tới họ sẽ có trận đại chiến bán kết lượt đi Champions League với Man City.
-Mbappe bị đau và phải rời sân ở phút 87
-Dù vậy HLV Mauricio Pochettino lên tiếng trấn an người hâm mộ sau trận đấu: "Chúng tôi hy vọng chấn thương của Mbappe không quá nghiêm trọng. Kylian rất ổn khi bị thay ra, nhưng ngay cả một cú húc đơn giản cũng luôn gây đau đớn".
-Ở mùa giải năm nay, Mbappe là cây săn bàn tốt nhất của PSG với 37 bàn sau 42 trận trên mọi đấu trường. Quan trọng hơn cả là việc anh liên tục tỏa sáng tại Champions League, thể hiện qua cú hat-trick trước Barcelona ngay tại Camp Nou cùng cú đúp vào lưới cựu vương Bayern Munich trên sân Allianz Arena.
+# url = https://dantri.com.vn/the-thao/mbappe-de-lai-dau-an-sieu-te-trong-tran-thua-cua-psg-20210429110530153.htm
+# date = 20210429
+Ở trận bán kết lượt đi Champions League, tiền đạo Kylian Mbappe và Neymar đều ra sân ngay từ đầu. Đội chủ sân Công viên các hoàng tử có thuận lợi lớn khi đội trưởng Marquinhos đánh đầu tung lưới thủ thành Ederson mở tỷ số ngay từ phút 15.
+Thế nhưng, trong một ngày thi đấu được đánh giá là "thảm họa" của Mbappe, PSG đã để cho Man City lội ngược dòng giành chiến thắng trong hiệp hai nhờ các pha lập công của De Bruyne và Riyad Mahrez.
+Mbappe không có nổi một cú dứt điểm về phía khung thành của Man City
+Theo tờ ESPN, đây là lần đầu tiên trong sự nghiệp tại Champions League, Mbappe chơi tệ đến vậy. Thậm chí, tiền đạo sinh năm 1998 còn chạm bóng ít hơn cả thủ môn Ederson bên phía Man City (30 lần so với 31).
+Mbappe không chỉ tịt ngòi ở trận đấu vừa qua mà anh còn không thể tạo ra nổi 1 cú sút về phía khung thành của Ederson trong suốt 90 phút thi đấu. Đây cũng là lần đầu tiên Mbappe không thể tung ra cú sút nào ở 1 trận đấu Champions League mà anh được xuất phát.
+Trước trận đấu, nhà cái Betfair đã ra tỉ lệ 80 ăn 1 cho việc Mbappe có ít nhất 1 cú sút trước Man City. Nhưng rồi cầu thủ người Pháp đã không thể tạo ra bất kỳ cú sút nào.
+PSG đứng trước muôn vàn khó khăn ở trận lượt về với Man City khi để thua trên sân nhà với tỷ số 1-2
+Trong khi đó, một ngôi sao khác của PSG cũng chơi nhạt nhòa không kém chính là Neymar khi anh chỉ có một cơ hội nguy hiểm ở đầu hiệp một, để rồi mất hút trong phần còn lại của trận đấu.
+Còn theo thống kế của Opta, với việc đánh bại PSG, HLV Pep Guardiola đã có chiến thắng sân khách thứ 18 liên tiếp, trở thành một kỷ lục mới của bóng đá Anh. Trong mạch 18 chiến thắng này, Man City chỉ để lọt lưới 9 bàn. "Man xanh" cũng trở thành đội bóng Anh đầu tiên giành 10 chiến thắng trong một mùa Champions League theo thể thức ra đời từ mùa 2003-2004.
 Sông Lam

@@ -1,9 +1,10 @@
 # doc_id = news_society_269
-# url = https://dantri.com.vn/xa-hoi/xe-khach-huc-vao-duoi-xe-may-mot-nguoi-dan-ong-chet-tai-cho-20210426182859877.htm
-# date = 20210426
-Vào khoảng 14h30 ngày 26/4, xe khách BKS 51B-504.66, đang lưu thông theo hướng miền Tây về TPHCM. Khi đến khu vực dốc Cầu Ván, đoạn km 1939+400m quốc lộ 1 (thuộc địa phận ấp 2, xã Nhựt Chánh, huyện Bến Lức, tỉnh Long An) đã xảy ra va chạm với xe máy BKS 63B9-473.03, đang di chuyển phía trước, cùng chiều.
-Cú va chạm đã làm cho người điều khiển xe máy bị văng khỏi xe gần 10m và tử vong tại chỗ. Sau khi gây tai nạn chết người, tài xế xe khách đã cầm giấy tờ tùy thân đến công an huyện trình báo sự việc.
-Tại hiện trường, vị trí xe khách gây tai nạn nằm sát lề làn đường dành cho xe máy và phương tiện thô sơ.
-Nạn nhân không mang theo giấy tờ tùy thân nên vẫn chưa xác định được danh tính, địa chỉ nơi cư trú.
-Hiện lực lượng chức năng huyện Bến Lức (Long An) đang tiến hành khám nghiệm hiện trường vụ tai nạn, đồng thời truy tìm tung tích nạn nhân.
-Nam Thái
+# url = https://dantri.com.vn/xa-hoi/xuong-may-rong-1900-m-2-boc-chay-ngun-ngut-hang-tram-nguoi-bo-chay-20210429211630739.htm
+# date = 20210429
+Vụ cháy xảy ra tại khu vực xưởng may rộng khoảng 1.900m2.
+Tối ngày 29/4, trao đổi với PV Dân trí, ông Chu Quốc Hiệu, Chủ tịch UBND huyện Văn Giang (Hưng Yên) cho biết, vào khoảng 17h30 cùng ngày, một xưởng may tại xã Long Hưng, huyện Văn Giang, xảy ra vụ hỏa hoạn lớn, khiến cho khoảng 1.900m2 diện tích khu xưởng bốc cháy ngùn ngụt.
+"Ngay sau khi xảy ra vụ việc, chính quyền phối hợp với công an phòng cháy chữa cháy, Công an tỉnh Hưng Yên về hiện trường khống chế ngọn lửa, dập tắt đám cháy. Đến thời điểm 20h cùng ngày, đám cháy cơ bản được khống chế, hiện chưa ghi nhận thiệt hại về người", ông Hiệu nói.
+Cũng theo ông Hiệu, hiện một số khu vực trong xưởng may vẫn đang được phun nước để đề phòng đám cháy bùng phát trở lại.
+Tại hiện trường, đám cháy bùng phát dữ dội, cột khói bốc cao hàng chục mét khiến hàng trăm người hoảng loạn bỏ chạy thoát thân.
+Hiện nguyên nhân vụ cháy đang được tích cực điều tra, làm rõ.
+Trần Thanh

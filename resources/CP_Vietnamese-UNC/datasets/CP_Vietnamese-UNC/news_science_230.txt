@@ -1,14 +1,12 @@
 # doc_id = news_science_230
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tieu-hanh-tinh-co-kich-thuoc-lon-hon-san-bong-da-dang-lao-ve-phia-trai-dat-20210407052725796.htm
-# date = 20210407
-Trung tâm Nghiên cứu Vật thể gần Trái đất của NASA đang theo dõi chặt chẽ những gì liên quan đến tiểu hành tinh này.
-Dự kiến tiểu hành tinh sẽ di chuyển gần nhất so với Trái đất vào đầu tháng 5 sắp tới.
-NASA ước tính rằng "2021 AF8" - tên của tiểu hành tinh được các nhà khoa học theo dõi lần đầu tiên vào tháng 3, có đường kính từ 260 đến 580 mét.
-So với nhiều tiểu hành tinh từng được phát hiện trong không gian thì nó khá nhỏ, nhưng AF8 2021 vẫn lớn hơn 90% các vật thể trong khoảng không lớn.
-Tuy nhiên, rất may mắn là tiểu hành tinh này được cho sẽ đi qua Trái đất một cách an toàn ở khoảng cách 3,4 triệu km. Nhưng các nhà thiên văn học vẫn đang theo dõi chặt chẽ vì tiểu hành tinh này đã được NASA phân loại là một tiểu hành tinh có khả năng nguy hiểm.
-Hệ thống theo dõi các mối đe dọa của NASA đang theo dõi 22 tiểu hành tinh tương tự như 2021 AF8 mặc dù rất ít cơ hội chúng va vào Trái đất trong 100 năm tới.
-Tiểu hành tinh đầu tiên và lớn nhất 29075 (1950 DA) trong danh sách này sẽ không xuất hiện cho đến năm 2880. Nó có kích thước gấp ba lần Tòa nhà Empire State ở Mỹ và từng được cho là có xác suất cao nhất đâm vào Trái đất.
-Tiểu hành tinh được biết đến là những tảng đá xoay quanh Mặt trời giống như bất kỳ hành tinh nào, nhưng có kích thước nhỏ hơn nhiều so với các hành tinh.
-Hầu hết các tiểu hành tinh trong Hệ Mặt trời của chúng ta đều được tìm thấy trong vành đai tiểu hành tinh trên quỹ đạo của Sao Hỏa và Sao Mộc. Ngoài ra, chúng còn quay trong quỹ đạo của các hành tinh khác và cũng quay quanh Mặt trời.
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tieu-hanh-tinh-huy-diet-khung-long-da-mang-lai-cho-trai-dat-he-thuc-vat-moi-20210409070345875.htm
+# date = 20210409
+Nghiên cứu được xuất bản trên tạp chí Science đã cung cấp bức tranh về các khu rừng rậm ở những nơi như Colombia trước và sau sự xuất hiện của tiểu hành tinh khổng lồ đâm sầm vào Mexico ngày nay.
+Sự thay đổi khí hậu mạnh mẽ đã thay đổi hoàn toàn cấu trúc của đời sống hệ thực vật trên toàn cầu, trong đó các khu rừng nhiệt đới được cho có những thay đổi lớn nhất.
+Khi tiểu hành tinh đâm vào Trái đất, nó đã tạo ra một lượng bụi và mảnh vỡ khổng lồ được đẩy vào bầu khí quyển và bao phủ khắp toàn cầu. Đây là thứ đã giết chết những con khủng long trên quy mô toàn hành tinh vì nó làm giảm lượng ánh sáng Mặt trời chiếu xuống bề mặt Trái đất. Thực vật bắt đầu chết trước, sau đó là toàn bộ chuỗi thức ăn đã sụp đổ.
+Những con khủng long ăn thực vật không có gì để ăn và ngay sau đó là những con khủng long ăn thịt đã ăn thịt những loài ăn thực vật đó. Đó là một thời kỳ cực khắc nghiệt.
+Cây cối chết khô ảnh hưởng đặc biệt nghiêm trọng đến các khu rừng. Tất cả các loài thực vật đều phải chịu đựng theo cách này hay cách khác, và những cây lá kim lớn thống trị rừng nhiệt đới cổ đại cũng không phải là ngoại lệ. Cây cối chết đi với tốc độ nhanh chóng. Các bằng chứng hóa thạch cho thấy chúng không bao giờ hồi sinh.
+Cho đến khi lớp bụi cuối cùng đã lắng xuống, những khu vực từng là rừng một lần nữa bắt đầu nhận được ánh sáng Mặt trời đầy đủ, các loài thực vật mới xuất hiện thay thế các loài thực vật từng thống trị. Chúng đầy màu sắc với những bông hoa nở rộ và những chiếc lá giống như cây dương xỉ. Những loài thực vật mới này đã thúc đẩy một cấu trúc tán cây khép kín với nhiều lớp thực vật thay vì những cây lá kim lớn vươn lên bầu trời trước đó.
+"Thực vật có hoa đã thống trị các khu rừng trong hơn 6 triệu năm sau khi Trái đất phục hồi. Dữ liệu về lá cây cho thấy tán rừng phát triển từ tương đối mở sang khép kín và phân lớp, dẫn đến sự phân tầng thẳng đứng tăng lên cùng sự đa dạng hơn về các hình thức sinh trưởng của thực vật", các nhà nghiên cứu cho hay.
+Kết quả chính là những khu rừng mưa nhiệt đới mà chúng ta thấy ngày nay đã tồn tại sau thời kì thống trị của khủng long. Tác động của tiểu hành tinh đã giết chết những sinh vật khổng lồ, nhưng thay vào đó là một sự thay đổi cực lớn với các loài thực vật trên Trái đất.
 Trang Phạm
-Theo Sputnik

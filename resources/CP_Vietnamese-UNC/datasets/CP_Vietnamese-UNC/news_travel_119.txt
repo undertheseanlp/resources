@@ -1,24 +1,28 @@
 # doc_id = news_travel_119
-# url = https://dantri.com.vn/du-lich/hinh-anh-khac-la-tai-bai-bien-sam-son-trong-ngay-dau-nghi-le-20210430150628804.htm
-# date = 20210430
-Khác hẳn với mọi năm, kỳ nghỉ lễ 30/4 và 1/5 năm nay, tại khu du lịch biển Sầm Sơn (Thanh Hóa) lượng khách giảm hơn rất nhiều.
-Do lo ngại bởi diễn biến của dịch Covid-19, nhiều du khách đặt phòng trước đó nhưng đã hủy tour. Bãi biển Sầm Sơn trong ngày đầu nghỉ lễ ít khách du lịch về nghỉ dưỡng so với dự kiến ban đầu.
-Ghi nhận tại bãi biển Sầm Sơn vào sáng ngày 30/4, mặc dù thời tiết nắng đẹp nhưng dọc các bãi tắm A, B, C, D, lượng khách du lịch tắm biển thưa thớt. Nhiều nhà hàng, khách sạn đìu hiu vì du khách hủy tour trước kỳ nghỉ lễ.
-Đến chiều cùng ngày, lượng khách du lịch có mặt tại các bãi tắm trên biển Sầm Sơn tăng hơn. Tuy nhiên, so với mọi năm thì năm nay lượng khách đến với Sầm Sơn giảm đáng kể.
-Nếu các kỳ nghỉ lễ trước, bãi biển Sầm Sơn thường ken đặc người thì năm nay hoàn toàn trái ngược. Dọc tuyến đường Hồ Xuân Hương, nhiều xe điện, taxi rất nhàn rỗi, các khách sạn cũng thưa thớt người lưu trú.
-Đến chiều cùng ngày, lượng du khách có tăng hơn.
-Chị Đặng Thị Nhung, du khách đến từ Hà Nội, chia sẻ: "Năm nào gia đình tôi cũng đi biển Sầm Sơn để nghỉ lễ, như mọi năm đây là thời điểm Sầm Sơn đông khách nhất. Nhưng năm nay, do ảnh hưởng của dịch bệnh Covid-19, bãi biển vắng người tắm. Là du khách chúng tôi cũng ý thức được việc phòng, chống dịch. Tôi thấy công tác phòng, chống dịch của thành phố Sầm Sơn cũng rất tốt, chính vì vậy chúng tôi cũng cảm thấy rất yên tâm".
-Trước đó, nhiều khách sạn và nhà hàng ở thành phố biển Sầm Sơn đã được du khách đặt phòng để chuẩn bị cho kỳ nghỉ lễ 30/4, 1/5.
-Thậm chí, nhiều khách sạn còn luôn trong tình trạng "full" phòng nghỉ. Tuy nhiên, thời điểm chiều ngày 29/4, nhiều tour khách đã báo hủy phòng khiến nhiều ông chủ khách sạn như "ngồi trên đống lửa".
-Nhiều nhà hàng, khách sạn vào buổi sáng rất ít du khách vào ăn, nghỉ dưỡng.
-Để đảm bảo công tác phòng, chống dịch Covid-19 cho du khách, Ban chỉ đạo Phòng, chống dịch Covid-19 thành phố Sầm Sơn đã tăng cường công tác kiểm soát, siết chặt quản lý.
-Theo đó, 4 điểm kiểm soát dịch được thiết lập dọc bãi biển để yêu cầu du khách thực hiện nghiêm quy định 5K đảm bảo an toàn. Đồng thời, các khẩu hiệu băng rôn được lắp đặt khắp bãi biển và hệ thống loa phát thanh liên tục nhắc nhở du khách trong công tác phòng, chống dịch.
-Các dịch vụ xe điện, xích lô nhàn rỗi trong ngày đầu nghỉ lễ.
-Ngoài ra, dọc khu vực bãi biển, lực lượng chức năng và các tổ kiểm soát, điểm giám sát y tế thường xuyên túc trực để khuyến cáo du khách và người dân thực hiện nghiêm túc việc đeo khẩu trang, giữ khoảng cách khi tham gia hoạt động du lịch tại địa phương.
-Du khách trước và trong quá trình tham quan nghỉ dưỡng tại khu du lịch, tắm biển sẽ được cấp phát khẩu trang miễn phí, rửa tay sát khuẩn trước khi trở về khách sạn.
-Dọc tuyến đường Hồ Xuân Hương mọi năm người chen chúc nhau, nhưng kỳ nghỉ lễ năm nay thoáng đãng hơn.
-Ông Bùi Quốc Đạt, Phó chủ tịch UBND thành phố Sầm Sơn, cho biết: "Chúng tôi luôn cố gắng để Sầm Sơn là điểm đến an toàn cho du khách. Ngoài việc tăng cường kiểm tra, giám sát công tác phòng, chống dịch của các khách sạn, nhà hàng, thành phố còn thiết lập 4 điểm giám sát y tế dọc bãi biển. Đồng thời, yêu cầu các tổ kiểm soát thường xuyên hướng dẫn du khách đeo khẩu trang và rửa tay sát khuẩn dọc bãi biển để đảm bảo an toàn".
-Trước đó, ngày 29/4, Tổng cục Du lịch cũng đã tiến hành kiểm tra và cơ bản đánh giá tốt công tác chuẩn bị của địa phương cũng như các nhà hàng, khách sạn, cơ sở lưu trú tại thành phố Sầm Sơn.
-Để đảm bảo công tác phòng, chống dịch Covid-19, thành phố Sầm Sơn tăng cường công tác kiểm tra, tuyên truyền, hướng dẫn việc thực hiện 5K cho du khách.
-Pano, áp phích được đặt khắp bãi biển cùng với hệ thống loa phát thanh để tuyên truyền công tác phòng, chống dịch Covid-19.
-Thanh Tùng
+# url = https://dantri.com.vn/du-lich/hoi-an-show-noi-hoi-tu-tinh-hoa-van-hoa-quang-nam-20210329071024206.htm
+# date = 20210329
+Chương trình do UBND TP Hội An, Trung tâm Văn hóa thể thao và truyền thanh truyền hình Hội An, Hiệp hội Du lịch Quảng Nam phối hợp Đài tiếng nói Việt Nam, Đài truyền hình kỹ thuật số VTC tổ chức.
+Đông đảo du khách đến Hội An để thưởng thức chương trình thực cảnh "Hội An show".
+Phát biểu tại lễ khai mạc, ông Nguyễn Văn Lanh - Phó Chủ tịch TP Hội An cho hay, sau thời gian trì hoãn vì dịch Covid-19, "Hội An show" đã chính thức ra mắt người dân và du khách gần xa.
+Tái hiện sinh hoạt, đời sống bình dị của người dân Hội An xưa.
+Thông qua chương trình biểu diễn thực cảnh, mọi người sẽ có thêm những cảm nhận sâu sắc về bề dày di sản văn hóa của vùng đất, con người Hội An và xứ Quảng trong mạch nguồn dòng chảy của bề dày lịch sử dân tộc Việt Nam đầy can trường và hiền hậu, trung kiên và hiếu hòa.
+Tái hiện huyền thoại Chùa Cầu với màn đánh thủy quái.
+"Chúng tôi xin trân trọng cảm ơn, tri ân những người đã đóng góp cho thành công của "Hội An Show". Chương trình cũng gửi đến thông điệp chúng ta sẽ cùng nhau vượt qua thử thách bằng khát vọng và quyết tâm để Hội An mãi mãi là nơi hội tụ bình an, vì Quảng Nam mạnh mẽ giàu bản sắc, vì tổ quốc Việt Nam hòa bình, cường thịnh", ông Lanh chia sẻ.
+Vũ điệu Bình Yên.
+Qua suốt thời gian diễn ra chương trình thực cảnh "Hội An show", du khách đã có những trải nghiệm đặc sắc, ấn tượng về văn hóa, con người, bề dày lịch sử… của vùng đất "thương cảng xưa" Hội An nói riêng và Quảng Nam nói chung.
+Chương trình biểu diễn 120 phút đã tái hiện không khí thương cảng Hội An phồn thịnh khoảng từ thế kỷ 16 đến 18 và thế kỷ 20; phục dựng huyền thoại về Chùa Cầu... Bên cạnh đó, là những câu chuyện lịch sử của nghề trồng dâu, nuôi tằm, dệt lụa hay nghề gốm, hát bài chòi ở phố Hội.
+Hình thức biểu diễn trong chương trình là múa, ca vũ, độc thoại nhân vật, múa Chăm... Chương trình thu hút khoảng 150 diễn viên. Trong đó bao gồm các diễn viên chuyên nghiệp, diễn viên quần chúng là người dân Hội An, đoàn nghệ thuật dân gian Chăm tỉnh Ninh Thuận và 30 diễn viên người nước ngoài, đóng các vai thương nhân, khách du lịch.
+Tái hiện hội quê, các nghệ nhân Hội An đã trình diễn hô hát Bài chòi - Di sản văn hóa phi vật thể đại diện của nhân loại.
+Điểm đặc biệt của chương trình là sân khấu ngoài trời, trong không gian của chùa Cầu, sông Hoài.
+"Hội An show" là nơi hội tụ tất cả những hoạt động thường nhật của phố Hội, được sắp đặt, được công bố, được phô diễn rất đời, chân thực, cả hoạt động đời sống, văn hóa, như vốn thế, như Hội An đang có, khác chăng là chỉ cần bước vào Show diễn này là đã có Hội An, đã thấy Hội An, đã thấm Hội An, đã gặp Hội An suốt lịch sử hàng trăm năm, như ta đang bước đi cùng thời gian…
+Tái hiện không khí thương cảng Hội An phồn thịnh khoảng từ thế kỷ 16 đến 18 và thế kỷ 20.
+"Hội An show" là câu chuyện về lịch sử phố Hội, thông qua chương trình, du khách hiểu thêm một Hội An theo những bước chân thời gian của lịch sử, hiểu thêm ý chí và sự kiên trung sống của dân phố Hội.
+Điểm đặc biệt của chương trình là sân khấu ngoài trời, trong không gian của Chùa Cầu, sông Hoài.
+Tri ân về người và đất ở đây, thủy chung, chịu đựng, vươn lên và sáng tạo, bắt nhịp với cuộc sống mới, hơn thế, biết cách trở thành trung tâm du lịch của cả nước và thế giới, biết cách để mỗi người dân Hội An thành một sứ giả du lịch, biết cách gìn giữ truyền thống văn hóa, lịch sử, kiến trúc đô thị cha ông để lại, biết liên kết, biết nâng niu di sản.
+Múa Chăm do đoàn nghệ thuật dân gian Chăm tỉnh Ninh Thuận, với đạo cụ múa là bình gốm Chăm thật được đưa đến Hội An để phục vụ show diễn.
+Chương trình biểu diễn thực cảnh được tổ chức để chào mừng 46 năm ngày Giải phóng thành phố Hội An, cũng như món quà cảm ơn đến những du khách đã dành tình cảm, giúp phố Hội vượt qua thời gian khó khăn về dịch bệnh.
+Trong thời gian sắp tới, chương trình dự kiến có thể được đưa vào biểu diễn phục vụ du khách thường xuyên, với thời lượng ngắn hơn.
+Kể câu chuyện lịch sử của nghề trồng dâu, nuôi tằm, dệt lụa tại vùng đất Quảng Nam, sự tích Bà Chúa tằm tang.
+Theo thống kê, trong quý I/2021, TP Hội An đón hơn 146.375 lượt du khách. Trong đó có 8.420 lượt khách mua vé tham quan.
+Để tiếp tục thu hút du khách, dự kiến thời gian tới thành phố Hội An sẽ tổ chức nhiều chương trình đặc sắc, ấn tượng như đêm nhạc Trịnh Công Sơn (ngày 1/4), "Những ngày văn hóa Hàn Quốc tại Quảng Nam" (từ ngày 9-11/4)… Bên cạnh đó, là các sản phẩm du lịch mới mẻ, độc đáo như biểu diễn thời trang "Dáng phố", biểu diễn thực cảnh "Đêm trăng Hoài giang"…
+Công Bính - Ngô Linh

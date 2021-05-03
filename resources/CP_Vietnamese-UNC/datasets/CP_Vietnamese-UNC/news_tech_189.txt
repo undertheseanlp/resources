@@ -1,20 +1,32 @@
 # doc_id = news_tech_189
-# url = https://dantri.com.vn/suc-manh-so/phan-ung-khong-the-ngo-cua-alibaba-sau-an-phat-28-ty-usd-20210414162428013.htm
-# date = 20210414
-Alibaba khiến nhiều người phải bất ngờ khi gửi lời cảm ơn đến chính quyền Trung Quốc sau khi phải nhận án phạt 2,8 tỷ USD.
-Cuối tuần trước, Cơ quan Quản lý thị trường Trung Quốc (SAMR) đã đưa ra án phạt 18,2 tỷ Nhân dân tệ (tương đương 2,8 tỷ USD) đối với hãng thương mại điện tử Alibaba, với cáo buộc công ty này vi phạm luật chống độc quyền trong cạnh tranh.
-Đây là mức xử phạt kỷ lục đối với một tập đoàn của chính phủ Trung Quốc. Mức xử phạt này tương đương 4% doanh thu từ thị trường nội địa của Alibaba trong năm 2019 và vượt xa mức phạt kỷ lục 1 tỷ USD trước đó của chính quyền Trung Quốc với hãng chip Qualcomm của Mỹ vào năm 2015.
-Tuy nhiên, sau khi phải nhận án phạt kỷ lục, thay vì tìm cách kháng cáo để giảm án phạt, Alibaba đã có một động thái bất ngờ khi gửi… lời cảm ơn đến chính quyền Trung Quốc vì án phạt này.
-"Alibaba sẽ không đạt được sự phát triển nhưng chúng tôi có được hiện nay nếu không có các quy định và chính sách hợp lý của chính phủ, cùng với sự giám sát, sự khoan dung và hỗ trợ từ chính phủ đã giúp chúng tôi có được sự phát triển như ngày hôm nay. Do vậy, chúng tôi tràn đầy lòng biết ơn và sự tôn trọng", Alibaba cho biết trong một thông cáo đưa ra sau khi nhận án phạt từ chính quyền.
-Đây là một động thái được đánh giá là không thể ngờ của Alibaba và cho thấy quyền lực của chính quyền Bắc Kinh đối với các tập đoàn tại Trung Quốc. Nếu án phạt được đưa ra tại Mỹ đối với Apple, Google hoặc Facebook… các công ty này sẽ tìm mọi cách để tránh án hoặc giảm án phạt, thay vì "nói lời cảm ơn" như Alibaba.
-Tuy nhiên, theo các nhà phân tích, Alibaba hoàn toàn có lý do để "nói lời cảm ơn" sau khi nhận án phạt. Đầu tiên, mức án phạt này thấp hơn nhiều so với mức án phạt tối đa mà chính quyền Trung Quốc có thể xử phạt một công ty theo luật pháp. Bên cạnh đó, án phạt được đưa ra như một cách để "giải tỏa tâm lý" cho Alibaba, sau một thời gian công ty này bị điều tra và luôn lo âu với các hình phạt lơ lửng trên đầu. Có thể nói, Alibaba dường như "sạch tội" sau án phạt này.
-"Chúng tôi vui vì khi bỏ lại được các vấn đề sau lưng mình", Thái Sùng Tín, nhà đồng sáng lập và Phó chủ tịch Alibaba chia sẻ với các cổ đông. "Các hành động pháp lý đã được thực hiện để đảm bảo tính công bằng trong cạnh tranh".
-Bên cạnh khoản tiền phạt, Alibaba sẽ buộc phải thực hiện nhiều "biện pháp cải tổ", chẳng hạn cho phép người bán hàng có thể lựa chọn Alibaba hoặc một nền tảng thương mại điện tử bất kỳ để bán sản phẩm, thay vì cam kết chỉ được phép sử dụng Alibaba để bán hàng. Tuy nhiên, Thái Sùng Tín trấn an các nhà đầu tư rằng các chiến lược quan trọng của công ty vẫn được giữ nguyên mà không bị thay đổi vì án phạt.
-Án phạt nhằm vào Alibaba được xem là nhẹ hơn nhiều so với những dự đoán ban đầu. Trước đó, Alibaba được cho là phải chịu án phạt bán bớt tài sản hoặc thoái vốn tại các công ty con.
-Sau khi án phạt được đưa ra, Tổng giám đốc điều hành của Alibaba Trương Dũng tuyên bố rằng công ty đã sẵn sàng để bước tiếp các thử thách, trong khi đó, tờ Nhân Dân nhật báo, cơ quan ngôn luận của Đảng Cộng sản Trung Quốc, cũng tuyên bố rằng Bắc Kinh sẽ không cố gắng kìm hãm các nỗ lực của Alibaba, như một động thái cho thấy Alibaba đã nhận được nhiều sự ủng hộ hơn từ chính quyền.
-Alibaba có lẽ sẽ phải cẩn trọng hơn trong lời nói sau khi công ty do mình sáng lập phải nhận án phạt kỷ lục.
-Alibaba đã lọt vào tầm ngắm của chính quyền Trung Quốc từ cuối năm ngoái, sau khi nhà sáng lập Jack Ma của Alibaba chỉ trích hệ thống quản lý tài chính của Trung Quốc đã gây khó khăn cho nhiều doanh nghiệp tư nhân và tuyên bố rằng sự quản lý của chính quyền Trung Quốc đã không theo kịp sự phát triển của ngành công nghệ.
-Cuộc điều tra nhằm vào Alibaba cũng được xem là động thái mở đầu cho chiến dịch nhằm kiềm chế quyền lực của các nhà hãng công nghệ của chính phủ Trung Quốc, trong bối cảnh các công ty này có tầm ảnh hưởng ngày càng lớn trong đời sống và xã hội tại quốc gia này.
-Sau Alibaba, một trong những hãng công nghệ lớn nhất Trung Quốc là Tencent, được cho là sẽ trở thành mục tiêu điều tra tiếp theo của chính phủ nước này.
-Ngoài Trung Quốc, chính phủ Mỹ và châu Âu cũng đang thực hiện các nỗ lực nhằm hạn chế sức mạnh và tầm ảnh hưởng của các "gã khổng lồ công nghệ" như Google, Facebook hay Apple…
-T.ThủyTheo E.T/ToI
+# url = https://dantri.com.vn/suc-manh-so/phat-dong-giai-thuong-top-10-doanh-nghiep-ict-viet-nam-2021-20210408102207037.htm
+# date = 20210408
+Trong sự phát triển chung của đất nước, ngành công nghiệp phần mềm và dịch vụ CNTT luôn là ngành có tốc độ phát triển cao, đóng góp quan trọng vào sự phát triển, hiện đại hóa của các ngành kinh tế và mọi mặt của đời sống xã hội đất nước.
+Nhằm phát huy, khích lệ các doanh nghiệp trong thời đại công nghệ số, Hiệp hội Phần mềm và Dịch vụ CNTT Việt Nam (VINASA) đã chính thức phát động Chương trình "Top 10 doanh nghiệp ICT Việt Nam 2021".
+Đây được xem là một động thái nhằm đồng hành cùng Chính phủ hiện thực hóa mục tiêu hình thành lực lượng 100.000 doanh nghiệp công nghệ số Việt Nam vào năm 2030 để đáp ứng nhu cầu phát triển kinh tế xã hội.
+Được tổ chức từ năm 2014, đến nay sau 8 năm, chương trình đã lựa chọn và giới thiệu được 390 lượt doanh nghiệp, phát hành 20 ấn phẩm với 3 ngôn ngữ (tiếng Việt, tiếng Anh, tiếng Nhật) đã được biên soạn và mỗi năm đều được gửi giới thiệu tới hơn 2.000 cơ quan, đơn vị trong nước, hơn 10.000 đối tác từ trên 100 quốc gia và nền kinh tế trên thế giới trong mạng lưới hợp tác quốc tế của VINASA.
+"Trong bối cảnh hội nhập quốc tế ngày càng rộng, nhu cầu tìm kiếm, kết nối hợp tác cả từ trong nước và quốc tế đều rất lớn. Đặc biệt, trong giai đoạn hiện nay, nhu cầu chuyển đổi số ngày càng lớn, việc lựa chọn và giới thiệu các nhà cung cấp uy tín, đối tác có năng lực sẽ đáp ứng nhanh chóng và hiệu quả cho hợp tác của các bên", Bà Nguyễn Thị Thu Giang - Phó chủ tịch kiêm Tổng Thư ký VINASA - cho biết. "Năm nay, chương trình mở rộng đánh giá và lựa chọn Top 10 cho nhiều lĩnh vực công nghệ mới, không chỉ theo xu thế của thời đại mà còn là lời giải cho những bài toán thực tế của nhiều lĩnh vực cụ thể".
+Chương trình gồm 3 hoạt động, gồm bình chọn doanh nghiệp trong 17 lĩnh vực; biên soạn ấn phẩm đặc biệt với 3 ngôn ngữ; giới thiệu, quảng bá, kết nối hợp tác với đối tác, khách hàng tiềm năng trong nước và quốc tế.
+Trong đó, Giải thưởng Top 10doanh nghiệp CNTT Việt Nam 2021 sẽ lựa chọn và giới thiệu 10 doanh nghiệp tiêu biểu trong 17 lĩnh vực được chia thành 3 nhóm: theo lĩnh vực/loại hình hoạt động, cung cấp giải pháp chuyển đổi số trong 1 số lĩnh vực đang được quan tâm và nhóm về năng lực công nghệ, theo xu hướng và có lợi thế cạnh tranh hiện tại và tương lai.
+17 lĩnh vực theo tiêu chí của Giải thưởng gồm có:
+- Top 10 DN xuất khẩu phần mềm và dịch vụ CNTT
+- Top 10 DN BPO
+- Top 10 DN cung cấp nền tảng chuyển đổi số
+- Top 10 DN cung cấp dịch vụ, giải pháp chuyển đổi số
+- Top 10 DN cung cấp dịch vụ, giải pháp CNTT (SI)
+- Top 10 DN start-up số
+- Top 10 DN cung cấp giải pháp chính phủ số
+- Top 10 DN cung cấp giải pháp thành phố thông minh
+- Top 10 DN cung cấp giải pháp hậu cần và thương mại điện tử
+- Top 10 DN bảo mật - ATTT
+- Top 10 DN A-IoT
+- Top 10 DN cung cấpdịch vụ điện toán đám mây
+- Top 10 DN Blockchain
+- Top 10 DN FinTech
+- Top 10 DN EdTech
+- Top 10DN PropTech
+- Top 10 DN MedTech
+Theo chia sẻ của Ban tổ chức, các doanh nghiệp tham gia bình chọn sẽ được đánh giá theo 7 tiêu chí gồm: chỉ tiêu tài chính, nhân lực nhân sự, sản phẩm, năng lực công nghệ, công tác quản trị, thành tích đã đạt được và có thêm tiêu chí đánh giá đặc thù riêng theo ngành.
+Quy trình đánh giá gồm 3 vòng bao gồm: Sơ tuyển hồ sơ; Thuyết trình và Thẩm định thực tế; Bình chọn chung tuyển. Hội đồng đánh giá là các chuyên gia trong lĩnh vực công nghệ, tài chính, quản trị, thương mại điện tử, Startup, phóng viên chuyên ngành uy tín hàng đầu Việt Nam.
+Chương trình sẽ tiếp nhận hồ sơ các doanh nghiệp từ ngày7/4/2021, vòng thuyết trình trực tiếp ngày15 - 16/5/2021. Lễ công bố và trao chứng nhận Top 10 DN CNTT Việt Nam 2021 dự kiến sẽ được tổ chức ngày13/7, trước thềm Diễn đàn Cấp cao CNTT - TT Việt Nam 2021.
+Nguyễn Nguyễn

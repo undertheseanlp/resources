@@ -1,24 +1,14 @@
 # doc_id = news_health_184
-# url = https://dantri.com.vn/suc-khoe/nhung-thuc-pham-dau-bang-ve-cholesterol-trong-mam-com-nguoi-viet-20210426083242652.htm
-# date = 20210426
-Ví dụ, những người thường xuyên tiêu thụ thực phẩm chứa nhiều cholesterol rất dễ bị gan nhiễm mỡ và lipid máu.
-Đặc biệt, số lượng bệnh nhân mắc hai căn bệnh nói trên vẫn tăng lên hàng năm. Nguyên nhân chủ yếu là do nhiều người không hiểu rõ về thực phẩm mình thường ăn và họ cũng không biết cách thực hiện một cách chính xác chế độ ăn cân bằng.
-Theo các chuyên gia dinh dưỡng, biện pháp hiệu quả để ngăn ngừa gan nhiễm mỡ, lipid máu chính là nhận diện để hạn chế các thực phẩm chứa nhiều cholesterol trong khẩu phần ăn hàng ngày.
-Dưới đây là bảng xếp hạng các thực phẩm giàu cholesterol theo thứ tự từ thấp đến cao:
-Trứng
-Mặc dù trứng có chứa cholesterol, nhưng thành phần chính của nó vẫn là protein. Vì vậy ăn trứng cũng có thể giúp tăng lượng lipoprotein mật độ cao, tốt cho việc duy trì sức khỏe mạch máu.
-Theo các chuyên gia dinh dưỡng, trứng chứa khá nhiều cholesterol nhưng những người bị tăng lipid máu, gan nhiễm mỡ có thể ăn điều độ theo khuyến cáo mà vẫn đảm bảo sức khỏe.
-Gan lợn
-Tuy là thực phẩm bổ máu hàng đầu, ăn đúng cách có thể cải thiện chức năng tạo máu của gan người, nhưng cần chú ý rằng hàm lượng cholesterol trong gan lợn cũng khá cao. Để ổn định lượng lipid máu trong cơ thể tốt nhất nên ăn ít gan lợn.Những người quá béo được khuyến cáo không nên ăn gan lợn, cũng như các thực phẩm phủ tạng như lòng, gan gà, gan ngỗng.
-Trứng bắc thảo
-Vì là thực phẩm được chế biến theo phương pháp đặc biệt nên trứng bắc thảo bị mất đi rất nhiều chất dinh dưỡng. Hơn nữa trứng bắc thảo được làm từ trứng vịt, vốn có hàm lượng cholesterol cao hơn nhiều so với trứng gà nên cần hạn chế.Đặc biệt những người bị mỡ máu cao, gan nhiễm mỡ nên ăn ít trứng bắc thảo để tránh khiến tình trạng bệnh thêm trầm trọng.
-Óc lợn
-Nhiều người nghĩ óc lợn là một loại thực phẩm rất tốt, nó chứa nhiều phốt pho, sắt, canxi, đồng thời nó cũng rất giàu vitamin B1, vitamin B2 và các chất dinh dưỡng khác.Tuy nhiên, những bệnh nhân mắc gan nhiễm mỡ và lipid máu cao nên thận trọng khi dùng, bởi đây là thực phẩm giàu cholesterol hàng đầu.
-Những triệu chứng cảnh báo gan nhiễm mỡ
-Người mắcgan nhiễm mỡcó những dấu hiệu cảnh báo sau:
-- Mệt mỏi, chán ăn: Khi mắcbệnh gannhiễm mỡ, gan sẽ không thực hiện tốt các chức năng chuyển hóa làm cho chất dinh dưỡng đưa vào cơ thể bị giảm sút đồng thời khả năng giải độc cũng giảm khiến lượng độc tố đưa vào máu tăng cao,từ đó cơ thể bị nhiễm độc, thiếu chất dinh dưỡng gây ra hiện tượng mệt mỏi, ăn uống không ngon.
-- Đầy bụng, buồn nôn: Khi gan bị nhiễm mỡ, các tế bào gan dễ bị tổn thương khiến chức năng gan suy giảm, dẫn tới giảm khả năng giải độc, chuyển hóa làm cho cơ thể khó tiêu kèm theo một số triệu chứng như nước tiểu sậm màu, phân xám hoặc sạm màu,….
-- Rối loạn nội tiết: Bệnh gan nhiễm mỡ nặng có thể gây ra rối loạn nội tiết như tuyến vú nam giới phát triển, gặp trở ngại về chức năng cương dương, tinh hoàn bị teo. Phụ nữ dễ bị tắc kinh, rong kinh, thay đổi cân nặng (tăng hoặc giảm)…
-- Bị vàng da: Khi gan bị nhiễm mỡ chức năng gan bị rối loạn và nó không thể ức chế được lượng bilirubin, gây nên tình trạng vàng da.
-Minh Nhật
-Tổng hợp
+# url = https://dantri.com.vn/suc-khoe/noi-soi-da-day-dung-so-20210419153523376.htm
+# date = 20210419
+GS.TS Trần Bình Giang, Giám đốc Bệnh viện Việt Đức cho biết, tạiNhật Bản, 40% số ca phẫu thuật ung thư dạ dày được thực hiện dưới hình ảnh nội soi hỗ trợ phẫu thuật và tỷ lệ này đang ngày càng gia tăng bởi việc phát hiện sớm. Trong khi đó Việt Nam cũng áp dụng rộng rãi nội soi dạ dày tại nhiều bệnh viện, nhưng số bệnh nhân được phát hiện sớm vẫn còn hạn chế do người bệnh e ngại việc khám sức khỏe định kỳ, sợ nội soi dạ dày.
+Theo TS.BS Bùi Ánh Tuyết, Trưởng khoa Nội soi thăm dò chức năng (BV K) ,việc phát hiện ung thư dạ dày ở giai đoạn sớm là yếu tố tiên quyết cho việc điều trị đạt hiệu quả tối đa. Tuy nhiên tại Việt Nam tỉ lệ phát hiện sớm ung thư dạ dày thấp, chỉ khoảng 10% bệnh nhân K dạ dày được phát hiện sớm qua nội soi, do nhiều người có tâm lý e ngại nội soi, tự mua thuốc điều trị khi thấy đầy hơi, khó tiêu...
+Trong thực tế, nhiều người cứ đau bụng, đầy hơi, khó tiêu họ nghĩ ngay đau dạ dày, tự mua vài liều thuốc về uống, thấy đỡ rồi thôi chứ không có ý thức đi khám. Hoặc giả đi khám nhưng lại ngại nội soi dạ dày. Trong khi đó, dạ dày là một tạng rỗng, có thể hình dung nó như một quả bóng, vì thế khám bên ngoài sẽ không thể thấy được những tổn thương bên trong. Việc siêu âm, chụp dạ dày có cản quang cũng chỉ phát hiện ở một chừng mực nhất định, khi bệnh đã ở giai đoạn muộn do khối u quá lớn.
+"Với ung thư dạ dày, để phát hiện không chỉ đơn giản khám sức khỏe thông thường, mà buộc phải tiến hành nội soi dạ dày để có thể phát hiện sớm ung thư. Vì thế, những người có chỉ định nội soi dạ dày đừng e ngại. Việc nội soi không chỉ cho phép phát hiện các tổn thương "lạ" nghi ngờ ung thư dạ dày, các bác sĩ sẽ lấy mẫu tế bào để sinh thiết, mà hiện nay nó còn là phương pháp điều trị ung thư dạ dày giai đoạn sớm", GS Giang cho biết.
+Nhiều người đến viện khám với tâm lý kiểm tra dạ dày vì chỉ nghĩ đơn giản là bị đau dạ dày, một căn bệnh rất phổ biến của người Việt. Vì thế, không ít người sốc khi được chẩn đoán ung thư dạ dày từ những dấu hiệu dễ nhầm lẫn với đau dạ dày thông thường.
+Việc phát hiện sàng lọc sớm ung thư dạ dày hiện nay thì phương pháp hữu hiệu nhất vẫn là phương pháp nội soi dạ dày bằng ống mềm cho phép chúng ta đánh giá toàn bộ niêm mạc trọng dạ dày, và nếu có tổn thương chúng ta có thể sinh thiết để chẩn đoán sớm ung thư dạ dày.
+Như với người mắc bệnh ở giai đoạn sớm, người ta có thể qua nội soi hớt phần niêm mạc bị ung thư và giữ nguyên dạ dày, bệnh nhân sống thêm vài năm. Trong khi đó, ở giai đoạn muộn bệnh nhân vừa phải phẫu thuật, xạ trị mà cơ hội sống vẫn rất khó khăn. Vì thế, việc nội soi định kỳ ở người có tiền sử đau dạ dày, nhiễm vi khuẩn HP là vô cùng quan trọng", GS Giang nói.
+Đặc biệt có những ung thư dạ dày không biểu hiện triệu chứng. Vì thế, với người trên 50 tuổi, có HP dương tính dù không biểu hiện triệu chứng mỗi năm nên đi nội soi 1 lần để phát hiện những tổn thương dạ dày mãn tính như viêm teo dạ dày, loạn sản niêm mạc dạ dày,
+GS Giang khuyến cáo người dân 6 tháng khám sức khỏe định kỳ 1 lần. Trên thế giới nhiều nước thực hiện chương trình tầm soát toàn quốc gia, áp dụng cho những người từ 40 tuổi trở lên thực hiện soi dạ dày 2 năm một lần. Tại Việt Nam, GS Giang khuyến cáo với những người có bệnh lý đường tiêu hóa cần chủ động đi khám, nội soi dạ dày ngay khi có dấu hiệu đau dạ dày, ăn uống khó tiêu, nôn, buồn nôn… Những người từng bị chẩn đoán viêm loét dạ dày hay bị các rối loạn tiêu hóa điều trị nội khoa lâu không đỡ cũng cần đi nội soi lại để kịp thời phát hiện bệnh.
+Hiện nay, nội soi dạ dày rất đơn giản, chỉ mất vài ba phút soi "sống" hoặc nội soi gây mê sẽ cho phép phát hiện nguy cơ ung thư dạ dày (nếu có) để được điều trị kịp thời.
+Hải Minh

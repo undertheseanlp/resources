@@ -1,9 +1,12 @@
 # doc_id = news_world_173
-# url = https://dantri.com.vn/the-gioi/nga-trung-quoc-vuot-mat-my-ve-toc-do-hien-dai-hoa-vu-khi-hat-nhan-20210421151251041.htm
-# date = 20210421
-Phát biểu điều trần trước quốc hội Mỹ ngày 20/4, Đô đốc Hải quân Charles Richard, người đứng đầu Bộ Chỉ huy Chiến lược của Mỹ, nói: "Nga đang tích cực hiện đại hóa năng lực hạt nhân và hiện đã hoàn thành gần 80%, trong khi chúng ta vẫn ở con số 0. Liệt kê những thứ mà họ chưa hiện đại hóa dễ hơn là liệt kê những gì họ đang hiện đại hóa".
-Quan chức này cũng cảnh báo, Trung Quốc đang hiện đại hóa năng lực hạt nhân một cách nhanh chóng, đến mức không có tuần nào mà ông không phát hiện ra điều gì đó mà "chúng ta còn chưa biết về Trung Quốc". Mặc dù quy mô kho vũ khí hạt nhân của Trung Quốc nhỏ hơn nhiều so với của Mỹ và Nga, nhưng Bắc Kinh đang mở rộng kho vũ khí này với quy mô "chưa từng có", ông Richard nói.
-Theo Hiệp ước START về kiểm soát vũ khí hạt nhân, Nga và Mỹ phải giới hạn sở hữu khoảng 1.550 đầu đạn hạt nhân trên các tên lửa đạn đạo xuyên lục địa và tên lửa đạn đạo phóng từ tàu ngầm, máy bay ném bom được triển khai. Trong khi đó, theo số liệu của Viện nghiên cứu Hòa bình Stockholm, Trung Quốc có khoảng 320 đầu đạn hạt nhân.
-Chính quyền Tổng thống Mỹ Joe Biden đang đánh giá lại tiềm lực hạt nhân, trong đó nghiên cứu mức đầu tư vào chương trình hiện đại hóa hạt nhân. Mục tiêu của việc đánh giá này là "giảm mục tiêu của vũ khí hạt nhân trong chiến lược quốc phòng của Mỹ".
-Theo báo cáo tháng 10/2017 từ Văn phòng Ngân sách Quốc hội Mỹ, các hoạt động, nâng cấp tạm thời và hiện đại hóa hoàn toàn chương trình vũ khí hạt nhân của nước này có thể ngốn tới 1,2 nghìn tỷ USD.
-Minh PhươngTheo Washington Post
+# url = https://dantri.com.vn/the-gioi/ngay-sau-khi-tai-dac-cu-tong-thong-chad-chet-tren-tien-tuyen-20210420191937894.htm
+# date = 20210420
+Tổng thống Chad Idriss Deby (Ảnh: Getty).
+Chiến dịch của Tổng thống Idriss Deby hôm nay cho biết, ông đã tới thăm các binh sĩ trên tiền tuyến ở phía bắc hôm 19/4 sau khi các phần tử nổi dậy trú ẩn tại Libya giáp biên giới tiến sâu hàng trăm km về phía nam hướng về thủ đô N'Djamena của Chad.
+Chưa rõ nguyên nhân chính xác cái chết của ông Deby, nhưng một nguồn tin ngoại giao châu Âu cho hay nhà lãnh đạo này đã bị tấn công.
+Phát ngôn viên quân đội Azem Bermendao Agouna cho biết trong một bản tin trên truyền hình quốc gia rằng con trai của ông Deby là Tướng Mahamat Kaka đã được chỉ định làm tổng thống lâm thời.
+Ông Deby, 68 tuổi, lên nắm quyền vào năm 1990 và là một trong những nhà lãnh đạo tại vị lâu nhất tại châu Phi. Ông và quân đội Chad được xem là một đồng minh tin cậy của phương Tây tại một khu vực bất ổn thường xuyên bị ảnh hưởng bởi các phần tử thánh chiến.
+Cái chết của ông Deby diễn ra chỉ một ngày sau khi Ủy ban Bầu cử quốc gia tuyên bố ông là người chiến thắng tuyệt đối trong vòng 1 của cuộc bầu cử tổng thống hôm 11/4. Tuy nhiên, một số chính trị gia đối lập hàng đầu đã tẩy chay cuộc bầu cử này.
+Tổng thống Chad Idriss Deby bị tấn công khi thăm tiền tuyến phía bắc giáp Libya (Ảnh: ngara).
+An Bình
+Theo Reuters

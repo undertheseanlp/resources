@@ -1,19 +1,16 @@
 # doc_id = news_society_129
-# url = https://dantri.com.vn/xa-hoi/ha-noi-co-them-5-quan-vao-nam-2025-20210425194611054.htm
-# date = 20210425
-Dự kiến vào năm 2025, Hà Nội sẽ có thêm 5 quận mới (Ảnh: Nguyễn Khánh).
-Theo quyết định do Bí thư Thành ủy Hà Nội Đinh Tiến Dũng ban hành, Ban Chỉ đạo xây dựng, phát triển 5 huyện thành quận của thành phố gồm 26 người, trong đó Chủ tịch UBND TP Hà Nội Chu Ngọc Anh được phân công làm trưởng ban.
-Ban này có nhiệm vụ chỉ đạo, hướng dẫn, kiểm tra việc xây dựng, phát triển 5 huyện: Hoài Đức, Đông Anh, Thanh Trì, Gia Lâm và Đan Phượng thành quận thuộc TP Hà Nội.
-Trước đó, tại Hội nghị học tập, quán triệt, tuyên truyền 10 Chương trình công tác của Thành ủy Hà Nội khóa XVII, nhiệm kỳ 2020-2025, Phó Bí thư Thành ủy, Chủ tịch HĐND thành phố Nguyễn Ngọc Tuấn cho biết, trong 19 chỉ tiêu của Chương trình số 03-CTr/TU, đến năm 2025, thành phố sẽ hoàn thành Đề án đầu tư xây dựng huyện thành quận đối với 5 huyện nêu trên.
-Hoàn thành xây dựng Đề án khung cơ chế chính sách đặc thù để thúc đẩy tiến độ cải tạo, xây dựng lại các chung cư cũ trên địa bàn thành phố; triển khai cải tạo, xây dựng lại các chung cư cũ nguy hiểm cấp D; triển khai cải tạo, xây dựng lại 2-3 khu chung cư cũ và chuẩn bị triển khai các khu còn lại.
-Chỉnh trang 20 nhà biệt thự và 10 công trình kiến trúc có giá trị xây dựng trước năm 1954. Trồng mới 500.000 cây xanh đô thị (trong tổng số 3,5 triệu cây xanh trồng mới toàn thành phố).
-Chủ tịch HĐND thành phố cũng yêu cầu tập trung phát triển mạnh mẽ kinh tế đô thị, nhất là các ngành nghề phi nông nghiệp ứng dụng công nghệ cao, giá trị gia tăng cao gắn với bảo vệ môi trường; chú trọng các mô hình kinh tế chia sẻ, kinh tế ban đêm, phát triển thêm các tuyến phố đi bộ…
-Nâng cao chất lượng, hiệu quả, tính khả thi của công tác chỉnh trang, hiện đại hóa đô thị tại các khu vực trung tâm; cải tạo, chỉnh trang các khu vực đô thị cũ góp phần xây dựng cảnh quan thành phố xanh, văn minh, hiện đại.
-Phát triển đồng bộ hệ thống kết cấu hạ tầng đô thị khung, đặc biệt là hạ tầng giao thông kết nối đô thị trung tâm với khu vực ngoại thành, các đô thị vệ tinh, các tỉnh, thành phố trong vùng Thủ đô; tăng cường mối liên kết vùng, tạo động lực phát triển trong vùng Thủ đô; Ưu tiên xây dựng không gian ngầm đô thị theo hướng tích hợp đa chức năng...
-Bên cạnh đó, thành phố sẽ ưu tiên phát triển đô thị xanh, bền vững, thông minh, hiện đại. Đầu tư mở rộng khu vực đô thị, xây dựng hạ tầng khung, hạ tầng xã hội tại 5 huyện thành quận và đô thị vệ tinh. Hình thành các công trình, khu vực điểm nhấn đô thị mang tính biểu tượng, tạo lập không gian kiến trúc, cảnh quan đặc sắc của Thủ đô…
-Hà Nội đang có bao nhiêu quận?
-Ngày 10/10/1954, Thủ đô Hà Nội được hoàn toàn giải phóng. Ngày 4/11/1954, Hà Nội thành lập Ủy ban hành chính các quận Ba Đình, Hoàn Kiếm, Đống Đa, Hai Bà Trưng.
-Ngày 28/10/1995, Hà Nội thành lập quận Tây Hồ. Ngày 29/11/1996, thành lập các quận Thanh Xuân, Cầu Giấy. Ngày 6/11/2003, thành lập các quận Long Biên, Hoàng Mai.
-Ngày 8/5/2009, quận Hà Đông được thành lập trên cơ sở thành phố Hà Đông (thuộc tỉnh Hà Tây cũ). Ngày 27/12/2013, huyện Từ Liêm được tách thành hai quận là Bắc Từ Liêm và Nam Từ Liêm.
-Cho đến thời điểm hiện tại, Hà Nội đang có 12 quận, 17 huyện và 1 thị xã.
+# url = https://dantri.com.vn/xa-hoi/ha-noi-de-xuat-cach-ly-xa-hoi-toan-bo-xa-viet-hung-20210430160017715.htm
+# date = 20210430
+Thông tin nêu trên được Phó Giám đốc Sở Y tế Hà Nội Hoàng Đức Hạnh nêu ra tại cuộc họp Ban chỉ đạo công tác phòng, chống dịch bệnh vào chiều 30/4.
+Sở Y tế Hà Nội đề nghị thực hiện cách ly xã hội toàn bộ xã Việt Hùng (huyện Đông Anh).
+Theo ông Hạnh, tình hình dịch bệnh trên địa bàn huyện Đông Anh đang diễn biến hết sức phức tạp. Liên quan đến các trường hợp tại Hà Nội tiếp xúc gần với ca dương tính tại Hà Nam đã xác định 4 trường hợp, trong đó 3 trường hợp có kết quả xét nghiệm âm tính lần 1, 1 trường hợp dương tính tại huyện Đông Anh, là nam bệnh nhân (BN2911; trú tại khu Trung, Việt Hùng (Đông Anh).
+Điều tra có 21 trường hợp tiếp xúc gần với BN2911, các trường hợp này đã được cách ly tập trung và lấy mẫu xét nghiệm. Kết quả xét nghiệm do CDC Hà Nội thực hiện cho thấy có 2 trường hợp dương tính vi rút (Bộ Y tế chưa công bố), 19 trường hợp âm tính.
+2 trường hợp mới này, 1 người là N.Đ.Đ. (SN 1994, ở Lỗ Giao, Việt Hùng; công nhân làm việc tại Công ty Vinco ở huyện Đông Anh); trường hợp còn lại là N.H.N. (nữ, SN 1996, ở Lỗ Giao, Việt Hùng; công nhân làm việc tại Công ty Panasonic ở Khu Công nghiệp Bắc Thăng Long).
+Kết quả điều tra sơ bộ cho thấy có 17 F1 tiếp xúc gần với anh Đ. và 33 trường hợp là F1 đối với chị N.
+Lãnh đạo Sở Y tế Hà Nội cho biết, hiện ghi nhận 14 trường hợp lây nhiễm trong cộng đồng liên quan đến ổ dịch tại Hà Nam.
+Tại Hà Nội, ghi nhận 3 trường hợp, trong đó có 2 trường hợp từ F2 thành F0. Đáng lo ngại, cả 2 trường hợp này lại làm việc tại khu công nghiệp có nhiều lao động tiếp xúc với nhiều người nên tình hình khá phức tạp, dự báo khả năng tiếp tục ghi nhận thêm ca mắc mới trong thời gian tới.
+"Vì vậy, các quận, huyện, thị xã đặc biệt là huyện Đông Anh cần hết sức khẩn trương chỉ đạo thần tốc truy vết người liên quan và người có triệu chứng để cách ly, làm xét nghiệm… Tổ chức lấy mẫu toàn bộ người dân ở thôn Trung, xã Việt Hùng. Đề nghị thực hiện Chỉ thị 16 của Thủ tướng Chính phủ tại xã Việt Hùng, nơi BN2911 sinh sống. Riêng xã Uy Nỗ (Đông Anh) thực hiện theo Chỉ thị 15" - ông Hạnh nói.
+Trước đó, khi trên địa bàn xuất hiện ca mắc Covid-19 trên địa bàn, huyện Đông Anh đã lập 1 chốt cách ly khu vực nhà tập thể bệnh nhân sinh sống ở thôn Trung, xã Việt Hùng gồm 17 hộ gia đình với 73 người (gồm 52 người lớn và 21 trẻ em) và 13 chốt các hộ liên quan, tổng số 14 chốt cách ly.
+Trong đêm 29/4, BCĐ Phòng chống, dịch huyện Đông Anh đã triệu tập họp khẩn với Chủ tịch UBND các xã, thị trấn thông báo tình hình ca bệnh, chỉ đạo khẩn trương điều tra truy vết tất cả các trường hợp F1, F2, yêu cầu trực dịch 24/7 và báo cáo tình hình dịch bệnh 2 lần/ngày.
+Huyện Đông Anh yêu cầu các doanh nghiệp dừng các hoạt động tham quan, du lịch cho công nhân trong kỳ nghỉ lễ, dừng hoãn các hoạt động tập trung đông người, cỗ bàn, cưới hỏi; vận động Công ty giày Hồng Bảo dừng tổ chức cho khoảng 1.000 công nhân du lịch dự kiến vào sáng ngày 30/4…
 Nguyễn Trường

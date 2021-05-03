@@ -1,12 +1,21 @@
 # doc_id = news_world_077
-# url = https://dantri.com.vn/the-gioi/chim-ung-f-16-cua-my-mang-ten-lua-khong-doi-khong-toi-bien-dong-20210420071413320.htm
-# date = 20210420
-Cận cảnh tên lửa trên chiếc F-16 (Ảnh: Lori/Twitter).
-Theo The Drive, dựa vào những bức ảnh chụp lại những chiếc F-16 của không quân Mỹ quay trở về căn cứ Yokota ở Nhật Bản sau khi làm nhiệm vụ ở Biển Đông, giới quan sát chỉ ra rằng các tiêm kích này đã mang nhiều tên lửa.
-Sự xuất hiện của F-16 hồi tuần trước trùng với thời điểm Trung Quốc đưa số lượng lớn chưa từng có máy bay vào vùng nhận diện phòng không ADIZ của Đài Loan trong thời gian gần đây: 25 chiếc.
-Theo các bức ảnh, mỗi chiếc F-16 mang theo 5 tên lửa không đối không tầm xa AIM-120C-7 AMRAAM và một tên lửa tầm ngắn AIM-9 Sidewinder. Dưới phần bụng, máy bay có thêm thiết bị chống tác chiến điện tử AN/ALQ-184. Toàn bộ các vũ khí trong tình trạng sẵn sàng hoạt động, cho thấy Mỹ dường như muốn gửi tín hiệu tới quân đội Trung Quốc.
-Những bức ảnh trên được chụp hôm 17/4, khi cả 4 chiếc máy bay hạ cánh xuống căn cứ Yokata, dường như để tiếp dầu, trước khi bay về căn cứ Misawa, Nhật Bản.
-Khi hiện diện ở Biển Đông trước đó, 4 chiếc F-16 trên đã thực hiện các hoạt động với tàu sân bay USS Theodore Roosevelt khi hàng không mẫu hạm này đang được triển khai theo lịch trình tới khu vực hoạt động của Hạm đội 7 của Mỹ.
-Căng thẳng ở Biển Đông và eo biển Đài Loan có dấu hiệu gia tăng trong thời gian sau động thái của Mỹ và Trung Quốc. Hai bên điều khí tài quân sự, thực hiện các cuộc diễn tập ở khu vực. Gần đây nhất, Mỹ và Trung Quốc đều điều tàu sân bay tới Biển Đông, động thái được xem là cho thấy 2 bên đều phát đi thông điệp cứng rắn.
+# url = https://dantri.com.vn/the-gioi/chuyen-gia-phan-tich-kich-ban-co-the-xay-ra-voi-tau-ngam-indonesia-mat-tich-20210422092736534.htm
+# date = 20210422
+Số phận của con tàu mất tích hiện vẫn còn là ẩn số (Ảnh: Getty).
+Ngày 21/4, tàu ngầm KRI Nanggala 402 bị mất tích khi đang diễn tập ngư lôi ở khu vực cách phía bắc đảo Bali khoảng 100 km, với 53 người trên tàu.
+Indonesia hiện đang triển khai các tàu tìm kiếm ở vùng nước sâu, đồng thời đề nghị Australia, Singapore và Ấn Độ hỗ trợ cuộc tìm kiếm.
+Theo hải quân Indonesia, vết dầu loang mà nước này phát hiện ở khu vực tàu chìm xuống có thể là dấu hiệu thùng nhiên liệu tàu bị hư hỏng, hoặc là tín hiệu từ thủy thủ đoàn. Indonesia nghi ngờ sự cố về điện có thể đã khiến cho con tàu không thể liên lạc hoặc không thể nổi lên trên mặt nước.
+Con tàu được cho là bị chìm xuống dưới khu vực sâu 700 mét, trong khi tàu ngầm loại này chỉ có thể chịu được áp lực ở độ sâu tối đa là 250 mét, theo Herald Sun.
+Con tàu dài 60 mét, trọng lượng 1.395 tấn do Đông Đức đóng hơn 40 năm trước và từng được tân trang và nâng cấp một vài lần khi phục vụ trong biên chế Indonesia.
+Nhận định của các chuyên gia
+Đồ họa mô phỏng vị trí tàu ngầm của Indonesia vào thời điểm mất tích (Ảnh: AFP).
+Trả lời Reuters, nhà phân tích quân sự Soleman Ponto cho biết, có thể cần tới vài ngày để biết được chính xác điều gì đã xảy ra với tàu ngầm, liệu có phải nó bị hỏng thiết bị thông tin liên lạc hay đã bị chìm.
+"Chúng ta chưa thể biết tàu bị hỏng thiết bị liên lạc hay đã chìm. Chúng ta phải chờ ít nhất 3 ngày", ông Ponto nói.
+Tuy nhiên, chuyên gia người Anh Ryan Ramsey, một cựu chỉ huy tàu ngầm hạt nhân, nói với The Sun rằng: "Nếu có điều gì đó đã xảy ra, khả năng tìm thấy Nanggala-402 là khá khó". Ông cho biết, thông thường, nếu có vấn đề xảy ra, con tàu sẽ nổi ngay lên.
+"Vì vậy, trong trường hợp này, hoặc là thủy thủ đoàn không thể làm con tàu nổi lên hoặc đã có điều gì đó nghiêm trọng xảy ra chớp nhoáng vào thời điểm nó mất tích", ông Ryan nói.
+Ông Ryan nhận định, Bali là một đảo núi lửa được vây quanh bởi những vùng biển rất sâu, tối đa có thể lên tới 1.590 mét. Điều này được cho sẽ gây trở ngại nhất định cho cơ hội tìm thấy những người còn sống sót.
+Ngoài ra, theo giới quan sát, tàu KRI Nanggala - vốn đã khá cũ kỹ - không có cửa cứu hộ để tàu cứu hộ bám vào trong trường hợp nó được tìm thấy. Lựa chọn duy nhất cho những người sống sót là mặc "bộ đồ thoát hiểm" và chui qua tháp điều khiển.
+Bộ đồ trên cho phép người mặc có thể sống sót 24 giờ trên mặt nước, nhưng nó chỉ có thể hoạt động ở độ sâu khoảng 200 mét. Ông Ramsey nói rằng, nếu tàu bị chìm quá sâu, khả năng giải cứu được người là không quá cao, do thiết kế quá cũ của tàu.
+Trong khi đó, một chuyên gia Pháp nói với AFP rằng, KRI Nanggala 402 là "một tàu ngầm cổ điển" nên giới hạn chịu đựng của nó là độ sâu 250 mét. Chìm sâu hơn khoảng cách này, đồng nghĩa với việc, con tàu có thể bị vỡ.
 Đức Hoàng
-Theo The Drive
+Theo Herald Sun, The Sun

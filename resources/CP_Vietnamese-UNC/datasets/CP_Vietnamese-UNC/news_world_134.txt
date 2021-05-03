@@ -1,29 +1,27 @@
 # doc_id = news_world_134
-# url = https://dantri.com.vn/the-gioi/linh-cam-khac-thuong-cua-thuy-thu-indonesia-truoc-khi-tau-ngam-mat-tich-20210423121229149.htm
-# date = 20210423
-Helen cầm điện thoại có ảnh của chồng - Serda Diyut Subandriyo và đồng đội (Ảnh: Antara).
-Serda Diyut Subandriyo, 37 tuổi, sống tại thành phố Madiun, Đông Java, là một trong 53 thành viên thủy thủ đoàn trên tàu ngầm KRI Nanggala 402 mất tích ở vùng biển phía bắc đảo Bali vào sáng 21/4.
-Vợ của Serda Diyut, Helen, xác nhận chồng cô là một thủy thủ có mặt trên tàu ngầm Nanggala trước khi tàu bị mất liên lạc trong cuộc diễn tập cách đây 2 ngày.
-Helen cầm trên tay chiếc điện thoại có ảnh chồng cô chụp cùng đồng đội. Helen cầu nguyện cho chồng cô và tất cả thành viên trên tàu ngầm Nanggala sẽ sớm được tìm thấy và trở về an toàn.
-"Tôi hy vọng tàu KRI Nanggala 402, Diyut và thủy thủ đoàn sẽ được tìm thấy, an toàn và mọi người đều khỏe mạnh", Helen nói với hãng tin Antara News của Indonesia.
-Helen cho biết lần liên lạc cuối cùng của cô với chồng là vào khoảng 10 giờ đêm 20/4 thông qua ứng dụng nhắn tin WhatsApp.
-Sáng 21/4, Helen nhắn tin cho chồng để dặn dò anh ăn sáng. WhatsApp báo tin nhắn đã được gửi đi, nhưng chưa được đọc.
-"Sau đó, chúng tôi nhận được tin tàu KRI Nanggala mất tích", Helen cho biết.
-Trước đó, Serda Diyut về nhà ở thành phố Madiun vào ngày 14/4. Đến tối 18/4, anh quay trở lại thành phố Surabaya để thực hiện nhiệm vụ.
-Helen nói rằng trước khi lên xe buýt rời đi, chồng cô đã có cảm giác "bất an" về chuyến đi biển sắp tới. Tuy vậy, Helen vẫn động viên chồng tiếp tục hoàn thành nhiệm vụ được đơn vị giao phó.
-"Serda Diyut từng lên đường nhiều lần, nhưng chưa lần nào anh ấy thấy bất an như vậy", Helen cho biết.
-Trong gia đình, Serda Diyut được nhiều người yêu mến. Anh cũng là người con rất vâng lời cha mẹ.
-Mỗi khi chuẩn bị ra biển, Serda Diyut thường dành thời gian để đến chào người mẹ hiện sống ở Gang Menco, làng Nambangan Lor, thành phố Madiun.
-Serda Diyut có hai con, một bé gái 11 tuổi và một bé trai 5 tuổi.
-Niềm tin trở về
-Bà Yayak Dwi Ernawati cầm ảnh cưới của con rể - Serda Ede Pandu Yudha Kusuma và con gái (Ảnh: Antara).
-Một thủy thủ khác trên tàu ngầm KRI Nanggala là Serda Ede Pandu Yudha Kusuma. Anh mới kết hôn chưa đầy 2 tháng.
-"Sau khi kết hôn khoảng ba ngày, Pandu lập tức trở về đơn vị ở Surabaya. Ngày 14/4, Pandu liên lạc với chúng tôi và thông báo sẽ tham gia huấn luyện quân sự", bà Yayak Dwi Ernawati, mẹ vợ của Serda Pandu, cho biết.
-Bà Yayak nói rằng bà biết tin tàu ngầm mất tích từ bạn bè của Pandu và xác nhận con rể bà là một thành viên của thủy thủ đoàn.
-Bà Yayak cầm trên tay bức ảnh cưới của con gái và con rể. Bà vẫn tin rằng Pandu còn sống sót và sẽ về nhà an toàn.
-"Tôi vẫn tin Pandu sẽ trở về an toàn", bà Yayak nói.
-Khi đang tham gia cuộc diễn tập huấn luyện phóng ngư lôi vào ngày 21/4, tàu ngầm KRI Nanggala 402 của Indonesia đã bị mất liên lạc ở vị trí cách đảo du lịch Bali khoảng 95 km về phía bắc với 53 người trên khoang.
-Tư lệnh hải quân Indonesia Yudo Margono ngày 22/4 cho biết lượng ôxy trên tàu chỉ đủ để duy trì đến khoảng 3 giờ sáng ngày 24/4, khi tàu ngầm vẫn đang trong tình trạng "mất điện".
-Tàu KRI Nanggala được dự đoán chìm ở độ sâu 600-700 mét. Nhiều dự báo xấu đã được đưa ra về số phận của 53 thành viên thủy thủ đoàn, do các phương tiện cứu hộ tàu ngầm hiện không thể lặn xuống độ sâu của tàu.
-Thành Đạt
+# url = https://dantri.com.vn/the-gioi/linh-cam-khong-lanh-cua-thuy-thu-tren-tau-ngam-indonesia-gap-nan-20210429090127693.htm
+# date = 20210429
+Tàu ngầm KRI Nanggala 402 (Ảnh: AFP).
+Hai năm trước, sĩ quan hải quân Indonesia Setyo Wawan đã được phỏng vấn về cuộc đời làm thủy thủ tàu ngầm trên chương trình truyền hình mang tên "Chiến binh".
+"Khoảnh khắc tàu chở bạn chìm xuống nước, điều đó đồng nghĩa với việc bạn đã chết. Tôi cũng đã nói điều này với vợ và con tôi. Khi người chồng đi làm nhiệm vụ dưới các tàu ngầm, hãy coi như người chồng, người cha đã chết. Hãy cầu nguyện với Thánh Allah rằng người chồng sẽ được ban cho sự an toàn, di chuyển thuận lợi và cuộc sống dễ dàng dù người đó ở đâu", Setyo nói.
+Bình luận của Setyo đã trở thành "lời tiên tri" đầy bi kịch khi anh là 1 trong 53 người trên tàu ngầm KRI Nanggala 402 gặp nạn ở eo biển Bali hôm 21/4 trong khi đang tham gia một cuộc diễn tập ngư lôi.
+Video cuộc phỏng vấn của Setyo do kênh Trans TV đăng tải trên YouTube đã lan truyền rộng rãi sau khi con tàu gặp nạn và thu hút hơn 1 triệu người xem.
+Những bình luận được đăng tải dưới video cho thấy nỗi đau xót khi Indonesia mất đi nhóm quân nhân mà Tổng thống Joko Widodo mô tả là "những người yêu nước tuyệt vời nhất".
+Ngoài những thông điệp san sẻ nỗi đau, cuộc đời của các thủy thủ cũng được tôn vinh. Giữa những giọt nước mắt đau đớn, những người vợ và mẹ của họ chia sẻ hình ảnh của những nạn nhân xấu số trên mạng xã hội.
+Trong khi đó, các nỗ lực nhằm đưa xác tàu và thi thể của các nạn nhân từ độ sâu 838 mét dưới biển đang được xem xét, dù giới chuyên gia cảnh báo đây sẽ là nhiệm vụ đầy thách thức. Tàu ngầm đã vỡ ra làm 3 phần khi gặp nạn.
+Một phần tàu ngầm xấu số chìm dưới biển (Ảnh: Quân đội Indonesia).
+Trong cuộc trả lời phỏng vấn, sĩ quan Setyo đã tiết lộ về cuộc sống bên trong tàu ngầm khi anh phải làm việc hàng giờ đồng hồ liên tục và sống trong điều kiện thiếu thốn.
+"Thỉnh thoảng, chúng tôi không thể ngủ được. Và thỉnh thoảng, chúng tôi phải ngủ trong tư thế ngồi vì không gian trong tàu có giới hạn. Các hành lang rất nhỏ. Hai người sẽ phải nhường nhau nếu muốn đi qua. Chúng tôi liên tục đâm vào nhau, nhưng theo thời gian, chúng tôi trở thành anh em, gia đình của nhau", Setyo nói.
+Một sĩ quan hải quân về hưu cho biết, các thủy thủ tàu ngầm phải sống xa gia đình hàng tháng trời dưới đáy biển, ở độ sâu 200 mét, nơi gần như không có ánh sáng. Họ phải dựa vào nhau để có thể sống qua cảm giác cô đơn và bí bách dưới biển.
+Nỗi đau chưa nguôi ngoai
+Sự ra đi của Setyo để lại nỗi đau to lớn với gia đình. Người mẹ Wiji, 60 tuổi, gạt nước mắt khi nhớ về cậu con trai tháo vát, từng kiếm tiền từ rất nhỏ để giúp đỡ gia đình. Bà Wiji cho biết, Setyo đã để lại vợ và 2 con nhỏ.
+Trong một gia đình thủy thủ tàu ngầm, những người vợ phải học cách trở nên cứng rắn như chồng mình.
+Cica Yuemi, 38 tuổi, mất người chồng Munawir, 41 tuổi, trong vụ tai nạn tàu ngầm. Họ đã kết hôn 19 năm và có 2 con gái.
+Khi họ cưới nhau, Munawir đã cảnh báo Yuemi rằng công việc của anh rất nguy hiểm và chị phải chuẩn bị tinh thần vì "bất cứ điều gì cũng có thể xảy ra".
+Khi nghe tin chồng mất, Yuemi nói rằng: "Tôi ổn. Tôi buộc phải ổn vì các con gái tôi. Tôi chấp nhận điều đó. Tôi tự hào về anh ấy - một người đàn ông tốt và đầy kiên nhẫn. Anh ấy dành hầu hết thời gian với gia đình khi không phải làm nhiệm vụ".
+Các video mà người thân các thủy thủ chia sẻ đã gây xúc động lớn trong cộng đồng mạng Indonesia, và cho thấy những khó khăn, thiệt thòi mà các gia đình thủy thủ tàu ngầm trải qua.
+Nhiều trong số những người thiệt mạng trong vụ tai nạn thảm khốc mới ngoài 20 tuổi, và họ là lao động chính trong gia đình.
+Tại Banyuwangi, Đông Java, quân nhân vận hành vũ khí Pandu Yudha Kusuma, 22 tuổi, ra đi bỏ lại người vợ mới kết hôn được 2 tháng. Còn quân nhân vận hành bơm Rusdiansyah Rahman qua đời khi vợ anh mới sinh con hồi đầu tháng.
+Tổng thống Indonesia Joko Widodo cam kết thăng cấp bậc cho các thủy thủ, trao huân chương cho sự cống hiến và hy sinh của họ, cũng như hỗ trợ gia đình các thủy thủ.
+Đức Hoàng
 Tổng hợp

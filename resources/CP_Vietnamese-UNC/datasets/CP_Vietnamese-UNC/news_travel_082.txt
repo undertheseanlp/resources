@@ -1,14 +1,22 @@
 # doc_id = news_travel_082
-# url = https://dantri.com.vn/du-lich/dan-song-nuoc-ca-mau-dua-lai-vo-lai-nhu-bay-tren-nuoc-20210427212829286.htm
-# date = 20210427
-Vỏ lãi là một phương tiện thường được người dân vùng sông nước ở miền Tây, trong đó có Cà Mau sử dụng để đi lại trên sông nước.
-Là một tỉnh có kênh, rạch chằng chịt nên Cà Mau mong muốn tận dụng lợi thế này phát triển loại hình thể thao gắn với phương tiện vỏ lãi composite.
-Những chiếc vỏ lãi tề tựu về huyện Đầm Dơi (tỉnh Cà Mau) tham gia cuộc đua trên sông.
-Trong ngày 27/4, 100 vận động viên đến từ các tỉnh, thành như Cần Thơ, Kiên Giang, Sóc Trăng, Long An… đã "hội tụ" về huyện Đầm Dơi (tỉnh Cà Mau) để trình diễn kỹ năng điều khiển vỏ lãi của mình.
-Các tay đua thi đấu ở cự ly 600m, theo thể thức đối đầu trực tiếp để tìm ra tay đua chạy vỏ lãi nhanh nhất. Những chiếc vỏ lãi được điều khiển như "bay" trên mặt nước trong sự hò reo cổ vũ của hàng chục ngàn khán giả đứng xem ở hai bên bờ sông.
-Cuộc đua diễn ra trên một dòng sông với cự ly đường đua 600m.
-Hai tay đua "kình" nhau để về đích.
-Các tay đua lái vỏ lãi như "bay" trên nước.
-Đông đảo khán giả trong và ngoài tỉnh, khách du lịch đến xem và cổ vũ cuộc đua.
-Theo lãnh đạo Sở Văn hóa - Thể thao và Du lịch tỉnh Cà Mau, đây là lần đầu tiên tỉnh tổ chức giải đua vỏ lãi composite với quy mô lớn, góp phần thu hút khách du lịch, cũng như lưu giữ nét văn hóa sông nước của người dân địa phương.
-Huỳnh Hải
+# url = https://dantri.com.vn/du-lich/den-noi-dung-tren-dat-my-nhin-thay-nuoc-nga-20190902001027822.htm
+# date = 20190902
+Cựu thống đốc bang Alaska Sarah Palin từng nổi tiếng với câu nói trong chiến dịch tranh cử Tổng thống Mỹ vào năm 2008 liên quan tới quan điểm chính trị với Nga.
+Nội dung câu nói đại ý như sau: "Bạn có thể nhìn thấy nước Nga khi đứng từ một hòn đảo của Alaska, Mỹ". Trên thực tế, Nga và Alaska gần nhau tới mức có thể nhìn về phía bên kia bằng mắt thường".
+Eo biển Bering. (Ảnh: Travel).
+Vào ngày trời quang mây tạnh, bạn có thể đứng trên ngọn đồi ở mũi Prince of Wales thuộc điểm cực tây nước Mỹ, nhìn qua eo biển Bering tới vùng đất liền Siberia là của lãnh thổ Nga.
+Tuy nhiên, có một vùng đất thuộc Mỹ nơi du khách có thể nhìn thấy nước Nga dễ dàng hơn, đó là đảo Little Diomede.
+Những hòn đảo này là hàng xóm, nhưng lại cách nhau một thế giới.
+Thực tế là, có hai hòn đảo mang tên Diomede. Chúng đều nhô lên trên eo biển Bering, nhưng một đảo Big Diomede thuộc Nga, còn lại đảo Little Diomede thuộc Mỹ.
+Năm 1867, khi Mỹ mua lại Alaska từ Nga, hiệp ước đã dùng hai hòn đảo này làm chuẩn mực để vẽ đường biên giới.
+Hòn đảo mang tên Diomede. (Ảnh: News).
+Vào thời điểm trước năm 1948, người dân trên hai đảo Diomede vẫn tự do đi lại giữa Alaska và Siberia để đánh cá, săn bắn, thăm hỏi họ hàng lẫn nhau. Vào mùa đông, người dân hai bên còn đi bộ sang đảo của nhau nhờ cây cầu bằng băng tuyết hình thành tự nhiên khi trời lạnh, kết nối giữa hai lục địa.
+Nhưng chiến tranh lạnh bắt đầu vào năm 1948 cũng là lúc "tấm rèm băng" chính trị "rơi xuống" eo biển Bering. Đó là thời điểm đóng cửa biên giới và chia rẽ gia đình hai bên mãi mãi. Cả Nga và Mỹ đều xây dựng căn cứ quân sự trên các đảo của mình.
+Năm 1987, một cô gái người Mỹ có tên Lynne Cox, đồng thời là vận động viên bơi lội, tuyên bố sẽ bơi qua eo biển Bering để kết nối hai hòn đảo cùng tên, "phá" rèm băng chính trị từ thời Chiến tranh Lạnh.
+Khoảng cách 2 dặm rưỡi không phải là vấn đề với vận động viên bơi lội, nhưng nhiệt độ Bắc cực đóng băng khiến những ngón tay của Lynne Cox trở nên xám ngắt.
+Cuộc sống trên đảo nhỏ. (Ảnh: News).
+Khi tới đích, cô gái người Mỹ được chào đón bằng bữa tiệc mừng trên bãi biển với trà nóng đựng trong ấm samovar của Nga. Tại hội nghị thượng đỉnh diễn ra tại Washington D.C vào mùa hè năm đó, hai nhà lãnh đạo Nga - Mỹ cùng gửi lời ngợi khen tới Lynne Cox, biểu dương tinh thần và sự nỗ lực của cô gái trong tiến trình chấm dứt Chiến tranh Lạnh.
+Trở lại câu chuyện của ngày hôm nay, dù chỉ cách xa nhau hơn 2 dặm, nhưng đảo Big Diomede và Little Diomede đang nằm trên hai bán cầu khác nhau. Ngay cả đường biên giới quốc tế nằm giữa chúng cũng là Đường đổi ngày quốc tế IDL. Đảo Big Diomede sớm hơn Little Diomede 21 giờ, vì vậy, người dân địa phương vẫn quen gọi là "Đảo ngày mai" và "Đảo hôm qua".
+Trước khi nước Cộng hòa Kiribati chuyển múi giờ để chào mừng Thiên niên kỷ, eo biển Bering từng là nơi đầu tiên trên trái đất đón năm mới sớm nhất. Trước khi có ý định tới đây, du khách nên lưu ý, ngôi làng trên đảo Diomede không có khách sạn và cấm rượu.
+Hoàng Hà
+Theo Cntraveler/ Thealaskalife

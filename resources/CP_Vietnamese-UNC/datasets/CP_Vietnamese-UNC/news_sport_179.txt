@@ -1,16 +1,31 @@
 # doc_id = news_sport_179
-# url = https://dantri.com.vn/the-thao/messi-da-co-quyet-dinh-cuoi-cung-ve-tuong-lai-o-barcelona-20210422220639204.htm
-# date = 20210422
-Hợp đồng của Messi với Barcelona chỉ còn vỏn vẹn 2 tháng. Việc siêu sao người Argentina vẫn chưa quyết định gia hạn hợp đồng khiến cho những người Barcelona cảm thấy vô cùng sốt ruột.
-Messi vẫn sẽ tiếp tục gắn bó với Barcelona..
-Theo vài nguồn tin, Messi sẽ đưa ra quyết định cuối cùng về tương lai sau khi mùa giải kết thúc. Trong thời gian qua, cha và đồng thời là người đại diện của Messi, ông Jorge Messi đã bay sang Barcelona. Đó là động thái được cho là để đàm phán hợp đồng mới của con trai với Barcelona.
-Theo nguồn tin từ nhà báo Argentina, Christian Martin, Messi rất có thể sẽ tiếp tục ở lại Barcelona. Cầu thủ người Argentina được cho là đang xem xét ký thêm hợp đồng có thời hạn 1-2 năm với Barcelona.
-Hiện tại, Messi đã bước sang tuổi 34. Sau khi hoàn tất hợp đồng cuối cùng với Barcelona, siêu sao người Argentina sẽ bước sang tuổi 36. Đó là thời điểm để cầu thủ này tìm nơi để dưỡng già trước khi giải nghệ.
-Cũng theo nhà báo Christian Martin, sau khi thi đấu thêm cho Barcelona 2 năm, Messi sẽ gia nhập CLB Inter Miami của Beckham. Đây là đội bóng đang thi đấu ở giải Nhà Nghề Mỹ (MLS).
-Messi không thi đấu cho CLB nào khác ở châu Âu mà sẽ sang Mỹ hoặc trở về Argentina để kết thúc sự nghiệp.
-Ông Christian Martin chia sẻ: "Messi sẽ ở lại thêm Barcelona từ 1-2 năm. Sau đó, cầu thủ này sẽ sang Mỹ chơi bóng cho Inter Miami".
-Trong mùa giải này, Inter Miami bắt đầu thi đấu ở giải MLS. Do đó, họ đã tuyển mộ những cầu thủ kinh nghiệm thi đấu ở châu Âu như Gonzalo Higúain và Blaise Matuidi. Tuy nhiên, ông chủ Beckham muốn tạo nên cú hích thực sự từ "bom tấn" như Messi.
-Bên cạnh đó, cũng có một vài nguồn tin cho rằng sau khi rời Barcelona, Messi muốn trở về quê nhà Rosario để kết thúc sự nghiệp trong màu áo CLB Newell's Old Boys, CLB thời thơ ấu của Messi.
-Thực tế, dù bước sang tuổi 34 nhưng Messi vẫn là nhân tố vô cùng quan trọng trong màu áo Barcelona. El Pulga đang dẫn đầu danh sách ghi bàn ở La Liga mùa này với 25 bàn thắng. Bên cạnh đó, cầu thủ này cũng có 8 đường chuyền thành bàn.
-Đêm qua, Messi đã tỏa sáng với cú đúp giúp Barcelona đánh bại Getafe 5-2 ở vòng 32 La Liga, qua đó CLB xứ Catalonia tiếp tục nuôi hy vọng vô địch La Liga năm nay. Họ đứng thứ ba với 68 điểm, kém Atletico 5 điểm và Real Madrid, nhưng thi đấu ít hơn hai đối thủ một trận.
-H.Long
+# url = https://dantri.com.vn/the-thao/messi-lap-cu-dup-barcelona-song-lai-giac-mo-vo-dich-la-liga-20210423062133871.htm
+# date = 20210423
+Ở vòng đấu mà Real Madrid thắng Cadiz còn Atletico hạ Huesca, Barcelona hiểu rằng họ không được phép sảy chân. Một chiến thắng trước Getafe tại Nou Camp mà điều mà đoàn quân HLV Koeman hướng đến để nuôi mộng vô địch La Liga.
+Messi mở tỷ số cho Barcelona sau pha dứt điểm quyết đoán.
+Màn rượt đuổi tỷ số khá hấp dẫn khi Messi mở tỷ số trận đấu, nhưng Getafe ngay lập tức gỡ hòa khi Lenglet đá phản lưới nhà. Chakla tiếp tục phản lưới còn Messi hoàn tất cú đúp, giúp Barcelona dẫn 3-1 sau khi kết thúc hiệp 1.
+Sang hiệp 2, Unal rút ngắn tỷ số xuống còn 2-3 cho Getafe và thế trận diễn ra đầy hấp dẫn. Tuy nhiên trong khoảng 4 phút cuối trận, Araujo và Griezmann liên tiếp lập công, ấn định chiến thắng 5-2 cho đoàn quân HLV Koeman.
+Clement Lenglet và Sofian Chakla thi nhau đá phản lưới nhà ở những phút tiếp theo.
+Giành 3 điểm trước Getafe, Barcelona vẫn đứng thứ ba ở La Liga với 68 điểm, kém Atletico 5 điểm và Real Madrid 2 điểm. Tuy nhiên Los Blaugrana đá ít hơn hai đối thủ một trận, cơ hội lên ngôi đầu bảng vẫn đầy rộng mở.
+Barcelona tung ra sân đội hình thiên về tấn công với Sergi Roberto, Busquets, De Jong chơi ở giữa sân. Tài năng trẻ Pedri hiện diện trên hàng công bên cạnh Messi và Griezmann.
+Ở trận lượt đi, Getafe từng chơi rất hay để bất ngờ đánh bại Barca với tỷ số tối thiểu. Đội bóng này cũng từng cầm hòa Real Madrid 0-0 cách đây 2 tuần, nên HLV Koeman tỏ ra đầy thận trọng.
+Messi hoàn tất cú đúp giúp Barcelona dẫn 3-1 sau hiệp 1.
+Nhưng trong màn tái đấu họ đã không thể làm điều tương tự trước gã khổng lồ xứ Catalan thể hiện sức mạnh vượt trội. Messi cùng đồng đội đầy cao đội hình lên ép sân nhằm tìm kiếm bàn thắng.
+Ngay từ phút thứ 8, đội chủ nhà đã mở được tỷ số 1-0 do công của Messi. Nhận đường chuyền của Busquets, siêu sao người Argentina đã bình tĩnh đánh bại thủ môn đối phương trong thế đối mặt.
+Unal thực hiện thành công quả phạt đền, giúp Getafe rút ngắn tỷ số xuống 2-3 cho Getafe.
+Tuy nhiên, niềm vui của Messi và các đồng đội không kéo dài được lâu, bởi chỉ 4 phút sau trung vệ Lenglet đã có pha đốt lưới nhà biếu không cho các vị khách bàn thắng gỡ hòa 1-1 .
+Đến phút 28, đến lượt Chakla bên phía Getafe mắc lỗi tương tự như Lenglet giúp Barca dẫn lại 2-1. Những sai sót vô duyên ở hàng thủ hai đội khiến các bàn thắng liên tiếp được ghi.
+Araujo ghi bàn ở phút 87 giúp Barcelona dẫn 4-2.
+5 phút sau, Messi lại ghi tên mình lên bảng tỷ số bằng hai cú dứt điểm liên tiếp. Cú đá đầu tiên bằng chân phải của anh không thắng được cột dọc thì pha đá bồi bằng chân trái của anh từ góc hẹp đánh bại thủ môn Soria, giúp Barcelona dẫn 3-1.
+Sang hiệp 2, Barcelona vẫn thi đấu áp đảo nhưng họ lại bất ngờ để cho đối phương rút ngắn cách biệt ở phút 69 bằng quả đá phạt đền thành công của Unal. Trước đó, chính Unal đã kiếm về cho Getafe quả penalty này do bị Araujo phạm lỗi trong vòng cấm.
+Griezmann ấn định chiến thắng 5-2 cho Barcelona ở phút bù giờ cuối cùng.
+Cổ động viên Barcelona chỉ có thể thở phào nhẹ nhõm ở phút 87 khi Araujo lập công chuộc tội bằng cú đánh đầu tung lưới Getafe sau đường kiến tạo của Messi, giúp Barcelona dẫn 4-2.
+Barcelona tiếp tục nuôi hy vọng vô địch La Liga năm nay.
+Cuối cùng trong thời gian đá bù giờ tiền đạo Griezmann còn mang về cho Barca quả phạt đền và chính anh là người thực hiện thành công, ấn định thắng lợi đậm đà 5-2 cho đội chủ sân Nou Camp, đồng thời tiếp tục nuôi hy vọng vô địch La Liga.
+Đội hình thi đấu
+Barcelona (4-3-3): Ter Stegen; Mingueza (Umtiti, 75), Pique (Araujo, 46), Lenglet (Moriba, 46), Alba; Roberto (Trincao, 64), Busquets, De Jong; Messi, Griezmann, Pedri
+Bàn thắng: Messi (8, 33), Chakla (phản lưới, 28), Araujo (87), Griezmann (90+3)
+Getafe (4-4-2): Soria; Chema (Josete, 76), Chakla, Dakonam, Iglesias Sanchez; Cucurella (Akurugu, 46), Alena (Abdulai, 46), Maksimovic (Arambarri, 46), Suarez; Angel (Unal, 63), Kubo
+Bàn thắng: Lenglet (phản lưới, 12), Unal (69)
+Bảng xếp hạng La Liga sau vòng 32.
+Thùy Anh

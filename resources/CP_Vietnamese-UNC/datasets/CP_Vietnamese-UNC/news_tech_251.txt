@@ -1,29 +1,15 @@
 # doc_id = news_tech_251
-# url = https://dantri.com.vn/suc-manh-so/vi-sao-mot-con-chip-ti-hon-lai-dang-khien-gioi-cong-nghe-toan-cau-lao-dao-20210411032546617.htm
-# date = 20210411
-Nếu như ngành môi trường đang phải đau đầu vì hiệu ứng nhà kính, ngành y tế vật lộn với đại dịch Covid-19, thì ngành công nghệ cũng đang lao đao trước vấn nạn thiếu hụt chip bán dẫn.
-Thực tế cho thấy một quốc gia có thể tự làm bom nguyên tử, hay tên lửa, nhưng không thể sản xuất một con chip riêng lẻ nếu tách mình khỏi chuỗi cung ứng toàn cầu. Đó là một quy luật khắc nghiệt, nhưng phản ánh đúng thực tế hiện nay.
-Những hệ lụy của nó, hơn bao giờ hết, đang khiến người tiêu dùng trên toàn thế giới phải đối mặt với sự gia tăng về giá và tình trạng thiếu hụt các sản phẩm từ thiết bị gia dụng, TV, smartphone đến ô tô và thậm chí cả máy chơi game.
-Khủng hoảng chưa từng có, ngay cả "ông lớn" cũng lao đao
-Một công nhân tại nhà máy sản xuất lò vi sóng của tập đoàn Midea Group. Ảnh: Xinhua
-Là đại diện cho lĩnh vực thiết bị gia dụng, Midea lên tiếng cảnh báo ngành này đang "chịu áp lực lớn" về nguồn cung chip sụt giảm trên diện toàn cầu.
-Hãng điện tử Trung Quốc cho biết giá chip dùng cho thiết bị gia dụng - thường kém tinh vi hơn so với chip dùng trong điện thoại thông minh và máy tính xách tay - sẽ tăng lên khi tình trạng thiếu chip trên toàn cầu vẫn tiếp diễn.
-Xiaomi - một công ty chuyên sản xuất thiết bị thông minh trong tuần này cũng đã buộc phải tăng giá một số mẫu TV, với lý do giá của các linh kiện chính cao hơn. Samsung và Sony gần đây cũng tăng giá một loạt sản phẩm của hãng với lý do tương tự.
-Trong lĩnh vực xe hơi, các nhà sản xuất ô tô dự kiến mất 61 tỷ USD doanh thu do thiếu chip và rất khó để định lượng những tác hại của nó trong tương lai.
-Tính đến tháng 4/2021, hãng xe Ford phải hủy hoạt động tại 2 nhà máy ô tô, thông báo lợi nhuận có thể sụt giảm lên tới 2,5 tỷ USD trong năm. Hãng Nissan thì ngừng sản xuất tại các nhà máy ở Mexico và Mỹ. Còn General Motors lo sợ có thể phải đối mặt với mức sụt giảm lợi nhuận 2 tỷ USD.
-Thiếu chip bán dẫn khiến ngay cả các ông lớn về xe cũng điêu đứng.
-Trong lĩnh vực smartphone, Huawei từ lâu đã chịu ảnh hưởng nặng nề do lệnh cấm của chính phủ Mỹ, khiến HiSilicon (công ty con của Huawei) không thể tiếp tục sản xuất dòng chip Kirin để trang bị trên smartphone cao cấp của hãng.
-Điều này dẫn tới hệ quả điện thoại Huawei đang trở nên đắt đỏ hơn, dẫu lượng đặt mua vẫn tăng mạnh tại thị trường Trung Quốc trong thời gian qua.
-Ngay cả Apple, một công ty Mỹ, cũng bắt đầu cảm nhận được những tác động đầu tiên từ việc thiếu chip toàn cầu.
-Theo một thông tin mới đây, iPad và MacBook có thể sẽ bị đình trệ sản xuất do thiếu các linh kiện cần thiết.
-"Cơn khát chip" nguyên nhân do đâu?
-"Chip là tất cả", Neil Campling, nhà phân tích công nghệ và truyền thông tại Mirabaud cho biết.
-"Có một cơn bão về các yếu tố cung - cầu đang diễn ra. Khinhu cầu mới không được theo kịp, mọi thứ đều khủng hoảng và tình hình ngày càng trầm trọng hơn".
-"Không có dấu hiệu nào cho thấy nguồn cung bắt kịp hoặc nhu cầu sẽ giảm, trong khi giá đang tăng trên toàn chuỗi", Campling nói. "Điều này sẽ ảnh hưởng tới từng người tiêu dùng trên phố. Hãy chờ xem ô tô sẽ đắt hơn, điện thoại sẽ đắt hơn. iPhone năm nay chắc chắn không rẻ hơn năm ngoái".
-Trên thực tế, những dấu hiệu sớm nhất của tình trạng thiếu chip đã xuất hiện vào những tháng đầu tiên của năm 2020.
-Vào thời điểm đó, thế giới đang trong giai đoạn của làn sóng lây nhiễm lần thứ nhất, và Covid-19 đã loại bỏ gần như toàn bộ nhu cầu của người tiêu dùng trong mọi lĩnh vực của cuộc sống.
-Cuộc khủng hoảng nhen nhóm từ một số yếu tố kết hợp với nhau, mà trung tâm của nó được cho là bắt nguồn từ TSMC, công ty lớn nhất của Đài Loan, đồng thời là nhà sản xuất chip hàng đầu thế giới cho những gã khổng lồ về công nghệ.
-Theo các giám đốc điều hành của TSMC, đối tác của họ đang tích trữ nhiều hàng tồn kho hơn mức bình thường để phòng ngừa sự không chắc chắn và họ sẽ duy trì phương pháp này trong một thời gian dài.
-Cũng chính điều đó đã làm trầm trọng thêm tình trạng khan hiếm chip trên toàn cầu và sự ảnh hưởng đến các ngành nghề ngày càng nặng nề hơn.
-"Dịch bệnh, sự giãn cách xã hội trong các nhà máy và sự cạnh tranh nhu cầu tăng vọt từ tablet, laptop và xe điện đang gây ra căng thẳng nhất trong nguồn cung linh kiện smartphone trong nhiều năm", Neal Moston, một nhà phân tích tại Strategic Analysis nhận định.
-Nguyễn Nguyễn
+# url = https://dantri.com.vn/suc-manh-so/video-an-chan-gau-cua-you-tuber-quynh-tran-jp-gay-tranh-cai-tren-internet-20210426135146999.htm
+# date = 20210426
+Ngày 24/4, Quỳnh Trần JP đã đăng tải lên trang YouTube cá nhân một video với nội dung chế biến và ăn thử món chân gấu. Ngay lập tức, video này đã thu hút được sự chú ý của lượng lớn người dùng Internet với hàng loạt phản ứng trái chiều.
+Ngay đoạn mở đầu, có vẻ như YouTuber này đã nhận thức được rằng đây sẽ là một video gây tranh cãi.
+"Hôm nay, Quỳnh sẽ làm một mâm đồ ăn gây tranh cãi, đó là chân gấu hầm táo đỏ và kỷ tử. Ngoài ra, Quỳnh cũng có mua thêm một ít thịt gấu đã cắt lát", YouTuber này cho biết.
+Trong video trên, Quỳnh Trần JP cũng cho biết thêm rằng bàn chân gấu và những loại thịt này được nhập từ Trung Quốc và bày bán rộng rãi tại các siêu thị ở Nhật Bản. Vì thế, việc cô mua và sử dụng chúng không hề phạm luật.
+Tuy nhiên, nhiều người dùng Internet đã lên án YouTuber này vì ăn thịt động vật hoang dã và cho rằng video chứa nội dung phản cảm, không phù hợp với đối tượng khán giả Việt Nam, đặc biệt là trẻ em.
+"Chị làm YouTube có đối tượng người xem chủ yếu đến từ Việt Nam, tiền kiếm được cũng từ cộng đồng người Việt ủng hộ. Vì thế, chị nên làm những video phù hợp với thuần phong mỹ tục của người Việt Nam", tài khoản Phạm Thái bình luận.
+"Chị dạy con yêu thương động vật nhưng lại ăn chân gấu trước mặt con. Hơn nữa, kênh YouTube của chị có rất nhiều trẻ nhỏ xem", tài khoản Minh Hà nhận xét.
+Bên cạnh những ý kiến phản đối, một bộ phận người dùng khác lại cho rằng việc Quỳnh Trần JP mua và ăn chân gấu là hoàn toàn bình thường. bởi sản phẩm này được bày bán hợp pháp trong các siêu thị tại Nhật Bản.
+"Mỗi nơi có một phong tục, tập quán khác nhau, không thể so sánh chung được. Nếu siêu thị tại Nhật Bản bày bán thì mua về ăn thôi vì đâu có vi phạm pháp luật", tài khoản Ngọc Anh bình luận.
+Quỳnh Trần JP (sinh năm 1985) là YouTuber người Việt đang sinh sống tại Nhật Bản. Kênh YouTube của cô hiện sở hữu 3,76 triệu người theo dõi. Các video làm về ẩm thực của cô thu hút người xem bởiphong cách trò chuyện gần gũi, tự nhiên.
+Trong các video của Quỳnh Trần JP còn xuất hiện bé Sa (con trai của cô) được nhiều người yêu quý. Loạt khoảnh khắc như Sa ngủ gật, Sa mệt mỏi vì phải chào đi chào lại "cô chú anh chị",... đã từng trở thành chủ đề cho loạt ảnh chế (meme) hài hước trên Internet.
+Thế Anh

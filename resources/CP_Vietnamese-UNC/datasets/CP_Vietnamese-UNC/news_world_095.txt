@@ -1,12 +1,15 @@
 # doc_id = news_world_095
-# url = https://dantri.com.vn/the-gioi/do-doc-my-hua-ngan-xung-dot-cuong-quoc-o-an-do-duong-thai-binh-duong-20210501143032178.htm
-# date = 20210501
-Trong buổi lễ nhậm chức thay thế Đô đốc Philip Davidson làm Tư lệnh Bộ chỉ huy Mỹ tại Ấn Độ Dương-Thái Bình Dương ngày 30/4, Đô đốc John Aquilino cho rằng trật tự quốc tế dựa trên quy tắc là nền tảng để khu vực thịnh vượng và phát triển, đồng thời nhấn mạnh môi trường Mỹ và đồng minh tạo ra trong nhiều thập kỷ "đang bị thách thức".
-Tư lệnh Bộ chỉ huy Mỹ tại Ấn Độ Dương-Thái BÌnh Dương John Aquilino. (Nguồn: Bộ chỉ huy Mỹ tại Ấn Độ Dương-Thái Bình Dương)
-Ông nói: "Chúng tôi cam kết tăng cường quan hệ với các đồng minh và đối tác trên toàn cầu. Chúng tôi cam kết đưa ra sự răn đe cần thiết để ngăn chặn xung đột giữa các cường quốc".
-Trong khi đó, bài phát biểu của Đô đốc Davidson lại đề cập trực tiếp tới Trung Quốc và cảnh báo tham vọng mở rộng ảnh hưởng của Bắc Kinh trong khu vực.
-Đáng chú ý, Đô đốc John Aquillino từng nhận định khả năng Trung Quốc tấn công Đài Loan (Trung Quốc) sớm hơn nhiều người nghĩ và Bắc Kinh coi việc giành quyền kiểm soát Đài Bắc là "ưu tiên số 1" hiện nay.
-Ông cho rằng các lực lượng Washington được triển khai đến Ấn Độ Dương-Thái Bình Dương đang bị Trung Quốc "vượt mặt".
-Tuy nhiên, ông không ủng hộ ý tưởng tăng cường số lượng tàu sân bay, tin rằng Hải quân Mỹ hiện đã có tất cả các tàu sân bay mà lực lượng này cần, "trừ khi mối đe dọa mới xuất hiện".
-Theo Minh Vương
-Thế giới & Việt Nam
+# url = https://dantri.com.vn/the-gioi/doanh-nhan-trung-quoc-nhan-toi-bi-mat-tuon-cong-nghe-my-ve-nuoc-20210429101653025.htm
+# date = 20210429
+Ảnh minh họa tàu ngầm của Trung Quốc (Ảnh: WSJ).
+Reuters đưa tin, doanh nhân người Trung Quốc Qin Shuren ngày 28/4 đã nhận tội trước tòa án Boston, Massachusetts liên quan tới cáo buộc đánh cắp công nghệ hàng hải của Mỹ để tuồn về cho một trường đại học có liên quan tới quân đội Trung Quốc.
+Qin, một nhà sinh học hàng hải và người sáng lập của một công ty bán thiết bị hải dương học, đã thừa nhận xuất khẩu trái phép sang Trung Quốc thiết bị có thể dùng để giám sát âm thanh dưới nước.
+Qin bị cáo buộc năm 2018 nhưng tới nay mới nhận tội.
+Qin, đang sống tại Wellesley, Massachusetts, đã nhận 10 tội danh, bao gồm vi phạm quy tắc xuất khẩu, gian lận thị thực, rửa tiền và buôn lậu.
+Các công tố viên Mỹ cáo buộc Qin, 45 tuổi, xuất khẩu phương tiện mặt nước không người lái và thuyền robot, cung cấp số hàng hóa trị giá 8 triệu USD cho các thực thể do chính phủ Trung Quốc kiểm soát từ năm 2015-2018.
+Trong phiên tòa ngày 28/4, Qin chỉ thừa nhận đã âm thầm chuyển về Trung Quốc 60 thiết bị giám sát âm thanh trị giá 100.000 USD. Theo thỏa thuận nhận tội, phía công tố đề nghị mức án thấp nhất mà Qin phải đối mặt là từ 87-108 tháng tù và người này vẫn được quyền kháng cáo.
+Luật sư bào chữa nói rằng Qin đã sáng lập ra công ty LinkOcean Technologies ở Trung Quốc vào năm 2005 để cung cấp thiết bị hải dương học cho các nhà khoa học. Năm 2014, Qin cùng gia đình đã nhập cư vào Mỹ với tư cách thường trú nhân.
+Các công tố viên cáo buộc Qin đã được Đại học Bách khoa Tây Bắc - một viện nghiên cứu quân sự của Trung Quốc - giao nhiệm vụ thu thập các công cụ hỗ trợ việc nghiên cứu phát triển vũ khí chống tàu ngầm. Qin đã thu mua được các thiết bị giám sát âm thanh từ một nhà sản xuất Mỹ.
+Luật sư bào chữa cho rằng Qin không biết được ý định của trường Bách khoa Tây Bắc khi cung cấp những sản phẩm trên.
+Đức Hoàng
+Theo Reuters

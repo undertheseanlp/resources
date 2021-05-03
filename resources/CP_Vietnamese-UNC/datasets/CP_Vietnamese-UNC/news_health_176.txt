@@ -1,16 +1,31 @@
 # doc_id = news_health_176
-# url = https://dantri.com.vn/suc-khoe/nhieu-su-kien-luu-dau-son-trong-lich-su-y-hoc-nuoc-nha-20210419183024152.htm
-# date = 20210419
-Ngày 19/4, Bệnh viện Trung ương Quân đội 108 đã tổ chức Lễ kỷ niệm 70 năm ngày truyền thống và đón nhận danh hiệu "Anh Hùng Lao động thời kỳ đổi mới" - danh hiệu cao quý được Nhà nước trao tặng cho đơn vị lập được thành tích đặc biệt xuất sắc trong lao động và công tác.
-Tổng Bí thư Ban chấp hành Trung ương Đảng cộng sản Việt Nam-Bí thư Quân ủy Trung ương Nguyễn Phú Trọng đã đến dự buổi lễ kỷ niệm và trồng cây lưu niệm tại Bệnh viện.
-Tổng Bí thư Nguyễn Phú Trọng, Bí thư Quân ủy Trung ương thăm Phòng truyền thống của Bệnh viện Trung ương Quân đội 108. (Ảnh: Trí Dũng/TTXVN)
-Phát biểu tại buổi lễ, Phó Thủ tướng đánh giá, dù là một bệnh viện quân đội nhưng Bệnh viện 108 đã không tự giới hạn mình trong khám chữa bệnh cho quân nhân mà đã phát huy lợi thế riêng có của mình để góp phần chăm sóc, bảo vệ sức khỏe của toàn dân.
-Phó Thủ tướng Vũ Đức Đam trao Danh hiệu Anh hùng Lao động thời kỳ đổi mới cho Bệnh viện Trung ương Quân đội 108.
-Bệnh viện Trung ương Quân đội 108 hiện là 1 trong 5 bệnh viện hạng đặc biệt quốc gia, một trong những trung tâm nghiên cứu khoa học và đào tạo chuyên sâu y khoa hàng đầu, có uy tín trong nước và quốc tế.
-Phó Thủ tướng đánh giá: "Đội ngũ thầy thuốc, các nhà khoa học của bệnh viện đã có bước phát triển vượt bậc cả về số lượng và chất lượng. Đội ngũ y bác sĩ của bệnh viện không chỉ làm chủ được các trang thiết bị y tế tiên tiến, hiện đại bậc nhất; các kỹ thuật mới, khó, phức tạp bậc nhất trong điều trị, cứu sống nhiều bệnh nhân mắc bệnh hiểm nghèo mà còn thực hiện rất tốt nhiệm vụ đào tạo chuyên sâu, hướng dẫn cho các bệnh viện tuyến dưới. Từ nơi đây, hàng trăm kỹ thuật y khoa mới được lan tỏa; hàng ngàn bác sĩ chuyên khoa, tiến sĩ y khoa đã đi khắp mọi miền, góp phần quan trọng phát triển mạng lưới các cơ sở khám chữa bệnh trong toàn quân".
-"Trong nhiều minh chứng sống động cho sự trưởng thành vượt bậc về trình độ kỹ thuật và năng lực chuyên môn của các thầy thuốc của bệnh viện có thể nhắc tới những ca ghép phổi từ người cho chết não đầu tiên ở Việt Nam và cũng là ca ghép đa phủ tạng xuyên Việt lịch sử, ca ghép 2 cẳng tay từ người cho chết não đầu tiên tại Đông Nam Á, ca ghép cẳng bàn tay từ người cho sống đầu tiên trên thế giới... Đó cũng là những sự kiện đã lưu các dấu son trong lịch sử y học nước nhà," Phó Thủ tướng nhấn mạnh.
-Theo Phó Thủ tướng,trong thời kỳ các bệnh viện đều phải không ngừng đổi mới thích ứng với cơ chế kinh tế thị trường định hướng xã hội chủ nghĩa, bệnh viện đã chủ động bằng nhiều giải pháp đồng bộ nhằm đa dạng hóa các hình thức khám chữa bệnh, đáp ứng yêu cầu của xã hội.
-Vì thế, bệnh viện cầntiếp tục xây dựng đội ngũ cán bộ vững vàng về chính trị, gương mẫu về đạo đức, giỏi về chuyên môn, nghiệp vụ xứng đáng với truyền thống vừa là Bộ đội Cụ Hồ vừa là thầy thuốc như mẹ hiền.
-Đặc biệt, bệnh viện cần tăng cường hơn nữa công tác nghiên cứu khoa học và đào tạo chuyên sâu kết hợp với công tác điều trị theo mô hình viện-trường; mở rộng hợp tác với các cơ sở điều trị, nghiên cứu, đào tạo có uy tín trong nước và quốc tế. Ban lãnh đạo bệnh viện cần có những chính sách để kết hợp với các giải pháp tăng cường đầu tư triển khai sớm nhất các công nghệ, kỹ thuật mới trên thế giới để hướng tới cung cấp dịch vụ y tế chất lượng không thua kém ở các nước phát triển. Những lợi thế này một mặt giải quyết tốt các bệnh trong điều kiện hòa bình, mặt khác giúp bệnh viện luôn đủ năng lực chủ động giải quyết tốt các tình huống khi có thảm họa đáp ứng yêu cầu sẵn sàng chiến đấu và chiến đấu trong điều kiện chiến tranh sử dụng công nghệ cao…
-Giáo sư Mai Hồng Bàng, Giám đốc Bệnh viện khẳng định bệnh viện sẽ tiếp tục nỗ lực phấn đấu, xây dựng và phát triển bệnh viện lên tầm cao mới - tầm đẳng cấp quốc tế, hoàn thành xuất sắc nhiệm vụ mà Đảng, Nhà nước và Quân đội giao, xứng đáng với niềm tin yêu của bộ đội và nhân dân.
+# url = https://dantri.com.vn/suc-khoe/nhung-dau-hieu-khong-ngo-canh-bao-ung-thu-ac-tinh-gap-pho-bien-o-quy-ong-20210422154903860.htm
+# date = 20210422
+Tại Việt Nam, ung thư bàng quang 1 trong 10 loại ung thư hay gặp ở nam giới.Ung thư bàng quanglà loại ung thư xảy ra ở bàng quang- cơ quan rỗng nằm tại vùng bụng dưới có chức năng chứa nước tiểu do thận thải ra. Phía trong thành bàng quang là lớp niêm mạc được cấu tạo từ các tế bào chuyển tiếp và tế bào vảy.
+Đáng nói, căn bệnh ung thư ác tính phổ biến ở quý ông này lại khó nhận biết dấu hiệu sớm. Có một vài dấu hiệu liên quan đến tiểu rắt, khó tiểu... lại có thể gây nhầm lẫn với phì đại tuyến tiền liệt thông thường.
+Dưới đây là nhữngdấu hiệu có thể giúp bệnh nhân phát hiện ra những bất thường để nghĩ tới ung thư bàng quang, kịpthời đến cơ sở y tế thăm khám.
+Theo đó, cần lưu ý khi có những dấu hiệu sau:
+- Mệt mỏi, gầy sút, chán ăn.
+- Đái máu là dấu hiệu thường gặp nhất. Đái máu từng đợt, đái máu đại thể, toàn bãi.
+- Đau khi đi tiểu.
+- Tiểu rắt, tiểu khó, tiểu không tự chủ, nước tiểu sẫm màu: đây là những triệu chứng xuất hiện đầu tiên, do bàng quang bị kích thích hay bị giảm thể tích.
+- Các triệu chứng của nhiễm trùng đường tiểu, tắc nghẽn đường tiểu do u xâm lấn hay do cục máu đông.
+Còn khi đã ở giai đoạn muộn của ung thư bàng quang, tế bào ung thư đã di căn xa, sẽ xuất hiện các biểu hiện sau:
+- Đau hông lưng.
+- Đau trên xương mu.
+- Đau hạ vị.
+- Đau tầng sinh môn.
+- Đau xương.
+- Đau đầu.
+Ai có nguy cơ cao mắc ung thư bàng quang?
+Cũng giống như nguyên nhân gây bệnh, các yếu tố nguy cơ ung thư bàng quang vẫn chưa được nghiên cứu một cách rõ ràng.
+Tuy nhiên, những yếu tố sau làm gia tăng nguy cơ mắc ung thư bàng quang:
+- Những người lớn tuổi có nguy cơ mắc ung thư bàng quang cao hơn những người trẻ.
+- Đàn ông dễ bị ung thư bàng quang hơn phụ nữ.
+- Tiền sử gia đình có người mắc phải ung thư bàng quang .
+- Người đã bị ung thư bàng quang cũng có khả năng tái phát.
+- Những người hút thuốc lá có nguy cơ ung thư bàng quang cao hơn hai đến ba lần so với những người không hút thuốc lá.
+- Nghề nghiệp dễ mắc ung thư như làm cao su, chất hóa học, da thuộc, thợ làm tóc, thợ kim khí, thợ in, thợ dệt, tài xế xe tải. Đây là những ngành nghề tiếp xúc thường xuyên với những chất sinh ung thư.
+- Ngoài ra, các bệnh lý viêm bàng quang mạn tính, nhiễm trùng tiết niệu tái diễn nhiều lần hoặc sử dụng ống thông đường tiểu lâu ngày cũng có nguy cơ gây ung thư bàng quang.
+Quá trình điều trị ung thư bàng quang phụ thuộc vào vị trí u và giai đoạn bệnh, nhưng chủ yếu là phẫu thuật, có thể kèm theo hóa xạ trị bổ trợ, liệu pháp sinh học hoặc các liệu pháp quang động học, miễn dịch.
 Tú Anh

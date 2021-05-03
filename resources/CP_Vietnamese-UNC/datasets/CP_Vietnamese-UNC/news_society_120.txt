@@ -1,9 +1,15 @@
 # doc_id = news_society_120
-# url = https://dantri.com.vn/xa-hoi/giam-doc-cong-an-tinh-tang-giay-khen-cho-hai-phu-nu-khmer-bat-cuop-20210429120641959.htm
+# url = https://dantri.com.vn/xa-hoi/ha-nam-dong-cua-cac-co-so-ton-giao-dung-moi-dich-vu-giai-tri-20210429185829637.htm
 # date = 20210429
-Nhằm động viên, khích lệ tinh thần dũng cảm của 2 phụ nữ dân tộc Khmer trong việc bắt giữ đối tượng sử dụng hung khí tấn công cướp tài sản, sáng 29/4, Phòng xây dựng phong trào Bảo vệ an ninh Tổ quốc (Công an tỉnh An Giang) phối hợp cùng Công an huyện Tri Tôn, đã trao tặng giấy khen đột xuất cho chị Neáng Kim Sone và Neáng Chếk, cùng trú tại ấp Phnôm Pi, xã Châu Lăng, huyện Tri Tôn, vì có thành tích xuất sắc trong phong trào toàn dân bảo vệ an ninh Tổ quốc.
-Chị Neáng Kim Sone và Neáng Chếk được trao giấy khen của Công an tỉnh An Giang.
-Trước đó, khoảng 15h40 ngày 6/4, trong lúc bà Trần Thị Bạch Yến (SN 1955, trú tại xã Châu Lăng) đang nằm ngủ trên võng trước nhà, thì bất ngờ bị Trần Thị Loan (SN 1985, hành nghề bán vé số, trú tại thị trấn Vĩnh Bình, huyện Châu Thành) đến giật sợi dây chuyền vàng, có trọng lượng hơn 3 chỉ.
-Lúc giằng co, Loan lấy 1 con dao Thái Lan trong túi đeo trên người ra tấn công khiến bà Yến bị thương ở vùng cổ; hoảng sợ, bà Yến buông ra và hô cướp.
-Lúc này, chị Neáng Kim Sone và Neáng Chếk đang ở trong nhà nghe tiếng kêu của bà Yến, liền chạy ra cùng bà Yến đuổi theo bắt giữ Loan. Sau đó đối tượng Loan được bàn giao cho Công an xã Châu Lăng.
-Nguyễn Hành
+Chiều 29/4, Ban chỉ đạo phòng, chống dịch Covid-19 tỉnh Hà Nam họp triển khai các biện pháp khoanh vùng dập dịch. Tính đến cuối giờ chiều ngày 29/4, qua điều tra dịch tễ, ngành y tế Hà Nam đã rà soát được hơn 100 trường hợp F1 và hơn 300 trường hợp F2.
+Thôn Quan Nhân, xã Đạo Lý, nơi sinh sống của 5 bệnh nhân Covid-19 bị tạm thời phong tỏa.
+Theo đại diện lãnh đạo huyện Lý Nhân, địa phương đã tích cực, khẩn trương phối hợp với ngành y tế và lực lượng chức năng triển khai các biện pháp truy vết và khoanh vùng chống dịch. Phong tỏa tạm thời toàn bộ thôn Quan Nhân, xã Đạo Lý - nơi sinh sống của 5 bệnh nhân Covid-19, với 320 hộ dân, 1.068 nhân khẩu.
+Thực hiện phun khử khuẩn toàn bộ khu vực thôn, nhà ở của các bệnh nhân. Phối hợp với lực lượng y tế, công an tiếp tục truy vết các trường hợp F1, F2, F3.
+Tại cuộc họp, Bí thư Tỉnh ủy Hà Nam, bà Lê Thị Thủy yêu cầu các cấp ngành khẩn trương khoanh vùng dập dịch và có biện pháp xử lý phù hợp, không để nhân dân hoang mang và ảnh hưởng đến đời sống.
+UBND tỉnh chỉ đạo dừng ngay các hoạt động tập trung đông người không cần thiết; tạm thời đóng cửa Khu du lịch Tam Chúc. Xử lý nghiêm các trường hợp vi phạm công tác phòng chống dịch. Yêu cầu thực hiện nghiêm thông điệp 5K. Khử khuẩn mở rộng để bảo đảm an toàn.
+Bí thư Tỉnh ủy tỉnh Hà Nam Lê Thị Thủy chỉ đạo tại cuộc họp.
+Tăng cường truyền thông về phòng chống dịch bệnh, chủ động khai báo y tế, tránh tình trạng không khai báo. Không gây tâm lý hoang mang trong nhân dân. Yêu cầu ngành y tế rà soát lượng vắc xin còn lại để ưu tiên tiêm cho lực lượng tuyến đầu phòng, chống dịch. Xây dựng các phương án đảm bảo cho người dân trong khu vực cách ly, không để lây nhiễm chéo. Xử lý nghiêm các trường hợp vi phạm trong phòng chống dịch.
+Tiếp tục mở rộng việc khử khuẩn để bảo đảm an toàn.
+Bắt đầu từ 18h chiều nay ngày 29/4, Hà Nam tạm dừng toàn bộ các lễ hội, tạm đóng cửa các cơ sở tôn giáo, tín ngưỡng, các dịch vụ karaoke, mát xa, trò chơi điện tử, khu vui chơi giải trí, các sự kiện tập trung đông người, các hội nghị không cần thiết…
+Ban quản lý khu công nghiệp tỉnh rà soát toàn bộ lao động về nghỉ lễ trở lại làm việc, những người đi du lịch về sau kỳ nghỉ lễ phải có khai báo y tế kịp thời…
+Đức Văn

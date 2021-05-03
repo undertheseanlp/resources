@@ -1,11 +1,18 @@
 # doc_id = news_world_234
-# url = https://dantri.com.vn/the-gioi/thot-tim-canh-cuu-dua-tre-roi-xuong-duong-ray-tau-20210419222958499.htm
-# date = 20210419
-Đoạn video do camera an ninh ghi lại đã được đăng tải trên tài khoản mạng xã hội Twitter của Bộ Đường sắt Ấn Độ vào ngày 19/4.
-Hình ảnh từ đoạn video cho thấy một nhân viên làm việc tại nhà ga Vangani ở thành phố Mumbai đã chạy về phía đường ray để giải cứu một đứa trẻ, khi một đoàn tàu đang lao nhanh về phía họ.
-Mayur Shelkhe, nhân viên nhà ga, đã kịp thời nhấc đứa trẻ lên sân ga ngay trước khi tàu lao tới. Bộ Đường sắt Ấn Độ cho biết đứa trẻ đã được cứu "trong gang tấc".
-"Chúng tôi ca ngợi tấm gương dũng cảm và sự tận tâm hết mình của anh ấy", Bộ Đường sắt Ấn Độ cho biết.
-Ngày 25/3/2020, mạng lưới đường sắt Ấn Độ tạm dừng hoạt động lần đầu tiên sau 167 năm, khi Thủ tướng Narendra Modi lệnh phong tỏa toàn quốc do đại dịch Covid-19.
-Một tháng sau đó, đơn vị vận hành mạng lưới đường sắt Ấn Độ đã công bố kế hoạch chuyển đổi khoảng 20.000 toa tàu cũ thành khu cách ly cho bệnh nhân khi virus lây lan.
-Thành Đạt
-Theo BBC
+# url = https://dantri.com.vn/the-gioi/thuy-thu-tau-chan-kenh-dao-suez-doi-mat-ac-mong-thanh-con-tin-20210420172523478.htm
+# date = 20210420
+Mohammad Aisha phải chèo thuyền vào đất liền để đáp ứng những nhu cầu sinh hoạt thiết yếu suốt 2 năm làm giám hộ đơn độc cho con tàu bị giữ ở kênh Suez (Ảnh: Guardian).
+Suốt hai năm qua, Mohammad Aisha sống đơn độc trên tàu hàng bỏ không ở ngoài khơi Ai Cập ở Vịnh Suez. Nếu cần sạc điện thoại, lấy nước ngọt hay mua thực phẩm, anh lại phải chèo thuyền vào đất liền và chỉ được ở đó không quá 2 giờ đồng hồ bởi đây là khu vực hạn chế quân sự. Những nhu cầu cơ bản như giặt giũ, tắm rửa bằng nước ngọt cũng là điều vô cùng xa xỉ với Aisha. Thủy thủ này cho biết, anh cảm thấy như bị bỏ rơi.
+"Tôi cố gắng làm bất cứ việc gì có thể để không nghĩ đến cơn ác mộng này", Aisha nói.
+Một bác sĩ khám cho Aisha cho biết, anh bắt đầu có các triệu chứng giống các tù nhân bị giam giữ trong những điều kiện khắc nghiệt.
+Aisha là người giám hộ hợp pháp của con tàu 4.000 tấn MV Aman theo một phán quyết của tòa án Ai Cập cách đây khoảng 2 năm. Trong suốt thời gian đó, anh mắc kẹt trên con tàu do cuộc chiến pháp lý giữa chủ tàu và cơ quan quản lý kênh Suez. Tàu MV Aman bị bắt giữ ở Vịnh Suez chỉ hai tháng sau khi Aisha nhận công việc trên tàu vào năm 2017. Các thủy thủ khác đã được hồi hương vào tháng 9/2019 và chỉ còn lại Aisha trên con tàu bẩn bụi. "Nó giống như một địa ngục trần gian", Aisha nói.
+Aisha hy vọng sớm thoát được tình cảnh này sau khi một đại diện công đoàn địa phương nhất trí đảm nhiệm vai trò giám hộ con tàu thay anh. Mỗi phút trôi qua, anh đều mong ngóng cơ quan quản lý cảng thông báo người giám hộ mới và anh được phép rời tàu, trở về quê nhà Syria.
+Cách đó khoảng vài chục km, thủy thủ đoàn của tàu hàng Ever Given cũng có nguy cơ rơi vào tình cảnh tương tự của Aisha hiện nay. Ever Given, một tàu container thuộc sở hữu của một công ty Nhật Bản và được vận hành bởi một công ty Đài Loan, đã chắn ngang kênh đào Suez gần 1 tuần sau sự cố mất lái. Tuy đã được giải cứu nhưng con tàu vẫn chưa được phép rời Suez do Ai Cập và chủ tàu vẫn chưa thể dàn xếp điều khoản bồi thường thiệt hại gần 1 tỷ USD.
+Tàu hàng Ever Given và thủy thủ đoàn không được phép rời Suez cho đến khi đáp ứng điều khoản bồi thường thiệt hại cho Ai Cập (Ảnh: Reuters).
+Hôm 18/4, đại diện của Liên đoàn Công nhân Vận tải (ITF) đã lên con tàu để kiểm tra sức khỏe của thủy thủ đoàn đang mắc kẹt trên con tàu cùng 18.000 container hàng hóa. Đại diện của ITF cho rằng, vấn đề ưu tiên hiện nay là đảm bảo an toàn cho 26 thuyền viên của Ever Given khi cuộc chiến pháp lý chưa thể giải quyết trong một sớm một chiều.
+Đơn vị vận hành tàu Ever Given cho biết, hiện tại các thủy thủ vẫn khỏe mạnh và tinh thần ổn định và mục tiêu của họ là giải quyết nhanh chóng các vấn đề để con tàu và thủy thủ đoàn rời kênh Suez.
+Ông Abdulgani Y Serang, người đứng đầu NUSI, lập luận: "Họ (các thủy thủ) không liên can đến những rắc rối này và họ không đáng bị giữ làm con tin". Ông Serang hy vọng, ít nhất 3 thủy thủ tàu Ever Given sẽ sớm được hồi hương bởi họ sắp hết hợp đồng.
+"Chúng tôi không quan tâm đến các thương thảo tài chính và kết quả ra sao, chúng tôi chỉ quan tâm đến yếu tố con người, những thủy thủ mắc kẹt trên tàu. Chúng tôi cần đảm bảo sức khỏe vật chất và tinh thần cho họ", ông Serang nói.
+Trong nhiều trường hợp, thủy thủ đoàn mắc kẹt hoặc thậm chí bị bỏ rơi trên các con tàu. Tình huống bị bỏ rơi thường xảy ra khi chủ tàu không thể chi trả các chi phí hồi hương, trả lương hay các nghĩa vụ tài chính khác với thuyền viên.
+Theo thống kê của Tổ chức Hàng hải Quốc tế, kể từ tháng 1-8/2020, có ít nhất 31 vụ việc bỏ rơi tàu, bỏ rơi 470 thuyền viên. Kể từ 2004 có tổng cộng 438 vụ, ảnh hưởng đến gần 6.000 thuyền viên.
+Minh PhươngTheo Guardian

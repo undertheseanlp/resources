@@ -1,9 +1,15 @@
 # doc_id = news_world_188
-# url = https://dantri.com.vn/the-gioi/no-bom-tai-khach-san-co-dai-su-trung-quoc-o-pakistan-4-nguoi-chet-20210422055151516.htm
-# date = 20210422
-Theo Guardian, vụ nổ xảy ra hôm 21/4 tại bãi đậu xe của khách sạn hạng sang Serena ở thành phố Quetta, thủ phủ tỉnh Balochistan của Pakistan. Đây là khu vực mà quân đội Pakistan chiến đấu với các lực lượng nổi dậy suốt một thập niên qua. Nguồn tin cảnh sát cho hay, một chiếc xe đã phát nổ chỉ vài phút sau khi vào bãi.
-"Ít nhất 4 người thiệt mạng, 12 người khác bị thương", Bộ trưởng Nội vụ Pakistan Sheikh Rashid Ahmed nói với AFP và mô tả vụ việc là một "hành động khủng bố". Quan chức này cho biết thêm: "Một phái đoàn ngoại giao của Trung Quốc gồm khoảng 4 người do đại sứ dẫn đầu đang nghỉ tại khách sạn này. Thời điểm xảy ra vụ nổ bom, đại sứ Trung Quốc ra ngoài có cuộc hẹn".
-Một phát ngôn viên của tỉnh Balochistan cho biết, đại sứ Trung Quốc Nong Rong đã có một cuộc gặp với quan chức của tỉnh. Hiện đại sứ quán Trung Quốc ở Pakistan chưa đưa ra bình luận. Danh tính các nạn nhân trong vụ nổ bom cũng chưa được công bố.
-Lực lượng Taliban ở Pakistan sau đó đã lên tiếng nhận trách nhiệm về vụ nổ bom mà lực lượng này gọi là một cuộc tấn công liều chết.
-Balochistan là một địa phương nghèo mặc dù giàu tài nguyên khoáng sản. Trung Quốc đã đổ hàng tỷ USD tiền đầu tư vào khu vực này thông qua Dự án "Hành lang kinh tế Trung Quốc - Pakistan (CPEC) - một dự án quan trọng trong Sáng kiến Vành đai, Con đường của Bắc Kinh. Tuy nhiên, người dân địa phương nói rằng, dự án mang lại rất ít lợi ích cho họ bởi hầu hết việc làm từ dự án đều trao cho những người ở bên ngoài.
-Minh PhươngTheo Reuters
+# url = https://dantri.com.vn/the-gioi/nu-lanh-dao-chau-au-ton-thuong-vi-su-co-khong-co-ghe-ngoi-hop-20210427220623523.htm
+# date = 20210427
+Chủ tịch Ủy ban châu Âu Von der Leyen không có ghế ngồi tương xứng trong cuộc họp với các quan chức tại Thổ Nhĩ Kỳ (Ảnh: AFP).
+Trong bài phát biểu trước Nghị viện châu Âu ngày 27/4, Chủ tịch Ủy ban châu Âu (EC) Von der Leyen đã chỉ trích cách mà bà bị đối xử khi tham gia một cuộc họp cấp cao ở Thổ Nhĩ Kỳ hôm 7/4.
+Trong sự kiện đó, Tổng thống Thổ Nhĩ Kỳ Recep Tayyip Erdogan đã gặp Chủ tịch Hội đồng châu Âu Charles Michel và bà Von der Leyen nhưng trong phòng hội đàm chỉ có 2 chiếc ghế ở vị trí trung tâm mà ông Michel và ông Erdogan đã ngồi vào.
+Trong khi đó, bà Von der Leyen, người có vị thế tương đương với ông Michel, tỏ ra bối rối và dường như phật ý khi không có ghế ngồi chính thức. Cuối cùng, bà được mời ngồi vào một chiếc ghế sofa trong căn phòng, đối diện Ngoại trưởng Thổ Nhĩ Kỳ Mevlut Cavusoglu.
+Bà Von der Leyen thừa nhận rằng bà bị "tổn thương, đơn độc" và cho rằng sự việc trên xảy ra là do bà là một phụ nữ.
+"Tôi là phụ nữ đầu tiên giữ chức chủ tịch Ủy ban châu Âu. Tôi là Chủ tịch của Ủy ban. Đó là cách tôi mong đợi mình được đối xử khi tới Thổ Nhĩ Kỳ vài tuần trước, giống như một chủ tịch. Nhưng tôi không được đối xử như vậy".
+"Tôi không thể nghĩ ra lời giải thích nào cho cách mà tôi bị đối xử dựa trên các hiệp ước hiện có ở châu Âu. Vì vậy, tôi cho rằng điều đó xảy ra bởi vì tôi là phụ nữ. Liệu điều này có xảy ra nếu tôi mặc vest và đeo cà vạt?", bà Von der Leyen đặt câu hỏi.
+"Tôi cảm thấy buồn, đơn độc, với cương vị là một phụ nữ và một công dân châu Âu. Đó không phải là vấn đề thủ tục tiếp đón hay sắp xếp ghế", bà cho biết.
+Bà Von der Leyen cho biết, bà có cơ hội và có thể lên tiếng về sự việc, nhưng có hàng triệu phụ nữ có thể gặp phải tình huống như vậy mà không thể lên tiếng.
+Sự cố đã thổi bùng tranh cãi ngoại giao giữa Thổ Nhĩ Kỳ và Liên minh châu Âu (EU). Một số quan chức của EU chỉ trích giới chức Ankara vì thiếu sót trong nghi thức ngoại giao và cho rằng đây là cách hành xử thiếu tôn trọng đối với phụ nữ. Tuy nhiên, Ankara bác bỏ cáo buộc đó và khẳng định việc sắp xếp chỗ ngồi được thực hiện theo đề nghị của EU.
+Đức Hoàng
+Theo RTE

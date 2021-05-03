@@ -1,14 +1,16 @@
 # doc_id = news_world_178
-# url = https://dantri.com.vn/the-gioi/nguoi-han-quoc-bat-binh-vi-vo-dai-su-bi-tat-nhan-vien-ban-hang-20210421065420765.htm
-# date = 20210421
-Xô xát xảy ra sau khi vợ Đại sứ Bỉ tại Hàn Quốc bị hiểu nhầm mua hàng không thanh toán tại một cửa hàng thời trang ở thủ đô Seoul hôm 9/4 (Ảnh trích xuất từ camera; SCMP).
-Theo báo Bưu điện Hoa Nam buổi sáng (SCMP), cộng đồng mạng Hàn Quốc đầu tuần này đã chia sẻ một đoạn video trích xuất từ camera an ninh cho thấy một sự việc lùm xùm liên quan đến bà Xiang Xueqiu, 63 tuổi, vợ Đại sứ Bỉ tại Hàn Quốc Peter Lescouhier. Sự việc xảy ra hôm 9/4 tại một cửa hàng thời trang ở thủ đô Seoul.
-Video cho thấy bà Xiang, người gốc Trung Quốc, xô đẩy một nhân viên bán hàng tại đây và đánh vào đầu, vào lưng nữ nhân viên này. Khi một nhân viên khác bước đến và can ngăn, khuyên bà Xiang giữ bình tĩnh, bà Xiang đã thẳng tay tát vào mặt của nữ nhân viên đó.
-Nhân viên bán hàng cho biết, hiện cô vẫn chưa nhận được bất cứ lời xin lỗi nào từ bà Xiang và cô đã quyết định chia sẻ đoạn video trên mạng xã hội nhằm mục đích cảnh báo các nhân viên bán hàng khác tránh sự việc tương tự.
-Theo truyền thông địa phương, vụ việc bắt nguồn từ việc bà Xiang ban đầu bước vào cửa hàng, sau một hồi xem hàng, bà bước ra khỏi cửa hàng mà không mua bất cứ món đồ nào. Một nhân viên bán hàng đã nhầm tưởng bà chưa thanh toán tiền vì khi đó bà mặc chiếc áo trông giống sản phẩm tại cửa hàng. Nhân viên này đã chạy theo bà Xiang. Sau khi nhận ra nhầm lẫn, nhân viên đó đã xin lỗi bà Xiang, nhưng vợ Đại sứ Bỉ đã tức giận quay lại cửa hàng và xảy ra xô xát.
-Cảnh sát sau đó đã có mặt tại hiện trường và xác nhận danh tính của bà Xiang là vợ đại sứ, bà được phép rời đi vì được quyền miễn trừ ngoại giao. Thông thường theo luật của các nước chủ nhà, các nhà ngoại giao nước ngoài và thành viên gia đình họ được miễn truy tố.
-Cảnh sát địa phương cho biết đang tiến hành điều tra vụ việc. Tuy nhiên, sự việc đã khiến dư luận ở Hàn Quốc phẫn nộ. Một số cư dân mạng thậm chí đề nghị vợ chồng Đại sứ Bỉ rời khỏi Hàn Quốc.
-Một cư dân mạng bình luận: "Điều gì xảy ra nếu vợ Đại sứ Hàn Quốc cũng tát một nhân viên bán hàng ở Bỉ". Một người khác bình luận: "Đề nghị chính phủ Bỉ triệu hồi đại sứ và bồi thường thiệt hại. Nếu chúng ta để vụ này chìm xuống, các nước khác sẽ xem thường chúng ta".
-Hiện Đại sứ quán Bỉ ở Seoul chưa đưa ra bình luận về vụ việc.
-Đại sứ Lescouhier từng học tập tại Đại học Phúc Đán và Nam Kinh của Trung Quốc vào những năm 1980. Ông từng làm việc tại Đại sứ quán Bỉ ở Bắc Kinh từ năm 1991 đến năm 1997. Ông được bổ nhiệm làm Đại sứ Bỉ tại Hàn Quốc năm 2018, ông và vợ đã chuyển đến sinh sống tại Seoul cùng năm đó.
-Minh PhươngTheo SCMP
+# url = https://dantri.com.vn/the-gioi/nguoi-vo-tre-soc-cho-tin-chong-moi-cuoi-tren-tau-ngam-indonesia-mat-tich-20210424083241728.htm
+# date = 20210424
+Những ngày vừa qua là thời gian đầy thử thách đối với Mdm Yayak Dwi Ernawati, 46 tuổi. Con rể cô, Pandu Yudha Kusuma, 23 tuổi, là một trong số 53 người có mặt trên tàu ngầm KRI Nanggala 402 của Hải quân Indonesia mất tích sáng 21/4.
+Cô nhận được tin tàu ngầm mất tích vào sáng 21/4 qua mạng xã hội. Sau đó, vợ của một chỉ huy thông báo với họ qua một nhóm hội thoại. "Ban đầu tôi không tin. Tất cả chúng tôi đều bàng hoàng", Ernawati kể lại. Cô cho biết thêm, con gái cô vẫn còn sốc và tự nhốt mình trong phòng.
+Cô cho biết, con rể là một người tốt bụng và có trách nhiệm. Kusuma và con gái cô, Mega Dian Pratiwi, 23 tuổi, mới cưới nhau được 2 tháng. Kusuma gia nhập Hải quân Indonesia cách đây 5 năm và đóng tại căn cứ ở Surabaya, còn vợ sống ở Banyuwangi, Đông Java. Theo Ernawati, Kusuma muốn gia nhập quân đội bởi gia đình có truyền thống phục vụ trong quân đội.
+Lần cuối cùng Ernawati nói chuyện với con rể là vào sáng 19/4. Khi đó, Kusuma cho biết sẽ lên tàu đến vùng biển ngoài khơi Bali. "Nó bảo tôi hãy cầu nguyện cho nó bởi nó sắp đi biển. Tôi nói: Cẩn trọng nhé. Con là trụ cột của gia đình", Ernawati nói.
+"Chúng tôi chỉ có thể cầu nguyện. Chúng tôi trông chờ vào các cơ quan hữu quan tìm thấy con tàu. Chúng tôi hy vọng con rể tôi có thể trở về an toàn. Tôi cảm giác nó vẫn an toàn bởi vì các thủy thủ đều được huấn luyện", Ernawati ngậm ngùi.
+Mặc dù vẫn hy vọng một phép màu có thể giúp thủy thủ đoàn của KRI Nanggala 402 an toàn, tuy nhiên, một số người thân của thủy thủ đồng tình với chuyên gia rằng cơ hội sống sót của họ là rất ít.
+Tàu ngầm KRI Nanggala 402 mất tích rạng sáng 21/4 khi diễn tập phóng ngư lôi ngoài khơi Bali. Vị trí cuối cùng của con tàu trước khi mất tích cách bờ biển Bali khoảng 95km.
+Các chuyên gia quân sự của Indonesia cho rằng con tàu có thể đã chìm xuống độ sâu 700m, trong khi giới hạn an toàn cho con tàu hơn 40 tuổi này chỉ khoảng 250m.
+Một chiến dịch tìm kiếm, cứu hộ quy mô lớn đang diễn ra với sự tham gia của 25 tàu và một số máy bay của Indonesia. Một số nước như Mỹ, Ấn Độ, Singapore, Malaysia, Australia cũng đã điều tàu và máy bay đến hỗ trợ. Lực lượng tìm kiếm đã phát hiện một số dấu vết khả nghi như vệt dầu loang, vật thể không xác định có từ tính cao trôi nổi dưới đáy biển.
+Lực lượng tìm kiếm cứu hộ Indonesia tin rằng họ đã xác định được khu vực tàu ngầm mất tích. Khu vực này cách đảo Bali khoảng 40km về phía bắc, nơi phát hiện vệt dầu loang và vật thể chưa xác định ở độ sâu khoảng 50m đến 100m.
+Tuy vậy, đến nay, họ chưa phát hiện dấu hiệu chắc chắn nào về con tàu. Cơ hội sống sót của 53 thủy thủ trên tàu càng mong manh hơn khi giới chức hải quân Indonesia ước tính lượng dưỡng khí trên tàu chỉ đủ dùng đến sáng sớm nay 24/4.
+KRI Nanggala 402 là 1 trong 5 tàu ngầm của Hải quân Indonesia. Một số ý kiến cho rằng, vụ mất tích của KRI Nanggala 402 có thể một phần do con tàu đã quá cũ và con tàu chở quá tải so với quy định. Giới chức Indonesia chưa bình luận về điều này, nhưng thừa nhận cần hiện đại hóa, nâng cấp hạm đội tàu ngầm đã cũ.
+Minh PhươngTheo CNA, Reuters

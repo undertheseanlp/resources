@@ -1,11 +1,16 @@
 # doc_id = news_travel_148
-# url = https://dantri.com.vn/du-lich/la-ky-ho-nuoc-soi-quanh-nam-nhung-van-mat-lanh-o-vinh-long-20210422092751311.htm
-# date = 20210422
-Hồ nước nằm trong vườn cây ăn trái của gia đình bà Lê Thúy Nghĩa ngụ tại ấp 1, xã Hòa Thạnh, huyện Tam Bình, Vĩnh Long. Diện tích hồ nước sâu 1,5 mét, rộng 4,5 mét. Ở giữa hồ có 3 tim nước sôi mạnh, xung quanh có nhiều bọt nhỏ sủi lên.
-Chủ nhân hồ nước cho biết, hồ nước này đã có hơn trăm năm nước, từ thối cố can để lại. Xung quanh nhà bà cũng có nhiều ao nước nhưng chỉ có mỗi chỗ này là nước lại sôi kỳ lạ như thế này.
-Đặc biệt, khi mực nước hồ dâng cao, các tim nước sôi rất mạnh, thậm chí bắn tung tóe ra ngoài. Nhưng kỳ lạ thay dù là nước sôi như thế, nhưng nhiệt độ nước lại bình thường chẳng khác gì với các ao, hồ khác cá hay các loại thực vật khác vẫn sinh trưởng được trong môi trường này.
-"Cũng có cá, ốc hay thực vật sinh sống ở dưới. Mà hồ nước này lạ lắm, nó như cảm nhận được hơi người hễ có tiếng nói hoặc người đến xem càng nhiều thì nước trong hồ sôi càng mạnh. Có nhiều người thấy nước sôi không dám chạm tay vào vì sợ bỏng nhưng khi thấy tôi rửa tay để chứng minh nước rất mát họ cũng làm theo".
-Hồ nước sôi tự nhiên khiến nhiều người tò mò, thời điểm khoảng 7,8 năm trước hồ nước của bà Nghĩa nổi lên như một hiện tượng, mỗi ngày có rất đông người đến xem. Nhiều người không tin vào mắt mình vì lần đầu tiên nhìn thấy có một hồ nước không cần đun mà vẫn sôi ùng ục như thế.
-Cũng theo bà Nghĩa, nhiều năm trước có một số nhà khoa học đưa máy móc thiết bị đến thăm dò và cho rằng đó là do hiện tượng thoát khí metan từ lòng đất, bởi nhiều vị trí khác tại xã Hòa Thạnh cũng xảy ra hiện tượng này.
-Tuy nhiên, chỉ duy nhất tại hồ nước này là sôi sục mạnh nhất. Cũng bởi sự kỳ lạ này mà hằng năm có nhiều người không quản đường xa tới tận nhà bà để được mục sở thị về câu chuyện hồ nước bí ẩn này.
-Bảo Kỳ
+# url = https://dantri.com.vn/du-lich/la-lung-nguoi-phu-nu-vao-rung-song-kieu-tinh-tinh-trong-7-nam-20210420082212288.htm
+# date = 20210420
+Trải nghiệm sống cùng tinh tinh của nhà linh trưởng học người Mỹ, Janis Carter, 69 tuổi, đã được dựng thành bộ phim tài liệu mang tên Lucy The Human Chimp. Hành động của cô gây ngạc nhiên cho những nhà bảo tồn nói riêng và cho toàn thế giới.
+Kế hoạch kéo dài hai tuần của các nhà linh trưởng học không thành bởi Lucy không thể hòa nhập với đời sống của một con tinh tinh đúng nghĩa. Thế là, Carter quyết định ở lại chừng nào Lucy học được cách sống trong hoang dã. Cô đã bỏ lại phía sau bạn trai và sự nghiệp giáo viên. Đó đều là những quyết định khó khăn.
+Ban đầu, Carter vẫn thi thoảng liên lạc với chị gái và hai cháu. Nhưng cô nhận thấy không thể sống bình thường như một con người khi ở cùng những con tinh tinh nên đã cắt đứt mọi mối liên hệ.
+Carter chia sẻ rằng "gia đình mới" đáp ứng mọi nhu cầu con người của mình. Cuối mỗi ngày, cô và những con tinh tinh sẽ cùng ngồi ngắm hoàng hôn. Những khi ấy, cô gái trẻ cảm thấy như nền văn minh ngoài kia không hề tồn tại.
+Sau một năm, những con tinh tinh khác đã thích nghi được với cuộc sống hoang dã, nhưng Lucy thì không. Có giai đoạn Janis cảm thấy cô đơn đến suy sụp. Nhưng cô xác định vẫn còn nhiều việc phải làm nếu không Lucy sẽ không thể sống sót. Cô gái từng phải ăn lá cây để con tinh tinh bắt chước.
+Sau 6 năm rưỡi, Dash - một con tinh tinh đực đã gây sự và đuổi Carter khỏi đàn để được làm thủ lĩnh bằng cách đẩy, xô ngã và kéo cô vào một bụi gai. Carter phải chui vào lồng để tự bảo vệ mình. Sau vụ tấn công đó, cô rời khỏi đảo.
+Một năm sau, Carter quay lại đảo. Cô mang theo một chiếc gương và bút chì màu - hai món đồ chơi yêu thích của Lucy khi còn sống cùng con người. Nhưng giờ Lucy không hứng thú nữa.
+"Chúng tôi chải chuốt cho nhau và trò chuyện, sau đó cô ấy nắm lấy tôi và ôm tôi thật chặt. Cảm giác ấy rất lạ, nó không giống như bất kỳ cái ôm nào khác mà chúng tôi từng có. Lucy vẫn yêu tôi. Điều đó rất rõ ràng, nhưng cô ấy không còn cần tôi theo cách mà cô ấy đã từng nhiều năm trước nữa", Carter nhớ lại.
+Cuối cùng, Lucy đã hòa nhập với "xã hội" thực sự của mình, dù không may qua đời một năm sau đó.
+Hiện Carter đang sống trong một ngôi nhà nhỏ ở thủ đô Banjul, Gambia, nhưng vẫn dành phần lớn thời gian ở trung tâm phục hồi và bảo tồn tinh tinh ven sông, rồi ngủ trong chiếc lồng cũ.
+Đối diện trung tâm là hòn đảo - nơi sinh sống của 140 con tinh tinh hoang dã là đời sau của 10 con tinh tinh ban đầu. Bà cũng bắt đầu viết hồi ký và từng bước liên lạc lại với gia đình.
+Thảo Lê
+Theo Mirror, Telegraph

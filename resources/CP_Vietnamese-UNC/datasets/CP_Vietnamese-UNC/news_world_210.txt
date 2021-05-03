@@ -1,17 +1,17 @@
 # doc_id = news_world_210
-# url = https://dantri.com.vn/the-gioi/phu-dao-mo-ke-chuyen-bao-covid-19-o-an-do-20210430095551662.htm
-# date = 20210430
-Trong khi các lò hỏa thiêu Ấn Độ quá tải, nhiều nghĩa trang cũng sắp hết chỗ chôn (Ảnh minh họa: Reuters).
-Khoảng 2 đến 3 tháng trở lại đây khi dịch Covid-19 bắt đầu bùng phát mạnh trở lại, Sayyed Munir Kamruddin, một phu đào mộ ở Mumbai, thậm chí không còn quan tâm đến việc mặc đồ bảo hộ và đeo găng tay.
-"Tôi không sợ Covid-19 nữa, tôi làm việc bằng sự can đảm. Tất cả là lòng can đảm, chứ không phải sợ hãi", phu đào mộ 52 tuổi, với 25 năm trong nghề ở Mumbai, cho biết.
-Ấn Độ đang gồng mình đối phó với làn sóng Covid-19 thứ hai nghiêm trọng nhất từ trước đến nay, với hơn 300.000 ca mới/ngày trong vòng 1 tuần qua. Các bệnh viện và lò hỏa táng đều trong tình trạng quá tải.
-Tại New Delhi, xe cứu thương chở thi thể bệnh nhân Covid-19 phải xếp hàng dài chờ nhiều giờ đồng hồ để đưa người vào hỏa thiêu. Chính quyền địa phương buộc phải dựng tạm các điểm hỏa thiêu trong công viên và các bãi đậu xe.
-Kamruddin cho biết, ông và đồng nghiệp phải làm việc ngày đêm để chôn cất bệnh nhân Covid-19.
-"Đây là công việc duy nhất của chúng tôi. Tiếp nhận thi thể, di chuyển thi thể khỏi xe cứu thương sau đó chôn họ. Công việc của tôi khá vất vả", ông Kamruddin cho biết và nói thêm rằng suốt một năm qua ông chưa có một ngày nghỉ.
-Làn sóng Covid-19 thứ hai đang càn quét Ấn Độ với tốc độ mạnh chưa từng có kể từ khi dịch bắt đầu bùng phát cách đây hơn 1 năm. Mỗi ngày, hàng nghìn người Ấn Độ đôn đáo chạy hết bệnh viện này đến bệnh viện khác vì tình trạng thiếu giường bệnh, thiếu ôxy.
-K. VijayRaghavan, cố vấn khoa học của chính phủ Ấn Độ, cho biết: "Làn sóng Covid-19 khiến tất cả chúng tôi đều bất ngờ. Mặc dù chúng tôi đều nhận thấy làn sóng Covid-19 thứ hai ở các nước khác, chúng tôi có sẵn vắc xin, nhưng không có dấu hiệu nào cho thấy quy mô của làn sóng thứ hai này (ở Ấn Độ)".
-Tính đến ngày 29/4, Ấn Độ ghi nhận tổng cộng gần 18,4 triệu ca mắc Covid-19, trong đó hơn 204.000 ca đã tử vong. Tuy vậy, giới chuyên gia cho rằng, con số thực tế có thể gấp 10 lần số thống kê.
-Quân đội Ấn Độ đã bắt đầu vận chuyển vật tư y tế cho các bệnh viện trên khắp cả nước, trong đó có các bình ôxy, để giải tỏa tình trạng cạn kiệt ôxy. Cuộc khủng hoảng ôxy ở Ấn Độ dự kiến sẽ giảm bớt vào khoảng giữa tháng 5, một quan chức trong ngành cho biết. Nhiều khách sạn, ga tàu đã được chuyển thành các bệnh viện dã chiến trong bối cảnh hệ thống bệnh viện đối mặt với tình trạng thiếu giường bệnh.
-Ngoài ra, chính phủ Ấn Độ cũng đẩy nhanh chương trình tiêm chủng vắc xin toàn quốc với việc cho phép tất cả người dân trên 18 tuổi được phép tiêm vắc xin Covid-19 từ tuần này. Mặc dù là nước sản xuất vắc xin lớn nhất thế giới, nhưng Ấn Độ vẫn không đủ cung cấp cho nhu cầu nội địa.
-Nhiều người dân ở Ấn Độ tìm cách để đăng ký tiêm chủng nhưng không thành công. Khoảng hơn 8 triệu người đã đăng ký tiêm, nhưng hiện chưa rõ bao nhiêu người đã được tiêm. Một quan chức Mumbai cho biết, địa phương này buộc phải tạm ngừng chương trình tiêm chủng trong 3 ngày vì hết vắc xin.
-Minh PhươngTheo Reuters
+# url = https://dantri.com.vn/the-gioi/phuong-tay-don-dap-truc-xuat-nha-ngoai-giao-nga-moscow-tung-don-dap-tra-20210424062923236.htm
+# date = 20210424
+Nga, phương Tây "ăn miếng, trả miếng"
+Ba nước vùng Baltic gồm Latvia, Lithuania và Estonia ngày 23/4 đã đồng loạt thông báo trục xuất nhà ngoại giao Nga. Trong đó, Lithuania trục xuất hai nhân viên Đại sứ quán Nga, Latvia và Estonia mỗi nước cũng trục xuất một nhà ngoại giao Nga. Một ngày trước đó, Slovakia cũng yêu cầu 3 nhân viên ngoại giao Nga phải rời nước này.
+Bộ Ngoại giao Lithuania ra thông cáo cho biết thêm: "Đại sứ quán Lithuania ở Moscow sẵn sàng giúp đỡ Đại sứ quán Séc tại Nga thực hiện các chức năng bị gián đoạn bởi quyết định trục xuất nhân viên mà Moscow đưa ra".
+Nga cảnh báo sẽ đáp trả các nước phương Tây (Ảnh: TASS).
+Đáp lại quyết định trên của Latvia, Lithuania và Estonia, người phát ngôn Bộ Ngoại giao Nga Maria Zakharova cảnh báo: "Giới chức các nước này chắc chắn sẽ gánh chịu đáp trả của chúng tôi. Các nhà ngoại giao của họ có thể đã bắt đầu tính toán xem ai sẽ phải khăn gói về nước".
+Những động thái trên của các nước Baltic nhằm ủng hộ Cộng hòa Séc giữa lúc căng thẳng với Nga. Cộng hòa Séc hôm qua tuyên bố trục xuất 63 nhân viên ngoại giao Nga sau khi đã trục xuất 18 người vài ngày trước.
+Nga cũng lập tức đáp trả. Bộ Ngoại giao Nga hôm qua cho hãng tin TASS hay, Moscow sẽ buộc Séc cắt giảm hơn 100 nhân viên ngoại giao để cân bằng số lượng nhân viên tại đại sứ quán hai nước. Như vậy, Séc sẽ phải cắt giảm 16 nhà ngoại giao, 4 nhân viên kỹ thuật và 91 nhân viên địa phương. Đổi lại, Đại sứ quán Nga tại Prague (Séc) sẽ phải giảm 35 nhà ngoại giao, 46 nhân viên hành chính và kỹ thuật trước ngày 31/5.
+"Đến cuối tháng 5, mỗi bên sẽ có 7 nhà ngoại giao, 25 nhân viên kỹ thuật và hành chính, 19 nhân viên địa phương. Cách hành xử vô trách nhiệm và khiêu khích của Séc đã làm tổn hại đến chính cơ quan ngoại giao của họ", Bộ Ngoại giao Nga cho biết.
+Sắc lệnh đáp trả
+Hãng tin TASS dẫn thông tin trên trang chủ Điện Kremlin ngày 23/4 cho biết, Tổng thống Nga Vladimir Putin đã ký một sắc lệnh về các biện pháp đáp trả hành động không thiện chí của nước ngoài.
+Theo sắc lệnh này, các phái bộ ngoại giao, các đơn vị lãnh sự, văn phòng đại diện cơ quan chính phủ nước ngoài có hành động không thiện chí nhằm chống lại nước Nga, công dân hay các thực thể pháp lý của Nga sẽ phải đối mặt với các lệnh hạn chế hoặc thậm chí cấm hoàn toàn việc tuyển dụng công dân Nga nếu cần.
+Chính phủ Nga sẽ xác định số lượng nhân viên mà các phái bộ nước ngoài được phép tuyển dụng. Ngoài ra, sắc lệnh giao nhiệm vụ cho chính phủ Nga lên danh sách các quốc gia không thiện chí bị đưa vào diện đáp trả nhằm đảm bảo quyền lợi cho công dân Nga trong trường hợp họ bị cắt hợp đồng với phái bộ nước ngoài do tác động của sắc lệnh.
+Điện Kremlin cho biết, sắc lệnh có hiệu lực từ khi công bố cho đến khi các biện pháp đáp trả được hủy bỏ.
+Minh PhươngTheo TASS

@@ -1,7 +1,9 @@
 # doc_id = news_world_194
-# url = https://dantri.com.vn/the-gioi/ong-bush-tiet-lo-nguoi-duoc-ong-viet-ten-trong-phieu-bau-tong-thong-2020-20210423142131414.htm
-# date = 20210423
-Trả lời phỏng vấn tạp chí People, cựu tổng thống Mỹ George W. Bush cho biết, ông đã viết tên ủng hộ cựu ngoại trưởng Condoleezza Rice trong phiếu bầu tổng thống Mỹ 2020 hồi tháng 11 năm ngoái, mà không phải ông Joe Biden - ứng viên đắc cử sau đó hay ông Donald Trump - người vừa mãn nhiệm tổng thống hồi tháng 1.
-Ông Bush đã nói cho bà Rice biết điều này. "Bà ấy có biết, nhưng bà ấy nói với tôi rằng sẽ từ chối nhận chức vụ đó". Bà Rice (66 tuổi) là ngoại trưởng Mỹ trong nhiệm kỳ thứ hai của ông Bush. Thời điểm đó, bà trở thành phụ nữ gốc Phi đầu tiên có chức vụ cao nhất trong chính phủ Mỹ. Trước đó, bà từng phục vụ trong chính quyền của Tổng thống George H. W. Bush (Bush cha).
-Ở cương vị ngoại trưởng, bà Rice đã nỗ lực cải tổ và tái cấu trúc bộ máy của Bộ ngoại giao Mỹ và công du tới 70 quốc gia. Ngoài tiếng Anh, bà Rice có thể nói tiếng Nga, tiếng Đức, tiếng Pháp, và tiếng Tây Ban Nha. Tạp chí Forbes đã hai lần bầu chọn bà là người phụ nữ quyền lực nhất thế giới. Khi kết thúc nhiệm kỳ vào năm 2009, bà tuyên bố không có ý định tranh cử tổng thống.
-Minh PhươngTheo The Hill
+# url = https://dantri.com.vn/the-gioi/ong-tap-can-binh-chi-trich-my-keu-goi-lap-trat-tu-the-gioi-da-phuong-20210420143141587.htm
+# date = 20210420
+Phát biểu tại Diễn đàn Kinh tế Bác Ngao hôm nay 20/4, Chủ tịch Trung Quốc Tập Cận Bình nói: "Các vấn đề quốc tế cần được giải quyết thông qua đàm phán, trao đổi, vận mệnh tương lai của thế giới phải do tất cả các quốc gia quyết định. Một hoặc một vài quốc gia không nên áp đặt quy tắc của mình lên các nước khác, thế giới không nên bị dẫn dắt bởi chủ nghĩa đơn phương của một vài quốc gia".
+Trong một phát biểu được cho là ngầm chỉ trích nỗ lực của Mỹ nhằm giảm phụ thuộc vào chuỗi cung của Trung Quốc, cấm xuất khẩu các hàng hóa như chíp điện tử cho Trung Quốc, ông Tập nói, "bất cứ nỗ lực nào nhằm tạo rào cản hay đi ngược lại các quy tắc kinh tế, thị trường sẽ chỉ gây bất lợi cho các bên".
+"Điều chúng ta cần trong thế giới hiện nay đó là công lý, không phải bá quyền", ông Tập nói và nhấn mạnh thêm rằng Trung Quốc sẽ không bao giờ tham gia vào bất cứ cuộc chạy đua vũ trang nào.
+Mặc dù vậy, gần đây, Trung Quốc đã đơn phương áp các lệnh trừng phạt thương mại với một số quốc gia, trong đó có Australia sau khi nước này lên tiếng ủng hộ một cuộc điều tra quốc tế về cách ứng phó đại dịch Covid-19 của Bắc Kinh.
+Những bình luận trên của ông Tập Cận Bình được đưa ra trong bối cảnh quan hệ Trung Quốc - Mỹ tiếp tục sóng gió kể từ khi Tổng thống Mỹ Joe Biden nhậm chức hồi đầu năm. Mỹ và một số đồng minh như Anh đã gay gắt chỉ trích Trung Quốc về hàng loạt vấn đề từ Hong Kong, Tân Cương, Đài Loan đến vấn đề Biển Đông.Tháng trước, Tổng thống Biden nói rằng, Trung Quốc có tham vọng trở thành quốc gia hùng mạnh nhất thế giới, nhưng ông sẽ không để điều đó xảy ra khi ông còn đương chức.
+Minh PhươngTheo CNBC

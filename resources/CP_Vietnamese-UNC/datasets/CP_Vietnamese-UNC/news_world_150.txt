@@ -1,20 +1,15 @@
 # doc_id = news_world_150
-# url = https://dantri.com.vn/the-gioi/my-chay-dua-giai-cuu-an-do-khoi-sieu-bao-covid-19-20210430075322890.htm
-# date = 20210430
-Một bệnh nhân mắc Covid-19 tại bệnh viện ở New Delhi, Ấn Độ ngày 29/4 (Ảnh: Reuters).
-Máy bay quân sự đầu tiên của Mỹ chất đầy vật tư y tế, gồm gần 1 triệu bộ xét nghiệm nhanh và 100.000 khẩu trang N95, đã đến thủ đô New Delhi của Ấn Độ vào sáng sớm 30/4.
-"Cũng giống như Ấn Độ đã gửi hỗ trợ cho Mỹ khi các bệnh viện của chúng tôi bị căng thẳng trong giai đoạn đầu của đại dịch, Mỹ quyết tâm hỗ trợ Ấn Độ trong thời điểm cần thiết", Nhà Trắng khẳng định trong thông cáo ngày 29/4.
-Ông Jeremy Konyndyk, giám đốc điều hành của lực lượng ứng phó Covid tại Cơ quan Phát triển Quốc tế Mỹ, cho biết ưu tiên hàng đầu "là cố gắng đáp ứng một số nhu cầu trước mắt để giải quyết những thách thức cấp bách" mà các bệnh viện Ấn Độ đang phải đối mặt.
-"Chúng tôi cũng cần hỗ trợ họ giải quyết một số thách thức cơ bản, như lượng ôxy y tế mà họ có thể sản xuất", Konyndyk nói với AFP.
-Mỹ cũng đang đàm phán với Ấn Độ về việc xác định cách thức mở rộng "chuỗi cung ứng ôxy", bao gồm phát triển các công nghệ chuyển đổi ôxy công nghiệp thành ôxy sử dụng trong y tế, đồng thời cải thiện các phương thức vận chuyển ôxy khắp đất nước.
-Ngoài ra, Mỹ cũng cam kết hỗ trợ vắc xin Covid-19 cho Ấn Độ, nhưng ông Konyndyk cho rằng việc tiêm phòng vắc xin chỉ là giải pháp trung hạn khi Ấn Độ đang phải đối mặt với số ca nhiễm tăng mạnh.
-Chính quyền Tổng thống Mỹ Joe Biden ngày 26/4 cho biết Washington sẽ phân phối ra nước ngoài 60 triệu liều vắc xin AstraZeneca, dù vắc xin này chưa được cấp phép sử dụng ở Mỹ.
-Nhưng cho đến nay, Mỹ vẫn chưa quyết định sẽ gửi bao nhiêu liều vắc xin tới Ấn Độ và các nước khác. Ông Konyndyk cho biết vắc xin vẫn cần được Cục Quản lý Thực phẩm và Dược phẩm Mỹ phê duyệt.
-Trong khi đó, chính quyền Tổng thống Biden cho biết đang vận chuyển đến Ấn Độ các vật tư để sản xuất hơn 20 triệu liều vắc xin Covishield, một phiên bản giá rẻ của AstraZeneca được phát triển ở Ấn Độ.
-Ông Biden đã đối mặt với những lời chỉ trích từ các nhà hoạt động về việc không chia sẻ vắc xin nhanh chóng hơn, trong khi Mỹ dự kiến sẽ sớm thừa vắc xin sau chiến dịch tiêm chủng thành công ở trong nước.
-Ấn Độ đang phải đối mặt với cuộc khủng hoảng dịch bệnh mặc dù là nhà sản xuất vắc xin lớn trên thế giới. Quốc gia tỷ dân đã không thành công trong việc hối thúc Mỹ nới lỏng các quy định về sở hữu trí tuệ đối với vắc xin Covid-19.
-Ấn Độ tiếp tục trải qua một ngày "đen tối" hôm 29/4 khi có thêm 379.257 ca mắc và 3.645 ca tử vong vì Covid-19 - mức cao nhất kể từ khi bắt đầu đại dịch.
-Ấn Độ hiện là vùng dịch lớn thứ 2 thế giới, chỉ sau Mỹ. Cho đến nay, Ấn Độ ghi nhận hơn 18,7 triệu ca nhiễm và hơn 208.000 ca tử vong vì Covid-19.
-Trong thông báo trên Twitter ngày 29/5, Bộ Ngoại giao Mỹ khuyến cáo công dân nước này rời khỏi Ấn Độ trong thời gian sớm nhất. Bộ Ngoại giao Mỹ cảnh báo rằng "việc tiếp cận với tất cả loại hình chăm sóc y tế đang trở nên hạn chế nghiêm trọng ở Ấn Độ do sự gia tăng các trường hợp mắc Covid-19".
-Thành Đạt
-Theo AFP
+# url = https://dantri.com.vn/the-gioi/my-day-manh-dan-mat-than-do-tham-bien-dong-doi-pho-trung-quoc-20210501085030090.htm
+# date = 20210501
+Máy bay do thám P-8A Poseidon (Ảnh: Wikipedia).
+Một thống kê của tổ chức Sáng kiến Thăm dò Tình hình Chiến lược ở Biển Đông (SCSPI) thuộc Đại học Bắc Kinh, Trung Quốc công bố hôm 30/4 cho thấy Mỹ đã thực hiện 65 chuyến bay do thám trên Biển Đông vào tháng 4.
+Ngoài ra, theo SCSPI, kể từ khi Tổng thống Mỹ Joe Biden nhậm chức, Mỹ trong 4 tháng đầu năm 2021 đã thực hiện số nhiệm vụ do thám tăng 40% so với cùng kỳ năm 2020.
+Theo bản báo cáo trên, Mỹ đã đưa 5 loại máy bay trinh sát tới Biển Đông trong thời gian qua, phản ánh mối quan tâm của Mỹ tới mọi hoạt động trong khu vực từ tuần tra hàng hải đến tình báo tín hiệu.
+P-8A Poseidon là máy bay thực hiện nhiều nhiệm vụ trinh thám nhất, với 43 lần xuất phát trong tháng 4, trong khi chiếc E-8C Orion nhận 5 nhiệm vụ. Hai loại máy bay này đều có khả năng theo dõi tàu mặt nước và tàu ngầm. Trong khi đó, chiếc EP-3E Aries II thực hiện 10 nhiệm vụ trinh thám, và chiếc RC-135W thực hiện 6 nhiệm vụ.
+Ngoài ra, SCSPI cũng phát hiện ra máy bay E-8C Joint STARS 5 lần xuất phát để trinh thám ở Biển Đông trong tháng qua. Máy bay không người lái MQ-4C Triton cũng được điều động làm nhiệm vụ tại khu vực biển giàu tài nguyên trong tháng 4.
+Trước đó, tháng 2/2021 được xem là tháng SCSPI phát hiện số chuyến bay trinh thám Biển Đông nhiều nhất từ phía Mỹ với 75 nhiệm vụ.
+Động thái của Mỹ diễn ra trong bối cảnh căng thẳng đang nóng lên ở Biển Đông, khu vực mà Trung Quốc nêu yêu sách chủ quyền phi pháp với phần lớn diện tích thông qua cái gọi là "đường chín đoạn" - thuật ngữ không được cộng đồng quốc tế công nhận. Hồi giữa tháng, cả Mỹ và Trung Quốc đều đưa các nhóm tác chiến tàu sân bay tới Biển Đông, động thái được xem là phát đi thông điệp cứng rắn.
+Hôm 29/4, người phát ngôn Bộ Quốc phòng Trung Quốc Wu Qian nói rằng, kể từ khi ông Biden nhậm chức vào ngày 20/1, số chuyến bay do thám Biển Đông của Mỹ tăng 40%, trong khi các tàu chiến làm số nhiệm vụ tăng 20% so với cùng kỳ năm trước.
+Mỹ khẳng định các yêu sách chủ quyền của Trung Quốc ở Biển Đông là bất hợp pháp và tuyên bố sẽ có động thái giúp bảo vệ quyền lợi của các quốc gia khác trong khu vực theo luật lệ quốc tế.
+Đức Hoàng
+Theo Sputnik

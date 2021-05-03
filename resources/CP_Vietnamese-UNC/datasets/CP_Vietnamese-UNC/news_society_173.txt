@@ -1,10 +1,12 @@
 # doc_id = news_society_173
-# url = https://dantri.com.vn/xa-hoi/lao-thang-xe-vao-duoi-o-to-tai-dang-dau-2-cong-nhan-tu-vong-20210426133210055.htm
-# date = 20210426
-Ngày 26/4, Công an huyện Trảng Bom (tỉnh Đồng Nai) cho biết, đơn vị này đang điều tra làm rõ nguyên nhân vụ tai nạn nghiêm trọng trên đường liên xã Hưng Long - xã Lộ 25 khiến 2 người chết thảm.
-Thông tin ban đầu, vào đêm 25/4, anh Trương Công Tiệp (SN 1990, quê Khánh Hòa) điều khiển xe máy mang BKS 59V2-209.54chở theo anh Nguyễn Thanh Tùng (SN 2000, quê Cà Mau) chạy trên đường liên xã Hưng Long,đến ấp Hưng Phát thì bất ngờ tông thẳng vào đuôi xe tải đang dừng sát lề đường.
-Cú tông mạnh khiến 2 người ngồi trên xe máy lao đầu vào thùng hàng xe tải rồi văng xuống đường. Hậu quả vụ tai nạn khiến anh Tiệp tử vong tại chỗ, còn anh Tùng được mọi người đưa đi cấp cứu nhưng cũng tử vong sau đó.
-Hiện trường vụ tai nạn nghiêm trọng khiến 2 nam công nhân tử vong
-Nhận được tin báo, lực lượng chức năng sở tại cùng các đơn vị nghiệp vụ nhanh chóng có mặt tại hiện trường lấy lời khai nhân chứng để điều tra làm rõ nguyên nhân vụ tai nạn.
-Được biết 2 người gặp nạn đang là công nhân làm việc trong khu công nghiệp Bầu Xéo.
-Khoa Nam
+# url = https://dantri.com.vn/xa-hoi/lien-tiep-phat-hien-2-thi-the-phu-nu-troi-tren-song-20210429103720660.htm
+# date = 20210429
+Khu vực cống Bara cây Phượng, nơi phát hiện thi thể nạn nhân.
+Trưa 30/4, ông Nguyễn Hồ Sơn, Chủ tịch UBND xã Lăng Thành (huyện Yên Thành, Nghệ An) cho biết, người dân trên địa bàn vừa mới phát hiện thi thể một người phụ nữ trên sông Đào, đoạn qua cống cây Phượng.
+"Thi thể người phụ nữ được phát hiện vào khoảng 10h sáng nay (30/4). Hiện, các cơ quan chức năng đang tiến hành công tác khám nghiệm để điều tra, làm rõ", ông Sơn cho hay.
+Trước đó, ngày 29/4 người dân địa phương phát hiện thi chị P.T.N (SN 1981) trên đoạn kênh 14A, thuộc địa bàn xóm Tiên Bồng, xã Phú Thành, huyện Yên Thành (Nghệ An).
+Nhiều người nhận định, nạn nhân rất có thể là chị T.H.H (quê ở xã Hòa Sơn, huyện Đô Lương) là người đi cùng với chị P.T.N. (SN 1981, quê xã Công Thành, huyện Yên Thành), được người dân phát hiện tử vong vào ngày hôm qua (29/4) dưới kênh thủy lợi.
+Trước đó, vào khoảng 8h ngày 29/4 người dân địa phương phát hiện thi chị P.T.N (SN 1981) trên đoạn kênh 14A, thuộc địa bàn xóm Tiên Bồng, xã Phú Thành, huyện Yên Thành (Nghệ An).
+Được biết, vào chiều 29/4, chị N. và chị H. có đi cùng nhau trên một chiếc xe máy qua địa bàn huyện Yên Thành, sau đó cả 2 người đều mất tích bí ẩn.
+Hiện nguyên nhân khiến nạn nhân tử vong đang được Công an tỉnh Nghệ An điều tra, làm rõ.
+Nguyễn Tú

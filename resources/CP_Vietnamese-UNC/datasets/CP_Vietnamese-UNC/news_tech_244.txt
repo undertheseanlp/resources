@@ -1,17 +1,16 @@
 # doc_id = news_tech_244
-# url = https://dantri.com.vn/suc-manh-so/trung-tam-du-lieu-dau-tien-tai-viet-nam-dat-ca-2-chuan-uptime-tier-iii-20210415171750273.htm
-# date = 20210415
-Ngày 15/4, Trung tâm dữ liệu EcoDC - một dự án thuộc Công ty Cổ phần HTC Viễn Thông Quốc Tế (HTC-ITC) đã chính thức được công bố và cung cấp dịch vụ ra thị trường. EcoDC là trung tâm dữ liệu đầu tiên tại Việt Nam đạt cả 2 chuẩn quốc tế Uptime Tier III về thiết kế (TCDD) và xây dựng vận hành (TCCF).
-EcoDC đang sử dụng hệ thống làm mát Inrow Cooling, công nghệ tiết kiệm năng lượng hiện đại nhất, lần đầu tiên được triển khai tại Việt Nam cho phép điều khiển nhiệt độ làm mát tới từng server.
-Lễ ra mắt trung tâm dữ liệu EcoDC.
-Một điểm nhấn đặc biệt nữa là trong khi các trung tâm dữ liệu hiện có trên thị trường chỉ có một nguồn điện, và một UPS thì EcoDC sở hữu 2 nguồn điện, một nguồn chính và một nguồn backup; mỗi nguồn ngay cả nguồn backup cũng có UPS.
-Bên cạnh đó, EcoDC đã xây dựng được hệ thống quản lý an toàn thông tin đạt chứng chỉ quốc tế ISO/IEC 27001. Sau khi đi vào hoạt động ổn định, EcoDC sẽ tiếp tục đầu tư cho hệ thống bảo mật thông tin để lấy các chứng chỉ cao cấp chuyên dụng áp dụng cho các khách hàng tài chính ngân hàng như: HIPAA, PCI DSS, SSAE 18, SOC 2, ISAE 3402...
-Kết hợp với VNCS là đơn vị thành viên chuyên về bảo mật thông tin của Hanoi Telecom, EcoDC sẽ cung cấp các giải pháp an toàn thông tin toàn diện từ chống DDOS, firewall, trung tâm an toàn thông tin (SOC) cho đến các giải pháp bảo mật riêng cho từng khách hàng. EcoDC sẽ chính thức ra mắt và bắt đầu đi vào hoạt động từ tháng 4/2021.
-"EcoDC được xây dựng trong bối cảnh làn sóng chuyển đổi số diễn ra mạnh mẽ. Đây vừa là thời cơ vừa là thách thức cho đội ngũ xây dựng và vận hành. EcoDC ra mắt khi khách hàng có nhiều lựa chọn nhà cung cấp trên nền tảng dịch vụ dữ liệu data center. Tuy nhiên, chúng tôi đã tạo ra một EcoDC vượt trội mang lại sự yên tâm thỏa mái khi dùng các dịch vụ đạt các tiêu chuẩn quốc tế Uptime Tier III về thiết kế xây dựng, hệ thống thiết bị Inrow Cooling, hệ thống giám sát bảo mật", ông Nguyễn Hoàng Dương, Phó chủ tịch điều hành EcoDC chia sẻ.
-Chia sẻ tại sự kiện, Thứ trưởng Bộ TT&TT Nguyễn Huy Dũng nhận định việc trung tâm dữ liệu EcoDC đạt cả 2 tiêu chuẩn Uptime Tier III về thiết kế và vận hành là thành quả lao động nghiêm túc của HTC-ITC. 
-"Muốn phát triển trường tồn và vững mạnh, doanh nghiệp phải gắn sứ mệnh của mình với sứ mệnh quốc gia. Việt Nam đang thực hiện công cuộc chuyển đổi số, chuyển mọi hoạt động từ không gian thực lên không gian mạng, từ môi trường thực lên môi trường số", Thứ trưởng Nguyễn Huy Dũng phát biểu tại sự kiện.
-Trong chương trình Chuyển đổi số Quốc gia, Bộ TT&TT xác định Việt Nam phải phát triển hạ tầng số, trong đó có nền tảng hạ tầng viễn thông băng rộng, điện toán đám mây, định danh và xác thực điện tử. Việt Nam cũng đang hiện thực hóa tầm nhìn mỗi người dân một điện thoại thông minh, mỗi hộ gia đình một đường truyền cáp quang Internet.
-Điểm khác biệt căn bản nhất giữa hạ tầng viễn thông và hạ tầng số chính là các trung tâm dữ liệu và nền tảng điện toán đám mây để biến CNTT trở thành dịch vụ mà mọi người đều có thể tiếp cận được. Trong tiến trình đó, doanh nghiệp cần nhận lấy cho mình sứ mệnh đồng bộ với sứ mệnh của đất nước.
-Thứ trưởng Nguyễn Huy Dũng đề nghị, với vai trò là một doanh nghiệp cung cấp hạ tầng nền tảng, HTC-ITC cần sớm làm việc với các đơn vị chức năng của Bộ TT&TT để đáp ứng các yêu cầu kỹ thuật đặt ra cho việc bảo đảm về vận hành và an toàn an ninh mạng.
-Với trách nhiệm của một nhà cung cấp hạ tầng nền tảng, HTC-ITC hãy nhận lấy sứ mệnh là "bờ vai người khổng lồ" cho các doanh nghiệp vừa và nhỏ và cho cả tiến trình chuyển đổi số của Việt Nam.
-Thế Anh
+# url = https://dantri.com.vn/suc-manh-so/tu-tuong-dai-cong-nghe-toshiba-sap-ban-minh-voi-gia-20-ty-usd-20210410084452992.htm
+# date = 20210410
+Theo một thông tin được đăng tải trên tờ Nikkei, Tập đoàn công nghệ cao Toshiba Corp của Nhật Bản đang xem xét đề nghị mua trị giá hơn 20 tỷ USD từ công ty cổ phần tư nhân CVC Capital Partners.
+Sự việc diễn ra trong bối cảnh Toshiba đang phải đối mặt với áp lực từ các cổ đông để cải thiện bộ máy quản trị.
+Giá trị thương vụ CVC mua Toshiba sẽ dựa vào bộ phận sản xuất chip nhớ, "viên ngọc quý" trong quá khứ duy nhất còn sót lại của Toshiba, Nikkei đưa tin.
+Theo Refinitiv, nếu Toshiba chấp nhận lời đề nghị này, đây sẽ là thương vụ thâu tóm lớn nhất của một công ty cổ phần tư nhân tại khu vực châu Á - Thái Bình Dương trong năm nay, đồng thời vượt qua vụ thâu tóm mảng chip nhớ Toshiba của Bain Capital năm 2018 với giá 18 tỷ USD.
+Sự sụp đổ của một tượng đài công nghệ
+Toshiba được biết đến là công ty với hàng loạt "sản phẩm đầu tiên" được sản xuất tại Nhật, như sáng chế ra Radar năm 1942, máy tính số TAC năm 1954, máy thu hình bán dẫn và lò vi sóng năm 1959, điện thoại màn hình màu năm 1971, máy tính xách tay năm 1986, đĩa DVD năm 1995,...
+Thời sau này, Toshiba cũng đồng thời là công ty đi tiên phong trong các công nghệ TV 3D không cần kính, TV độ phân giải Ultra HD (4K).
+Năm 2010 đánh dấu thời kỳ đỉnh cao nhất trong suốt lịch sử 145 của Toshiba, với vai trò là công ty máy tính cá nhân lớn thứ năm thế giới về doanh thu (xếp phía sau Hewlett-Packard, Dell, Acer và Lenovo).
+Tuy nhiên, hoạt động kinh doanh của Toshiba gặp khó khăn từ sau vụ bê bối kế toán năm 2015. Từ một gian lận nhỏ, Toshiba đã rơi tiếp tục đi theo vết xe đổ và chìm sâu hơn vào sai lầm.
+Kể từ đó, tập đoàn này phải bán đi bộ phận chip nhớ, đóng cửa mảng y tế, điện tử tiêu dùng và thiết bị gia dụng để tập trung vào lĩnh vực năng lượng, hạ tầng công nghiệp.
+Toshiba đã từng là thương hiệu điện tử số 1 Nhật Bản, với bề dày 145 năm tuổi. Nhưng tượng đài này đã dần tụt dốc, dẫn tới sụp đổ. Để có được cái nhìn toàn cảnh về sự hình thành và phát triển của Toshiba, mời bạn đọc tham khảo tại đường link dưới đây:
+>> Sự sụp đổ của thương hiệu 145 tuổi
+Nguyễn Nguyễn

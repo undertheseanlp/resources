@@ -1,14 +1,15 @@
 # doc_id = news_sport_126
-# url = https://dantri.com.vn/the-thao/hlv-koeman-noi-gi-sau-khi-nhan-the-do-trong-tran-thua-soc-cua-barcelona-20210430091145146.htm
-# date = 20210430
-HLV Koeman đã phải nhận thẻ đỏ đồng thời chứng kiến đội nhà thua cay đắng trước đối thủ Granada với tỷ số 1-2 ở vòng 33 La Liga diễn ra vào tối qua (29/4).
-HLV Koeman tranh cãi với trọng tài khi Barcelona để Granada gỡ hòa 1-1
-Chiến lược gia người Hà Lan phải nhận thẻ đỏ và lên khán đài ngồi xem các học trò thi đấu
-HLV Koeman buộc phải lên khán đài ngồi ngay sau bàn gỡ hòa 1-1 của Granada. Chiến lược gia người Hà Lan được cho là xúc phạm trọng tài thứ tư và trọng tài chính sau khi tham khảo ý kiến từ đồng nghiệp đã không ngần ngại tước quyền chỉ đạo của Koeman. Tấm thẻ đỏ sẽ khiến HLVKoeman không được phép chỉ đạo trong trận đấu với Valencia vào cuối tuần này.
-Khi được hỏi về việc mất quyền chỉ đạo ở trận đấu tiếp theo được đánh giá là rất quan trọng khi La Liga chỉ còn 5 vòng đấu nữa, HLV Koeman cho biết: 'Tôi không biết liệu tôi mất quyền chỉ đạo có ảnh hưởng đến đội bóng không nhưng chắc chắn sẽ ảnh hưởng đến tôi. Nếu tôi đã dùng những lời lẽ xấu xa xúc phạm trọng tài thì tôi sẽ chịu hình phạt nhưng mọi chuyện thực tế không hề như vậy".
-Chiến lược gia người Hà Lan nói thêm: "Thật thiếu tôn trọng. Đây là một sự xúc phạm. Tôi chưa từng một lần dùng lời lẽ thô tục với ông ấy. Nếu họ thêu dệt nên những điều mà tôi không hề nói, tôi chắc chắn sẽ phải làm điều gì đó".
-Barcelona bỏ lỡ cơ hội giành ngôi đầu bảng khi để thua sốc trước Granada
-"Barcelona phải chấp nhận trận thua hôm nay. Điều đó thực sự khó khăn bởi chúng tôi đã có cơ hội giành chiến thắng. Bàn thua đến chủ yếu do hàng thủ chơi thiếu tập trung. Đây là kết quả đáng thất vọng, bởi chúng tôi đã nắm trong tay vận mệnh của mình. Tất nhiên, Barcelona vẫn còn 5 trận đấu nữa, đặc biệt chúng tôi đặt mục tiêu chiến thắng trước Valencia vào cuối tuần này", HLV Koeman khẳng định.
-Ngày 3/5, chiến lược gia người Hà Lan và các học trò sẽ đối đầu Valencia trước khi chạm trán Atletico Madrid vào ngày 8/5. Trận đấu tại sân Wanda Metropolitano được xem là cuộc đối đầu quyết định ngôi vô địch La Liga mùa này.
-Hiện tại Barcelona đang xếp thứ ba sau Real Madrid mặc dù bằng điểm với đối thủ (71 điểm) nhưng thua về chỉ số đối đầu. Trong khi đó Atletico dẫn đầu bảng với 73 điểm. La Liga chỉ còn đúng 5 vòng đấu để phân định ngôi vô địch, và cả 4 đội dẫn đầu gồm Atletico, Real Madrid, Barcelona và Sevilla đều có cơ hội giành ngôi vương.
+# url = https://dantri.com.vn/the-thao/hlv-mauricio-pochettino-that-bai-nay-that-kho-nuot-troi-20210429082031405.htm
+# date = 20210429
+HLV Mauricio Pochettino thừa nhận đội bóng PSG của ông đã cảm thấy "rất thất vọng" với những sai lầm tạo điều kiện cho Man City lội ngược dòng giành chiến thắng 2-1 ngay trên sân Công viên các hoàng tử.
+Marquinhos và Neymar ăn mừng bàn thắng mở tỷ số vào lưới Man City
+Mặc dù dẫn trước với pha lập công của Marquinhos trong hiệp một, nhưng PSG đã để Man City có được 2 bàn thắng trong hiệp hai một cách dễ dàng, chưa kể họ nhiều lần suýt thua thêm sau khi Idrissa Gueye phải nhận thẻ đỏ rời sân ở phút 77 sau pha phạm lỗi thô bạo với Ilkay Gundogan.
+Thủ môn Keylor Navas mắc sai lầm trong tình huống ghi bàn của tiền vệ De Bruyne
+Phát biểu sau trận đấu với kênh BT Sport, cựu huấn luyện viên Tottenham, Pochettino thừa nhận những sai sót là "thực sự đau đớn" và "khó chấp nhận" trong một trận đấu tầm cỡ như ở Champions League.
+"Đó là 2 tình huống tai nạn dẫn đến hai bàn thua. Tôi nghĩ chúng tôi cảm thấy rất thất vọng. Thật khó để chấp nhận rằng nó đã xảy ra trong trận bán kết, và điều đó thực sự đau đớn khi nó xảy ra vào thời điểm này", HLV Pochettino nói.
+"Rất khó để giải thích lý do tại sao chúng tôi chơi tốt hơn trong hiệp một, nhưng lại để Man City đảo ngược thế trận trong hiệp hai. Tôi nghĩ chúng tôi gặp khó trong việc giữ thể trạng tốt nhất. Họ chơi lấn lướt hơn và khiến các cầu thủ của chúng tôi khó khăn trong việc thu hồi bóng.
+Đôi khi Man City cầm bóng rất nhiều và tất nhiên gây khó khăn cho lối chơi của chúng tôi.Chúng tôi đã không thể hiện năng lượng cần có trong việc thu hồi bóng, giữ bóng và cố gắng ép họ lùi sâu", chiến lược gia người Argentina lý giải về thất bại của các học trò.
+Idrissa Gueye nhận thẻ đỏ trực tiếp sau pha vào bóng thô bạo với Ilkay Gundogan
+HLV Mauricio Pochettino còn phải chứng kiến khoảnh khắc tồi tệ khi Idrissa Gueye bị đuổi khỏi sân sau pha đạp bóng vào cổ chân của Ilkay Gundogan. Theo thống kê của tờ Opta, đây là tấm thẻ đỏ lần thứ hai của PSG ở Champions League kể từ khi cầu thủ Alvaro Arbeloa phải nhận thẻ đỏ vào mùa giải 2012-2013 trong trận đấu giữa PSG với Leipzig ở vòng bảng.
+Rất may là PSG đã không nhận thêm bàn thua trong 13 phút cuối của trận đấu, nhưng thầy trò HLV Mauricio Pochettino được dự báo sẽ gặp muôn vàn khó khăn trong trận lượt về vào tuần sau để hi vọng giành vé tham dự trận chung kết Champions League.
 Sông Lam

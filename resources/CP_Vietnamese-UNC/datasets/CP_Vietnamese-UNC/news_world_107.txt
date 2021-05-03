@@ -1,12 +1,18 @@
 # doc_id = news_world_107
-# url = https://dantri.com.vn/the-gioi/hai-can-cu-quan-su-myanmar-rung-chuyen-vi-bi-doi-mua-rocket-20210429120338457.htm
-# date = 20210429
-Một căn cứ quân đội Myanmar bị tấn công hôm 27/4 (Ảnh: AFP).
-Reuters dẫn nguồn tin cho hay, hai căn cứ không quân Myanmar ngày 29/4 đã bị tấn công. Theo các nguồn tin, nhiều vụ nổ đã xảy ra ở một căn cứ, trong khi nhân chứng nhìn thấy cảnh rocket rơi xuống một căn cứ khác.
-Các vụ tấn công xảy ra trong bối cảnh căng thẳng ở Myanmar chưa hạ nhiệt sau cuộc đảo chính quân sự ngày 1/2. Hiện chưa có bên nào đứng ra nhận trách nhiệm liên quan tới các vụ tấn công. Quân đội Myanmar chưa lên tiếng về thông tin trên.
-Theo hãng tin Delta News, trong vụ tấn công đầu tiên, 3 vụ nổ đã xảy ra ở căn cứ không quân gần thị trấn miền trung Magway vào sáng sớm nay. Sau đó, 5 quả rocket đã dội xuống một trong những căn cứ chủ lực của quân đội Myanmar ở Meiktila, nằm ở phía đông bắc Magway.
-Một nhà báo đã đăng trên Facebook một đoạn video ghi lại âm thanh được cho là rocket bay trên đầu. Người này có mặt gần căn cứ Meiktila vào thời điểm vụ tấn công xảy ra.
-Kể từ cuộc đảo chính hôm 1/2, phong trào biểu tình phản đối quân đội nóng lên tại Myanmar. Nhiều nhóm vũ trang dân tộc thiểu số và phiến quân đang kiểm soát các khu vực trên lãnh thổ Myanmar đã bày tỏ sự ủng hộ với phe biểu tình và lên án quân đội dùng các biện pháp mạnh để giải tán đám đông, vốn khiến 750 người thiệt mạng cho tới nay.
-Một số nhóm vũ trang thiểu số đã thực hiện các vụ tấn công nhằm vào căn cứ quân sự Myanmar trong những ngày qua. Quân đội Myanmar đã đáp trả bằng các vụ không kích dọc theo khu vực mà các nhóm trên kiểm soát khiến nhiều dân thường buộc phải tháo chạy ra nước ngoài xin tị nạn. Trong khi đó, giới quan sát quan ngại căng thẳng ở Myanmar sẽ có thể châm ngòi cho một cuộc nội chiến.
+# url = https://dantri.com.vn/the-gioi/hai-cu-soc-day-kinh-te-myanmar-toi-bo-vuc-sup-do-20210501092457586.htm
+# date = 20210501
+Hàng nghìn người biểu tình phản đối đảo chính quân sự ở Myanmar (Ảnh: Reuters).
+Chương trình Phát triển Liên Hợp Quốc (UNDP) công bố báo cáo ngày 29/4 chỉ ra rằng nền kinh tế Myanmar đang gặp phải 2 "cú sốc" lớn là chính biến hỗn loạn hậu đảo chính và đại dịch Covid-19.
+Chi phí thực phẩm tăng mạnh, người dân mất phần lớn thu nhập và lương, các hệ thống dịch vụ cơ bản như ngân hàng, chăm sóc sức khỏe bị tê liệt. Những yếu tố này có thể đẩy hàng triệu người dân Myanmar vốn đang trong tình trạng dễ bị tổn thương rơi vào cảnh nghèo đói, với thu nhập trung bình chỉ vào khoảng 1,1 USD/ngày, báo cáo viết.
+Liên Hợp Quốc cảnh báo phụ nữ và trẻ em sẽ là những nhóm bị ảnh hưởng mạnh nhất trong bối cảnh kinh tế Myanmar đang bị đẩy dần tới bờ vực sụp đổ.
+Theo UNDP, nếu tình hình an ninh và kinh tế không sớm bình ổn trở lại, khoảng 25 triệu người - chiếm 48% dân số Myanmar sẽ rơi vào cảnh đói nghèo trong năm 2022.
+Nếu kịch bản này xảy ra, đây sẽ là lần đầu tiên trong 16 năm qua, Myanmar chứng kiến tỷ lệ nghèo đói cao ở mức như vậy.
+Quan chức UNDP Achim Steiner cho rằng, rõ ràng là Myanmar "đang đối mặt với một thảm kịch đang diễn ra" với chuỗi cung ứng bị phá vỡ, sự gián đoạn trong hoạt động di chuyển con người, hàng hóa và dịch vụ, hệ thống ngân hàng về cơ bản bị đình chỉ, kiều hối không đến được tay người dân. Ông Steiner cho rằng, cuộc khủng hoảng chính trị đang làm mọi thứ trở nên tồi tệ hơn.
+Trước cuộc đảo chính quân sự, tỷ lệ nghèo đói ở Myanmar đã giảm từ mức 48,2% năm 2005 xuống 24,8% vào năm 2017.
+Tuy nhiên, cú sốc đầu tiên từ đại dịch Covid-19 với các biện pháp phong tỏa và hạn chế đi lại đã khiến nền kinh tế trở nên khó khăn hơn. Cuối năm ngoái, ước tính 83% hộ gia đình ở Myanmar đã bị giảm một nửa thu nhập do đại dịch.
+Tình hình thêm tồi tệ vào ngày 1/2 khi quân đội Myanmar lật đổ chính phủ dân cử để giành quyền điều hành đất nước. Từ đó tới nay, Myanmar rơi vào tình trạng bất ổn khi hàng trăm nghìn người biểu tình xuống đường phản đối quân đội và tiến hành đình công. Nền kinh tế Myanmar tiếp tục gánh thêm "cú sốc" thứ 2.
+Theo UNDP, đại dịch Covid-19 đã khiến tỷ lệ đói nghèo ở Myanmar tăng từ 24,8 lên 36,1%. Nếu tình hình chính biến tiếp tục phức tạp, con số này có thể tiếp tục tăng lên 48,2% trong năm tới.
+Thêm vào đó, 2 cuộc khủng hoảng không diễn ra độc lập mà thực chất đang "lồng" vào nhau. Việc chính phủ dân cử bị lật đổ và tình hình chính biến hỗn loạn đã khiến nỗ lực chống Covid-19 ở Myanmar bị gián đoạn nghiêm trọng. Nhìn chung, hệ thống xét nghiệm Covid-19 ở Myanmar đã gần như sụp đổ hoàn toàn kể từ sự kiện ngày 1/2.
+Ngoài ra, căng thẳng chính trị hiện tại được cho sẽ gây ảnh hưởng nghiêm trọng tới những nỗ lực hồi phục hậu đại dịch. Liên Hợp Quốc cảnh báo một cuộc khủng hoảng nhân đạo có thể xảy ra ở Myanmar trong thời gian tới.
 Đức Hoàng
-Theo Reuters
+Tổng hợp

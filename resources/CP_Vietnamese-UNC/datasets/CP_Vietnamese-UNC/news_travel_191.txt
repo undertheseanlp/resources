@@ -1,16 +1,13 @@
 # doc_id = news_travel_191
-# url = https://dantri.com.vn/du-lich/nhieu-khach-san-ven-bien-kin-phong-binh-dinh-siet-phong-dich-covid-19-20210427183257052.htm
-# date = 20210427
-Ngày 27/4, UBND tỉnh Bình Định đã có công văn yêu cầu tăng cường thực hiện phòng dịch Covid-19 nhằm thực hiện thành công mục tiêu kép, bảo vệ tốt nhất sức khỏe nhân dân, đặc biệt trong dịp nghỉ lễ 30/4 và 1/5.
-Theo ghi nhận, hiện một số khách sạn ven biển TP Quy Nhơn (Bình Định) đã kín phòng, trong khi đó tình hình dịch Covid-19 đang diễn biến theo chiều hướng khó lường.
-Trước tình hình đó, lãnh đạo tỉnh Bình Định bắt buộc du khách phải khai báo y tế, đeo khẩu trang khi đến khu du lịch, di tích trên địa bàn tỉnh này.
-Theo đó, UBND tỉnh Bình Định yêu cầu tiếp tục thực hiện nghiêm các chỉ đạo của Chính phủ, Bộ Y tế và của lãnh đạo tỉnh về phòng chống dịch bệnh Covid-19, không được chủ quan, lơ là, đồng thời quyết tâm phát triển kinh tế trong điều kiện bình thường mới, bảo đảm an sinh xã hội.
-Bên cạnh đó, kiểm tra, giám sát thực hiện nghiêm yêu cầu 5K của Bộ Y tế, nhất là đeo khẩu trang bắt buộc tại nơi công cộng, tại các sự kiện có tập trung đông người, trên các phương tiện giao thông công cộng.
-Thường xuyên kiểm tra, đôn đốc thực hiện các biện pháp phòng, chống dịch trên địa bàn quản lý, nhất là tại các cơ sở y tế, trường học, cơ sở du lịch, cơ sở sản xuất, chợ, siêu thị, bến xe, nhà ga, sân bay, trên các phương tiện giao thông công cộng...; xử lý nghiêm các tổ chức, cá nhân vi phạm phòng, chống dịch Covid-19.
-Trường hợp phát hiện ca bệnh, phải áp dụng ngay các biện pháp khoanh vùng, truy vết, cách ly, kiên quyết không để dịch bệnh Covid-19 lây lan trên diện rộng.
-Tuy nhiên, việc áp dụng các biện pháp cách ly, phong tỏa, giãn cách xã hội phải hiệu quả, đảm bảo an toàn nhưng không để sản xuất, kinh doanh bị đình trệ ở quy mô quá mức cần thiết, hạn chế tối đa tác động bất lợi đến các hoạt động sản xuất, kinh doanh và đời sống của nhân dân.
-Ban Chỉ đạo phòng, chống dịch bệnh Covid-19 các cấp được yêu cầu phân công cụ thể lãnh đạo và các bộ phận liên quan bố trí thường trực 24/24 giờ phòng, chống dịch, đặc biệt là trong dịp nghỉ lễ 30/4 và 1/5.
-Tiếp tục hạn chế các sự kiện, hoạt động tập trung đông người không cần thiết; trường hợp tổ chức, phải thực hiện nghiêm các biện pháp bảo đảm an toàn; đặc biệt phải tuân thủ đeo khẩu trang, sát khuẩn... theo đúng quy định.
-UBND tỉnh Bình Định giao Sở Du lịch, Sở Văn hóa và Thể thao, Sở Y tế và chính quyền địa phương phối hợp kiểm tra và yêu cầu các đơn vị, doanh nghiệp, cơ sở quản lý khách sạn, khu du lịch, di tích trên địa bàn tỉnh bắt buộc du khách phải khai báo y tế, đeo khẩu trang khi đến các địa điểm này trong dịp nghỉ lễ 30/4 và 1/5.
-Trong khi đó, Sở GTVT phải tăng cường chỉ đạo các nhà xe, chủ phương tiện vận tải hành khách liên tỉnh tiếp tục thực hiện nghiêm quy định về phòng dịch Covid-19 trong hoạt động vận tải, thực hiện tốt việc khai báo y tế của hành khách.
-Doãn Công
+# url = https://dantri.com.vn/du-lich/phat-dong-cuoc-thi-trai-nghiem-du-lich-de-lang-nghe-cam-nhan-tu-du-khach-20210421110214823.htm
+# date = 20210421
+Quảng Bình phát động cuộc thi trải nghiệm du lịch
+Sở Du lịch tỉnh Quảng Bình vừa phát động cuộc thi "Trải nghiệm du lịch Quảng Bình - điểm đến an toàn và khác biệt". Theo ông Nguyễn Hoài Nam, Giám đốc Sở Du lịch Quảng Bình, cuộc thi là một trong những hoạt động nhằm triển khai thực hiện Chương trình "Mỗi người dân Quảng Bình là một đại sứ du lịch/một hướng dẫn viên du lịch" hướng tới quảng bá, xúc tiến và thu hút khách du lịch đến Quảng Bình năm 2021.
+Du khách khám phá hang động tại Quảng Bình.
+Cuộc thi sẽ góp phần khuyến khích mỗi một người dân Quảng Bình, du khách trong nước và quốc tế đã từng đến Quảng Bình chia sẻ cảm nhận của bản thân về quê hương, con người; về văn hóa, ẩm thực, thiên nhiên kỳ vĩ; về một Quảng Bình thân thiện, mến khách cùng những trải nghiệm thú vị.
+Đồng thời chia sẻ và truyền cảm hứng tình yêu, khát vọng khám phá, du lịch Quảng Bình. Đây còn là nguồn tư liệu quý giá để bổ sung, tăng cường cho việc xây dựng cơ sở dữ liệu về tài nguyên du lịch, thông tin quảng bá, xúc tiến du lịch Quảng Bình.
+Nội dung cuộc thi tập trung vào đề tài khám phá vẻ đẹp của quê hương, con người, văn hóa, ẩm thực và trải nghiệm các điểm đến, sản phẩm du lịch trên địa bàn tỉnh Quảng Bình dưới các hình thức như: bài viết, video clip.
+Phong Nha - Kẻ Bàng, trung tâm du lịch của tỉnh Quảng Bình.
+Trong đó, tác phẩm dự thi chia sẻ cảm nhận về quê hương, con người, văn hóa, ẩm thực, các khu, điểm du lịch, các sản phẩm du lịch của Quảng Bình; chia sẻ kinh nghiệm, thông tin, hướng dẫn về các điểm, sản phẩm du lịch và những trải nghiệm thú vị, câu chuyện truyền cảm hứng đi du lịch Quảng Bình. Mặt khác, tác phẩm góp phần nâng cao nhận thức và ý thức về phát triển du lịch bền vững và các nội dung liên quan đến du lịch…
+Theo Ban tổ chức, cơ cấu giải thưởng gồm các giải thưởng chính và giải bình chọn của độc giả. Tổng giá trị giải thưởng của cuộc thi lên đến 150 triệu đồng cùng với các cơ hội trải nghiệm du lịch Quảng Bình miễn phí.
+Đặng Tài

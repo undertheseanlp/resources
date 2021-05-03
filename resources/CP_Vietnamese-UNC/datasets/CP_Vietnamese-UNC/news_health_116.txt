@@ -1,23 +1,18 @@
 # doc_id = news_health_116
-# url = https://dantri.com.vn/suc-khoe/gia-lai-cach-ly-truong-hop-f-1-di-cung-chuyen-bay-co-benh-nhan-covid-19-20210430145701167.htm
-# date = 20210430
-Cụ thể, trường hợp F1 là anh V. (trú tại tổ 8, phường Yên Đỗ, TP.Pleiku, tỉnh Gia Lai) đã đi cùng chuyến bay VJ133 khởi hành từ Hà Nội đi Thành phố Hồ Chí Minh với bệnh nhân số 2910 (Hà Nam) vào ngày 27/4. Sau khi nắm được thông tin, cán bộ y tế đã tiến hành lấy mẫu xét nghiệm của anh V. và thực hiện cách ly theo quy định. Hiện sức khỏe của anh V. ổn định.
-Ban Chỉ đạo phòng, chống dịch Covid-19 tỉnh Gia Lai thông báo đến những hành khách nào đi trên chuyến bay VJ133 khởi hành từ Hà Nội đi Thành phố Hồ Chí Minh khi về tỉnh Gia Lai. Đồng thời, người đi trên xe biển kiểm soát 81B -00140 ngày 29/4 (từ thành phố Hồ Chí Minh về tỉnh Gia Lai) phải liên hệ với cơ sở y tế gần nhất để được hỗ trợ tư vấn.
-Hiện nay, trường hợp F1 đi cùng chuyến bay với bệnh nhân Covid - 19 sức khỏe ổn định và được cách ly theo quy định.
-Theo đó, từ ngày 29/1 đến 11/2/2021, trên địa bàn Gia Lai đã ghi nhận 27 trường hợp dương tính với SARS-CoV-2. Tất cả số bệnh nhân này đã được điều trị khỏi. Từ ngày 11/2 đến nay, tỉnh chưa ghi nhận thêm ca mắc mới nào. Dịch bệnh trên địa bàn đã được khống chế, dập tắt. Công tác thông tin tuyên truyền được thực hiện thường xuyên, liên tục nên hầu hết người dân đều có ý thức chủ động phòng ngừa dịch bệnh.
-Từ ngày 24/4, tỉnh Gia Lai đã triển khai chiến dịch tiêm vắc xin phòng Covid-19 đợt 2. Việc tiêm chủng được tiến hành đồng loạt tại Bệnh viện Đa khoa tỉnh, Bệnh viện 331, Bệnh viện Đại học Y Dược-Hoàng Anh Gia Lai và các trung tâm y tế trên địa bàn tỉnh cho các đối tượng theo kế hoạch.
-Đợt này, tỉnh Gia Lai được cấp 16.650 liều vắc xin và dự kiến triển khai tiêm cho 15.136 người. Đối tượng tiêm trong đợt này là lực lượng tuyến đầu chống dịch bao gồm những người làm việc trong các cơ sở y tế; thành viên Ban Chỉ đạo phòng, chống dịch cấp huyện, xã; người làm việc ở các khu cách ly, làm nhiệm vụ truy vết, điều tra dịch tễ, tổ Covid cộng đồng, lực lượng Bộ đội Biên phòng, Công an, hàng không, phóng viên báo, đài. Ngoài ra, 1.883 người đã tiêm mũi 1 trong đợt 1 sẽ tiếp tục được tiêm mũi 2 khi đủ thời gian 4 tuần trở lên.
-Bạc Liêu: Một trường hợp F1 của BN2910 âm tính lần 1 với SARS-CoV-2
-Khi xuống sân bay Tân Sơn Nhất, anh D. được người bạn đón và ở nhà bạn 2 ngày tại quận Gò Vấp (TP.HCM).
-Đến 11h ngày 29/4, từ bến xe miền Tây, anh D. đi xe khách mang BKS 94B-006... về tỉnh Bạc Liêu. Trên xe có 36 hành khách, một tài xế và một phụ xe.
-Khoảng 21h30 ngày 29/4, xe về đến bến xe Bạc Liêu. Lúc này, anh D. được người nhà thông báo là mình có đi chung chuyến bay với người bị mắc Covid-19 (BN2910), nên anh D. đến Trung tâm Y tế phường 7 (TP Bạc Liêu) khai báo y tế và được đưa đi cách ly.
-Sau đó, cơ quan chức năng đã lấy mẫu gửi Viện Pasteur TP.HCM xét nghiệm và cho kết quả âm tính lần 1 với SARS-CoV-2.
-Lực lượng chức năng Bạc Liêu cũng xác minh được 36 trường hợp F2 đi cùng chuyến xe với anh D. về Bạc Liêu và tiến hành cách ly tại nhà.
-Bạc Liêu: Một trường hợp F1 của BN2910 âm tính lần 1 với SARS-CoV-2
-Theo đó, trường hợp F1 là anh L.D.D. (SN 1993, có địa chỉ TP Hà Nội). Qua điều tra dịch tễ của Trung tâm kiểm soát bệnh tật tỉnh Bạc Liêu, trưa ngày 27/4, anh D. đi từ Hà Nội vào TP.HCM trên chuyến bay VJ133, ngồi số ghế 18B (BN2910 ngồi ghế 20B).
-Khi xuống sân bay Tân Sơn Nhất, anh D. được người bạn đón và ở nhà bạn 2 ngày tại quận Gò Vấp (TP.HCM).
-Đến 11h ngày 29/4, từ bến xe miền Tây, anh D. đi xe khách mang BKS 94B-006... về tỉnh Bạc Liêu. Trên xe có 36 hành khách, một tài xế và một phụ xe.
-Khoảng 21h30 ngày 29/4, xe về đến bến xe Bạc Liêu. Lúc này, anh D. được người nhà thông báo là mình có đi chung chuyến bay với người bị mắc Covid-19 (BN2910), nên anh D. đến Trung tâm Y tế phường 7 (TP Bạc Liêu) khai báo y tế và được đưa đi cách ly.
-Sau đó, cơ quan chức năng đã lấy mẫu gửi Viện Pasteur TP.HCM xét nghiệm và cho kết quả âm tính lần 1 với SARS-CoV-2.
-Lực lượng chức năng Bạc Liêu cũng xác minh được 36 trường hợp F2 đi cùng chuyến xe với anh D. về Bạc Liêu và tiến hành cách ly tại nhà.
-Phạm Hoàng - Huỳnh Hải
+# url = https://dantri.com.vn/suc-khoe/ha-nam-bo-y-te-yeu-cau-lay-mau-xet-nghiem-toan-bo-nguoi-dan-thon-quan-nhan-20210429220816933.htm
+# date = 20210429
+Chiều 29/4, Bộ trưởng Bộ Y tế Nguyễn Thanh Long đã đến kiểm tra và chỉ đạo công tác phòng chống dịch Covid-19 tại Hà Nam. Bộ trưởng Bộ Y tế và đoàn công tác của Bộ y tế đã đi kiểm tra thực tế việc triển khai các biện pháp khoanh vùng, dập dịch tại thôn Quan Nhân xã Đạo Lý, huyện Lý Nhân, nơi 5 ca bệnh dương tính với Covid-19 sinh sống. Hiện toàn thôn gồm 320 hộ với 1.068 nhân khẩu đang tạm thời phong tỏa, cách ly.
+Bộ trưởng Bộ Y tế và đoàn công tác của Bộ y tế đã đi kiểm tra thực tế việc triển khai các biện pháp khoanh vùng, dập dịch tại thôn Quan Nhân xã Đạo Lý, huyện Lý Nhân, nơi 5 ca bệnh dương tính với Covid-19 sinh sống.
+Tính đến 16h ngày 29/4, qua điều tra dịch tễ, Hà Nam đã rà soát được hơn 100 trường hợp F1 và hơn 300 trường hợp F2. Các trường hợp F1 đã được cách ly tập trung tại Trung tâm Y tế huyện Lý Nhân và trường cao đẳng y tế Hà Nam; các F2 được hướng dẫn cách ly tại nhà.
+Các thành viên trong đoàn công tác đã đề xuất với tỉnh Hà Nam nhiều giải pháp để phòng chống dịch hiệu quả như: tổ chức phong tỏa nơi sinh sống của các bệnh nhân Covid-19 phải đảm bảo "nội bất xuất, ngoại bất nhập", người cách ly với người, nhà cách ly với nhà.
+Huy động hết lực lượng khẩn trương lấy mẫu xét nghiệm toàn bộ nhân khẩu của thôn Quan Nhân - nơi sinh sống của các bệnh nhân; giám sát có hệ thống những đối tượng có biểu hiện sốt ho, sốt trên địa bàn tỉnh để lấy mẫu xét nghiệm.
+Thành lập ngay tổ phòng, chống Covid-19 cộng đồng tại thôn Quan Nhân, mỗi tổ phụ trách từ 20-50 gia đình để nắm được diễn biến từng nhà; huy động các nguồn nhân lực khẩn trương tổ chức lấy mẫu xét nghiệm; khu cách ly cần bảo đảm điều kiện tránh tình trạng lây chéo…
+Toàn bộ thôn Quan Nhân được phun thuốc khử khuẩn.
+Phát biểu tại buổi làm việc, Bộ Trưởng Bộ Y tế Nguyễn Thanh Long cho rằng, hiện tại Hà Nam đang ở mức độ chùm lây nhiễm, nên kiểm soát nhanh bao nhiêu, dịch được khoanh vùng, dập dịch sớm bấy nhiêu.
+Bộ trưởng Bộ Y tế yêu cầu Hà Nam cần thực hiện giãn cách xã hội ngay tại xã Đạo Lý. Riêng thôn Quan Nhân xã Đạo Lý phải tiến hành khoanh vùng dập dịch đạt 2 mục tiêu: "Nội bất xuất, ngoại bất nhập" và dập dịch triệt để ngay từ bên trong để dập tắt, triệt tiêu ngay nguồn lây.
+Đồng thời, cần truy vết tất cả các trường hợp tiếp xúc gần với bệnh nhân và tiếp xúc gần với F1 (tức F2) để cách ly tại nhà để đề phòng khi F1 trở thành F0 sẽ cách ly tập trung ngay. Ngay trong đêm 29/4 tỉnh phải lấy mẫu xét nghiệm toàn bộ người dân thôn Quan Nhân.
+Bộ trưởng Bộ Y tế Nguyễn Thanh Long chỉ đạo công tác phòng chống dịch tại buổi làm việc với Ban chỉ đạo phòng chống dịch Covid-19 tỉnh Hà Nam
+Các trường hợp F1 lấy mẫu đơn, còn lại lấy mẫu chùm, địa phương phải huy động lực lượng lấy mẫu. Trường hợp cần thiết Bộ sẽ trưng tập nơi xét nghiệm tại bệnh viện Bạch Mai ở Hà Nam. Bộ Y tế sẽ hỗ trợ Hà Nam về tăng cường năng lực xét nghiệm và các máy móc, thiết bị phòng chống dịch cần thiết.
+Đối với cơ sở cách ly phải sớm có kịch bản ứng phó kịp thời, tuyệt đối không để lây nhiễm chéo trong khu cách ly. Chủ yếu khoanh vùng, cách ly dập dịch ngay tại thôn Quan Nhân với mục tiêu tiến hành các giải pháp phòng chống dịch càng nhanh, dập dịch càng hiệu quả.
+Tỉnh Hà Nam cũng phải dừng tất cả các lễ hội, kiểm soát chặt chẽ nơi tập trung đông người, các nhà máy, đơn vị sản xuất, thực hiện nghiêm quy định 5K, bắt buộc toàn bộ người dân phải đeo khẩu trang khi đi ra khỏi nhà, phải xử phạt hành chính đối với những trường hợp cố tình vi phạm.
+Đức Văn

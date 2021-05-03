@@ -1,19 +1,15 @@
 # doc_id = news_health_088
-# url = https://dantri.com.vn/suc-khoe/chuyen-gia-huong-dan-cach-tu-kham-vu-phat-hien-som-nguy-co-ung-thu-20210430072655494.htm
-# date = 20210430
-Ung thư vú là căn bệnh ung thư phổ biến ở phụ nữ Việt Nam và trên thế giới. Tại Việt Nam, năm 2018 có 164.671 số ca mắc mới ung thư, trong đó ung thư vú chiếm 15.229 ca (9,2%). Nếu phát hiện ở giai đoạn sớm tỉ lệ chữa khỏi đến 95%. Tuy nhiên tại Việt Nam, vẫn có đến 50% bệnh nhân ung thư vú đến viện ở giai đoạn muộn.
-Việc tầm soát, sàng lọc có ý nghĩa vô cùng quan trọng với phát hiện sớm ung thư vú.Tuy nhiên tại cộng đồng, chỉ có 24,2% phụ nữ có thực hành tự khám vú hàng tháng. Thống kê cho thấy, tỷ lệ phát hiện bất thường ở nhóm phụ nữ thực hành tự khám vú thấp hơn ở nhóm không thực hành cho thấy hiệu quả và ý nghĩa của việc hướng dẫn phụ nữ tự khám vú đối với việc phát hiện sớm tổn thương ung thư vú.
-GS.TS Nguyễn Bá Đức, nguyên Giám đốc Bệnh viện K khuyến khích tất cả phụ nữ qua tuổi 20 nên tự khám vú mỗi tháng, sau khi sạch kinh khoảng 5 ngày theo hướng dẫn dưới đây:
-Đứng hoặc ngồi trước gương:
-Hai tay xuôi, quan sát các thay đổi ở vú như u cục, dầy lên, lõm da hoặc thay đổi màu sắc da.
-Đưa tay ra sau gáy, sau đó quan sát lại.
-Chống hai tay lên hông, làm cử động cơ ngực lên xuống bằng động tác nâng vai lên hay hạ vai xuống. Động tác này làm cho các thay đổi nếu có sẽ rõ hơn.
-Quan sát ở cả tư thế chính diện và nghiêng.
-Sờ nắn khi đứng hoặc ngồi
-Đầu tiên, hãy đưa tay phải ra sau gáy. Dùng tay trái sờ nắn vú phải, 4 ngón tay (trỏ, giữa, áp út, út) đặt sát vào nhau thành một mặt phẳng, ép đều lên các vùng khác nhau của tuyến vú vào thành ngực theo hướng vòng xoáy ốc từ đầu vú trở ra ngoài.
-Kiểm tra từng vùng của vú và cả nách. Nặn nhẹ đầu vú xem có dịch chảy ra không. Sau đó tiến hành tương tự với vú bên trái.
-Sờ nắn khi nằm
-Hãy nằm ngửa một cách thoải mái, đặt một gối mỏng ở dưới lưng bên trái và dùng tay kiểm tra như thao tác đứng trước gương ở trên. Lần lượt đổi bên thực hiện khám bên vú còn lại.
-Khi tự khám vú, nếu phát hiện có những bất thường như u, cục, lồi lõm bất thường ở vú, núm vú tụt vào, chảy dịch, cảm giác đau hay bất cứ sự nghi ngờ nào, cần đến cơ sở y tế chuyên khoa để khám sàng lọc, phát hiện ung thư vú.
-Việc phát hiện sớm điều trị mang lại hiệu quả cao, cho phép bảo tồn không phải cắt bỏ vú, mang lại chất lượng cuộc sống tốt hơn cho người bệnh.
-Tú Anh
+# url = https://dantri.com.vn/suc-khoe/chuyen-gia-noi-gi-ve-muc-do-nguy-hiem-cua-bien-chung-kep-tai-an-do-20210428120306481.htm
+# date = 20210428
+Chia sẻ bên lề hội nghị trực tuyến về an toàn tiêm chủng sáng 28/4, GS.TS Nguyễn Văn Kính, nguyên Giám đốc Bệnh viện Bệnh Nhiệt đới Trung ương, Chủ tịch Hội truyền nhiễm cho biết hiện nay cả thế giới đang chú ý đến biến chủng kép của Ấn Độ B.1.617.
+Chủng này có đột biến kép ở đoạn protein S nên lan tràn rất nhanh, tử vong rất cao. Trước đây, biến chủng chưa kép là B.1.1.7 từ Anh có mức độ lan tràn rất nhanh, tăng cao hơn 70% so với chủng ban đầu. Chủng kép của Ấn Độ có mức độ lan tràn còn nhanh hơn. Hiện chưa có số liệu thống kê cụ thể tuy nhiên có thể thấy nó nhanh hơn rất nhiều so với các chủng trước đây mà Ấn Độ từng gặp.
+Về nguy cơ tử vong ở bối cảnh như Ấn Độ theo TS Kính có nhiều lý do, trong đó có vấn đề về độc lực của virus. Giới chuyên môn đang nghiên cứu xem độc lực của biến chủng này có nặng nề hơn, có tối nguy hiểm hơn không để dẫn đến tử vong nhiều hơn.
+"Với bối cảnh thực tế hiện nay, người ta thấy rằng trong 10 ngày nữa Ấn Độ mới đạt đỉnh về số tử vong. Hiện nay mỗi ngày quốc gia này có hơn 2.000 ca tử vong, người ta cho rằng con số tử vong có thể đạt đỉnh 13.000 người tử vong một ngày. Đấy là một thảm kịch kinh khủng cho Ấn Độ nếu không kịp thời ứng phó với đại dịch này", TS Kính nói.
+Theo chuyên gia, hiện nay không chỉ riêng Ấn Độ đang phải đối mặt với biến chủng kép này mà cả thế giới đều phải quan tâm, để nó không lan tràn thêm các nước khác. Dù vậy nhiều nước vẫn đang mở cửa, chưa đóng cửa biên giới nên đã có sự lây lan của chủng này sang nước khác. Những người Ấn Độ cũng đi rất nhiều nơi trên thế giới, ngay tại Việt Nam các chuyên gia Ấn Độ cũng vào và cũng bị nhiễm (4 chuyên gia Ấn Độ và một người Việt Nam bị lây).
+Hiện nay tất cả các bệnh nhân liên quan đoàn chuyên gia của Ấn Độ đang điều trị tại Bệnh viện Bệnh Nhiệt đới Trung ương. Việt Nam đang giải trình tự gen để xem đây là chủng B.1.1.7 của Anh trước đây hay là chủng kép.
+Nếu phát hiện thêm chủng mới, Việt Nam sẽ có 5 chủng virus SARS-CoV-2 lưu hành, bên cạnh chủng đột biến B.1.1.7 của Anh, chủng Nam Phi, chủng D614G ở châu Âu và chủng ở Vũ Hán.
+Sức khỏe của các bệnh nhân Ấn Độ hiện ổn định, các bác sĩ vẫn đang theo dõi, chưa có ca nào phải thở máy. Triệu chứng lâm sàng của các bệnh nhân này cũng không có khác biệt gì, chỉ có sốt 38,5 độ C, ngày thứ 4 hết sốt, X-quang phổi có tổn thương nhưng không nhiều.
+Đến nay thế giới đã ghi nhận gần 150 triệu ca mắc. Dịch Covid-19 đang diễn biến phức tạp với số ca mắc cao và lây lan diện rộng tại các quốc gia như Mỹ, Ấn Độ, Ba Lan và Brazil. Tâm điểm dịch vẫn là Ấn Độ, với số ca mắc mới trong 24 giờ qua ghi nhận ở mức rất cao - hơn 363 nghìn ca, trở thành ngày thứ 6 liên tiếp có số ca nhiễm mới trên mức 300 nghìn ca/ngày.
+Chính phủ Ấn Độ đã ra lệnh cho các lực lượng vũ trang hỗ trợ giải quyết tình trạng gia tăng số ca mắc Covid-19 đang khiến các bệnh viện quá tải. Nhiều nước trên thế giới, trong đó có Thái Lan, Malaysia và Úc đã thông báo tạm dừng các chuyến bay đến và đi từ Ấn Độ do lo ngại nguy cơ cao lây lan dịch bệnh.
+Đông Nam Á đang chứng kiến làn sóng lây nhiễm Covid-19 nghiêm trọng tại 3 quốc gia vốn được coi là khá an toàn và hiệu quả trong việc phòng chống đợt dịch bùng phát đầu tiên vào năm ngoái là Lào, Campuchia và Thái Lan.
+Nam Phương

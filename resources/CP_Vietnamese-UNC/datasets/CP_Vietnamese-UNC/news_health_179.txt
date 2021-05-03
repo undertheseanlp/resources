@@ -1,19 +1,24 @@
 # doc_id = news_health_179
-# url = https://dantri.com.vn/suc-khoe/nhung-cong-dung-vang-cua-qua-nho-voi-suc-khoe-20210419072902608.htm
-# date = 20210419
-Theo Trung tâm dinh dưỡng lâm sàng, Bệnh viện K Trung ương (Hà Nội) quả nho chứa nhiều loại chất dinh dưỡng khác nhau như vitamin, khoáng chất, carbohydrate, chất xơ và chất phytochemical. Polyphenol là chất phytochemical quan trọng nhất trong nho vì chúng có nhiều hoạt động sinh học và lợi ích tăng cường sức khỏe.
-Gần đây, người ta ngày càng quan tâm tới các hợp chất phenolic từ nho do các hoạt động sinh học của chúng liên quan đến lợi ích sức khỏe con người, chẳng hạn như các đặc tính chống oxy hóa, bảo vệ tim mạch, chống ung thư, chống viêm, chống lão hóa và kháng khuẩn.
-Tác dụng chống oxy hóa
-Các hợp chất phenolic có hoạt tính sinh học là điểm đáng chú ý nhất của nho bởi đặc tính chống oxy hóa đã được nghiên cứu rộng rãi, bao gồm loại bỏ các gốc tự do, ức chế quá trình oxy hóa lipid, giảm sự hình thành hydroperoxide.
-Nước nho, rượu vang, và thậm chí cả bã nho có khả năng chống oxy hóa cao. Trong các bộ phận khác nhau của nho, khả năng chống oxy hóa cao nhất được tìm thấy trong hạt nho, tiếp theo là vỏ và phần giữa vỏ và hạt có khả năng chống oxy hóa thấp nhất. Do đó, các sản phẩm chiết xuất từ hạt nho là một chất chống oxy hóa đầy hứa hẹn để bổ sung vào chế độ ăn uống.
-Tác dụng bảo vệ tim mạch
-Chiết xuất hạt nho hoặc nước ép nho giàu phenolic làm giảm lipid máu sau ăn- một yếu tố nguy cơ được xác định rõ ràng đối với bệnh xơ vữa động mạch. Chất chiết xuất từ hạt nho giàu polyphenol làm giảm sự kết dính và kết tập tiểu cầu.
-Anthocyanins từ rượu vang và vỏ nho ức chế hoạt động của phosphodiesterase-5, làm giảm nguy cơ mắc các bệnh tim mạch bằng cách làm giãn mạch.
-Tác dụng chống ung thư
-Nho có chứa lượng acid caffeic cao, là chất chống ung thư rất hiệu quả. Ngoài ra nho còn có bioflavonoid là một dưỡng chất giúp cơ thể dễ dàng hấp thụ vitamin C và giúp cho vitamin C duy trì mô liên kết chặt chẽ, ngăn không cho vitamin C bị oxy hóa và chống hiện tượng đứt mao mạch. Bioflavonoid còn giúp các tế bào khỏe mạnh đủ sức chống lại các tế bào ung thư, đồng thời có thể tiêu diệt tế bào ung thư.
-Dưỡng chất resveratrol có trong nho cũng có tác dụng giúp cơ thể ngăn chặn ung thư, nhất là ung thư gan, phổi, ung thư vú và ung thư tuyến tiền liệt.
-Tác dụng chống lão hóa
-Polyphenol có trong thực phẩm có thể có lợi trong việc đảo ngược quá trình lão hóa. Do hoạt động chống oxy hóa như loại bỏ các gốc tự do, ngăn chặn các cơ quan và mô khỏi bị tổn thương do quá trình oxy hóa, và tác động đến quá trình oxy hóa khử. Hiện tại nghiên cứu này chỉ được thực hiện trên động vật thí nghiệm.
-Độc tính tiềm ẩn
-Ở nồng độ cao các chất trong nho gây ảnh hưởng với các tế bào sừng và tế bào sợi. Khi nghiên cứu trên chuột, tổn thương DNA xảy ra ở các tế bào lách bằng cách khi cho chúng sử dụng với lượng lớn nho. Do đó, liều lượng và thành phần của chất chiết xuất từ nho nên được nghiên cứu thêm để ứng dụng an toàn và lành mạnh cho các sản phẩm từ nho.
-Hà An
+# url = https://dantri.com.vn/suc-khoe/nhung-thoi-quen-xau-lam-giam-phong-do-quy-ong-20210426160703730.htm
+# date = 20210426
+Thói quen sinh hoạt tình dục
+Việc sinh hoạt tình dục bừa bãi, mất kiểm soát cũng là nguyên nhân gây yếu sinh lý. Khi quan hệ tình dục, sinh lực của đàn ông sẽ bị hao tổn, do đó cần có thời gian nghỉ ngơi để phục hồi sức khỏe.
+Quan hệ tình dục quá nhiều sẽ khiến nam giới mệt mỏi, giảm ham muốn. Nếu tình trạng này diễn ra trong thời gian dài có thể làm rối loạn chức năng tình dục hay suy giảm khả năng sinh lý ở nam giới.
+Đời sống tình dục ở ngoài đời thường đôi khi không giống trên phim ảnh. Thế nên nghiện xem phim sex cũng không tốt. Nó dẫn đến tâm lý kỳ vọng và ảo tưởng trong quá trình quan hệ.
+Hút thuốc lá
+Hút thuốc lá có hại cho sức khỏe, là nguyên nhân của nhiều căn bệnh nguy hiểm như tim mạch, phổi, ung thư... Không những thế, chất nicotine có trong thuốc lá có thể làm giảm sự hưng phấn của nam giới trong chuyện vợ chồng. Bên cạnh đó, hút thuốc lá nhiều cũng ảnh hưởng đến khả năng sinh sản của đàn ông.
+Hút thuốc còn có thể gây giảm sút chất lượng và số lượng tinh trùng được sản xuất. Hút thuốc lá còn ảnh hưởng đến tỷ lệ tử vong và khả năng di chuyển của tinh trùng.
+Tập thể dục giúp tăng lượng testosterone, làm tăng ham muốn tình dục.
+Lạm dụng bia rượu
+Uống nhiều rượu bia sẽ làm suy giảm khả năng sản sinh testosterone - hormon sinh dục nam. Ngoài ra, thường xuyên sử dụng rượu bia, đồ uống có cồn sẽ làm ức chế trung khu thần kinh khiến ham muốn tình dục suy giảm, gây rối loạn chức năng sinh dục ở nam giới, teo tinh hoàn...
+Ngoài ra, việc lạm dụng rượu bia cũng ảnh hưởng rất xấu đến chất lượng tinh trùng, làm giảm khả năng sinh sản ở nam giới, ảnh hưởng lớn đến thế hệ sau. Nếu người đàn ông quan hệ khi say rượu, có thể dẫn đến việc mất tự chủ. Họ có thể xuất tinh sớm hoặc không thể xuất tinh do bị ức chế thần kinh.
+Không rèn luyện thân thể
+Các ông sẵn sàng đi nhậu nhẹt tối ngày nhưng lại không dành thời gian rèn luyện thân thể bằng việc chơi một vài môn thể thao, đi bộ, bơi, tập gym... Tập thể dục là cách thức tự nhiên giúp tăng lượng testosterone, làm tăng ham muốn tình dục ở cả nam và nữ.
+Rèn luyện thể dục thể thao làm tăng lưu lượng máu, giảm cholesterol, kích thích ham muốn. Tập thể dục làm tăng lưu thông máu và làm cho quá trình cương cứng diễn ra lâu hơn giúp kéo dài thời gian quan hệ ở những người mắc chứng rối loạn cương dương.
+Nhịn sex
+Tình dục điều độ sẽ rất có lợi cho sức khỏe. Nó thúc đẩy hệ miễn dịch và tăng sức đề kháng, giảm mệt mỏi bởi vì nó như một hình thức tập luyện thể dục. Ngoài ra, nó còn kích thích sự lưu thông tuần hoàn của mạch máu đến tim, bảo vệ bộ não, tăng tuổi thọ, giúp các cơ bắp, xương cốt được vận động dễ dàng hơn...
+Ngược lại, khi thiếu sex, hoặc tình dục không được thỏa mãn, thì con người luôn cảm thấy bực bội, cáu kỉnh, bứt rứt, khó chịu. Không hài lòng đối với các việc làm của mình, luôn trong trạng thái áp lực đè nén. Khó tính, không kiềm chế được nỗi giận dữ của bản thân... Hiệu quả công việc và chất lượng sống vì thế cũng giảm hẳn. Không khí gia đình căng thẳng, dễ dẫn đến ngoại tình.
+Trên thực tế, nam giới có thể nhịn sex không quá 3 tuần. Nữ giới thời gian chịu đựng lâu hơn (do bận rộn, con nhỏ...), tuy nhiên không quá 2 tháng (đặc biệt đối với người trẻ không nên nhịn sex). Thiếu sex sẽ ảnh hưởng đến sức khỏe, gây ra các bệnh về tuyến tiền liệt, túi tinh... Không được thỏa mãn sex sẽ gây ra những ảnh hưởng tới hệ thần kinh trung ương, làm ức chế tâm lý
+Tình dục là một phần quan trọng của cuộc sống. Vì vậy, để giữ gìn hạnh phúc gia đình và sức khỏe của bản thân, nên sắp xếp công việc hợp lý, đừng để ảnh hưởng đến đời sống tình dục.
+"Yêu" đều đặn cũng là một cách giữ sức khỏe, sức trẻ tối ưu mà không cần đến nhiều lý trí như các môn thể thao khác.
+Theo Sức khỏe & Đời sống

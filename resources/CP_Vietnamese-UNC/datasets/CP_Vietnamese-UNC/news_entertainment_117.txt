@@ -1,12 +1,33 @@
 # doc_id = news_entertainment_117
-# url = https://dantri.com.vn/giai-tri/hoa-minzy-dang-anh-cho-con-bu-chia-se-bi-quyet-nuoi-con-bang-sua-me-20210411093323218.htm
-# date = 20210411
-Tối 10/4, Hòa Minzy đăng ảnh cô vừa làm việc vừa cho con bú. "Điển hình bà mẹ truyền thống cho con bú trực tiếp, đi đâu cũng vạch ra đây ạ", nữ ca sĩ hài hước chia sẻ.
-Nữ ca sĩ bất ngờ tiết lộ, nuôi con bằng sữa mẹ cũng là cách giảm cân sau sinh của cô. "Làm việc và cho con bú, không có tập gì hết. Không ăn kiêng, và một phần cũng do cơ địa của Hòa", giọng ca Không thể cùng nhau suốt kiếp chia sẻ.
-Cô cũng lên tiếng bênh vực khi một khán giả bày tỏ thắc mắc vì sao nghệ sĩ không cho con bú. Theo Hòa Minzy, có nhiều yếu tố khiến nghệ sĩ không thể cho con bú, có thể là do không đủ sữa, áp lực công việc khiến sữa không về hoặc sữa không đảm bảo chất lượng... Cô nhấn mạnh: "Ai cũng muốn tốt cho con mình thôi".
-"Nó chỉ kiểu giống như một loại giải khát tạm thời cho con chứ không có đủ chất! Em nghĩ vậy. Vì vậy các mẹ nên bổ sung thêm vitamin và ăn uống đầy đủ thì sữa mới tốt. Còn nếu không bổ sung mà ham đi làm rồi bỏ ăn bỏ bữa thì sữa mẹ không tốt nữa mà thiếu chất cho con", cô viết.
-Quan điểm này khiến một bộ phận mẹ bỉm sữa không đồng tình. Nhiều người góp ý, khẳng định sữa mẹ luôn tốt chứ không phải càng về sau sẽ giảm bớt dinh dưỡng. Chỉ đơn giản là mỗi giai đoạn về sau, các bé cần nhiều chất hơn mà sữa mẹ không đáp ứng đủ.
-Nhận thấy quan điểm của mình sai, Hòa Minzy cũng nhanh chóng xóa đi và gửi lời cảm ơn với những kiến thức của các mẹ bỉm sữa khác.
-Năm 2019, Hòa Minzy mang thai và sinh hạ quý tử đầu lòng. Thời điểm đó, cô không công khai với truyền thông và khán giả. Nữ ca sĩ cũng lựa chọn trang phục phù hợp che bụng bầu mỗi khi xuất hiện trước công chúng.
-Minh Hải - chồng của Hòa Minzy sinh năm 1988, là giám đốc một công ty phân bón lớn ở miền Tây. Kể từ khi công khai mối quan hệ tình cảm, cặp đôi nhận được nhiều sự ủng hộ từ khán giả. Bản thân Minh Hải rất yêu chiều Hòa Minzy và thường xuyên mua đồ hiệu tặng cô, đi du lịch cùng nhau...
-Băng Châu
+# url = https://dantri.com.vn/giai-tri/hoa-than-vuong-cuong-3-doi-vo-moi-tim-duoc-hanh-phuc-ben-fan-kem-20-tuoi-20210407225855185.htm
+# date = 20210407
+Vương Cương là diễn viên gạo cội hàng đầu của Trung Quốc với 50 năm hoạt động trong làng giải trí. Ông sinh năm 1948 và từng tốt nghiệp Học viện Hý kịch Trung ương. Sự nghiệp diễn xuất của ông gần như chỉ đóng đinh với một vai diễn duy nhất, chính là quan tham Hòa Thân trong Tể tướng Lưu Gù và Bản lĩnh Kỷ Hiểu Lam.
+Vương Cương - ngôi sao kỳ cựu của làng giải trí Hoa ngữ thành công với chỉ một vai diễn - tham quan Hòa Thân.
+Vương Cương sinh trưởng trong một gia đình công nhân bình thường. Khi còn nhỏ, Vương Cương đã rất hiếu động và nghịch ngợm, khiến cha mẹ và thày cô đau đầu. Là con trai duy nhất trong gia đình nhưng Vương Cương lại không được cha ruột yêu mến.
+Cậu bé lạc quan Vương Cương chưa bao giờ thấy việc không được yêu mến hay bị la mắng vì nghịch ngợm là vấn đề. Chính vì vậy, Vương Cương đã có một tuổi thơ vô cùng hạnh phúc. Hiếu động nhưng không thể phủ nhận, Vương Cương là một cậu bé thông minh và lanh lẹ với tài kể chuyện lôi cuốn ngay từ khi mới đi học.
+Khi mới bước chân vào làng giải trí, ông hoạt động với vai trò một MC và gặt hái nhiều thành công. Nhờ chất giọng ấm cùng sự hoạt ngôn, Vương Cương được giao công việc phát thanh viên chuyên đọc truyện dài kỳ trên đài phát thanh. Công việc này giúp ông nổi tiếng và được yêu thích tại Trung Quốc. Ông từng được bình chọn một trong top 10 phát thanh viên xuất sắc nhất Trung Quốc.
+Vương Cương khi còn trẻ
+Tuy nhiên, danh tiếng của Vương Cương lên đến đỉnh điểm khi ông tham gia phim Tể tướng Lưu Gù qua vai diễn tham quan Hòa Thân. Với lối diễn xuất thông minh và tinh tế, vai diễn tham quan Hòa Thân đã gắn liền với tên tuổi của Vương Cương.
+Để thể hiện thật tốt vai diễn này, Vương Cương đã đầu tư rất nhiều thời gian tìm hiểu nhân vật. Ông từng chia sẻ: "Tôi là người luôn luôn muốn làm tốt nhất mọi công việc được giao. Trong quá trình quay phim, tôi đọc tài liệu lịch sử của triều đại nhà Thanh mỗi ngày. Tôi cũng từng tự hỏi bản thân, liệu mình đang đóng phim hay có một phần tính cách nhân vật trong "máu"".
+Dù là một vai diễn phản diện nhưng Vương Cương lại nhận được sự ngưỡng mộ và yêu mến của nhiều thế hệ khán giả. Sau Tể tướng Lưu Gù, Vương Cương tiếp tục góp mặt trong Bản lĩnh Kỳ HiểuLam, Thiếu Niên Gia Khánh, Hoàng Thượng Nhị Đại Gia...
+Cùng Trương Quốc Lập, Trương Thiết Lâm, Vương Cương trở thành những gương mặt kinh điển mỗi khi nhắc đến các bộ phim làm nên diện mạo phim truyền hình Trung Hoa.
+Vương Cương đã có hơn 50 năm cống hiến và hoạt động trong lĩnh vực nghệ thuật.
+Cùng Trương Quốc Lập, Trương Thiết Lâm, Vương Cương trở thành những gương mặt kinh điển mỗi khi nhắc đến các bộ phim làm nên diện mạo phim truyền hình Trung Hoa. Nói về vai diễn thành công nhất trong sự nghiệp, ngôi sao sinh năm 1948 từng khẳng định: "Tôi rất thích vai Hòa Thân bởi qua đó tôi có thể mượn vai diễn để phê phán cái xấu, giúp con người trở nên tốt đẹp hơn".
+Ngoài đời, Vương Cương cũng là người khá đào hoa với 3 đời vợ. Năm 1976, Vương Cương quen MC Tiểu Đỗ và tới năm 1978, cặp đôi kết hôn. Hai người có với nhau một cô con gái nhưng cuộc hôn nhân đầu tiên của ông chỉ kéo dài chưa đầy một năm.
+Khi kết hôn lần đầu, Vương Cương mới bước chân vào làng giải trí và đang mải mê xây dựng sự nghiệp. Việc bận rộn với công việc và vắng nhà thường xuyên khiến đời sống hôn nhân của ông nguội lạnh. Năm 1979, Vương Cương ly hôn người vợ đầu tiên.
+Năm 1996, ông tái hôn với một nữ diễn viên ca xướng nhưng cuộc hôn nhân thứ hai của ông cũng chỉ kéo dài đến năm 2001 mà không có con chung. Sau 2 cuộc hôn nhân đổ vỡ, Vương Cương cuối cùng đã tìm được hạnh phúc với người vợ kém ông tới 20 tuổi, nghệ sĩ violin Trịnh Diễm Đông. Cô vốn là một fan của Vương Cương và quen biết ông qua mạng xã hội.
+Sau 2 cuộc hôn nhân đổ vỡ, Vương Cương tìm được hạnh phúc thực sự bên bà xã kém 20 tuổi vốn là fan của ông.
+Cặp đôi đón con trai chào đời vào năm 2008, khiến gia đình thêm viên mãn.
+Vương Cương lên chức bố của một bé trai khi đã ngoài 60 tuổi.
+Nhớ lại chuyện tình lãng mạn với "bà xã" kém 20 tuổi, Vương Cương nói: "Khi đó, tôi tham gia một chương trình và chia sẻ mình đã sống độc thân nhiều năm qua. Đơn vị tổ chức đã xin phép công khai địa chỉ email của tôi nên nhiều người đã gửi thư cho tôi. Trong số các bức thư điện tử gửi tới, tôi đặc biệt chú ý đến cô ấy nhờ tên tiếng Anh đặc biệt. Thế rồi, tôi quyết định hẹn hò với người phụ nữ quyến rũ này".
+Vương Cương tin rằng cuộc hôn nhân thứ ba của ông là sự sắp xếp của định mệnh. Năm 2008, Trịnh Diễm Đông sinh cho Vương Cương một cậu con trai khi ông đã 60 tuổi. Cuộc sống gia đình viên mãn khiến Vương Cương quyết định tạm giải nghệ, dành thời gian an dưỡng tuổi già bên vợ trẻ con khôn.
+Sau 13 năm bên nhau và bấp chấp khoảng cách 20 tuổi giữa hai người, Vương Cương và vợ vẫn rất hạnh phúc. Vương Cương tâm sự rằng, ở hai cuộc hôn nhân đầu, ông không có thời gian vun vén cho gia đình vì mải mê phát triển sự nghiệp. Song, ở cuộc hôn nhân thứ ba, ông biết trân trọng giá trị gia đình và may mắn khi tìm được "một nửa" luôn thấu hiểu.
+Vương Cương chụp ảnh cùng vợ con và gia đình con gái đầu của ông. Cậu con trai út của ông bằng tuổi cháu nội ông.
+Vương Cương luôn tự hào về bà xã trẻ tuổi và xinh đẹp. Cậu con trai nhỏ Đinh Đinh cũng khiến cuộc sống của ông ở tuổi lục tuần thêm thi vị. Vì con trai, ông từ chối những lời mời công tác ở Bắc Kinh để có thời gian ở gần con, đưa đón con đi học mỗi ngày. Đáng nói, cậu con trai út của Vương Cương bằng tuổi với cháu nội của ông. Vừa làm ông, vừa làm cha ở tuổi không còn trẻ, Vương Cương vẫn thấy vô cùng hạnh phúc.
+6 năm trở lại đây, Vương Cương quay lại làng giải trí khi tham gia một số show truyền hình. Ở tuổi 73, "Hòa Thân nổi tiếng trên màn ảnh" vẫn rất phong độ, nhanh nhẹn và minh mẫn dù mái tóc đã bạc. Tài ăn nói có duyên và cách trò chuyện thú vị của Vương Cương vẫn được ông duy trì tới tận bây giờ.
+Được biết, dù không làm việc thường xuyên trong làng giải trí nhiều năm nhưng khối tài sản của ông vẫn rất đáng nể nhờ các khoản đầu tư và thú sưu tầm đồ cổ. Cộng đồng mạng từng xôn xao trước thông tin về căn nhà cổ của Vương Cương với những món đồ cổ có giá trị.
+Ngôi nhà cổ chứa nhiều món đồ cổ có giá trị từng gây "sốt" của Vương Cương
+Ngôi sao 73 tuổi kiếm bộn tiền từ việc đầu tư kinh doanh và thú vui sưu tầm đồ cổ.
+Vương Cương quay lại hoạt động nghệ thuật từ năm 2016 sau một thời gian nghỉ ngơi chăm sóc gia đình và gần gũi với vợ con.
+Mi Vân
+Theo News/Xinhua

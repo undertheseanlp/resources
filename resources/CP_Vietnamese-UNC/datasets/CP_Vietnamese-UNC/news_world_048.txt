@@ -1,15 +1,10 @@
 # doc_id = news_world_048
-# url = https://dantri.com.vn/the-gioi/australia-huy-du-an-vanh-dai-con-duong-trung-quoc-noi-gian-doa-tra-dua-20210423081209514.htm
-# date = 20210423
-Phát ngôn viên Bộ Ngoại giao Trung Quốc Uông Văn Bân (Ảnh: Reuters).
-Bộ Ngoại giao Trung Quốc đã chỉ trích quyết định ngày 21/4 của Australia về việc chính thức hủy bỏ thỏa thuận hợp tác giữa bang Victoria và Bắc Kinh trong khuôn khổ sáng kiến xây dựng cơ sở hạ tầng từ châu Á tới châu Âu đầy tham vọng của Trung Quốc.
-Trong cuộc họp báo ngày 22/4, ông Uông Văn Bân, phát ngôn viên Bộ Ngoại giao Trung Quốc, nhấn mạnh rằng Bắc Kinh "kiên quyết và mạnh mẽ chống lại động thái của Canberra" và kêu gọi Australia ngay lập tức thay đổi quyết định.
-"Trung Quốc đã bày tỏ sự phản đối mạnh mẽ với hành động của Australia và có quyền để đáp trả với quyết định này", ông Uông nói. Trung Quốc cáo buộc động thái của Canberra là "sự đảo ngược lịch sử" trong quan hệ song phương giữa 2 nước và cảnh báo rằng căng thẳng giữa 2 nước sẽ xấu đi vì quyết định của Canberra.
-Ông Uông nói rằng, thỏa thuận ban đầu giữa Victoria và Trung Quốc ký năm 2018 là động thái tích cực cho quan hệ 2 quốc gia nhưng việc Canberra hủy bỏ nó đã "phá hủy nghiêm trọng lòng tin giữa 2 nước".
-Trong khi đó, Đại sứ quán Trung Quốc ở Australia lên án Canberra có động thái hủy bỏ "một cách khiêu khích" các dự án "Vành đai, con đường".
-Phản ứng quyết liệt từ phía Trung Quốc diễn ra sau khi Ngoại trưởng Australia Marise Payne ngày 21/4 tuyên bố dùng quyền lực của bà để hủy 2 thỏa thuận giữa bang Victoria và Trung Quốc liên quan tới sáng kiến "Vành đai, con đường" của Bắc Kinh vì cho rằng "chúng không phù hợp với chính sách đối ngoại của Australia".
-"Vành đai, con đường" là sáng kiến cơ sở hạ tầng hàng tỷ USD do Chủ tịch Trung Quốc Tập Cận Bình tung ra vào năm 2013 nhằm phát triển, xây dựng hệ thống công trình trên toàn cầu. Sáng kiến được dự đoán sẽ giúp Trung Quốc mở rộng nhanh chóng tầm ảnh hưởng về chính trị và kinh tế trên thế giới với hàng nghìn tỷ USD đầu tư vào 2.600 dự án trên toàn cầu.
-Tuy nhiên, sáng kiến của Trung Quốc cũng nhiều lần thành tâm điểm gây tranh cãi khi nó bị cáo buộc là công cụ mà Bắc Kinh dùng để triển khai "bẫy nợ" với các đối tác của họ, khi nhiều dự án được Bắc Kinh bỏ vốn được xem là tốn kém, không cần thiết và thiếu hiệu quả cũng như khả năng sinh lời thấp. Tuy nhiên, Trung Quốc nhiều lần bác bỏ những cáo buộc này.
-Quyết định mới nhất của Canberra được cho sẽ khiến quan hệ giữa Bắc Kinh và Canberra thêm xấu đi. Căng thẳng giữa 2 nước đã leo thang dồn dập từ năm ngoái kể từ khi Australia kêu gọi mở cuộc điều tra quốc tế độc lập về nguồn gốc của dịch Covid-19. Bắc Kinh không hài lòng với động thái này và đã cấm nhập khẩu, áp thuế với hàng hóa Australia.
-Đức Hoàng
-Theo RT
+# url = https://dantri.com.vn/the-gioi/ban-do-dai-cu-tri-o-my-thay-doi-sau-cuoc-dieu-tra-dan-so-nam-2020-20210427140900930.htm
+# date = 20210427
+Theo Cục điều tra dân số Mỹ, dân số nước này hiện đang ở mức hơn 331 triệu người, tăng 7,4% so với năm 2010, mức tăng thấp thứ hai sau mỗi thập kỷ trong lịch sử nước Mỹ.
+Việc công bố dữ liệu dân số Mỹ, bị trì hoãn nhiều tháng do dịch bệnh Covid-19, sẽ khởi đầu cho các tranh cãi về việc phân định lại bản đồ đại cử tri, điều có thể tái định hình quyền lực chính trị ở Washington trong thấp kỷ tới.
+Ảnh minh họa. (Ảnh: US News)
+Theo Hiến pháp Mỹ, 435 ghế tại Hạ viện và các số phiếu đại cử tri nhằm bầu ra Tổng thống 4 năm/lần được phân bổ cho 50 bang dựa trên dân số của mỗi bang với mỗi bang có ít nhất 1 ghế tại quốc hội. Số ghế tại quốc hội được phân bổ lại dựa trên kết quả khảo sát dân số được tổ chức 10 năm/lần.
+Texas, Florida và Bắc Carolina là 3 trong số các bang được bổ sung số ghế trong quốc hội Mỹ và điều này có thể giúp đảng Cộng hòa có thêm cơ hội giành lại được Hạ viện trong cuộc bầu cử giữa kỳ vào năm tới. Cụ thể, Texas sẽ có thêm 2 ghế tại quốc hội vào năm tới trong khi 5 bang khác bao gồm Florida, Bắc Carolina, Colorado, Montana, và Oregon mỗi bang sẽ có thêm 1 ghế tại quốc hội.
+Trong khi đó, các bang New York, California, Illinois, Michigan, Ohio, Pennsylvani, và Tây Virginia mỗi bang sẽ mất 1 ghế. Đây là lần đầu tiên California, bang đông dân nhất ở Mỹ, mất 1 ghế trong quốc hội trong lịch sử 170 năm của bang này.
+Theo VOV

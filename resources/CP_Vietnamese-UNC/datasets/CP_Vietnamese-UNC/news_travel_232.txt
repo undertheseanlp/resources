@@ -1,14 +1,25 @@
 # doc_id = news_travel_232
-# url = https://dantri.com.vn/du-lich/tam-thoi-dong-cua-va-dung-don-khach-tai-khu-du-lich-tam-chuc-ha-nam-20210429191227554.htm
-# date = 20210429
-Chiều 29/4, Ban chỉ đạo phòng, chống dịch Covid-19 tỉnh Hà Nam họp triển khai các biện pháp khoanh vùng dập dịch Covid-19, liên quan đến 5 người trong một gia đình ở thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân, dương tính với SARS-CoV-2.
-Khu du lịch Tam Chúc sẽ tạm thời đóng cửa và dừng đón khách từ 18h ngày 29/4.
-Theo đó, trước diễn biến phức tạp của tình hình dịch Covid-19 trên địa bàn tỉnh Hà Nam, UBND tỉnh đã quyết định tạm thời đóng cửa,dừng đón khách tại Khu du lịch Tam Chúc, thị trấn Ba Sao, huyện Kim Bảng và các cơ sở tôn giáo, tín ngưỡng, các điểm du lịch, danh lam thắng cảnh, di tích lịch sử trên địa bàn tỉnh.
-Đồng thời, dừng các lễ hội, hoạt động, sự kiện tập trung đông người, các hội nghị không cần thiết từ 18h chiều ngày 29/4, cho đến khi có thông báo mới.
-Tạm dừng các hoạt động kinh doanh: Karaoke, massage, trò chơi điện tử online và offline, các khu vui chơi giải trí đến khi có thông báo mới.
-Các đơn vị cũng rà soát, hoàn thiện, kích hoạt toàn bộ lực lượng, phương án phòng, chống dịch Covid-19 ở tất cả các cấp.
-Trước đó, bệnh nhân là nam (SN 1993), quê ở thôn Quan Nhân, xã Đạo Lý huyện Lý Nhân, nhập cảnh từ Nhật Bản về, cách ly đủ 14 ngày tại Đà Nẵng và đã có 3 lần xét nghiệm âm tính với SARS-CoV-2 trong đó lần xét nghiệm cuối cùng là ngày 21/4.
-Ngày 22/4 bệnh nhân đi xe khách từ Đà Nẵng về Liêm Tuyền và bắt taxi từ Liêm Tuyền về nhà. Sau đó bệnh nhân có biểu hiện sốt, đau họng và được lấy mẫu chiều ngày 28/4 xét nghiệm và cho kết quả dương tính với SARS-CoV-2.
-Hiện bệnh nhân đang cách ly điều trị tại Bệnh viện Đa khoa Hà Nam.
-Qua xét nghiệm đã xác nhận bố mẹ đẻ, vợ và con bệnh nhân dương tính với SARS - CoV2, đáng chú ý con bệnh nhân mới 1 tuổi. Như vậy, Hà Nam đã có 5 trường hợp trong một gia đình ghi nhận dương tính với Covid-19.
-Đức Văn
+# url = https://dantri.com.vn/du-lich/thu-ngoe-nguay-nhin-ron-da-ga-nhung-len-mam-lai-tro-thanh-dac-san-dat-gia-20210420192328541.htm
+# date = 20210420
+Cá mút đá
+Cá mút đá (hay còn gọi là cá ninja, cá quỷ) vốn đã quen thuộc và trở thành một món ăn nổi tiếng, đắt tiền ở Hàn Quốc cùng một số nước châu Âu. Vài năm trở lại đây, món cá mút đá được nhiều người Việt biết đến và yêu thích.
+Ở Việt Nam, cá mút đá được phát hiện sống phổ biến nhất ở khu vực biển Quy Nhơn (Bình Định), Khánh Hòa. Loài cá này có vẻ ngoài kỳ lạ, xấu xí, thậm chí còn được ví là "quái vật" biển sâu. Ngoài ra, nó còn có tên gọi khác là cá "giấu đầu lòi đuôi" bởi khi bắt lên, nó thường cuộn đầu như giấu đi.
+Da cá trơn như cá chình, có màu đen xuyên suốt, đường kính khoảng 4cm, dài cỡ hai gang tay. Đầu cá giống cá chạch, có ria ngắn, đuôi bè ra.
+Theo giải thích của các ngư dân, sở dĩ cá mút đá được gọi là cá ninja bởi rất khó đánh bắt. Loài cá này sống ở tầng đáy, ở độ sâu hơn 1000m so với mực nước biển, thoắt ẩn thoắt hiện với phần da màu đen trùm kín từ đầu đến đuôi giúp nó dễ "ngụy trang", lẩn trốn.
+Cá mút đá có thể chế biến thành nhiều món ăn bổ dưỡng như lẩu, cà ri, chiên bột... nhưng ngon và hợp "gu" thực khách Việt Nam nhất vẫn là hai món cá om chuối đậu và cá nướng muối ớt. (Ảnh: meohaisan).
+Hiện, loại cá xấu xí này có giá 250 - 300.000 đồng/kg. Tuy nhiên, khách ở Hà Nội hay các tỉnh phía Bắc thường phải đặt trước mới mua được.
+Sâu tre
+Sâu tre (hay còn gọi sâu măng) là loài côn trùng ký sinh trong thân cây tre, thường xuất hiện ở một số tỉnh vùng núi Tây Bắc như Sơn La, Điện Biên, Lai Châu hay huyện Mường Lát (Thanh Hóa).
+Sinh vật này có kích thước nhỏ, dài gần hai đốt ngón tay, màu trắng muốt. Tuy vẻ ngoài không bắt mắt, khiến nhiều người e sợ nhưng sâu tre lại là nguyên liệu làm nên nhiều món khoái khẩu "được lòng" giới sành ăn.
+Sâu tre thường sống trong thân cây tre (hoặc nứa) non. Khoảng từ tháng 9 - tháng 11 âm lịch là thời điểm sâu sinh sôi nảy nở, phát triển nhiều và béo ngậy nhất. Thời gian này, người dân địa phương thường vào rừng "săn" sâu.
+Mỗi thân cây có thể chứa cả nửa kg sâu tre, người dân "bội thu" nếu bắt đúng tổ. (Ảnh: Bình Tóc Xoăn).
+Trên một vài diễn đàn chợ mạng, sâu tre được rao bán tới 700.000 đồng/kg. Tuy nhiên, chủ yếu là hàng cấp đông hoặc hút chân không vì sâu tươi khó bảo quản.
+Rươi
+Đây là đặc sản có nhiều ở tỉnh Hải Dương. Hình dáng của con rươi khiến nhiều người e ngại, thậm chí là sợ nhưng những món ăn chế biến từ loài vật này thì ai cũng phải gật gù thừa nhận "ngon khó cưỡng".
+Một năm có hai mùa rươi là từ tháng 4, 5 và tháng 9, 10 âm lịch. (Ảnh: Toàn Vũ).
+Rươi có thể chế biến thành nhiều món nhưng ngon nhất là chả rươi. Rươi sau khi sơ chế được trộn cùng với thịt nạc băm, trứng gà, hành hoa, thì là, ớt tươi và không thể thiếu là vỏ quýt hôi.
+Rươi được bán với giá từ 500 - 600.000 đồng/kg tùy thời điểm. (Ảnh: Toàn Vũ).
+Con rươi tuy có hình thức khiến nhiều người e sợ nhưng nó chứa nhiều thành phần dinh dưỡng rất giàu đạm và chứa nhiều loại muối khoáng cần thiết cho cơ thể như canxi, sắt và kẽm…
+Sá sùng
+Theo quảng cáo của người bán, dòng này là nguyên con, không vụn, nát. Khi nấu canh hay lẩu, khách chỉ cần thả một mẩu sá sùng bằng đầu ngón tay vào nồi là không cần mì chính, hạt nêm hay ninh xương ống mà nước dùng vẫn thơm ngon, đậm vị.
+Khôi Vũ

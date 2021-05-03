@@ -1,16 +1,19 @@
 # doc_id = news_world_051
-# url = https://dantri.com.vn/the-gioi/bat-binh-vi-lenh-phong-toa-nhieu-cua-hang-gui-do-lot-cho-thu-tuong-phap-20210421201632763.htm
-# date = 20210421
-Một lá thư kèm món nội y trước khi được gửi đi (Ảnh: Facebook).
-RT đưa tin, Thủ tướng Pháp Jean Castex được cho là đã nhận nhiều bưu phẩm lạ chứa các món đồ nội y, sau khi các cửa hàng bị buộc đóng cửa dùng biện pháp này để nhấn mạnh những khó khăn mà các doanh nghiệp nhỏ gặp phải trong bối cảnh Pháp áp dụng lệnh phong tỏa ngăn dịch Covid-19.
-Theo đó, các chủ tiệm quần áo lót trên khắp nước Pháp đã bị chính phủ yêu cầu đóng cửa vì dịch Covid-19. Lệnh phong tỏa có một số ngoại lệ cho các doanh nghiệp thiết yếu, và những người bán nội y cho rằng họ hoàn toàn nên nằm trong danh sách đó.
-Họ đã lập nên nhóm mang tên "Action Culottée" và trang Facebook của nhóm đã đăng tải hình ảnh hàng loạt các chủ tiệm quần áo đăng ảnh chụp thư và nội y trước khi gửi chúng cho Thủ tướng Castex.
-Một chủ tiệm gửi 2 cặp nội y với dòng chữ bên trên: "Tôi cũng là sản phẩm thiết yếu".
-Một lá thư từ nhóm này cho rằng, các hoạt động thương mại là thiết yếu dù chính phủ ra quy định như thế nào.
-"Các tiệm hoa, tiệm sách, tiệm làm tóc và thậm chí tiệm bán đĩa nhạc cũng được xem là ngành kinh doanh thiết yếu. Vậy nội y thì sao? Đó không phải là vấn đề liên quan tới sự bảo vệ và hợp vệ sinh hay sao?", nhóm trên viết trong một thông báo.
-Nhóm trên nói rằng họ hi vọng chiến dịch sẽ "cảnh tỉnh mọi người về tình trạng rất nghiêm trọng mà hàng trăm chủ tiệm bán nội y đang gặp phải trên khắp nước Pháp".
-Bộ trưởng Y tế Pháp Olivier Véran tuần này cho biết, những doanh nghiệp không thiết yếu có thể bắt đầu mở cửa lại sớm, nếu họ nằm trong khu vực rủi ro thấp. Ông cho biết, các lệnh hạn chế ngăn dịch có thể sẽ bắt đầu được gỡ từ giữa tháng 5.
-Pháp vẫn đang đối mặt với làn sóng lây nhiễm Covid-19 mạnh, tuy nhiên, nhờ biện pháp phong tỏa chặt chẽ mà số ca nhiễm mới ở nước này đã giảm nhẹ. Tuần này họ có trung bình 33.000 ca mới/ngày, giảm so với con số 40.000 tuần trước.
-Tuy nhiên, Pháp cảnh báo rằng mức giảm này vẫn "mong manh" và "chưa đủ nhanh" và cả nước vẫn phải tiếp tục nỗ lực thêm để đẩy lùi dịch bệnh. Pháp cho tới nay ghi nhận trên 5,3 triệu ca bệnh và hơn 101.000 người thiệt mạng vì dịch.
-Đức Hoàng
-Theo RT
+# url = https://dantri.com.vn/the-gioi/bi-an-tau-ngam-xau-so-cua-indonesia-se-bi-chon-vui-duoi-day-bien-20210426160004577.htm
+# date = 20210426
+Giới chức quân đội Indonesia ngày 25/4 cho biết đã phát hiện vị trí xác tàu ngầm KRI Nanggala 402 vỡ thành nhiều mảnh dưới đáy biển ngoài khơi Bali, ở độ sâu 838m.
+Các ảnh chụp và video ghi lại bằng thiết bị chuyên dụng của tàu cứu hộ của Hải quân Singapore cho thấy, con tàu bị vỡ làm 3 mảnh lớn gồm thân tàu, bánh lái và mỏ neo.
+Tại cuộc họp báo chiều qua, Tham mưu trưởng Hải quân Indonesia Yudo Margono xác nhận, toàn bộ 53 thủy thủ trên tàu ngầm KRI Nanggala 402 đều thiệt mạng.
+Xác tàu ngầm KRI Nanggala 402 được tìm thấy ngoài khơi Bali (Ảnh: AFP).
+Xác tàu ngầm KRI Nanggala 402 được tìm thấy ngoài khơi Bali ở độ sâu 838m (Ảnh: AFP).
+Xác tàu ngầm KRI Nanggala 402 được tìm thấy ngoài khơi Bali (Ảnh: AFP).
+Giới chức Indonesia hy vọng, với sự hợp tác giúp đỡ của quốc tế, họ có thể trục vớt xác tàu và thi thể thủy thủ đoàn góp phần làm sáng tỏ nguyên nhân thảm kịch.
+Việc trục vớt tàu ngầm không phải là chưa từng có tiền lệ. Năm 1974, Mỹ đã triển khai một chiến dịch có tên gọi "Dự án Azorian" để bí mật trục vớt tàu ngầm K-129 của Liên Xô bị đắm năm 1968 ở độ sâu khoảng 5.000m. Mỹ được cho là đã trục vớt được một phần con tàu trong chiến dịch được tin là nhằm giải mã bí mật quân sự của Liên Xô.
+Năm 2001, Nga đã trục vớt thành công tàu ngầm hạt nhân Kursk. Để trục vớt con tàu có trọng lượng khoảng 20.000 tấn, chìm ở độ sâu khoảng 100m, Nga đã mất khoảng 1 năm.
+Tàu KRI Nanggala 402 của Indonesia tuy có trọng lượng nhẹ hơn (khoảng 1.400 tấn), nhưng chìm sâu hơn nhiều so với tàu ngầm Kursk. Do vậy, việc trục vớt KRI Nanggala 402 cũng không hề dễ dàng, không có nhiều đơn vị có thể đảm nhiệm được công việc này.
+"Trục vớt một tàu ngầm 1.400 tấn nằm sâu dưới đáy biển đòi hỏi những nỗ lực hậu cần lớn. Tìm kiếm tàu cứu hộ thích hợp đã là một vấn đề, sau đó còn phải làm thế nào để đưa xác con tàu từ độ sâu hơn 800m lên mặt nước, chưa kể đến việc trục vớt thi thể các thủy thủ cũng là một thách thức thực sự", Frank Owen, Thư ký tại Viện Tàu ngầm Australia, nhận định.
+Ngoài ra, hãng tin ABC News dẫn nhận định của chuyên gia cho biết, việc trục vớt sẽ rất tốn kém. Nhiều người cho rằng, nếu tốn kém như vậy, Indonesia có thể đầu tư nguồn lực hạn chế đó để hiện đại hóa hạm đội tàu ngầm còn lại của mình, tránh những thảm kịch đáng tiếc tương tự.
+Hơn nữa, không có gì đảm bảo rằng việc trục vớt có thể tìm ra câu trả lời chính xác nguyên nhân thảm kịch đắm tàu. Một số chuyên gia gợi ý, Indonesia có thể tận dụng những hình ảnh mà tàu cứu hộ đã ghi được về vị trí, mảnh vỡ của con tàu để đưa ra những giả thuyết. Những giả thuyết này cùng với việc trục vớt một số mảnh vỡ và vật dụng liên quan sẽ giúp phần nào trả lời các câu hỏi liên quan đến thảm kịch.
+Tàu ngầm KRI Nanggala 402 của Hải quân Indonesia mất tích cùng với 53 thủy thủ rạng sáng 21/4 khi đang diễn tập phóng ngư lôi ngoài khơi Bali. Tàu cứu hộ của Singapore đã phát hiện xác con tàu vỡ làm 3 mảnh lớn không xa vị trí con tàu đã lặn xuống.
+Hiện chưa thể xác định được nguyên nhân khiến con tàu gặp nạn nhưng quân đội Indonesia cho rằng con tàu có thể đã gặp sự cố mất điện trước khi bị đắm, và con tàu bị nứt ra do áp lực nước khi chìm quá sâu.
+Minh PhươngTheo ABC News

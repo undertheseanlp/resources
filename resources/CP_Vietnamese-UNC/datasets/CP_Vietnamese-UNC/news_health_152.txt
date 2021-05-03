@@ -1,13 +1,23 @@
 # doc_id = news_health_152
-# url = https://dantri.com.vn/suc-khoe/lan-dau-tien-tinh-quang-nam-tiem-vac-xin-phong-covid-19-20210423115531894.htm
-# date = 20210423
-Sáng 23/4, tại điểm tiêm vắc xin phòng Covid-19 ở Trung tâm y tế dự phòng tỉnh Quảng Nam, rất nhiều bác sĩ, nhân viên y tế và những người tham gia phòng chống dịch thuộc thành viên Ban chỉ đạo phòng chống dịch tỉnh đã đến tiêm vắc xin phòng Covid-19.
-Những người đến tiêm vắc xin ngừa Covid-19 ghi phiếu đồng thuận.
-Ông Trần Văn Kiệm, Giám đốc Trung tâm kiểm soát bệnh tật Quảng Nam (CDC Quảng Nam) cho hay, để thực hiện tốt công tác tiêm vắc xin ngừa Covid-19, đảm bảo an toàn tiêm chủng và các biện pháp phòng chống lây nhiễm virus SARS-CoV-2, Sở Y tế đã giao CDC Quảng Nam làm đầu mối chỉ đạo hướng dẫn chuyên môn, kỹ thuật, đào tạo tập huấn, hướng dẫn các đơn vị triển khai; đảm bảo cung ứng đầy đủ vắc xin, trang thiết bị, vật tư, bơm kim tiêm, hộp an toàn, cho các cơ sở tiêm chủng, đồng thời sẵn sàng hỗ trợ chuyên môn, kỹ thuật và những vấn đề khác cho 20 cơ sở sáng nay triển khai tiêm đợt 1 bao gồm 18 Trung tâm y tế tuyến huyện/thị xã/thành phố, BVĐK tỉnh và CDC Quảng Nam.
-Ông Mai Văn Mười - Giám đốc Sở Y tế tỉnh Quảng Nam được tiêm vắc xin ngừa Covid-19.
-Ông Mai Văn Mười - Giám đốc Sở Y tế tỉnh Quảng Nam - cho biết, trong đợt 1, ngành y tế Quảng Nam đã nhận được 8.400 liều vắc xin vắc xin ngừa Covid-19 và đã triển khai trên toàn tỉnh, ưu tiên nhóm đối tượng ở tuyến đầu phòng, chống dịch.
-"Đến thời điểm này, công tác tiêm vắc xin ngừa Covid-19 đầu tiên trên địa bàn tỉnh diễn ra đúng quy tắc của Bộ Y tế", Giám đốc Sở Y tế tỉnh Quảng Nam cho hay.
-Lọ vắc xin ngừa Covid-19 được tiêm đầu tiên ở tỉnh Quảng Nam.
-Cũng theo Giám đốc Sở Y tế tỉnh Quảng Nam, thời gian kết thúc tiêm vắc xin đợt 1 dự kiến vào ngày 5/5 tới. Trong đợt này Sở Y tế Quảng Nam triển khai tiêm tại tất cả các cơ sở y tế, trung tâm kiểm soát bệnh tật, có sự hỗ trợ từ các bệnh viện đa khoa tuyến tỉnh nhằm đảm bảo quy trình trước, trong và sau tiêm.
-Trong sáng 23/4, những người đến tiêm vắc xin này đều thực các bước như đi vào khu vực chờ, ghi phiếu đồng thuận, khám sàng lọc, tiêm chủng và theo dõi sau tiêm chủng. Sau hơn 1 giờ triển khai tiêm vắc xin, mọi diễn tiến đều an toàn, tốt đẹp. Những người được tiêm mũi đầu tiên đều vui vẻ, sức khỏe tốt.
-Công Bính
+# url = https://dantri.com.vn/suc-khoe/loai-duong-gay-tich-mo-gan-dau-bang-ma-chung-ta-van-an-hang-ngay-20210414164354978.htm
+# date = 20210414
+Fructose là một loại đường đơn được tìm thấy tự nhiên trong trái cây và mật ong.Ngoài ra, còn có nhiều loại thực phẩm được bổ sung đường fructose mà chúng ta thường sử dụng trong cuộc sống chẳng hạn như đồ uống có ga chứa xi-rô fructose, bánh quy, bánh mì, sữa chua,…
+Fructose có vị ngon hơn glucose, với độ ngọt cao và chỉ số đường huyết (GI) thấp. Do đó, nhiều người từng nghĩ rằng fructose là một loại đường tốt cho sức khỏe.
+Trên thực tế, đường fructose không "lành mạnh" hơn so với các loại đường khác và thậm chí còn tác động tiêu cực đến gan nếu lạm dụng.
+Đường fructose rất có hại cho sức khỏe nếu dùng sai cách.
+Một nghiên cứu trên tạp chí "Nature Metabolism" chỉ ra rằng, đường fructose có tác động làm tăng mỡ trong gan cao hơn glucose từ 2 đến 3 lần.
+Các nhà nghiên cứu đã mô phỏng mức tiêu thụ fructose tương đối của thanh thiếu niên Mỹ trên chuột thí nghiệm.
+Cụ thể, nhóm tác giả cho hai nhóm chuột thí nghiệm ăn thức ăn chứa fructose và tinh bột ngô có cùng lượng calo (tinh bột ngô sẽ được phân hủy thành glucose để hấp thụ trong ruột).
+5 tháng sau, người ta phát hiện ra nồng độ triglycerid trong gan của nhóm fructose cao gấp 3 lần so với nhóm ăn bột bắp và hiện tượng xơ hóa gan cũng xuất hiện ở nhóm fructose.
+Một nghiên cứu khác được thực hiện trên đối tượng người lớn thừa cân, béo phì cho thấy, việc sử dụng đồ uống có chứa đường fructose khiến cân nặng và lượng mỡ nội tạng tăng lên đáng kể.
+Các nhà dinh dưỡng kết luận: "Dù fructose không phải là chất béo, nhưng do tất cả fructose đều chuyển thành chất béo cho nên thức ăn giàu fructose cũng là giàu béo, và vòng luẩn quẩn xảy ra".
+Làm thế nào để tránh hấp thụ quá nhiều fructose?
+Ăn trái cây điều độ
+Mặc dù trái cây có chứa fructose nhưng không vì thế mà chúng ta phải tránh nhóm thực phẩm giàu dưỡng chất này. Theo các chuyên gia, các tác hại của fructose gây ra cho gan chỉ xảy ra khi chúng ta hấp thụ quá mức loại đường này.
+Do đó, với các loại trái cây ngọt, chúng ta nên ăn ở mức vừa phải: 150 - 250g mỗi ngày.Đối với những bệnh nhân gan nhiễm mỡ, tăng lipid máu và tiểu đường, hãy cố gắng chọn những loại trái cây có hàm lượng đường thấp như: ổi, mận, bưởi. Ngoài ra, chúng ta có thể chọn củ cải, dưa chuột, cà chua thay vì hoa quả.
+Đọc bảng thành phần của thực phẩm đóng gói
+Khi mua các loại đồ ăn, thức uống đóng gói cần để ý đến bảng thành phần. Nếu sản phẩm có chứa fructose hoặc xi-rô ngô giàu fructose (High-Fructose Corn Syrup, HFCS) nên cân nhắc lượng sử dụng phù hợp, tránh nạp vào quá mức.
+Thức uống lành mạnh nhất là nước lọc
+Nước lọc là thức uống vừa đơn giản, rẻ tiền và tốt cho sức khỏe hơn các nước giải khát đóng chai chứa nhiều đường. Uống nước lọc sẽ vừa giúp bù nước, giải khát và không mang đến nỗi lo béo phì, tiểu đường, tăng mỡ máu và các bệnh khác.
+Minh Nhật
+Theo Med

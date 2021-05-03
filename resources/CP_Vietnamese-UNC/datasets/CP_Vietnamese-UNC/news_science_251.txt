@@ -1,13 +1,14 @@
 # doc_id = news_science_251
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/vi-sao-cho-an-co-20210423065416022.htm
-# date = 20210423
-Thực tế, nhiều người cho rằng chó có thể bị ốm do ăn cỏ hoặc thậm chí là sau khi bị ốm mới ăn cỏ. Điều này xuất phát từ việc những người nuôi thú cưng thường để ý chó của họ nôn mửa sau bữa ăn nhẹ có cỏ, mặc dù chưa bao giờ rõ liệu việc ăn cỏ có gây ra bệnh tật hay không, hay liệu nó có gây ra nôn mửa sau đó hay không. Tuy nhiên, câu trả lời ở góc độ khoa học có thể là "không".
-Trong một nghiên cứu tự báo cáo về thói quen ăn thực vật của chó, các nhà nghiên cứu đã phát hiện ra rằng 79% số lượng chó đã ăn cỏ vào một thời điểm nào đó trong quá khứ. Mặc dù con số cao như vậy, chỉ 9% trong số những con chó này có biểu hiện ốm trước đó và chỉ 22% trong số chúng bị nôn sau khi ăn cỏ. Điều đó khiến phần lớn những con chó trông khỏe mạnh, ăn một đống cỏ và sau đó vẫn sẽ có một ngày vui vẻ và không bị bệnh tật gì.
-Mặc dù chưa có quá nhiều nghiên cứu sâu hơn về chủ đề này, nhưng kích thước mẫu lớn chắc chắn cho thấy rằng người bạn thân nhất của con người đang thực hiện một thói quen kỳ quặc vì một lý do khác.
-Có thể chúng ta không bao giờ hiểu đầy đủ về hành vi này, nhưng lời giải thích hàng đầu hiện nay là chó thực sự có thể chỉ muốn… thưởng thức hương vị tươi mát của cỏ.
-Các chủ sở hữu thường ghi nhận sự gia tăng trong việc chó ăn cỏ khi mùa xuân đến, vì vậy có thể cỏ mới mọc chỉ là một món ngon đơn thuần với chúng.
-Nhiều người nghĩ chó hay mèo là loài ăn thịt bắt buộc, có nghĩa là chúng chỉ hòa toàn ăn thịt. Tuy nhiên, nghiên cứu đã chỉ ra rằng chó và sói thực sự là động vật ăn tạp và chúng lấy một phần chất dinh dưỡng lành mạnh hàng ngày từ thực vật.
-Nhiều nghiên cứu đã tìm thấy bằng chứng về cây xanh và quả mọng trong chế độ ăn của sói hoang dã, cho thấy nó chiếm một phần nhỏ nhưng đáng kể trong lượng thức ăn của chúng.
-Bên cạnh đó, cỏ là một nguồn chất xơ tuyệt vời, một thứ có thể dễ dàng thiếu trong chế độ ăn của những chú chó bình thường.
-Vì vậy, có thể nói cỏ gần như chắc chắn không phải là vấn đề chó ăn để nôn mửa, mà thay vào đó là thứ mà chó cố ý ăn để thưởng thức hoặc bổ sung dinh dưỡng cho cơ thể chúng.
-Trang Phạm
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/vi-sao-co-nguoi-thuan-tay-trai-co-nguoi-thuan-tay-phai-20210330111150409.htm
+# date = 20210330
+Nhưng cũng có những nơi mà người thuận tay trái được coi là người may mắn, hoặc có quyền năng đặc biệt. Trên thực tế, khoa học ngày nay đã giải thích việc thuận tay trái không có gì là bất thường.
+Điều thú vị là có khoảng 1/10 trong chúng ta thuận tay trái. Từ xưa đến nay, đa số mọi người vẫn thường thuận tay phải. Bằng chứng khoa học cho thấy tổ tiên chúng ta từ xa xưa, cách đây từ 7 triệu năm, cũng thường dùng tay phải để làm việc như là ném đá, hái quả.
+Vì sao chúng ta thường sử dụng một tay thạo hơn tay kia?
+Càng sử dụng tay nào thì chúng ta càng thuận tay đó. Dường như việc liên tục sử dụng một tay để làm một việc cụ thể như viết, vẽ, ném bóng thì bộ não càng có xu hướng điều khiển tay đó làm việc tốt hơn. Tương tự như vậy, nếu bạn thường đá bóng bằng một chân nào thì càng ngày chân đó càng đá bóng giỏi hơn.
+Nhưng không phải chỉ có tay và chân mới có thói quen "thuận", mà ngay cả bộ não cũng thế. Ví dụ: khả năng nói, làm toán, vẽ tranh thường do một bên não điều khiển tốt hơn bên kia. Thuận tay nào cũng liên quan đến phía não điều khiển khả năng nói. Ví dụ: nếu bán cầu não trái của bạn điều khiển khả năng nói của bạn, thì bạn là người thuận tay phải, và ngược lại.
+Mối liên hệ giữa chức năng của não và việc thuận tay nào chính là lý do vì sao có người thuận tay phải, có người thuận tay trái.
+Khi nào thì một người bắt đầu có thói quen thuận tay nào?
+Việc bạn thuận tay nào không phải là lựa chọn của bạn, mà thường là do sự kết hợp của gene với trải nghiệm cuộc sống thực tế. Điều thú vị là những người sinh đôi, mặc dù có gene giống hệt nhau, vẫn có lúc thuận tay khác nhau.
+Cha mẹ thường nhận ra con mình thuận tay nào khi trẻ khoảng 2 tuổi. Tuy nhiên, các nhà khoa học có thể đoán trước một cách chính xác là đứa trẻ nằm trong bụng mẹ sau này sẽ thuận tay nào bằng cách theo dõi xem thai nhi cử động tay nào nhiều hơn.
+Phạm Hường
+Theo The Conversation

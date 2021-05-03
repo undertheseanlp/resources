@@ -1,57 +1,12 @@
 # doc_id = news_sport_207
-# url = https://dantri.com.vn/the-thao/psg-12-man-city-6-phut-gio-dao-chieu-20210429020010443.htm
-# date = 20210429
-Man City nhập cuộc tự tin trên sân của PSG, đội khách lấn lướt trong những phút đầu. Tuy nhiên, PSG nhanh chóng đẩy lùi đội khách và uy hiếp khung thành của Ederson. Phút 15, Marquinhos đánh đầu tung lưới Man City từ quả phạt góc mở tỉ số. Sau khi có bàn thắng mở tỉ số, các cầu thủ PSG chơi rất hay, họ vượt trội hơn hẳn Man City về số lần dứt điểm, đáng tiếc các chân sút của đội chủ nhà không thể gia tăng tỉ số.
-Đoàn quân của Guardiola chỉ có một cơ hội ghi bàn tốt trong hiệp một. Tình huống diễn ra ở phút 42, Foden khá thoải mái dứt điểm ở đầu vòng cấm địa, anh lại sút bóng thẳng vào vị trí của Navas. Khoảng thời gian nghỉ giữa hai hiệp giúp Man City lấy lại tinh thần, họ bước vào hiệp hai với lối chơi pressing tầm cao.
-PSG khá bối rối trước lối chơi pressing của đối thủ, khung thành của Navas được yên ổn tới phút 64. Xuất phát từ quả treo bóng sâu của De Bruyne, vô tình bóng đi vào lưới (có phần lỗi của thủ thành Navas) giúp Man City gỡ hòa 1-1. 7 phút sau, Man City vượt lên dẫn 2-1 với bàn thắng cũng rất may mắn khi hai cầu thủ chủ nhà làm hàng rào đã làm lộ khoảng trống để Mahrez sút bóng xuyên qua đó.
-Bị Man City dẫn bàn, các cầu thủ PSG mất kiểm soát, nổi nóng thể hiện thông qua những pha vào bóng chặt chém. Kết quả Gueye nhận thẻ đỏ trực tiếp ở phút 77. Chơi thiếu người PSG không thể vùng lên, họ ngậm ngùi nhận thất bại 1-2 trên sân nhà.
-Phút 90+4: Hết giờ.
-Phút 90+4: De Bruyne dứt điểm căng từ đầu vòng cấm, Navas chạm tay đẩy bóng vọt xà, Man City được hưởng quả phạt góc.
-Phút 90+2: Neymar treo bóng vào trong vòng cấm từ quả đá phạt, nhưng cầu thủ Man City đã phá bóng thành công.
-De Bruyne nhận thẻ vàng.
-Phút 87: Foden cầm bóng xộc thẳng từ trung lộ vào trong vòng cấm. Cú vẩy má ngoài chân trái của anh đưa bóng đi thẳng vào vị trí của Navas.
-Phút 86: PSG gây sức ép lớn với trọng tài trong tình huống vào bóng của De Bruyne với Danilo, nhưng trọng tài chỉ rút thẻ vàng và cảnh cáo ngược lại các cầu thủ nhà.
-Phút 84: Mahrez dứt điểm vội vàng từ đầu vòng cấm địa, bóng ăn nhiều lên mu chân trái và đi chệch cột dọc khung thành PSG ở bên phải.
-Gueye nhận thẻ đỏ trực tiếp vì lỗi nguy hiểm.
-Phút 83: PSG tiếp tục thay người, Herrera vào thay Paredes.
-Phút 80: PSG thay người, Di Maria nhường chỗ cho Danilo.
-Phút 77 - Thẻ đỏ: Gueye phải nhận thẻ đỏ trực tiếp khi thực hiện cú đạp vào mặt sau ống chân, gần phía mắt cá của Gundogan. Một lỗi xứng đáng nhận thẻ đỏ của tiền vệ bên phía PSG.
-Phút 74: Neymar nhận thẻ vàng vì phạm lỗi không bóng với Dias.
-Các cầu thủ Man City ăn mừng bàn thắng của Mahrez.
-Phút 71 - Bàn thắng: Mahrez đá phạt xuyên hàng rào đưa bóng vào góc trái. Navas bất ngờ nên không kịp cản phá. Lỗi thuộc về các cầu thủ làm hàng rào của PSG.
-Phút 70 : Paredes nhận thẻ vàng do phạm lỗi với Foden ở trước vòng cấm.
-Các cầu thủ Man City ăn mừng bàn thắng may mắn của De Bruyne
-Phút 64 - Bàn thắng: Từ khu vực bên trái, De Bruyne tạt bóng vào giữa vòng cấm, dường như thủ thành Navas nghĩ rằng sẽ có cầu thủ chạm đầu nên không lao ra đấm bóng. Bóng đi sâu không dành cho ai và lăn thẳng vào góc phải cầu môn.
-Phút 61: Man City đưa Zinchenko vào thay Cancelo.
-Phút 61: De Bruyne tung người móc bóng ở trung tâm vòng cấm địa trong tư thế quay lưng lại khung thành. Bóng đi vọt xà.
-Phút 57: Di Maria băng vào đánh đầu từ quả phạt góc, bóng đi không chính xác.
-Di Maria đi bóng vượt qua hai cầu thủ Man City.
-Phút 56: Mbappe đẩy bóng qua Stones ở bên phải, anh căng ngang cắt mặt khung thành, Verratti lao vào đệm bóng nhưng hụt, bóng đập người Stones ở gần cột dọc trái nảy ra ngoài.
-Phút 47: De Bruyne đá phạt ở bên phải cho Man City nhưng các cầu thủ PSG đã đánh đầu phá bóng.
-Phút 46: Man City giao bóng.
-Neymar thi đấu xông xáo trong hiệp thi đấu thứ nhất.
-Phút 45+1: Hết hiệp 1
-Phút 42: Cơ hội tuyệt vời ghi bàn cho Man City. Đội khách lấy được bóng khi đẩy cao đội hình, Silva chuyền bóng cho Foden thoải mái dứt điểm ở đầu vòng cấm. Đáng tiếc cú sút chân trái tuy mạnh nhưng lại đưa bóng đi thẳng vào vị trí của Navas. Thủ thành của PSG đã cản bóng thành công.
-Mitchel Bakker - hậu vệ phải của PSG.
-Phút 40: Neymar ngã trong vòng cấm địa Man City sau tình huống va chạm với Mahrez nhưng trọng tài không cắt còi.
-Phút 35: Mahrez cố gắng cầm bóng lao lên bên phải, anh đã bị ngăn chặn và bóng đi hết biên ngang. Man City đang tấn công tốt bên cánh phải, nơi có Silva và Mahrez, trong khi cánh trái với Foden và De Bruyne lại không ổn.
-Phút 31: Silva chuyền bóng của Mahrez đánh đầu hướng về phía cột dọc xa, Paredes đã hỗ trợ thủ thành Navas phá bóng cứu thua.
-Pha bứt tốc của Mbappe.
-Phút 30: Cancelo phải nhận thẻ vàng do tình huống phạm lỗi với Mbappe.
-Phút 28: Paredes đánh đầu từ cú đá phạt góc của Neymar, bóng đi ra ngoài khung thành của Man City.
-Phút 27: Di Maria đá phạt góc rất khó chịu với đội khách, bóng xoáy vào sát cầu môn, Ederson đã chọn giải pháp đấm bóng giải nguy.
-Phút 21: Silva thoát xuống đệm bóng một chạm ở gần cột dọc phải khung thành PSG, thủ thành Navas đẩy bóng ra ngoài chịu phạt góc.
-Marquinhos đánh đầu ghi bàn mở tỉ số.
-Phút 15 - Bàn thắng: Marquinhos đánh đầu từ quả phạt góc đưa bóng vào góc trái khung thành của Man City, thủ thành Ederson chôn chân đứng nhìn bàn thua.
-Phút 13: Neymar phối hợp với đồng đội rồi dứt điểm ở trung tâm vòng cấm địa. Bóng đi tầm cao, Ederson tung người đẩy bóng vọt xà.
-Phút 10: Paredes va chạm với Walker ở giữa sân khiến hậu vệ của Man City bị đau. Trọng tài không cho rằng tiền vệ PSG đã cố tình đập đối thủ nên không thổi phạt.
-Walker cầm bóng dâng cao.
-Phút 3: Neymar tung ra cú dứt điểm từ bên trái trong vòng cấm địa về phía khung thành của Man City. Bóng đi nhẹ nên thủ thành Ederson đã dễ dàng bắt gọn.
-Phút 1: PSG giao bóng.
-2h00 - Trận đấu bắt đầu.
-Đội hình ra sân
-PSG: Navas, Florenzi, Marquinhos (c), Kimpembe, Bakker, Gueye, Paredes, Di Maria, Verratti, Neymar, Mbappe.
-Man City: Ederson, Walker, Stones, Dias, Cancelo, Rodri, Gundogan, De Bruyne, Mahrez, Bernardo, Foden
-Pháo sáng đã được các cổ động viên PSG sử dụng để thị uy.
-Cổ động viên của PSG diễu hành trước trận đấu bán kết Champions League.
-Hạo Minh
+# url = https://dantri.com.vn/the-thao/rafael-nadal-hung-phan-sau-khi-vao-tu-ket-barcelona-open-20210423094915115.htm
+# date = 20210423
+Đây là lần đầu tiền Nadal trải qua hai trận liền phải thi đấu ba set tại Barcelona Open. Trước đó ở vòng hai hôm 21/4, Nadal cũng mất ba set để thắng ngược tay vợt ít tên tuổi đứng thứ 111 thế giới Ilya Ivashka 2-1 (3-6, 6-2, 6-4).
+Ở vòng ba đêm qua, Nadal khởi đầu thuận lợi khi giành cả ba break để thắng 6-0 trong set một. Nhưng sang set hai, tay vợt Tây Ban Nha liên tục mắc lỗi. Anh đánh bóng ra ngoài giúp Nishikori có break tại game thứ ba.
+Nadal giành vé vào tứ kết Barcelona Open 2021 sau chiến thắng vất vả trước Nishikori.
+Nishikori nhờ đó lấy lại sự tự tin và tiếp tục giành break ở game thứ bảy, khi tận dụng lỗi tự đánh hỏng của đối thủ để thắng lại 6-2 trong set này.
+Đến set thứ ba, Nadal giành break quan trọng khi đối thủ đánh bóng hỏng. Hạt giống số 1 của giải có break thứ hai và cũng là điểm quyết định ở game tám, khi có pha đánh thuận tay dọc dây chuẩn xác để thắng 6-2, đồng thời thắng 2-1 chung cuộc sau hơn 2 tiếng.
+Sau trận đấu, Rafael Nadal chia sẻ: "Những trận đấu như hôm nay và ở vòng trước giúp tôi cải thiện nhiều. Tôi đã không chơi những trận đỉnh cao trong thời gian dài, và hai chiến thắng tại Barcelona Open giúp tôi thêm tự tin.
+Ba trận gần nhất tôi đều phải đánh ba set và với tôi, đây là điều tích cực. Tôi cần thời gian thi đấu trên sân, cần trải qua những khoảnh khắc như thế này, và ở hai trận gần nhất tôi đã vượt qua chúng để giành chiến thắng. Tôi rất vui khi đã có mặt ở tứ kết.
+Ở vòng tứ kết Barcelona Open 2021, Nadal sẽ gặp Cameron Norrie, tay vợt người Anh vừa vượt qua hạt giống số 8 người Bỉ David Goffin.
+Thùy Anh

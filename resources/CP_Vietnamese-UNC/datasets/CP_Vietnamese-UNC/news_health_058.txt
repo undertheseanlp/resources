@@ -1,9 +1,10 @@
 # doc_id = news_health_058
-# url = https://dantri.com.vn/suc-khoe/bi-cho-hang-xom-tan-cong-be-trai-3-tuoi-rach-vung-co-thung-khi-quan-20210427114704139.htm
-# date = 20210427
-Cháu bé D.V.B. bị chó tấn công làm rách vùng cổ và thủng khí quản.
-Trước đó, vào đầu tháng 4/2021, trong lúc chơi đùa, bé D.V.B. (3 tuổi, trú tại Hà Tĩnh) không may bị chó hàng xóm cắn trúng phần cổ. Ngay sau đó, cháu bé được đưa đến bệnh viện gần nhà để xử trí, cấp cứu ban đầu; sau đó được chuyển đến Bệnh viện Sản nhi Nghệ An để tiếp tục chữa trị.
-Tại đây, các bác sĩ khoa Tai Mũi Họng nhận định vết thương vùng cổ bệnh nhi phức tạp, có thể ảnh hưởng đến tính mạng. Tiến hành nội soi khí quản ống mềm và kiểm tra vết thương, các bác sĩ xác định vết thương gây thủng khí quản của bệnh nhân, tràn khí ở vết thương. Ngay sau đó, bệnh nhi được làm sạch vết thương và khâu kín lỗ thủng khí quản.
-Bác sĩ CKI Trịnh Thanh Hưng, khoa Tai Mũi Họng (Bệnh viện Sản nhi Nghệ An) cho biết, đây là trường hợp tai nạn đặc biệt nguy hiểm khi tổn thương nằm ở khí quản, gần sát ngay bó mạch cảnh, bệnh nhi có nguy cơ tử vong cao nếu không được chẩn đoán và xử trí kịp thời.
-Bệnh nhi rất may mắn khi thương tổn chỉ gây thủng khí quản, không tổn thương mạch máu lớn và được xử trí rất nhanh, hiệu quả ngay từ đầu. Các bác sĩ khuyến cáo, những vết cắn của chó rất nguy hiểm, có thể lây truyền vi khuẩn, virus bệnh dại, đặc biệt có thể tử vong do tổn thương khí quản, mạch máu lớn vùng đầu cổ, như trường hợp của bé D.V.B.
-Nguyễn Tú
+# url = https://dantri.com.vn/suc-khoe/bi-giun-dua-chui-vao-ong-tuy-be-trai-quan-quai-dau-don-20210426170703870.htm
+# date = 20210426
+Đó là trường hợp bé trai 5 tuổi được tuyến trước chuyển đến Nhi đồng 1 với chẩn đoán Viêm tụy cấp. Mẹ bệnh nhi cho biết, một tuần qua bé đau bụng từng cơn kèm nôn ói, sau khi nôn không giảm đau, những cơn đau lại tăng lên sau khi ăn. Bé đã nằm điều trị 7 ngày tại bệnh viện tỉnh nhưng vẫn đau bụng từng cơn nên ngày 19/4 phải chuyển lên Bệnh viện Nhi Đồng 1.
+Các bác sĩ đã tiến hành nội soi gắp thành công con giun đũa chui vào ống tụy của bệnh nhi.
+Tại Nhi Đồng 1, qua siêu âm bác sĩ phát hiện giun đũa chui vào nằm toàn bộ trong ống tụy, phần đuôi giun còn di động trong tá tràng. Ngay lập tức, bệnh nhi được hội chẩn với ekip khoa Tiêu hóa để nội soi gắp giun. Các bác sĩ đã khẩn trương thực hiện nội soi dạ dày, ruột ngay trong đêm và gắp ra con giun đũa dài khoảng 15cm, vẫn còn sống.
+BS Nguyễn Thị Tố Thiên cho biết, sau nội soi bé hết đau bụng, tổng trạng tốt, đang được theo dõi sát tình trạng viêm tụy để tránh bệnh diễn tiến nặng. Phương pháp nội soi gắp thành công con giun đũa đi "lạc chỗ" đã giúp bệnh nhi giảm đến mức tối đa các biến chứng của viêm tụy cấp. Bác sĩ cho biết, nếu để trễ hơn, giun sẽ chết trong ống tụy thì khó có thể nội soi gắp ra hoàn toàn. Mặt khác, khi xác giun vôi hóa có thể gây ra viêm tụy mạn tính.
+Giun đũa là ký sinh trùng trong cơ thể người rất phổ biến trên thế giới, đặc biệt ở các nước đang phát triển, trong đó có Việt Nam. Gần đây, do tình trạng vệ sinh được cải thiện nên tỷ lệ nhiễm giun đũa có giảm nhưng vẫn hay gặp ở các vùng có điều kiện vệ sinh kém, mức sống thấp. Giun đũa có thể gây các biến chứng như tắc ruột, viêm ruột thừa cấp, ấu trùng giun lên phổi gây ho kéo dài và trong trường hợp trên giun chui vào ống tụy gây viêm tụy cấp.
+Nhiễm giun đũa có thể xuất phát từ việc ăn rau sống chưa rửa sạch, không vệ sinh tay trước khi ăn, không có hố xí hợp vệ sinh… Để tránh tình trạng này, cộng đồng cần thay đổi lối sống, giữ gìn vệ sinh sạch sẽ, xổ giun định kỳ mỗi 6 tháng cho trẻ từ một tuổi trở lên để giúp trẻ tránh khỏi những biến chứng không mong muốn do ký sinh trùng gây ra.
+Vân Sơn

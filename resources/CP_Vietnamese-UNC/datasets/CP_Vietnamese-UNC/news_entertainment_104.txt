@@ -1,13 +1,12 @@
 # doc_id = news_entertainment_104
-# url = https://dantri.com.vn/giai-tri/gabby-allen-gay-choang-khi-xoac-giua-2-cay-dua-20210416080301655.htm
-# date = 20210416
-Fans dành nhiều lời khen cho Gabby Allen khi cô chia sẻ hình ảnh cô xoạc trên hai cây dừa ở Maldives ngày 15/4 vừa qua. Ngôi sao truyền hình thực tế 28 tuổi đang tới Maldives nghỉ mát nhưng không quên tập thể dục mỗi ngày
-Gabby Allen là ngôi sao của show truyền hình ăn khách Love Island nhưng trước khi nổi tiếng, cô là huấn luyện viên thể dục. Trang Instagram cá nhân của Gabby Allen ngập tràn hình ảnh năng động và khỏe khoắn của cô
-Gabby Allen hiện sở hữu hơn 1,1 triệu lượt theo dõi trang cá nhân Instagram và cô thường xuyên chia sẻ với fans những bài tập giúp dáng đẹp, cơ thể khỏe mạnh
-Gabby Allen sở hữu thân hình rất khỏe khoắn và mạnh mẽ. Cô thường xuyên tư vấn cho fans những bài tập để giúp cải thiện số đo ba vòng
-Người đẹp tóc vàng cho biết, bí quyết quan trọng để có vóc dáng chuẩn là ăn uống khoa học và lành mạnh
-Người đẹp kêu gọi fans tránh xa đường, đồ ăn chế biến sẵn, ăn ít tinh bột và nhiều rau củ quả
-Gabby Allen ăn nhiều trứng, rau cải bó xôi, cá, lườn gà, thịt nạc, đậu phụ, quả bơ...
-Cô thường tập gym 5 buổi/ tuần kết hợp cả tập yoga và vũ đạo.
+# url = https://dantri.com.vn/giai-tri/gia-dinh-kardashian-giau-co-nao-20210407183437788.htm
+# date = 20210407
+Kylie Jenner - Cô út của gia đình Kardashian - Jenner mới 24 tuổi đã sở hữu khối tài sản ước chừng 900 triệu USD. Kylie Jenner kiếm bộn tiền chỉ trong vài năm trở lại đây nhờ việc kinh doanh mỹ phẩm. Kylie Jenner từng lọt Top những tỷ phú tự thân của Forbes nhưng sau đó cô bị Forbes tố cáo "gian lận" doanh thu bán hàng và loại tên Kylie khỏi danh sách tỷ phú. Dù có phải là tỷ phú hay không thì sự giàu có đáng nể của Kylie Jenner là không thể phủ nhận. Mới 24 tuổi, Kylie Jenner đã có trong tay nhiều siêu biệt thự trị giá hàng chục triệu USD, cô có cả bộ sưu tập siêu xe, máy bay riêng và tủ đồ hiệu trị giá hàng triệu USD.
+Bà Kris Jenner - "chị đại" của gia đình Kardashian sở hữu khối tài sản ước chừng 190 triệu USD. Bà Kris nhận lương khủng của các con với tư cách là người quản lý chính thức. Bà Kris cũng đóng vai trò là nhà sản xuất show truyền hình của gia đình Keeping Up with the Kardashians trong nhiều năm. Gần đây bà Kris còn lấn sân kinh doanh hóa mỹ phẩm và cũng bước đầu gặt hái thành công.
+Kim Kardashian vừa chính thức gia nhập câu lạc bộ "tỷ đô". Khối tài sản của người đẹp "siêu vòng ba" chưa đầy 800 triệu USD vào tháng 10 năm ngoái và nay đã lên tới 1 tỷ USD. Kim Kardashian kiếm bộn tiền từ việc kinh doanh thời trang, mỹ phẩm. Cô cắt giảm chi phí quảng cáo nhờ việc quảng bá ngay trên trang Instagram cá nhân của mình. Người đẹp siêu vòng ba có cuộc sống xa hoa đáng ngưỡng mộ. Kim Kardashian là tỷ phú và chồng cũ của cô - Kanye West cũng vậy, cặp đôi mới chia tay và Kim hiện dồn sức cho việc kinh doanh cũng như chăm sóc bốn đứa con nhỏ
+Caitlyn Jenner - chồng cũ của bà Kris Jenner - Người đã chuyển giới thành phụ nữ sau khi ly dị vợ cũng sở hữu khối tài sản "khủng" trị giá 100 triệu USD. Caitlyn Jenner kiếm tiền từ show truyền hình thực tế về đời tư, các hợp đồng quảng cáo và lời mời dự sự kiện. Caitlyn Jenner hiện vẫn giữ mối quan hệ tốt với vợ cũ và các con.
+Khloe Kardashian sở hữu khối tài sản ước chừng 50 triệu USD. Thu nhập của Khloe tới từ việc kinh doanh thời trang. Khloe khá thành công khi cộng tác thiết kế đồ Jeans, giày dép... với nhãn hiệu Good American. Cô cũng nhận cát sê "khủng" từ show truyền hình thực tế về gia đình
+Kourtney Kardashian sở hữu khối tài sản ước chừng 45 triệu USD. Cô chị cả của gia đình kiếm tiền từ show truyền hình của gia đình, công ty làm đẹp Poosh. Ngoài ra cô còn có khá nhiều lời mời quảng cáo trên trang cá nhân.
+Siêu mẫu Kendall Jenner cũng sở hữu khối tài sản ước chừng 45 triệu USD. Thu nhập của người đẹp cao 1,78m tới từ show truyền hình thực tế về gia đình nhưng đó chỉ là phần nhỏ trong tổng thu nhập của người đẹp. Kendall Jenner là một trong những siêu mẫu hàng đầu thế giới. Cô quảng cáo cho hàng chục thương hiệu thời trang lớn nhỏ và là vơ đét tại các tuần lễ thời trang danh tiếng.
 Vĩnh Ngọc
-Theo DM
+Theo JJ

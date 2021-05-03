@@ -1,16 +1,59 @@
 # doc_id = news_entertainment_167
-# url = https://dantri.com.vn/giai-tri/nam-dien-vien-lo-mieng-noi-chuyen-nhay-cam-cua-cha-me-khi-nhan-giai-oscar-20210426112337467.htm
-# date = 20210426
-Lễ trao giải Oscar 2021 đã kết thúc trong sáng nay 26/4. Theo đó, chiến thắng trong hạng mục Nam diễn viên phụ xuất sắc đã thuộc về Daniel Kaluuya với diễn xuất trong bộ phim Judas and the Black Messiah. Trong phim, anh vào vai Fred Hampton - chủ tịch Đảng Báo đen ở Chicago. Vai diễn trong phim đã mang về cho Daniel Kaluuya tượng vàng Oscar đầu tiên trong sự nghiệp.
-Trước lễ trao giải Oscar 2021, Daniel Kaluuya đã thâu tóm nhiều giải thưởng điện ảnh khác gồmQuả cầu Vàng, BAFTA, SAG và được đánh giá là ứng viên sáng giá nhất cho giải thưởng này.
-Daniel Kaluuya gửi lời cảm ơn bố mẹ đã sinh ra mình một cách khá nhạy cảm ngay khi lên sân khấu nhận giải Oscar đầu tiên trong sự nghiệp.
-Daniel Kaluuya, sinh năm 1989, là một diễn viên người Anh. Anh bắt đầu sự nghiệp diễn xuất từ khi còn là một cậu bé tuổi teen với những dòng phim truyền hình dài tập của Anh. Ngôi sao da màu bắt đầu nổi tiếng khi đảm nhiệm vai Bingham "Bing" Madsen trong tập phim Black Mirror của show Fifteen Million Merits.
-Năm 2017, Kaluuya được giới chuyên môn đánh giá xuất sắc khi tham gia bộ phim Get Out và giành luôn đề cử Nam diễn viên xuất sắc nhất tại Oscar. Năm 2018, anh tiếp tục gây ấn tượng với lối diễn xuất tự nhiên trong Black Panther.
-Khi bước lên sân khấu nhận giải, Daniel Kaluuya đã rất hạnh phúc. Anh gửi lời cảm ơn đạo diễn, đồng nghiệp và ê-kíp thực hiện bộ phim Judas and the Black Messiah. Anh cũng nhắc đến vai diễn đã mang lại cho anh giải thưởng Oscar 2021.
-Daniel Kaluuya nhận giải Nam diễn viên phụ xuất sắc nhất tại Oscar 2021.
-Nếu mọi chuyện chỉ dừng lại ở đó, có lẽ, bài phát biểu của Daniel sẽ không trở thành tâm điểm của truyền thông và mạng xã hội. Nam diễn viên sinh năm 1989 đã nói: "Cảm ơn cuộc sống. Không thể tin được rằng bố mẹ tôi đã quan hệ và sinh ra tôi. Nhờ vậy, giờ tôi có mặt ở đây. Tối nay tôi sẽ ăn mừng vì điều đó".
-Những chia sẻ của Daniel đã khiến mẹ ruột và em gái của anh đang theo dõi lễ trao giải tại Anh xấu hổ. Trong khi em gái của nam diễn viên ôm mặt thì mẹ của anh quay sang hỏi con gái: "Trời, nó đang nói gì vậy?".
-Tại hậu trường của lễ trao giải, Daniel tỏ ra hối hận về những gì mình vừa phát biểu. Anh nói: "Tôi không nghĩ mẹ tôi sẽ vui. Mọi chuyện sẽ thế nào đây? Tôi chỉ lỡ miệng. Mẹ tôi có lẽ sẽ gửi tin nhắn mắng tôi mất. Nhưng không sao, mọi chuyện cũng xảy ra rồi. Tôi biết mình không nên nói ra điều đó". Anh cũng chia sẻ sẽ không động tới điện thoại một thời gian để mọi chuyện "lắng đi".
-Hiện, bài phát biểu sau khi nhận giải của Daniel Kaluuya và biểu cảm của người thân nam diễn viên đang trở thành chủ đề thịnh hành trên mạng xã hội. Nhiều khán giả cũng đánh giá đây là khoảnh khắc hài hước và thú vị nhất trong lễ trao giải Oscar 2021.
-Mi Vân
-Theo USAToday
+# url = https://dantri.com.vn/giai-tri/ngay-ay-va-bay-gio-cua-dan-my-nhan-cang-ngam-cang-me-trong-tay-du-ky-20210408234255357.htm
+# date = 20210408
+Hơn 30 năm sau khi bộ phim được thực hiện và phát sóng, Tây Du Kýcùng dàn diễn viên của phim vẫn luôn đọng mãi trong ký ức người yêu điện ảnh thế hệ 7x, 8x và 9x. Dàn diễn viên trẻ đẹp với kỹ năng diễn xuất điêu luyện, trang phục, hóa trang, đạo cụ, kỹ xảo... được dàn dựng kỳ công, so với điện ảnh châu Á lúc bấy giờ, đã làm nên thành công cho bộ phim. Ngoài 5 "thầy trò" Đường Tăng, dàn mỹ nhân của Tây Du Ký cũng khiến nhiều thế hệ khán giả yêu thích.
+Quốc Vương Nữ Nhi Quốc - Châu Lâm
+Quốc Vương Nữ Nhi Quốc do Châu Lâm thể hiện
+Quốc Vương Nữ Nhi Quốc của Châu Lâm được đánh giá là mỹ nhân đẹp nhất Tây Du Ký năm 1986.
+Nhân vật Quốc Vương Nữ Nhi Quốc do nữ diễn viên Châu Lâm thủ vai được đánh giá là nữ diễn viên đẹp nhất trong Tây Du Ký bản năm 1986. Trong phim, bà vào vai Tây Lương Nữ Nhi Quốc, mẫu nghi thiên hạ. Khi Đường Tăng đi qua vương quốc của mình, bà đem lòng cảm mến Đường Tăng ngay trong lần đầu gặp gỡ và ngỏ ý muốn kết duyên cùng ông. Song, Đường Tăng vẫn một lòng hướng Phật, từ chối lời cầu hôn của bà và xin hẹn kiếp sau.
+Sự si mê cùng tấm lòng của nữ quốc vương do Châu Lâm thể hiện từng khiến nhiều thế hệ khán giả xúc động. Vẻ đẹp đoan trang và phóng khoáng, pha chút ngọt ngào của nữ diễn viên Châu Lâm khiến vai diễn của cô trong Tây Du Ký trở thành kinh điển. Trong nhiều cuộc bình chọn sau này, Tây Lương Nữ Nhi Quốc của Châu Lâm được xem là mỹ nhân đẹp nhất trong bộ phim Tây Du Ký bản năm 1986.
+Dung nhan hiện tại của Châu Lâm vẫn khiến nhiều người xao xuyến.
+Hằng Nga - Khâu Bội Ninh
+Trong Tây Du Ký, nhân vật Hằng Nga xuất hiện không nhiều, chủ yếu trong một vài đại lễ của thiên đình hay khi Bát Giới bị phạt hoặc giáng trần thu phục thỏ ngọc. Ở bản phim năm 1986, nhân vật Hằng Nga do nữ diễn viên múa Khâu Bội Ninh đóng. Đây được xem là một sự lựa chọn thông thái của đạo diễn. Gương mặt xinh đẹp, hình thể cuốn hút và những cảnh múa của Hằng Nga dao Bội Ninh thể hiện đều được đánh giá là trọn vẹn.
+Nhân vật Hằng Nga do Khâu Bội Ninh thể hiện
+Nhan sắc Khâu Bội Ninh hiện tại
+Phiên bản Hằng Nga của Khâu Bội Ninh cũng được đánh giá là kinh điển nhất khi thể hiện xuất sắc khí chất thần tiên của nhân vật. Diễn xuất của Bội Ninh thoát tục, duyên dáng và nhẹ nhàng tựa khói sương. Nhân vật Hằng Nga của Khâu Bội Ninh cũng liên tiếp góp mặt trong top 10 mỹ nhân của Tây Du Ký năm 1986.
+Trong cả cuộc đời, vai diễn Hằng Nga là vai diễn điện ảnh đầu tiên cũng là duy nhất của Khâu Bội Ninh. Từ năm 2016, nữ diễn viên không còn hoạt động trong ngành nghệ thuật nữa, cô lui về chăm sóc gia đình và giữ chức tổng giám đốc của một tập đoàn.
+Quan Âm Bồ Tát - Tả Đại Phân
+Tạo hình nhân vật Quan Âm Bồ Tát của Tả Đại Phân trong "Tây Du Ký"
+Vai diễn Quan Âm Bồ Tát trong Tây Du Ký được xem là vai diễn "đo ni đóng giày" cho Tả Đại Phân. Trong phim, đây là một nhân vật từ bi, đoan trang, mọi lời nói và hành động của bà đều toát lên vẻ thoát tục. Tả Đại Phân đến với Tây Du Ký khi đã ngoài 30 tuổi. Vai diễn Quan Âm Bồ Tát đã giúp bà trở thành một ngôi sao và thuận lợi trong con đường phát triển sự nghiệp.
+Tả Đại Phân từng đảm nhận chức Phó chủ tịch hiệp hội kịch Hồ Nam, ủy viên Hội nghị Hiệp thương chính trị Hồ Nam, Phó chủ tịch Hội thanh niên tỉnh Hồ Nam. Những năm gần đây, bà về quê sinh sống và trở nên kín tiếng. Sau hơn 30 năm, bà Tả Đại Phân vẫn mang thần thái của nhân vật Quan Âm Bồ Tát năm nào. Bà được truyền thông và người hâm mộ gọi là Bồ Tát hiển linh và được xem là một trong những diễn viên thể hiện vai Quan Âm Bồ Tát thành công nhất trong lịch sử điện ảnh.
+Nữ diễn viên Tả Đại Phân hiện tại
+Chuột Tinh - Thường Thanh
+Chuột Tinh tên đầy đủ là chuột tinh mũi vàng lông trắng, con gái nuôi của Thác Tháp Lý Thiên Vương. Gặp Đường Tăng đi ngang qua nơi ở, Chuột Tinh nhanh chóng ép Đường Tăng phải thành thân với mình nhưng không thành. Cuối cùng, nhân vật Chuột Tinh bị Lý Thiên Vương xuống tận nơi thu phục, nhốt vào bảo tháp.
+Nhân vật Chuột Tinh do Thường Thanh đảm nhiệm
+Thể hiện vai diễn Chuột Tinh và gợi cảm, lanh lẹ này chính là nữ diễn viên Thường Thanh. Từ trang điểm cho đến y phục của nhân vật đều toát lên thần thái kiều diễm lẫn tính cách của chuột tinh, vừa mềm mại vừa nham hiểm.
+Sau khi thành công với bộ phim Tây Du Ký, Thường Thanh kết hôn và cùng gia đình sang Hà Lan định cư. Do vậy, Tây Du Ký là bộ phim duy nhất trong sự nghiệp của cô. Năm 2013, cô trở về Trung Quốc giao lưu cùng đoàn làm phim nhưng sau đó không còn tin tức.
+Ngọc Thố Tinh - Lý Linh Ngọc
+Ngọc Thố Tinh là con thỏ ngọc hàng ngày xay thuốc trên cung Quảng Hàn của Hằng Nga, tìm cách trốn xuống hạ giới và giả làm công chúa Thiên Trúc, đòi kết hôn với Đường Tăng nhằm hút nguyên dương của người. Song, âm mưu của Ngọc Thố Tinh bị Tôn Ngộ Không phát hiện và bị Hằng Nga đích thân xuống hạ giới thu phục.
+Ngọc Thố Tinh do Lý Linh Ngọc thể hiện
+Nữ diễn viên kiêm ca sĩ Lý Linh Ngọc chính là người thể hiện vai diễn này. Khi tham gia bộ phim, cô đã là một nữ ca sĩ nổi tiếng với lượng fan không nhỏ tại Trung Quốc. Lý Linh Ngọc vừa sở hữu chất giọng mê hoặc cùng vẻ ngoài kiêu sa mê đắm. Trang phục của nhân vật Ngọc Thố Tinh cũng rất phù hợp và biến Lý Linh Ngọc trở thành nữ diễn viên gợi cảm và có phong cách nhất trong Tây Du Ký.
+Ngoài việc vào vai Ngọc Thố Tinh, Lý Linh Ngọc còn thể hiện ca khúc Thiếu Nữ Thiên Trúc trong phim. Đến giờ, ca khúc vẫn được xếp vào hàng kinh điển của làng âm nhạc Trung Quốc. Lý Linh Ngọc hiện đã 58 tuổi nhưng vẫn sở hữu nhan sắc và vẻ ngoài tươi trẻ, khiến nhiều "đàn em" phải ngưỡng mộ. Giờ, Lý Linh Ngọc không còn hoạt động nhiều trong làng giải trí Hoa ngữ nên số lần bà công khai lộ diện cũng không nhiều.
+Nhân vật Ngọc Thố Tinh của Lý Linh Ngọc được xem là một trong những yêu tinh đẹp nhất màn ảnh.
+Nhan sắc của nữ diễn viên Lý Linh Ngọc hiện tại
+Ân Vân Kiều - Mã Lan
+Trong Tây Du Ký, Mã Lan đảm nhiệm vai Ân tiểu tỷ, mẹ ruột của Đường Tăng. Trong ngày tung cầu kén rể, Vân Kiều đã trao cầu cho tân trạng nguyên Trần Quang Nhụy. Trần Quang Nhụy và Ân Vân Kiều kết duyên được 100 ngày và đi hưởng trăng mật trên sông, thì bị tên lái đò hãm hại. Vân Kiều nhẫn nhục sinh con là Đường Tam Tạng. Về sau Tam Tạng dùng luật pháp trừng trị kẻ giết hại cha của ông. Thần thái và khí chất xinh đẹp của nhân vật Vân Kiều do Mã Lan thể hiện nhận được lời khen từ khán giả.
+Nhân vật Ân Vân Kiều do Mã Lan thể hiện
+Cao Thúy Lan - Ngụy Tuệ Lệ
+Cao Thúy Lan được gọi với tên Cao tiểu tỷ, con của Cao Thái Công, một đại địa chủ giàu có ở Cao gia trang. Cao Thái Công không có con trai nên muốn kén con rể nhưng không ngờ bị Trư Bát Giới quấy nhiễu. Sau nhờ thầy trò Đường Tăng thỉnh kinh ngang qua giúp đỡ, cứu Cao Thúy Lan và thu phục Trư Bát Giới.
+Nhân vật Cao Thúy Lan do Ngụy Tuệ Lệ thể hiện
+Nữ diễn viên Ngụy Tuệ Lệ thể hiện vai diễn này. Không chỉ sở hữu ngoại hình xinh đẹp, Tuệ Lệ còn diễn xuất đầy thuyết phục. Đặc biệt, cảnh phim Tôn Ngộ Không giả danh Cao Thúy Lan, giúp Tuệ Lệ thể hiện tài diễn xuất và để lại ấn tượng sâu đậm trong lòng khán giả.
+Hạnh Tiên - Vương Linh Hoa
+Hạnh Tiên do Vương Linh Hoa thể hiện
+Hạnh Tiên vốn là yêu nữ tu luyện từ cây hạnh gai trên đỉnh núi cao mà thành. Hạnh Tiên sở hữu một vẻ đẹp duyên dáng và tài ca hát. Gặp gỡ Đường Tăng khi ông đi ngang qua nơi ở của mình, Hạnh Tiên đã nảy sinh tình cảm, muốn kết duyên vợ chồng cùng Đường Tăng. Sau đó Hạnh Tiên bị Trư Bát Giới đánh chết. Trên màn ảnh nhỏ, Hạnh Tiên do nữ diễn viên Vương Linh Hoa thể hiện. Vẻ ngoài kiều diễm và thướt tha của cô rất phù hợp với hình tượng nhân vật trong nguyên tác.
+Linh Linh - Hà Tình
+Nhân vật Linh Linh do Hà Tình thể hiện
+Nữ diễn viên Hà Tình vẫn duy trì được vẻ đẹp tới hiện tại
+Nhân vật này do Linh Cát bồ tát hóa thân, kết hợp cùng ba vị bồ tát khác nhằm thử lòng thầy trò Đường Tăng. Trong phim, nhân vật này do nữ diễn viên Hà Tình thể hiện. Bà là nữ diễn viên duy nhất xuất hiện trong cả 4 bộ phim chuyển thể từ 4 tác phẩm văn học kinh điển - Tứ đại kỳ thư. Không chỉ sở hữu nhan sắc nổi bật, Hà Tình còn được khen khi thể hiện xuất sắc nét đẹp hồn nhiên, hoạt bát của nhân vật.
+Ngọc Diện Hồ Ly - Trịnh Ích Bình
+Ngọc Diện Hồ Ly hay còn gọi là Cửu Vỹ Hồ Ly, vốn là cáo mặt ngọc. Trước khi chết cáo vương nghìn tuổi đã tặng lại viên minh châu, yêu cầu ả tìm người có đủ năng lực và trung thành để dựa dẫm. Ngọc Diện Hồ Ly chọn làm tình nhân của Ngưu Ma Vương và sau bị Bát Giới đánh chết.
+Ngọc Diện Hồ Ly do Trịnh Ích Bình thể hiện
+Nét đẹp hài hòa, thần sắc ổn định khiến cho nhân vật Ngọc Diện Hồ Ly dù đáng trách nhưng vẫn khiến khán giả thương nhớ mất một thời gian dài. Trong phim, nhân vật này do nữ diễn viên Trịnh Ích Bình đóng. Từ dung mạo đến trang phục của cô đều được khen phù hợp với nhân vật.
+Sau Tây Du Ký, Trịnh Ích Bình tham gia một số bộ phim cổ trang rồi biến mất khỏi làng giải trí. Có thông tin cho rằng, cô đã ra nước ngoài và có cuộc sống viên mãn.
+Vạn Thánh công chúa - Trương Thanh
+Vạn Thánh công chúa là con gái của Vạn Thánh long vương. Cô kết hợp với Cửu đầu trùng phò mã đánh cắp bảo vật trên bảo tháp và sau bị BátGiới đánh chết. Nữ diễn viên Trương Thanh được giao đảm nhiệm nhân vật này. Sở hữu gương mặt tuyệt sắc, làn da hồng hào, hàm răng trắng bóng, Trương Thanh được khen là đệ nhất mỹ nữ trong giới thần tiên.
+Trương Thanh vào vai Vạn Thánh công chúa
+Vai diễn Vạn Thánh công chúa còn giúp Trương Thanh trở thành ngôi sao nổi tiếng. Từ đây, cô nhận được nhiều lời mời đóng chính trong các bộ phimđiện ảnh và truyền hình. Tuy nhiên, vào năm 1990, khi sự nghiệp diễn xuất rực rỡ nhất, Trương Thanh bất ngờ quyết định tạm biệt làng giải trí để tập trung chăm sóc gia đình và công việc kinh doanh.
+Từ năm 1997, người đẹp mở công ty chuyên về may mặc, làm ăn phát đạt và trở thành nữ tỷ phú. Vai diễn cuối cùng trong sự nghiệp của cô là Võ Tắc Thiên trong bộ phim truyền hình Thượng Quan Uyển Nhi. Cô vào vai nhân vật Võ Tắc Thiên từ khi còn trẻ tới năm 80 tuổi.
+Trương Thanh giờ không còn hoạt động nghệ thuật thường xuyên và là một tỷ phú thành đạt.
+Mi Vân (Tổng hợp)

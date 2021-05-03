@@ -1,7 +1,7 @@
 # doc_id = news_education_130
 # url = https://dantri.com.vn/giao-duc-huong-nghiep/hoc-phi-vao-cac-nganh-cua-dh-quoc-gia-ha-noi-nam-nay-bao-nhieu-20210421114233152.htm
 # date = 20210421
-Học phí năm học 2021-2022 (dự kiến) vào 12 trường, khoa thành viên của ĐH Quốc gia Hà Nội như sau: 
+Học phí năm học 2021-2022 (dự kiến) vào 12 trường, khoa thành viên của ĐH Quốc gia Hà Nội như sau:
 STT
 Tên trường thành viên/khoa trực thuộc ĐHQGHN
 Mức Học phí CTĐT chuẩn
@@ -52,7 +52,7 @@ Khoa Các khoa học liên ngành
 Năm 2021 ĐH Quốc gia Hà Nội mở 7 ngành học mới
 GS.TSKH Nguyễn Đình Đức, Trưởng Ban Đào tạo ĐHQGHN cho biết, tuyển sinh năm 2021, ĐH Quốc gia Hà Nội (ĐHQGHN) tiếp tục phát triển các ngành/CTĐT theo hướng liên ngành, xuyên ngành nhằm cung cấp nguồn nhân lực chất lượng cao đáp ứng nhu cầu xã hội, với 7 ngành mới mở được tuyển sinh trong năm 2021, bao gồm: ngành Quản trị Nhân lực và Nhân tài; ngành Quản trị và An ninh thuộc Khoa Quản trị và Kinh doanh; ngành Quản trị thương hiệu, ngành Quản trị tài nguyên và di sản thuộc Khoa Các khoa học liên ngành; ngành Ngôn ngữ Anh; ngành Tự động hóa và Tin học thuộc Khoa Quốc tế và ngành Khoa học và Kỹ thuật máy tính thuộc Trường Đại học Việt Nhật.
 Năm 2021, ĐH Quốc gia Hà Nội (ĐHQGHN) tuyển sinh 11.250 chỉ tiêu, với 135 ngành/CTĐT (chuẩn, chất lượng cao, tài năng, tiên tiến) thuộc các lĩnh vực: Khoa học tự nhiên, Khoa học Xã hội và nhân văn, Công nghệ - Kỹ thuật, Kinh tế - Luật, Y - Dược, Khoa học giáo dục và đào tạo giáo viên với các phương thức xét tuyển tương tự năm 2020 với 3 phương thức, cụ thể:
- - Xét tuyển thẳng theo Quy định của Bộ GD&ĐT, Quy định đặc thù trong đào tạo bậc THPT chuyên của ĐHQGHN và Hướng dẫn tuyển sinh đại học chính quy năm 2021 của ĐHQGHN; 
+- Xét tuyển thẳng theo Quy định của Bộ GD&ĐT, Quy định đặc thù trong đào tạo bậc THPT chuyên của ĐHQGHN và Hướng dẫn tuyển sinh đại học chính quy năm 2021 của ĐHQGHN;
 - Xét tuyển thí sinh có kết quả kỳ thi THPT năm 2021 đạt ngưỡng đảm bảo chất lượng đầu vào do ĐHQGHN quy định;
 - Xét tuyển theo các phương thức khác:
 Thí sinh có chứng chỉ quốc tế của Trung tâm Khảo thí Đại học Cambridge, Anh (gọi tắt là chứng chỉ A-Level): Thí sinh sử dụng chứng chỉ A-Level có kết quả 3 môn thi trong đó bắt buộc có môn Toán hoặc Ngữ văn theo các tổ hợp quy định của ngành đào tạo tương ứng đảm bảo mức điểm mỗi môn thi đạt từ 60/100 điểm trở lên (tương ứng điểm C, PUM range ≥ 60).

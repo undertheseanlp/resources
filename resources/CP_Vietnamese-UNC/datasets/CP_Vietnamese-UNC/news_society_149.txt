@@ -1,17 +1,21 @@
 # doc_id = news_society_149
-# url = https://dantri.com.vn/xa-hoi/hai-phong-dung-to-chuc-le-hoi-hoa-phuong-do-20210428203921093.htm
-# date = 20210428
-TP Hải Phòng không tổ chức Lễ hội Hoa phượng đỏ 2021 để phòng chống dịch.
-Thành ủy Hải Phòng vừa có văn bản chỉ đạo các cơ quan chức năng không tổ chức 3 lễ hội lớn gồm: Lễ hội Hoa phượng đỏ 2021; Liên hoan du lịch "Đồ Sơn - Sắc màu của biển 2021" và Khai mạc du lịch Cát Bà 2021.
-Đây cũng là động thái nhằm thực hiện yêu cầu của Thường trực Ban Bí thư, ngày 27/4 và Công điện số 541/CĐ-TTg, ngày 23/4 của Thủ tướng Chính phủ về tiếp tục tăng cường công tác phòng, chống dịch bệnh này.
-Cụ thể, Thành ủy Hải Phòng giao Ban cán sự đảng UBND TP chỉ đạo rà soát việc tổ chức các sự kiện, lễ hội, hoạt động tập trung đông người, nhất là trong kỳ nghỉ lễ 30/4 và 1/5 và kỷ niệm Ngày giải phóng Hải Phòng. Căn cứ tình hình dịch bệnh quyết định không tổ chức các hoạt động chưa thực sự cần thiết; trường hợp tổ chức, phải thực hiện nghiêm các biện pháp phòng, chống dịch theo quy định.
-Lễ hội Hoa phượng đỏ là lễ hội quy mô lớn, được tổ chức thường niên vào dịp kỷ niệm Ngày giải phóng Hải Phòng (13/5/1955).
-Năm nay, Hải Phòng dự kiến tổ chức lễ hội này từ ngày 11 đến 13/5, với chủ đề "Hải Phòng - Điểm đến thành công" chào mừng kỷ niệm 66 năm Ngày giải phóng Hải Phòng. Tuy nhiên, do yêu cầu phòng chống dịch nên TP này không thực hiện như kế hoạch.
-Liên quan đến công tác phòng chống dịch, Ban Thường vụ Thành ủy cũng yêu cầu đơn vị liên quan thực hiện nghiêm các chỉ đạo của Trung ương và Thành ủy; tuyệt đối không lơ là, chủ quan, mất cảnh giác trong phòng, chống dịch bệnh, nhất là trong các ngày nghỉ lễ 30/4 và 1/5, kỷ niệm Ngày giải phóng Hải Phòng và chuẩn bị bầu cử đại biểu Quốc hội khóa XV và Hội đồng nhân dân các cấp nhiệm kỳ 2021-2026.
-Lễ hội Hoa phượng đỏ là lễ hội lớn, được tổ chức thường niên ở TP Hải Phòng.
-Bí thư cấp ủy, Chủ tịch UBND các cấp, thủ trưởng các sở ngành, đơn vị chịu trách nhiệm trực tiếp chỉ đạo thực hiện công tác phòng, chống dịch bệnh, chịu trách nhiệm trước Ban Thường vụ Thành ủy và cấp ủy cấp trên về các hoạt động phòng chống dịch trên địa bàn, phạm vi quản lý.
-Tăng cường tuyên truyền, khuyến cáo, vận động người dân hạn chế đến nơi tập trung đông người có nguy cơ lây lan dịch bệnh; tự giác khai báo và phát hiện những trường hợp trở về từ vùng dịch, không khai báo y tế.Tăng cường công tác kiểm tra, xử lý, xử phạt những tổ chức, cá nhân vi phạm các quy định về phòng, chống dịch bệnh Covid-19.
-Thành ủy Hải Phòng giao Công an thành phố chỉ đạo công an các đơn vị, địa phương kiểm soát chặt chẽ, kịp thời phát hiện những trường hợp nhập cảnh, nhất là nhập cảnh trái phép từ vùng có dịch để đưa đi cách ly tập trung và xử lý theo quy định. Tăng cường công tác kiểm tra, quản lý dân cư, kịp thời phát hiện, xử lý các trường hợp người đến từ vùng có dịch cư trú trên địa bàn.
-Bộ Chỉ huy Quân sự thành phố chuẩn bị lực lượng, phương tiện, sẵn sàng phối hợp với ngành y tế, các địa phương, đơn vị trong công tác phòng, chống dịch bệnh, trước hết là chuẩn bị các khu cách ly tập trung, tham gia các chốt kiểm soát liên ngành.
-Bộ đội Biên phòng Hải Phòng tăng cường tuần tra, kiểm soát chặt chẽ biên giới trên biển, cảng biển, ngăn chặn tình trạng nhập cảnh trái phép.
-An Nhiên
+# url = https://dantri.com.vn/xa-hoi/hang-tram-cay-go-tai-cong-truong-go-lau-bi-dot-tau-tan-duoi-long-ho-20210426202217985.htm
+# date = 20210426
+Ngày 25/4, bên trong hồ thủy điện Sê San 4, hàng loạt cột khói bốc lên ngùn ngụt từ các ốc đảo. Nhiều khúc gỗ to bị cháy sém nằm la liệt trên mặt đất. Còn những thân gỗ có giá trị kinh tế thì bị đẩy xuống nước. Toàn bộ công cụ dùng để xẻ gỗ, kéo gỗ tại các "công trường" đều biến mất.
+Dù lực lượng chức năng đã vào bảo vệ hiện trường nhưng bãi tập kết gỗ khủng vẫn bị đốt và tẩu tán.
+Trên những ốc đảo trong lòng hồ Sê San, cách đây hơn 2 ngày, PV Dân trí vẫn còn phát hiện "công trường" tập kết gỗ tròn và gỗ xẻ hộp trái phép. Thời điểm đó, Hạt Kiểm lâm huyện Ia Grai và Đồn biên phòng Ia O (xã Ia O, huyện Ia Grai, Gia Lai) đã cử lực lượng đến kiểm tra. Sau đó, lực lượng chức năng đã đưa hơn 200 khúc gỗ xẻ hộp từ các đảo về đất liền.
+Phát hiện sự việc, Hạt Kiểm lâm huyện Ia Grai và Đồn biên phòng Ia O còn cắt cử người ở lại để bảo vệ gỗ tại hiện trường. Tuy nhiên, một điều lạ, cũng trong thời gian này, hàng trăm thân gỗ to đã bị đốt hoặc đẩy xuống mặt nước.
+Trước sự việc trên, chúng tôi liên hệ với Đại tá Trần Thanh Bình - Phó Chỉ huy trưởng Bộ đội biên phòng tỉnh Gia Lai thì nhận được câu trả lời rằng, đơn vị này đã cử lực lượng bảo vệ nghiêm hiện trường để tránh việc tẩu tán gỗ.
+"Đến giờ này, báo chí phản ánh tình trạng đốt, tẩu tán tang vật thì chúng tôi mới biết. Việc này, tôi sẽ kiểm tra lại và thông tin sau", Đại tá Trần Thanh Bình nói.
+Đại tá Bình cho biết, trên vùng biên giới ở Sê San 4 có hơn 10 ốc đảo lớn nhỏ. Với việc chậm trễ phát hiện bãi tập kết, khai thác gỗ trái phép, đơn vị này xin nhận trách nhiệm. Tuy nhiên, theo Đại tá Bình cũng có lý do khách quan dẫn tới sự việc là do phương tiện, thiết bị tuần tra bằng đường thủy của đơn vị còn thiếu nên lực lượng ít tuần tra.
+"Chúng tôi đang thực hiện nhiệm vụ kép trên biên giới nên lực lượng bị phân tán. Trước những thông tin như vậy, chúng tôi sẽ điều tra, xử lý và làm rõ trách nhiệm của lực lượng có liên quan với phương châm không có vùng cấm", Đại tá Bình nói.
+Tiếp nhận thông tin gỗ ở các "công trường" trái phép giữa lòng hồ bị đốt, tẩu tán, ông Siu Nghiệp - Chủ tịch UBND xã Ia O cho biết, sáng 26/4, đơn vị này đã đi kiểm tra nhưng chỉ phát hiện được một số bìa gỗ, vụn cưa, chứ không thấy thân gỗ tại hiện trường.
+"Với những khúc gỗ theo phản ánh đã bị tẩu tán dưới lòng sông, anh em chúng tôi không có điều kiện lặn xuống để kiểm tra. Đối với việc quản lý lâm sản, chính quyền chỉ phối hợp, còn nhiệm vụ chính vẫn là kiểm lâm, biên phòng", ông Siu Nghiệp nói thêm.
+Dưới đây là một số hình ảnh tại "công trường" gỗ trái phép:
+Hình ảnh "công trường" tập kết gỗ lậu khi mới phát hiện và sau đó bị đốt, tẩu tán.
+Hàng trăm khúc gỗ bị đốt cháy và đẩy xuống sông chỉ sau một đêm.
+Rất nhiều thân gỗ lớn bị đốt cháy.
+Khúc gỗ khủng bị xẻ làm nhiều mảnh.
+Một khúc gỗ được giấu dưới lòng hồ.
+Tất cả các điểm tập kết gỗ trái phép trên các đảo đều bị đốt, dọn sạch chỉ sau một ngày đêm.
+Nhóm phóng viên

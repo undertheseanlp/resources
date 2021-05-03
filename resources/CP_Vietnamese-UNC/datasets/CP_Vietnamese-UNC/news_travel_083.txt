@@ -1,11 +1,22 @@
 # doc_id = news_travel_083
-# url = https://dantri.com.vn/du-lich/dao-dat-xay-nha-bat-ngo-tim-thay-vang-va-ruby-khien-moi-nguoi-do-den-xem-20210409120319172.htm
-# date = 20210409
-Khoảng 11h sáng ngày 8/4/2021, khi thợ đang đào đất để xây dựng nhà trên mảnh đất rộng 4,45ha của ông Narasimha (doanh nhân bất động sản ở làng Pembarthi, Ấn Độ) thì phát hiện một hũ dưới đất.
-Bên trong chiếc hũ có chứa nhiều món đồ làm bằng vàng và bạc được chôn ở độ sâu khoảng 0,6m. Ngay sau đó, người đàn ông này đã báo cáo sự việc với cơ quan chức năng.
-Sau khi nhận được tin báo, cơ quan chức năng địa phương đã thu hồi các đồ vật có giá trị trong chiếc hũ. Doanh nhân Narashimha cũng được yêu cầu không được tiếp tục đào bới hay xây dựng công trình cho đến khi có chỉ thị tiếp theo.
-Trong hũ có 22 hoa tai bằng vàng, 51 hạt cườm vàng và các đồ vật bằng vàng khác, 26 thỏi bạc, 5 dây chuyền bằng bạc và các đồ dùng bằng bạc khác. Ngoài vàng và bạc, trong hũ còn có ruby. Tổng trọng lượng vàng là 189.820g và bạc là 1.727g.
-Theo báo chí Ấn Độ, những món đồ này được cho là có từ thời vương triều Kakatiya ở thế kỷ 12-14. Nếu như chính quyền tiến hành khai quật các mảnh đất khác trong làng có thể tìm thấy nhiều đồ có giá trị được cất giấu dưới đất từ xa xưa.
-Trước đây, một số băng nhóm đã tiến hành khai quật bất hợp pháp nhằm tìm được kho báu ở ngôi làng nói trên.
-Phương Hà
-Theo Timesnow
+# url = https://dantri.com.vn/du-lich/den-noi-lon-rung-di-theo-dan-thong-dong-dao-pho-ma-khong-ai-bat-thit-20210423081955456.htm
+# date = 20210423
+Từ sau đại dịch, những đường phố vắng vẻ thu hút ngày càng nhiều các loài động vật hoang dã tới kiếm ăn. Đối với những người dân của thành phố Haifa, bắt gặp lợn rừng hoang dã thả bước cùng gia đình trên vỉa hè là một cảnh tượng quá quen thuộc.
+Một đàn lợn đang qua đường ở Haifa.
+Vào năm 2019, người dân tại thành phố này đã báo cáo 1.328 lần nhìn thấy heo rừng cho chính quyền thành phố - nhiều hơn gần 40% so với tổng số năm 2015.
+Thời gian gần đây, số lượng lợn rừng "di cư" vào thành phố ngày càng tăng, gây ra không ít phiền toái cho cuộc sống của người dân.
+Một cư dân đang cho lợn ăn.
+Anh Eugene Notkov một đầu bếp 35 tuổi thường cho chó chơi đùa với lợn rừng trong công viên cho biết bắt gặp lợn rừng chỉ như "nhìn thấy một con sóc" và "nó trở thành chuyện thường ngày.
+"Chúng là một phần của thành phố". Lợn rừng lục tung thùng rác, ngủ trên đường phố, chơi với chó nhà,…tất cả đều là những cảnh tượng thường gặp.
+Lợn đang đào đất ở một bãi cỏ nhà riêng.
+Nhiều người cho rằng nguyên nhân khiến lợn rừng "di cư" vào thành phố là do trận hỏa hoạn lớn đã phá hủy môi trường sống tự nhiên ở những khe núi quanh Haifa.
+Một số người khác lại tin rằng lệnh cấm săn bắn lợn rừng của chính quyền làm số lượng lợn rừng tăng cao và môi trường sống tự nhiên không còn đủ chỗ và đủ thức ăn.
+Tuy nhiên, các nhà khoa học lại cho rằng thức ăn thừa ở thùng rác các khu dân cư là đặc điểm thu hút lợn rừng ở lại.
+Người dân phải xích thùng rác ngăn lợn rừng lục lọi.
+Tình trạng kéo dài khiến một số người dân cho rằng chính quyền cần làm gì đó để chấm dứt tình trạng hỗn loạn này, đã có rất nhiều trường hợp lợn rừng đuổi và tấn công người, bới rác bừa bãi khắp nơi, xới tung vườn tược.
+Nhiều người còn vô cùng lo lắng về việc lợn rừng có thể mang theo dịch bệnh hoặc virus có hại tới trẻ nhỏ.
+Lợn xuất hiện ở đường phố theo từng đàn.
+Giáo sư Malkinson, người đã nghiên cứu lợn rừng trong nhiều năm và thậm chí theo dõi chúng bằng vòng cổ gắn thiết bị GPS, tự hỏi liệu những con lợn rừng vào thành phố có thực sự là vấn đề lớn nhất của Haifa hay không.
+Tranh cãi xung quanh việc lợn rừng vào thành phố có vẻ như không xuất phát từ nỗi lo về thiên nhiên mà từ những xung đột xã hội.
+Hằng Đoàn
+Theo The New York Times

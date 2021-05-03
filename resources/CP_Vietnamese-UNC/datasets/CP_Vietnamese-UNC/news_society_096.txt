@@ -1,11 +1,26 @@
 # doc_id = news_society_096
-# url = https://dantri.com.vn/xa-hoi/dang-tin-vung-tau-cam-tam-bien-mot-phu-nu-bi-xu-phat-20210501075303699.htm
-# date = 20210501
-Hàng nghìn người đã đổ về biển Vũng Tàu vào ngày 30/4 sau khi cơ quan chức năng bác tin "Vũng Tàu cấm tắm biển" (Ảnh: Hải Vân Vũng Tàu).
-Ngày 1/5, Công an thị xã Phú Mỹ đã phối hợp với Phòng An ninh chính trị nội bộ, Công an tỉnh Bà Rịa - Vũng Tàu (BR-VT) đã làm việc với bà P.T.H. (người địa phương) về hành vi đăng tải thông tin không đúng sự thật lên mạng xã hội Facebook.
-Trước đó, ngày 29/4, bà H. sử dụng tài khoản Facebook cá nhân đăng tải bài viết "Vũng Tàu cấm tắm biển" có nội dung TP Vũng Tàu đã huy động hơn 200 người gồm các lực lượng Cảnh sát trật tự, CSGT, Đội trật tự đô thị, để tuyên truyền nhắc nhở, ngăn chặn người dân xuống tắm biển.
-Trong bài viết này, bà H. còn đăng kèm một số hình ảnh về lực lượng chức năng TP. Vũng Tàu đang làm nhiệm vụ tại khu vực Bãi Trước. Sau khi đăng tải, bài viết đã được cộng đồng mạng chia sẻ rộng rãi, gây hoang mang dư luận. Sau đó, bà H. đã chủ động xóa bài viết này.
-Tại buổi làm việc, bà H. thừa nhận thông tin mà bản thân đăng tải là không đúng sự thật, gây hoang mang dư luận. Cơ quan chức năng đã yêu cầu bà H. đính chính thông tin, đồng thời củng cố hồ sơ để xử lý theo Nghị định của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực bưu chính, viễn thông, tần số vô tuyến điện, công nghệ thông tin và giao dịch điện tử.
-Sở Du lịch và lãnh đạo UBND TP. Vũng Tàu khẳng định không cấm tắm biển như thông tin xuyên tạc trên mạng xã hội.
-Theo Trung tâm quản lý và hỗ trợ khách du lịch TP Vũng Tàu, trong ngày 30/4, lượng khách đến Vũng Tàu ước khoảng 70.200 lượt, tăng gấp gần 5 lần so với sáng cùng ngày. So với cùng kỳ, năm nay do ảnh hưởng của dịch Covid-19 và thông báo UBND tỉnh ngưng tổ chức các sự kiện tập trung đông người nên lượng khách giảm.
-Trung Kiên
+# url = https://dantri.com.vn/xa-hoi/dich-covid-19-phuc-tap-lanh-dao-tp-ha-noi-goi-cdc-chay-may-khong-duoc-20210430183410590.htm
+# date = 20210430
+Thông tin nêu trên được Phó Chủ tịch UBND TP Hà Nội Chử Xuân Dũng, Trưởng Ban Chỉ đạo công tác phòng, chống dịch bệnh nêu ra tại cuộc họp chiều nay (30/4).
+Quang cảnh buổi họp chiều 30/4 (Ảnh: Nguyễn Trường).
+Hà Nội cần lưu ý các trường hợp có hiện tượng sốt
+Tại cuộc họp, PGS.TS Trần Đắc Phu - Nguyên Cục trưởng Cục Y tế Dự phòng, Cố vấn cao cấp Trung tâm Đáp ứng khẩn cấp sự kiện y tế công cộng Việt Nam - đánh giá cao công tác phòng, chống dịch của TP Hà Nội. Tuy nhiên, ở giai đoạn hiện tại, Hà Nội cần lưu ý thêm tình hình dịch bệnh các nước trong khu vực Đông Nam Á vì Tổ chức Y tế thế giới đã có lời cảnh báo.
+"Các nước trong khu vực do nóng lòng dỡ bỏ các giải pháp chống dịch, cho phép tập trung đông người… nên e rằng chu kỳ dịch sẽ bùng phát ở Đông Nam Á" - ông Phu nói.
+Theo PGS.TS Trần Đắc Phu, Hà Nội cần đặc biệt lưu ý bất cứ ai có hiện tượng sốt do là nơi có đặc thùgiao lưu giữa các tỉnh thành rất là lớn; thực hiện nhanh việc truy vết các trường hợp F1, F2. "Khó cũng phải làm và phải 'chạy nhanh' nếu không sẽ có rất nhiều ca bệnh" - ông Phu khuyến cáo.
+Trong khi đó, bà Nguyễn Thị Liên Hương - Cục trưởng Cục Quản lý môi trường (Bộ Y tế) đề nghị, ngoài việc khẩn trương truy vết các trường hợp tiếp xúc gần 2 ca mắc Covid-19 ở huyện Đông Anh, cơ quan y tế cần coi toàn bộ lao động trong phân xưởng là F1.
+"Lý do chính là vì các công ty điện tử đều sử dụng điều hòa trung tâm. Đồng thời, người lao động tiếp xúc rất nhiều vào giờ ăn trưa, giờ nghỉ giải lao nên đặc biệt lưu ý để truy vết kịp thời" - bà Hương cho hay.
+Phó Chủ tịch UBND TP Hà Nội Chử Xuân Dũng tại buổi họp chiều 30/4 (Ảnh: Nguyễn Trường).
+Truy vết thần tốc để bắt kịp mức độ lây lan
+Kết luận cuốibuổi họp, Phó Chủ tịch UBND TP Hà Nội Chử Xuân Dũng nêu lại bối cảnh tình hình dịch bệnh đang diễn ra hết sức phức tạp trên địa bàn Thủ đô. Đặc biệt đã có 3 ca mắc Covid-19 (ở huyện Đông Anh) liên quan đến trường hợp ở Hà Nam.
+Vì vậy, ông Dũng yêu cầu các cơ quan liên quan tiếp tục nâng cao công tác phòng, chống dịch bệnh. Tập trung cao độ, thần tốc truy vết và không bỏ sót bất cứ trường hợp nào.
+"Chậm giờ nào thì việc đuổi bắt kịp mức độ lây lan càng khó khăn. Truy vết F1, F2 và thực hiện nghiêm cách ly tập trung F1. Cách ly F2 tại nhà phải có sự giám sát nghiêm để khi các F1 thành F0 thì ta có danh sách liên quan để xét nghiệm" - ông Dũng cho hay.
+Đáng chú ý, sau khi nhắc về việc xét nghiệm Covid-19 đối với các trường hợp tiếp xúc gần, nghi ngờ mắc Covid-19, lãnh đạo UBND TP Hà Nội yêu cầu lãnh đạo Sở Y tế nhắc nhở việc lãnh đạo Trung tâm Kiểm soát bệnh tật (CDC) Hà Nội phải tham gia đầy đủ các buổi họp.
+"Liên hệ anh (lãnh đạo CDC Hà Nội - PV) rất khó. Lúc 'nước sôi lửa bỏng' thế này mà không gọi được. Thấy có cuộc gọi nhỡ không gọi lại. Rất là lạ! Nếu không báo cáo đầy đủ tôi sẽ có ý kiến" - ông Dũng khẳng định.
+Tiếp tục chỉ đạo về công tác phòng dịch, lãnh đạo UBND TP Hà Nội cho biết, các cơ quan liên quan cần đánh giá mức độ, phạm vi phong tỏa để tránh ảnh hưởng tới người dân.
+Đặc biệt, trong quá trình phong tỏa phải quản lý chặt chẽ, không được để lây chéo và đảm bảo các gia đình cách ly độc lập nhau; xử lý nghiêm các trường hợp thực hiện không đúng việc phòng, chống dịch; bắt buộc người dân đi ra khỏi nhà phải đeo khẩu…
+Hà Nội "khuyên" Cảng vụ hàng không miền Bắc mua máy đo thân nhiệt
+Tham gia buổi họp phòng chống dịch bệnh chiều nay theo hình thức trực tuyến, đại diện Cảng vụ hàng không miền Bắc cho biết đang tích cực triển khai các biện pháp, đặc biệt là yêu cầu hành khách phải khai báo y tế.
+Sau đó, vị này cho biết đã có văn bản gửi Sở Y tế và CDC Hà Nội đề nghị tiếp tục hỗ trợ máy đo thân nhiệt tự động để phục vụ công tác phòng dịch vì khối lượng hành khách đi tàu bay rất lớn.
+Tuy nhiên, Phó Chủ tịch UBND TP Hà Nội Chử Xuân Dũng đã nhắc nhở việc khai báo y tế mà đơn vị này đang thực hiện. "Chiều đi đã thực hiện rất tốt nhưng ở chiều các địa phương về Hà Nội thì lại không kiểm soát khai báo y tế" - ông Dũng nói.
+Về đề nghị hỗ trợ máy đo thân nhiệt, ông Dũng "khuyên" Cảng vụ hàng không miền Bắc nên chủ động. "Sở Y tế có việc của Sở y tế. Mình là 1 cơ quan kinh doanh. Nếu sân bay đóng cửa thì mình thiệt hại hơn nhiều. Lúc cần kíp thì thành phố hỗ trợ nhưng bình thường thì phải chủ động" - ông Dũng nói.
+Nguyễn Trường

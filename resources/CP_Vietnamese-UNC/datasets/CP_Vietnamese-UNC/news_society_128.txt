@@ -1,13 +1,9 @@
 # doc_id = news_society_128
-# url = https://dantri.com.vn/xa-hoi/ha-noi-chi-hon-100-ty-dong-khoac-ao-moi-cho-ho-guom-20210430102618675.htm
-# date = 20210430
-UBND quận Hoàn Kiếm cho biết, hệ thống đèn chiếu sáng một số khu vực quanh hồ Hồ Gươm như tháp Rùa, kè hồ, đường dạo... đã xuống cấp, hư hỏng, cường độ chiếu sáng giảm. Do vậy, việc đầu tư, cải tạo hệ thống chiếu sáng khu vực xung quanh Hồ Gươm để đồng bộ hạ tầng kỹ thuật, nâng cao giá trị cảnh quan di tích là rất cần thiết.
-Thiết kế sơ bộ chia ra4 vùng chiếu sáng xung quanh hồ , gồm mặt nước hồ (bao gồm cả tháp Rùa); từ kè hồ tới mép vỉa hè; đường giao thông xung quanh hồ; các công trình kiến trúc xung quanh hồ.
-Đối với các di tích như tháp Rùa, cầu Thê Húc, đền Ngọc Sơn, các cây di sản đều được thiết kế riêng sao cho hệ thống chiếu sáng đảm bảo màu sắc tự nhiên của các vật thể có màu sắc, kiến trúc.
-Quận Hoàn Kiếm đang lấy ý kiến chuyên gia để hoàn thiện dự án.
-Quận Hoàn Kiếm cho biết, dự án chiếu sáng trang trí xung quanh khu vực Hồ Gươm sẽ sử dụng hệ thống đèn LED tiên tiến, tuổi thọ cao, có chuyển sáng theo mùa và được điều khiển bằng điện tử.
-Quận Hoàn Kiếm cũng đang xin ý kiến của các chuyên gia, nhà khoa học để hoàn thiện dự án trên. Theo Viện trưởng Viện Quy hoạch Kiến trúc đô thị - Trường ĐH Xây dựng Doãn Minh Khôi, nghệ thuật chiếu sáng cần nhiều kỹ thuật nhưng không khó, tính mỹ thuật mới khó. "Theo tôi có những công trình biểu tượng không nên thay đổi nhiều về tông màu như tháp Rùa, cầu Thê Húc", ông Khôi nói.
-Còn theo nhà sử học Dương Trung Quốc, không gian Hồ Gươm có 3 giá trị để tôn vinh. Cụ thể đó là mặt hồ, cây xanh và những dấu tích kiến trúc cổ. "Quận Hoàn Kiếm nên lấy tháp Rùa làm điểm nhấn, tôn vinh những cây di sản, làm đèn xung quanh các đường đi dạo dẫn đường. Đặc biệt, làm sao để thể hiện sự trầm mặc của lịch sử những có lúc vẫn thể hiện được sự rực rỡ trong những ngày lễ hội", ông Quốc nêu quan điểm.
-Chủ tịch UBND quận Hoàn Kiếm Phạm Tuấn Long cho biết, đơn vị này sẽ tiếp thu đầy đủ các ý kiến góp ý của các chuyên gia, nhà khoa học, đại diện các sở ngành để hoàn thành hồ sơ thiết kế trình cấp có thẩm quyền phê duyệt.
-Ông Long khẳng định, việc thiết kế hệ thống chiếu sáng chắc chắn phải đảm bảo việc bảo tồn, phát huy các giá trị di sản của Hồ Gươm, hài hòa với hệ thống cây xanh, mặt nước, đáp ứng yêu cầu quy hoạch, chương trình cải tạo chỉnh trang đô thị của thành phố.
-Quang Phong
+# url = https://dantri.com.vn/xa-hoi/ha-noi-cong-an-tim-nhan-chung-vu-tai-nan-khien-nguoi-di-xe-may-tu-vong-20210427073025796.htm
+# date = 20210427
+Hiện trường vụ tai nạn tối 12/4 vừa qua (Ảnh: Công an cung cấp).
+Cụ thể, khoảng 21h tối 12/4, anh Vũ Huy Thành (SN 1987, ở Thanh Xuân, Hà Nội) điều khiển xe ô tô mang BKS 29A-876.04 đi trên đường Lê Đức Thọ, đến quảng trường sân vận động Mỹ Đình thì va chạm với xe máy mang BKS 17B6-541.04 do Phạm Văn Linh (SN 2000, Thái Thụy, Thái Bình) điều khiển.
+Sau va chạm, nạn nhân Phạm Văn Linh bị thương tích nặng, được anh Vũ Huy Thành đưa đi cấp cứu và trình báo cơ quan công an.
+Đến ngày 20/4, nạn nhân Linh đã tử vong tại nhà riêng.
+Trước sự việc trên, Cơ quan Cảnh sát điều tra Công an quận Nam Từ Liêm đề nghị ai biết thông tin về nội dung, diễn biến vụ tai nạn nêu trên hãy liên hệ với đơn vị này hoặc điều tra viên Lâm (chiến sĩ Đội Điều tra tổng hợp) qua số điện thoại: 0978.623.271 để giải quyết.
+Nguyễn Trường

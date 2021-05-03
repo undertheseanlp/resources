@@ -1,18 +1,17 @@
 # doc_id = news_world_057
-# url = https://dantri.com.vn/the-gioi/bom-no-lien-tiep-o-myanmar-giao-tranh-du-doi-tai-bien-gioi-voi-thai-lan-20210501195446885.htm
-# date = 20210501
-Người biểu tình tại thành phố Yangon, Myanmar hồi tháng 3 (Ảnh: Reuters).
-Ngày 1/5, một số vụ nổ bom xảy ra ở thành phố lớn nhất của Myanmar là Yangon, trong khi người biểu tình vẫn đang tổ chức các cuộc tuần hành chớp nhoáng nhằm phản đối cuộc đảo chính quân sự diễn ra tròn 3 tháng trước.
-Hàng nghìn người đã xuống đường kể từ ngày 1/2 tới nay để phản đối việc quân đội giành quyền điều hành đất nước từ tay chính phủ dân cử. Khoảng gần 760 người đã thiệt mạng trong phong trào biểu tình những tháng qua khi quân đội áp dụng biện pháp mạnh để giải tán các đám đông.
-Hôm nay, tại Yangon - trung tâm thương mại và là nơi phong trào biểu tình diễn ra dữ dội nhất, các cuộc tuần hành đã được tổ chức trong thời gian ngắn nhằm tránh đụng độ với cảnh sát, quân đội.
-Tại thị trấn Insein, Yangon, một quả bom đã phát nổ vào lúc 10 giờ sáng gần một trường học. "Lực lượng an ninh đã tới kiểm tra khu vực có bom nổ, nhưng tôi chỉ quan sát từ nhà vì lo rằng mình sẽ bị bắt", một nhân chứng nói với AFP.
-Tới chiều, 2 vụ nổ bom khác xảy ra ở Yankin. "Tôi nghe thấy tiếng nổ từ nơi sinh sống, tôi đã nghĩ đó là tiếng sấm", một người dân nói với AFP, cho biết các vụ nổ đã khiến lực lượng an ninh lo ngại.
-Hiện chưa có thông tin về thương vong liên quan tới các vụ nổ. Chưa bên nào lên tiếng nhận trách nhiệm về vụ việc.
-Giao tranh biên giới Myanmar - Thái Lan dữ dội
-Bangkok Post đưa tin, người dân sống ở 2 ngôi làng tại tỉnh Mae Hong Son, Thái Lan - nơi nằm sát biên giới với Myanmar - đã phải di tản vì giao tranh dữ dội giữa quân đội Myanmar và các nhóm vũ trang dân tộc thiểu số.
-Bộ Ngoại giao Thái Lan hôm 30/4 cho biết, 220 người dân ở các khu vực như Mae Sam Laep, Sop Moei, Mae Yuam, Mae Sariang đã phải đi di tản. Trước đó, giao tranh đã nổ ra quyết liệt giữa nhóm vũ trang dân tộc thiểu số Myanmar "Quân đội giải phóng quốc gia Karen" và "Liên minh quốc gia Karen" với quân đội chính phủ.
-Một dân thường Thái Lan bị bắn và phải nhập viện.
-Phía Thái Lan cũng cho biết, 2.267 người Myanmar đã chạy sang nước này xin tị nạn vì giao tranh diễn ra dữ dội. Chính quyền đã sắp xếp cơ sở cách ly cho họ ở Mae Sariang.
-Giới chức Thái Lan cho hay, nếu giao tranh không khép lại sớm, họ sẽ lên kế hoạch đưa người tị nạn Myanmar tới một khu vực ổn định hơn để giúp họ tiếp tục duy trì cuộc sống. Quân đội Thái Lan hiện vẫn đang hỗ trợ những người tị nạn và sẽ thông báo cho chính quyền nếu cần sự giúp đỡ.
+# url = https://dantri.com.vn/the-gioi/buc-tuong-nhay-cam-hung-bao-chi-trich-o-trung-quoc-20210419172900957.htm
+# date = 20210419
+Bức tượng gây tranh cãi (Ảnh: Weibo).
+Theo SCMP, bức tượng dường như mô phỏng cảnh bú sữa đã bị dỡ bỏ tại một công viên ở đông Trung Quốc sau khi nó bị dư luận phản đối dữ dội.
+Công viên Yingpanshan ở Hồ Châu, tỉnh Chiết Giang cho biết với báo Xi'an Business Times rằng, sau hàng loạt tranh cãi, chính quyền đã vào cuộc và yêu cầu họ bỏ bức tượng đi.
+Một du khách đã phát hiện bức tượng vào tuần trước và gửi lời phàn nàn tới công viên. Các bức ảnh và video về bức tượng đã lan truyền trên mạng xã hội, làm bùng nổ những chỉ trích rằng nó không phù hợp.
+Trước khi tượng bị dỡ bỏ, công viên Yingpanshan cho rằng "những người phàn nàn về bức tượng còn trẻ và không hiểu gì về lòng hiếu thảo".
+Các nhân viên của công viên nói rằng bức tượng dựa trên cuốn "Nhị thập tứ hiếu" - một tác phẩm kể lại sự tích của 24 tấm gương hiếu thảo dùng để răn dạy các giá trị về đạo đức của Nho giáo. Cuốn sách do Quách Cư Nghiệp vào thời nhà Nguyên biên soạn.
+"Nếu chúng ta không cho phép thể hiện 24 tấm gương hiếu thảo, vậy thì những giá trị hiếu thảo của Trung Quốc sẽ ở đâu?", người đại diện phía công viên lý giải về bức tượng trước khi nó bị dỡ bỏ.
+Trong cuốn sách, câu chuyện con dâu cho mẹ chồng bú sữa dựa trên chuyện có thật về một nhân vật thời nhà Đường đã nuôi mẹ chồng bằng sữa của mình vì bà cụ đã mất hết răng.
+Tuy nhiên, dư luận Trung Quốc đã phản đối mạnh mẽ bức tượng, cho rằng nó không phù hợp với những giá trị ở xã hội hiện đại.
+"Trong thời đại này, các bạn có thể tưởng tượng cảnh tượng như vậy không? Nó khiến mọi người không thoải mái và khiến những đứa trẻ có thể hiểu sai", một cư dân mạng viết.
+"Chúng ta không nhất thiết phải làm theo mọi thứ theo truyền thống, chúng ta có thể giữ những cái tốt và phù hợp", một người khác cho hay.
+Quan niệm về lòng hiếu thảo có vai trò quan trọng trong văn hóa Trung Quốc thời cổ đại. Bên cạnh có hiếu với cha mẹ, giai cấp thống trị thời đó cũng có những quy tắc về việc trung thành với bề trên.Tuy nhiên, một số câu chuyện trong "Nhị thập tứ hiếu" giờ đây được xem đã không phù hợp và thậm chí đôi khi tiêu cực ở thời điểm hiện tại.
 Đức Hoàng
-Theo AFP, Bangkok Post
+Theo SCMP

@@ -1,12 +1,10 @@
 # doc_id = news_travel_092
-# url = https://dantri.com.vn/du-lich/doc-dao-le-bat-re-cho-con-gai-bang-14-chu-voi-khung-o-tay-nguyen-20210403180251631.htm
-# date = 20210403
-Ông Đàng Năng Long (ngụ buôn Jun, thị trấn Liên Sơn, huyện Lắk, Đắk Lắk) - người được mệnh danh là "vua voi" Tây Nguyên khi sở hữu đàn voi nhà nhiều nhất Việt Nam vừa tổ chức lễ bắt rể cho người con gái út.
-Hàng chục chú voi được sử dụng để đón cô dâu, chú rể và họ hàng đôi bên (Ảnh: Hoàng Thiên Nga).
-Ông Long cho biết, tổng cộng có 14 con voi tham gia đoàn rước rể. Trong đó, có 7 con voi của ông sở hữu và 7 con voi khác của anh em, họ hàng trong dòng tộc gia đình.
-"Đàn voi chở cô dâu, chú rể, họ hàng đôi bên di chuyển từ khách sạn ra nhà hàng đãi tiệc và dạo vòng quanh hồ Lắk tuyệt đẹp khoảng 1km. Đây là lần thứ tư chúng tôi tổ chức lễ bắt rể bằng voi, đó như truyền thống quý báu của gia đình tôi trước đến nay", ông Long chia sẻ.
-Theo ông Long, gia đình ông là đồng bào dân tộc Chăm và theo chế độ mẫu hệ do vậy các đám cưới đều tổ chức lễ bắt rể. Chàng rể thứ tư của gia đình ông sẽ theo vợ sinh sống và làm việc ở TP Hồ Chí Minh.
-Những chú voi được lựa chọn trong lễ bắt rể, trên lưng sẽ đeo tấm vải đỏ để cầu chúc đôi lứa hạnh phúc và được nài voi (người điều khiển voi - PV) sẽ ngồi phía trước để điều khiển voi di chuyển theo ý muốn.
-Khi đàn voi di chuyển di chuyển trên đường nhiều người dân, du khách đều rất thích thú và ghi lại những hình ảnh hiếm có này.
-Bên cạnh đó, trong đám cưới của con gái, ông Long còn tổ chức các nghi lễ truyền thống với những nét văn hóa đặc sắc, ấn tượng của Tây Nguyên.
-Thúy Diễm
+# url = https://dantri.com.vn/du-lich/don-gan-15-trieu-khach-du-lich-trong-quy-1-dat-doanh-thu-hon-900-ty-20210330222108274.htm
+# date = 20210330
+Theo thống kê, trong quý 1 năm 2021, lượng khách du lịch đến các khu, điểm du lịch của Hà Nam đạt 1.490.300 lượt khách, trong đó khách nội địa 1.471.300 lượt, khách quốc tế 19.000 lượt (đạt 46% kế hoạch năm). Doanh thu du lịch ước đạt hơn 900 tỷ đồng (đạt 40% so với kế hoạch năm).
+Khu du lịch Tam Chúc một trong những điểm thu hút khách du lịch.
+Theo Cục Thống kê, doanh thu dịch vụ lưu trú, ăn uống trên địa bàn tỉnh Hà Nam 3 tháng đầu năm đạt 547 tỷ đồng, tăng 12,6%; doanh thu du lịch lữ hành đạt 22,5 tỷ đồng, tăng 4,5%; doanh thu dịch vụ khác 913,9 tỷ đồng, tăng 8,5%.
+So với cùng kỳ năm 2020, tổng lượt khách các cơ sở lưu trú phục vụ tăng 25,7%, ngày khách phục vụ tăng 25,5%; lượt khách du lịch theo tour tăng 19,5%, ngày khách du lịch theo tour tăng 14,7%.
+Sở Văn hóa - Thể thao và Du lịch hướng dẫn các khu, điểm, các cơ sở lưu trú, kinh doanh dịch vụ du lịch tiếp tục triển khai các biện pháp cấp bách phòng, chống dịch bệnh Covid-19, triển khai thực hiện nghiêm các văn bản chỉ đạo của các cấp các ngành đối với công tác phòng, chống dịch bệnh Covid-19.
+Không để lây lan dịch bệnh trong hoạt động du lịch; tăng cường tuyên truyền, hướng dẫn khách du lịch và người lao động tuân thủ các biện pháp phòng, chống dịch bệnh nhằm đảm bảo an toàn, sức khỏe cho du khách, cán bộ, nhân viên, người lao động trong ngành du lịch.
+Đức Văn

@@ -1,19 +1,18 @@
 # doc_id = news_sport_112
-# url = https://dantri.com.vn/the-thao/ha-gia-lai-lo-them-tu-huyet-trong-cuoc-dua-vo-dich-v-league-20210424094648469.htm
-# date = 20210424
-Trong trận mở màn Cúp Quốc gia 2021, không khó hiểu khi HLV Kiatisuk đã sử dụng đội hình hai khi tiếp đối thủ An Giang. Những gương mặt như Văn Trường, Kiên Quyết, Đông Triều, Đức Lễ, Văn Việt, Quang Nho, Hữu Tuấn, Ngọc Quang, Việt Hưng, Đức Lương, Bảo Toàn, hầu hết đều xa lạ ở mùa giải này, khi chủ yếu ngồi trên băng ghế dự bị.
-Có lợi thế sân nhà, trong khi CLB An Giang đang thi đấu ở giải hạng Nhất, lại đứng đội sổ, việc HA Gia Lai có chiến thắng dễ dàng được nhiều người dự đoán.
-HA Gia Lai đang có khoảng cách lớn ở đội hình chính thức và dự bị.
-Thế nhưng, với đội hình gồm nhiều cầu thủ lần đầu được ra sân ở mùa giải năm nay, HA Gia Lai đã chơi thiếu nét và bế tắc. Trong suốt hiệp 1, đội chủ sân Pleiku gần như không thể làm gì được trước lối chơi chắc chắn, phòng thủ có tổ chức của đối thủ.
-Thậm chí ở giữa hiệp 2, lưới của HA Gia Lai đã bị rung lên. Các CĐV có mặt trên sân Pleiku như chết lặng khi đội nhà phải vào lưới nhặt bóng trước đối thủ không được đánh giá cao.
-Trong trận đấu, HLV Kiatisuk cũng nhiều lần phải bật cười vì những pha dứt điểm vô duyên của học trò. HA Gia Lai có cơ hội, nhưng không ai có thể ghi bàn vào lưới đội bóng hạng Nhất.
-Phải sau khi bị thủng lưới, trước nguy cơ thất bại, HLV Kiatisuk mới tung vào sân hàng loạt trụ cột, và đã tạo nên sự khác biệt. Tiền đạo vào sân thay người Nguyễn Văn Toàn đột phá vào vòng cấm của An Giang và khiến Nguyễn Phan Thế Lam lóng ngóng phạm lỗi với mình để mang về quả penalty cho đội chủ nhà. Chỉ 1 phút sau, Vũ Văn Thanh đá phạt đền chính xác gỡ hòa cho đoàn quân của HLV Kiatisuk.
-Đúng phút 90, pha xâm nhập khu cấm địa của Văn Toàn đã vô tình đưa bóng đến đúng chân của Nguyễn Trung Đại Dương và cầu thủ người Việt gốc Nigeria đã không bỏ lỡ thời cơ ấn định thắng lợi ngược dòng 2-1 cho HA Gia Lai để giúp họ đi tiếp tại cúp Quốc gia năm nay.
-Có thể nói, HA Gia Lai đã thắng một trận thót tim và có phần may mắn. Nếu không tung nửa đội hình trụ cột vào sân, có thể HLV Kiatisuk và đội bóng phố Núi phải nhận trái đắng.
-Nhiều thách thức đang đón chờ HLV Kiatisuk ở giai đoạn V-League sắp tới.
-Đi tiếp, nhưng trận thắng nhọc trước CLB An Giang của HA Gia Lai để lại nhiều vấn đề về lực lượng. Từ đầu mùa giải, đội bóng của bầu Đức thường "đóng khung" với những gương mặt quen thuộc như Xuân Trường, Văn Thanh, Công Phượng, Văn Toàn, Tuấn Linh… Những cầu thủ này đã vận hành rất tốt lối chơi của HLV Kiatisuk đưa ra.
-Tuy nhiên, khi tất cả ngồi trên băng ghế dự bị, HA Gia Lai ngay lập tức chơi như gà mắc tóc, dù đối thủ của họ chỉ là đội xếp đội sổ ở giải hạng Nhất.
-Sau trận đấu, HLV Kiatisuk cho biết ông không chủ quan khi tiếp An Giang, mà muốn trao cơ hội vào sân cho các cầu thủ ít được thi đấu. Theo chiến lược gia người Thái Lan, ở HA Gia Lai luôn có sự cạnh tranh công bằng, ai cũng được thể hiện mình để khẳng định năng lực.
-Dù không chỉ ra hạn chế của đội hình hai, nhưng có thể thấy HLV Kiatisuk có lý do để lo lắng với chất lượng "kép phụ". Với lịch thi đấu LS V-League 2021 dày đặc, chưa kể bước vào giai đoạn 2 với cuộc đua vô địch khốc liệt hơn rất nhiều, thì khoảng cách lớn giữa các cầu thủ đá chính và dự bị của HA Gia Lai chính là một "tử huyệt".
-Những đội bóng lớn ngay cả như CLB Hà Nội cũng lâm vào cảnh khó khi hàng loạt trụ cột dính chấn thương. HA Gia Lai may mắn hơn khi vẫn bảo toàn được lực lượng, nhưng trong bóng đá không thể nói trước được điều gì.
-Hoàng Quốc
+# url = https://dantri.com.vn/the-thao/ha-gia-lai-suyt-thua-soc-doi-hang-duoi-an-giang-o-cup-quoc-gia-20210423191136629.htm
+# date = 20210423
+Ở các trận đấu còn lại trong ngày 23/4, thuộc vòng 1 cúp quốc gia, B.Bình Dương bất ngờ thua đội hạng dưới Cần Thơ trong loạt sút luân lưu, SHB Đà Nẵng thắng Bà Rịa Vũng Tàu 1-0. Trong khi đó, HL Hà Tĩnh thắng đội Công An Nhân Dân 4-2, còn Phố Hiến cũng bất ngờ quật ngã SL Nghệ An bằng chiến thắng 1-0.
+Chỉ phải gặp đội hạng dưới là An Giang ở vòng 1, HLV Kiatisuk bên phía HA Gia Lai chủ động cất hầu hết các trụ cột của mình, gồm Công Phượng, Văn Toàn, thủ môn Tuấn Linh, Văn Thanh, Hồng Duy… trên băng ghế dự bị. Xuân Trường thậm chí không được đăng ký, còn Tuấn Anh dù trở lại sau chấn thương cũng tạm ngồi ngoài.
+Ngoài ra, HA Gia Lai trận này cũng không sử dụng các cầu thủ ngoại, do quy định ở Cúp Quốc gia, khi các đội thuộc V-League gặp các đội thuộc giải hạng Nhất, đôi bên không dùng cầu thủ ngoại.
+Vắng nhiều trụ cột, HA Gia Lai gặp nhiều khó khăn trong việc triển khai lối chơi. Họ cũng có một vài cơ hội trong hiệp 1, nhưng không tận dụng thành công. Đáng kể nhất là tình huống sút bóng dội cột dọc của Bảo Toàn ở giữa hiệp thi đấu thứ nhất.
+Sang hiệp 2, HLV Kiatisuk tung Tuấn Anh vào sân, hòng giúp tuyến giữa của đội bóng phố núi chơi tốt hơn. Nhưng khi mà HA Gia Lai còn chưa kịp ghi bàn, họ đã bị thủng lưới từ một tình huống rất bất ngờ.
+Phút 71, từ cánh phải, Tuấn Anh của An Giang căng ngang cho Kiên Cường đệm bóng cận thành. Thủ môn Lê Văn Trường bên phía HA Gia Lai đẩy bóng ra, nhưng Văn Hợp của đội khách kịp lao vào đá bồi, mở tỷ số 1-0 cho đội bóng miền Tây Nam bộ.
+Choáng váng sau bàn thua vừa nêu, các cầu thủ HA Gia Lai càng thêm nôn nóng, trước khi dứt điểm chệch mục tiêu khá nhiều ở các phút sau đó.
+Đến lúc này, HLV Kiatisuk buộc phải tung các trụ cột của mình gồm Văn Toàn, Văn Thanh, Minh Vương và cả cầu thủ nhập tịch Nguyễn Trung Đại Dương vào sân.
+Chính sự hiện diện của các cầu thủ vừa nêu giúp cho thế trận của HA Gia Lai thay đổi, và kết quả của trận đấu cũng dần thay đổi.
+Phút 85, Văn Toàn bị chèn ngã trong khu vực 16m50 của đội khách, và trọng tài Dương Hữu Phúc cho HA Gia Lai được hưởng phạt đền.
+Từ chấm 11m, Vũ Văn Thanh đánh bại thủ môn Thanh Nhã của đội An Giang, gỡ hòa 1-1 cho đội bóng của HLV Kiatisuk.
+Sau bàn thắng vừa nêu, HA Gia Lai tiếp tục tấn công ào ạt. Phút 87, Dụng Quang Nho dứt điểm đầy kỹ thuật ngay rìa khu vực 16m50, buộcthủ môn Thanh Nhã của đội khách phải cứu thua bằng những đầu ngón tay.
+Nhưng hàng thủ An Giang không thể đứng vững trước sức tấn công quá mạnh mẽ của đội bóng phố núi. Phút 89, Văn Toàn gây áp lực buộc thủ thành Thanh Nhã phải đẩy bóng ra, đúng đà băng xuống của Nguyễn Trung Đại Dương, trước khi cầu thủ nhập tịch này đệm bóng từ cự ly gần vào lưới trống, ấn định chiến thắng 2-1 cho HA Gia Lai.
+Vòng loại Cúp Quốc gia Bamboo Airways 2021 sẽ diễn ra trong ba ngày 23, 24 và 25/4. Lễ khai mạc sẽ diễn ra trên sân Quy Nhơn ngày 24/3, trước thềm trận đấu chủ nhà CLB Bình Định tiếp CLB Long An.
+Kim Điền

@@ -1,24 +1,18 @@
 # doc_id = news_tech_225
-# url = https://dantri.com.vn/suc-manh-so/thieu-nu-bi-bong-mat-vi-i-phone-bat-ngo-phat-no-khi-cam-sac-qua-dem-20210326112152782.htm
-# date = 20210326
-Hiện trường vụ iPhone phát nổ khi đang cắm sạc.
-Nhiều người thường cắm sạc smartphone qua đêm và để trên giường. Amie Hall, 17 tuổi, sống tại thành phố Birmingham (Anh) cũng có thói quen này, cho đến khi một sự cố bất ngờ xảy ra.
-Theo đó, cô gái 17 tuổi đã cắm sạc chiếc iPhone của mình rồi đặt thiết bị trên giường và đi ngủ. Tuy nhiên, đến khoảng 2 giờ sáng, cô đã giật mình thức giấc khi chiếc điện thoại ở dưới gối bất ngờ phát ra nhiều âm thanh và kèm theo đó là những đốm lửa màu cam.
-Amie Hall đã lập tức bật dậy khỏi giường và gọi cho mẹ. Mẹ cô đã nhanh chóng đến dập lửa phát ra từ chiếc điện thoại để ngăn nó kịp bùng lên.
-"Tôi chỉ vừa nằm xuống, chợp mắt thì bất ngờ ánh lửa màu cam lóe lên. Tôi nhanh chóng chạy ra khỏi phòng, gọi mẹ và may mắn là bà ấy đã kịp dập lửa mà không cần gọi cứu hỏa", Amie kể lại.
-Vết bỏng trên mặt Amie Hall sau vụ nổ.
-Dù kịp thời phát hiện, vụ nổ điện thoại cũng đã khiến Amie Hall bị bỏng ở mặt.
-Sau khi sự việc xảy ra, Amie Hall đã chia sẻ câu chuyện lên mạng xã hội và cảnh báo mọi người về mối nguy khi cắm sạc điện thoại qua đêm và đặt thiết bị trên giường ngủ.
-"Tôi chỉ muốn mọi người cảnh giác và thận trọng để tránh những điều tồi tệ xảy ra. Tôi đã rất sợ hãi và thực sự sốc", Amie Hall chia sẻ. "Vết bỏng rất đau, nhưng tôi biết nó có thể còn nghiêm trọng hơn".
-"Hãy cảnh giác khi bạn sạc điện thoại. Đừng sạc điện thoại qua đêm trên giường", Amie Hall cảnh báo trên trang cá nhân của mình. "Hãy nhớ rằng sự cố có thể xảy ra với bất kỳ ai và mọi chuyện có thể tồi tệ hơn. Nó rất nguy hiểm".
-Hiện vẫn chưa rõ chiếc iPhone mà Amie Hall dùng khi đó là loại gì, cũng như cô có sử dụng cáp và củ sạc chính hãng không.
-Sau khi sự việc xảy ra, đại diện của Apple cho biết đã ghi nhận và liên hệ với khách hàng để điều tra vụ việc.
-"Apple thực sự quan tâm đến sự an toàn của khách hàng. Chúng tôi đã liên hệ với khách hàng để điều tra vụ việc", một người phát ngôn của Apple cho biết.
-Trước đó, Apple đã đưa ra những lời khuyên để sạc iPhone an toàn, bao gồm việc sạc thiết bị trong không gian ẩm ướt hoặc kém thông gió có thể gây ra nguy cơ hỏa hoạn.
-Sử dụng smartphone khi đang cắm sạc là thói quen nguy hiểm chết người
-Trên thực tế, đã từng có nhiều trường hợp smartphone bốc cháy hoặc phát nổ khi đang cắm sạc, trong đó có không ít trường hợp dẫn đến tử vong. Vừa sử dụng smartphone vừa cắm sạc cũng là một thói quen nguy hiểm và có thể dẫn đến tai nạn chết người.
-Sử dụng smartphone khi đang cắm sạc là một thói quen nguy hiểm nhưng không ít người đang mắc phải.
-Nhìn chung, tai nạn giật điện hay cháy nổ pin khi sử dụng smartphone và máy tính bảng đang cắm sạc là khá hiếm, nhưng không phải là không có. Do vậy, để đề phòng và giữ an toàn cho bản thân, bạn không nên sử dụng thiết bị di động khi đang cắm sạc và chỉ sử dụng khi thực sự cần thiết; chẳng hạn như để trả lời cuộc gọi hoặc tin nhắn. An toàn nhất là bạn nên rút sạc pin trước khi chạm vào điện thoại để trả lời cuộc gọi hay tin nhắn.
-Để đảm bảo an toàn và tránh nguy cơ bị giật điện, người dùng nên cắm dây sạc vào điện thoại, sau đó mới cắm củ sạc và ổ điện. Việc này sẽ giúp tránh tình trạng bạn chạm vào điện thoại khi dây cắm đã có nguồn điện, có thể bị giật nếu thiết bị bị rò rỉ điện. Sau khi đã sạc xong, bạn cũng nên rút củ sạc khỏi ổ điện trước, thay vì rút dây cắm sạc của điện thoại ra khỏi máy.
-Ngoài ra, bạn nên sử dụng củ sạc, dây sạc chính hãng; tuyệt đối không sử dụng hàng không rõ nguồn gốc. Nếu có cảm giác bị giật điện khi chạm vào thiết bị di động đang cắm sạc, bạn nên lập tức ngắt nguồn sạc điện để tránh tai nạn cháy nổ, đồng thời mang thiết bị đến các cửa hàng điện thoại có uy tín để nhờ kiểm tra.
-T.ThủyTheo M.O/TC
+# url = https://dantri.com.vn/suc-manh-so/thong-tin-ca-nhan-co-bi-lo-neu-lam-mat-can-cuoc-cong-dan-gan-chip-20210419155317677.htm
+# date = 20210419
+Đây là câu hỏi đang được rất nhiều người dùng trên Internet đặt ra trong thời gian gần đây.
+Theo Bộ Công an, chip được thiết kế chống làm giả và chống cài đặt trái phép. Do đó, nếu có bị trộm cắp cũng không dùng được, chỉ người chủ sở hữu mới có thể sử dụng được.
+Về vấn đề này, ngay từ khi đề xuất sử dụng Căn cước công dân có gắn chip điện tử, Bộ Công an đã xây dựng phương án đảm bảo tính bảo mật thông tin được lưu trữ trên chip. Phương án này được các đơn vị chuyên môn đánh giá, nghiệm thu, đảm bảo bảo mật trước khi đưa vào phát hành sử dụng rộng rãi trong xã hội.
+Chip được thiết kế chống làm giả và chống cài đặt trái phép.
+Theo đó, chip được thiết kế chống làm giả và chống cài đặt trái phép. Do đó, nếu có bị trộm cắp cũng không dùng được, chỉ người chủ sở hữu mới có thể sử dụng được. Vì ngoài số định danh cá nhân còn có thông tin cá nhân, sinh trắc học, nhận dạng...
+"Chip có khả năng lưu trữ thông tin sinh trắc học (như dấu vân tay), cho phép xác thực đảm bảo chính xác con người. Qua đó, thông tin chủ thẻ được định danh một cách chính xác, giảm thiểu mọi nguy cơ về giả mạo thẻ, đảm bảo an toàn bảo mật nhất là trong các giao dịch tài chính", Bộ Công an cho hay.
+Thẻ CCCD có gắn chip điện tử có độ bảo mật cao, dung lượng lưu trữ lớn, cho phép tích hợp nhiều ứng dụng đi kèm như: Ứng dụng chữ ký số, hạ tầng khóa bảo mật công khai, ứng dụng sinh trắc học, ứng dụng mật khẩu một lần,… có thể được sử dụng và kết nối rộng rãi cho các dịch vụ công cộng và tư nhân.
+Đáng chú ý, khi thẻ CCCD gắn chip điện tử có tích hợp đầy đủ các thông tin, lúc đó người dân đi giao dịch và làm các thủ tục sẽ không phải mang nhiều loại giấy tờ mà chỉ cần dùng thẻ CCCD có gắn chip thì sẽ thực hiện được các giao dịch.
+Ngoài ra, việc tích hợp chip trên CCCD đem lại tính linh hoạt khi cần bổ sung hoặc sửa đổi thông tin trên thẻ sau khi phát hành bởi cơ quan Công an. Dữ liệu trên chip có thể được truy cập ngay lập tức mà không bị phụ thuộc vào kết nối mạng thông qua các thiết bị cho phép đọc thông tin trên chip giúp cho việc xác thực danh tính được thực hiện ngay, hạn chế tối đa việc giả mạo danh tính.
+Bên cạnh đó, Bộ Công an cũng khẳng định chip được gắn trên thẻ CCCD là để lưu trữ các thông tin của công dân trên thẻ CCCD với mục tiêu tạo điều kiện thuận tiện cho công dân thực hiện các giao dịch hành chính, đi lại, nâng cao hiệu quả của Chính phủ điện tử, Chính phủ số.
+Chip gắn trên thẻ CCCD không có chức năng định vị, theo dõi để xác định vị trí của công dân. Việc tích hợp, sử dụng thông tin trên chip tuân thủ quy định của pháp luật Việt Nam, bảo đảm an ninh, an toàn thông tin.
+"Căn cước công dân gắn chip là xu thế chung trong thời đại công nghệ thông tin và đã được nhiều nước trên thế giới áp dụng vì tính tiện dụng, thuận lợi khi thực hiện các giao dịch, dịch vụ trực tuyến... cho công dân", thông tin từ Bộ Công an cho biết.
+Hiện tại, 10 tỉnh, thành phố được tập trung nguồn lực triển khai việc cấp thẻ Căn cước công dân đúng tiến độ gồm: Hà Nội, TPHCM, Hải Phòng, Đà Nẵng, Cần Thơ, Đồng Nai, Bình Dương, Thanh Hóa, Nghệ An, Bắc Ninh.
+Đây là những địa bàn tập trung đông dân cư, lượng người giao dịch lớn nên mốc thời gian đặt ra là trước ngày 30/4/2021, một nửa số dân cư trú tại 10 địa bàn này được cấp thẻ Căn cước công dân mới.
+Thế Anh

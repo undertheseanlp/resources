@@ -1,22 +1,14 @@
 # doc_id = news_sport_167
-# url = https://dantri.com.vn/the-thao/man-loi-nguoc-dong-an-tuong-cua-man-city-truoc-psg-20210429073944895.htm
-# date = 20210429
-HLV Pep Guardiola tái ngộ HLV Pochettino, hai người đã có nhiều lần giáp mặt nhau ở Premier League. Man City nhập cuộc tự tin trên sân của PSG, đội khách lấn lướt trong những phút đầu.
-Tuy nhiên, PSG nhanh chóng đẩy lùi đội khách và uy hiếp khung thành của Ederson. Phút 15, Marquinhos đánh đầu tung lưới Man City từ quả phạt góc mở tỉ số.
-Sau khi có bàn thắng mở tỉ số, các cầu thủ PSG chơi rất hay, họ vượt trội hơn hẳn Man City về số lần dứt điểm, đáng tiếc các chân sút của đội chủ nhà không thể gia tăng tỉ số.
-Đoàn quân của Guardiola chỉ có một cơ hội ghi bàn tốt trong hiệp 1. Tình huống diễn ra ở phút 42, Foden khá thoải mái dứt điểm ở đầu vòng cấm địa, anh lại sút bóng thẳng vào vị trí của Navas.
-Phút 64, xuất phát từ quả treo bóng sâu của De Bruyne, vô tình bóng đi vào lưới (có phần lỗi của thủ thành Navas) giúp Man City gỡ hòa 1-1.
-6 phút sau, Man City vượt lên dẫn 2-1 với bàn thắng cũng rất may mắn khi hai cầu thủ chủ nhà làm hàng rào đã làm lộ khoảng trống để Mahrez sút bóng xuyên qua đó.
-Thủ môn Keylor Navas bất lực nhìn bóng bay vào lưới, PSG cay đắng nhận thất bại 1-2 ngay trên sân Công viên các hoàng tử.
-Niềm vui của Mahrez, bàn thắng nâng tỷ số lên 2-1 của anh đến ở thời điểm quan trọng nhất của trận đấu.
-Man City đã cho thấy bản lĩnh lớn sau khi bị dẫn bàn. Bị Man City dẫn bàn, các cầu thủ PSG mất kiểm soát, nổi nóng thể hiện thông qua những pha vào bóng chặt chém.
-Gueye nhận thẻ đỏ trực tiếp ở phút 77 sau pha chơi bóng thô bạo nhằm vào Gundogan. Chơi thiếu người PSG không thể vùng lên, họ ngậm ngùi nhận thất bại 1-2 trên sân nhà.
-Niềm vui của cầu thủ Man City, họ đứng trước cơ hội lần đầu tiên góp mặt ở chung kết Champions League lần đầu tiên trong lịch sử.
-Thua 1-2 ngay trên sân nhà ở lượt đi, PSG đối diện nhiều khó khăn khi làm khách trên sân Etihad ở bán kết lượt về UEFA Champions League trên sân Etihad vào giữa tuần sau.
-Đội hình thi đấu
-Paris Saint Germain(4-3-3): Navas, Florenzi, Marquinhos, Kimpembe, Bakker, Gueye, Parades (Herrera 83), Veratti, Di Maria (Danilo 80), Mbappe, Neymar
-Bàn thắng: Marquinhos 15
-Thẻ đỏ: Gueye 77
-Manchester City (4-3-3): Ederson, Cancelo (Zinchenko 61 ), Dias, Stones, Walker, Gundogan, Rodri, Bernardo, Mahrez, De Bruyne, Foden
-Bàn thắng: De Bruyne 64, Mahrez 71
-Thùy Anh
+# url = https://dantri.com.vn/the-thao/man-utd-don-tin-cuc-vui-tu-nguoi-hung-cavani-20210430200335870.htm
+# date = 20210430
+Mới đây, Cavani vừa tỏa sáng rực rỡ khi đóng góp 1 cú đúp giúp Man Utd vùi dập AS Roma với tỷ số 6-2 ở lượt đi bán kết Europa League. Kết quả này giúp cho Quỷ đỏ gần như đã đặt một chân vào chung kết giải đấu.
+Cavani đang trở thành nhân tố vô cùng quan trọng với Man Utd.
+Sự tỏa sáng của Cavani đã khiến người hâm mộ Man Utd nức lòng. Rất nhiều người đã mong cầu thủ này tiếp tục ở lại Old Trafford trong bối cảnh hợp đồng của tiền đạo người Uruguay chỉ còn thời hạn vài tháng.
+Điều đáng nói, trong hợp đồng của Cavani có tùy chọn tự động gia hạn thêm 1 năm. Theo nguồn tin từ ESPN, chân sút sinh năm 1987 đã chấp nhận điều khoản này, để ở lại Man Utd thêm 1 mùa giải nữa.
+Đây là thông tin cực vui với Man Utd bởi họ vẫn cần Cavani trong bối cảnh chưa tìm được tiền đạo đẳng cấp trên hàng công. Cũng theo tờ ESPN, Man Utd sẽ chính thức công bố thông tin này vào tuần tới.
+Trước đó, HLV Solskjaer đã bày tỏ nguyện vọng muốn Cavani tiếp tục ở lại gắn bó với CLB. Ông chia sẻ: "Tôi từng hứa với Cavani này rằng Old Trafford sẽ là nơi hoàn toàn khác biệt với sự góp mặt của những người hâm mộ.
+Cavani nhiều khả năng sẽ cống hiến cho Man Utd thêm 1 năm nữa.
+Chúng tôi có những người hâm mộ tuyệt vời nhất thế giới và không điều gì thú vị hơn với một tiền đạo là ghi bàn và ăn mừng trước những CĐV như vậy.
+Tôi rất vui mừng khi Cavani có mặt tại đây. Tất cả đều thấy được sự khác biệt lớn khi Cavani có thể trạng hoàn hảo. Cậu ấy đã mất nhiều thời gian để lấy lại thể trạng. Trước khi tới Man Utd, Cavani từng có 7 tháng không thi đấu cho PSG. Giờ đây, chúng tôi đều hy vọng Cavani sẽ tiếp tục ở lại Man Utd thêm 1 năm nữa".
+Ở mùa giải này, Cavani đã ra sân 33 trận đấu cho Man Utd trên mọi đấu trường. Cầu thủ này đã ghi 12 bàn thắng và có 4 đường kiến tạo thành bàn.
+H.Long

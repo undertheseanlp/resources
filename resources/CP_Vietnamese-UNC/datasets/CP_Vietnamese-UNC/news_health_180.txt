@@ -1,31 +1,24 @@
 # doc_id = news_health_180
-# url = https://dantri.com.vn/suc-khoe/nhung-dau-hieu-khong-ngo-canh-bao-ung-thu-ac-tinh-gap-pho-bien-o-quy-ong-20210422154903860.htm
-# date = 20210422
-Tại Việt Nam, ung thư bàng quang 1 trong 10 loại ung thư hay gặp ở nam giới.Ung thư bàng quanglà loại ung thư xảy ra ở bàng quang- cơ quan rỗng nằm tại vùng bụng dưới có chức năng chứa nước tiểu do thận thải ra. Phía trong thành bàng quang là lớp niêm mạc được cấu tạo từ các tế bào chuyển tiếp và tế bào vảy.
-Đáng nói, căn bệnh ung thư ác tính phổ biến ở quý ông này lại khó nhận biết dấu hiệu sớm. Có một vài dấu hiệu liên quan đến tiểu rắt, khó tiểu... lại có thể gây nhầm lẫn với phì đại tuyến tiền liệt thông thường.
-Dưới đây là nhữngdấu hiệu có thể giúp bệnh nhân phát hiện ra những bất thường để nghĩ tới ung thư bàng quang, kịpthời đến cơ sở y tế thăm khám.
-Theo đó, cần lưu ý khi có những dấu hiệu sau:
-- Mệt mỏi, gầy sút, chán ăn.
-- Đái máu là dấu hiệu thường gặp nhất. Đái máu từng đợt, đái máu đại thể, toàn bãi.
-- Đau khi đi tiểu.
-- Tiểu rắt, tiểu khó, tiểu không tự chủ, nước tiểu sẫm màu: đây là những triệu chứng xuất hiện đầu tiên, do bàng quang bị kích thích hay bị giảm thể tích.
-- Các triệu chứng của nhiễm trùng đường tiểu, tắc nghẽn đường tiểu do u xâm lấn hay do cục máu đông.
-Còn khi đã ở giai đoạn muộn của ung thư bàng quang, tế bào ung thư đã di căn xa, sẽ xuất hiện các biểu hiện sau:
-- Đau hông lưng.
-- Đau trên xương mu.
-- Đau hạ vị.
-- Đau tầng sinh môn.
-- Đau xương.
-- Đau đầu.
-Ai có nguy cơ cao mắc ung thư bàng quang?
-Cũng giống như nguyên nhân gây bệnh, các yếu tố nguy cơ ung thư bàng quang vẫn chưa được nghiên cứu một cách rõ ràng.
-Tuy nhiên, những yếu tố sau làm gia tăng nguy cơ mắc ung thư bàng quang:
-- Những người lớn tuổi có nguy cơ mắc ung thư bàng quang cao hơn những người trẻ.
-- Đàn ông dễ bị ung thư bàng quang hơn phụ nữ.
-- Tiền sử gia đình có người mắc phải ung thư bàng quang .
-- Người đã bị ung thư bàng quang cũng có khả năng tái phát.
-- Những người hút thuốc lá có nguy cơ ung thư bàng quang cao hơn hai đến ba lần so với những người không hút thuốc lá.
-- Nghề nghiệp dễ mắc ung thư như làm cao su, chất hóa học, da thuộc, thợ làm tóc, thợ kim khí, thợ in, thợ dệt, tài xế xe tải. Đây là những ngành nghề tiếp xúc thường xuyên với những chất sinh ung thư.
-- Ngoài ra, các bệnh lý viêm bàng quang mạn tính, nhiễm trùng tiết niệu tái diễn nhiều lần hoặc sử dụng ống thông đường tiểu lâu ngày cũng có nguy cơ gây ung thư bàng quang.
-Quá trình điều trị ung thư bàng quang phụ thuộc vào vị trí u và giai đoạn bệnh, nhưng chủ yếu là phẫu thuật, có thể kèm theo hóa xạ trị bổ trợ, liệu pháp sinh học hoặc các liệu pháp quang động học, miễn dịch.
-Tú Anh
+# url = https://dantri.com.vn/suc-khoe/nhung-thuc-pham-dau-bang-ve-cholesterol-trong-mam-com-nguoi-viet-20210426083242652.htm
+# date = 20210426
+Ví dụ, những người thường xuyên tiêu thụ thực phẩm chứa nhiều cholesterol rất dễ bị gan nhiễm mỡ và lipid máu.
+Đặc biệt, số lượng bệnh nhân mắc hai căn bệnh nói trên vẫn tăng lên hàng năm. Nguyên nhân chủ yếu là do nhiều người không hiểu rõ về thực phẩm mình thường ăn và họ cũng không biết cách thực hiện một cách chính xác chế độ ăn cân bằng.
+Theo các chuyên gia dinh dưỡng, biện pháp hiệu quả để ngăn ngừa gan nhiễm mỡ, lipid máu chính là nhận diện để hạn chế các thực phẩm chứa nhiều cholesterol trong khẩu phần ăn hàng ngày.
+Dưới đây là bảng xếp hạng các thực phẩm giàu cholesterol theo thứ tự từ thấp đến cao:
+Trứng
+Mặc dù trứng có chứa cholesterol, nhưng thành phần chính của nó vẫn là protein. Vì vậy ăn trứng cũng có thể giúp tăng lượng lipoprotein mật độ cao, tốt cho việc duy trì sức khỏe mạch máu.
+Theo các chuyên gia dinh dưỡng, trứng chứa khá nhiều cholesterol nhưng những người bị tăng lipid máu, gan nhiễm mỡ có thể ăn điều độ theo khuyến cáo mà vẫn đảm bảo sức khỏe.
+Gan lợn
+Tuy là thực phẩm bổ máu hàng đầu, ăn đúng cách có thể cải thiện chức năng tạo máu của gan người, nhưng cần chú ý rằng hàm lượng cholesterol trong gan lợn cũng khá cao. Để ổn định lượng lipid máu trong cơ thể tốt nhất nên ăn ít gan lợn.Những người quá béo được khuyến cáo không nên ăn gan lợn, cũng như các thực phẩm phủ tạng như lòng, gan gà, gan ngỗng.
+Trứng bắc thảo
+Vì là thực phẩm được chế biến theo phương pháp đặc biệt nên trứng bắc thảo bị mất đi rất nhiều chất dinh dưỡng. Hơn nữa trứng bắc thảo được làm từ trứng vịt, vốn có hàm lượng cholesterol cao hơn nhiều so với trứng gà nên cần hạn chế.Đặc biệt những người bị mỡ máu cao, gan nhiễm mỡ nên ăn ít trứng bắc thảo để tránh khiến tình trạng bệnh thêm trầm trọng.
+Óc lợn
+Nhiều người nghĩ óc lợn là một loại thực phẩm rất tốt, nó chứa nhiều phốt pho, sắt, canxi, đồng thời nó cũng rất giàu vitamin B1, vitamin B2 và các chất dinh dưỡng khác.Tuy nhiên, những bệnh nhân mắc gan nhiễm mỡ và lipid máu cao nên thận trọng khi dùng, bởi đây là thực phẩm giàu cholesterol hàng đầu.
+Những triệu chứng cảnh báo gan nhiễm mỡ
+Người mắcgan nhiễm mỡcó những dấu hiệu cảnh báo sau:
+- Mệt mỏi, chán ăn: Khi mắcbệnh gannhiễm mỡ, gan sẽ không thực hiện tốt các chức năng chuyển hóa làm cho chất dinh dưỡng đưa vào cơ thể bị giảm sút đồng thời khả năng giải độc cũng giảm khiến lượng độc tố đưa vào máu tăng cao,từ đó cơ thể bị nhiễm độc, thiếu chất dinh dưỡng gây ra hiện tượng mệt mỏi, ăn uống không ngon.
+- Đầy bụng, buồn nôn: Khi gan bị nhiễm mỡ, các tế bào gan dễ bị tổn thương khiến chức năng gan suy giảm, dẫn tới giảm khả năng giải độc, chuyển hóa làm cho cơ thể khó tiêu kèm theo một số triệu chứng như nước tiểu sậm màu, phân xám hoặc sạm màu,….
+- Rối loạn nội tiết: Bệnh gan nhiễm mỡ nặng có thể gây ra rối loạn nội tiết như tuyến vú nam giới phát triển, gặp trở ngại về chức năng cương dương, tinh hoàn bị teo. Phụ nữ dễ bị tắc kinh, rong kinh, thay đổi cân nặng (tăng hoặc giảm)…
+- Bị vàng da: Khi gan bị nhiễm mỡ chức năng gan bị rối loạn và nó không thể ức chế được lượng bilirubin, gây nên tình trạng vàng da.
+Minh Nhật
+Tổng hợp

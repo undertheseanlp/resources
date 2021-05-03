@@ -1,11 +1,16 @@
 # doc_id = news_world_065
-# url = https://dantri.com.vn/the-gioi/campuchia-phong-toa-hoan-toan-thanh-pho-sihanoukville-20210423105940846.htm
-# date = 20210423
-Ông Kheang Phearum, Người phát ngôn Tòa thị chính tỉnh Preah Sihanouk cho biết Chính quyền tỉnh Preah Sihanouk đã quyết định phong tỏa khu vực thành phố Preah Sihanouk, là nơi bùng phát dịch bệnh Covid-19 liên quan đến "Sự kiện cộng đồng ngày 20/2" trong 14 ngày kể từ 0h00 ngày 23/4 đến ngày 6/5/2021 nhằm kiểm soát hiệu quả, ngăn chặn dịch bệnh lây lan sang các khu vực khác.
-Bản đồ quy định "vùng đỏ" tại thành phố Preah Sihanouk. Ảnh: Chính quyền tỉnh Preah Sihanouk
-Trong thời gian thực hiện lệnh phong tỏa này, mọi người đều bị cấm rời khỏi nhà hoặc nơi ở hiện tại của mình trừ trường hợp khẩn cấp. Với những người vi phạm lệnh cấm, cơ quan chức năng sẽ thực hiện xử lý nghiêm theo quy định của pháp luật.
-Cán bộ hướng dẫn người dân thực hiện quy định của chính quyền
-Các doanh nghiệp tại thành phố Preah Sihanouk cũng bị cấm hoạt động trong thời gian phong tỏa, ngoại trừ các cửa hàng dịch vụ thiết yếu phục vụ cuộc sống hàng ngày như dịch vụ y tế và cung cấp thực phẩm. Ngoài ra, chính quyền tỉnh Preah Sihanouk cũng thiết lập "vùng đỏ", đối với các tổ 1, 2, 3, 4 và 5 thuộc phường 4 của thành phố Preah Sihanouk.
-Preah Sihanouk là thành phố thứ 3 bị phong tỏa hoàn toàn tại Campuchia sau thủ đô Phnom Penh và thành phố Takhmao (tỉnh Kandal). Một số tỉnh khác tại Campuchia cũng đang tiếp tục áp dụng lệnh giới nghiêm từ 20h tối đến 5h sáng hôm sau để ngăn chặn dịch bệnh lây lan.
-Theo Văn Đỗ, Tâm Hiếu
-VOV
+# url = https://dantri.com.vn/the-gioi/campuchia-trai-qua-ngay-den-toi-nhat-thai-lan-cang-minh-chong-covid-19-20210425064801497.htm
+# date = 20210425
+Campuchia trải qua "ngày đen tối nhất" trong đại dịch
+Theo Bộ Y tế Campuchia, trong ngày 24/4, nước này ghi nhận kỷ lục 10 ca tử vong vì Covid-19. Đây là ngày có số người tử vong vì Covid-19 cao nhất ở Campuchia kể từ khi dịch bùng phát và ghi nhận ca tử vong đầu tiên hồi tháng 3.
+Đến nay, Campuchia ghi nhận tổng cộng 9.359 ca mắc Covid-19 mặc dù chỉ mới gần đây Campuchia là một trong những quốc gia có số người mắc Covid-19 thấp nhất thế giới. Campuchia có tổng cộng 71 ca tử vong vì Covid-19 và tất cả đều là các ca ghi nhận trong khoảng 2 tháng trở lại đây.
+Trước tình hình dịch lây lan nhanh, thủ đô Phnom Penh chính thức phong tỏa hai tuần bắt đầu từ ngày 15/4, đồng thời khoanh các "vùng đỏ", cấm người dân ra khỏi nhà trừ các lý do cấp thiết về y tế.
+Chính quyền Phnom Penh hôm 23/4 ra một quyết sách mới, yêu cầu đóng cửa toàn bộ chợ dân sinh từ ngày 24/4 cho đến ngày 7/5 do xuất hiện nhiều ca bệnh mới liên quan đến các chợ. Chính quyền địa phương cũng khuyến khích các tiểu thương và bảo vệ các chợ làm xét nghiệm Covid-19.
+Giới chức thành phố đã phát cho hàng nghìn gia đình mỗi hộ 25kg gạo, nước mắm và một số thực phẩm. Một tài khoản Telegram được chính quyền địa phương lập ra gần đây để giúp người dân cần hỗ trợ khẩn cấp thực phẩm, đến nay chính quyền đã nhận được hàng nghìn đề nghị như vậy.
+"Gia đình tôi phải đề nghị hỗ trợ khẩn cấp thực phẩm hàng ngày. Tôi đã mất hoàn toàn nguồn thu nhập do nhà máy đóng cửa và lệnh phong tỏa, Thorn Meng, một người dân ở Phnom Penh, cho biết.
+Thái Lan căng mình chống dịch
+Thái Lan cũng đang phải đối mặt với một đợt bùng phát mới của dịch Covid-19. Chỉ riêng ngày 24/4, nước này ghi nhận kỷ lục 2.839 ca mắc mới và 8 ca tử vong, nâng tổng số người mắc Covid-19 ở đây lên hơn 53.000 ca và 129 ca tử vong. Chỉ riêng trong tháng 4 này, Thái Lan ghi nhận 27.000 ca mắc mới, một phần được cho là do sự xuất hiện của biến chủng mới dễ lây lan hơn có tên gọi B.1.1.7 phát hiện lần đầu tiên ở Anh cuối năm ngoái.
+Bangkok, điểm nóng bùng phát dịch ở Thái Lan, đã yêu cầu đóng cửa các địa điểm công cộng như công viên, trung tâm thể thao, phòng tập gym, bể bơi, viện bảo tàng, thư viện, trung tâm hội nghị, bắt đầu từ ngày mai 26/4 cho đến ngày 9/5.
+Bangkok và 40 tỉnh thành của Thái Lan cũng yêu cầu người dân đeo khẩu trang bắt buộc ở nơi công cộng. Trong khi đó, Hiệp hội Bán lẻ Thái Lan cũng yêu cầu các trung tâm thương mại giới hạn giờ mở cửa từ 11 giờ sáng đến 8 giờ tối bắt đầu từ hôm nay. Các cửa hàng tiện lợi được phép mở cửa từ 5 giờ sáng đến 10 giờ tối. Trường học, nhà hàng, quán bar đã buộc phải đóng cửa khoảng 1 tuần này và tiếp tục đóng cửa đến đầu tháng sau.
+Thái Lan cũng đẩy nhanh chương trình tiêm chủng vắc xin ngừa Covid-19, tuy nhiên, đến nay mới chỉ có chưa đầy 1 triệu người trong tổng số khoảng 66 triệu người của Thái Lan đã tiêm.
+Minh PhươngTheo Reuters, Bangkok Post

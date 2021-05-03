@@ -1,15 +1,11 @@
 # doc_id = news_sport_248
-# url = https://dantri.com.vn/the-thao/trong-tai-sai-lam-cong-phuong-mat-oan-ban-thang-20210428202745257.htm
-# date = 20210428
-HA Gia Lai tiếp tục đà thăng hoa khi giành chiến thắng với tỷ số 2-1 trước Thanh Hóa ở vòng 11 LS V-League 2021. Trong đó, Công Phượng và Minh Vương là những người đã ghi bàn cho HA Gia Lai trong trận đấu này.
-Tình huống Công Phượng bị bắt việt vị. Pha làm chậm cho thấy có vẻ như tiền đạo của HA Gia lai bị bắt việt vị oan.
-Với 3 điểm có được, đoàn quân của HLV Kiatisuk tiếp tục dẫn đầu V-League với 28 điểm, bỏ xa đội xếp thứ 2 là Viettel 5 điểm.
-Với bàn thắng trong trận đấu với Thanh Hóa, Công Phượng đã có 6 bàn thắng ở V-League. Cầu thủ này đã vươn lên vị trí thứ 2 trong danh sách ghi bàn, chỉ kém người đứng đầu Oussou Konan của Nam Định 1 bàn.
-Đáng ra, Công Phượng đã có thể cải thiện thành tích ghi bàn của mình khi đã bị từ chối bàn thắng hợp lệ trong trận đấu với Thanh Hóa. Cụ thể, trong tình huống ở phút 69, tiền đạo người Nghệ An đã thoát xuống sau đường chuyền của Tuấn Anh và đưa được bóng vào lưới của Thanh Hóa.
-Thế nhưng, trọng tài đã từ chối bàn thắng này khi cho rằng Công Phượng đã ở trong tư thế việt vị. Vấn đề ở chỗ, khi xem lại pha quay chậm, tiền đạo của HA Gia Lai vẫn còn đứng trên cầu thủ Thanh Hóa.
-Công Phượng đã đưa bóng vào lưới Thanh Hóa nhưng không được công nhận.
-Nhận định về tình huống này, trọng tài Dương Mạnh Hùng cho biết: "Tình huống đó Công Phượng không việt vị. Khi trái bóng rời chân của Tuấn Anh thì cậu ấy vẫn ở ngang với cầu thủ phòng ngự cuối cùng của Thanh Hóa.
-Trợ lý trọng tài có vẻ như có chỗ đứng không tốt và nhận định sai khi căng cờ việt vị. Những tình huống như vậy đòi hỏi trọng tài cần phải có vị trí đứng tốt để đưa ra quyết định chính xác".
-Nói về việc dành quả phạt đền cho Công Phượng, HLV Kiatisuk cho biết: "Tôi dành cơ hội đá penalty lần lượt cho các cầu thủ, không ưu ái ai cả".
-Sau trận đấu này, HA Gia Lai sẽ trở về sân nhà để đụng độ với Bình Dương ở vòng 12 V-League. Sau đó, họ sẽ lần lượt chạm trán với Than Quảng Ninh (V-League) và SHB Đà Nẵng (cúp quốc gia) trước khi nhường chỗ cho đội tuyển quốc gia tập trung.
-H.Long
+# url = https://dantri.com.vn/the-thao/uefa-dam-phan-goi-tai-tro-72-ty-usd-de-dau-lai-european-super-league-20210420232802813.htm
+# date = 20210420
+Trong rạng sáng nay 21/4, ngoài 6 đội bóng Anh gồm Man Utd, Man City, Chelsea, Tottenham, Liverpool và Arsenal thì hai CLB Italia là AC Milan và Inter Milan đã quyết định từ bỏ European Super League.
+Theo tờ Bloomberg, UEFA đang đàm phán với Centricus Asset Management (CAM) về một gói hỗ trợ trị giá 7,2 tỷ USD để tạo thể thức mới cho Champions League và đấu lại siêu giải đấu European Super League. Số tiền này lớn hơn mức phí 6 tỷ USD mà European Super League sẽ được ngân hàng của Mỹ, JP Morgan, hậu thuẫn.
+Việc đàm phán của UEFA diễn ra nhằm chiến đấu với siêu giải đấu vừa được thành lập đang gây náo loạn bóng đá châu Âu có lịch sử từ những năm 1950 và sẽ kết thúc lịch sử giải đấu đã trải qua hàng thập kỷ là Champions League - một giải đấu được xem là danh giá nhất châu Âu lúc này.
+Chủ tịch UEFA Alexander Ceferin đang làm mọi cách để chống lại sự ra đời của siêu giải đấu European Super League
+SongBloombergcũng nhấn mạnh mọi chuyện vẫn đang trong quá trình đàm phán. Chưa bên nào đưa ra bình luận vào lúc này. Đại diện của Centricus từ chối bình luận, trong khi người phát ngôn của UEFA cũng không trả lời truyền thông về thông tin nói trên.
+Centricus, công ty giám sát khoảng 30 tỷ USD tài sản theo công bố trên trang web của họ, có mối liên hệ tốt với các tổ chức lớn, giàu có ở Trung Đông và Châu Á, và đã giúp SoftBank Group Corp huy động được 100 tỷ USD cho Quỹ Tầm nhìn khổng lồ của mình.
+Công ty được thành lập vào năm 2016 bởi Nizar Al-Bassam, một cựu giám đốc ngân hàng đầu tư tại Deutsche Bank AG và cựu đối tác của Goldman Sachs Group Inc., Dalinc Ariburnu.
+Sông Lam

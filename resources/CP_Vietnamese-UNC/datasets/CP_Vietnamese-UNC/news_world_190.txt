@@ -1,33 +1,11 @@
 # doc_id = news_world_190
-# url = https://dantri.com.vn/the-gioi/nut-that-quyet-dinh-su-song-con-cua-tau-ngam-indonesia-20210423104452796.htm
-# date = 20210423
-Tàu ngầm KRI Nanggala hoạt động tại vùng biển ngoài khơi Đông Java, Indonesia năm 2014 (Ảnh: AFP).
-Mặc dù vẫn còn quá sớm để tuyên bố chắc chắn rằng không thể cứu vớt tàu ngầm KRINanggala 402chở 53 thành viên thủy thủ đoàn bị mất tích, song tạp chí Asia Pacific Defence Reporter của Australia nhận định rằng cơ hội sống sót là cực kỳ nhỏ.
-Điều này căn cứ vào một số yếu tố bao gồm tuổi thọ của tàu ngầm; vùng nước sâu nơi tàu hoạt động; các dấu hiệu khả quan như pháo sáng, hay thông tin từ đội tìm kiếm rằng có nhiều vết dầu loang tại khu vực tàu mất tích.
-Hiện công tác tìm kiếm tàu ngầm Indonesia vẫn đang được tiến hành và chỉ khi tàu được phát hiện, mới có thể tìm thấy bằng chứng để lý giải nguyên nhân xảy ra vụ tai nạn. Tuy vậy, cơ hội sống sót của bất kỳ thành viên nào trong 53 thành viên thủy thủ đoàn được dự đoán là rất thấp.
-Tuổi thọ tàu
-Tàu ngầm KRI Nanggala 402 được đưa vào hoạt động từ năm 1981. Tàu đã được đặt hàng 4 năm trước đó từ hãng đóng tàu HDW của Đức dựa trên thiết kế của tàu ngầm lớp Type 209 phổ biến.
-Indonesia đã vận hành 2 tàu ngầm KRI Nanggala, được biết đến với tên gọi nội bộ là tàu ngầm lớp Cakra. Đây là hai tàu ngầm được hải quân Indonesia vận hành cho đến khi tàu ngầm đầu tiên thuộc lớp Nagapasa được đưa vào biên chế năm 2017.
-Nhìn chung tuổi thọ của tàu ngầm được tính bằng số lần lặn sâu mà tàu có thể thực hiện. Số lần lặn sâu càng nhiều, áp lực lên thân tàu càng lớn và có một giới hạn nhất định về số lần lặn sâu mà tàu ngầm có thể thực hiện trước khi chúng trở nên không còn an toàn và phải cho nghỉ hưu.
-Tàu ngầm Nanggala đã trải qua một cuộc đại tu lớn ở Hàn Quốc từ năm 2010 đến năm 2012. Tùy thuộc vào mức độ đại tu, quá trình này có thể kéo dài tuổi thọ của thân tàu dưới áp lực nước. Tuy vậy, các quy luật vật lý khiến thời gian hoạt động của tàu không thể kéo dài mãi.
-Nếu không biết rõ hồ sơ hoạt động lặn của tàu ngầm Nanggala, trong khi vùng nước ở quần đảo Indonesia có xu hướng khá nông, thì không thể biết chính xác thời điểm dừng hoạt động của tàu ngầm. Tuy nhiên, Nanggala chắc hẳn đã gần đạt đến "ngưỡng chịu đựng" của nó.
-Nói một cách đơn giản, tàu ngầm càng cũ thì thân tàu chịu áp lực càng yếu hơn, vì nó đã bị nén lại và giãn nở nhiều lần trong quá trình lặn sâu sau đó quay trở lại gần hoặc nổi lên trên bề mặt nước.
-Vùng biển sâu
-Đồ họa cho thấy vị trí tàu ngầm mất tích (Đồ họa: BBC).
-Các báo cáo chỉ ra rằng tàu ngầm Nanggala đã hoạt động ở vùng biển phía bắc Bali với độ sâu từ 600 mét trở lên. Độ lặn sâu của tàu ngầm thường được giữ bí mật vì các lý do vận hành, nhưng nếu xem xét các đặc điểm hoạt động chung của dòng tàu ngầm Type 209, chúng được cho là có độ sâu lặn tối đa là 300 mét.
-Tất cả tàu ngầm đều được thiết kế kỹ lưỡng để đảm bảo an toàn. Do vậy, tàu vẫn có thể sống sót ở độ sâu 400 mét - nhưng không phải ở độ sâu 600 mét, vì khoảng cách này dường như sẽ vượt quá mức chịu đựng của thân tàu.
-Tín hiệu liên lạc
-Các thủy thủ trên tàu ngầm KRI Nanggala 402 ở Đông Java năm 2012 (Ảnh: Reuters).
-Một tàu ngầm bị hư hại ở vùng nước sâu cũng bị hạn chế các phương án liên lạc. Tín hiệu vô tuyến không truyền qua nước ở độ sâu lớn, ngoại trừ tín hiệu tần số rất thấp và cực thấp. Hơn nữa, hiện không chắc tàu ngầm Nanggala được trang bị công nghệ như vậy.
-Tuy nhiên, tất cả các tàu ngầm đều mang theo nhiều pháo sáng khẩn cấp để có thể phóng từ một ống nhỏ trong thân tàu. Thông thường, những thiết bị này sẽ nổi lên bề mặt và khi ở trên mặt nước, pháo cháy rất sáng và tỏa ra nhiều khói để thu hút sự chú ý nhiều nhất có thể.
-Tuy vậy, hiện vẫn chưa có thông tin được ghi nhận về bất kỳ tín hiệu pháo sáng nào được nhìn thấy tại khu vực tàu ngầm Indonesia mất tích.
-Vết dầu loang
-Trong quá trình tìm kiếm tàu ngầm từ trực thăng trên không, đội cứu hộ đã phát hiện một vết dầu loang trên mặt biển ở khu vực tàu ngầm mất tích. Đây được xem là tin xấu vì nếu vết dầu này xuất phát từ Nanggala, điều đó cho thấy đã có một sự cố thảm khốc ở thân tàu.
-Áp lực cần thiết để phá vỡ thùng dầu diesel trên tàu ngầm là rất lớn và việc dầu tràn ra ngoài cho thấy tàu ngầm đã bị hư hại nghiêm trọng. Mặc dù vết dầu loang trên biển là hiện tượng tương đối phổ biến nhưng trong trường hợp này, vị trí gần nhất được biết đến của tàu ngầm Nanggala và thời điểm xuất hiện vết dầu loang khó có thể là ngẫu nhiên.
-Các tàu nước ngoài hỗ trợ
-Theo USNI, Indonesia đã chấp nhận lời đề nghị của Australia để hỗ trợ tìm kiếm tàu ngầm mất tích và các tàu HMA Ships Ballarat, Sirius đang khẩn trương di chuyển tới khu vực tìm kiếm. Hải quân Ấn Độ cũng điều động tàu cứu hộ nước sâu từ Visakhapatnam tới hỗ trợ hải quân Indonesia.
-Người phát ngôn Lầu Năm Góc John Kirby cho biết quân đội Mỹ sẽ điều một đội không vận đến Indonesia hỗ trợ công tác tìm kiếm tàu ngầm mất tích. Một tàu cứu hộ MV Swift Rescue đã khởi hành từ căn cứ hải quân Changi, Singapore, trong khi tàu cứu hộ MV Mega Bakti của Malaysia cũng đang trên đường tới vùng biển Indonesia.
-Nếu điều kiện thời tiết thuận lợi, các tàu trên dự kiến sẽ tới vùng biển Indonesia để tìm kiếm tàu ngầm mất tích vào cuối tuần này. Trong khi đó, hải quân Indonesia cho biết lượng ôxy dự trữ trên tàu ngầm chỉ còn đủ cho các thủy thủ trong 72 giờ.
-Như vậy tính từ thời điểm mất tích, dưỡng khí trên tàu chỉ còn đủ đến 3 giờ sáng ngày 24/4. Điều này đặt ra giả thuyết rằng các tàu cứu hộ nước ngoài không thể tới kịp trước thời điểm tàu ngầm Indonesia cạn ôxy.
-Thành Đạt
-Tổng hợp
+# url = https://dantri.com.vn/the-gioi/ong-biden-pha-le-khong-chon-nguoi-chi-dinh-song-sot-o-su-kien-quan-trong-20210428095011300.htm
+# date = 20210428
+Tổng thống Mỹ Joe Biden (Ảnh: NBC).
+Dự kiến, Tổng thống Mỹ Joe Biden hôm nay sẽ có bài phát biểu đầu tiên tại phiên họp chung của quốc hội. Đây cũng là dịp đánh dấu 100 ngày kể từ khi ông nhậm chức.
+Tuy nhiên, ông không chọn "người chỉ định sống sót" trong dịp này. "Không cần người chỉ định sống sót bởi vì nội các sẽ theo dõi bài diễn văn từ văn phòng riêng hoặc tại nhà, thay vì tham gia trực tiếp", Thư ký báo chí Nhà Trắng Jen Psaki cho hay.
+Theo thông lệ, tất cả nghị sĩ và quan chức nội các đều được mời tham dự sự kiện này. Tuy nhiên, năm nay, thành phần tham gia sự kiện đã được giới hạn lại nhằm phòng dịch Covid-19. Trong số 15 bộ trưởng nội các của ông Biden, chỉ có 2 bộ trưởng tham gia gồm Ngoại trưởng Antony Blinken, Bộ trưởng Quốc phòng Lloyd Austin. Ngoài ra, Phó tổng thống Kamala Harris, Chánh án Tòa án Tối cao John Roberts, Đệ nhất phu nhân Jill Biden, Đệ nhị phu quân Douglas Emhoff cũng tham dự.
+Hai người được quy định là trở thành tổng thống tạm quyền khi Tổng thống Biden vì lý do nào đó không thể đảm nhiệm vai trò điều hành, gồm Chủ tịch Hạ viện Nancy Pelosi, Chủ tịch Thượng viện Patrick Leahy cũng đều sẽ có mặt tại sự kiện. Nếu Bộ trưởng Tài chính Janet Yellen không tham dự, bà sẽ trở thành thành viên nội các cấp cao nhất trong danh sách "kế nhiệm" tạm thời vắng mặt.
+Thông thường, các tổng thống Mỹ sẽ chọn một quan chức cấp cao làm "người chỉ định sống sót" vào mỗi dịp quan trọng đòi hỏi sự tham gia của hầu hết quan chức chính phủ như lễ nhậm chức của tổng thống hay ngày tổng thống đọc thông điệp liên bang.
+Danh tính người chỉ định sống sót được giữ kín đến phút chót và người này sẽ được đưa đến một địa điểm bí mật, đề phòng trường hợp xảy ra một vụ tấn công hay thảm họa. Người chỉ định sống sót có thể đảm nhiệm thay vai trò của tổng thống trong trường hợp tổng thống không thể thực hiện các vai trò đó.
+Minh PhươngTheo Politico

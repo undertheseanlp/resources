@@ -1,15 +1,19 @@
 # doc_id = news_health_257
-# url = https://dantri.com.vn/suc-khoe/truy-xuat-nguon-goc-trong-linh-vuc-y-te-vi-sao-lai-quan-trong-20210420153414583.htm
-# date = 20210420
-Sáng nay 20/4, trung tâm Mã số mã vạch Quốc gia, thuộc Tổng cục Tiêu chuẩn Đo lường Chất lượng (Bộ Khoa học và Công nghệ) và Vụ Trang thiết bị và Công trình y tế (Bộ Y tế) đã đồng tổ chức hội thảo "Áp dụng truy xuất nguồn gốc trong lĩnh vực y tế".
-Đây là chương trình nằm trong khuôn khổ Hội nghị thượng đỉnh GS1 toàn cầu lần thứ 2 về Y tế, do GS1 Healthcare toàn cầu tổ chức, đã đặc biệt thu hút người tham gia do đề cập tới một trong những nhu cầu cấp thiết đối với người tiêu dùng.
-Phát biểu khai mạc hội thảo, ông Trần Văn Vinh - Tổng cục trưởng Tổng cục Tiêu chuẩn Đo lường Chất lượng (Bộ KH&CN) cho biết, trong bối cảnh đại dịch Covid-19, các trang thiết bị y tế được quan tâm và tiêu thụ mạnh mẽ hơn trên thị trường. Vì vậy, việc lưu hành sản phẩm đạt chất lượng là yếu tố quan trọng hàng đầu.
-"Truy xuất nguồn gốc trang thiết bị y tế không những giúp đảm bảo chất lượng sản phẩm tới tay người sử dụng mà còn giúp các cơ quan chức năng quản lý, giám sát, xử lý và thu hồi sản phẩm khi xảy ra sự cố nhanh chóng, hiệu quả", ông Vinh nói.
-"Bên cạnh đó, truy xuất nguồn gốc trang thiết bị y tế có tác động tích cực trong cuộc chiến chống hàng giả, hàng nhái, sản phẩm kém chất lượng".
-ông Trần Văn Vinh - Tổng cục trưởng Tổng cục Tiêu chuẩn Đo lường Chất lượng (Bộ KH&CN) nhấn mạnh tầm quan trọng của việc truy xuất nguồn gốc thiết bị trong lĩnh vực y tế.
-Ông Nguyễn Tử Hiếu - Phó Vụ trưởng Vụ Thiết bị và Công trình Y tế (Bộ Y tế) trình bày báo cáo cho biết ngày càng có nhiều bệnh viện, cơ sở y tế đẩy mạnh quản lý các trang thiết bị theo phương thức định danh, như UDI, GMDN, HL7, ISO để phù hợp với các tiêu chuẩn quốc tế hoặc đổi với vật tư y tế theo Thông tư số 04/2017/TT-BYT.
-Bên cạnh đó, các bệnh viện cũng đã xây dựng bộ mã định danh riêng nhằm đáp ứng các yêu cầu nội bộ. Đối với nhà sản xuất, nhập khẩu thiết bị y tế cũng quản lý mã trang thiết bị tế theo các quy tắc riêng của đơn vị.
-Hội thảo đã xoay quanh nhiều vấn đề nổi cộm, trong đó làm nổi bật lên bức tranh thực tế rằng truy xuất nguồn gốc sản phẩm hàng hóa trong chuỗi cung ứng là một nhu cầu cấp thiết đối với người tiêu dùng, các cơ quan quản lý và các đơn vị tham gia chuỗi cung ứng.
-Đặc biệt, trong lĩnh vực y tế, truy xuất nguồn gốc giúp đảm bảo việc nâng cao việc quản lý các sản phẩm, trang thiết bị y tế, đảm bảo an toàn cho bệnh nhân và giảm thiểu rủi ro trong quá trình lưu thông sản phẩm bằng việc áp dụng các công nghệ và tiêu chuẩn quốc tế, giúp minh bạch thông tin về sản phẩm hàng hóa, truy cập thông tin nhanh chóng và chính xác.
-Phát hiện điểm không hợp lý để chủ động cải tiến, khắc phục, nâng cao chất lượng của sản phẩm, hàng hóa, giúp cho doanh nghiệp tiến thêm một bước trong việc thâm nhập vào chuỗi cung ứng giá trị toàn cầu, nâng cao vị thế của sản phẩm.
-Minh Khôi
+# url = https://dantri.com.vn/suc-khoe/uong-thuoc-giam-can-nu-benh-nhan-non-ra-mau-cat-toan-bo-thuc-quan-da-day-20210429163123725.htm
+# date = 20210429
+Ngày 29/4, Bệnh viện Bạch Mai thông tin cứu chữa thành công trường hợp nữ bệnh nhân 43 tuổi (Quảng Ninh) bị lở loét dạ dày, thực quản do uống thuốc giảm cân mua trên mạng.
+Bệnh nhân do có mong muốn giảm cân, nên khi tìm hiểu trên mạng đã mua 2 lọ thuốc giảm cân được quảng cáo nguồn gốc thảo dược thiên nhiên từ Thái Lan, với giá 500.000 đ/hộp để uống.
+Những viên thuốc giảm cân bệnh nhân mua trên mạng.
+Theo đúng hướng dẫn, mỗi ngày chị uống 2 viên vào buổi tối cùng nước chanh ấm trước khi đi ngủ. Kết quả, sau 1 tháng chị giảm được 3kg.
+Chưa kịp vui mừng, ngay sau đó, sáng sớm ngày 10/1/2021 chị A. đột ngột buồn nôn, nôn ra cả máu tươi, máu đen.
+Lúc đầu bệnh nhân chỉ nghĩ đến cảm gió, được đưa vào Trung tâm y tế Móng Cái cấp cứu. Bệnh nhân được chẩn đoán theo dõi viêm loét dạ dày, đại tràng, đường ruột/nghi nấm thực quản. Trải qua 6 ngày điều trị, tình trạng bệnh nhân không được cải thiện, được chuyển lên Trung tâm chống độc (Bệnh viện Bạch Mai).
+Bệnh nhân đã phải trải qua quá trình điều trị 3 tháng tại Bệnh viện Bạch Mai, trong tình trạng rất nặng.
+TS.BS Trần Mạnh Hùng - Trưởng Khoa Ngoại tổng hợp Bệnh viện Bạch Mai cho biết, trong suốt thời gian nằm viện, bệnh nhân hoàn toàn không thể ăn uống được (thức ăn, nước uống cứ cho vào là nôn ra), phải nuôi dưỡng hoàn toàn bằng đườngtĩnh mạch. Từ một người hoàn toàn khỏe mạnh với trọng lượng 70kg, cao 1m60, chị A. sụt chỉ còn 35kg, cơ thể suy kiệt nghiêm trọng
+Kết quả nội soi và chụp X.Q cản quang dạ dày cho thấy bệnh nhân bị hẹp toàn bộ thực quản và dạ dày. Dù đã được nong thực quản tại Trung tâm Tiêu hóa gan mật nhưng do đoạn hẹp quá dài nên không thực hiện được.
+Đặc biệt, trong lòng thực quản bệnh nhân có nhiều sẹo co kéo gây hẹp lòng thực quản đến mức máy soi không qua được, nguy cơ thủng thực quản rất lớn.
+Sau hơn 2 tháng nằm điều trị, các bác sĩ hội chẩn toàn viện, quyết định phẫu thuật cho bệnh nhân. Ca mổ được thực hiện ngày 6/4/2021, sau 5 giờ phẫu thuật các bác sĩ cắt toàn bộ thực quản, dạ dày bệnh nhân, sau đó tạo hình đường tiêu hóa trên bằng hồi đại tràng phải.
+Đến nay, bệnh nhân đã được rút hết dẫn lưu ở ngực, bụng và cổ trái. Sau 3 tháng nằm viện và điều trị, hiện chị A đang hồi phục, đã tăng được 5kg và dần trở lại cuộc sống bình thường, chị đã tự ăn được bằng đường miệng, được xuất viện trong ngày 29/4.
+Bệnh nhân từ chỗ không ăn, uống được, sau khi được cắt dạ dày, thực quản và tạo hình lại đã dần ổn định, lên được 5kg và được xuất viện.
+TS.BS Trần Mạnh Hùng đánh giá, tình trạng teo, hẹp toàn bộ dạ dày thực quản do hóa chất rất hiếm gặp và tỷ lệ tàn tật, tử vong trước đây rất cao. Hiện nay, với sự phát triển của y học, nhờ sự phối hợp tốt của các chuyên khoa, những bệnh nhân đặc biệt như thế này đã có cơ hội để phẫu thuật tạo hình lại đường tiêu hóa trên.
+Đặc biệt các bác sĩ cảnh báo những trào lưu giảm cân không khoa học có thể gây hại cho sức khỏe. Giảm cân là một quá trình diễn ra lâu dài và liên quan đến chuyển hóa trong cơ thể, cần có chế độ dinh dưỡng, vận động hợp lý. Vì vậy, nên tham vấn ý kiến bác sĩ dinh dưỡng để có chế độ giảm cân an toàn, không gây hại cho sức khỏe.
+Hồng Hải

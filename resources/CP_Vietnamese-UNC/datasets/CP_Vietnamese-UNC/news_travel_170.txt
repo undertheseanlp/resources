@@ -1,13 +1,13 @@
 # doc_id = news_travel_170
-# url = https://dantri.com.vn/du-lich/me-man-voi-ve-dep-cua-thac-de-kon-nam-gan-cong-troi-mang-yang-20210420111116682.htm
-# date = 20210420
-Cách làng Đê Kôn, xã Hà Ra, huyện Mang Yang (tỉnh Gia Lai) khoảng 1,5 km, thác Đê Kôn nằm uốn mình quanh những triền đồi từ trên cao đổ xuống. Dòng nước trong vắt và mát lạnh chảy tràn trên những tảng đá nằm im hai bên con suối khiến khung cảnh nơi đây hết sức lãng mạn.
-Đây là điểm du lịch hoang sơ và hấp dẫn. Các vách đá gồ ghề, tạo thành những bậc thang khổng lồ hướng lên đỉnh thác cao hàng chục mét. Người dân bản thường chọn thác Đê Kon để làm nơi thực hiện các nghi lễ quan trọng của làng.
-Dòng nước từ trong các khe núi chảy ra tạo thành dòng lớn để tưới cho hàng chục nghìn diện tích cây trồng của bà con vùng hạ du.
-Những dòng chảy nhỏ len lỏi qua các khe đá khiến du khách mê mẫn trước cảnh đẹp hoang sơ, kỳ vĩ.
-Con thác là nơi để dân làng gửi gắm những lời cầu nguyện đến thần linh. Chính vì vậy, nhiều lễ nghi được thực hiện dưới chân thác Đê Kôn.
-Thác Đê Kon được xem làm một địa điểm du lịch lý tưởng của người dân trên địa bàn bởi vẻ đẹp hoang sơ, chưa có sự tác động từ bên ngoài.
-Nước chảy xiết và cuộn xoáy tạo nên một khung cảnh đẹp ngỡ ngàng. Dù ở xa trung tâm thành phố nhưng đây là một trong những điểm đến ở Gia Lai.
-Thác Đê Kôn chảy dài hàng cây số và chưa bao giờ cạn, kể cả lúc hạn hán nặng.
-Ông Trần Thanh Tuấn, Chủ tịch UBND xã Hà Ra cho biết, ngày thường thì có hàng chục du khách đến thác, còn vào những ngày cuối tuần thì du khách đến đây rất đông. Chính quyền địa phương đang nghiên cứu để làm một địa chỉ du lịch cho du khách.
-Phạm Hoàng
+# url = https://dantri.com.vn/du-lich/muc-so-thi-cay-tau-co-thu-hon-2000-nam-tuoi-o-phu-tho-20210424075126847.htm
+# date = 20210424
+Cây táu có tuổi thọ hơn 2100 năm trước cửa ngôi đền Thiên Cổ
+Men theo con đường làng, chúng tôi tìm đến ngôi đền Thiên Cổ. Tương truyền, ngôi đền này nằm trên đất kinh đô của nước Văn Lang xưa. Tại đền có cây táu cổ thụ thuộc hàng lâu đời nhất Việt Nam. Theo tính toán của các nhà khoa học, cây táu này đã hơn 2100 năm tuổi.
+Người dân thôn Hương Lan gọi cây táu 2104 tuổi là "cụ cây" bởi từ thời tổ tiên, cây táu đã xuất hiện và trải qua bao thăng trầm của lịch sử. Năm 2012, "cụ cây" được Hội Bảo vệ Thiên nhiên và Môi trường Việt Nam (VACNE) công nhận và trao danh hiệu "cây di sản", góp phần trường tồn cùng vùng đất Tổ.
+Từ khi có sự hiện hữu của cây táu, người dân trong làng bao đời nay xem đây là báu vật, hết mực chăm sóc và bảo tồn cẩn thận. Ông Nguyễn Thiện Ninh (85 tuổi, người trông coi đền Thiên Cổ) chia sẻ, không chỉ là chứng nhân lịch sử, cây táu còn chứa đựng những giá trị vô giá về văn hóa, tâm linh.
+Ông Nguyễn Thiện Ninh cho biết, cây táu từ xưa đã trở thành "báu vật" thiêng liêng của dân làng nơi đây
+Ông Ninh chia sẻ, cây táu này gắn liền với sự tích thiêng liêng của đền Thiên Cổ. Ngọc phả để lại, đây là nơi thờ vợ chồng thầy giáo Vũ Thê Lang và thục nương Nguyễn Thị Thục. Thời đó, vợ chồng thầy giáo là người có công dạy công chúa Tiên Dung và Ngọc Hoa (con vua Hùng Vương đời thứ 18), sau khi vợ chồng thầy giáo Vũ Thê Lang mất, nhân dân địa phương đã chôn cất và lập đền thờ ngay tại làng. Cùng với đó, cây táu xuất hiện và trường tồn tới tận ngày nay.
+"Năm 2014 cây táu bị ảnh hưởng nghiêm trọng do quá trình làm đường dân sinh trước đó nên đã xuất hiện tình trạng, héo úa, lão hóa, thân bị sâu mọt đục khoét, thiếu chất dinh dưỡng, nhiều cành bị khô và chết dần. Trước tình trạng "cụ cây" suy yếu, dân làng chúng tôi cương quyết giữ cây, không cho đốn hạ và mời bằng được các nhà khoa học và chuyên gia đến thẩm định, tìm hướng khắc phục, cứu cây", ông Ninh cho biết.
+Nhờ tháo dỡ kịp thời những khối đất đá bị chèn ép quanh thân cây, nới rộng không gian sống, bón phân vi sinh, cắt tỉa những cành bị sâu bệnh nên hiện tại "cụ táu" đã có dấu hiệu phục hồi.
+Với những giá trị về lịch sử, văn hóa này, cây táu trước cửa đền Thiên Cổ được công nhận là cây di sản không chỉ là niềm tự hào của người dân thôn Hương Lan mà còn là một di tích lịch sử có giá trị của dân tộc.
+Hoài Trang

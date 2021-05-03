@@ -1,9 +1,17 @@
 # doc_id = news_society_201
-# url = https://dantri.com.vn/xa-hoi/no-luc-tim-kiem-nguoi-dan-ong-mat-tich-nghi-bi-nuoc-cuon-troi-20210430100626982.htm
-# date = 20210430
-Sáng 30/4, thông tin từ UBND xã Hương Hóa, huyện Tuyên Hóa (Quảng Bình) cho biết, chính quyền địa phương đang phối hợp với các lực lượng chức năng nỗ lực tìm kiếm một người đàn ông mất tích.
-Người vừa mất tích là ông Nguyễn Chí Thanh (SN 1969), trú thôn Tân Đức, xã Hương Hóa, huyện Tuyên Hóa.
-Lực lượng chức năng đang nỗ lực tìm kiếm nạn nhân.
-Trước đó, ngày 29/4, ông Thanh trong lúc đi chăn trâu đã lội qua sông Rào Bội và mất tích. Thời điểm này, trên địa bàn xã Hương Hóa có mưa to, nước sông Rào Bội dâng cao và chảy xiết.
-Theo người dân địa phương, việc ông Thanh không may mất tích có thể do bị nước sông Rào Bội cuốn trôi.
-Đặng Tài
+# url = https://dantri.com.vn/xa-hoi/o-dich-ha-nam-phuc-tap-ha-noi-nang-canh-bao-nguy-co-len-muc-cao-nhat-20210429185159070.htm
+# date = 20210429
+Phó Chủ tịch UBND TP Hà Nội Chử Xuân Dũng (giữa) phát biểu chỉ đạo tại cuộc họp chiều 29/4 (Ảnh: Thành Trung).
+Hà Nội có 2 ca F1 liên quan ca bệnh ở Hà Nam
+Chiều 29/4, sau khi thông tin cụ thể về trường hợp F0 tên N.V.Đ. (SN 1993, ở huyện Lý Nhân, tỉnh Hà Nam), ông Hoàng Đức Hạnh - Phó Giám đốc Sở Y tế Hà Nội - cho biết, hiện lực lượng chức năng xác định có thêm 1 trường hợp F1 (ở huyện Đông Anh) đi ăn cỗ chung với bệnh nhân này. Như vậy, Hà Nội đã phát hiện 2 trường hợp F1 liên quan đến bệnh nhân Đ.
+Lãnh đạo Sở Y tế cho hay, thời gian vừa qua, công tác phòng, chống dịch bệnh của Hà Nội được triển khai rất tích cực. Tuy nhiên "ổ dịch" ở Hà Nam đang diễn biến rất phức tạp nên việc nguy cơ dịch sẽ xuất hiện ở thành phố là rất cao.
+"Có thể sắp tới sẽ có đợt dịch mới. Thông thường số lượng ca mắc đợt dịch sau cao hơn đợt dịch trước. Vì vậy đề cao cảnh giác với nguy cơ dịch bệnh, thực hiện triệt để các biện pháp phòng, chống và sẵn sàng với phương châm 4 tại chỗ" - ông Hạnh nói và cho biết, hiện trên địa bàn có hiện tượng người dân tụ tập đông nhưng không đeo khẩu trang.
+Sau khi nhắc lại các nhiệm vụ trọng tâm cần thực hiện triệt để trong thời gian trong và sau kỳ nghỉ lễ 30/4 - 1/5, ông Hạnh cho hay, dịch bệnh có thể xâm nhập vào địa bàn bằng 2 con đường. Thứ nhất là nhập cảnh có phép, tức là nếu việc cách ly tập trung không nghiêm sẽ lây ra cộng đồng như ở tỉnh Yên Bái. Thứ hai là nhập cảnh trái phép.
+"Vì vậy, cần hết sức cảnh giác, tập trung triển khai tất cả các biện pháp phòng chống dịch… Đặc biệt, các đơn vị được giao nhiệm vụ thực hiện cách ly tập trung cần tiếp tục thực hiện nghiêm túc việc cách ly y tế, không để lây nhiễm chéo trong khu cách ly cũng như không để dịch bệnh lây lan từ khu cách ly ra cộng đồng" - ông Hạnh nói.
+Lực lượng chức năng đã lập 5 chốt chặn, cách ly toàn bộ thôn Quan Nhân (tỉnh Hà Nam) vào chiều 29/4.
+Nâng mức cảnh báo bùng phát dịch lên mức cao nhất
+Sau khi lắng nghe các ý kiến về công tác phòng, chống dịch từ sở, ngành, địa phương, Phó Chủ tịch UBND thành phố, Trưởng Ban Chỉ đạo phòng, chống dịch Covid-19 TP Hà Nội Chử Xuân Dũng đề nghị cần nâng cao mức cảnh báo nguy cơ bùng phát dịch bệnh ở Thủ đô lên mức độ cao nhất.
+"Những ngày gần đây, 1 số tỉnh đã có ca dương tính ngoài cộng đồng. Yên Bái một trường hợp là nhân viên khách sạn lây trong khu cách ly. Ở Hà Nam có 5 người và theo thông báo sơ bộ có hàng chục trường hợp F1 với ca bệnh này, trong đó có 2 ca F1 ở Hà Nội tính đến cuối chiều nay (29/4)" - ông Dũng thông tin thêm.
+Để phòng, chống dịch bệnh trong thời gian tới, ông Dũng khuyến cáo các cơ quan liên quan, người dân thực hiện triệt để thông điệp 5K của Bộ Y tế. Đồng thời, quản lý chặt các khu cách ly tập trung trên địa bàn, không để dịch lây từ trong khu cách ly ra bên ngoài và lây chéo trong khu cách ly với nhau.
+"Cần quản lý chặt chẽ việc người dân di chuyển đến Hà Nội sau đợt nghỉ lễ. Phát huy sức mạnh của tổ Covid-19 cộng đồng, làm tốt công tác rà soát, khai báo y tế sau nghỉ lễ… Sắp tới, trên địa bàn thành phố sẽ "nóng" hơn rất nhiều" - ông Dũng nhận định.
+Nguyễn Trường

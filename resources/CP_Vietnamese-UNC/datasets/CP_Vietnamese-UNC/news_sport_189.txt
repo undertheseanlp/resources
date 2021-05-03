@@ -1,15 +1,17 @@
 # doc_id = news_sport_189
-# url = https://dantri.com.vn/the-thao/nguoi-mau-to-c-ronaldo-hiep-dam-doi-boi-thuong-gan-2000-ty-dong-20210430204332731.htm
-# date = 20210430
-Kathryn Mayorga từng lên tiếng tố cáo bị C.Ronaldo hãm hiếp trong một khách sạn tại Las Vegas vào năm 2009. Tất nhiên, sau đó siêu sao người Bồ Đào Nha đã gạt phắt những cáo buộc trên và khẳng định mình trong sạch.
-C.Ronaldo từng bị cáo buộc hiếp dâm Kathryn Mayorga vào năm 2009.
-Vụ việc này tưởng chừng đã chìm xuồng khi trong thời gian dài, nó đã không xuất hiện trên mặt báo. Thế nhưng, vào năm 2018, cảnh sát Las Vegas (Mỹ) mở lại cuộc điều tra. Nguyên nhân bởi Kathryn Mayorga đã đâm đơn khiếu kiện trở lại.
-Cô cho rằng những cáo buộc vẫn chưa được xử lý thỏa đáng. Bên cạnh đó, người mẫu này còn khẳng định đã bị phía C.Ronaldo ép buộc và hăm dọa phải "ngậm miệng ăn tiền" theo một thỏa thuận riêng.
-Theo thông tin từ báo giới Anh, ban đầu Kathryn Mayorga đã chấp nhận số tiền bồi thường 310.000 euro từ phía C.Ronaldo vào năm 2010. Tuy nhiên, tới năm 2018, Kathryn Mayorga được cho là đã "lật lọng" và kiện lại C.Ronaldo.
-Điều đó khiến cho siêu sao người Bồ Đào Nha cảm thấy tức giận. Anh đã thuê một đội ngũ luật sư để bác bỏ cáo buộc. Anh cho rằng người mẫu Kathryn Mayorga đã thực hiện tống tiền với mình.
-Siêu sao của Juventus chia sẻ: "Tôi kiên quyết phủ nhận những cáo buộc hướng về mình. Hiếp dâm là tội ác ghê tởm và ngược lại với bản chất của tôi".
-C.Ronaldo bị yêu cầu bồi thường hơn 65 triệu euro.
-Theo nguồn tin từ tờ Mirror, Kathryn Mayorga vẫn chưa dừng lại ở đó. Trong động thái mới nhất, cô đã yêu cầu C.Ronaldo phải bồi thường tới 65,1 triệu euro (hơn 1800 tỷ đồng).
-Trong đó bao gồm 41,5 triệu euro phí bồi thường cho những tổn thương mà cô gánh chịu trong nhiều năm qua, 20,5 triệu euro phí trừng phạt vì "tội ác" của C.Ronaldo và 3 triệu euro tiền án phí.
-Tất nhiên, đòi hỏi của Kathryn Mayorga được xem là quá mức và C.Ronaldo không chấp nhận bồi thường số tiền lớn như vậy. Con số ấy tương đương với hơn 2 năm lương của CR7 ở Juventus.
+# url = https://dantri.com.vn/the-thao/nhan-cu-soc-lon-psg-du-suc-tao-nen-ky-tich-truoc-man-city-20210501062046067.htm
+# date = 20210501
+Ở trận lượt đi vòng bán kết Champions League, PSG đã hứng chịu thất bại với tỷ số 1-2 ngay trên sân nhà Công viên các Hoàng tử trước Man City. Điều đó khiến cho đội bóngnước Pháp phải đối diện với thách thức cực lớn ở lượt về.
+Mbappe dính chấn thương ngay trước thềm trận đấu với Man City.
+Theo đó, nếu muốn đi tiếp, PSG sẽ phải giành chiến thắng với cách biệt 2 bàn (hoặc tỷ số từ 3-2 trở lên) trên sân Etihad. Tuy nhiên, ngay trước thềm trận đánh lớn, PSG đã đón nhận tin không vui từ Mbappe.
+Báo giới Pháp đưa tin, Mbappe đã vắng mặt trong danh sách đăng ký của PSG thi đấu ở trận đấu với Lens ở Ligue 1 vào cuối tuần này. Chân sút người Pháp được cho là gặp vấn đề ở bắp chân phải.
+Hiện tại, người ta chưa rõ Mbappe sẽ phải nghỉ thi đấu lâu. Người ta bắt đầu nghi ngờ về khả năng tiền đạo sinh năm 1998 sẽ không kịp thời trở lại trong trận đấu với Man City vào giữa tuần sau.
+Nói về chấn thương của Mbappe, HLV Pochettino cho biết: "Mbappe đang gặp vấn đề ở bắp chân phải. Chúng tôi hy vọng rằng cậu ấy không gặp chấn thương nghiêm trọng và sẽ sớm trở lại. Đó là cầu thủ rất quan trọng với chúng tôi.
+Tôi đã nói chuyện về tình trạng của Mbappe với nhân viên y tế cũng như cá nhân cậu ấy. Tôi cho rằng Mbappe không gặp vấn đề gì lớn. Chỉ là phần cơ bắp của cậu ấy bị căng thẳng do hoạt động liên tục trong thời gian dài. Chúng ta từng thấy Mbappe đạt mức tốt nhất về thể chất".
+Nếu như Mbappe vắng mặt thì đó sẽ là tổn thất cực lớn của PSG. Dù thi đấu mờ nhạt trong trận đấu với Man City ở lượt đi bán kết Champions League nhưng cầu thủ này vẫn là cái tên vô cùng quan trọng.
+Idrissa Gueye sẽ vắng mặt trong trận đấu với Man City vì án treo giò.
+Ở mùa này, Mbappe đã ra sân 37 bàn thắng sau 43 trận đấu trên mọi đấu trường, trong đó có 8 bàn thắng trong 10 trận ở Champions League.
+Cũng trong trận đấu với Man City, PSG còn không có sự phục vụ của nhân tố quan trọng khác là tiền vệ phòng ngự Idrissa Gueye. "Máy quét" của PSG đã phải nhận thẻ đỏ sau pha vào bóng thô bạo với Ilkay Gundogan trong trận đấu lượt đi.
+Trong khi đó, hậu vệ Juan Bernat và thủ môn Alexandre Letellier chắc chắn sẽ không thể góp mặt trong trận đấu sắp tới vì những chấn thương trước đó.
+Trước mắt, PSG sẽ phải chạm trán với Lens ở Ligue 1 vào cuối tuần này. Đây cũng là trận đấu mà đội bóng của HLV Pochettino buộc phải thắng. Bởi lẽ, hiện tại, họ đang xếp thứ 2 ở Ligue 1 với 72 điểm, kém Lille 1 điểm trong bối cảnh mùa giải chỉ còn 4 vòng đấu.
 H.Long

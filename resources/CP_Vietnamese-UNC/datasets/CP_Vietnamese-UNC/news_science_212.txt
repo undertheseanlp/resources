@@ -1,13 +1,15 @@
 # doc_id = news_science_212
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tai-sao-mot-so-nguoi-thuan-tay-phai-mot-so-lai-thuan-tay-trai-20210413062551532.htm
-# date = 20210413
-Từ xa xưa, người Inca, một nền văn minh lâu đời ở Nam Mỹ đã cho rằng những người thuận tay trái có sức mạnh tâm linh đặc biệt. Trong khi đó, tại các dân tộc Zuni, Bắc Mỹ, một người sẽ được coi là may mắn khi thuận tay trái.
-Việc thường xuyên sử dụng thuần thục một bàn tay nhiều hơn bàn tay còn lại được gọi là "thuận tay". Nhiều nơi trên thế giới đều có quan niệm này.
-Con người trong suốt chiều dài lịch sử đã thích sử dụng tay phải thay vì tay trái để làm mọi việc. Nhiều bằng chứng cho thấy tổ tiên của chúng ta có xu hướng sử dụng tay phải cho các công việc như ném đá hoặc hái quả từ cách đây khoảng 7 triệu năm.
-Ở góc độ khoa học, liên tục đổi tay khi làm một việc gì đó có thể khiến não mất nhiều thời gian hơn để học cách làm những việc đó. Vì vậy não của chúng ta "yêu cầu" nên có một ưu tiên cụ thể.
-Đó cũng là lý do tại sao bạn có thể thích sử dụng một chân cụ thể khi đá bóng và càng đá bằng chân đó, bạn càng đá giỏi hơn.
-Đáng chú ý là chức năng não của con người cũng có xu hướng tương tự. Đơn cử như bàn tay bạn sử dụng để viết hoặc ném bóng thường liên quan đến phần não mà bạn sử dụng để nói.
-Trên thực tế, bạn dùng tay nào không phải là do lựa chọn mà được. Thay vào đó, đó là sự pha trộn giữa các gene nhận được từ cha mẹ và cả kinh nghiệm sống của chính bạn.
-Nhưng có điều thú vị là các cặp song sinh giống hệt nhau, những người có cùng gene giống hệt nhau, không phải lúc nào cũng có cùng một kiểu thuận tay.
-Hầu hết các bậc cha mẹ có thể bắt đầu biết con mình thích tay nào hơn vào khoảng 2 tuổi. Tuy nhiên, các nhà khoa học có thể dự đoán chính xác một đứa trẻ sẽ thuận tay trái hay tay phải trước khi được sinh ra. Bằng cách đo cánh tay nào cử động nhiều nhất ở trẻ khi còn trong bụng mẹ, họ có thể xác định đứa trẻ sẽ thuận tay nào hơn khi chào đời.
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tai-sao-nuoc-mat-cua-con-nguoi-lai-co-vi-man-20210424052658581.htm
+# date = 20210424
+Trong tự nhiên, có một câu chuyện liên quan đến độ mặn của nước mắt liên quan đến loài rùa biển. Khi rùa biển mẹ bò lên bãi biển vào ban đêm để đẻ trứng, các nhà nghiên cứu phát hiện có thể thấy chúng rơi vài giọt nước mắt. Truyền thuyết cổ xưa tin rằng rùa mẹ đang khóc vì chúng sẽ không bao giờ được gặp con của mình.
+Nhưng các nhà khoa học đã phát hiện ra rùa biển không thực sự khóc. Thay vào đó, rùa biển đang loại bỏ muối khỏi cơ thể thông qua việc khóc một vài giọt nước mắt rất mặn.
+Vì rùa biển sống trong nước biển mặn và thức ăn ưa thích của chúng là sứa nên tích tụ quá nhiều muối trong cơ thể có thể gây độc. Vì vậy, chúng cần phải "thải" lượng muối này ra khỏi cơ thể để tồn tại bình thường.
+Trong khi đó, nếu con người ăn quá nhiều muối hoặc chất này tích tụ trong cơ thể, thận sẽ giúp đào thải muối ra ngoài khi chúng ta đi vệ sinh. Nhưng thận của rùa biển không thông minh như thận của con người và chúng không thể loại bỏ đủ muối trong cơ thể. Vì vậy, rùa biển có một tuyến muối đặc biệt trong mỗi mắt, có kích thước gấp đôi não của chúng, giúp bơm lượng muối bổ sung này vào nước mắt của chúng.
+Những giọt nước mắt của rùa biển rất mặn, một số loài động vật như bướm đã phát hiện ra và có hành động đặc biệt đó là liếm những giọt nước mắt của rùa.
+Với con người, nếu thận của chúng ta hoạt động tốt hơn của rùa, chúng ta cũng không ăn sứa vào bữa sáng thì tại sao nước mắt của chúng ta vẫn có vị mặn?
+Tất cả các chất lỏng trong cơ thể chúng ta đều có một chút muối trong đó. Muối này được tạo thành điện sinh lý để giúp cơ co lại và não của chúng ta suy nghĩ. Lượng muối trong chất lỏng cơ thể của chúng ta (như nước mắt, mồ hôi và nước bọt) tương đương với lượng muối trong máu, chỉ dưới 1%, hoặc khoảng hai thìa cà phê muối/lít. Vì vậy, nước mắt của chúng ta ít mặn hơn nhiều so với nước mắt của rùa biển, mặc dù vẫn có một chút mặn.
+Có 3 loại nước mắt chính của con người. Độ mặn của nước mắt có thể thay đổi tùy thuộc vào loại nước mắt. Một phần của mắt được gọi là tuyến lệ sẽ tạo ra ba loại nước mắt khác nhau. Chúng được gọi là nước mắt cơ bản, nước mắt phản xạ và nước mắt cảm xúc.
+Trong đó, nước mắt cơ bản giữ cho mắt chúng ta ướt, ngăn chặn vi trùng khó chịu lây nhiễm. Nước mắt phản xạ được tạo ra khi mắt cần rửa sạch thứ gì đó có hại xâm nhập vào, chẳng hạn như khói hoặc một hạt cát bay vào mắt. Nước mắt xúc động là loại nước mắt bạn khóc khi bạn cảm thấy rất vui hoặc buồn.
+Nước mắt cơ bản và nước mắt phản xạ có nhiều muối hơn nước mắt xúc động, điều này rất quan trọng để giữ cho đôi mắt của chúng ta khỏe mạnh.
+Nước mắt xúc động chứa nhiều thứ khác, bao gồm một loại hormone (một loại hóa chất đặc biệt trong cơ thể con người) hoạt động giống như một loại thuốc giảm đau tự nhiên. Điều này có thể giúp giải thích tại sao đôi khi chúng ta cảm thấy dễ chịu hơn sau khi khóc.
 Trang Phạm

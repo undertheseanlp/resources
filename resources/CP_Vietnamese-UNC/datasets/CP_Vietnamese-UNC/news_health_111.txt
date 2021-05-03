@@ -1,4 +1,24 @@
 # doc_id = news_health_111
-# url = https://dantri.com.vn/suc-khoe/dong-tac-sieu-don-gian-giup-mong-san-chac-20210417164612203.htm
-# date = 20210417
-Thư Quỳnh - Nguyễn Quang
+# url = https://dantri.com.vn/suc-khoe/gap-doi-nguy-co-dot-quy-sau-50-tuoi-do-mo-mau-tang-cao-20210427131440631.htm
+# date = 20210427
+Theo thống kê của Hội Phòng chống tai biến mạch máu não Việt Nam, mỗi năm ở nước ta có 200.000 ca đột quỵ não, một nửa trong số đó không qua khỏi hoặc bị tàn phế suốt đời, số còn lại sức khỏe suy giảm, nguy cơ tái đột quỵ cao. Độ tuổi người bị đột quỵ ngày càng trẻ hóa, đa phần là nam giới tuổi 50 trở lên, trong đó hơn 1 nửa nguyên nhân gây ra đột quỵ là do mỡ máu tăng cao.
+Còn theo thống kê của Viện Dinh dưỡng Việt Nam, có tới 29% người trưởng thành bị mỡ máu tăng cao, trong đó 44,3% sống ở thành thị, cứ 3 người thì có một người mắc phải căn bệnh này.
+Mỡ máu tăng cao coi chừng đột quỵ
+Mỡ máu tăng cao hay còn gọi là máu nhiễm mỡ, rối loạn lipid máu thường diễn biến âm thầm với những triệu chứng không rõ ràng. Thông qua các xét nghiệm, người bệnh được chẩn đoán mỡ máu khi các chỉ số về cholesterol, triglycerid, lipoprotein, apoprotein, axit béo tự do và phospholipide tăng quá mức quy định, trong đó đáng chú ý nhất là cholesterol và triglycerid.
+Cholesterol chủ yếu do gan tạo ra từ các chất béo bão hòa. Có 2 loại cholesterol xấu, đó là LDL-C và VLDL-C, chúng có khả năng làm xơ vữa động mạch, nhất là động mạch vành tim và động mạch não dẫn đến tăng huyết áp, đột quỵ não, nhồi máu cơ tim.
+Trong khi đó, triglycerid được tạo ra khi các axit béo sau khi hấp thu qua gan, được gan chuyển hóa thành cholesterol, lượng axit béo tự do không được gan chuyển hóa sẽ dư thừa và trở thành triglycerid. Khi triglycerid tăng, ngoài việc làm xơ vữa động mạch, chúng còn có khả năng làm gan bị nhiễm mỡ.
+Đột quỵ não được ví như một cơn đau não, xảy ra khi lưu lượng máu đến một vùng não bị gián đoạn. Mỡ máu cao chính là nguyên nhân gây gián đoạn việc máu lên não. Bởi khi lượng mỡ trong máu cao sẽ làm sẽ làm cản trở sự lưu thông của dòng máu trong các thành mạch, lâu dần các hạt mỡ bám lên thành mạch và hình thành các mảng xơ vữa làm hẹp lòng động mạch. Cho đến khi các mảng xơ vữa rơi xuống lòng mạch sẽ tạo thành các cục máu đông di chuyển khắp cơ thể. Các cục máu đông và mảng xơ vữa này di chuyển và tắc ở não chính là nguyên nhân gây ra đột quỵ.
+Ngăn ngừa mỡ máu, phòng chống đột quỵ
+Mỡ máu tăng cao chủ yếu do chế độ dinh dưỡng hàng ngày không hợp lý. Người 50 tuổi trở lên cần đều đặn khám sức khỏe mỗi năm để kiểm soát nồng độ cholesterol trong máu, tham vấn chế độ dinh dưỡng do các chuyên gia khuyến cáo khi được chẩn đoán mỡ máu tăng cao.
+Chế độ dinh dưỡng được khuyến cáo bao gồm: hạn chế ăn các loại thức ăn có chứa các chất béo và cholesterol như: bơ, sữa toàn phần, thịt xông khói, dầu dừa, dầu quả cây cọ, các phủ tạng động vật, lòng động vật, da (gà, vịt, ngỗng), các loại thịt đỏ (trâu, bò, chó…), tôm; hạn chế dùng các loại thực phẩm chiên rán; hạn chế hoặc bỏ hẳn rượu bia. Ngoài ra cần kết hợp vận động cơ thể thường xuyên giúp tiêu hao lượng mỡ dư thừa trong cơ thể.
+Với những người đã bị mỡ máu cao phải thường xuyên sử dụng các loại thuốc Tây để giảm mỡ máu dễ gặp phải các tác dụng phụ không mong muốn như tăng men gan, tiêu cơ vân cấp, suy thận, tăng nguy cơ mắc tiểu đường… Do đó cần tăng cường "vũ khí" bảo vệ cơ thể với loại thực phẩm bảo vệ sức khỏe là "khắc tinh" của mỡ máu.
+Người trên 50 tuổi có thể tham khảo sử dụng NattoEnzym Red Rice được nghiên cứu và phát triển bởi Công ty Cổ phần Dược Hậu Giang - hãng dược phẩm uy tín hàng đầu Việt Nam với tuổi đời 47 năm. Sản phẩm chứa enzym nattokinase có khả năng phân hủy sợi fibrin làm đông máu, kết hợp với men gạo đỏ giảm cholesterol trong máu, làm tăng tuần hoàn máu, giảm nguy cơ xơ vữa động mạch và tắc nghẽn mạch máu cho người bị mỡ máu cao. NattoEnzym Red Rice được Hiệp hội Nattokinase Nhật Bản cấp dấu chứng nhận JNKA duy nhất tại Việt Nam, được phân phối tại các nhà thuốc lớn trên toàn quốc.
+TPBVSK viên nang "NattoEnzym, NattoEnzym 1000, NattoEnzym Red Rice - Hỗ trợ phòng ngừa đột quỵ do cục máu đông - Nguyên liệu Nhật Bản", giúp cải thiện tình trạng xây xẩm chóng mặt, tê yếu tay chân do thiếu máu não; hỗ trợ làm tan cục máu đông trong lòng mạch, tăng tuần hoàn máu; hỗ trợ phòng bệnh lý liên quan đến cục máu đông do tắc nghẽn mạch máu.
+NattoEnzym Red Rice còn hỗ trợ giảm cholesterol máu cho người mỡ máu cao.
+Sản phẩm của: Công ty CP Dược Hậu Giang - Thành viên Hiệp hội Nattokinase Nhật Bản (JNKA)
+Địa chỉ: 288 Bis Nguyễn Văn Cừ, An Hòa, Ninh Kiều, Cần Thơ.
+Điện thoại: (0292) 3891433 GPQC: 2097/2020/XNQC-ATTP
+Sản phẩm không phải là thuốc, không có tác dụng thay thế thuốc chữa bệnh.
+Dược Hậu Giang có 02 dây sản xuất trên dây chuyền viên nén và viên nén bao phim đạt tiêu chuẩn Japan-GMP.
+Chi tiết về JPN GMP vui lòng xem tại đây: http://japangmp.dhgpharma.com.vn/vi/
+Trường Thịnh

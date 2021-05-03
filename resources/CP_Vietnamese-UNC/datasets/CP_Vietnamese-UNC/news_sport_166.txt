@@ -1,27 +1,29 @@
 # doc_id = news_sport_166
-# url = https://dantri.com.vn/the-thao/luot-di-ban-ket-champions-league-dang-sau-cu-soc-noi-day-20210425202411356.htm
-# date = 20210425
-Lịch thi đấu lượt đi bán kết Champions League:
-02h00 ngày 28/4
-Real Madrid vs Chelsea
-02h00 ngày 29/4
-PSG vs Man City
-(đội đứng trước sẽ đóng vai trò chủ nhà ở lượt đi).
-Bóng đá châu Âu vừa trải qua một tuần đầy sóng gió. 12 CLB hàng đầu Lục địa già đã tuyên bố thành lập siêu giải đấu European Super League. Đây được xem là đối trọng thực sự với Champions League.
-Vòng bán kết Champions League diễn ra ngay sau khi nhóm 12 CLB "nổi dậy" đòi ly khai.
-Người đứng đầu European Super League, Florentino Perez đã hơn một lần lên tiếng thách thức UEFA lẫn FIFA. Tuy nhiên, "cuộc nổi dậy" này cũng chỉ tồn tại trong vòng 56 giờ. Trước làn sóng phản đối mạnh mẽ từ Chính phủ và người hâm mộ, 9 CLB đã tuyên bố rút lui khỏi European Super League. Chỉ còn 3 CLB sót lại là Real Madrid, Barcelona và Juventus.
-Trong số 12 CLB "nổi dậy" thì có tới 3 đội bóng sẽ tham dự vòng bán kết Champions League, đó là Real Madrid, Chelsea và Man City. Chỉ có duy nhất PSG đứng ngoài cuộc chơi.
-Bởi lẽ đó, vòng bán kết Champions League đang được chú ý hơn bao giờ. Điều người ta muốn xem là thái độ của các CLB này ra sao ở giải đấu mà chính họ vừa phản đối cách đây vài ngày. Đặc biệt là Real Madrid, khi mà Chủ tịch Florentino Perez vẫn không ngừng công kích.
-UEFA đương nhiên không thể loại Real Madrid khỏi Champions League ở thời điểm này vì những vấn đề liên quan tới bản quyền truyền hình. Nhưng họ cũng "đe dọa" sẽ có biện pháp trừng phạt trong tương lai.
-Do đó, ở thời điểm "tranh tối tranh sáng" này, Real Madrid càng được chú ý nhiều hơn. Nếu xét về chuyên môn, sự già dơ của Los Blancos, cộng thêm bản lĩnh của Zidane giúp những người hâm mộ có quyền hy vọng vào việc họ lần thứ 4 đăng quang dưới thời Zizou.
-Real Madrid của "ông trùm" Florentino Perez sẽ thi đấu ra sao ở Champions League khi tâm lý bị chi phối?
-Đẳng cấp của Real Madrid đã được chứng minh ngay trong trận đấu với Liverpool. Trong cả hai lượt đấu, họ đều không phải là CLB kiểm soát thế trận. Nhưng điều quan trọng, đoàn quân của HLV Zidane luôn biết cách ra đòn đúng lúc. Họ đã khiến cho dàn sao của Liverpool thực sự "cứng chân".
-Chelsea đương nhiên cũng không phải là đối thủ dễ dàng của Real Madrid. Dưới thời HLV Thomas Tuchel, Chelsea đã trở nên "rắn chắc" và khó chịu hơn. Sự lầm lỳ của Chelsea đã được thể hiện qua việc họ lần lượt vượt Atletico Madrid và Porto ở vòng knock-out Champions League mùa này.
-Một con số cho thấy sự khủng khiếp của Chelsea, đó là việc họ đã giữ sạch lưới trong 16/21 trận đấu dưới thời HLV Thomas Tuchel. Nói cách khác, Real Madrid đối đầu với đối thủ có lối chơi hoàn toàn khác so với Atalanta và Liverpool. Và họ chưa chắc có thể vận dụng tốt nhất điểm mạnh của mình (đó là pha phản công).
-Trận đấu còn lại giữa PSG và Man City sẽ mang tới sắc màu khác. Đó là cuộc chiến của kim tiền, của hai thế lực mới vươn lên nhờ đồng tiền. Trước đây, cả PSG và Man City đều bị nghi ngờ về bản lĩnh. Dù sở hữu đội hình rất mạnh như họ chưa bao giờ lọt sâu ở Champions League.
-Tuy nhiên, thực tế giờ đây đã thay đổi. Sau khi giành quyền vào chung kết Champions League mùa trước, PSG đã lần lượt vượt qua Barcelona và Bayern Munich để lọt vào bán kết. Trong khi đó, đây là lần đầu tiên Man City của Pep Guardiola góp mặt ở vòng đấu của 4 đội mạnh nhất.
-Man City và PSG sẽ là trận chiến của kim tiền.
-Để góp mặt ở trận đấu này, Man City và PSG đã phải chi ra cả tỷ euro để tăng cường lực lượng trong nhiều năm qua. Đây không còn là trận chiến xem ai nhiều tiền hơn, mà là cuộc chiến của sự khẳng định.
-Dưới thời HLV Pellegrini, Man City từng loại PSG ở tứ kết Champions League 2015/16 với tỷ số 3-2 chung cuộc. Mặc dù vậy, ở thời điểm này, tính chất của trận đấu đã khác trước rất nhiều bởi cả hai đã dần có vị thế ở châu Âu. Hơn nữa, trận đấu này có quyết định trực tiếp tới tấm vé vào thiên đường.
-Cả hai trận đấu ở Champions League đều mang tới sắc màu riêng. Khi diễn ra ở thời điểm "nhạy cảm" này, nó hứa hẹn sẽ hấp dẫn hơn bao giờ hết.
-H.Long
+# url = https://dantri.com.vn/the-thao/man-utd-31-burnley-cu-dup-an-tuong-cua-mang-non-greenwood-20210418154021149.htm
+# date = 20210418
+Man Utd giành chiến thắng khá vất vả trước đội bóng đang đứng ở khu vực gần cuối bảng xếp hạng, Burnley tại vòng 32 Premier League dù được thi đấu trên sân nhà. Đội khách hành quân tới Old Trafford với thành tích không thua trong bốn trận đấu gần nhất và Burnley sớm chứng minh không phải ngẫu nhiên họ có được chuỗi thành tích đáng nể ấy.
+Ngay giây thứ 22, lưới của Man Utd đã rung lên sau cú đánh đầu của Wood. Rất may cho đội chủ nhà, trọng tài đã không công nhận bàn thắng cho đội khách bởi lỗi việt vị của tiền đạo đội khách. Một pha bóng thót tim cho thủ thành trẻ Henderson, bởi anh mắc lỗi trong tình huống thủng lưới này khi quyết định rời xa khung thành thiếu hợp lý.
+Pha bóng tranh chấp trên không giữa Lindelof và Woods.
+Thoát khỏi bàn thua sớm, Man Utd nhanh chóng giành lấy thế trận, tạo áp lực lớn về phía đối thủ. Phút thứ 4, McTominay băng lên dứt điểm ở trung tâm vòng cấm địa hướng vào góc phải cầu môn, nhưng thủ thành Peacock-Farrell đã chặn bóng thành công. Sáu phút sau, thủ thành của Burnley tiếp tục tỏa sáng với tình huống bay người đẩy cú đánh đầu hiểm hóc của Pogba hướng vào góc trái, giúp đội khách tiếp tục giữ sạch lưới.
+Khoảng thời gian dài còn lại của hiệp thi đấu thứ nhất, các cầu thủ Man Utd áp đảo nhưng lại dứt điểm không sắc nét, họ thường xuyên dứt điểm ra ngoài nên phải bước vào giờ nghỉ mà không có bàn thắng. Ngay khi bước vào hiệp hai, HLV Solskjaer quyết định rút Fred ra sân, đưa Cavani vào thay thế. Mục đích của Man Utd rất rõ ràng, họ sẽ gia tăng tấn công.
+Phút 48, Rashford lên bóng bên cánh trái xâm nhập vòng cấm địa rồi chuyền bóng cho Fernandes đã lao vào chiếm lĩnh khu vực trung tâm. Tiền vệ người Bồ Đào Nha bỏ bóng rất bất ngờ. Quyết định đó của Fernandes tạo cơ hội dứt điểm cho Greenwood ở phía phải. Thoải mái dứt điểm, tiền đạo trẻ của Man Utd đặt lòng chân trái hiểm hóc hạ gục Peacock-Farrell mở tỉ số trận đấu.
+Greenwood ăn mừng cùng Rashford sau khi mở tỉ số trận đấu.
+Niềm vui của Man Utd ngắn chẳng tày gang. Phút 50, Tarkowski trong khi lên tham gia quả phạt góc của đội khách đã đánh đầu tung lưới của Man Utd quân bình tỉ số 1-1. Mặc dù Maguire chủ động tranh chấp người đồng đội ở tuyển Anh, tuy nhiên đội trưởng của Man Utd vẫn bị đối phương qua mặt bằng cú cài tay khôn khéo.
+Man Utd buộc phải gia tăng tấn công tìm kiếm thêm bàn thắng, nhưng họ gặp nhiều khó khăn trong việc tìm được vào khung thành của Peacock-Farrell, đội khách đã chơi phòng thủ nhiều lớp. Chiến thuật phòng thủ phản công, bằng những đường chuyền dài vượt tuyến của Burnley gây ra nhiều khó khăn cho đội chủ nhà. Những tiền đạo nhanh nhẹn và đầy cơ bắp phía trên của Burnley khiến hàng thủ của Man Utd liên tục đối mặt với nguy hiểm, dù họ thường lao lên với số ít cầu thủ.
+Rất bế tắc trong tấn công, song may mắn đã mỉm cười với đội chủ nhà. Bất ngờ xảy ra ở phút 84, Greenwood nhận bóng ở bên phải, anh quyết định dứt điểm sau khi xâm nhập vòng cấm địa. Cú sút quá mạnh của tiền đạo trẻ bên phía Man Utd đập chân cầu thủ đội khách và đi vào góc gần khiến Peacock-Farrell không kịp cản phá, nâng tỉ số lên 2-1.
+Cavani ấn định chiến thắng 3-1 cho Man Utd.
+Burnley buộc phải đánh liều xông lên sau khi bị thủng lưới lần hai, HLV Dyche quyết định sử dụng những quyền thay người để gia tăng khả năng tấn công. Dẫu vậy, đội khách đã dính đòn "hồi mã thương" ở phút 90, trong tình huống "4 đánh 4", Man Utd đan bóng nhuyễn, cầu thủ vào sân thay người Van De Beek kiến tạo cho Cavani ghi bàn ấn định chiến thắng 3-1.
+Có ba điểm từ trận đấu ở vòng 32 Premier League, Man Utd vươn lên có 66 điểm, kém đội đầu bảng Man City 8 điểm và hơn đội xếp sau Leicester 10 điểm. Có lẽ nếu không thể đua tranh ngôi vô địch, Man Utd cũng sẽ xây chắc vị trí thứ hai. Trong khi đó Burnley vẫn chỉ có 33 điểm, xếp thứ 17, hơn đội đứng thứ 18 - vị trí phải xuống hạng - 6 điểm.
+Đội hình thi đấu
+Man Utd (4-2-3-1): Henderson; Wan-Bissaka, Lindelof, Maguire, Shaw ; McTominay, Fred (Cavani 46'), Greenwood, Fernandes, Pogba ; Rashford (Van de Beek,84).
+Burnley (4-4-2): Peacock-Farrell; Lowton, Tarkowski, Mee, Taylor; Gudmundsson (Rodriguez, 88'), Cork, Westwood, McNeil; Brownhill (Vydra 88') Wood.
+Solskjaer tuyên bố Man Utd sẽ bám đuổi Man City tới cùng
+Chiến thắng trước Burnley tại Old Trafford sẽ giúp Manchester United thu hẹp khoảng cách với ngôi đầu bảng của Man City xuống còn tám điểm trong khi mùa giải còn lại sáu vòng đấu.
+Man City vẫn là ứng cử viên sáng giá giành ngôi vô địch Premier League mùa này. Tuy nhiên, cần phải nhớ lại rằng, Man Utd từng hơn Man City tám điểm khi mùa giải còn sáu vòng đấu tại Premier League và cuối cùng họ nhìn đối phương đăng quang ngôi vô địch ở mùa giải 2011/12. Vì vậy, cuộc đua giành ngôi vô địch tại Premier League năm nay vẫn chưa kết thúc.
+Solskjaer đã gửi tới Man City sự thách thức lớn khi khẳng định đội bóng của ông chiến đấu trong từng trận đấu và cố gắng giành chiến thắng.Solskjaer nói: "Mỗi trận đấu đều quan trọng đối với Man Utd và chúng tôi sẽ không để mất điểm một cách dễ dàng. Chúng ta có thể bắt kịp Man City không? Những điều kỳ lạ đã xảy ra trong bóng đá. Sự thách thức lớn hơn sẽ được thể hiện".
+"Tất nhiên, họ đã rất mạnh và khoảng cách quá lớn để nuôi hi vọng, nhưng miễn chúng tôi làm công việc của mình, đó là điều quan trọng nhất. Chúng tôi phải thắng mọi trận đấu trong giải đấu, chúng tôi hiểu như vậy. Sau đó, chúng tôi chỉ có thể hy vọng rằng điều gì đó sẽ xảy ra với Man City".
+Man Utd của Solskjaer đang thi đấu tốt trong thời gian gần đây.
+"Chúng tôi không thể kiểm soát những gì họ làm. Chúng tôi phải chơi từng trận một vì chúng tôi còn một số trận đấu khó khăn".
+Sau trận đấu với Burnley, Man Utd sẽ được nghỉ nguyên một tuần và Chủ nhật tới họ sẽ thi đấu với Leeds. Đây là tuần đầu tiên trong mùa giải năm nay, Man Utd được hưởng trọn một tuần nghỉ ngơi đúng nghĩa. Trong khi đó Man City đang phải căng mình thi đấu. Vào giữa tuần họ sẽ làm khách trên sân Aston Villa và vào cuối tuần tới sẽ thi đấu chung kết Carabao Cup gặp Tottenham.
+Ngay cả khi danh hiệu vô địch Premier League nằm ngoài tầm với, Solskjaer có thể chấm dứt gần 4 năm chờ đợi của Man Utd để giành chức vô địch Europa League sau chiến thắng chung cuộc 4-0 trước Granada ở tứ kết.
+Hạo Minh

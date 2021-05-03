@@ -1,14 +1,12 @@
 # doc_id = news_sport_099
-# url = https://dantri.com.vn/the-thao/doi-tuyen-thai-lan-gap-bat-loi-truoc-them-vong-loai-world-cup-20210426123841318.htm
-# date = 20210426
-Trước đó, HLV Akira Nishino đã công bố danh sách sơ bộ của đội tuyển Thái Lan chuẩn bị cho chiến dịch vòng loại World Cup 2022 khu vực châu Á, nơi họ ở cùng bảng G với các đội Việt Nam, Malaysia, Indonesia và UAE.
-Đồng thời, địa điểm mà Liên đoàn bóng đá Thái Lan (FAT) lựa chọn để đội tuyển của HLV Akira Nishino tập trung là tỉnh Samut Prakan.
-Đội tuyển Thái Lan có nguy cơ không thể hội quân đúng như kế hoạch, do diễn biến khó lường của dịch Covid-19.
-Tuy nhiên, diễn biến bất ngờ của dịch Covid-19 mới đây tại Thái Lan khiến kế hoạch mà FAT dành cho đội tuyển quốc gia Thái Lan bị ảnh hưởng nghiêm trọng.
-Theo đó, thủ đô Bangkok và một số địa phương của xứ sở Chùa Vàng sẽ tạm thời đóng cửa những địa điểm có nguy cơ bùng dịch cao, trong đó có cả những địa điểm tập luyện và thi đấu thể thao, kể từ hôm nay (26/4), kéo dài trong 14 ngày tới.
-Các nguồn tin từ Thái Lan cũng cho hay việc đưa quân đến tỉnh Samut Prakan mà FAT từng lên kế hoạch cho đội bóng đất Chùa Vàng cũng chưa chắc có thể thực hiện, do địa phương này cũng nằm trong vùng có nguy cơ.
-Hiện tại, HLV Akira Nishino vừa thông báo với FAT là cần phải có phương án dự phòng trước tình hình hiện tại, vì đội tuyển cần được tập trung hướng về nhiệm vụ quốc tế.
-Trước đó, ông Nishino phân 2 đợt tập trung đội tuyển, đợt 1 vào ngày 30/4, đối với các cầu thủ đến từ những đội bóng đã bị loại khỏi cúp FA của nước Thái. Đợt còn lại vào ngày 3/5, dành cho các cầu thủ đến từ những đội vào sâu ở cúp bóng đá Thái Lan năm nay.
-Với việc chưa thể xác định địa điểm tập trung đội tuyển, Thái Lan đang đối diện với nhiều khó khăn trong cuộc đua dành suất vào vòng loại thứ 3 vòng loại World Cup - khu vực châu Á, với đội tuyển Việt Nam.
-Đội bóng của HLV Park Hang Seo (hiện có 11 điểm) đang chiếm ưu thế về mặt điểm số so với Thái Lan (8 điểm), lại ít gặp trục trặc hơn trong khâu chuẩn bị.
-Thiện Nhân
+# url = https://dantri.com.vn/the-thao/doi-tuyen-viet-nam-chot-ngay-di-uae-di-chuyen-bang-chuyen-co-20210427190504717.htm
+# date = 20210427
+Theo đó, đợt tập huấn của đội tuyển Việt Nam sẽ chia làm 2 giai đoạn. Giai đoạn 1, thầy trò HLV Park Hang Seo hội quân tại Bình Định từ ngày 10/5 đến ngày 18/5/2021. Như vậy, ngay sau vòng 13 V-League kết thúc, một ngày sau Quang Hải cùng các đồng đội di chuyển tới Quy Nhơn để hội quân.
+Trong giai đoạn này, đội tuyển tập luyện tại SVĐ Quy Nhơn và có trận đấu giao hữu với CLB Bình Định vào ngày 17/5 nhằm kiểm tra, đánh giá lực lượng, đồng thời phục vụ nhu cầu tới sân thưởng thức bóng đá và cổ vũ cho đội tuyển của đông đảo người hâm mộ.
+Đội tuyển Việt Nam sẽ lên đường sang UAE ngày 26/5.
+Dự kiến trận đấu này BTC sân Quy Nhơn sẽ mở cửa miễn phí cho khán giả vào sân cổ vũ cho hai đội, tiếp lửa cho đội tuyển Việt Nam trước chiến dịch mới.
+Giai đoạn 2, đội tuyển Việt Nam tập trung tập luyện tại Hà Nội từ ngày 19/5 cho đến ngày 26/5, sau đó lên đường sang UAE bằng chuyến chuyên cơ, chuẩn bị bước vào chiến dịch vòng loại thứ hai World Cup 2022 khu vực châu Á.
+Với việc được tạo điều kiện sang UAE sớm, thầy trò HLV Park Hang Seo có quỹ thời gian lên tới 10 ngày tập luyện, bắt nhịp với điều kiện thời tiết, sân bãi cũng như điều chỉnh nhịp sinh học tại UAE. Được biết, trong thời gian này, nhiệt độ ở UAE có thể lên tới 40 độ C, tuy nhiên khá mát về đêm.
+Nhằm đáp ứng công tác chuyên môn của đội tuyển trong thời gian tập huấn tại UAE, VFF đang liên hệ để thầy trò HLV Park Hang Seo có 1 trận đấu giao hữu mang tính "tổng duyệt" vào ngày 31/5. Nếu không có gì thay đổi, quân xanh của đội tuyển Việt Nam là Jordan.
+Sau 5 trận đấu tại bảng G, đội tuyển Việt Nam đang dẫn đầu bảng với 11 điểm. Vị trí nhì bảng đang thuộc về Malaysia với 9 điểm. Tiếp theo lần lượt là Thái Lan (8 điểm), UAE (6 điểm) và cuối cùng là Indonesia (0 điểm). Theo lịch thi đấu đã được AFC công bố, đội tuyển Việt Nam gặp Indonesia ngày 7/6, gặp Malaysia ngày 11/6 và gặp chủ nhà UAE vào ngày 15/6.
+T.Đ

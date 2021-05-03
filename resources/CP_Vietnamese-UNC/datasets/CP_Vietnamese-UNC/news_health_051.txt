@@ -1,28 +1,12 @@
 # doc_id = news_health_051
-# url = https://dantri.com.vn/suc-khoe/bai-tap-30-phut-hoan-hao-cho-nguoi-moi-bat-dau-20210420102942249.htm
-# date = 20210420
-3 lượt tập thường quy này sẽ nhắm vào toàn bộ cơ thể. Vòng một nhắm vào phần thân dưới, vòng hai nhắm vào thân trên và vòng ba nhắm vào cơ bụng và vùng lõi. Toànbộ bài tập kéo dài khoảng 30 phút và có thể được thực hiện tại nhà hoặc phòng tập thể dục. Tất cả những gì bạn cần là một bộ tạ, một tấm thảm tập yoga và một chút động lực!
-Lượt 1:
-1.Squat
-Bắt đầu với hai bàn chân cách nhau hơi rộng hơn một chút so với vai và ngồi xổm ra sau như thể bạn đang ngồi trên ghế. Giữ ngực thẳng khi ngồi xổm, sau đó đẩy vào gót chân để đứng lên. Siết cơ mông ở mức cao nhất khi đứng lên, sau đó lặp lại. Thực hiện 15 lần với tạ tay 3-5kg.
-2.Bước lùi chùng chân
-Bắt đầu bằng hai bàn chân đặt cạnh nhau và bước lùi về tư thế chùng chân. Mỗi chân cần tạo một góc 90 độ, với đầu gối sau ngay trên mặt đất. Đảm bảo đầu gối trước không vượt qua ngón chân trước. Nếu được, hãy bước lùi dài hơn. Đứng dậy bằng cách đẩy vào gót chân trước, sau đó lặp lại. Thực hiện 15 lần mỗi bên, với tạ tay 3-5kg.
-3.Squat sang hai bên
-Bắt đầu với hai bàn chân cách nhau rộng hơn một chút so với vai và ngồi xổm ra sau như thể bạn đang ngồi trên ghế. Giữ ngực thẳng khi ngồi xổm, sau đó đẩy vào gót chân để đứng và bước sang phải hai bước. Thực hiện một động tác squat, đứng, sau đó bước hai bước sang trái và lặp lại. Thực hiện 10 lần mỗi bên.
-Nghỉ 60 giây và lặp lại lượt 3 bài tập này 3 lần.
-Lượt 2:
-1. Giơ và gấp tay
-Mỗi tay cầm 1 quả tạ chuông, nâng hai tay lên ngang vai một góc 90 độ, co cơ vai. Từ từ hạ xuống hai bên, sau đó gấp tay để đưa tạ lên ngang vai, co bắp tay lại. Thả ra và lặp lại xen kẽ giữa mỗi động tác. Thực hiện 10 lần, với tạ 2,5-4,5kg.
-2. Kéo thả tạ
-Bắt đầu bằng tư thế quỳ một chân trên ghế và nâng đỡ trọng lượng bằng chân còn lại bên cạnh. Giữ cho ngực hướng lên và lưng thẳng. Cầm tạ bằng một tay và kéo lên sát người, làm co cơ lưng ở mức cao nhất. Thả tạ xuống và lặp lại, sau đó chuyển sang bên kia. Thực hiện 15 lần mỗi bên, với tạ 3-5kg.
-3. Chống đẩy nghiêng
-Đặt hai bàn tay cách nhau rộng bằng vai trên ghế dài hoặc ghế tựa. Xoay tay ra ngoài một chút để giúp khủyu tay hơi cong vào và không bị xòe sang hai bên. Giữ người trên một đường thẳng, hạ thấp thân trên về phía ghế, sau đó đẩy người lên trở lại. Giữ chặt vùng lõi trong suốt quá trình tập và lặp lại. Thực hiện 8 lần. Nghỉ 60 giây và lặp lại lượt 3 bài tập này 3 lần.
-Lượt 3:
-1. Tấm ván
-Nâng đỡ người bằng cẳng tay và bàn chân, giữ người trên một đường thẳng. Không để hông tụt xuống hoặc nhô lên. Giữ tư thế này trong 30 giây.
-2. Leo núi
-Đặt bàn tay ngay dưới vai, cánh tay dang rộng và bàn chân cũng nâng đỡ người. Bắt đầu bằng cách đưa từng đầu gối vào ngực, giống như động tác chạy. Ép chặt vùng lõi mỗi lần làm và tiếp tục 30 lần.
-3. Nằm thẳng xoay người sang hai bên
-Bắt đầu ở tư thế tấm ván. Bắt đầu bằng cách chuyển hông từ bên này sang bên kia, hạ thấp chúng về phía mặt đất và sử dụng các cơ chéo để kéo người trở lại. Siết chặt vùng lõi trong mỗi lần thực hiện và tiếp tục 10 lần cho mỗi bên. Nghỉ 60 giây và lặp lại lượt 3 bài tập này 3 lần.
-Cẩm Tú
-Theo TODAY
+# url = https://dantri.com.vn/suc-khoe/be-2-tuoi-phai-muc-bo-mat-vi-phat-hien-ung-thu-muon-20210428122107445.htm
+# date = 20210428
+Trường hợp thương tâm trên là bệnh nhi N.V.K. (2 tuổi) vừa được tiếp nhận, điều trị tại Bệnh viện Nhi Đồng Thành Phố. Thời điểm bệnh nhi nhập viện, tình trạng sức khỏe khá ổn định. Khai thác bệnh sử của bác sĩ từ phía gia đình cho biết, trước khi nhập viện người nhà phát hiện mắt phải của bé có vùng bị trắng đục bất thường ở đồng tử nên đưa đến bệnh viện kiểm tra.
+Kết quả chẩn đoán hình ảnh cho thấy, mắt phải của bệnh nhi có khối u lớn nguy cơ xâm lấn, di căn.
+Qua thăm khám, chẩn đoán, bác sĩ xác định bệnh nhi bị ung thư nguyên bào võng mạc mắt bên phải. Sau khi hội chẩn kết hợp giữa tình trạng lâm sàng và hình ảnh cận lâm sàng cho thấy khối u đã phát triển khá lớn có nguy cơ xâm lấn, di căn. Các bác sĩ đã phải đưa ra quyết định rất khó khăn là cắt bỏ nhãn cầu để ngăn chặn sự tiến triển của khối u nhằm bảo vệ tính mạng cho bệnh nhi.
+Sau hơn 1 giờ phẫu thuật, nhãn cầu mắt phải có khối u của bệnh nhi đã được lấy ra ngoài thành công. Từ tình trạng sức khỏe của con ổn định, không có biểu hiện bất thường, bỗng nhiênphát hiện vùng trắng đục ở mắt phải rồi phải múc bỏ nhãn cầu khiến cha mẹ bệnh nhi vô cùng xót xa.
+Từ trường hợp trên, bác sĩ cảnh báo, ung thư nguyên bào võng mạc là một loại u ác tính trong mắt ở trẻ em. Bệnh thường xuất hiện với tần suất cao ở trẻ nhỏ từ 1 đến 2 tuổi, bệnh cũng có thể gặp ở trẻ 3 đến 6 tuổi thậm chí 8 tuổi nhưng tỷ lệ thấp.
+Ung thư nguyên bào võng mạc có thể xảy ra một bên mắt hoặc hai bên mắt. Tuy là bệnh ác tính, hiếm gặp nhưng ung thư nguyên bào võng mạc có thể chữa lành được. Thống kê cho thấy 95% trường hợp được chữa lành hoàn toàn nếu bệnh nhân được điều trị sớm ngay khi bệnh bắt đầu và việc điều trị sẽ nhẹ nhàng, ít tốn kém.
+Bác sĩ khuyến cáo phụ huynh cần quan sát kỹ con mình để nhận biết sớm những dấu hiệu gợi ý của ung thư võng mạc như: trẻ bị lé; đồng tử (con ngươi) có vùng trắng đục; ánh mắt mèo khi chụp hình trong tối có đèn flash. Phụ huynh nên đưa con đi kiểm tra mắt định kỳ khi trẻ được 1 tuổi, sau 3 tuổi và trước khi vào lớp 1, khám mắt định kỳ mỗi 6 tháng khi đi học để phát hiện sớm các dấu hiệu giúp chẩn đoán, điều trị kịp thời.
+Với sự tiến bộ của y học hiện đại, ung thư nguyên bào võng mạc ở trẻ nếu được phát hiện sớm có thể điều trị khỏi. Tùy thuộc vào kích thước khối u, vị trí u, 1 u hay nhiều u, 1 mắt hay 2 mắt và độ tuổi của trẻ bác sĩ sẽ đưa ra những chỉ định điều trị phù hợp. Đối với khối u kích thước nhỏ có thể điều trị giữ được mắt. Đối với khối u kích thước lớn, phương pháp điều trị duy nhất hiện tại là cắt bỏ nhãn cầu và đặt mắt giả, có thể kết hợp điều trị bằng hóa chất trước và sau phẫu thuật hoặc xạ trị sau phẫu thuật.
+Vân Sơn

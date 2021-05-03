@@ -1,12 +1,14 @@
 # doc_id = news_sport_120
-# url = https://dantri.com.vn/the-thao/hlv-hoang-van-phuc-kiatisuk-cuc-ky-toan-tinh-xuan-truong-qua-xuat-sac-20210418200901967.htm
-# date = 20210418
-HLV Hoàng Văn Phúc tỏ ra rất buồn khi đội nhà thua HA Gia Lai tại Pleiku, sau nhiều năm toàn thắng và hòa: "Thực ra trận gặp HA Gia Lai thế trận giằng co ở khu trung tuyến. HLV Kiatisuk thay đổi đấu pháp khi để cho Công Phượng đá sau. Hà Nội đã tính đến điều này. Trận đấu nặng về tính chiến thuật nên ai tận dụng được cơ hội thì chiến thắng".
-Nói về bàn thua của đội nhà, HLV Hoàng Văn Phúc cho biết: "Xuân Trường sút xa quá tốt khi tiền vệ của chúng tôi mất bóng. Trước đó Quang Hải chuyền cho Văn Quyết đẹp nhưng không thể ghi bàn. Chúng tôi có những cầu thủ chưa hoàn toàn bình phục chấn thương như Quang Hải, Văn Xuân".
-Theo HLV Hoàng Văn Phúc, CLB Hà Nội đã thua trước HA Gia Lai chơi đầy toan tính.
-Thuyền trưởng CLB Hà Nội vẫn tự tin tuyên bố Hà Nội hướng tới mục tiêu top 6 ở giai đoạn 1 LS V-League 2021: "Chúng tôi xác định từng trận một, trước mắt sau trận này thì hướng đến trận gặp Bình Định.
-Mục tiêu cứ vào top 6 đã còn lại tính sau. Khi bạn thắng 4 hay 5 trận thì bao giờ tinh thần cũng khác. Hà Nội đang khát điểm nên tâm lý nặng nề".
-HLV Hoàng Văn Phúc cho rằng HA Gia Lai đã may mắn khi cầu thủ không dính chấn thương như Hà Nội, đồng thời Kiatisuk là người rất toan tính.
-"Nếu HA Gia Lai mất Công Phượng, Xuân Trường, Brandao thì chơi thế nào đây. Đây là trận đấu rất nặng về tính chiến thuật. HLV Kiatisuk cực kì toan tính. Hà Nội thua là thua, còn đủ lực lượng thì trận đấu sẽ đẹp mắt hơn.
-HA Gia Lai chơi khá tốt với 2 trung vệ ngoại, cách chơi rất thực dụng, sẵn sàng nhường cho đối phương và phòng ngự 1/3 sân rồi phản công, tận dụng khả năng của Văn Toàn và Brandao để phản công. Dù sao Hà Nội cũng chơi tốt, còn bất kì ai thì cũng có áp lực trong hoàn cảnh này", HLV Hoàng Văn Phúc chốt lại.
-Hoàng Quốc
+# url = https://dantri.com.vn/the-thao/hlv-kiatisuk-cong-phuong-lam-dieu-dac-biet-o-thanh-hoa-20210425194503269.htm
+# date = 20210425
+Sau trận thắng kình địch CLB Hà Nội, đoàn quân của HLV Kiatisuk đang rất hưng phấn. Đội bóng phố Núi đang có phong độ cực ấn tượng và chưa có đối thủ trong 6 trận liên tiếp vừa qua.
+Ở vòng đấu tới, Công Phượng và các đồng đội có chuyến làm khách quan trọng trên sân của Thanh Hóa. Nếu tiếp tục giành 3 điểm trận này, HA Gia Lai không chỉ kéo dài chuỗi trận bất bại của mình, mà còn hướng tới ngôi vô địch giai đoạn 1 LS V-League 2021.
+HLV Kiatisuk cùng các thành viên HA Gia Lai di chuyển tới Thanh Hóa sớm để làm quen với thời tiết, mặt sân.
+Để các cầu thủ có sự chuẩn bị tốt nhất, chiều nay (25/4), HLV Kiatisuk đã cùng toàn đội di chuyển tới Thanh Hóa. Thuyền trưởng "Zico Thái" như thường lệ đã khoe những bức ảnh của mình với học trò. Tất cả đều thể hiện sự tự tin, quyết tâm rất cao.
+Đánh giá về trận gặp Thanh Hóa, HLV Kiatisuk một lần nữa khẳng định không có trận đấu nào là dễ dàng với HA Gia Lai, kể cả trận thắng thót tim An Giang ở vòng loại cúp Quốc gia 2021 ít ngày trước. Chiến lược gia người Thái Lan cho biết ông và các học trò tập trung cho từng trận đấu một, chứ chưa nghĩ tới ngôi vô địch.
+Trận làm khách của HA Gia Lai trên sân Thanh Hóa là tâm điểm của vòng 11 V-League. Thay vì mở cửa miễn phí, CLB Thanh Hóa đã quyết định bán vé trở lại trong trận tiếp đón đội bóng nhà bầu Đức. Ở mùa giải năm nay, HA Gia Lai có sức hút đặc biệt bởi mỗi SVĐ họ đến thi đấu đều được lấp kín bởi những CĐV nhiệt thành.
+Tuy nhiên, có một điều đặc biệt là CLB Thanh Hóa sẽ dùng toàn bộ số tiền bán vé thu được ở trận này để giúp đỡ trẻ mồ côi, người già neo đơn trong tỉnh.
+Đáp lại hành động ý nghĩa của đội chủ nhà, HA Gia Lai cũng có hoạt động từ thiện khác trong chuyến làm khách tại Thanh Hóa. Cụ thể, đội bóng phố Núi tổ chức bán đấu giá chiếc áo đấu có chữ ký của đội trưởng Lương Xuân Trường và HLV Kiatisuk. Đây là chiếc áo đặc biệt bởi nó được Xuân Trường mặc và ghi bàn thắng tuyệt đẹp vào lưới Hà Nội tại vòng 10.
+Theo kế hoạch, sáng 27/4, HLV Kiatisuk cùng đại diện Ban lãnh đạo HA Gia Lai và đại diện CLB Thanh Hóa sẽ mang những phần quà riêng cùng đến thăm và trao tặng cho làng trẻ em SOS Thanh Hóa.
+Trận đấu giữa Thanh Hóa và HA Gia Lai trong khuôn khổ vòng 11 LS V-League 2021 sẽ diễn ra vào lúc 17h00 ngày 28/4.
+T.Đ

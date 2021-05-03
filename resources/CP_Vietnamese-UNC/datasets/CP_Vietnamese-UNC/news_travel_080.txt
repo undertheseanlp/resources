@@ -1,15 +1,11 @@
 # doc_id = news_travel_080
-# url = https://dantri.com.vn/du-lich/dam-trau-vuot-phu-quoc-lot-top-nhung-bai-bien-dep-nhat-the-gioi-20210416093611912.htm
-# date = 20210416
-Mới đây, chuyên trang đánh giá du lịch và trải nghiệm hàng đầu Travel + Leisure (Mỹ) đã đăng tải bài viết chính thức công bố 25 bãi biển đẹp nhất thế giới tính đến năm 2021.
-Bên cạnh hàng loạt những "thiên đường" biển đảo nổi tiếng, một đại diện của Việt Nam cũng đã được xướng tên trong danh sách này. Đó chính là bãi biển Đầm Trầu, thuộc vùng biển Côn Đảo, Bà Rịa - Vũng Tàu.
-Bãi biển Đầm Trầu, thuộc vùng biển Côn Đảo, Bà Rịa - Vũng Tàu. (Ảnh: @jamesbrown1000).
-Theo các chuyên gia từ Travel + Leisure nhận định, việc quyết định đưa ra chọn lựa về bãi biển đẹp nhất ở Việt Nam rất khó khăn nhưng bãi Đầm Trầu xứng đáng là ứng cử viên sáng giá.
-"Với bãi cát vàng trải dài mềm mại cùng những rặng tre và cây xanh rợp bóng mát, đây là nơi thích hợp để bạn có thể dành cả ngày nằm đung đưa trên chiếc võng, vừa đọc sách vừa ngắm biển hay tản bộ dưới hàng dừa.
-Từ bãi biển, bạn có thể nhìn thấy các máy bay thương mại đang từ từ hạ cánh xuống sân bay gần đó, tạo cảm giác phấn khích, thích thú cho du khách", tác giả bài viết miêu tả.
-Du khách "săn" khoảnh khắc máy bay hạ cánh ở bãi Đầm Trầu (Ảnh: @carrot_110).
-Được biết, bãi Đầm Trầu nằm gần sân bay Cỏ Ống, phía ngoài Vườn quốc gia Côn Đảo. Không khó để du khách tới đây được chứng kiến cảnh máy bay hạ cánh. Nhiều người còn hào hứng "canh" thời điểm để bắt trọn khoảnh khắc thú vị này.
-Trong danh sách 25 bãi biển đẹp nhất thế giới được Travel + Leisure bầu chọn, ngoài bãi Đầm Trầu (Việt Nam) còn có 3 đại diện khác ở châu Á gồm Railay West (Krabi, Thái Lan), Saud (Luzon, Philippines) và Radhanagar (Ấn Độ).
-Trước đây, Hội An cũng từng được tạp chí Travel + Leisure xếp hạng là thành phố đẹp nhất thế giới.
-Thảo Trinh
-Theo Travel/ Leisure
+# url = https://dantri.com.vn/du-lich/dao-dat-xay-nha-bat-ngo-tim-thay-vang-va-ruby-khien-moi-nguoi-do-den-xem-20210409120319172.htm
+# date = 20210409
+Khoảng 11h sáng ngày 8/4/2021, khi thợ đang đào đất để xây dựng nhà trên mảnh đất rộng 4,45ha của ông Narasimha (doanh nhân bất động sản ở làng Pembarthi, Ấn Độ) thì phát hiện một hũ dưới đất.
+Bên trong chiếc hũ có chứa nhiều món đồ làm bằng vàng và bạc được chôn ở độ sâu khoảng 0,6m. Ngay sau đó, người đàn ông này đã báo cáo sự việc với cơ quan chức năng.
+Sau khi nhận được tin báo, cơ quan chức năng địa phương đã thu hồi các đồ vật có giá trị trong chiếc hũ. Doanh nhân Narashimha cũng được yêu cầu không được tiếp tục đào bới hay xây dựng công trình cho đến khi có chỉ thị tiếp theo.
+Trong hũ có 22 hoa tai bằng vàng, 51 hạt cườm vàng và các đồ vật bằng vàng khác, 26 thỏi bạc, 5 dây chuyền bằng bạc và các đồ dùng bằng bạc khác. Ngoài vàng và bạc, trong hũ còn có ruby. Tổng trọng lượng vàng là 189.820g và bạc là 1.727g.
+Theo báo chí Ấn Độ, những món đồ này được cho là có từ thời vương triều Kakatiya ở thế kỷ 12-14. Nếu như chính quyền tiến hành khai quật các mảnh đất khác trong làng có thể tìm thấy nhiều đồ có giá trị được cất giấu dưới đất từ xa xưa.
+Trước đây, một số băng nhóm đã tiến hành khai quật bất hợp pháp nhằm tìm được kho báu ở ngôi làng nói trên.
+Phương Hà
+Theo Timesnow

@@ -1,20 +1,11 @@
 # doc_id = news_health_079
-# url = https://dantri.com.vn/suc-khoe/can-biet-nhung-trieu-chung-canh-bao-gan-bat-dau-bi-hu-hai-20210425132648347.htm
-# date = 20210425
-Hầu hết các trường hợp viêm gan sẽ gây ra biến chứng nặng nếu tiếp tục tiến triển theo chiều hướng xấu mà không có hướng điều trị tích cực lẫn hợp lý. Mỗi loại có những đặc điểm khác nhau.
-Viêm gan virus
-Theo thống kê, trong thời kỳ khởi phát có tỉ lệ 3-5% người bệnh không hề có triệu chứng gì. Những trường hợp còn lại có thể ghi nhận các triệu chứng như:
-- Vàng da, kèm theo đó là rối loạn tiêu hóa (chán ăn, sợ mỡ, buồn nôn, nôn, đau bụng, rối loạn đại tiện).
-- Xuất hiện sốt nhẹ.
-- Có thể xuất hiện đau khớp (khởi phát kiểu viêm khớp).
-- Sổ mũi, đau họng, ho khan cùng với sốt.
-- Mệt mỏi, rối loạn giấc ngủ (kiểu khởi phát suy nhược thần kinh).
-Các dấu hiệu khởi phát bệnh kể trên thường kèm theo sốt nhẹ hoặc vừa, đau tức vùng hạ sườn phải. Khi có các dấu hiệu trên cần đến cơ sở y tế để được thăm khám và tiến hành các xét nghiệm cần thiết phục vụ chẩn đoán bệnh.
-Những dấu hiệu mệt mỏi, chán ăn, khó tiêu, rối loạn tiêu hóa, đau vùng hạ sườn phải cộng với các nốt sao mạch ở da mặt, cổ, ngực, lòng bàn tay son, có thể có gan to, lách to, chảy máu chân răng thì có thể nghĩ tới xơ gan. Trong trường hợp này, phải làm các xét nghiệm hóa sinh, thăm dò chức năng gan, soi ổ bụng, sinh thiết gan để xác định chẩn đoán.
-Viêm gan do rượu
-Diễn biến có thể ở mức độ gia tăng từ nhẹ đến nặng. Thể nhẹ thường không có triệu chứng nếu có thì chỉ là sự phát hiện bất thường men gan trong máu tăng cao. Một số trường hợp, trở nên mạn tính, gây phá hủy dần tế bào gan cuối cùng dẫn đến xơ gan.
-Thể nặng hơn là có triệu chứng mệt mỏi, có dấu hiệu vàng da, đôi khi đau vùng gan. Đợt tấn công viêm gan cấp với biểu hiện: bệnh nhân nhanh chóng dẫn đến cơn hôn mê gan, vàng da sậm, rối loạn đông máu, suy giảm nhận thức, hôn mê, xuất huyết đường tiêu hóa, tỷ lệ tử vong cao.
-Viêm gan do thuốc
-Các triệu chứng của viêm gan do thuốc thường xuất hiện vài ngày hoặc vài tháng sau khi dùng thuốc. Các biểu hiện bệnh cũng giống hầu hết các loại viêm gan khác: mệt mỏi, chán ăn, sốt thường không cao, nước tiểu vàng sậm và vàng da. Cần lưu ý là dấu hiệu nước tiểu vàng sậm thường xuất hiện sớm trước khi có vàng da nên nếu thấy xuất hiện dấu hiệu này cần đi khám bệnh ngay để được phát hiện bệnh kịp thời. Tuy nhiên, cũng có nhiều loại thuốc được đào thải qua đường tiểu và làm nước tiểu sẫm màu nên khó phân biệt được sự thay đổi màu sắc nước tiểu là do thuốc hay do viêm gan.
-Minh Nhật
-Tổng hợp
+# url = https://dantri.com.vn/suc-khoe/can-tho-nhung-dia-diem-nao-tiem-ngua-vac-xin-covid-19-20210419135333400.htm
+# date = 20210419
+Ông Dương Tấn Hiển- Phó Chủ tịch thường trực UBND TP Cần Thơ cho biết, hơn một năm qua TP đã chủ động triển khai tích cực các biện pháp phòng, chống dịch hiệu quả. Kết quả cho đến nay TP Cần Thơ chưa xảy ra ca nhiễm Covid-19 ngoài cộng đồng trên địa bàn thành phố.
+Ông Hiển cũng cho biết, mặc dù tình hình dịch bệnh Covid-19 hiện nay đã cơ bản kiểm soát tốt nhưng nguy cơ bệnh bùng phát vẫn xảy ra do tình hình nhiễm Covid-19 trên thế giới, đặc biệt là tại Campuchia đang gia tăng.
+Để tiếp tục tăng cường công tác phòng, chống dịch hiệu quả, bên cạnh việc tiếp tục thực hiện nghiêm túc khuyến cáo 5K thì việc tiêm vắc xin phòng Covid-19 là vô cùng cần thiết. Đây là giải pháp rất quan trọng để giúp ngăn ngừa và kiểm soát đại dịch.
+Những mũi tiêm đầu tiên ngừa vắc xin Covid-19 được triển khai ở Cần Thơ ngày 19/4.
+Thông tin từ CDC Cần Thơ cho biết, tại buổi tiêm mẫu ngày 19/4 dự kiến có khoảng 50 người được tiêm vắc xin phòng Covid-19 AstraZeneca.
+Sau ngày tiêm mẫu 19/4, Cần Thơ sẽ triển khai tiêm đồng loạt tại các điểm tiêm trên địa bàn trong hai đợt. Đợt một từ ngày 22-24, đợt hai từ ngày 26-28/4 cho những đối tượng thuộc diện ưu tiên theo kế hoạch TP đã ban hành.
+Cần Thơ có 16 điểm tiêm gồm: CDC Cần Thơ, 9 Trung tâm Y tế quận/huyện và 6 bệnh viện (Đa khoa Trung ương Cần Thơ, Đa khoa TP Cần Thơ, Nhi đồng, Phụ sản, Hoàn Mỹ Cửu Long, Quốc tế Phương Châu).
+Phạm Tâm

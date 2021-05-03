@@ -1,19 +1,11 @@
 # doc_id = news_world_157
-# url = https://dantri.com.vn/the-gioi/my-tung-don-thi-thuc-voi-nga-moscow-trung-phat-quan-chuc-eu-20210501071826361.htm
-# date = 20210501
-Đại sứ quán Mỹ tại Moscow (Ảnh: Reuters).
-Reuters đưa tin, điện Kremlin ngày 30/4 đã cáo buộc Mỹ làm gia tăng căng thẳng với những "động thái thiếu thiện chí" sau khi Đại sứ quán Mỹ ở Moscow tuyên sẽ cắt giảm nhân viên và dừng xử lý thị thực cho hầu hết công dân Nga.
-Cơ quan ngoại giao của Mỹ tuyên bố đang cắt giảm 75% nhân viên lãnh sự, và từ ngày 12/5 sẽ ngừng xử lý đơn xin thị thực phi nhập cư cho các chuyến đi không phải vì mục đích ngoại giao tới Mỹ. Trước đó, Nga đã ra yêu cầu giới hạn về số lượng nhân viên người Nga có thể làm việc tại các cơ quan ngoại giao nước ngoài, bao gồm Mỹ.
-Động thái mới nhất của Mỹ đồng nghĩa với việc những người Nga không phải là nhà ngoại giao hoặc người đang xin cấp thẻ xanh sẽ không còn có thể nộp đơn xin thị thực trong nước Nga để đến Mỹ. Thay vào đó, họ sẽ phải nộp đơn xin ở một nước thứ 3 nếu có nhu cầu.
-Trong khi đó, phía Nga cho rằng, lãnh sự quán nước này ở Mỹ vẫn đang tiếp tục cấp thị thực cho công dân Mỹ trong vòng 10 ngày dù Moscow cũng bị cắt giảm nhân viên ngoại giao. Moscow khẳng định, không điều gì có thể ngăn cản Washington bổ sung thêm nhân viên ngoại giao mang quốc tịch Mỹ tới Nga.
-Moscow cho biết hạn ngạch nhân viên ngoại giao Mỹ ở Nga là 455, trong khi Washington hiện mới chỉ có 280 người. 
-Phát ngôn viên Điện Kremlin Dmitry Peskov cho hay, quyết định của Mỹ sẽ ít có ảnh hưởng thực tế tới công dân Nga vì ông nói rằng người dân Nga từ trước tới nay vẫn gặp khó khăn trong việc xin thị thực Mỹ.
-Căng thẳng Mỹ - Nga leo thang trong 100 ngày đầu cầm quyền của Tổng thống Mỹ Joe Biden khi Washington ban hành loạt lệnh trừng phạt lên Moscow liên quan tới hàng loạt cáo buộc như can thiệp bầu cử, tấn công mạng - những tuyên bố mà Moscow nhiều lần bác bỏ. Nga cũng tung lệnh trừng phạt đáp trả lại Mỹ.
-Nga trừng phạt quan chức EU
-Ngày 30/4, căng thẳng giữa Nga và Liên minh châu Âu EU cũng tiếp tục leo thang khi Moscow tuyên bố cấm 8 quan chức EU nhập cảnh vào nước này. EU sau đó cảnh báo rằng họ có thể sẽ đáp trả động thái từ Nga.
-Nga tuyên bố động thái mới nhất của họ nhằm trả đũa lệnh trừng phạt mà Hội đồng châu Âu ban hành hồi tháng trước chống lại 4 quan chức an ninh cấp cao của Moscow liên quan tới vụ Nga bắt giam lãnh đạo đối lập Alexei Navalny.
-"EU tiếp tục chính sách áp dụng các biện pháp đơn phương hạn chế bất hợp pháp nhằm vào các công dân và tổ chức Nga. Mục tiêu thực sự của họ là nhằm kìm hãm sự phát triển của Nga bằng bất cứ giá nào", Bộ Ngoại giao Nga cáo buộc.
-EU chỉ trích động thái của Nga, cho rằng điều này là "không thể chấp nhận được" vì thiếu đi "căn cứ pháp lý nào và hoàn toàn vô căn cứ".
-Hồi tháng 3, EU cấm các quan chức cấp cao Nga nhập cảnh vào khối và đóng băng tài sản của họ, bao gồm người đứng đầu Ủy ban Điều tra của Nga Alexander Bastrykin và Tổng công tố viên Nga Igor Krasnov.
-Đức Hoàng
-Theo Reuters, AFP
+# url = https://dantri.com.vn/the-gioi/myanmar-dong-y-cham-dut-bao-luc-doi-voi-dan-thuong-20210424214027271.htm
+# date = 20210424
+Thống tướng Myanmar Min Aung Hlaing (trái) đến Indonesia dự Hội nghị cấp cao ASEAN ngày 24/4 (Ảnh: Reuters).
+Hãng tin Bernama dẫn lời Thủ tướng Malaysia Muhyiddin Yassin cho biết, tại hội nghị cấp cao ASEAN hôm nay, các nhà lãnh đạo trong khu vực đã đồng loạt kêu gọi chính quyền quân sự Myanmar chấm dứt bạo lực nhằm vào dân thường và trả tự do cho các nhà lãnh đạo dân chủ, trong đó có Cố vấn Nhà nước Aung San Suu Kyi.
+"Myanmar đã đồng ý với đề xuất chấm dứt bạo lực nhằm vào dân thường. Chúng ta đã thành công. Cuộc họp đã thành công hơn cả dự kiến", Thủ tướng Yassin nói.
+Các nhà lãnh đạo tại Hội nghị cấp cao ASEAN ở Indonesia ngày 24/4 (Ảnh: AFP).
+Hội nghị cấp cao ASEAN diễn ra hôm nay 24/4 ở thủ đô Jakarta của Indonesia. Thống tướng Myanmar Min Aung Hlaing cũng tham dự hội nghị, đánh dấu chuyến công du nước ngoài đầu tiên của ông kể từ khi quân đội lật đổ chính quyền dân sự hôm 1/2.
+Theo truyền thông địa phương, Thủ tướng Singapore Lý Hiển Long cho biết: "Ông ấy nói ông ấy đã lắng nghe chúng tôi và sẽ chấp nhận những luận điểm có ích, không phản đối phái đoàn của ASEAN đóng vai trò mang tính xây dựng hay cử phái đoàn hoặc hỗ trợ nhân đạo ở Myanmar".
+Hội nghị cấp cao ASEAN diễn ra trong bối cảnh Myanmar tiếp tục chìm trong cuộc khủng hoảng kể từ khi quân đội lật đổ chính quyền dân sự hồi đầu tháng 2. Đến nay, hơn 700 người đã thiệt mạng trong các cuộc đụng độ giữa lực lượng an ninh và người biểu tình ở Myanmar. Cộng đồng quốc tế đã kêu gọi quân đội Myanmar chấm dứt bạo lực nhằm vào dân thường và trả tự do cho các nhà dân chủ.
+Minh PhươngTheo Reuters

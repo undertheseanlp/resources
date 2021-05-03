@@ -1,13 +1,19 @@
 # doc_id = news_health_175
-# url = https://dantri.com.vn/suc-khoe/nhieu-ca-benh-tai-cong-dong-bo-y-te-yeu-cau-4-tinh-mo-rong-xet-nghiem-20210430113210525.htm
-# date = 20210430
-Bộ Y tế vừa có công điện gửi 4 địa phương gồm Hà Nam, Đà Nẵng, Hà Nội và TP HCM về việc điều tra, xử lý đối với trường hợp nhiễm SARS-CoV-2.
-Theo đó, ngày 29/4, hệ thống giám sát bệnh truyền nhiễm Việt Nam đã ghi nhận trường hợp nam, 28 tuổi, có địa chỉ tại xã Đạo Lý, huyện Lý Nhân, tỉnh Hà Nam, là lao động tự do bên Nhật Bản. Ngày 7/4, bệnh nhân từ Nhật Bản trên chuyếnbay VJ3613&nbspnhập cảnh sân bay Đà Nẵng, được cách ly tập trung ngay, lấy mẫu xét nghiệm tại khách sạn trên địa bàn thành phố Đà Nẵng (trước đó đã ghi nhận 10 trường hợp có kết quả xét nghiệm dương tính với virus SARS-CoV-2 trên chuyến bay này).
-Ngày 21/4, sau khi hết cách ly tập trung và có kết quả xét nghiệm 3 lần âm tính với virus SARS-CoV-2, bệnh nhân có đi xe khách từ Đà Nẵng về Hà Nam cách ly tại nơi lưu trú. Ngày 24/4, bệnh nhân khởi phát với các triệu chứng ho, sốt, đau họng và được Trung tâm Kiểm soát bệnh tật tỉnh Hà Nam lấy mẫu xét nghiệm. Kết quả xét nghiệm bệnh nhân dương tính với virus SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Đa khoa tỉnh Hà Nam.
-Qua điều tra dịch tễ, truy vết, cách ly, xét nghiệm các trường hợp tiếp xúc gần với bệnh nhân, đã ghi nhận thêm 4 trường hợp bệnh là người nhà cùng gia đình bệnh nhân tại tỉnh Hà Nam và 1 trường hợp liên quan tại Thành phố Hồ Chí Minh.
-Ngoài ra Hà Nội, Hưng Yên cũng đã bước đầu ghi nhận các trường hợp F1 có kết quả dương tính.
-Để tiếp tục triển khai tốt các biện pháp phòng, chống dịch Covid-19, không để dịch lây lan ra cộng đồng; Bộ Y tế yêu cầu các địa phương tiếp tục mở rộng điều tra dịch tễ, lập danh sách tất cả những người tiếp xúc gần và có liên quan với bệnh nhân, thực hiện thần tốc truy vết, cách ly y tế. Đồng thời, lấy mẫu xét nghiệm diện rộng (bao gồm người thân, bạn bè, nhân viên y tế, người trên cùng chuyến bay, trên cùng xe khách, nhân viên phục vụ tại khách sạn, người tiếp xúc gần...) để tiến hành xét nghiệm khẳng định.
-Đồng thời, giám sát chặt chẽ hàng ngày tình hình sức khỏe và tổ chức cách ly y tế, lấy mẫu xét nghiệm theo quy định đối với tất cả trường hợp tiếp xúc gần và có liên quan với bệnh nhân. Nếu phát hiện bất kỳ trường hợp nào có biểu hiện sốt, ho, hắt hơi, sổ mũi, mệt mỏi, ớn lạnh hoặc khó thở thì lập tức cho cách ly ngay tại cơ sở y tế và lấy mẫu bệnh phẩm để xét nghiệm.
-Các tỉnh cũng cần tiến hành ngay việc xử lý, phun khử trùng triệt để môi trường tại nơi bệnh nhân thường trú; các địa điểm bệnh nhân đã từng đến, ở; các phương tiện vận chuyển và các khu vực có liên quan khác theo đúng quy định. Ngoài ra cần tăng cường rà soát, kiểm tra, giám sát chặt chẽ việc thực hiện các quy trình, quy định về nhập cảnh, giám sát, cách ly y tế, xét nghiệm phòng chống dịch Covid-19, tuyệt đối không để lây lan trong khu vực cách ly, lây ra cộng đồng.
-Trước đó Hà Nam đã ghi nhận 6 trường hợp dương tính với SARS-CoV-2 (4 trường hơp Bộ Y tế đã công bố), TP HCM: 1 ca, Hà Nội: 1 ca và Hưng Yên: 3 ca.
-Nam Phương
+# url = https://dantri.com.vn/suc-khoe/nhung-cong-dung-vang-cua-qua-nho-voi-suc-khoe-20210419072902608.htm
+# date = 20210419
+Theo Trung tâm dinh dưỡng lâm sàng, Bệnh viện K Trung ương (Hà Nội) quả nho chứa nhiều loại chất dinh dưỡng khác nhau như vitamin, khoáng chất, carbohydrate, chất xơ và chất phytochemical. Polyphenol là chất phytochemical quan trọng nhất trong nho vì chúng có nhiều hoạt động sinh học và lợi ích tăng cường sức khỏe.
+Gần đây, người ta ngày càng quan tâm tới các hợp chất phenolic từ nho do các hoạt động sinh học của chúng liên quan đến lợi ích sức khỏe con người, chẳng hạn như các đặc tính chống oxy hóa, bảo vệ tim mạch, chống ung thư, chống viêm, chống lão hóa và kháng khuẩn.
+Tác dụng chống oxy hóa
+Các hợp chất phenolic có hoạt tính sinh học là điểm đáng chú ý nhất của nho bởi đặc tính chống oxy hóa đã được nghiên cứu rộng rãi, bao gồm loại bỏ các gốc tự do, ức chế quá trình oxy hóa lipid, giảm sự hình thành hydroperoxide.
+Nước nho, rượu vang, và thậm chí cả bã nho có khả năng chống oxy hóa cao. Trong các bộ phận khác nhau của nho, khả năng chống oxy hóa cao nhất được tìm thấy trong hạt nho, tiếp theo là vỏ và phần giữa vỏ và hạt có khả năng chống oxy hóa thấp nhất. Do đó, các sản phẩm chiết xuất từ hạt nho là một chất chống oxy hóa đầy hứa hẹn để bổ sung vào chế độ ăn uống.
+Tác dụng bảo vệ tim mạch
+Chiết xuất hạt nho hoặc nước ép nho giàu phenolic làm giảm lipid máu sau ăn- một yếu tố nguy cơ được xác định rõ ràng đối với bệnh xơ vữa động mạch. Chất chiết xuất từ hạt nho giàu polyphenol làm giảm sự kết dính và kết tập tiểu cầu.
+Anthocyanins từ rượu vang và vỏ nho ức chế hoạt động của phosphodiesterase-5, làm giảm nguy cơ mắc các bệnh tim mạch bằng cách làm giãn mạch.
+Tác dụng chống ung thư
+Nho có chứa lượng acid caffeic cao, là chất chống ung thư rất hiệu quả. Ngoài ra nho còn có bioflavonoid là một dưỡng chất giúp cơ thể dễ dàng hấp thụ vitamin C và giúp cho vitamin C duy trì mô liên kết chặt chẽ, ngăn không cho vitamin C bị oxy hóa và chống hiện tượng đứt mao mạch. Bioflavonoid còn giúp các tế bào khỏe mạnh đủ sức chống lại các tế bào ung thư, đồng thời có thể tiêu diệt tế bào ung thư.
+Dưỡng chất resveratrol có trong nho cũng có tác dụng giúp cơ thể ngăn chặn ung thư, nhất là ung thư gan, phổi, ung thư vú và ung thư tuyến tiền liệt.
+Tác dụng chống lão hóa
+Polyphenol có trong thực phẩm có thể có lợi trong việc đảo ngược quá trình lão hóa. Do hoạt động chống oxy hóa như loại bỏ các gốc tự do, ngăn chặn các cơ quan và mô khỏi bị tổn thương do quá trình oxy hóa, và tác động đến quá trình oxy hóa khử. Hiện tại nghiên cứu này chỉ được thực hiện trên động vật thí nghiệm.
+Độc tính tiềm ẩn
+Ở nồng độ cao các chất trong nho gây ảnh hưởng với các tế bào sừng và tế bào sợi. Khi nghiên cứu trên chuột, tổn thương DNA xảy ra ở các tế bào lách bằng cách khi cho chúng sử dụng với lượng lớn nho. Do đó, liều lượng và thành phần của chất chiết xuất từ nho nên được nghiên cứu thêm để ứng dụng an toàn và lành mạnh cho các sản phẩm từ nho.
+Hà An

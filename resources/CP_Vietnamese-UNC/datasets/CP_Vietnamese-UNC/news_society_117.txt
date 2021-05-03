@@ -1,15 +1,17 @@
 # doc_id = news_society_117
-# url = https://dantri.com.vn/xa-hoi/gan-100-cong-an-dien-tap-bat-quai-xe-tren-dai-lo-20210429100634848.htm
-# date = 20210429
-Tối 28/4, Đội CSGT trật tự Công an quận 1 phối hợp với Đội CSGT trật tự Công an quận 3, quận 4, Đội CSGT Bến Thành, Đội CSGT Bàn Cờ tổ chức diễn tập mật phục, vây bắt nhóm thanh niên đua xe trên đường Võ Văn Kiệt.
-Tình huống giả định,các thanh thiếu niên di chuyển từ quận 2, quận 4 về tụ tập tại hành lang, vỉa hè ven bờ sông xung quanh khu vực dưới gầm cầu Calmette, quận 1.
-Tình huống giả định các đối tượng tổ chức đua xe trên đường Võ Văn Kiệt.
-"Quái xế" lao vun vút trên đường khiến người dân khiếp sợ.
-Thấy không có bóng dáng CSGT, nhóm này liên lạc với nhau qua Facebook, Zalo, rồi tập trung trên đường Võ Văn Kiệt, đoạn từ đường Ký Con về đường Yersin để tổ chức đua xe.
-Nhận được tin báo, CSGT phối hợp với lực lượng 363, Công an nhanh chóng cử lực lượng đến hiện trường nắm tình hình, chốt chặn, vây bắt đưa về trụ sở để xử lý.
-Trung tá Lưu Minh Sĩ, Đội trưởng Đội CSGT trật tự Công an quận 1 cho biết, tình huống giảđịnh làcác đối tượng tập trung đua xe từ 22h đến 6h hôm sau. Đợt diễn tập lần này nhằm xử lý triệt để tình trạng chạy xe gây rối trật tự công cộng trên tuyến đường Võ Văn Kiệt.
-"Diễn tập như vậy sẽ tạo cho các cán bộ chiến sĩ có kỹ năng cũng như phản xạ nhanh, xử lý hiệu quả và dứt điểm khi có tình huống đua xe trái phép xảy ra", Trung tá Sĩ nói.
-Công an đưa các "quái xế" về trụ sở.
-Thu giữ xe vi phạm.
-Tại buổi họp báo thường kỳ do UBND TPHCM tổ chức chiều cùng ngày, Đại tá Nguyễn Sỹ Quang, Phó giám đốc Công an TPHCM cho biết, tình trạng thanh thiếu niên tụ tập, chạy xe gây rối trật tự công cộng đang tái diễn phức tạp và công an thành phố kiên quyết xử nghiêm minh các vụ đua xe trái phép, tụ tập, cổ vũ, chống lại lực lượng chức năng.
-Hoàng Thuận
+# url = https://dantri.com.vn/xa-hoi/giam-doc-benh-vien-bach-mai-vao-danh-sach-chinh-thuc-ung-vien-dai-bieu-qh-20210427175453153.htm
+# date = 20210427
+Chiều 27/4, Hội đồng bầu cử quốc gia tổ chức họp báo công bố danh sách chính thức những người ứng cử đại biểu Quốc hội khóa XV.
+Cụ thể, Nghị quyết số 559 ngày 27/4/2021 của Hội đồng bầu cử Quốc gia công bố danh sách 868 người ứng cử đại biểu Quốc hội khóa XV tại 184 đơn vị bầu cử trong cả nước để bầu 500 đại biểu.
+TP Hà Nội được phân bổ 29 đại biểu Quốc hội. Trong danh sách được công bố, Hà Nội có 49 người ứng cử tại 10 đơn vị bầu cử, trong đó, 9 đơn vị có 5 ứng viên để bầu lấy 3 đại biểu, 1 đơn vị có 4 ứng viên để bầu lấy 2 đại biểu.
+GS.BS Nguyễn Quang Tuấn nguyên là Giám đốc bệnh viện Tim Hà Nội, nay là Giám đốc bệnh viện Bạch Mai, sau 3 vòng hiệp thương chính thức được giới thiệu ứng cử đại biểu Quốc hội khóa XV.
+Giám đốc bệnh viện Bạch Mai Nguyễn Quang Tuấn - đại biểu Quốc hội đương nhiệm khóa XIV được xếp ở đơn vị có 4 ứng viên, bầu lấy 2 đại biểu. Cụ thể, đó là đơn vị bầu cử số 10, gồm các huyện Sóc Sơn và Mê Linh.
+Tại đơn vị bầu cử này, ngoài ông Nguyễn Quang Tuấn còn 2 ứng viên khác cũng là đại biểu Quốc hội khóa XIV, là ông Hoàng Văn Cường - Phó Hiệu trưởng Đại học Kinh tế quốc dân, Ủy viên UB Tài chính - Ngân sách của Quốc hội và ông Nguyễn Anh Trí - nguyên Giám đốc Bệnh viện Huyết học và Truyền máu Trung ương (đại biểu tự ứng cử).
+Ứng cử viên thứ 4 tại đơn vị bầu cử này là ông Phan Huy Cương, Thẩm phán Trung cấp; Thẩm phán Tòa hình sự, TAND TP Hà Nội.
+Hơn 10 ngày trước, sau hội nghị hiệp thương lần thứ bađể thống nhất danh sách chính thức những người ứng cử đại biểu Quốc hội khóa XV, lãnh đạo UB MTTQ Việt Nam TP Hà Nội đã giải thích về thông tin cơ quan điều tra của Bộ Công an có văn bản đề nghị cung cấp thông tin về đấu thầu thiết bị y tế tại Bệnh viện Tim Hà Nội, giai đoạn ông Nguyễn Quang Tuấn làm giám đốc liệu có ảnh hưởng đến việc giới thiệu ông Tuấn ứng cử đại biểu Quốc hội khóa mới.
+Theo đó, lãnh đạo UB MTTQ Hà Nội khẳng định, Ủy ban bầu cử TP Hà Nội đã xem xét nội dung này, nhưng đến thời điểm đó chưa có văn bản của các cơ quan có thẩm quyền về việc khởi tố vụ án cũng như khởi tố bị can với ông Nguyễn Quang Tuấn. Do đó theo quy định của luật, ông Tuấn vẫn được ứng cử đại biểu Quốc hội khóa XV.
+Tại hội nghị hiệp thương lần thứ 3, ông Nguyễn Quang Tuấn được 100% đại biểu dự hội nghị thống nhất giới thiệu ông ứng cử đại biểu Quốc hội khóa XV.
+Thời điểm đó, lãnh đạo UB MTTQ Hà Nội phân tích, trước 2 ngày niêm yết danh sách ứng viên đại biểu Quốc hội (tức ngày 26/4) nếu có những vấn đề liên quan nhân thân, đặc biệt liên quan đến vi phạm về mặt hình sự được cấp có thẩm quyền thì sẽ thực hiện đúng theo hướng dẫn xử lý trường hợp khuyết người ứng cử, trong điều kiện bất khả kháng.
+Như vậy, có thể thấy, đến thời điểm này, ông Nguyễn Quang Tuấn đã chính thức vào danh sách ứng cử viên đủ điều kiện để đưa ra bầu đại biểu Quốc hội khóa mới.
+Trước đó, lãnh đạo Bệnh viện Bạch Mai, Bệnh viện Chợ Rẫy là "suất" đặc biệt được đưa vào cơ cấu để bầu đại biểu Quốc hội khóa XV. Nhận định đại diện ngành y, từ hai bệnh viện lớn nhất cả nước là rất quan trọng, Trung ương đã quyết định rút hai "suất" đại biểu chuyên trách ở Trung ương để Hà Nội, TPHCM có thêm một đại biểu ở mỗi thành phố, đó là lãnh đạo hai bệnh viện nói trên.
+Phương Thảo

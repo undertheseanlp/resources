@@ -1,13 +1,15 @@
 # doc_id = news_sport_259
-# url = https://dantri.com.vn/the-thao/van-lam-noi-gi-sau-buoi-tap-dau-tien-cung-clb-cerezo-osaka-20210422125921461.htm
-# date = 20210422
-Văn Lâm đã chính thức ra mắt CLB Cerezo Osaka vào ngày Chủ nhật vừa qua. Thủ thành người Việt Nam nhận được sự kỳ vọng lớn từ những người hâm mộ đội bóng mới.
-Vào buổi sáng nay, Văn Lâm đã chính thức có buổi tập đầu tiên cùng CLB Cerezo Osaka. Ngay sau buổi tập, thủ thành này đã có những chia sẻ nhanh với người hâm mộ Việt Nam trên trang Facebook của CLB Cerezo Osaka.
-Văn Lâm ra mắt CLB Cerezo Osaka.
-Văn Lâm cho biết: "Chào tất cả mọi người. Hôm nay Lâm đã có buổi tập đầu tiên cùng với cả đội. Tôi rất vui khi tập luyện cùng những đồng đội mới. Lâm sẽ cố gắng tập luyện tốt, để có phong độ tốt chuẩn bị cho mùa giải. Cảm ơn mọi người, những ai quan tâm và theo dõi Lâm".
-Trước đó, trong ngày ra mắt CLB Cerezo Osaka, Văn Lâm đã khiến nức lòng CĐV đội bóng mới bằng phát biểu: "Xin chào tất cả mọi người. Tôi là Đặng Văn Lâm. Thủ môn tới từ Việt Nam. Tôi rất vui khi có mặt ở đây và trở thành một phần của đội bóng. Đây là lần đầu tiên tôi có mặt ở Nhật Bản. Hy vọng các bạn sẽ ủng hộ tôi. Tôi sẽ nỗ lực hết sức vì đội bóng".
-Văn Lâm có thể ra mắt CLB mới trong trận đấu với Gamba Osaka vào ngày 2/5.
-Vào ngày 2/5, Cerezo Osaka sẽ chạm trán với Gamba Osaka ở giải VĐQG Nhật Bản. Rất nhiều người hâm mộ Việt Nam đang chờ đợi thủ thành sinh năm 1993 ra mắt trong trận đấu này. Hiện tại, thủ thành người Hàn Quốc, Kim Jin-Hyeon vẫn là thủ môn số 1 của đội bóng. Cầu thủ này đã ra sân trọn vẹn 12 trận đấu của Cerezo Osaka trong mùa giải này.
-Văn Lâm chính là cầu thủ Việt Nam đầu tiên thi đấu ở giải vô địch quốc gia Nhật Bản. Trước đó, Công Vinh, Công Phượng hay Tuấn Anh đều đã thi đấu ở giải hạng Hai ở đất nước Mặt trời mọc.
-Hiện tại, CLB Cerezo Osaka đang xếp thứ 4 trên bảng xếp hạng giải VĐQG Nhật Bản với 20 điểm sau 12 trận. Họ đang kém đội đầu bảng Kawasaki Frontale tới 12 điểm.
-H.Long
+# url = https://dantri.com.vn/the-thao/vi-sao-chelsea-nhanh-chong-thao-chay-khoi-european-super-league-20210421121128639.htm
+# date = 20210421
+Ngay trong sáng 21/4, lần lượt Man City, Chelsea rồi đến các CLB còn lại trong nhóm "Big Six" ở Premier League đều tuyên bố rút lui khỏi giải đấu European Super League - giải đấu mà họ cùng với 6 CLB khác ở Ý và Tây Ban Nha thành lập vào tối 18/4.
+Về lý do Chelsea nằm trong số CLB rút lui sớm nhất khỏi siêu giải đấu mới này, tờ The Guardian tiết lộ Chelseacó những lý do hết sức hợp lý và đáng suy ngẫm để tháo chạy. Nhà báo Sean Ingle trích dẫn từ một nguồn tin giấu tên cho biết các quan chức Chelsea đã nhận được một cảnh báo có hậu quả cực kỳ nghiêm trọng tới tương lai của đội bóng.
+Chelsea Pitch Owners dọa sẽ chấm dứt cho thuê sân Stamford Bridge cũng như tước quyền sở hữu tên CLB Chelsea khiến tỷ phú Abramovich phải tháo chạy European Super League
+Đó là việc tổ chức Chelsea Pitch Owners (CPO) định tổ chức một cuộc họp trong ngày mai (22/4) để xem xét việc chấm dứt cho thuê sân Stamford Bridge với Chelsea. SVĐ này không được Chelsea sở hữu mà thuộc về CPO, một tổ chức phi lợi nhuận với thành viên là các fan của Chelsea và CLB này chỉ thuê sân.
+Không chỉ cho thuê sân, CPO còn nắm luôn cả quyền sở hữu tên CLB bóng đá(Chelsea Football Club Ltd). Chelsea đã suýt mất Stamford Bridge vào thập kỷ 1990 do nợ nần nên chủ tịch khi đó là Ken Bates đã lập ra CPO để dùng tổ chức này mua lại khu đất chứa sân vận động khi bên chủ đất bị phá sản. Chelsea thuê sân Stamford Bridge trên phần đất này và chỉ được phép gọi mình là CLB Chelsea nếu thi đấu ở đây.
+Hơn 10 năm trước, tỷ phú Roman Abramovich đã tìm cách mua lại quyền sở hữu CPO với mục đích di chuyển CLB tới một sân vận động mới xây trên khu đất gần khu vực nhà máy điện Battersea thuộc bờ nam sông Thames. Tuy nhiên Abramovich không đạt được điều kiện đủ 75% số thành viên tổ chức chấp thuận bán, do đó CPO vẫn đang nắm quyền sở hữu sân lẫn tên của CLB Chelsea.
+Nói cách khác, CPO định họp vào ngày 22/4 tới để bàn về khả năng tống cổ Chelsea khỏi sân Stamford Bridge lẫn tước luôn tên của CLB.
+CĐV Chelsea xuống đường phản đối CLB Chelsea tham gia Euripean Super League
+Làn sóng biểu tình dữ dội buộc tỷ phú Abramovich "quay đầu" rời khỏi European Super League
+Không chỉ CPO đe dọa, mà hàng nghìn CĐV của Chelsea cũng đã xuống đường để phản đối "The Blues" tham gia siêu giải đấu European Super League. Trận đấu giữa Chelsea với Brighton vào tối qua cũng đã muộn hơn 15 phút khi CĐV đội bóng chặn đường để phản đối đội bóng.
+Trước mối đe dọa đến từ nhiều phía, tỷ phú Roman Abramovich buộc phải nhượng bộ và nhanh chóng rút chạy khỏi European Super League.
+Sông Lam

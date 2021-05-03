@@ -1,12 +1,19 @@
 # doc_id = news_society_257
-# url = https://dantri.com.vn/xa-hoi/vu-chuyen-gia-trung-quoc-duong-tinh-voi-sars-co-v-2-yen-bai-cach-ly-5-nguoi-20210501193657252.htm
-# date = 20210501
-Lực lượng chức năng đã cách ly tập trung 5 người tại Thị xã Nghĩa Lộ do tiếp xúc với chuyên gia Trung Quốc dương tính với SARS-CoV-2.
-Liên quan đến nhóm 5 chuyên gia Trung Quốc của Công ty Trung Bắc Á sau khi di chuyển qua nhiều nơi ở Việt Nam, khi trở về nước có một người được xác định dương tính với SARS-CoV-2,chiều 1/5, trao đổi với PV Dân trí, ông Nguyễn Văn Khương - Giám đốc Trung tâm Y tế thị xã Nghĩa Lộ, tỉnh Yên Bái - cho biết, nhóm chuyên gia Trung Quốc này sau khi nhập cảnh được cách ly tập trung 14 ngày tại thành phố Yên Bái, có 3 lần xét nghiệm Covid-19 đều cho kết quả âm tính.
-Hết thời gian cách ly, nhóm này bắt đầu di chuyển vào thị xã Nghĩa Lộ tiếp xúc với một doanh nghiệp. Thời điểm đến thị xã, nhóm chuyên gia có khoảng 8 người, trong đó 5 người chuyên gia, 1 người lái xe, 1 người phiên dịch và 1 người là quản lý.
-"Tại thị xã, chúng tôi đón họ lúc 0h20 ngày 25/4, cho nhóm lưu trú tại khách sạn Bảo Yến, tổ 4, phường Tân An. Quá trình tiếp nhận, chúng tôi cho họ khai báo y tế, đồng thời đề nghị họ ở lại theo dõi sức khỏe tại nơi đang cư trú thêm 14 ngày nữa nhưng sáng hôm sau họ đi lên Lai Châu", ông Khương nói.
-Lãnh đạo ngành y tế thị xã Nghĩa Lộ cho biết thêm, sau khi đến Lai Châu, nhóm chuyên gia Trung Quốc lại di chuyển thẳng về một công ty gạch men có tên Vinatop, trụ sở đóng tại xã Sơn Lôi, huyện Bình Xuyên, tỉnh Vĩnh Phúc.
-Đến ngày 27/4, có 2 người trong nhóm 5 chuyên gia Trung Quốc về Nghĩa Lộ. Tại đây lực lượng chức năng tiếp tục lấy mẫu xét nghiệm lần 4 vẫn cho kết quả âm tính với SARS-CoV-2.
-Theo ông Khương, sau khi nhóm này xuất cảnh, ngày 30/4, cơ quan chức năng địa phương nhận được thông tin có một trường hợp dương tính với SARS-CoV-2.
-"Sau khi tiếp nhận thông tin, chúng tôi báo cáo ngay lên Ban chỉ đạo phòng chống dịch, đồng thời yêu cầu khách sạn nơi nhóm chuyên gia từng lưu trú tạm thời không đón khách, tiến hành cho phun khử khuẩn, truy vết được 5 trường hợp tiếp xúc với nhóm chuyên gia và đã đưa đi cách ly tập trung tại thị xã Nghĩa Lộ", ông Khương thông tin thêm.
-Trần Thanh
+# url = https://dantri.com.vn/xa-hoi/vu-nha-nghieng-nut-truong-hoc-chong-nang-o-ha-noi-chu-dau-tu-cau-cuu-20210425080522995.htm
+# date = 20210425
+Chủ đầu tư vừa có văn bản đề nghị chính quyền sở tại đứng ra mời một đơn vị giám định để xác định thiệt hại, làm cơ sở bồi thường cho người dân (Ảnh: Nguyễn Trường).
+Ban Duy tu các công trình Nông nghiệp và Phát triển nông thôn (Sở NN&PTNT Hà Nội; là đại diện chủ đầu tư công trình thi công xây dựng kênh La Khê) vừa có văn bản gửi UBND phường Dương Nội (Hà Đông, Hà Nội) vào cuộc để xử lý giúp vụ việc 9 hộ dân phản ánh quá trình công trình thi công xây dựng kênh La Khê đã làm lún, nứt, nghiêng nhà ở.
+Nội dung văn bản thể hiện, ngày 21/9/2020, Công ty Cổ phần Tập đoàn Đầu tư xây dựng Cường Thịnh Thi (đơn vị trúng thầu) bắt đầu thi công xây dựng kênh La khê và đường giao thông 2 bên bờ kênh (đoạn từ cầu Lê Trọng Tấn - cầu Tố Hữu).
+Dù đã triển khai thi công theo đúng biện pháp được phê duyệt nhưng vẫn xảy ra hiện tượng rung lắc, rạn nứt tường nhà một số hộ dân ở khu đất dịch vụ LK20A-20B, thuộc địa bàn phường Dương Nội).
+Sau khi nhận được kiến nghị của các hộ dân, chủ đầu tư đã yêu cầu đơn vị thi công tạm dừng thi công; rà soát, kiểm tra biện pháp thi công và có biện pháp nhằm giảm thiểu rung chấn.
+Đồng thời, tìm giải pháp khắc phục sửa chữa ngay đối với các hộ dân có nguy cơ mất an toàn. Yêu cầu bên bảo hiểm mở rộng phạm vi xác định hiện trạng, số lượng công trình trong phạm vi thi công kênh La Khê.
+Công trình thi công kênh La Khê đã phải tạm dừng khoảng 6 tháng vì việc thi công khiến nhiều ngôi nhà gần đó bị ảnh hưởng, nứt (Ảnh: Nguyễn Trường).
+Đáng chú ý, theo chủ đầu tư, dù đã tạm dừng thi công khoảng 6 tháng nhưng các bên có liên quan đều chưa thể đánh giá độ rung chấn; xác định tổn thất làm cơ sở bồi thường và đánh giá mức độ an toàn công trình vì… các hộ dân không phối hợp cho thực hiện.
+Chính vì vậy, Ban Duy tu các công trình Nông nghiệp và Phát triển nông thôn đề nghị UBND phường Dương Nội đứng ra chủ trì thực hiện việc mời một tổ chức giám định (có tư cách pháp nhân) để xác định mức độ thiệt hại, làm cơ sở bồi thường giữa nhà thầu với các hộ dân có công trình bị ảnh hưởng. Mọi chi phí thực hiện sẽ do chủ đầu tư và nhà thầu chịu trách nhiệm chi trả.
+Bên cạnh đó, chủ đầu tư đề nghị UBND phường Dương Nội cho phép tiếp tục triển khai thi công. Đơn vị này sẽ yêu cầu nhà thầu tuân thủ chặt chẽ biện pháp thi công, bổ sung thêm biện pháp hỗ trợ để giảm thiểu ảnh hưởng do thi công gây ra.
+"Trong quá trình thi công, Ban sẽ phối hợp chặt chẽ với UBND phường Dương Nội, tổ dân phố, nhà thầu thi công và các hộ dân thường xuyên theo dõi diễn biến các ảnh hưởng do rung chấn để kịp thời giải quyết các sự cố (nếu có) xảy ra" - văn bản nêu rõ.
+Vì sao người dân không phối hợp?
+Như Dân trí đã đưa tin, hồi tháng 10/2020, nhiều hộ dân ở Khu đất dịch vụ 20A-20B (phường Dương Nội) thấy việc thi công bờ kênh La Khê do Công ty Cổ phần Tập đoàn Đầu tư xây dựng Cường Thịnh Thi thực hiện đã khiến nhà bị rung lắc, xuất hiện nhiều vết nứt trên tường.
+Những ảnh hưởng từ việc nhồi cọc xây bờ sông La Khê còn tác động nghiêm trọng đến Trường mầm non Kim Đồng, khiến bức tường khu vận động của trường phải "chống nạng" để đảm bảo an toàn cho học sinh.
+Lý giải về việc không đồng ý cho chủ đầu tư giám định tổn thất, thiệt hại để tính toán bồi thường, người dân cho rằng, việc kiểm tra hiện trạng, đo đạc mức độ ảnh hưởng của đơn vị giám định do chủ đầu tư đưa đến khiến họ không tin tưởng. Bởi lẽ, người được cử đến đi đánh giá các vết nứt bằng cảm quan, thước đo mà không thấy đem theo máy móc. Đồng thời, khi làm việc với người dân, nhân viên của đơn vị giám định không xuất trình được giấy tờ pháp lý, pháp nhân có liên quan.
+Nguyễn Trường

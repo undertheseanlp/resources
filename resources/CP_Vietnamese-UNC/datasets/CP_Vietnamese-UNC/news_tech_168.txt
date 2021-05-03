@@ -9,7 +9,7 @@ Dẫu vậy, tất cả các ứng dụng này đều phải được kiểm tra
 Hiện vẫn chưa rõ rằng ngoài ứng dụng của Nga, Apple có cho phép một ngoại lệ nào khác hay không. Nếu như đây là điều lệ được áp dụng tại đa quốc gia, các nhà phát triển phần mềm ở nước ta chắc chắn sẽ vui mừng khi có thêm nhiều cơ hội để quảng bá giải pháp 'Make in Vietnam', cũng như tiếp cận người tiêu dùng trong nước.
 Quy định mới của Nga mở ra cơ hội lớn với các nhà phát triển nội trong việc đưa phần mềm, giải pháp của mình tiếp cận người tiêu dùng trong nước.
 Trong một đoạn tweet đăng tải hôm thứ Năm, 1/4, một nhà phát triển iOS là Tian Zhang đã chia sẻ một đoạn video về quá trình thiết lập mới trên iPhone.
-Trong màn hình khởi tạo, một thông báo hiện lên cho biết: "Tuân thủ các yêu cầu pháp lý của Nga, hãy tiếp tục xem các ứng dụng có sẵn để tải xuống." 
+Trong màn hình khởi tạo, một thông báo hiện lên cho biết: "Tuân thủ các yêu cầu pháp lý của Nga, hãy tiếp tục xem các ứng dụng có sẵn để tải xuống."
 Nhấn vào "tiếp tục" sẽ đưa người dùng đến một danh sách các phần mềm do Nga sản xuất, điển hình như ứng dụng từ gã khổng lồ tìm kiếm Yandex, mạng xã hội VKontakte,…
 Theo một nguồn tin chưa xác định, Nga đang cố gắng trấn áp các công ty công nghệ của Mỹ tại nước này và tăng cường sự phụ thuộc vào "Internet có chủ quyền" do chính phủ kiểm soát.
 Tháng trước, Nga đã công khai giảm tốc độ truy cập mạng xã hội Twitter để đáp trả việc công ty từ chối xóa nhiều nội dung bị cấm theo quy định. Tuy nhiên, động thái này dẫn tới nhiều tên miền bị chặn, bao gồm cả trang web chính thức của Điện Kremlin.

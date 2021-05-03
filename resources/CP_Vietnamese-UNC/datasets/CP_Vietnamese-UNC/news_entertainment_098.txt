@@ -1,17 +1,14 @@
 # doc_id = news_entertainment_098
-# url = https://dantri.com.vn/giai-tri/doan-trang-bat-ngo-thong-bao-da-roi-viet-nam-sang-singapore-dinh-cu-20210422013516861.htm
-# date = 20210422
-Tối 21/4, Đoan Trang khiến nhiều khán giả bất ngờ khi thông báo cô đã bay sang Singapore sống cùng chồng ngoại quốc.
-Nữ ca sĩ tâm sự, cô định không công bố nhưng gia đình và bạn bè rất buồn và bản thân cô cũng xa gia đình nên quyết định chia sẻ với khán giả.
-"Bản thân bay cả ngàn chuyến bay khắp các mọi nơi, nhưng chuyến bay này quá khác biệt và lại bay ngay mùa Covid-19 còn chưa dứt hẳn! Thật ra là một thay đổi mới cho cuộc sống tốt đẹp hơn, vì lần này hai mẹ con theo ba, ở bên cạnh để ba Sol có được động lực lớn làm tốt vị trí cao nhất trong sự nghiệp của anh từ trước đến giờ!
-Sol sẽ tiếp tục được sống và học tập trong một môi trường thật bổ ích cho mình, và bản thân mẹ cũng được nghỉ ngơi xíu xiu, sau đó sẽ lên kế hoạch trau dồi lại bản thân từ thể chất đến tinh thần!", ca sĩ Đoan Trang bộc bạch.
-Cô nói thêm: "Thương ông bà ngoại vì cả nhà từ nào đến giờ luôn gắn liền với nhau, nên ông bà chưa quen với việc muốn gặp lúc nào cũng được! Gia đình là điều đẹp đẽ và tuyệt vời nhất Trang có được! Nên sáng nay quả thật quá khó khăn để tạm xa nhau một ít tháng (may là chỉ một ít tháng thôi đó).
-Nhưng ngoại và cả nhà cũng đã yên tâm rằng chúng ta lại bên nhau ngay thôi, cả nhà mình lại cùng ôm nhau nói cười và ăn những món ngon ngoại nấu, ở bất cứ ngôi nhà nào có thể...".
-Nhiều sao Việt như Thanh Thảo, Hà Kiều Anh, Pha Lê… chúc Đoan Trang sớm thích nghi với cuộc sống mới.
-Sau khi đến Singapore, cả gia đình Đoan Trang đã được xét nghiệm Covid-19.
-Đoan Trang bắt đầu cuộc sống mới tại Singapore để chồng phát triển sự nghiệp.
-Đoan Trang sinh năm 1978, là một trong những ca sĩ nổi tiếng của showbiz Việt. Làn da nâu đặc trưng, phong cách trình diễn cuốn hút, Đoan Trang được khán giả yêu mến gọi là"thỏi socola biết hát". Forget me not, Tóc hát, Khi tôi 20, Tuyết rơi mùa hè... là những bản hit của Đoan Trang.
-Mặc dù hoạt động âm nhạc chăm chỉ nhưng phải đến năm 2004, tên tuổi của Đoan Trang mới bật lên nhờ ra mắt album Socola. Những năm sau đó, cô vẫn rất chăm chỉ cho ra mắt các ca khúc riêng.
-Năm 2012, Đoan Trang kết hôn với ông xã người Thụy Điển tên Johan Wicklund. Cặp đôi hiện có một cô con gái đặt tên ở nhà là bé Sol. Sở hữu nét đẹp của bố và mẹ, bé Sol nổi tiếng là thiên thần lai xinh xắn trong dàn nhóc tì sao Việt.
-Kể từ sau khi kết hôn, Đoan Trang thay đổi khá nhiều. Nữ ca sĩ cũng dành thời gian cho gia đình nhiều hơn. Vợ chồng cô thường xuyên đưa con gái đi du lịch khắp nơi để bé Sol được trải nghiệm, dạn dĩ với thế giới xung quanh.
+# url = https://dantri.com.vn/giai-tri/don-vi-quan-ly-nhan-het-trach-nhiem-khi-nha-phuong-bi-to-benh-ngoi-sao-20210419222444442.htm
+# date = 20210419
+Tối ngày 19/4, công ty quản lý của diễn viên Nhã Phương đã ra thông cáo chính thức về việc cô bị chỉ trích trong những ngày qua, sau khi đạo diễn Nhất Trung đăng đàn tố một trong số nữ chính của phim "1990" có thái độ ngôi sao, bất hợp tác trong quá trình chuẩn bị cho việc quảng bá phim.
+Sau 2 lần đăng tải thông tin ngấm ngầm thì ngày 19/4, phía đạo diễn Nhất Trung đã đăng tải phân đoạn diễn xuất của Nhã Phương trong phim 1990 trùng khớp với lời tố trước đó. Đồng thời , phía đạo diễn Nhất Trung cũng đã trả lời một số đơn vị truyền thông khẳng định người anh đang nhắc đến trong suốt những ngày qua là Nhã Phương.
+Việc chỉ đích danh Nhã Phương đã khiến sự việc liên quan đến nữ diễn viên ngày càng đi quá xa nên phía đơn vị quản lý cô đã chính thức lên tiếng phản hồi về sự việc này.
+Theo đó, phía công ty khẳng định, đơn vị này toàn quyềnquyết định về các vấn đề liên quan tới công việc của nghệ sĩ từ lịch trình, nội dung công việc, quản trị mạng xã hội (fanpage, Tiktok, Instagram…).
+"Riêng với dự án phim 1990, từ khi bắt đầu cho đến thời điểm này, tất cả mọi việc liên quan đều do nhà sản xuất làm việc và trao đổi thông qua công ty quản lý Nhã Phương, không làm việc trực tiếp với diễn viên (trừ khi làm việc về diễn xuất và kịch bản)", phía Nhã Phương cho biết.
+Đại diện nữ diễn viên cho rằng mọi suy đoán, quy chụp về Nhã Phương với các thông tin thiếu thiện chí đang lan tràn trên truyền thông và mạng xã hội đều vô lý và bất công với Nhã Phương.
+"Chúng tôi xin khẳng định, diễn viên Nhã Phương đã và đang thực hiện đúng mọi nhiệm vụ của mình với tư cách là diễn viên. Toàn bộ phần việc liên quan đến các hoạt động khác, bao gồm cả hoạt động quảng bá phim là trách nhiệm sắp xếp của công ty", đại diện Nhã Phương cho biết.
+Với thông tin này, phía quản lý đã xác nhận công ty là đầu mối làm việc duy nhất và chính thức của Nhã Phương với Nhà sản xuất phim 1990, và là đơn vị quyết định về các vấn đề mà nhà sản xuất đang đưa ra trên mạng xã hội gần đây.
+Đồng thời, công ty của nữ diễn viên cho biết luôn sẵn sàng đối thoại và trao đổi với nhà sản xuất về các vấn đề liên quan để dự án có thể diễn ra tốt đẹp.
+"Và đối với chúng tôi, công việc sẽ được trao đổi chính thức thông qua các hình thức thông thường giữa các đối tác với nhau như họp trực tiếp/trực tuyến, email, điện thoại và thậm chí là tin nhắn trực tiếp với nhau chứ không thể và không nên dùng mạng xã hội để đưa ra những thông tin chưa đầy đủ và thậm chí thiếu thiện chí", thông cáo cho biết.
 Băng Châu

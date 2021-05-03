@@ -1,18 +1,20 @@
 # doc_id = news_world_198
-# url = https://dantri.com.vn/the-gioi/ong-trump-day-nga-trung-lai-gan-nhau-la-dieu-toi-te-nhat-20210420171338774.htm
-# date = 20210420
-Tổng thống Nga Vladimir Putin (phải) và Chủ tịch Trung Quốc Tập Cận Bình (Ảnh: Getty).
-"Hòa hợp với Tổng thống Nga Vladimir Putin là một điều tuyệt vời, chúng ta nên làm ăn với Nga, chúng ta nên hòa hợp với Nga, thay vì đẩy Nga vào vòng tay Trung Quốc", cựu Tổng thống Donald Trump nói trong cuộc phỏng vấn với Fox News.
-Đầu tháng này, Mỹ đã áp lệnh trừng phạt mới đối với 32 thực thể và cá nhân Nga với cáo buộc can thiệp vào bầu cử Tổng thống Mỹ năm 2020 và tấn công mạng công ty phần mềm của Mỹ. Ngoài ra, Mỹ còn trục xuất 10 nhà ngoại giao Nga khỏi nước này.
-"Điều tồi tệ nhất chúng ta có thể làm là đẩy Trung Quốc và Nga lại với nhau. Họ xích lại với nhau, và họ ràng buộc với nhau", ông Trump nhấn mạnh.
-Cựu Tổng thống Trump nói rằng trong thời gian tại nhiệm, ông luôn nỗ lực để cải thiện mối quan hệ tốt hơn với Moscow và Bắc Kinh.
-"Một số chuyện đang xảy ra với Đài Loan, một số chuyện đang xảy ra với Ukraine, nhưng những điều đó chưa bao giờ là vấn đề lớn khi tôi còn là Tổng thống", ông Trump nói.
-"Tôi có mối quan hệ tốt với Tổng thống Putin và Chủ tịch Tập Cận Bình cho tới khi Covid-19 ập đến", cựu Tổng thống Mỹ cho biết.
-Bộ Ngoại giao Nga đã chỉ trích đợt trừng phạt mới của Mỹ là đi ngược lại với lợi ích của 2 nước. Đáp trả lệnh trừng phạt của Mỹ, Nga đã cấm 8 quan chức Mỹ nhập cảnh vào nước này, trong đó có Bộ trưởng Tư pháp Merrick Garland, Bộ trưởng An ninh Nội địa Alejandro Mayorkas, Giám đốc Tình báo Quốc gia Avril Haines và Giám đốc Cục Điều tra Liên bang (FBI) Christopher Wray.
-Cơ quan tình báo Mỹ đã nhận định trong "Báo cáo Đánh giá Mối đe dọa" được công bố tuần trước rằng, Mỹ coi Nga và Trung Quốc là những thách thức hàng đầu do sự tiến bộcủa hai nước này về năng lực quân sự.
-Cuối tháng 3, Ngoại trưởng Nga Sergey Lavrov và người đồng cấp Trung Quốc Vương Nghị đã thảo luận về quan hệ hợp tác song phương và nhất trí thúc đẩy tình hữu nghị Nga - Trung. Hiệp ước Hữu nghị,Láng giềng và Hợp táctốt Nga - Trung cũng được mở rộng trong chuyến thăm chính thức của Ngoại trưởng Lavrov tới Trung Quốc.
-Tại cuộc họp, Nga và Trung Quốc nhất trí hợp tác để đáp trả các lệnh trừng phạt bị coi là "phi pháp" mà phương Tây áp đặt nhằm gây sức ép với Moscow và Bắc Kinh. Trước đó, Ngoại trưởng Lavrov kêu gọi Nga và Trung Quốc hợp tác để gạt đồngđô la Mỹ khỏi hệ thống thương mại nhằm giảm thiểu các rủi ro do lệnh trừng phạt gây ra.
-Tổng thống Putin hồi tháng 10 năm ngoái bất ngờ nói rằng ông "không loại trừ khả năng" về một liên minh quân sự Nga - Trung. Điều này làm dấy lên đồn đoán rằng Nga và Trung Quốc có thể lập liên minh quân sự đểthách thức Mỹ và NATO.
-Tuy nhiên, Bộ Quốc phòng Trung Quốc hồi tháng 3 tuyên bố nước này không có ý định lập liên minh quân sự với Nga. Bắc Kinh khẳng định hai nước tuân thủ nguyên tắc "không liên minh, không đối đầu và không nhằm vào một nước thứ ba".
+# url = https://dantri.com.vn/the-gioi/oxy-co-the-da-can-indonesia-van-hy-vong-tim-thay-tau-ngam-mat-tich-20210424065514330.htm
+# date = 20210424
+Binh sĩ Indonesia đứng trước bản đồ bờ biển Bali (Ảnh: BBC).
+Nhận định với CNN vào sáng 24/4, Julius Widjono, một quan chức hải quân Indonesia, cho biết ông lạc quan rằng tàu ngầm KRI Nanggala 402 vẫn có thể được tìm thấy.
+"Chúng ta phải lạc quan. Chúng tôi kêu gọi tất cả người dân Indonesia cầu nguyện cho 53 người (trên tàu ngầm) sẽ an toàn", ông Widjono nói.
+Ít nhất 6 tàu chiến, một máy bay trực thăng và 400 người đã tham gia cuộc tìm kiếm tàu ngầm mất tích ở ngoài khơi đảo Bali, Indonesia. Singapore và Malaysia đã điều tàu đến khu vực này, trong khi Australia, Pháp và Đức cũng đề nghị hỗ trợ.
+"Chúng tôi tiếp tục chờ đợi, chúng tôi tiếp tục cầu nguyện", Ratih Wardhani, người có anh trai là Thiếu tá Wisnu Subiyantoro - một thành viên trong thủy thủ đoàn trên tàu Nanggala, nói với BBC.
+"Chúng tôi hy vọng đội cứu hộ của hải quân Indonesia và các nước khác sẽ đưa tàu ngầm Nanggala cùng 53 thành viên thủy thủ đoàn về đoàn tụ hạnh phúc với gia đình. Đó là hy vọng của chúng tôi. Chúng tôi chỉ có thể hỗ trợ họ bằng những lời cầu nguyện và sự lạc quan của chúng tôi rằng họ sẽ trở lại", Ratih Wardhani nói.
+Tàu ngầm KRI Nanggala 402 đã mất liên lạc ngay sau khi xin phép lặn xuống biển trong cuộc tập trận phóng ngư lôi vào sáng sớm ngày 21/4. Tàu Nanggala do Đức chế tạo và là một trong 5 tàu ngầm do Indonesia vận hành.
+Hải quân Indonesia cho rằng sự cố về điện có thể đã xảy ra trong lúc tàu Nanggala làm nhiệm vụ, khiến tàu bị mất kiểm soát và không thể thực hiện các thao tác và quy trình khẩn cấp để có thể nổi lại trên mặt nước.
+Hải quân Indonesia nhận định tàu Nanggala có thể đã chìm xuống độ sâu 600-700 mét, lớn hơn nhiều so với độ sâu tối đa cho phép hoạt động của tàu.Một số chuyên gia nhận định tàu có thể đã rơi xuống độ sâu lớn tới mức khiến nó bị vỡ nát.
+Các đội cứu hộ của các nước vẫn đang chạy đua với thời gian để tìm tàu ngầm mất tích. Các nhà chức trách Indonesia cho biết tổng cộng 21 tàu, 5 máy bay và 2 tàu ngầm đã được triển khai trong chiến dịch tìm kiếm tàu ngầm.
+Tư lệnh hải quân Indonesia Yudo Margono cho biết tàu ngầm KRI Nanggala chỉ có đủ dưỡng khí đến 3 giờ sáng 24/4, bởi lượng ôxy dự trữ chỉ đủ dùng cho 72 giờ sau khi tàu bị mất điện. Hiện tại đã qua hạn chót này, song vẫn chưa có dấu hiệu tìm thấy tàu ngầm.
+Đồ họa mô phỏng vị trí tàu ngầm mất tích (Đồ họa: AFP).
+Yudo Margono, tham mưu trưởng hải quân Indonesia, cho biết thời tiết đang tạo điều kiện thuận lợi cho cuộc tìm kiếm tàu ngầm, tuy nhiên ông cũng lo ngại rằng lượng dưỡng khí cấp cho thủy thủ đoàn sẽ chỉ kéo dài đến sáng sớm nay.
+"Hy vọng rằng trước khi họ được tìm thấy, lượng ôxy sẽ đủ cho họ", ông Yudo nói trong một cuộc họp báo ở Bali, đồng thời khẳng định tàu ngầm trước đó đã được kiểm tra để sẵn sàng đưa vào sử dụng và ở trong tình trạng tốt.
+Tham mưu trưởng Yudo cho biết một vật thể có từ tính cao được phát hiện ở độ sâu 50-100 mét, song vẫn chưa thể khẳng định đó là tàu ngầm. Lực lượng cứu hộ cũng phát hiện vết dầu loang ở vị trí tàu ngầm Nanggala mất tích. Hải quân Indonesia nhận định đây có thể là dấu hiệu cho thấy thân tàu bị hư hại, hoặc là tín hiệu từ thủy thủ đoàn.
 Thành Đạt
-Theo Sputnik
+Theo CNA

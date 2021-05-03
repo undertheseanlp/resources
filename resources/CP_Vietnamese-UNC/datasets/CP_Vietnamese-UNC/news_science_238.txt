@@ -1,15 +1,11 @@
 # doc_id = news_science_238
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/trai-dat-co-an-toan-truoc-tieu-hanh-tinh-apophis-huy-diet-20210328063824002.htm
-# date = 20210328
-Mặc dù khả năng này đã bị bác bỏ sau đó, nhưng các nhà thiên văn học vẫn không loại trừ nguy cơ va chạm với Trái đất vào năm 2068.
-Theo một nghiên cứu được thực hiện trong chiến dịch quan sát radar của NASA, khả năng xảy ra va chạm với Apophis trong thế kỷ hiện tại là rất ít.
-Các vật thể vũ trụ, khoảng 340 mét tiếp cận hành tinh của chúng ta ở khoảng cách khoảng 17 triệu km và thậm chí xa hơn 44 lần so với Mặt trăng đã mang đến cho các nhà thiên văn cơ hội thực hiện các phép tính chính xác hơn rất nhiều thông qua việc sử dụng một ăng-ten vô tuyếntại Mạng lưới giám sát Không gian Sâu gần Barstow, California.
-Dữ liệu mới đã khiến các nhà khoa học phải quan tâm liên quan đến quỹ đạo của Apophis vào năm 2029.
-"Một tác động năm 2068 không còn trong khả năng xảy ra nữa. Các tính toán của chúng tôi cho thấy không có bất kỳ rủi ro nào tác động trong ít nhất 100 năm tới. Vị trí của nó vào năm 2029 cung cấp sự chắc chắn hơn về chuyển động trong tương lai của nó, vì vậy chúng tôi hiện có thể loại bỏ Apophis khỏi danh sách rủi ro với Trái đất", Davide Farnocchia thuộc Trung tâm nghiên cứu vật thể gần Trái đất (CNEOS) của NASA, cho biết.
-Apophis trước đó được đưa vào danh sách rủi ro CNEOS, hiện bao gồm 21 tiểu hành tinh có thể va vào Trái đất trong vòng 100 năm tới.
-Apophis được kỳ vọng sẽ có tiếp cận hành tinh của chúng ta vào tháng 4 năm 2029 khi nó đi ngang qua ở khoảng cách 32.000 km từ bề mặt Trái đất. Thiên thể có hình dạng một hạt đậu phộng có thể được nhìn thấy bằng mắt thường từ Đông Bán cầu của Trái đất.
-Các nhà thiên văn từng lo ngại về một vụ nổ do va chạm có thể xảy ra với Apophis vào năm 2068 tương đương với 1.200 triệu tấn thuốc nổ TNT hoặc khoảng 80.000 quả bom hạt nhân ném xuống Hiroshima.
-Tiểu hành tinh Apophis có kích thước tương đương 3 sân bóng đá, nặng 27 triệu tấn. Các nhà khoa học từng dự báo, ngày 12.4.2068, tiểu hành tinh này có khả năng nhỏ sẽ va chạm với trái đất. Các nhà thiên văn ở đài thiên văn quốc gia Kitt Peak, Mỹ, phát hiện tiểu hành tinh Apophis lần đầu vào năm 2004.
-Khi đó, Apophis được NASA xếp thứ 3 trong các mối đe dọa lớn nhất củatrái đất. Tên của tiểu hành tinh này được đặt theo tên rắn quỷ tượng trưng cho cái ác, bóng tối, sự hủy diệt trong thần thoại Ai Cập.
-Trang Phạm
-Theo Sputnik
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/trai-dat-co-bao-nhieu-lit-nuoc-20210501062544132.htm
+# date = 20210501
+Từ lúc bắt đầu đến lúc kết thúc, nước đi theo một chu kỳ không đổi - nó bốc hơi khỏi đại dương, di chuyển trong không khí, mưa xuống đất liền và sau đó chảy trở lại đại dương.
+Chúng ta có thể tìm thấy khoảng 326 triệu nghìn tỷ gallon (1.260 triệu nghìn tỷ lít) nước trên Trái Đất.
+Các đại dương rất lớn. Khoảng 70% hành tinh được bao phủ bởi đại dương và độ sâu trung bình của đại dương là khoảng 12.100 feet (3.688 mét). 98% nước trên hành tinh là trong các đại dương, và do đó không thể sử dụng để uống. Ít hơn 3% nước trên hành tinh là nước ngọt, nhưng khoảng 1,6% nước trên hành tinh được "giấu" trong các tảng băng ở cực và sông băng. 0,36% khác được tìm thấy dưới lòng đất trong các tầng chứa nước và giếng.
+Chỉ khoảng 0,036% tổng nguồn cung cấp nước của hành tinh được tìm thấy trong các hồ và sông. Đó vẫn là hàng nghìn tỷ gallon, chiếm một lượng rất nhỏ so với tất cả lượng nước hiện có.
+Phần nước còn lại trên hành tinh lơ lửng trong không khí dưới dạng mây và hơi nước, hoặc ở trong cơ thể thực vật và động vật (cơ thể của con người 65% là nước, vì vậy nếu nặng 100 pound (46 kg) thì 65 pound là nước).
+Với tất cả các hộp soda, sữa và nước cam mà chúng ta thấy ở cửa hàng và trong tủ lạnh, có lẽ sẽ có vài tỷ gallon nước nằm trên kệ cùng một lúc.
+Phước Hải
+Theo Howstuffwork

@@ -1,15 +1,18 @@
 # doc_id = news_world_245
-# url = https://dantri.com.vn/the-gioi/trieu-phu-nhat-ban-77-tuoi-nghi-bi-vo-kem-50-tuoi-dau-doc-chet-20210429223256564.htm
-# date = 20210429
-Triệu phú quá cố Kosuke Nozaki (Ảnh: Twitter).
-AFP đưa tin, cảnh sát Nhật Bản ngày 28/4 được cho đã bắt giữ Saki Sudo, 25 tuổi, người bị tình nghi đầu độc chồng - triệu phú bất động sản Kosuke Nozaki - vào năm 2018 khiến ông này qua đời ở tuổi 77, chỉ vài tháng sau khi 2 người kết hôn.
-Sudo bị nghi đã đầu độc chồng bằng một lượng lớn chất kích thích chưa xác định. Truyền thông Nhật Bản nói rằng chất này có thể đã được trộn vào trong đồ uống vì phía giám định không tìm thấy vết kim tiêm nào trên thi thể của ông Nozaki.
-Khi còn sống, ông Nozaki tự gọi mình là "Đông Gioăng", ám chỉ một người có tính trăng hoa. Triệu phú quá cố này từng kể trong tự truyện rằng, ông đã mạnh tay chi hàng triệu USD để tán tỉnh những phụ nữ trẻ trung, xinh đẹp.
-Ông Nozaki từng là chủ sở hữu của một chuỗi bất động sản, công ty rượu và doanh nghiệp cho vay tiền.
-Nozaki khởi nghiệp từ 2 bàn tay trắng, bán mọi thứ từ sắt vụn cho tới bán rượu cho tới khi xây dựng được cơ nghiệp triệu USD.
-Trong di chúc, ông muốn tài trợ gần 12 triệu USD cho thành phố Tanabe ở tỉnh Wakayama, nơi ông sinh sống. Tuy nhiên, do một nửa bất động sản của ông đã được chia cho người vợ trẻ, thành phố Tanabe đã thảo luận với cô Sudo về việc chia khoản tiền này.
-Theo truyền thông Nhật Bản, Sudo bị nghi đã lên mạng tìm kiếm thông tin về các loại thuốc độc trước cái chết của chồng.
-Ông Nozaki ban đầu được cho đã qua đời tháng 5/2018 vì nguyên nhân tự nhiên. Tuy nhiên, một cuộc khám nghiệm tử thi sau đó đã phát hiện ra chất ma túy trong cơ thể ông dù trong hồi ký ông Nozaki khẳng định rằng không bao giờ sử dụng chất kích thích.
-Ông Nozaki cũng từng nói ông"tự tin sẽ hạnh phúc" sau khi cưới Sudo, dù mọi người cảnh báo ông rằng cựu người mẫu này dường như chỉ lấy ông vì tiền.
-Đức Hoàng
-Theo AFP
+# url = https://dantri.com.vn/the-gioi/trung-quoc-dieu-hang-chuc-may-bay-tap-tran-nem-bom-sau-canh-bao-ve-dai-loan-20210420121040483.htm
+# date = 20210420
+Các máy bay của Trung Quốc tham gia huấn luyện vào tháng 6/2020 (Ảnh: Xinhua).
+Theo đài truyền hình trung ương Trung Quốc (CCTV), Bộ Tư lệnh quân khu miền Đông thuộc quân đội Trung Quốc (PLA), lực lượng giám sát eo biển Đài Loan, đã điều động hàng chục máy bay ném bom chiến lược H-6K tham gia cuộc tập trận bắn đạn thật kéo dài 9 tiếng vào cuối tuần qua.
+CCTV cho biết các máy bay ném bom cất cánh theo đội hình tác chiến từ một sân bay quân sự ở phía đông Trung Quốc trong điều kiện tầm nhìn thấp và hướng tới một "thao trường chưa được xác định".
+Trong cuộc tập trận, các máy bay ném bom H-6K có tải trọng tối đa 15 tấn cũng thực hành kỹ năng ứng phó với các đơn vị tên lửa phòng không. Khi bay đến không phận mục tiêu, các máy bay này thả bom rơi tự do từ các độ cao khác nhau.
+Sau khi trở về căn cứ, các máy bay tiếp tục thực hiện lại cuộc tập trận trong đêm.
+"Tập trận trong khoảng thời gian dài, cường độ cao, diễn ra cả ngày lẫn đêm đã nhanh chóng tăng cường khả năng tấn công của lực lượng không quân và cải thiện năng lực tác chiến thực tế", CCTV cho biết.
+Cuộc tập trận diễn ra sau khi Tổng thống Mỹ Joe Biden và Thủ tướng Nhật Bản Yoshihide Suga ra tuyên bố chung, trong đó đề cập tới vấn đề Đài Loan. Đây là lần đầu tiên vấn đề Đài Loan được nhắcđến trong một tuyên bố chung của Mỹ - Nhật trong hơn 5 thập niên.
+"Chúng tôi nhấn mạnh tầm quan trọng của hòa bình và ổn định tại eo biển Đài Loan và khuyến khích giải quyết hòa bình vấn đề xuyên eo biển", thông cáo của Mỹ - Nhật nêu rõ.
+Bắc Kinh cho rằng việc hai nước đồng minh Mỹ - Nhật đề cập trực tiếp đến Đài Loan trong tuyên bố chung được coi là sự can thiệp nghiêm trọng vào các vấn đề nội bộ của Trung Quốc, đồng thời phát đi tín hiệu rằng Mỹ - Nhật đang tìm cách thách thức các động tháicủa Trung Quốc nhằm thống nhất đất nước.
+"Tuyên bố chung của các nhà lãnh đạo Mỹ - Nhật can thiệp thô bạo vào các vấn đề nội bộ của Trung Quốc và vi phạm nghiêm trọng các quy tắc cơ bản điều chỉnh các mối quan hệ quốc tế. Chúng tôi kêu gọi Mỹ và Nhật Bản xem xét mối quan tâm của Trung Quốc một cách nghiêm túc, tuân thủ nguyên tắc Một Trung Quốc, ngay lập tức dừng can thiệp vào công việc nội bộ của Trung Quốc và gây tổn hại đến lợi ích của Trung Quốc", người phát ngôn Bộ Ngoại giao Trung Quốc cảnh báo.
+Mặc dù bản tin của CCTV không nêu cụ thể vị trí thao trường diễn ra cuộc tập trận của các máy bay ném bom Trung Quốc, nhưng một nguồn tin thuộc quân đội nước này cho biết các máy bay H-6K đã ném bom tại khu vực thuộc tỉnh Thanh Hải, thay vì thao trường dự kiến ở bờ biển phía đông nam đối diện Đài Loan.
+"Đó là một cuộc tập trận quy mô lớn, với nhiều quả bom được thả xuống. Tuy nhiên PLA không muốn thực hiện các hành động khiêu khích quá mức nhằm vào Đài Loan, vì các biện pháp hòa bình vẫn là cách tốt nhất để giải quyết vấn đề Đài Loan", nguồn tin nhận định.
+PLA tăng cường hoạt động quân sự gần Đài Loan khi Washington và Bắc Kinh leo thang căng thẳng về vấn đề này, bao gồm việc đưa máy bay chiến đấu vào vùng nhận dạng phòng không của Đài Loan gần như hàng ngày trong những tháng gần đây. Trung Quốc luôn Đài Loan là vùng lãnh thổ tách rời và sẵn sàng sáp nhập bằng mọi cách, kể cả sử dụng vũ lực.
+Thành Đạt
+Theo SCMP

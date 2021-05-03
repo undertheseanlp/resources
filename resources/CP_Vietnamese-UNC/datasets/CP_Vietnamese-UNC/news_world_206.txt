@@ -1,22 +1,19 @@
 # doc_id = news_world_206
-# url = https://dantri.com.vn/the-gioi/phat-hien-sieu-bien-chung-sars-co-v-2-co-34-dot-bien-20210422144400563.htm
-# date = 20210422
-Covid-19 đang diễn biến phức tạp tại nhiều nơi trên thế giới (Ảnh: Reuters).
-Theo News.com.au, các nhà nghiên cứu từ Bộ Y tế Angola, Trung tâm kiểm soát và phòng ngừa dịch bệnh châu Phi, Đại học Oxford (Anh) và Đại học Cape Town (Nam Phi) cùng viện KRISP (Ấn Độ) đã cảnh báo về sự xuất hiện của một biến chủng SARS-CoV-2 với 34 đột biến.
-Trong số 34 đột biến trên, có 14 đột biến liên quan tới gai protein - bộ phận giúp virus bám và xâm nhập vào tế bào người để gây bệnh Covid-19.
-Con số 34 đột biến xảy ra trên một biến chủng được xem là kỷ lục thế giới, vì các chủng nguy hiểm trước đây đều có số lượng ít hơn nhiều. Ví dụ, chủng có nguồn gốc từ Brazil có 18 đột biến, gồm 10 đột biến ở phần gai. Trong khi đó, biến chủng phát hiện lần đầu ở Anh có 17 đột biến, gồm 8 đột biến ở gai protein.
-Việc phát hiện siêu biến chủng mới, cùng với một số chủng có khả năng "qua mặt" các kháng thể ngăn Covid-19 khiến giới khoa học lo ngại Covid-19 sẽ tiếp tục diễn biến phức tạp trong thời gian tới.
-Theo News.com.au, biến chủng mới có 34 đột biến lần đầu được phát hiện trên 3 người di chuyển từ Tanzania tới Angola vào giữa tháng 2. Các nhà khoa học đã kêu gọi việc "nghiên cứu khẩn cấp" biến chủng này.
-Họ cũng cảnh báo Tanzania đang gặp nguy hiểm vì quốc gia châu Phi này "có nhiều ca Covid-19 chưa được thống kê". Tanzania hiện mới ghi nhận 509 ca bệnh và 21 trường hợp tử vong - con số được cho là thấp hơn nhiều so với tình hình thực tế. Trước đó, chính phủ Tanzania thậm chí còn kêu gọi người dân cầu nguyện và xông hơi bằng thảo dược để tiêu diệt virus.
-Một lo ngại khác rằng, nếu biến chủng 34 đột biến lây lan mạnh, nó có thể tiếp tục đột biến tiếp và có thể trở nên dễ lây lan, dễ gây tử vong và dễ lách qua kháng thể.
-Tiến sĩ William A Haseltine, cựu giáo sư Đại học Harvard của Mỹ, bày tỏ quan ngại về biến chủng mới do số lượng đột biến của nó quá lớn.
-Biến chủng mới hiện được tạm đặt tên là A. VOI. V2, trong khi Tiến sĩ Haseltine gọi nó là "biến chủng Tanzania".
-Ấn Độ phá kỷ lục thế giới về ca bệnh mới
-Thông tin về biến chủng mới được đăng tải vào thời điểm nhiều nơi trên thế giới vẫn đang phải "vật lộn" với đại dịch.
-Ấn Độ ngày 22/4 đã phá kỷ lục thế giới khi ghi nhận 314.835 ca bệnh mới chỉ trong 24 giờ. Tổng số ca bệnh ở quốc gia này cho tới nay là 15,9 triệu người và số người tử vong là 184.657.
-Ấn Độ vẫn đang xếp sau Mỹ về số ca bệnh và số người thiệt mạng, nhưng quốc gia Nam Á đã phá kỷ lục của Mỹ ghi nhận hồi tháng 1 - 297.430 ca trong 24 giờ.
-Dịch bệnh bùng nổ ở Ấn Độ được cho là do một biến chủng mới mang tên B1617, gồm 2 đột biến khiến nó trở nên dễ lây nhiễm hơn chủng ban đầu.
-Trong khi đó, tại Nam Mỹ, Brazil vẫn đang đối mặt với sự lây lan không kiểm soát của dịch bệnh do biến chủng P1.
-Tổ chức Y tế Thế giới (WHO) cảnh báo rằng, tình hình dịch bệnh trên toàn cầu "chưa thể kết thúc" khi các siêu biến chủng tiếp tục lây lan. Số ca bệnh mới ghi nhận mỗi ngày trên thế giới thậm chí còn đang tăng nhanh chóng.
-Đức Hoàng
-Theo News.com.au, RT
+# url = https://dantri.com.vn/the-gioi/phat-hien-vat-the-kha-nghi-indonesia-doc-toan-luc-tim-tau-ngam-mat-tich-20210423055732508.htm
+# date = 20210423
+Tàu ngầm KRI Nanggala-402 của hải quân Indonesia (Ảnh: Getty).
+"Tôi đã ra lệnh cho tư lệnh quân đội, tham mưu trưởng hải quân, cơ quan tìm kiếm cứu hộ và các cơ quan khác triển khai toàn lực với nỗ lực tối đa nhằm tìm kiếm và cứu hộ thủy thủ đoàn", Reuters dẫn lời Tổng thống Indonesia Joko Widodo ngày 22/4. Ông Widodo nhấn mạnh: "Ưu tiên hàng đầu là sự an toàn của 53 thành viên thủy thủ đoàn".
+Mệnh lệnh được đưa ra trong bối cảnh Indonesia đang chạy đua với thời gian để tìm kiếm và giải cứu tàu ngầm KRI Nanggala-402 của hải quân nước này. Con tàu mất tích ở vị trí cách Bali khoảng 95km vào rạng sáng ngày 21/4 khi đang tham gia một cuộc diễn tập phóng ngư lôi.
+Hiện tại có 21 tàu, 5 máy bay và 2 tàu ngầm tham gia chiến dịch tìm kiếm. Một số nước cũng đã lên tiếng sẵn sàng hỗ trợ tìm kiếm, cứu hộ, trong đó tàu cứu hộ của Malaysia và Singapore đã khởi hành đến Indonesia.
+Tham mưu trưởng Hải quân Indonesia Yudo Margono cho biết, biển lặng tạo điều kiện thuận lợi cho chiến dịch tìm kiếm, tuy nhiên, điều đáng lo ngại là dưỡng khí trên tàu ngầm mất tích ước tính chỉ còn đủ dùng đến sáng ngày 24/4. "Hy vọng chúng tôi sẽ tìm thấy con tàu trước khi dưỡng khí cạn kiệt", ông Margono nói tại một cuộc họp báo hôm nay.
+Phát hiện vật thể chưa xác định có từ tính
+Vị trí tàu ngầm mất tích (Đồ họa: AFP).
+Quan chức này cho biết thêm, ngoài phát hiện các vệt dầu loang ở một số vị trí khác nhau, lực lượng tìm kiếm còn phát hiện một vật thể chưa xác định có từ tính cao lơ lửng ở độ sâu khoảng 50-100m.
+"Tàu hải quân KRI Rigel đang được điều động đến để trục vớt vật thể. Đó có thể là mảnh vỡ của KRI Nanggala", một quan chức quân đội Indonesia cho hay.
+Về các vệt dầu loang, ông Margono cho biết, nếu đó là dầu từ tàu ngầm KRI Nanggala-402 thì có hai khả năng, hoặc là dầu rò rỉ khi tàu lặn quá sâu, hoặc tàu xả bớt nhiên liệu với hy vọng nổi lên trên mặt nước.
+Theo lời phát ngôn viên Hải quân Indonesia Julius Widjojono, tàu ngầm KRI Nanggala-402 có khả năng lặn sâu tới 500m, nhưng giới chức nước này đánh giá con tàu có thể đã lặn sâu tới 700m. Ở độ sâu 700m, con tàu có thể vỡ tung do sức ép. Ngay cả trong trường hợp con tàu còn nguyên vẹn, thì một thách thức nữa đặt ra là các hệ thống cứu hộ chỉ hoạt động và hoạt động hiệu quả ở độ sâu khoảng 600m.
+"Hầu hết các hệ thống cứu hộ tàu ngầm chỉ có thể hoạt động ở độ sâu khoảng 600m. Chúng có thể lặn xuống sâu hơn, do có biên độ an toàn trong thiết kế, song các thiết bị như máy bơm hay những hệ thống liên quan có khả năng không hoạt động. Các phương tiện cứu hộ có thể lặn xuống độ sâu đó, nhưng chưa chắc đã vận hành được", Frank Owen, một chuyên gia của Viện nghiên cứu tàu ngầm Australia, nhận định.
+Chuyên gia này cho biết, tàu ngầm Indonesia không có thiết kế cửa thoát hiểm đặc biệt cho phép thủy thủ đoàn thoát sang một con tàu khác trong kịch bản một cuộc giải cứu dưới nước. "Hệ thống duy nhất mà họ có là buộc con tàu phải nổi lên mặt nước, và thủy thủ thoát ra ngoài khi tàu đã nổi, hoặc khi tàu ở độ sâu không quá 180m, thủy thủ đoàn có thể mặc một trang phục bảo hộ đặc biệt và từ đó có thể bơi lên mặt nước", ông Owen nói.
+Cho dù là kịch bản nào, các chuyên gia nhận định, cơ hội tìm thấy thủy thủ đoàn của tàu ngầm Indonesia là rất mong manh.
+Minh Phương
+Theo CNA, Reuters

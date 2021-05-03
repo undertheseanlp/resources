@@ -1,15 +1,16 @@
 # doc_id = news_world_129
-# url = https://dantri.com.vn/the-gioi/khoanh-khac-bao-cat-nuot-chung-thanh-pho-trung-quoc-nhu-ngay-tan-the-20210427214149578.htm
-# date = 20210427
-Thành phố Trương Dịch ở Cam Túc bị bão cát "nuốt chửng" (Ảnh: AFP).
-Theo DW, trận bão cát đã tấn công tỉnh Cam Túc thuộc khu tự trị Nội Mông của Trung Quốc hồi cuối tuần qua, khiến các nhà máy và tòa nhà tại đây bị các "bức tường" cát bao phủ.
-Những hình ảnh chụp từ trên không cho thấy những đám bụi vàng bao trùm quận Linze ở Cam Túc. Hiện tượng thời tiết đã làm tầm nhìn khi lưu thông bị hạn chế dẫn tới hàng loạt vụ tai nạn tại tỉnh này, theo truyền thông nhà nước Trung Quốc.
-Các nhà khí tượng cảnh báo mọi người nên ở trong nhà và đóng chặt cửa sổ. Giới chức dự đoán hiện tượng trên sẽ tiếp tục xảy ra trong những ngày tới.
-Trung Quốc thường phải hứng chịu những trận bão cát lớn vào mỗi mùa xuân khi cát bị thổi từ sa mạc Gobi ở phía bắc và Mông Cổ di chuyển tới các thành phố trên khắp Trung Quốc, như Sơn Đông ở khu vực duyên hải phía đông, thậm chí là tới một số nước châu Á.
-Bão cát trong nhiều năm qua càng trở nên tồi tệ hơn do tình trạng sa mạc hóa, khi sa mạc Gobi liên tục mở rộng diện tích mỗi năm, khiến đất canh tác nông nghiệp thành hoang mạc.
-Hồi tháng 3, thủ đô Bắc Kinh đã hứng chịu trận bão cát tồi tệ nhất trong 10 năm qua, hiện tượng đã đẩy mức ô nhiễm không khí lên cao kỷ lục và khiến các hãng hàng không phải hủy hàng trăm chuyến bay.
-Để khắc phục tình trạng này, Trung Quốc đang thúc đẩy dự án mang tên "Vạn lý Trường thành Xanh" bằng cách trồng hàng rào cây xanh nhằm tạo lá chắn ngăn bão cát thổi vào các thành phố. Trung Quốc hi vọng nỗ lực tái trồng rừng sẽ khiến các trận bão cát giảm tần suất và cường độ.
-Bão cát xảy ra tại tỉnh Cam Túc (Ảnh: AFP).
-Bầu trời Nội Mông biến thành màu cam (Ảnh: China Daily).
-Đức Hoàng
-Theo DW
+# url = https://dantri.com.vn/the-gioi/khong-deo-khau-trang-khi-hop-thu-tuong-thai-bi-phat-190-usd-20210426220157515.htm
+# date = 20210426
+Bức ảnh chụp Thủ tướng Prayut không đeo khẩu trang trong cuộc họp (Ảnh: Facebook).
+Trong một thông điệp trên Facebook ngày 26/4, Thủ tướng Prayut đã cố gắng giải thích cách thức chính phủ của ông đang thúc đẩy việc tìm kiếm thêm các nguồn vắc xin Covid-19 và kèm một bức ảnh về cuộc họp. Bức ảnh cho thấy ông ngồi họp cùng các trợ lý.
+Tất cả đều đeo khẩu trang, trừ Thủ tướng.
+Việc đeo khẩu trang hiện đã trở thành bắt buộc tại các địa điểm công cộng ở 49 tỉnh và thủ đô Bangkok. Thống đốc Bangkok Aswin Kwanmuang đã nhắc nhở người dân đeo khẩu trang, nếu không có thể đối mặt khoản tiền phạt lên tới 20.000 baht (640 USD).
+Sau nhiều chỉ trích nhằm vào Thủ tướng, ông Aswin đã cho biết trên trang Facebook cá nhân rằng Thủ tướng Prayut đã bị phạt 6.000 baht (190 USD) vì không tuân thủ các quy định.
+"Sau cuộc họp, Thủ tướng đã đề nghị tôi với tư cách là thống đốc Bangkok xác định xem liệu trường hợp của ông có vi phạm hay không. Tôi đã thông báo với Thủ tướng rằng ông vi phạm tuyên bố của chính quyền Bangkok, vốn yêu cầu tất cả mọi người đeo khẩu trang y tế hoặc vải bất kỳ khi nào ra khỏi nhà", Thống đốc Aswin viết, cho biết thêm rằng Thủ tướng Prayut đã đồng ý mức phạt trên.
+Thông tin cuộc họp của Thủ tướng Prayut sau đó đã bị xóa và đăng lại trên Facebook, nhưng không kèm theo bức ảnh ông không đeo khẩu trang.
+Vụ việc trên diễn ra trong bối cảnh làn sóng lây nhiễm Covid-19 mới nhất đã khiến hơn 28.000 người mắc bệnh và 54 người tử vong tại Thái Lan kể từ đầu tháng 4.
+Virus đã lây lan khắp các hộp đêm, các bữa tiệc và các buổi hòa nhạc. Sau đợt bùng phát gần đây, chính phủ Thái Lan đã yêu cầu đóng cửa tạm thời các hộp đêm, quán bar trên cả nước, cùng các biện pháp chặt chẽ khác, nhằm kiểm soát sự lây lan của dịch bệnh.
+Tại các khu vực có nguy cơ cao như Bangkok, các biện pháp khác nhau đã được thực thi, trong đó có lệnh cấm đối với một số hoạt động và đóng cửa vài địa điểm để hạn chế hoạt động của người dân và giảm nguy cơ lây nhiễm.
+Theo Cơ quan kiểm soát dịch bệnh (DCD), Thái Lan hôm nay ghi nhận 2.048 ca mắc mới, nâng tổng số ca mắc đến nay lên 57.508 người. Nước này cho tới nay có 148 ca tử vong vì Covid-19. Hiện có 563 bệnh nhân trong tình trạng nguy kịch.
+An Bình
+Theo CNA

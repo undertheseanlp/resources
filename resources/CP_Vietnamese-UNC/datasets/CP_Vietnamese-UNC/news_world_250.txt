@@ -1,20 +1,20 @@
 # doc_id = news_world_250
-# url = https://dantri.com.vn/the-gioi/trung-quoc-tap-tran-ban-dan-that-my-dieu-mat-than-ap-sat-can-cu-hai-quan-20210422080100275.htm
-# date = 20210422
-Máy bay trinh sát RC-135W Rivet Joint của Mỹ (Ảnh: Sputnik).
-Tổ chức Sáng kiến Theo dõi Tình hình Chiến lược Biển Đông có trụ sở tại Bắc Kinh cho biết, một máy bay trinh sát điện tử RC-135W của Không quân Mỹ đã thực hiện chuyến bay ở cự ly gần bất thường dọc theo bờ biển phía đông của Trung Quốc hôm 20/4.
-Máy bay trinh sát Mỹ hoạt động trong phạm vi 40 hải lý từ Thanh Đảo, nơi đặt căn cứ chỉ huy của Hạm đội Bắc Hải thuộc hải quân Trung Quốc.
-Một máy bay RC-135W và một máy bay săn ngầm P-8A của Mỹ cũng tuần tra Biển Đông hôm 21/4, trong lúc Trung Quốc tập trận bắn đạn thật ở vùng biển này.
-Đây là những máy bay quân sự được Mỹ triển khai tới gần bờ biển Trung Quốc trong thời gian diễn ra các cuộc tập trận bắn đạn thật.
-Tuần trước, các máy bay trinh sát của Mỹ đã tuần tra dọc theo bờ biển phía đông nam của tỉnh Quảng Đông, trước khi hướng về phía nam tới quần đảo Hoàng Sa thuộc chủ quyền của Việt Nam.
-Theo Sáng kiến Theo dõi Tình hình Chiến lược Biển Đông, các máy bay tham gia hoạt động tuần tra vào tuần trước và hôm 21/4 đã tạm thời "biến mất" khỏi dữ liệu radar công khai khi bay qua khu vực phía đông tới khu vực phía bắc của quần đảo Hoàng Sa.
-Đài truyền hình Trung ương Trung Quốc cho biết các cuộc tuần tra gần bờ cho phép các máy bay Mỹ phát hiện các tín hiệu điện tử trên đất liền trong sứ mệnh thu thập thông tin tình báo về quân đội Trung Quốc.
-"Các cuộc tuần tra cho phép họ thu được nhiều thông tin hơn trong thời gian ngắn nhất và nhiều tín hiệu có giá trị hơn theo cách hiệu quả nhất", đài truyền hình Trung Quốc cho biết.
-Cũng trong khoảng thời gian trên, nhóm tác chiến tàu sân bay Liêu Ninh của quân đội Trung Quốc đã tiến hành các cuộc tập trận gần Đài Loan.
-Bộ Tư lệnh quân khu miền Đông thuộc quân đội Trung Quốc, lực lượng giám sát eo biển Đài Loan, đã điều động hàng chục máy bay ném bom chiến lược H-6K tham gia cuộc tập trận bắn đạn thật kéo dài 9 tiếng vào cuối tuần trước. Cuộc tập trận diễn ra sau khi Tổng thống Mỹ Joe Biden và Thủ tướng Nhật Bản Yoshihide Suga ra tuyên bố chung, trong đó đề cập tới vấn đề Đài Loan.
-Trước đó, Cục An toàn Hàng hải Quảng Đông ngày 14/4 thông báo cuộc tập trận bắn đạn thật kéo dài 6 ngày của quân đội Trung Quốc diễn ra ở phía nam quần đảo Bành Hồ tại eo biển Đài Loan. Cuộc tập trận diễn ra sau khi một phái đoàn "không chính thức" của Mỹ tới thăm Đài Loan.
-Tháng 9 năm ngoái, Trung Quốc cáo buộc máy bay chiến đấu Mỹ đã giả dạng máy bay dân dụng khi thực hiện các nhiệm vụ trinh sát gần bờ, gây ra "mối đe dọa an ninh nghiêm trọng".
-Người phát ngôn Bộ Ngoại giao Trung Quốc Uông Văn Bân cảnh báo việc ngụy trang máy bay là "thủ đoạn phổ biến", đồng thời cho biết Không quân Mỹ đã thực hiện các hoạt động như vậy ít nhất 100 lần vào năm 2020.
-Tháng 8/2020, một máy bay trinh sát Mỹ đã tiến vào vùng cấm bay mà Trung Quốc tuyên bố trước đó để tiến hành tập trận ở Hoàng Hải. Động thái này của Mỹ đã vấp phải sự phản đối từ Bộ Quốc phòng Trung Quốc.
+# url = https://dantri.com.vn/the-gioi/ukraine-noi-nga-sap-dua-120000-quan-toi-bien-gioi-20210421092154553.htm
+# date = 20210421
+Xe tăng Ukraine tham gia tập trận trong bức ảnh được công bố ngày 20/4 (Ảnh: Reuters).
+"Quân đội Nga tiếp tục tiến gần tới biên giới của chúng tôi ở phía đông bắc, phía đông và phía nam. Chỉ trong khoảng một tuần, lực lượng của họ có thể lên đến hơn 120.000 quân. Điều này không có nghĩa họ sẽ dừng lại", Ngoại trưởng Ukraine Dmytro Kuleba nói trong cuộc họp trực tuyến ngày 20/4.
+Ông Kuleba cho rằng hành động của Nga rất khó đoán. Tuy nhiên, Ngoại trưởng Ukraine khẳng định nước này không muốn xung đột với Nga.
+Theo ông Kubela, Nga cần hiểu rằng việc leo thang căng thẳng sẽ mang lại "hậu quả nghiêm trọng" cho Moscow, bao gồm sự cô lập của cộng đồng quốc tế và các lệnh trừng phạt kinh tế "đau đớn".
+Ngoại trưởng Kubela kêu gọi Moscow tái cam kết về thỏa thuận ngừng bắn ở Đông Ukraine. Cuộc xung đột giữa lực lượng ly khai mà Ukraine cáo buộc do Nga hậu thuẫn với quân đội chính phủ Ukraine khiến 14.000 người thiệt mạng kể từ năm 2014.
+Ngoại trưởng Kubela đã tham dự cuộc họp trực tuyến với Ngoại trưởng của các nước thành viên EU. Ông Kubela kêu gọi các nước EU "bắt đầu xem xét các lệnh trừng phạt mới nhằm vào Nga".
+Theo Ngoại trưởng Kubela, mặc dù một số Ngoại trưởng EU chưa sẵn sàng cho việc áp lệnh trừng phạt mới đối với Nga, song ông đã nói với họ rằng các lệnh trừng phạt riêng lẻ nhằm vào các quan chức Nga là "chưa đủ".
+Nga và Ukraine đã đổ lỗi cho nhau về tình hình leo thang gần đây của cuộc xung đột tại miền Đông Ukraine. Ngoại trưởng Kubela cáo buộc lính bắn tỉa Nga nổ súng vào binh sĩ Ukraine để khiêu khích. Tuy nhiên, Moscow đã phủ nhận việc hỗ trợ lực lượng ly khai ở Đông Ukraine.
+Căng thẳng giữa Nga phương Tây ngày càng "nóng" lên sau khi Moscow bị cáo buộc đưa binh sĩ và khí tài áp sát biên giới Ukraine. Cao ủy Đối ngoại của Liên minh châu Âu Josep Borrell đầu tuần này nói rằng, Nga đã triển khai hơn 100.000 binh sĩ đến Crimea và khu vực giáp biên giới Ukraine.
+Lầu Năm Góc ngày 19/4 ước tính hiện diện quân sự của Nga ở biên giới giáp Ukraine còn lớn hơn thời điểm Moscow sáp nhập bán đảo Crimea năm 2014.
+Tuy nhiên, Nga khẳng định hoạt động dồn quân của nước này nhằm chuẩn bị một cuộc diễn tập quân sự kéo dài 3 tuần. Nga cho biết cuộc diễn tập nhằm kiểm tra khả năng sẵn sàng chiến đấu để đối phó với hành vi đe dọa từ NATO.
+Nga ngày 20/4 cũng cáo buộc Mỹ và NATO có "hoạt động khiêu khích" trong vùng biển và không phận của Biển Đen. Moscow cho rằngviệc triển khai lực lượng trong lãnh thổ Nga là hoàn toàn bình thường, vì mục đích phòng vệ mà không nhằm vào bất cứ quốc gia nào.
+Trong một diễn biến có liên quan, phái đoàn ngoại giao Mỹ tại Moscow ngày 20/4 cho biết Đại sứ Mỹ tại Nga John Sullivan sẽ về nước trong tuần này để "tham vấn", sau khi Nga khuyến nghị ông nên tạm thời rời đi trong bối cảnh căng thẳng gia tăng.
+"Tôi tin rằng quan trọng là tôi phải nói chuyện trực tiếp với các đồng nghiệp mới trong chính quyền Tổng thốngJoe Bidenở Washington về tình hình hiện tại của quan hệ song phương Mỹ - Nga", Đại sứ quán Mỹ tại Nga dẫn lời ông Sullivan cho biết.
+Mỹ tuần trước đã công bố các lệnh trừng phạt và trục xuất 10 nhà ngoại giao Nga vì cáo buộc can thiệp bầu cử, tấn công mạng và các hoạt động thù địch khác. Đáp lại, Nga cũng tuyên bố trục xuất các nhà ngoại giao và trừng phạt quan chức Mỹ.
 Thành Đạt
-Theo SCMP
+Theo Reuters, Sputnik

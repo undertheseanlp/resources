@@ -1,24 +1,21 @@
 # doc_id = news_travel_135
-# url = https://dantri.com.vn/du-lich/kham-pha-dem-pho-co-san-pham-du-lich-doc-dao-rieng-co-cua-hoi-an-20210327093342459.htm
-# date = 20210327
-Đêm 26/3 (tức 14 âm lịch), Hội An đã khởi động lại sản phẩm du lịch mang dấu ấn đặc trưng, độc đáo "Tái hiện đêm phố cổ Hội An đầu thế kỷ XX" sau thời gian tạm ngưng vì dịch bệnh.
-"Đêm phố cổ" thu hút sự quan tâm của đông đảo người dân, du khách.
-Đèn lồng là một "đặc sản" của Hội An và không thể thiếu trong mỗi "Đêm phố cổ", được du khách yêu thích.
-Hoạt động "Tái hiện đêm phố cổ Hội An" là ý tưởng độc đáo, với mục đích phục dựng nguyên bản đời sống của nhân dân Hội An vào những năm đầu thế kỷ XX, cùng với các hoạt động văn hóa đa dạng, đầy màu sắc như hát bội, cờ làng, thư pháp, trò chơi bài chòi, bịt mắt đập niêu, cờ tướng…
-Đêm 14 âm lịch, du khách thường đến Hội An để thả hoa đăng trên dòng sông Hoài cầu bình an, may mắn.
-Nhiều khách du lịch đôi ba lần trở lại Hội An, đều có ý muốn đặt chân đến vùng đô thị cổ này vào những lúc Hội An tổ chức "Đêm phố cổ". Bây giờ, sự kiện văn hóa này đã trở thành lễ hội - một hoạt động góp phần định danh cho bản sắc du lịch Hội An...
-Tiếng hát du dương như ngân vang khắp không gian phố cổ.
-Tại nhiều góc đường trong phố cổ thường bày bàn cờ tướng, tái hiện cuộc sống bình dị của người dân Hội An đầu thế kỷ XX.
-Dọc theo các tuyến phố, ánh đèn điện chìm khuất bởi màu sắc của đèn lồng trên các khung cửa gỗ. Thành phố Hội An trầm lắng, dù lễ hội với lượng lớn du khách nhưng mọi thứ luôn chuyển động rất nhẹ nhàng, thư thái và an toàn.
-Chị Lê Ngân Khánh (du khách Đà Nẵng chia sẻ): "Tôi rất thích đến Hội An, đặc biệt mỗi lần tổ chức "Đêm phố cổ", tạm quên đi những xô bồ phố thị, đến đây ta như bước vào một thế giới hoàn toàn khác, mọi thứ chuyển động thật nhẹ nhàng, an yên. Tôi thích nhất là dạo bước dưới những ánh đèn lồng lung linh, ngắm phố cổ về đêm thật yên bình, nên thơ, hiếm nơi nào có được một không gian tuyệt vời như vậy".
-Các cờ thủ đang suy tính các bước đi trong trò chơi cờ làng.
-"Đêm phố cổ" đã và đang góp phần khơi dậy tinh thần gìn giữ và phát huy văn hóa của địa phương trong lòng mỗi người dân Hội An. Đây cũng là nền tảng để bảo tồn và phát huy giá trị văn hóa phi vật thể, các loại hình nghệ thuật văn hóa dân gian. Đồng thời, sự thành công của "Đêm phố cổ" đã tạo nên một sản phẩm du lịch đặc trưng, mang dấu ấn riêng của Di sản văn hóa thế giới Đô thị cổ Hội An.
-Các trò chơi dân gian như hô hát bài chòi, bịt mắt đập niêu… thu hút đông đảo du khách tham gia.
-Hiện nay, để khởi động lại hoạt động du lịch tại Hội An, thành phố đã và đang đưa ra nhiều chương trình nghệ thuật, sản phẩm du lịch văn hóa độc đáo, hấp dẫn để du khách có nhiều lựa chọn khi đến đây.
-Nhiều sản phẩm bổ sung thêm hoặc làm mới lại để "chiêu đãi" du khách, và "Đêm phố cổ" là một trong những sản phẩm du lịch độc đáo mà du khách không nên bỏ lỡ khi ghé đến Hội An.
-Trải nghiệm ngồi thuyền ngắm dọc sông Hoài ngắm phố cổ về đêm được nhiều du khách yêu thích.
-Từ sau Tết Nguyên đán đến nay, nhất là khi dịch bệnh Covid-19 dần được kiểm soát ở hai đầu đất nước, mỗi ngày phố cổ Hội An đón hàng nghìn du khách đến tham quan. Theo thống kê, quý I/2021, thành phố Hội An đón khoảng 146.375 lượt khách; trong đó có 8.420 lượt khách mua vé tham quan.
-Hội An đã và đang triển khai nhiều chương trình nghệ thuật hấp dẫn, đặc sắc phục vụ du khách. Trong hình là chương trình thực cảnh "Hội An show" đang được tập duyệt, sẽ được công diễn vào đêm 28/3 phục vụ du khách.
-Năm 2021 dự báo còn tiếp tục khó khăn, nhưng với nỗ lực từ trung ương đến địa phương, đặc biệt với nhiều chương trình, sự kiện hấp dẫn được tổ chức hứa hẹn sẽ giúp du lịch Hội An nhanh chóng phục hồi, phát triển.
-Thành phố Hội An tiếp tục áp dụng chương trình giảm 50% giá vé đối với du khách khi đến tham quan khu phố cổ, làng gốm Thanh Hà và làng rau Trà Quế.
-Công Bính - Ngô Linh
+# url = https://dantri.com.vn/du-lich/kho-quen-mon-dac-san-ga-chay-bo-kho-mam-thom-o-vung-cao-nguyen-20210403071021194.htm
+# date = 20210403
+Để làm được món gà kho mắm thơm hảo hạng, vào những ngày tháng 5, khi trái thơm (khóm) ở Phú Yên chín mọng, vàng ươm người dân Cao nguyên Vân Hòa bắt đầu gọt vỏ, chẻ làm tư và phơi nắng cho đến khi héo lớp mặt thì bắt đầu đưa vào hũ sành to để ủ mắm.
+Món gà kho mắm thơm ở Cao nguyên Vân Hòa.
+Mắm được ủ với thơm là mắm cá cơm than (đặc sản của người dân vùng biển tỉnh Phú Yên), những miếng thơm được trộn đều với mắm, sau đó dùng nắp bịt kín hũ để chừng khoảng 5 tháng nữa là dùng được.
+Theo người dân địa phương, những năm trước đời sống khó khăn, nên mắm thơm như một thứ thực phẩm trữ ăn dần vào mùa đông, trời lạnh. Mắm thơm khi được ủ hoàn thành, múc ra bát xé nhỏ, thêm một ớt trái, tỏi, đường, chanh...trộn đều rồi ăn với cơm nóng vừa ngon vừa ấm bụng.
+Mắm thơm được cắt nhỏ để kho cùng thịt gà.
+Sau này, đời sống người dân Cao nguyên Vân Hòa phát triển, nhà nào cũng thả vài con gà để ăn và bán lúc cần tiền, đặc biệt gà ở đây được thả sống tự nhiên hoàn toàn nên thịt rất thơm ngon, người dân đặt tên loại gà này là "gà chạy bộ" để phân biệt với các loại gà công nghiệp khác.
+Thấy gà ngon và mắm thơm hấp dẫn, người dân đã thử kết hợp 2 thứ này, tạo ra món đặc sản gà kho mắm thơm hương vị không vùng nào có được.
+Gà là gà mái tơ tầm 1,2 - 1,5kg, sau đó chặt từng khúc vừa gắp, không cần ướp gia vị mắm muối mà chỉ cần khử ít dầu, đảo cho thịt gà vừa chín rồi cho phần mắm thơm đã chuẩn bị vào, chế ít nước mắm múc ra từ hũ mắm thơm, nêm ít bột nêm để nồi thịt dịu lại và thịt gà tự ra nước.
+Gà kho mắm thơm ăn với cơm nóng thì không còn chỗ chê.
+Mùi của mắm cái, của thơm chín, của thịt gà hòa trộn sẽ cho ra một mùi thơm đặc trưng, ăn cùng một bát cơm nóng nữa thì còn gì bằng.
+Thấy ngon và khách du lịch ngày ghé Vân Hòa tham quan càng nhiều, người dân nơi đây đã giới thiệu món ăn này với du khách. Sau khi thưởng thức nhiều thực khách đã không ngại cho điểm 10 vì độ thơm ngon, độc, lạ của món gà kho mắm thơm, từ đó món ăn này được xem như là đặc sản ở vùng Cao nguyên Vân Hòa.
+Món "canh gà lá dít" kết hợp với măng rừng ở Cao nguyên Vân Hòa.
+Ngoài gà kho mắm thơm, người dân còn chế biến thêm món "canh gà lá dít", thịt gà có vị ngọt, lá dít có vị chua, thêm một ít măng rừng…một món canh giải nhiệt, ngon miệng giữa ngày hè sẽ khiến thực khách dù có ăn kiêng cũng phải "cành hông".
+Rau rừng luộc có giá từ 20 - 30 nghìn đồng.
+Để giảm độ ngán và ngon miệng hơn, thực khách nên gọi thêm một đĩa rau rừng luộc với các loại rau được hái hoàn toàn ngoài tự nhiên như cải trời, rau dớn…
+Một bữa cơm gồm 3 món ở đây có giá từ 300 - 320 nghìn đồng.
+Được biết, giá một con gà sau đó chế biến thành 3 món là 1/2 gà kho mắm thơm, 1/2 nấu canh lá dít, lòng được xào với mướp ở đây được bán với giá từ 300 - 320 nghìn đồng.
+Trung Thi

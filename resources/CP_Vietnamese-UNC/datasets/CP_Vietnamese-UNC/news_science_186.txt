@@ -1,7 +1,7 @@
 # doc_id = news_science_186
 # url = https://dantri.com.vn/khoa-hoc-cong-nghe/phat-hien-sieu-thien-ha-hinh-sua-khong-lo-cach-trai-dat-340-trieu-nam-anh-sang-20210330053521925.htm
 # date = 20210330
-Theo Science News, Siêuthiên hàmang tên "Sứa USS" được nhà vật lý thiên văn Torrance Hodgson tại trường ĐH Curtin (Úc) phát hiện ra khi ông đang phân tích dữ liệu bằng kính Murchison Widefield Array (MWM), kính thiên văn vô tuyến nhạy nhất hiện nay. 
+Theo Science News, Siêuthiên hàmang tên "Sứa USS" được nhà vật lý thiên văn Torrance Hodgson tại trường ĐH Curtin (Úc) phát hiện ra khi ông đang phân tích dữ liệu bằng kính Murchison Widefield Array (MWM), kính thiên văn vô tuyến nhạy nhất hiện nay.
 Siêu thiên hà được xác định nằm tại Abell 2877, cụm thiên hà cách Trái Đất 340 triệu năm ánh sáng. Kích thước của Siêu thiên hà trải rộng tới 1,2 triệu năm ánh sáng, có hình dạng giống hệt một con sứa với cái đầu và những xúc tu khổng lồ. Điều đáng nói là "Sứa USS" mang một tần số vô tuyến cực kỳ thấp nên rất khó phát hiện.
 "Nguồn phát xạ vô tuyến này "tàng hình" với hầu hết các kính thiên văn vô tuyến mà chúng tôi đã dùng trong suốt 40 năm qua", nhà thiên văn Melanie Johnston-Hollitt cho biết.
 Các nhà nghiên cứu vũ trụ tin rằng, hai thiên hà nằm trong cụm Abell 2877 trùng khớp với quầng sóng vô tuyến sáng nhất nơi đầu của "Sứa USS" và chúng có thể chứa các hố đen siêu lớn ở trung tâm. Và theo ước tính, chúng có tuổi thọ khoảng 2 tỷ năm.

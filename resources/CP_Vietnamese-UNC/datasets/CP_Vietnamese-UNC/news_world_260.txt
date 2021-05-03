@@ -1,16 +1,10 @@
 # doc_id = news_world_260
-# url = https://dantri.com.vn/the-gioi/video-gio-bao-thoi-may-bay-quay-tron-tren-duong-bang-o-trung-quoc-20210502071131857.htm
-# date = 20210502
-Gió thổi làm nhiều cây bị gẫy đổ tại Nam Thông (Ảnh: Tân Hoa Xã).
-Theo RT, trận bão đổ bộ vào thành phố Nam Thông, tỉnh Giang Tô vào tối ngày 30/4. Ít nhất 11 người đã thiệt mạng và 102 người khác bị thương.
-Truyền thông Trung Quốc đã đăng tải video ghi lại cảnh ở một sân bay tại Nam Thông, khi một máy bay bị gió bão thổi quay tròn trên đường băng.
-Gió mạnh đã làm nhiều gốc cây bật rễ, xé toạc mặt tiền của các tòa nhà và thổi bay các mảnh vỡ gây nguy hiểm dọc trên các tuyến phố.
-Phần lớn người bị thiệt mạng là do bị cây hoặc cột điện đè trúng hoặc bị thổi rơi xuống sông Dương Tử.
-Ngày 1/5, Trung Quốc mở cuộc tìm kiếm 9 thủy thủ bị mất tích từ một tàu cá bị lật trong cơn bão. Hiện có 2 người đã được tìm thấy.
-Khoảng 3.000 người đã phải sơ tán khi mưa đá trút xuống khu vực. Trong khi đó, gió bão thổi với vận tốc khoảng 162 km/h, theo chính quyền Trung Quốc.
-Nam Thông có 8 triệu dân và nằm ở bờ bắc sông Dương Tử. Nhiều ngôi nhà tại thành phố đã bị hư hại nghiêm trọng sau trận bão, theo giới chức địa phương.
-Nhiều người thiệt mạng vì bị cây bật gốc đè trúng (Ảnh: Twitter).
-Trận bão gây nên thiệt hại nghiêm trọng (Ảnh: Weibo).
-Hàng nghìn người phải đi sơ tán (Ảnh: Twitter).
-Đức Hoàng
-Theo RT
+# url = https://dantri.com.vn/the-gioi/video-tau-chien-nga-phong-xit-ten-lua-20210430094953424.htm
+# date = 20210430
+Theo Sputnik, Bộ Quốc phòng Nga đã công bố một video ghi lại vụ phóng thành công tên lửa hành trình Kalibr từ tàu khu trục Đô đốc Shaposhnikov trong đợt thử nghiệm vũ khí trên biển Nhật Bản hồi đầu tháng.
+Tuy nhiên, một video khác rò rỉ trên mạng xã hội đã hé lộ một diễn biến khác của vụ phóng này.
+Hình ảnh từ đoạn video cho thấy, chưa đầy một giây sau khi rời ống phóng, sự cố đã xảy ra với động cơ của tên lửa khiến nó bắt đầu mất kiểm soát.
+Tên lửa bị tách làm đôi, xoay vòng liên tục trên không trung, trước khi rơi xuống biển. Vị trí rơi cách không xa tàu Đô đốc Shaposhnikov.
+Sau khi hoàn tất quá trình nâng cấp vào năm ngoái, tàu Đô đốc Shaposhnikov chuyển từ tàu săn ngầm thành tàu khu trục đa năng, có thể mang 16 tên lửa hành trình Kalibr tầm xa. Các tên lửa Kalibr có thể được sử dụng để tấn công các tàu nổi, tàu ngầm cũng như mục tiêu trên mặt đất.
+Thành Đạt
+Theo Sputnik

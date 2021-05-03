@@ -1,10 +1,16 @@
 # doc_id = news_science_244
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tui-nguyen-thuy-o-bung-meo-va-nhung-dieu-chua-biet-20210411000533928.htm
-# date = 20210411
-José Arce, chủ tịch Hiệp hội Thú y của Mỹ cho biết thứ có tên là "túi nguyên thủy" vẫn còn tồn tại đến ngày nay hoàn toàn bình thường ở mèo. Tất cả các loài mèo đều có "túi nguyên thủy", nhưng chúng khác nhau rất nhiều về kích thước. Một số gần như không thể phát hiện được.
-Có ba giả thuyết chính về việc tại sao mèo lại có chiếc "túi nguyên thủy" này. Đầu tiên là nó có chức năng bảo vệ các cơ quan nội tạng của mèo. Giả thuyết thứ hai là chiếc túi cho phép mèo di chuyển nhanh hơn. Nó kéo dài khi mèo chạy, giúp chúng linh hoạt hơn và khả năng đi xa hơn. Một khả năng khác, túi nguyên thủy là một không gian bổ sung để chứa thực phẩm sau một bữa ăn lớn. Trong môi trường hoang dã, chúng ăn khi có thể và có thể tích trữ chất béo trong túi cho những ngày sau đó.
-"Túi nguyên thủy" không phải là duy nhất đối với mèo nhà. Những sinh vật lớn thuộc họ mèo như sư tử và hổ, cũng có chúng vì những lý do tương tự. Ở mèo nhà, "túi nguyên thủy" bắt đầu phát triển ở cả con đực và con cái từ khoảng 6 tháng tuổi.
-Điều quan trọng là bạn có thể biết con mèo của bạn có "túi nguyên thủy" lớn hay đang thừa cân. Cũng giống như ở người, béo phì có thể dẫn đến các vấn đề về tim mạch, tiểu đường và tăng huyết áp, thừa cân cũng có thể làm tăng nguy cơ mắc bệnh viêm khớp và một số loại ung thư của mèo.
-Một cách để phân biệt giữa "túi nguyên thủy" và mèo béo phì ở hình dạng của con mèo. Những con mèo béo phì có thân hình tròn trịa hơn những con mèo có trọng lượng khỏe mạnh với túi lớn.
-Một cách khác dễ dàng hơn để nhận biết đó là nếu bạn phải ấn mạnh để cảm thấy xương sườn của mèo, thì có lẽ con mèo của bạn đang bị thừa cân. Cuối cùng, bụng mèo không lắc lư khi chạy cũng cho thấy chúng đang bị thừa cân chứ không phải "túi nguyên thủy".
-Trang Phạm
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tuong-khong-loi-thoat-ngua-van-quay-ra-dim-su-tu-sac-nuoc-de-chay-tron-20210412094803372.htm
+# date = 20210412
+Clip ngựa vằn chọn cách dìm sư tử sặc nước để chạy trốn.
+Mặc dù bị sư tử ngọam vào cổ nhưng ngựa vằn vẫn bình tĩnh, nó không phản ứng quyết liệt mà nhẹ nhàng di chuyển ra vùng nước sâu hơn và bất ngờ "dìm chết" sư tử. Clip được ghi ở trên một thảo nguyên của Châu Phi.
+Khi bị ngựa vằn dìm xuống nước, sư tử bị sặc và bắt buộc phải buông con mồi. Nhân cơ hội này, ngựa vằn dùng toàn bộ sức lực còn lại của mình phi lên bờ để tháo chạy.
+Sau vài giây bị "choáng", sư tử vùng dậy đuổi theo con mồi nhưng bất thành.
+Ngựa vằn là một giống ngựa rất đặc biệt, thường sống ở vùng thảo nguyên và hoang mạc châu Phi. Khác với những người anh em của mình, ngựa vằn có một bộ lông với hai màu đen trắng, bố trí thành các sọc từ đầu đến chân.
+Màu sắc đặc biệt này của ngựa vằn có tác dụng rất lớn giúp chúng tồn tại trong điều kiện khắc nghiệt tại châu Phi.
+Màu sắc đen trắng xen kẽ giúp chúng làm giảm tới 70% nhiệt của ánh Mặt trời hấp thụ vào cơ thể. Cách bố trí các sọc trên cơ thể ngựa vằn cũng rất độc đáo, nó tạo ra các dấu hiệu riêng cho mỗi con ngựa vằn giống như dấu vân tay của con người.
+Còn đối với ngựa vằn thì đó là các sọc ở vai hoặc cổ, giúp chúng nhận biết các thành viên trong đàn.
+Nhiều người thường nghĩ, màu sắc sặc sỡ của ngựa vằn có thể thu hút các loài thú ăn thịt khác như sư tử hay linh cẩu.
+Tuy nhiên thực chất thì các sọc đen trắng này lại giúp ngựa vằn đánh lạc hướng các loài này. Khi những con ngựa vằn đứng tập hợp lại với nhau, các nhà khoa học cho rằng với số lượng các sọc đen trắng lớn có thể đánh lừa các loài ăn thịt khác.
+Giống như một dạng ảo ảnh quang học, khiến cho 10 con ngựa vằn đứng gần nhau trông giống như một khối khổng lồ. Đánh lừa các loài ăn thịt và khiến chúng không dám tới gần.
+Bên cạnh các yếu tố đó, ngựa vằn còn một "vũ khí bí mật", đó là cú đá hậu bằng hai chân sau với lực cực mạnh, có thể làm bể quai hàm của một con sư tử dũng mãnh nếu nó ngu ngốc đứng trong tầm chân.
+Minh Khôi

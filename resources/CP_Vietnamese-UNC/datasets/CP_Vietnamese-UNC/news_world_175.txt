@@ -1,23 +1,15 @@
 # doc_id = news_world_175
-# url = https://dantri.com.vn/the-gioi/ngay-thu-4-lap-ky-luc-ca-nhiem-moi-an-do-rung-chuyen-trong-bao-covid-19-20210425171537295.htm
-# date = 20210425
-Một cậu bé đứng cạnh thi thể của cha, người tử vong vì Covid-19, tại lò hỏa táng ở New Delhi, Ấn Độ ngày 24/4 (Ảnh: Reuters).
-"Chúng ta đã quá tự tin, phấn chấn tinh thần sau khi đợt dịch đầu tiên được ngăn chặn thành công, nhưng cơn bão lần này đã làm rung chuyển cả đất nước", Thủ tướng Narendra Modi nói trong một bài phát biểu trên đài phát thanh hôm nay 25/4.
-Thủ tướng Modi cũng kêu gọi tất cả người dân tiêm vắc xin ngừa Covid-19 và đề cao cảnh giác.
-Số ca mắc Covid-19 tại Ấn Độ tiếp tục tăng thêm 349.691 trường hợp trong 24 giờ qua. Đây là ngày thứ 4 liên tiếp Ấn Độ ghi nhận số ca nhiễm mới cao kỷ lục thế giới.
-2.767 người đã tử vong vì Covid-19 tại Ấn Độ trong 24 giờ qua, nâng tổng số người chết tại quốc gia Nam Á lên 192.311 trường hợp. Tính đến nay, Ấn Độ trở thành vùng dịch lớn thứ 2 thế giới, sau Mỹ, với 16,96 triệu người nhiễm.
-Chỉ trong một tháng qua, số ca nhiễm mới hàng ngày ở Ấn Độ đã tăng gấp 8 lần và số ca tử vong tăng gấp 10 lần. Các chuyên gia y tế cho biết số người chết trên thực tế còn cao hơn nhiều so với con số công bố chính thức.
-Chính phủ của Thủ tướng Modi đã phải đối mặt với những lời chỉ trích vì để mất cảnh giác, cho phép các cuộc tụ tập tôn giáo và chính trị lớn diễn ra sau khi số người mắc Covid-19 ở Ấn Độ giảm mạnh xuống dưới 10.000 ca mỗi ngày, đồng thời không có kế hoạch xây dựng hệ thống y tế để đối phó với dịch bệnh.
-Các bệnh viện và bác sĩ ở Ấn Độ đã đưa ra thông báo khẩn cấp rằng, họ không thể đối phó với tình trạng quá tải bệnh nhân tại các bệnh viện. Các bệnh viện ở New Delhi và khắp cả nước đang phải từ chối tiếp nhận bệnh nhân vì thiếu ôxy và giường bệnh.
-Giàn thiêu nạn nhân Covid-19 tập thể tại Ấn Độ (Ảnh: AP).
-Thủ hiến New Delhi, Arvind Kejriwal, đã gia hạn lệnh phong tỏa ở thủ đô thêm một tuần để cố gắng ngăn chặn sự lây lan của vi rút. Tại New Delhi, ước tính cứ 4 phút lại có một người chết vì Covid-19.
-"Phong tỏa là vũ khí cuối cùng để đối phó dịch bệnh, nhưng với số ca nhiễm tăng quá nhanh, chúng tôi buộc phải làm như vậy", ông Arvind cho biết.
-Chính phủ Mỹ cho biết Washington vô cùng lo ngại trước sự gia tăng đột biến các ca mắc Covid-19 ở Ấn Độ và cấp tốc gửi viện trợ cho nước này.
-"Chúng tôi đang hợp tác chặt chẽ với các đối tác của mình trong chính phủ Ấn Độ và chúng tôi sẽ nhanh chóng triển khai thêm sự hỗ trợ cho người dân Ấn Độ và hệ thống y tế", Ngoại trưởng Mỹ Antony Blinken cho biết.
-Ashish Jha, hiệu trưởng Trường Y tế Công cộng thuộc Đại học Brown (Mỹ), cảnh báo đất nước 1,3 tỷ dân đang đứng trên bờ vực của thảm họa nhân đạo.
-Mỹ từng vấp phải sự chỉ trích từ Ấn Độ vì các biện pháp kiểm soát xuất khẩu nguyên liệu thô cho hoạt động sản xuất vắc xin theo Đạo luật Sản xuất Quốc phòng.
-Viện Huyết thanh Ấn Độ (SII), nhà sản xuất vắc xin lớn nhất thế giới, trong tháng này đã hối thúc Tổng thống Mỹ Joe Biden dỡ bỏ lệnh cấm vận đối với việc xuất khẩu nguyên liệu thô của Mỹ vì ảnh hưởng đến việc sản xuất vắc xin AstraZeneca của Ấn Độ.
-Nghị sĩ Mỹ Raja Krishnamoorthi cũng hối thúc chính quyền Biden cấp số vắc xin chưa sử dụng cho Ấn Độ.
-"Khi người dân ở Ấn Độ và các nơi khác rất cần sự giúp đỡ, chúng ta không thể để vắc xin nằm trong nhà kho, chúng ta cần đưa chúng đến nơi mà chúng sẽ cứu sống mạng người", ông Raja nói.
-Thành Đạt
-Theo Reuters
+# url = https://dantri.com.vn/the-gioi/nghi-vien-chau-au-thong-qua-thoa-thuan-brexit-cham-dut-quan-he-nhieu-duyen-no-voi-anh-20210429165754908.htm
+# date = 20210429
+Các nhà lãnh đạo Anh, Liên minh châu Âu và doanh nghiệp châu Âu hi vọng bước phê chuẩn cuối cùng văn kiện sẽ mở ra một kỷ nguyên hợp tác mới dù vẫn còn nhiều chủ đề gây chia rẽ giữa các đối tác cũ. Thỏa thuận hợp tác và thương mại quan trọng giữa Anh và Liên minh châu Âu đã được thông qua với 660 phiếu thuận, 5 phiếu chống và 32 phiếu trắng.
+Ảnh minh họa: Reuters
+Như vậy, văn kiện được hoàn tất vào đêm Giáng sinh đã vượt qua rào cản pháp lý cuối cùng để chính thức có hiệu lực, gần 5 năm sau khi Anh quyết định rút khỏi Liên minh châu Âu. Thỏa thuận cho phép hai bên tiếp tục duy trì mối quan hệ thương mại không hạn ngạch và không thuế quan.
+Phát biểu ngay sau khi kết quả được công bố, Thủ tướng Anh Boris Johnson nhấn mạnh, cuộc bỏ phiếu đánh dấu bước cuối cùng trong một hành trình dài nhằm mang lại sự ổn định cho mối quan hệ mới của Anh với Liên minh châu Âu với tư cách là những đối tác thương mại, đồng minh thân thiết và bình đẳng chủ quyền.
+Chủ tịchHội đồng châu Âu Charles Michel gọi đây là sự khởi đầu của một kỷ nguyên mới, trong khi Chủ tịch Ủy ban Châu Âu Ursula von der Leyen nhấn mạnh tới sự cần thiết phải tuân thủ nghiêm túc thỏa thuận.
+"Thỏa thuận hợp tác và thương mại giữaLiên minh châu Âu và Anh đi kèm với cơ chế giải quyết tranh chấp ràng buộc và khả năng áp dụng các biện pháp đơn phương, khắc phục hậu quả khi cần thiết. Và tôi xin nói rõ: Chúng tôi không muốn phải sử dụng những công cụ này nhưng chúng tôi sẽ không ngần ngại sử dụng chúng nếu cần thiết", bàUrsula von der Leyen cho hay.
+Mối quan hệ giữa&nbspLiên minh châu Âu và Anh đã trở nên căng thẳng kể từ khi giai đoạn chuyển tiếp Brexit kết thúc hồi đầu năm nay. Hai bên liên tục tranh cãi về nhiều vấn đề từ vi phạm giao thức Bắc Ireland, nguồn cung cấp vaccine Covid-19 cho đến sự công nhận ngoại giao đầy đủ của Liên minh châu Âu ở Anh.
+Anh gia nhập Liên minh châu Âu vào năm 1973 và nước này đã quyết định rút khỏi khối sau cuộc trưng cầu ý dân vào tháng 6/2016. Trong cuộc tranh luận trước bỏ phiếu phê chuẩn, nhiều nhà lập pháp châu Âu đã chỉ trích việc Anh rời đi, nhưng khẳng định việc phê duyệt là lựa chọn tốt nhất để tránh gián đoạn kinh tế và đảm bảo tính toàn vẹn của thị trường chung.
+Trong bối cảnh căng thẳng gia tăng giữa Anh và Liên minh châu Âu về những quy tắc thương mại của Bắc Ireland, Nghị viện Liên minh châu Âu cũng khẳng định, thỏa thuận này sẽ cung cấp thêm các công cụ pháp lý để ngăn chặn và giải quyết những bất đồng nảy sinh liên quan đến nghĩa vụ mà cả hai bên đã ký kết.
+Cuối năm ngoái, Liên minh châu Âu đã khởi động tiến trình pháp lý chống lại thành viên cũ sau khi Anh đơn phương quyết định trì hoãn việc thực thi một số điều khoản trong thỏa thuận chia tay liên quan tới Bắc Ireland. Căng thẳng tiếp tục leo thang vào tháng 1 khi Liên minh châu Âu cảnh báo sẽ cấm vận chuyển vaccine ngừa Covid-19 tới Bắc Ireland nhằm tăng cường nguồn cung của khối. Một quyết định như thế nếu được thực hiện sẽ tạo ra một biên giới cứng trên đảo Ireland, một kịch bản mà cả Anh và Liên minh châu Âu đều cố tránh khi đặt bút ký thỏa thuận Brexit.
+Theo Thu Hoài
+VOV

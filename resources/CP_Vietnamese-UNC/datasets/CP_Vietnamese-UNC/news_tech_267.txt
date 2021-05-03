@@ -1,38 +1,29 @@
 # doc_id = news_tech_267
-# url = https://dantri.com.vn/suc-manh-so/vu-khi-quan-trong-giup-cac-cong-ty-khoi-nghiep-viet-vuon-tam-ra-the-gioi-20210425235247201.htm
-# date = 20210425
-Các công ty khởi nghiệp (startup) đang là xu thế trên toàn cầu nói chung và tại Việt Nam nói riêng, trong đó, các startup về công nghệ chiếm số đông và có xu hướng đạt được nhiều thành công hơn so với các lĩnh vực khác.
-Để đạt được thành công và vươn tầm ra phạm vi toàn cầu, một yếu tố quan trọng mà các startup tại Việt Nam cần quan tâm đó là quyền sở hữu trí tuệ. Đây được xem là một "vũ khí" quan trọng để có thể cạnh tranh với các đối thủ.
-Để hiểu rõ hơn về tầm quan trọng của quyền sở hữu trí tuệ đối với cộng đồng startup, Dân trí đã có buổi phỏng vấn độc quyền với ông Thiều Phương Nam, tổng giám đốc Qualcomm Việt Nam, Lào và Campuchia.
-Ông Thiều Phương Nam, Tổng giám đốc Qualcomm Việt Nam, Lào và Campuchia.
-- Ông đánh giá như thế nào về nhận thức và sự áp dụng của quyền sở hữu trí tuệ ở Việt Nam hiện nay, đặc biệt trong cộng đồng startup công nghệ?
-Việc xây dựng và nâng cao nhận thức về sở hữu trí tuệ giữa các bên liên quan, đặc biệt là phân khúc trong doanh nghiệp, vẫn đang phát triển mạnh mẽ tại Việt Nam.
-Cụ thể, điểm sở hữu trí tuệ của Việt Nam trên bảng xếp hạng Global Innovation Policy Center's (GIPC) International IP Index tăng mạnh nhất trong số các nền kinh tế châu Á trong năm 2020. Đây là một xu hướng tích cực mà chúng tôi mong đợi sẽ tiếp tục được nhìn thấy trong thời gian tới.
-Chúng tôi tin rằng với sự hỗ trợ của Chính phủ thông qua việc ban hành "Quyết định số 1068/QĐ-TTg" hay "Chiến lược Sở hữu trí tuệ Quốc gia với tầm nhìn đến năm 2030" vào năm 2019, cùng với các hoạt động đa dạng được thiết kế để hỗ trợ hệ sinh thái khởi nghiệp công nghệ ở Việt Nam, thì nhận thức về tầm quan trọng của sở hữu trí tuệ ở trong nước sẽ tiếp tục được cải thiện.
-Sự nâng cao nhận thức về quyền sở hữu trí tuệ sẽ đặc biệt có lợi với các doanh nghiệp công nghệ, đặc biệt là các công ty khởi nghiệp. Có thể nói, công nghệ là lĩnh vực luôn tìm kiếm sự đổi mới. Do đó, việc sản phẩm trí tuệ được bảo vệ đúng cách có thể giúp các startup được định giá tốt hơn, từ đó có thể thu hút nguồn vốn đầu tư để phát triển.
-- Trong bối cảnh chính phủ đang thúc đẩy các công ty công nghệ trong nước đẩy mạnh thiết kế và sản xuất thiết bị công nghệ "Make in Vietnam" thì việc bảo vệ quyền sở hữu trí tuệ sẽ đem lại những lợi ích gì cho các công ty công nghệ, nhất là các công ty khởi nghiệp?
-Nếu sự đổi mới được cho là yếu tố chính thúc đẩy lĩnh vực công nghệ, thì quyền sở hữu trí tuệ/tài sản trí tuệ (Intellectual Property) chính là nền tảng của các công ty công nghệ trên thế giới.
-Sở hữu trí tuệ rất quan trọng vì nó được coi là tài sản vô hình. Cụ thể, sở hữu trí tuệ có thể mang đến lợi điểm bán hàng độc nhất cho các công ty khởi nghiệp.
-Đăng ký sở hữu trí tuệ có thể giúp doanh nghiệp khởi nghiệp duy trì lợi thế cạnh tranh và hình thành điểm khác biệt có tính bền vững cho doanh nghiệp cũng như các sản phẩm, dịch vụ của họ đối với các đối thủ cạnh tranh. Việc này cũng giúp các startup thu hút vốn đầu tư.
-Nếu các doanh nghiệp khởi nghiệp Việt Nam bảo vệ được các sản phẩm trí tuệ của mình, họ sẽ có thể sở hữu độc quyền đối với một số công nghệ. Nhờ đó, các startup sẽ thu hút được các khoản đầu tư đáng kể cũng như kiếm được doanh thu không hề nhỏ nếu họ mở rộng quy mô hoạt động và dịch vụ của công ty.
-Điều này sẽ giúp Việt Nam có chỗ đứng ngang hàng với các nước láng giềng; đồng thời tiến một bước dài trong việc hoàn thành mục tiêu trở thành trung tâm công nghệ của khu vực.
-- Ông đánh giá thế nào về tầm quan trọng của việc nâng cao nhận thức về sở hữu trí tuệ của các công ty khởi nghiệp?
-Việc nâng cao nhận thức về tầm quan trọng của sở hữu trí tuệ cũng như giúp các công ty khởi nghiệp bảo vệ các tài sản trí tuệ của họ sẽ đóng vai trò quan trọng trong việc hỗ trợ chương trình "Make in Vietnam" của Chính phủ với mục tiêu phấn đấu có được 100.000 công ty công nghệ trong cả nước vào năm 2030.
-Bên cạnh đó, nâng cao nhận thức về sở hữu trí tuệ cũng sẽ hỗ trợ các hoạt động của Chính phủ Việt Nam nhằm thiết lập một môi trường khởi nghiệp lành mạnh trong nước, như Dự án 844 (Dự án "Hỗ trợ hệ sinh thái khởi nghiệp đổi mới sáng tạo quốc gia đến năm 2025").
-- Qualcomm hiện nay có những chính sách gì để bảo vệ quyền sở hữu trí tuệ của mình, thưa ông?
-Có thể nói, việc phát minh và sáng chế là những giá trị cốt lõi của Qualcomm. Do đó, việc bảo vệ quyền lợi của các nhà sáng chế là rất quan trọng đối với mô hình R&D của chúng tôi, với sự đầu tư xấp xỉ 20% doanh thu mỗi năm cho việc sáng chế.
-Bảo hộ bằng sáng chế - một trong những yếu tố chính trong việc bảo vệ quyền sở hữu trí tuệ, sẽ giúp thu hút vốn đầu tư dành cho các hoạt động nghiên cứu và phát triển các sản phẩm công nghệ, giúp nâng cao và thay đổi cuộc sống của con người, trong đó có cả công nghệ mạng không dây đã thay đổi và định hình nên thế giới chúng ta đang sống ngày nay.
-Tại Việt Nam, chúng tôi hoan nghênh những nỗ lực gần đây của Chính phủ nhằm phát triển và củng cố hệ sinh thái sở hữu trí tuệ của đất nước, đặc biệt là thông qua việc ban hành Chiến lược Sở hữu trí tuệ đến năm 2030.
-Hơn nữa, Qualcomm tin rằng bước đầu tiên để bảo hộ sở hữu trí tuệ là phải thực sự đăng ký chúng. Do đó, chúng tôi đang nỗ lực góp phần khuyến khích các startup trong nước bảo vệ tài sản trí tuệ của họ thông qua những hoạt động đào tạo liên quan đến sở hữu trí tuệ.
-Ông Thiều Phương Nam chia sẻ về các vấn đề liên quan đến khởi nghiệp tại Việt Nam ở sự kiện Techfest 2020, diễn ra vào tháng 11 năm ngoái.
-- Theo ông, các công ty khởi nghiệp cần làm gì để bảo vệ các sở hữu trí tuệ của riêng mình?
-Để bảo vệ quyền sở hữu trí tuệ, các công ty startup cần phải biết nhận dạng các sáng chế tiềm năng và bí mật thương mại của riêng mình, từ đó lựa chọn một cơ chế bảo hộ phù hợp. Ngoài ra, cần phải hiểu các tiêu chí bảo hộ đối với bằng sáng chế và bí mật thương mại; biết cách chuẩn bị công bố sáng chế, thông số kỹ thuật của sáng chế; biết các quyền của chủ sở hữu đối với bằng sáng chế/bí mật kinh doanh và cách thực thi các quyền này.
-Các công ty khởi nghiệp nên nhờ đến dịch vụ tư vấn để nộp đơn đăng ký bằng sáng chế của riêng mình.
-- Theo ông, đâu là giải pháp hiệu quả để nâng cao hơn nữa nhận thức về quyền sở hữu trí tuệ tại Việt Nam?
-Qualcomm tin rằng khối tư nhân có thể hỗ trợ và cộng tác với Chính phủ (khối công) để tạo ra các chương trình nhằm xây dựng và nâng cao nhận thức về sở hữu trí tuệ. Đây có thể là cơ hội để chia sẻ kiến thức và những cách áp dụng thực tiễn, cũng như những gì có thể học hỏi được từ những thị trường khác.
-Đặc biệt, chúng tôi cho rằng các hoạt động và cuộc thi dành cho startup nên có phần giáo dục sở hữu trí tuệ, bởi vì giáo dục sở hữu trí tuệ đóng vai trò thiết yếu cho các startup, giúp họ có thể đưa các sản phẩm "Make in Vietnam" ra thị trường thế giới.
-Hơn nữa, sự phát triển của sở hữu trí tuệ là vòng thuận phát triển - bởi vì các startup học cách bảo hộ những phát minh của họ và đăng ký bằng sáng chế, tạo ra nhiều doanh thu hơn và có thể tái đầu tư vào việc phát minh, thiết kế sản phẩm mới, đồng thời tiếp tục nghiên cứu và cải tiến công nghệ, tất cả đều có thể dẫn đến nhiều công nghệ hoặc sản phẩm được cấp bằng sáng chế và thành công hơn, từ đó thúc đẩy chu kỳ đổi mới và tăng trưởng liên tục.
-- Xin trân trọng cảm ơn ông! 
-Ông Thiều Phương Nam hiện là Tổng Giám đốc Qualcomm tại Việt Nam, Lào và Campuchia, chịu trách nhiệm giám sát hoạt động kinh doanh và vận hành của Qualcomm tại Việt Nam, Lào và Campuchia với mục tiêu thúc đẩy sử dụng công nghệ kết nối 4G, 5G và những thế hệ công nghệ kết nối kế tiếp.
-Ông Thiều Phương Nam nhận bằng cử nhân và bằng thạc sĩ về kỹ thuật điện của Đại học kỹ thuật điện quốc gia Saint Petersburg và bằng tiến sĩ về khoa học kỹ thuật của Đại học Giao thông Vận tải Quốc gia Moscow.
-Quang Huy
+# url = https://dantri.com.vn/suc-manh-so/xiaomi-ra-mat-smartphone-voi-thiet-ke-2-man-hinh-doc-dao-mi-11-ultra-20210330112417715.htm
+# date = 20210330
+Sau khi ra mắt Mi 11 hồi tháng 1 vừa qua, Xiaomi vừa tiếp tục trình làng thêm một biến thể mới của sản phẩm, với tên gọi Mi 11 Ultra. Điểm nhấn đáng chú ý nhất của sản phẩm đó là sự xuất hiện của màn hình phụ, được tích hợp ngay cạnh camera ở lưng máy, cho phép người dùng có thể sử dụng camera sau để chụp ảnh selfie, thay vì phải dùng camera ở mặt trước.
+Mi 11 Ultra nổi bật với màn hình phụ ở lưng máy.
+Màn hình phụ này có kích thước 1,1 inch, sử dụng công nghệ OLED với độ phân giải 294 x 126. Màn hình có tính năng tiết kiệm năng lượng để không làm ảnh hưởng đến thời lượng sử dụng pin trên sản phẩm. Ngoài ra, Xiaomi cho biết màn hình sẽ có chế độ luôn hiển thị (always-on), để người dùng xem giờ, các thông báo đến, thông tin cập nhật… ngay cả khi úp mặt smartphone xuống bàn.
+Ngoài điểm nhấn về thiết kế 2 màn hình, Xiaomi 11 Ultra còn được trang bị một cấu hình mạnh mẽ, với màn hình 6,8 inch độ phân giải 2K+, sử dụng công nghệ OLED, tần số làm tươi 120Hz. Bên trong sản phẩm là bộ vi xử lý Snapdragon 888 cao cấp nhất của Qualcomm, tùy chọn bộ nhớ RAM 8/12GB, đi kèm bộ nhớ lưu trữ 256/512GB, không hỗ trợ khe cắm thẻ nhớ ngoài.
+Mặt sau của sản phẩm được trang bị cụm 3 camera, bao gồm camera chính 50 megapixel, camera góc rộng 48 megapixel và camera tele 48 megapixel, hỗ trợ zoom quang học 5x. Mặt trước là camera 20 megapixel, được thiết kế dạng "đục lỗ" đặt ngay trong màn hình.
+Màn hình phụ có thể dùng để xem thông tin hoặc sử dụng để chụp ảnh selfie bằng camera sau.
+Xiaomi Mi 11 Ultra được trang bị thỏi pin dung lượng 5.000mAh, hỗ trợ sạc có dây và không dây đều 67W, giúp sạc đầy pin chỉ sau 39 phút. Sản phẩm hỗ trợ kết nối mạng 5G. Khác với phiên bản Mi 11, Mi 11 Ultra đã được Xiaomi trang bị tính năng chống nước và bụi theo chuẩn IP68, cho phép ngâm nước ở độ sâu 1,5m trong thời gian 30 phút.
+Mi 11 Ultra sẽ được bán ra đầu tiên tại thị trường Trung Quốc với mức giá khởi điểm 5.999 tệ (tương đương 900 USD) và tại châu Âu giá 1.199 Euro. Hiện chưa rõ thời điểm sản phẩm sẽ bán ra tại các thị trường khác.
+Xiaomi Mi 11i
+Ngoài Mi 11 Ultra, Xiaomi cũng giới thiệu thêm một phiên bản Mi 11i giá rẻ.
+Về cấu hình cơ bản, Mi 11i không kém nhiều so với Mi 11 Ultra, cũng được trang bị chip Snapdragon 888 cao cấp của Qualcomm, nhưng chỉ có bộ nhớ RAM 8GB (không có tùy chọn 12GB), đi kèm bộ nhớ lưu trữ 128GB và 256GB.
+Sản phẩm được trang bị màn hình 6,67 inch độ phân giải Full HD+ (2400x1080), sử dụng công nghệ AMOLED với tần số làm tươi 120Hz. Mặt sau cũng là cụm 3 camera, với camera chính 108 megapixel, camera góc rộng 8 megapixel và camera 5 megapixel để chụp ảnh macro. Mặt trước là camera 20 megapixel.
+Mi 11i dùng thỏi pin dung lượng 4.520mAh, hỗ trợ sạc nhanh 30W. Sản phẩm được trang bị cảm biến vân tay ở cạnh bên, tích hợp vào nút nguồn, thay vì được đặt vào màn hình.
+Điểm nhấn đáng chú ý nhất của Mi 11i là mức giá "mềm" so với cấu hình, khi sản phẩm sẽ được bán ra đầu tiên tại thị trường châu Âu với mức giá 649 Euro.
+Xiaomi Mi 11 Lite
+Xiaomi Mi 11 Lite cũng là một phiên bản giá rẻ thuộc dòng smartphone Mi 11. So với các phiên bản khác, Mi 11 Lite có cấu hình thấp hơn, sử dụng chip xử lý Snapdragon 780G (đối với phiên bản hỗ trợ mạng 5G) hoặc Snapdragon 732 (đối với phiên bản chỉ hỗ trợ mạng 4G), bộ nhớ RAM 8GB, đi kèm tùy chọn lưu trữ 128GB hoặc 256GB (phiên bản mạng 4G có thêm tùy chọn bộ nhớ 6/64GB).
+Sản phẩm có màn hình 6,55 inch độ phân giải Full HD+, sử dụng công nghệ AMOLED với tần số làm tươi 90Hz.
+Mặt lưng là cụm 3 camera, bao gồm camera chính 64 megapixel, camera góc rộng 8 megapixel và camera 5 megapixel để chụp ảnh macro. Mặt trước là camera 20 megapixel dạng đục lỗ.
+Mi 11 Lite được trang bị thỏi pin dung lượng 4.250mAh, hỗ trợ sạc nhanh 33W. Sản phẩm sẽ bán ra đầu tiên tại thị trường Trung Quốc vào ngày 4/4 tới đây, với mức giá khởi điểm 2.299 tệ (tương đương 350 USD) cho tùy chọn bộ nhớ 8/128GB. Phiên bản Mi11 Lite (4G) với bộ nhớ 6/64GB sẽ được bán ra với giá 299 Euro tại thị trường châu Âu.
+Vòng đeo tay thông minh Mi Band 6
+Ngoài loạt smartphone Mi 11, Xiaomi cũng đã ra mắt vòng đeo tay thông minh Mi Band 6 mới nhất của hãng, với nhiều thay đổi cả về thiết kế lẫn tính năng.
+So với phiên bản Mi Band 5 ra mắt vào năm ngoái, Mi Band 6 được thiết kế với màn hình tràn viền, bo tròn cả ở 4 cạnh, với kích thước 1,56 inch, sử dụng công nghệ AMOLED. Sản phẩm được trang bị tính năng theo dõi nhịp tim suốt 24 giờ và quản lý mức Oxy trong máu SpO2, giúp quản lý chất lượng giấc ngủ tốt hơn.
+Mi Band 6 có 30 chế độ theo dõi hoạt động khác nhau và tự động phát hiện 6 hoạt động tập thể dục khác nhau để theo dõi quá trình vận động của người dùng. Sản phẩm được trang bị tính năng chống nước với độ sâu lên đến 50m, giúp người dùng thoải mái mang sản phẩm để bơi lội hoặc vận động dưới nước.
+Về pin, Mi Band 6 cho thời lượng pin sử dụng 14 ngày, nhiều hơn thời lượng pin sử dụng 10 ngày của Mi Band 5.
+Sản phẩm sẽ được bán ra đầu tiên tại thị trường Trung Quốc, với mức giá chưa được tiết lộ.
+T.ThủyTheo PA/GSMArena

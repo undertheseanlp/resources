@@ -1,11 +1,11 @@
 # doc_id = news_health_084
-# url = https://dantri.com.vn/suc-khoe/chu-quan-voi-khoi-u-nu-benh-nhan-tra-gia-dat-20210427135029953.htm
-# date = 20210427
-Đó là trường hợp của chị N.N.H. (38 tuổi, ngụ tại Tây Ninh) vừa được tiếp nhận, can thiệp tại một bệnh viện trên địa bàn TPHCM. Trước thời điểm nhập viện khoảng 1 năm, nữ bệnh nhân thấy bụng có dấu hiệu to dần, chị đi khám sức khỏe thì được bác sĩ xác định có u ở vùngbụng.
-Tuy nhiên, khối u tại thời điểm kiểm tra không ảnh hưởng đến sức khỏe nên bệnh nhân đã tự ý bỏ điều trị. Thời gian gần đây, chị có cảm giác tức bụng tăng dần, đi tiểu nhiều, hay bị đau âm ỉ vùng hạ vị kèm rong kinh, rong huyết, khối u vùng hạ vị to dần đến rốn. Sức khỏe ngày càng suy yếu, vận động bị hạn chế gây ảnh hưởng nghiêm trọng đến cuộc sống sinh hoạt và lao động, lúc này chị mới đến bệnh viện thăm khám.
-Trên các xét nghiệm và chụp MSCT bụng, bác sĩ phát hiện bệnh nhân có khối u xơ tử cung rất lớn chiếm gần hết ổ bụng. Kích thước khối u xơ 128x104x121mm, gây tổn thương và chèn ép các cơ quan trong ổ bụng. Sau hội chẩn, các bác sĩ quyết định thực hiện cuộc phẫu thuật cắt khối u cho bệnh nhân.
-Trong quá trình phẫu thuật, do khối u quá lớn làm hẹp phẫu trường, các bác sĩ rất khó khăn để cắt được toàn bộ khối u và khống chế các mạch máu lớn tránh làm mất quá nhiều máu. Sau hơn 3 giờ khẩn trương trong phòng mổ, ê kíp các bác sĩ chuyên khoa Ung Bướu đã bóc tách lấy toàn bộ u, bảo vệ an toàn các cơ quan khác cho bệnh nhân.
-Sau phẫu thuật 24 giờ, bệnh nhân đã hồi tỉnh tốt, có thể ăn uống, tự đi lại được, đau nhẹ vết mổ. Hiện người bệnh đang được tiếp tục theo dõi và điều trị tại khoa Ung Bướu. Dự kiến, nếu không có diễn tiến bất lợi, bệnh nhân có thể được xuất viện trong một vài ngày tới.
-Bác sĩ Huỳnh Kiến Thành - Phó khoa Ung Bướu cho biết: "U xơ tử cung là bệnh lý phụ khoa phổ biến ở phụ nữ. Phần lớn trường hợp u xơ tử cung là lành tính, khối u thường không gây nguy hiểm nếu được phát hiện sớm. Tuy nhiên, khi khối u lớn gây chèn ép các cơ quan trong bụng sẽ khiến bệnh nhân đau, khó chịu hoặc gây chảy máu kéo dài. Khối u xuất hiện ở người trẻ, trong độ tuổi sinh sản, bệnh nhân sẽ khó thụ thai".
-Để tránh các rủi ro do u xơ tử cung gây ra, bác sĩ khuyến cáo chị em phụ nữ nên đi kiểm tra sức khỏe định kỳ tại bác sĩ chuyên khoa để phát hiện sớm, xử lý kịp thời. U xơ tử cung có khả năng phát triển âm thầm, tăng kích thước, tăng số lượng. Đến lúc các khối u phát triển quá lớn sẽ gây nguy hiểm và khó khăn khi xử trí việc điều trị cũng sẽ khó khăn và tốn kém cho bệnh nhân. Do đó, người bệnh cần tuân thủ chỉ định của bác sĩ để tránh tổn hại đến sức khỏe.
-Vân Sơn
+# url = https://dantri.com.vn/suc-khoe/chung-virus-gay-hang-tram-ca-viem-mang-nao-o-ha-tinh-20210430065146986.htm
+# date = 20210430
+Thông tin từ Trung tâm Kiểm soát bệnh tật (CDC) tỉnh Hà Tĩnh, từ đầu năm đến nay, ở địa phương này ghi nhận khoảng gần 150 ca mắc viêm não, viêm màng não.
+Sau khi xuất hiện các ca bệnh, Trung tâm Kiểm soát bệnh tật (CDC) tỉnh đã lấy các mẫu não tủy gửi đi xét nghiệm tại Viện Vệ sinh dịch tễ Trung ương.
+Bác sĩ lấy mẫu xét nghiệm dịch tủy của bệnh nhân viêm màng não điều trị tại Bệnh viện Đa khoa Hà Tĩnh.
+Bác sĩ Nguyễn Chí Thanh - Giám đốc CDC Hà Tĩnh cho biết, kết quả xét nghiệm ban đầu các mẫu bệnh phẩm mà Hà Tĩnh gửi ra cho thấy có dương tính các chủng vi rút đường ruột Echovirus-4. Đây là chủng có thể gây nên viêm màng não ở mọi lứa tuổi.
+Trên cơ sở nguyên nhân của bệnh, ngành y tế sẽ tiến hành đề ra các giải pháp phòng, chống hiệu quả trong thời gian tới.
+Để phòng chống tốt chủng Echovirus-4 gây viêm màng não tại cộng đồng, ngành y tế khuyến cáo người dân cần thực hiện tốt vệ sinh cá nhân như: rửa tay bằng xà phòng; khử trùng đồ chơi, khử trùng bề mặt các vật dụng, cầu thang... tại nhà riêng và trường học; ăn chín, uống sôi.
+Khi có dấu hiệu: sốt, nhức đầu, nôn, cứng gáy thì cần đến các cơ sở y tế để được khám và điều trị.
+Tiến Hiệp

@@ -1,17 +1,16 @@
 # doc_id = news_science_210
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tai-sao-long-ho-co-hoa-tiet-van-ven-20210426064512613.htm
-# date = 20210426
-Khi hổ rình mồi, thường là trong ánh sáng âm u của hoàng hôn hoặc bình minh, chúng gần như không thể nhìn thấy. Cho dù chúng sống trong đồng cỏ, hay rừng rậm, hổ hoang dã có bộ lông màu cam đậm với các sọc sẫm. Vậy làm thế nào để một con vật có màu sắc rực rỡ như vậy được che giấu đủ tốt để săn mồi thành công?
-Vì hổ là động vật săn mồi đỉnh cao ở đầu chuỗi thức ăn nên chúng không cần phải trốn tránh những loài động vật khác có thể ăn thịt chúng. Chúng là loài ăn thịt biết dựa vào khả năng "tàng hình" để săn mồi thành công.
-Bộ lông của hổ còn ảnh hưởng đến tầm nhìn hạn chế của con mồi ưa thích của chúng. Thực tế, hươu và các loài động vật có móng khác không thể nhìn thấy đầy đủ các màu sắc, giống như một người mù màu. Đối với những loài này, lông của hổ không có màu cam sáng mà nó có màu xanh lục.
-Các sọc dọc của lông hổ, từ màu nâu đến màu đen, là một ví dụ về cái mà các nhà sinh vật học gọi là màu sắc gây rối. Chúng giúp phá vỡ hình dạng và kích thước của hồ để nó hòa hợp với cây cối và cỏ cao.
-Điều đó quan trọng vì những kẻ săn mồi này không săn mồi theo nhóm như sư tử, hay có tốc độ của báo gêpa. Hổ là loài sống đơn độc dựa vào khả năng tàng hình và ngụy trang để tồn tại.
-Các sọc thậm chí khác nhau giữa sáu phân loài hổ. Phân loài hổ Sumatra có các vằn hẹp hơn nhiều so với các loài khác và có nhiều vằn hơn. Điều này giúp nó ẩn mình trong khu rừng rậm rạp.
-Mỗi mẫu sọc của hổ là duy nhất, giống như của ngựa vằn. Cả hai đều không giống nhau. Chúng khác biệt như dấu vân tay của con người.
-Điều này cho phép các nhà nghiên cứu nghiên cứu hổ trong tự nhiên để xác định và đếm số cá thể hổ. Thường các nhà nghiên cứu sẽ sử dụng máy ảnh từ xa để chụp ảnh những con hổ khi chúng đi ngang qua.
-Sử dụng phương pháp này, các chuyên gia về hổ ước tính rằng chỉ còn khoảng 3.400 con hổ hoang dã trên khắp quê hương châu Á của chúng.
-Không chỉ bộ lông của hổ có sọc đen, da của hổ nếu cạo lông đi cũng gần giống như được xăm: Nó có họa tiết sọc giống như bộ lông.
-Tuy nhiên với những con hổ màu trắng thì sao? Có thể nhiều người sẽ nghĩ rằng chúng là bình thường, nhưng không phải vậy. Một đột biến gene ở hổ Bengal mang lại cho chúng bộ lông màu trắng sữa. Cả bố và mẹ đều phải mang cùng một loại gene rất hiếm để sinh ra đàn con màu trắng. Hổ trắng được lai tạo với họ hàng trong điều kiện nuôi nhốt để thu hút khách du lịch. Chúng giao phối cận huyết và sinh ra những con không khỏe mạnh.
-Không bao giờ có nhiều hơn một vài con hổ trắng trong tự nhiên. Con cuối cùng đã được phát hiện hơn 60 năm trước đây. Điều đó có ý nghĩa về mặt tiến hóa. Một con hổ trắng và đen dễ phát hiện hơn một con hổ cam, vì vậy nó sẽ khó có thể săn mồi.
-Bộ lông sọc đặc biệt của hổ giúp chúng săn mồi thành công, nhưng đó cũng là một lý do khiến chúng có nguy cơ tuyệt chủng trước vấn nạn buôn bán trái phép động vật hoang dã quốc tế rất phức tạp, chủ yếu ở châu Á.
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tai-sao-long-mi-tren-dai-hon-long-mi-duoi-20210429064014728.htm
+# date = 20210429
+Bên cạnh đó, lông mi trên dài hơn cũng có thể giúp chúng ta thể hiện cảm xúc của mình và giao tiếp với người khác.
+Con người có từ 90 đến 160 lông mi trên mỗi mắt, mỗi lông mi mọc dài từ 8mm đến 12mm. Ở mi dưới mỗi mắt chúng ta có khoảng 75 sợi mi mọc dài 6-9mm.
+Lông mi trên dài và mi dưới ngắn hơn tạo ra một bức màn bảo vệ bao phủ toàn bộ hốc mắt. Điều này ngăn bụi, côn trùng hoặc mồ hôi bay vào mắt và làm tổn thương mắt.
+Nếu không có lông mi, mắt của chúng ta cũng sẽ khô nhanh hơn nhiều và có nhiều khả năng bị nhiễm vi trùng. Đó là lý do tại sao những người không có lông mi phải chớp mắt thường xuyên hơn nhiều.
+Con người không phải là động vật duy nhất có lông mi. Thực tế, tất cả các loài động vật có vú đều có lông mi, bao gồm cả mèo, chó, voi và chuột. Nhưng chúng khác nhau về độ dài và mật độ tùy thuộc vào nơi con vật sinh sống. Trong hầu hết các trường hợp, các loài động vật khác cũng có lông mi trên dài hơn lông mi dưới.
+Đối với những động vật sống trong những khu vực có nhiều bụi, lông mi của sẽ ngăn không cho chúng dính những hạt bụi vào mắt. Đây là lý do tại sao lạc đà, chuột túi, voi và hươu cao cổ có nhiều hàng lông mi dài chứ không chỉ một hàng.
+Ở các loài gặm nhấm, chẳng hạn như chuột, lông mi được định vị xung quanh mắt và hoạt động như các cảm biến. Bằng cách đó, chuột có thể bảo vệ mắt của chúng bằng cách chớp mắt bất cứ khi nào chúng cảm nhận được một vật thể không xác định ở gần mắt.
+Các loài chim cũng đã phát triển lông giống lông mi xung quanh mí mắt trên của chúng. Những chiếc lông này bảo vệ mắt chim khỏi ánh sáng Mặt trời bằng cách phủ bóng lên mắt chúng. So với các loài động vật có vú, những chiếc lông giống như lông mi này dài tới 2cm, dày và có khoảng cách rộng rãi.
+Lông mi của chúng ta cũng rất quan trọng khi chúng ta gặp gỡ và nói chuyện với người khác. Nếu đang cảm thấy mệt mỏi, ngạc nhiên hoặc lo lắng, lông mi của bạn có thể giúp người khác biết bạn đang cảm thấy như thế nào. Ngoài ra, rung lông mi trước ai đó có thể là một cách để cho thấy bạn thực sự thích họ. Độ dài thêm của lông mi trên cùng giúp nhấn mạnh điều này rõ ràng hơn.
+Không giống như hầu hết các loại lông khác trên cơ thể con người, lông mi không có các cơ nhỏ giúp cho các sợi lông dựng đứng, khiến chúng ta nổi da gà. Lông mi thường là loại lông có màu sẫm nhất trên cơ thể chúng ta và chúng không bao giờ chuyển sang màu xám.
+Thực tế, lông mi khác nhau rất nhiều giữa mọi người. Những người khác nhau có thể có sự khác biệt lớn về số lượng, độ dày, độ cong, hình dạng hoặc độ dài của lông mi.
+Nếu chúng ta nhổ lông mi, sẽ mất khoảng tám tuần để chúng mọc trở lại. Vì vậy, có lẽ tốt nhất là bạn không nên nhổ lông mi.
 Trang Phạm

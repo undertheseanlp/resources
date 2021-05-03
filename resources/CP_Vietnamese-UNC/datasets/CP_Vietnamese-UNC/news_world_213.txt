@@ -1,14 +1,14 @@
 # doc_id = news_world_213
-# url = https://dantri.com.vn/the-gioi/quan-chuc-eu-mot-dom-lua-cung-thoi-bung-xung-dot-nga-ukraine-20210420063922336.htm
+# url = https://dantri.com.vn/the-gioi/quan-doi-trung-quoc-bi-nghi-tan-cong-mang-200-to-chuc-nhat-ban-20210420110940282.htm
 # date = 20210420
-Biên giới Nga - Ukraine căng thẳng chưa từng có
-Phát biểu tại một cuộc họp trực tuyến của các ngoại trưởng EU ngày 19/4, Cao ủy Đối ngoại EU Josep Borrell cho rằng việc Nga tăng cường lực lượng ở biên giới với Ukraine, trong đó có việc xây dựng các bệnh viện dã chiến, là "vấn đề đáng lo ngại".
-"Nga đã điều động hơn 150.000 binh sĩ đến biên giới với Ukraine và bán đảo Crimea. Nguy cơ leo thang căng thẳng rất rõ ràng. Đây là đợt triển khai quân sự lớn nhất của Nga ở khu vực giáp biên giới Ukraine từ trước đến nay. Đây là điều đáng lo ngại. Một đốm lửa nhỏ có thể bùng lên ở đây hoặc ở kia", ông Borell nói. Nhà ngoại giao EU sau đó đính chính số binh sĩ Nga triển khai xuống hơn 100.000 người.
-Ông Borell nói, EU đánh giá cao những phản ứng có chừng mực của Ukraine, trong khi đó hối thúc Nga giảm căng thẳng ở biên giới. "Mối quan hệ với Nga không những không cải thiện, ngược lại, căng thẳng đang leo thang trên nhiều mặt trận khác nhau. Chúng tôi kêu gọi Nga rút quân", ông Borell nói.
-EU chưa trừng phạt bổ sung với Nga
-Cùng ngày, Ngoại trưởng Ukraine Dmytro Kuleba kêu gọi EU áp đặt các lệnh trừng phạt mới với Nga. Tuy nhiên, ông Borell nhấn mạnh, hiện tại EU chưa có kế hoạch áp các lệnh trừng phạt kinh tế mới hay trục xuất nhà ngoại giao Nga liên quan đến vấn đề căng thẳng ở biên giới với Ukraine.
-Ông Borell cũng bác bỏ cáo buộc cho rằng EU hành động tập thể trong việc trục xuất giới ngoại giao Nga giữa lúc Séc - một thành viên của EU - và Nga "ăn miếng, trả miếng" với lệnh trục xuất nhà ngoại giao của nhau.
-Phương Tây bày tỏ quan ngại và chỉ trích động thái tăng cường lực lượng gần đây của Nga ở biên giới với Ukraine giữa lúc chiến sự ở miền Đông Ukraine giữa quân đội và lực lượng ly khai nóng trở lại. Tuy nhiên, Moscow đã bác bỏ những chỉ trích này và khẳng định việc triển khai lực lượng trong lãnh thổ Nga là hoàn toàn bình thường, không nhằm vào bất cứ quốc gia nào.
-Về phần mình, Tổng thống Ukraine Volodymyr Zelensky kêu gọi phương Tây hỗ trợ thêm, hối thúc NATO nhanh chóng phê duyệt kết nạp Ukraine làm thành viên.Tổng thống Pháp Emmanuel Macron và Thủ tướng Đức Angela Merkel cuối tuần trước đã họp trực tuyến với nhà lãnh đạo Ukraine, cả hai nhà lãnh đạo Pháp và Đức đều kêu gọi Nga rút quân khỏi biên giới với Ukraine và hạ nhiệt căng thẳng. Trả lời phỏng vấn sau đó, Tổng thống Macron thậm chí kêu gọi các nước phương Tây vạch rõ "lằn ranh đỏ" với Nga mà áp lệnh trừng phạt là một phần trong đó.
-Đức và Pháp là hai quốc gia đã hỗ trợ đàm phán thỏa thuận hòa bình ở miền Đông Ukraine, giúp các bên đạt được thỏa thuận Minsk vào năm 2015. Kể từ đó, Pháp và Đức đóng vai trò trung gian hòa giải xung đột ở miền đông Ukraine giữa quân đội và lực lượng ly khai mà phương Tây cho rằng có sự hậu thuẫn của Nga.
-Minh PhươngTheo AP
+(Ảnh minh họa: The New Paper).
+Đài NHK ngày 20/4 dẫn nguồn tin nắm được cuộc điều tra của cảnh sát Nhật Bản cho hay, một nhóm tin tặc bị nghi đã nhận chỉ thị của quân đội Trung Quốc để tấn công mạng gần 200 viện nghiên cứu và công ty của Nhật Bản.
+Nguồn tin nói rằng, các nhà điều tra đã phát hiện một người nghi là quan chức Trung Quốc dùng tên giả ký hợp đồng để thuê các máy chủ ở Nhật Bản. Những máy chủ này sau đó đã được sử dụng để tấn công mạng vào Cơ quan vũ trụ Nhật Bản Jaxa vào năm 2016.
+Một phát ngôn viên của Jaxa xác nhận hệ thống của họ đã bị tiếp cận mà không được phép và điều đó giống một cuộc tấn công mạng, nhưng không bị thiệt hại, theo NHK.
+Phía điều tra nghi ngờ rằng các vụ tấn công do một nhóm mang tên Tick thực hiện. Đây là nhóm bị nghi có liên quan tới quân đội Trung Quốc. Hai người đàn ông nghi liên quan tới bản hợp đồng thuê máy chủ đã rời Nhật Bản.
+Nghi vấn trên được đưa ra trong bối cảnh quan hệ Nhật Bản và đối tác thương mại lớn nhất của họ - Trung Quốc, đang tồn tại một số vấn đề.
+Chủ đề về quan hệ với Trung Quốc chiếm lĩnh chương trình nghị sự của Thủ tướng Nhật Bản Suga Yoshihide trong cuộc gặp thượng đỉnh với Tổng thống Mỹ Joe Biden ở Washington hồi tuần trước.
+Hai nhà lãnh đạo đã cam kết hợp tác để đối phó các thách thức về Trung Quốc, giải quyết hàng loạt vấn đề nhằm đảm bảo một khu vực Ấn Độ Dương - Thái Bình Dương mở và tự do.
+Trong khi đó, Bộ trưởng Nội các Nhật Bản Katsunobu Kato từ chối đưa ra bình luận về cuộc điều tra của cảnh sát liên quan tới cuộc tấn công mạng. Ông nhận định các cuộc tấn công mạng vào cơ sở hạ tầng đang trở nên có tổ chức hơn và chính phủ Nhật Bản coi việc ứng phó với những sự cố như vậy là một vấn đề quan trọng.
+Đức Hoàng
+Theo Bloomberg

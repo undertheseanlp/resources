@@ -1,19 +1,22 @@
 # doc_id = news_world_204
-# url = https://dantri.com.vn/the-gioi/phao-cuu-sinh-quy-hon-vang-cua-an-do-trong-con-bao-covid-19-20210426122235653.htm
-# date = 20210426
-Ôxy đang trở nên khan hiếm ở hầu hết các bệnh viện của Ấn Độ trong đợt bùng phát dịch Covid-19 mới. Thủ tướng Ấn Độ ngày 25/4 cảnh báo "bão" Covid-19 đang làm rung chuyển quốc gia này, đồng thời kêu gọi mọi nguồn lực chống dịch. Trong ảnh: Một phụ nữ lớn tuổi nhận ôxy miễn phí trên xe ô tô ở New Delhi, Ấn Độ (Ảnh: AP).
-Tình trạng thiếu ôxy của Ấn Độ đã trở nên nghiêm trọng đến mức một đền thờ đã bắt đầu tổ chức các buổi cung cấp ôxy miễn phí bằng bình dùng chung cho các bệnh nhân Covid-19 đang chờ giường bệnh. Trong ảnh: Người bệnh ở Ấn Độ nhận ôxy miễn phí từ một bình chứa ôxy dùng chung. (Ảnh: PTI).
-Các bệnh viện ở Ấn Độ, đặc biệt tại các vùng dịch lớn như thủ đô New Delhi, đang đứng trên bờ vực sụp đổ do quá tải bệnh nhân và rơi vào tình trạng thiếu nguồn cung ôxy y tế. Các bệnh nhân Covid-19 nguy kịch mới có giường nằm điều trị, nếu không họ phải xếp hàng chờ bên ngoài bệnh viện, thậm chí bị bệnh viện từ chối tiếp nhận. (Ảnh: Reuters).
-Để giải tỏa một phần cuộc khủng hoảng thiếu ôxy, chính phủ Ấn Độ đã điều động các chuyến tàu đặc biệt và máy bay để vận chuyển ôxy đến các nơi bị ảnh hưởng nặng nề.Trong ảnh: Đoàn xe đi đến nhà máy cung cấp để nạp thêm ôxy y tế lỏng ở Mumbai, Ấn Độ (Ảnh: Reuters).
-Ấn Độ thậm chí dùng máy bay quân sự để nhập khẩu ôxy từ nước ngoài nhằm đáp ứng nhu cầu trong nước. Trong ảnh: Bồn chứa ôxy điều trị cho bệnh nhân Covid-19 được đưa xuống từ máy bay vận tải của không quân Ấn Độ tại New Delhi ngày 22/4 (Ảnh: Reuters).
-Một số vấn đề đã nảy sinh trong quá trình cung ứng ôxy cho bệnh nhân Covid-19 tại Ấn Độ, bao gồm khó khăn trong quá trình vận chuyển và yêu cầu nghiêm ngặt về xe chứa cũng như biện pháp an toàn. Trong ảnh: Xe chờ bên ngoài một nhà máy cung cấp ôxy ở ngoại ô New Delhi (Ảnh: Reuters).
-Một số hình ảnh được chia sẻ trên mạng xã hội cho thấy Ấn Độ thậm chí sử dụng xe cảnh sát để hộ tống các xe chở ôxy. Người dùng Twitter mô tả ôxy còn "quý hơn vàng" ở Ấn Độ lúc này. Trong ảnh: Nhân viên nạp ôxy hóa lỏng để chuyển tới bệnh viện điều trị Covid-19 ở Ahmedabad,Ấn Độ (Ảnh: Reuters).
-Hầu hết các bệnh viện ở Ấn Độ không có các nhà máy độc lập để cung cấp ôxy trực tiếp cho bệnh nhân, chủ yếu là vì các nhà máy này yêu cầu nguồn điện liên tục, trong khi đây là điều kiện khan hiếm ở nhiều bang (Ảnh: AFP).
-Do đó, các bệnh viện thường dựa vào ôxy lỏng, có thể được lưu trữ trong các bình chứa và vận chuyển trong các xe đông lạnh. Nhưng trong bối cảnh số ca nhiễm gia tăng, nguồn cung ôxy ở những nơi bị ảnh hưởng nặng nề bởi dịch bệnh như New Delhi đang thiếu hụt nghiêm trọng (Ảnh: ANI).
-Do người Ấn Độ phải trong nhà trong nhiều tháng để phòng dịch lây lan, các xe bồn công nghiệp đã được chuyển đổi mục đích sử dụng sang hỗ trợ y tế. Những chiếc xe bồn chạy trên cao tốc để vận chuyển ôxy đến những điểm nóng Covid-19 trên khắp đất nước rộng lớn (Ảnh: Reuters).
-Các thành viên trong gia đình của bệnh nhân Covid-19 chờ để nạp ôxy vào các bình rỗng bên ngoài một cơ sở nạp ôxy, khi nhu cầu tăng mạnh (Ảnh: PTI).
-Tòa án Tối cao New Delhi ngày 24/4 tuyên bố, bất cứ quan chức nào ở chính quyền cấp trung ương, cấp bang và cấp địa phương cản trở việc phân phối bình ôxy cho các bệnh viện trong thời gian này có thể đối mặt với án "treo cổ" (Ảnh: Reuters).
-Nhiều nước đã cam kết hỗ trợ Ấn Độ đảm bảo nguồn cung ôxy để điều trị cho các bệnh nhân Covid-19. Trong ảnh: Bình chứa ôxy được chuyển lên máy bay để vận chuyển tới các bệnh viện ở Ấn Độ tại sân bay Changi, Singapore ngày 24/4 (Ảnh: Reuters).
-Tính đến nay, Ấn Độ có tổng cộng 195.116 ca tử vong vì Covid-19 và hơn 17,3 triệu ca nhiễm. Ấn Độ hiện là vùng dịch lớn thứ 2 thế giới, chỉ sau Mỹ (Ảnh: Reuters).
-Thành Đạt
-Tổng hợp
+# url = https://dantri.com.vn/the-gioi/phat-hien-sieu-bien-chung-sars-co-v-2-co-34-dot-bien-20210422144400563.htm
+# date = 20210422
+Covid-19 đang diễn biến phức tạp tại nhiều nơi trên thế giới (Ảnh: Reuters).
+Theo News.com.au, các nhà nghiên cứu từ Bộ Y tế Angola, Trung tâm kiểm soát và phòng ngừa dịch bệnh châu Phi, Đại học Oxford (Anh) và Đại học Cape Town (Nam Phi) cùng viện KRISP (Ấn Độ) đã cảnh báo về sự xuất hiện của một biến chủng SARS-CoV-2 với 34 đột biến.
+Trong số 34 đột biến trên, có 14 đột biến liên quan tới gai protein - bộ phận giúp virus bám và xâm nhập vào tế bào người để gây bệnh Covid-19.
+Con số 34 đột biến xảy ra trên một biến chủng được xem là kỷ lục thế giới, vì các chủng nguy hiểm trước đây đều có số lượng ít hơn nhiều. Ví dụ, chủng có nguồn gốc từ Brazil có 18 đột biến, gồm 10 đột biến ở phần gai. Trong khi đó, biến chủng phát hiện lần đầu ở Anh có 17 đột biến, gồm 8 đột biến ở gai protein.
+Việc phát hiện siêu biến chủng mới, cùng với một số chủng có khả năng "qua mặt" các kháng thể ngăn Covid-19 khiến giới khoa học lo ngại Covid-19 sẽ tiếp tục diễn biến phức tạp trong thời gian tới.
+Theo News.com.au, biến chủng mới có 34 đột biến lần đầu được phát hiện trên 3 người di chuyển từ Tanzania tới Angola vào giữa tháng 2. Các nhà khoa học đã kêu gọi việc "nghiên cứu khẩn cấp" biến chủng này.
+Họ cũng cảnh báo Tanzania đang gặp nguy hiểm vì quốc gia châu Phi này "có nhiều ca Covid-19 chưa được thống kê". Tanzania hiện mới ghi nhận 509 ca bệnh và 21 trường hợp tử vong - con số được cho là thấp hơn nhiều so với tình hình thực tế. Trước đó, chính phủ Tanzania thậm chí còn kêu gọi người dân cầu nguyện và xông hơi bằng thảo dược để tiêu diệt virus.
+Một lo ngại khác rằng, nếu biến chủng 34 đột biến lây lan mạnh, nó có thể tiếp tục đột biến tiếp và có thể trở nên dễ lây lan, dễ gây tử vong và dễ lách qua kháng thể.
+Tiến sĩ William A Haseltine, cựu giáo sư Đại học Harvard của Mỹ, bày tỏ quan ngại về biến chủng mới do số lượng đột biến của nó quá lớn.
+Biến chủng mới hiện được tạm đặt tên là A. VOI. V2, trong khi Tiến sĩ Haseltine gọi nó là "biến chủng Tanzania".
+Ấn Độ phá kỷ lục thế giới về ca bệnh mới
+Thông tin về biến chủng mới được đăng tải vào thời điểm nhiều nơi trên thế giới vẫn đang phải "vật lộn" với đại dịch.
+Ấn Độ ngày 22/4 đã phá kỷ lục thế giới khi ghi nhận 314.835 ca bệnh mới chỉ trong 24 giờ. Tổng số ca bệnh ở quốc gia này cho tới nay là 15,9 triệu người và số người tử vong là 184.657.
+Ấn Độ vẫn đang xếp sau Mỹ về số ca bệnh và số người thiệt mạng, nhưng quốc gia Nam Á đã phá kỷ lục của Mỹ ghi nhận hồi tháng 1 - 297.430 ca trong 24 giờ.
+Dịch bệnh bùng nổ ở Ấn Độ được cho là do một biến chủng mới mang tên B1617, gồm 2 đột biến khiến nó trở nên dễ lây nhiễm hơn chủng ban đầu.
+Trong khi đó, tại Nam Mỹ, Brazil vẫn đang đối mặt với sự lây lan không kiểm soát của dịch bệnh do biến chủng P1.
+Tổ chức Y tế Thế giới (WHO) cảnh báo rằng, tình hình dịch bệnh trên toàn cầu "chưa thể kết thúc" khi các siêu biến chủng tiếp tục lây lan. Số ca bệnh mới ghi nhận mỗi ngày trên thế giới thậm chí còn đang tăng nhanh chóng.
+Đức Hoàng
+Theo News.com.au, RT

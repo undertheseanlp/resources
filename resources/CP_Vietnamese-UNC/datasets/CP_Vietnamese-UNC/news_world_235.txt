@@ -1,15 +1,14 @@
 # doc_id = news_world_235
-# url = https://dantri.com.vn/the-gioi/thu-tuong-anh-bi-dieu-tra-ve-chi-phi-dat-do-cai-tao-can-ho-20210428200733669.htm
-# date = 20210428
-Thủ tướng Anh Boris Johnson và người bạn đời đã chào đón con trai hồi năm ngoái (Ảnh: PA).
-Trong một tuyên bố phát đi hôm nay, Ủy ban Bầu cử - cơ quan chuyên giám sát vấn đề tài chính bầu cử và chính trị, cho biết: "Có những cơ sở hợp lý để nghi ngờ rằng một hay các sai phạm có thể đã xảy ra. Do đó, chúng tôi sẽ tiếp tục công việc này trên danh nghĩa một cuộc điều tra chính thức để tìm hiểuvụ việc".
-Thủ tướng Johnson đang đối mặt với sức ép nhằm giải thích về việc ông đã chi trả như thế nào cho việc cải tạo căn hộ, nơi ông cùng bạn đời và con trai sinh của cặp đôi sinh sống trên phố Downing, mà các tờ báo Anh cho biết là tiêu tốn tới 280.000 USD.
-Theo BBC, ông Johnson và người bạn đời Carrie Symonds đã tiến hành cải tạo căn hộ của họ tại số 11 phố Downing hồi năm ngoái. Đã xuất hiện các đồn đoán rằng chi phí cải tạo lên tới 200.000 bảng Anh (280.000 USD), dù Thủ tướng chỉ nhận được khoản trợ cấp công hàng năm là 30.000 bảng Anh cho căn hộ.
-Cựu cố vấn hàng đầu của ông Johnson, Dominic Cummings - người từ chức hồi năm ngoái - gần đây tiết lộ rằng Thủ tướng đã lên kế hoạch cho phép các nhà tài trợ "bí mật chi trả" cho việc cải tạo căn hộ của ông.
-Ông Cummings nói, thật là "phi đạo đức, ngu xuẩn, có thể bất hợp pháp và gần như chắc chắn phá vỡ các quy định về công khai thích hợp các khoản đóng góp chính trị nếu vụ việc được tiến hành theo cách ông ấy dự định làm".
-Trong khi đó, Thủ tướng Johnson khẳng định ông đã "tự mình trả tiền" cho việc tân trang lại căn hộ và tuân thủ đầy đủ các quy tắc.
-Có thông tin cho biết đảng Bảo thủ của ông Johnson đã chi tiền cho văn phòng nội các để thanh toán các chi phí ban đầu cho việc sửa chữa căn hộ và ông Johnson đã trả lại chúng. Vụ việc không được công khai đã gây ra các nghi vấn về các khoản đóng góp hoặc khoản vay cần phải được báo cáo, cũng như các nghĩa vụ về thuế.
-Vụ việc trên là một trong những vụ lùm xùm mà Thủ tướng Johnson đối mặt trong những ngày gần đây.
-Ông Johnson mới đây đã lên tiếng bác bỏ các cáo buộc ông từng có phát ngôn gây tranh cãi rằng "thà để thi thể chất đống còn hơn là phải phong tỏa đất nước một lần nữa để chống dịch Covid-19".
-An Bình
-Theo BBC
+# url = https://dantri.com.vn/the-gioi/thuy-thu-tau-ngam-indonesia-co-the-da-tim-cach-thoat-ra-ngoai-20210425223618129.htm
+# date = 20210425
+Theo Bloomberg, tại cuộc họp báo ngày 25/4, Tham mưu trưởng Hải quân Indonesia Yudo Margono cho biết, thông qua ảnh chụp từ thiết bị chuyên dụng của tàu cứu hộ, lực lượng tìm kiếm đã phát hiện xác tàu ngầm KRI Nanggala 402 ở độ sâu 838m ngoài khơi Bali.
+Ngoài ra, lực lượng tìm kiếm cũng trục vớt thêm được một áo phao thoát hiểm được cho là của con tàu xấu số này. Theo ông Margono đây có thể là dấu hiệu cho thấy thủy thủ nào đó trên tàu đã cố tìm cách thoát khỏi con tàu bị chìm.
+"Áo này chỉ dùng để thoát hiểm trong các tình huống khẩn cấp. Thông thường, áo thoát hiểm này được cất trong một chiếc hộp khẩn cấp. Ai đó phải lấy nó ra, nhưng không có cơ hội dùng đến nó", ông Margono nói.
+Ảnh chụp bằng camera của tàu cứu hộ MV Swift Rescue (Singapore) cho thấy vật thể được cho là mảnh vỡ thân tàu ngầm KRI Nanggala 402 ở độ sâu 838m (Ảnh: Hải quân Indonesia).
+Ông Margono xác nhận, toàn bộ 53 thủy thủ trên tàu KRI Nanggala 402 đều đã thiệt mạng. "Ở độ sâu như vậy, rất ít khả năng tìm thấy người sống sót", ông cho biết. Hơn nữa, cơ hội sống sót của thủy thủ đoàn trước đó đã được xác định rất mong manh bởi lượng dưỡng khí trên tàu ước tính cạn kiệt từ 3 giờ sáng 24/4.
+Hôm qua, lực lượng tìm kiếm cũng trục vớt được một mảnh vỡ và một số vật dụng được cho là của tàu ngầm Indonesia cách vị trí con tàu lặn xuống lần cuối cùng khoảng vài km.
+Tàu KRI Nanggala 402 gặp nạn vào rạng sáng 21/4 khi đang tham gia một cuộc diễn tập phóng ngư lôi ngoài khơi Bali. Trên tàu có tổng cộng 53 thủy thủ và được cho là quá tải so với quy định.
+Hiện chưa rõ nguyên nhân khiến con tàu 44 năm tuổi này gặp nạn, song ông Margono nhận định: "Đây không phải do lỗi con người, mà do yếu tố tự nhiên, môi trường". Tuy nhiên, ông không lý giải rõ cho nhận định này, mà chỉ nhấn mạnh con tàu đã tuân thủ đúng các quy trình khi lặn xuống trong cuộc diễn tập sáng 21/4.
+Trước đó, giới chức quân đội Indonesia cũng loại trừ giả thuyết về một vụ nổ trên con tàu, mà cho rằng con tàu có thể đã bị nứt vỡ thành nhiều mảnh do áp suất nước ở độ sâu hơn 800m. Theo quân đội Indonesia, con tàu có thể đã gặp sự cố mất điện khiến nó chìm sâu.
+Công tác trục vớt con tàu và tìm kiếm thi thể của thủy thủ đoàn sẽ được quân đội Indonesia tiến hành trên cơ sở có sự hợp tác quốc tế. Hiện nhiều nước, trong đó có Singapore, Mỹ, Ấn Độ đã điều động tàu và máy bay cứu hộ tới Indonesia để tham gia chiến dịch này.
+Minh PhươngTheo CNA, Bloomberg

@@ -1,17 +1,27 @@
 # doc_id = news_travel_162
-# url = https://dantri.com.vn/du-lich/lo-dich-bung-phat-bo-van-hoa-de-nghi-han-che-le-hoi-dong-nguoi-20210426184344075.htm
-# date = 20210426
-Ngày 26/4, Bộ Văn hóa Thể thao và Du lịch (Bộ VHTTDL) đã ra công văn về việc tăng cường phòng chống dịch Covid-19 gửi các tỉnh thành trong cả nước.
-Bộ VHTTDL nhận định, tình hình dịch bệnh Covid-19 trên thế giới hiện nay vẫn đang tiếp tục diễn biến phức tạp, số lượng ca mắc mới và tử vong vẫn tăng ở nhiều nước. Đặc biệt dịch bệnh đang bùng phát mạnh trên diện rộng ở một số nước láng giềng có chung đường biên giới với nước ta.
-Biển người đổ về lễ hội Đền Hùng trong ngày Giỗ tổ 21/4 vừa qua. (Ảnh: Quân Đỗ).
-Trong nước, tuy dịch bệnh đã được kiểm soát tốt, song nguy cơ dịch bệnh bùng phát trở lại luôn thường trực, nhất là từ nguồn nhập cảnh, nhập cảnh trái phép. Hiện nay, đã xuất hiện tình trạng người dân lơ là, chủ quan, thực hiện không đúng, không đầy đủ các biện pháp phòng, chống dịch theo quy định.
-Để duy trì vững chắc thành quả phòng, chống dịch bệnh Covid-19, thực hiện thành công mục tiêu kép, bảo vệ tốt nhất sức khỏe nhân dân và du khách, đặc biệt trong những ngày lễ lớn sắp tới, Bộ VHTTDL đề nghị UBND các tỉnh, thành phố quán triệt thực hiện nghiêm Công điện số 541/CT-TTg ngày 23/4/2021 của Thủ tướng Chính phủ về tăng cường thực hiện phòng, chống dịch Covid-19; tiếp tục tăng cường cảnh giác với nguy cơ dịch bệnh.
-Trong các hoạt động chính trị, kinh tế, xã hội nói chung, lĩnh vực văn hóa, thể thao và du lịch nói riêng, cần đảm bảo an toàn tuyệt đối cho nhân dân và du khách.
-Các tỉnh, thành xem xét hạn chế các sự kiện, hoạt động tập trung đông người không cần thiết. Trường hợp tổ chức, thì phải thực hiện nghiêm các biện pháp bảo đảm an toàn phòng, chống dịch theo đúng quy định.
-Ngoài ra, các cơ sở lưu trú du lịch trên địa bàn đăng ký và tự đánh giá an toàn Covid-19 theo hướng dẫn của Bộ Văn hóa, Thể thao và Du lịch tại Công văn số 4159/BVHTTDL-TCDL ngày 09/11/2020 để kết nối với hệ thống an toàn Covid-19 quốc gia.
-Bộ cũng yêu cầu, các Ban Quản lý di tích, Bảo tàng, Ban Tổ chức lễ hội, người đứng đầu các thiết chế văn hóa, thể thao, đơn vị kinh doanh du lịch, khu, điểm du lịch phải thực hiện các phương án đảm bảo an ninh, an toàn phòng chống dịch cho người tham gia hoạt động văn hóa, thể thao, khán giả đến rạp chiếu phim, khách tham quan bảo tàng, di tích - danh lam thắng cảnh; người tham gia lễ hội, khách du lịch.
-Chỉ tổ chức đón khách khi đảm bảo các biện pháp phòng chống dịch theo hướng dẫn của ngành y tế.
-Các tỉnh thành cũng đẩy mạnh công tác tuyên truyền, hướng dẫn phòng, chống dịch bệnh Covid-19; yêu cầu nhân dân thực hiện nghiêm "Thông điệp 5K: Khẩu trang - Khử khuẩn - Khoảng cách - Không tụ tập - Khai báo y tế" của Bộ Y tế.
-Đặc biệt nhất là đeo khẩu trang bắt buộc tại nơi công cộng, tại các sự kiện có tập trung đông người, các khu, điểm du lịch; bảo tàng, hệ thống rạp chiếu phim, di tích, danh lam thắng cảnh; nơi tổ chức hoạt động văn hóa, thể thao; địa điểm tổ chức lễ hội...
-Đồng thời tăng cường công tác thanh tra, kiểm tra việc thực hiện các biện pháp phòng, chống dịch; phát hiện kịp thời hành vi vi phạm và xử lý nghiêm các trường hợp vi phạm quy định về phòng, chống dịch Covid-19 trong lĩnh vực hoạt động văn hóa, thể thao và du lịch tại địa phương.
+# url = https://dantri.com.vn/du-lich/loat-dac-san-viet-nhay-tanh-tach-trong-mieng-thuc-khach-khi-thuong-thuc-20210419104603897.htm
+# date = 20210419
+Gỏi tôm sống
+Đây là món ăn ngon được xem là đặc sản ở một số địa phương như Sơn La, Yên Bái, Hòa Bình, Quảng Ninh... thậm chí một số tỉnh miền Tây cũng rất ưa chuộng.
+Món ăn này đặc biệt ở chỗ, thực khách thưởng thức khi những con tép, tôm vẫn còn sống thậm chí chúng có thể bật nhảy trong miệng. Những con tôm còn nhảy tanh tách trên đĩa, ngọ nguậy trong miệng khiến món ăn thêm thú vị và kích thích sự tò mò của thực khách.
+Món gỏi tôm sống có cách ăn khá độc đáo, được nhiều người ưa chuộng. (Ảnh: Nhịp sống Tây Bắc).
+Mỗi vùng miền đều có cách chế biến riêng. Người miền Tây ăn gỏi tép với rau ngò tây, lạc rang chín trộn đều với gia vị, chanh, ớt... Khi thưởng thức ăn kèm món gỏi với mù tạt, xì dầu. Các đồ ăn kèm gồm có rau cải non và bánh đa nem.
+Trong khi đó người miền Bắc lại ăn gỏi tôm, tép với hoa chuối, rau thơm, nước măng chua hoặc nước me chua đun sôi. Ở Quảng Ninh, món ăn này còn gọi là "tôm bò". Theo đó, tôm sẽ được bắt sống, sơ chế sạch, cho vào bát nước để lên bàn ăn. Thực khách sẽ chọn 1-2 con tôm, gói trong lá mui, rau sống... sao cho gọn vừa miếng rồi chấm vào nước chua.
+Món tôm bò nổi danh Quảng Ninh. (Ảnh: Quang Huy).
+Khi đưa vào miệng, cảm giác như con tôm vẫn nhảy tanh tách, quẫy quẫy lên. Vị ngọt của tôm hòa quyện với các loại rau sống ăn kèm tạo nên hương vị đặc trưng, kích thích tất cả các vị giác mà không phải món ăn nào cũng có.
+Cá nhảy
+Món cá nhảy được xem là đặc sản của người dân tộc Thái ở vùng Tây Bắc. Cá dùng để chế biến món này thường là cá chép nhỏ được nuôi tự nhiên ở ao, suối, xa khu dân cư. Khi bắt về, người dân chọn những con cá có kích thước bằng ngón tay cái, ngâm nước muối sạch để cá tự tiết hết chất bẩn trong người.
+Cách thưởng thức "ăn sống cá tại bàn" khi chúng vẫn còn bật nhảy tanh tách khiến cho nhiều du khách không đủ dũng cảm nếm thử. (Ảnh: Đời sống Tây Bắc).
+Gia vị ăn kèm bao gồm hỗn hợp lõi chuối tươi, rau thơm (rau mùi, rau húng, kinh giới, thì là...). Các loại rau này được thái nhỏ, trộn với gia vị, ớt tươi, chanh và đặc biệt không thể thiếu là mắc khén (loại hạt chỉ có ở những cánh rừng Tây Bắc).
+Cá sau khi sơ chế được cho vào chậu, mang lên ăn. Khi ăn thực khách dùng dao khía nhẹ vào bụng cá để lấy ruột ra, rồi trộn đều với hỗn hợp trên, thao tác phải đảm bảo nhanh, sao cho con cá vẫn còn "nhảy" trong miệng khi thưởng thức. Thứ hỗn hợp chua, cay mặn, ngọt của các loại rau hòa quyện với vị ngọt của cá mang khiến nhiều thực khách thích thú khi thưởng thức.
+Dù vậy, món ăn này được khuyến cáo là tiềm ẩn nhiều nguy cơ gây bệnh khi thưởng thức cá sống mà không qua khâu làm chín thực phẩm. Thêm vào đó, cách thưởng thức "ăn sống cá tại bàn" khi chúng vẫn còn bật nhảy tanh tách cũng khiến cho nhiều du khách không đủ dũng cảm nếm thử.
+Đuông dừa
+Đuông dừa là một loại ấu trùng của sâu, khoét lỗ chui vào ngọn dừa non, ăn phần thịt mềm của cây dừa và sinh sản. Thông thường, đuông dừa phát triển mạnh nhất vào mùa mưa, khi cây dừa héo úa cũng là lúc những con đuông dừa đã to béo.
+Món đuông dừa vẫn còn ngọ nguậy trong miệng khi thưởng thức khiến nhiều người không đủ can đảm nếm thử.
+Đuông dừa có thể chế biến được nhiều món khác nhau như: đuông lăn bột chiên, đuông nướng, đuông nấu cháo nước cốt dừa… Song nổi tiếng và được nhiều người biết đến nhất là đuông dừa ăn sống.
+Những con đuông còn sống được thả vào bát rượu trắng, hoặc nước muối loãng để chúng bị ngộp mà thải ra các chất bẩn. Sau đó đuông được rửa sạch rồi cho vào chén nước mắm ớt cay.
+Gắp một con cho vào miệng cắn phập một cái để cảm nhận vị béo bùi không khác gì lòng đỏ trứng gà của đuông đang tan dần trong miệng rất ngon.
+Hiện nay, đuông dừa bị cấm nuôi và buôn bán vì là loại côn trùng gây hại.
+Món ăn này cũng được mệnh danh là một trong những "đặc sản kinh dị" không dành cho những người yếu đuối bởi những con đuông béo tròn cứ ngọ nguậy khiến nhiều người không dám ăn.
+Hiện nay, đuông dừa bị cấm nuôi và buôn bán vì là loại côn trùng gây hại. Tuy nhiên, ở một số nơi để chiều lòng thực khách, đuông dừa vẫn được buôn bán lén lút.
 Hiệp Nguyễn

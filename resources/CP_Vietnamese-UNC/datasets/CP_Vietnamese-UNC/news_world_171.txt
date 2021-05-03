@@ -1,14 +1,22 @@
 # doc_id = news_world_171
-# url = https://dantri.com.vn/the-gioi/nga-thu-ten-lua-moi-bay-nhanh-gap-4-lan-dan-ban-tu-sung-truong-ak-47-20210429171723171.htm
-# date = 20210429
-Nga thử tên lửa mới bay nhanh gấp 4 lần đạn bắn từ súng trường AK-47
-Một vụ phóng tên lửa của Nga (Ảnh minh họa: Sputnik)
-Newsweek đưa tin, cuộc thử nghiệm diễn ra hồi đầu tuần tại bãi thử Sary-Shagan, Kazakhstan.
-"Sau hàng loạt thử nghiệm, hệ thống tên lửa chống đạn đạo mới đã chứng minh được khả năng và hoàn thành nhiệm vụ, tấn công mục tiêu với độ chính xác cao", chỉ huy đơn vị phòng thủ chống tên lửa Nga Sergei Grabchuk, cho hay.
-Bộ Quốc phòng Nga cho biết, tên lửa này được thiết kế để bảo vệ thủ đô Moscow khỏi các vụ tấn công từ trên không và trên vũ trụ.
-Trả lời RT, ông Grabchuk cho biết, tên lửa này có thể di chuyển với tốc độ trên 3 km/s (10.800 km/h), nhanh gấp 4 lần tốc độ của một viên đạn bay ra từ nòng súng AK-47, tương đương 700m/s (2.520 km/h).
-Vụ thử tên lửa diễn ra trong bối cảnh căng thẳng giữa Nga, Ukraine và phương Tây vẫn đang cao. Tuy nhiên, căng thẳng đã giảm nhiệt vào tuần trước khi Nga thông báo rút bớt quân khỏi các khu vực gần biên giới Ukraine. Mặc dù vậy, Nga vẫn đang triển khai khí tài ở những nơi này.
-Mỹ và phương Tây chỉ trích động thái điều động quân sự quy mô lớn của Nga là "khiêu khích", tuyên bố mà Moscow mạnh mẽ bác bỏ và khẳng định họ làm như vậy vì lý do an ninh và có quyền đưa quân hay vũ khí tới các địa điểm trên lãnh thổ Nga.
-Nga khẳng định việc họ rút bớt quân gần Ukraine không liên quan tới áp lực từ phương Tây, đồng thời cho hay việc NATO triển khai quân đội gần Nga là nguyên nhân khiến Moscow lo ngại.
-Đức Hoàng
-Theo Newsweek
+# url = https://dantri.com.vn/the-gioi/nga-toan-tinh-gi-khi-rut-quan-khoi-bien-gioi-voi-ukraine-20210423104752977.htm
+# date = 20210423
+Bộ trưởng Quốc phòng Nga giám sát một cuộc tập trận ở Crimea từ trên trực thăng quân sự ngày 22/4. (Ảnh: WSJ).
+Rút phần lớn binh sĩ, nhưng giữ lại khí tài
+Sau khi thị sát một cuộc diễn tập quân sự tại bán đảo Ukraine ngày 22/4, Bộ trưởng Quốc phòng Nga Sergei Shoigu bất ngờ ra lệnh cho hầu hết binh sĩ rút khỏi bán đảo Crimea và khu vực sát biên giới miền đông Ukraine để trở lại các căn cứ thường trực sau 1 tháng triển khai.
+Theo đó, binh sĩ Nga sẽ rút về các căn cứ thường trực bắt đầu từ hôm nay 23/4 và hoàn tất trước 1/5. Tuy nhiên, một số khí tài, xe thiết giáp vẫn giữ lại ở đây để phục vụ cho kế hoạch diễn tập quân sự của Nga dự kiến vào cuối năm nay.
+"Tôi tin rằng chúng tôi đã đạt được các mục tiêu của đợt kiểm tra (mức độ sẵn sàng của quân đội) này. Các binh sĩ đã cho thấy khả năng bảo vệ đất nước một cách đáng tin cậy. Do vậy, tôi quyết định hoàn tất đợt kiểm tra năng lực quân khu phía Tây và phía Nam", Bộ trưởng Shoigu nói.
+Nga lệnh rút phần lớn binh sĩ khỏi biên giới với Ukraine từ ngày 23/4 và hoàn tất trước 1/5 (Ảnh: NBC).
+Nga vốn duy trì một lực lượng thường trực dọc biên giới trên bộ kéo dài hàng nghìn km với Ukraine, nhưng những tuần gần đây, Moscow bất ngờ triển khai thêm hàng chục nghìn binh sĩ (hoặc thậm chí hơn 100.000 binh sĩ), cùng với các khí tài quân sự đến khu vực này. Đây là đợt triển khai lớn nhất kể từ khi Nga cho sáp nhập bán đảo Crimea vào năm 2014, làm thổi bùng căng thẳng giữa Nga và phương Tây. Động thái của Moscow làm dấy lên lo ngại nguy cơ một cuộc xung đột quân sự với Kiev.
+Tuy hoan nghênh động thái rút quân của Nga, nhưng giới chức Ukraine và Mỹ vẫn hoài nghi về mục đích thực sự của Moscow.
+Nga đang toan tính gì?
+Tổng thống Nga Vladimir Putin (Ảnh: Reuters).
+Trước khi Nga tuyên bố rút quân, giới chức và chuyên gia phương Tây đều cho rằng, việc tăng cường lực lượng của Moscow là đáng quan ngại, nhưng nguy cơ Nga tiến hành một cuộc tấn công quân sự nhằm vào Ukraine là rất thấp. Theo họ, Nga tăng cường hiện diện quân sự chủ yếu để gửi thông điệp đến các nước phương Tây và đặc biệt đến chính quyền Tổng thống Mỹ Joe Biden. Moscow có thể coi đây là phép thử để đánh giá cam kết của chính quyền Tổng thống Biden với Ukraine.
+Ruslan Leviev, một nhà phân tích của Nhóm tình báo xung đột, nhận định: "Nga đang thử thách thần kinh của các nước và tuyên bố lập trường của mình: Nga sẽ vẫn là một nhân tố quan trọng trong chính sách của các quốc gia khác, kể cả Mỹ và Ukraine. Họ đang cố thể hiện rằng Nga sẽ không nhượng bộ bất kỳ lệnh trừng phạt hoặc hành động nào nhằm gây sức ép buộc nước này từ bỏ Crimea hoặc thay đổi tình hình ở Donbass".
+Việc Nga tuyên bố rút quân có thể là bởi Nga đã hoàn thành được mục tiêu đó và không muốn đi quá xa vì có thể kéo theo một cuộc xung đột không cần thiết. Michael Kofman, một nhà nghiên cứu tại Washington (Mỹ), nhận định: "Đây chỉ là rút quân một phần. Còn phải xem họ để lại bao nhiêu khí tài. Tôi nghĩ Moscow tin rằng thông điệp của họ đã được gửi đi". Cũng theo chuyên gia này, Nga mất một tháng để tăng cường hiện diện quân sự, thì chiến dịch rút lực lượng cũng phải mất vài tuần, chỉ đến khi đó mới xác định được liệu Nga đã giữ lại lực lượng và khí tài với quy mô ra sao và ở vị trí nào.
+Vladimir Frolov, một nhà phân tích chính trị tại Moscow, bình luận cuộc khủng hoảng trước mắt hiện đã qua và ông có cảm giác rằng Tổng thống Putin đã đạt được mục tiêu mà ông đề ra từ động thái tăng cường hiện diện quân sự đó là: Xung đột "chỉ có thể được giải quyết theo các điều kiện của Nga".
+Chuyên gia quân sự Nga Igor Korotchenko nhận định, Nga đã phát đi thông điệp sẵn sàng hành động nếu cần thiết, và việc rút quân quy mô lớn có thể coi là tín hiệu cho thấy căng thẳng đang dần hạ nhiệt. Tuy vậy, giới chuyên gia phương Tây vẫn tỏ ra khá thận trọng về các bước đi tiếp theo của Nga khi chưa thể khẳng định quy mô rút quân của Moscow.
+Quyết định rút quân được Nga đưa ra chỉ một ngày sau khi ông Putin đọc Thông điệp Liên bang trước quốc hội. Nhân dịp này, chủ nhân Điện Kremlin cảnh báo các nước không nên thách thức hay vượt qua "lằn ranh đỏ" của Nga.
+"Chúng tôi mong muốn các mối quan hệ tốt đẹp và thực sự không muốn phá vỡ chúng. Nhưng nếu ai đó hiểu sai ý tốt của chúng tôi thành bất đồng hay yếu đuối và muốn đốt cháy hay cho nổ tung những cầu nối quan hệ, họ cần biết rằng Nga cũng sẽ đáp trả tương xứng, nhanh chóng và mạnh mẽ", ông Putin cảnh báo.
+Minh Phương
+Theo NBC, WSJ

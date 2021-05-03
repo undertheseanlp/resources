@@ -1,15 +1,20 @@
 # doc_id = news_health_224
-# url = https://dantri.com.vn/suc-khoe/thanh-hoa-cuu-song-tre-so-sinh-uon-van-do-cat-ron-bang-dao-thai-do-an-20210428153636545.htm
-# date = 20210428
-Ngày 28/4, Bệnh viện Nhi Thanh Hóa cho biết, vừa cứu sống bệnh nhân Giàng Thị D. 7 ngày tuổi (xã Mường Lý, huyện Mường Lát, Thanh Hóa) bị uốn ván rốn.
-Trước đó, vào ngày 4/4, khoa Hồi sức tích cực sơ sinh tiếp nhận bệnh nhân Giàng Thị D. được chuyển đến từ Bệnh viện huyện Mường Lát trong tình trạng nguy kịch. Bệnh nhân liên tục co cứng toàn thân, miệng cắn chặt, cứng hàm. Cơn giật liên tiếp và tăng lên khi có tiếng động mạnh, kích thích hoặc đụng vào người bệnh.
-Bệnh nhân D. nhập viện trong tình trạng uốn ván rốn do bố dùng dao thái cắt rốn.
-Gia đình bệnh nhân cho biết, bé D. được sinh tại nhà. Người bố đã sử dụng chiếc dao thái đồ ăn của gia đình cắt rốn cho bé.
-Các bác sĩ xác định bệnh nhân bị uốn ván rốn. Ngay sau đó, bệnh nhân được cách ly điều trị riêng với phòng kín, tránh ánh sáng tiếng động tối đa, an thần sâu, thở máy và nuôi dưỡng tĩnh mạch. Sau 24 ngày trẻ hết giật và cai được máy thở, hiện đã bú mẹ được. Dự kiến vài ngày tới, bệnh nhân sẽ được xuất viện về nhà.
-Theo Bác sĩ Lê Xuân Trung, Trưởng khoa Hồi sức tích cực sơ sinh, Bệnh viện Nhi Thanh Hóa, đây là ca bệnh uốn ván rốn thứ 3 mà Khoa gặp trong những ngày cuối năm 2020 và đầu năm 2021. Trước đó vào tháng 1/2021, Khoa cũng đã cấp cứu và điều trị thành công 1 ca uốn ván rốn 8 ngày tuổi của xã Trung Lý, huyện Mường Lát.
-Bác sĩ Trung cũng khuyến cáo, phòng trừ uốn ván sơ sinh ngoài những biện pháp vô khuẩn trong điều trị, chăm sóc trẻ trong và sau sinh thì tiêm vắc xin uốn ván là biện pháp quan trọng và hữu hiệu để phòng bệnh uốn ván sơ sinh.
-Vắc xin uốn ván rất an toàn cho cả mẹ và con. Vì thế, phụ nữ trong độ tuổi sinh sản, phụ nữ đang mang thai cần được tiêm vắc xin phòng uốn ván hoặc vắc xin phòng bạch hầu, ho gà, uốn ván. Tại Việt Nam, vắc xin phòng uốn ván còn được khuyến cáo tiêm ngừa cho tất cả trẻ nhỏ với 3 liều cơ bản lúc trẻ được 2, 3, 4 tháng và 1 liều nhắc lại lúc trẻ được 18 tháng. Sau đó, có thể nhắc lại lúc 4-6 tuổi và 10-13 tuổi trở lên.
-Uốn ván sơ sinh là một bệnh nặng do hệ thần kinh trung ương của trẻ bị nhiễm độc bởi ngoại độc tố của trực khuẩn uốn ván Clostridium tetani. Tỷ lệ tử vong do uốn ván sơ sinh rất cao. Theo ước tính của Tổ chức Y tế Thế giới (WHO) trong những năm cuối của thể kỷ 20, mỗi năm có khoảng 500.000 trẻ bị chết vì uốn ván sơ sinh ở các nước đang phát triển.
-Tỷ lệ chết/mắc của uốn ván sơ sinh rất cao, có thể tới trên 80%, nhất là ở trường hợp có thời gian ủ bệnh ngắn. Ở Việt Nam, bệnh uốn ván xuất hiện tản phát ở khắp các tỉnh trong cả nước.
-Chương trình loại trừ uốn ván sơ sinh được triển khai từ năm 1992. Trong giai đoạn 1996 - 2000, tỉ lệ mắc uốn ván sơ sinh trung bình năm của cả nước là 0,13/1.000 trẻ đẻ sống. Từ năm 2005, Việt Nam đã loại trừ bệnh uốn ván sơ sinh theo quy mô huyện với tỷ lệ mắc dưới 1/1.000 trẻ đẻ sống.
-Bình Minh
+# url = https://dantri.com.vn/suc-khoe/thoi-diem-nao-thich-hop-nhat-kham-vu-de-phat-hien-ung-thu-som-20210430064453323.htm
+# date = 20210430
+Vậy thời điểm nào tốt nhất để thực hiện khám vú? Bao lâu nên thực hiện một lần, thưa bác sĩ? (Ngọc Phương, Phú Thọ).
+GS.TS Trần Văn Thuấn, Thứ trưởng Bộ Y tế, nguyên Giám đốc Bệnh viện K trả lời:
+Trong 5 loạiung thưhay gặp nhất ở nữ giới, ung thư vú đứng vị trí đầu bảng với 43,1/100.000 dân, với tỉ lệ tử vong 12,9/100.000 dân. Tiếp đến là ung thư đại trực tràng, ung thư cổ tử cung, ung thư phổi, ung thư tử cung.
+Trong các loại ung thư ở nữ giới, ung thư vú, cổ tử cung đều có thể sàng lọc và phát hiện sớm. Đặc biệt là với ung thư vú là bệnh dễ phát hiện sớm nhất, là vì bệnh nhân tự sờ thấy được.
+Trước đây ung thư vú là nỗi ám ảnh của nhiều người, nhưng ngày nay ung thư vú có thể sàng lọc, phát hiện sớm và tiên lượng điều trị tốt (tỉ lệ điều trị khỏi đến 75%) nếu được chẩn đoán ở giai đoạn sớm.
+Việc tầm soát, sàng lọc có ý nghĩa vô cùng quan trọng với phát hiện sớm ung thư vú. Trong giai đoạn 2008-2010, qua sàng lọc 70.980 phụ nữ tại 7 tỉnh/thành phố, tỷ lệ phát hiện ung thư vú qua sàng lọc là 59,2/100.000 phụ nữ là khá cao, cho thấy hiệu quả khi triển khai các chương trình này tại cộng đồng.
+Tuy nhiên tại cộng đồng, chỉ có 24,2% phụ nữ có thực hành tự khám vú hàng tháng trong số những người tham gia chiến dịch sàng lọc, phát hiện sớm ung thư vú. Tuy nhiên, tín hiệu đáng mừng đó là tỷ lệ phát hiện bất thường ở nhóm phụ nữ thực hành tự khám vú thấp hơn ở nhóm không thực hành cho thấy hiệu quả và ý nghĩa của việc hướng dẫn phụ nữ tự khám vú đối với việc phát hiện sớm tổn thương ung thư vú.
+Việc tự khám vú là biện pháp tầm soát quan trọng để kịp thời phát hiện những bất thường ở vú có thể là dấu hiệu sớm của ung thư.
+Phụ nữ nên tự khám vú đều đặn mỗi tháng một lần, tốt nhất tự kiểm tra sau kỳ kinh nguyệt khoảng 5 ngày là lúc vú mềm nhất. Trong gia đình có người thân mắc bệnh thì nguy cơ di truyền càng cao. Nếu bạn phát hiện có khối u hay sự thay đổi của vú, nên đến viện khám càng sớm càng tốt.
+Chị em cũng cần có thói quen khám sức khỏe định kỳ, tầm soát ung thư vú khi qua tuổi 40. Với những chị em có nguy cơ cao (trong gia đình có mẹ hoặc chị em gái mắc ung thư vú, đột biến gen BRCA1/BRCA2; có kinh sớm; không sinh con...), nên đi khám, tầm soát ở lứa tuổi sớm hơn.
+Những dấu hiệu cảnh báo ung thư vú
+- Khối u không đau ở ngực
+- Thường xuyên bị ngứa và rát quanh núm vú
+- Núm vú bị rỉ máu, tiết dịch khác thường hoặc thụt vào, co lại
+- Làn da trên vú bị sần da cam, dày lên hoặc bị lún xuống, có nếp gấp.
+- Có hạch ở hố nách.
+Hồng Hải

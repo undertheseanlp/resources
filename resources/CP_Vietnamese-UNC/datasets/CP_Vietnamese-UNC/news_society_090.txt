@@ -1,15 +1,15 @@
 # doc_id = news_society_090
-# url = https://dantri.com.vn/xa-hoi/da-xac-dinh-duoc-nguyen-nhan-gay-ra-ho-tu-than-o-ha-noi-20210413211529514.htm
-# date = 20210413
-Toàn cảnh khu vực "hố tử thần" nuốt nhà dân ở huyện Chương Mỹ (Ảnh: Trần Thanh).
-Tối ngày 13/4, trao đổi với PV Dân trí, ông Đỗ Hoàng Anh Châu, Phó Chủ tịch UBND huyện Chương Mỹ (Hà Nội) cho biết, hiện UBND huyện Chương Mỹ đã bước đầu đưa ra đánh giá về nguyên nhân và đề xuất phương án khắc phục đối với "hố tử thần", xuất hiện tại xã Quảng Bị.
-Cụ thể, theo kết quả do Viện Khoa học Thủy lợi Việt Nam khảo sát, dọc tuyến đường và tuyến ngang đường, địa chất khu vực xảy ra sự cố biến đổi phức tạp. Địa chất có những biến đổi dị thường như xen kẹt lớp bùn bồi tích, túi bùn, túi khí, hang caster…
-"Đánh giá sơ bộ về nguyên nhân sụt lún cho thấy, theo kết quả đo địa vật lý ngày 10/4, cùng với hiện trạng công trình, quan trắc bằng mắt thường từ 7/4 tới nay cho thấy, hố sụt lún tạo ra do khoan vào túi khí, làm bục thành, tạo ra hố sụt", ông Châu nói.
-Cũng theo ông Châu, tuy Viện Khoa học Thủy lợi đã đưa ra phương án, nhưng về chuyên môn vẫn phải do Hội đồng thẩm định thông qua, sau đó huyện sẽ báo cáo các sở, ngành và xin chỉ đạo của thành phố trước khi triển khai.
-Phương hướng khắc phục
-Từ nguyên nhân nói trên, phương án đề xuất khắc phục của Viện Khoa học Thủy lợi Việt Nam gồm 6 bước gồm: Dọn dẹp mặt bằng khu sụt lún; lấp đầy hố bằng những vật liệu phù hợp, dự kiến lớp dưới cùng bằng đá hộc dày 1m, tiếp đến là lớp base dày 1m và trên nữa là cát lèn chặt lấp đầy; khoan tạo lỗ để phụt vữa xi măng - bentoniter (hàm lượng 200kg xi măng + 50kg bentoniter), để lấp đầy các lỗ rỗng xung quanh khu vực sụt lún, cứng hóa khu vực sụt lún; trải vải địa kỹ thuật gia cố 2 lớp tăng cường phía trên vật liệu, lấp đầy hố sụt lún.
-Tiếp đó, hoàn thành rãnhnước và các lớp mặt đường như ban đầu; tiến hành thử tải và quan trắc sau khi xử lý.
-Lực lượng chức năng cho biết, hố sụt lún tạo ra do khoan vào túi khí, làm bục thành, tạo ra hố sụt (Ảnh: Trần Thanh).
-Trước đó, như Dân trí đã đưa tin, vào khoảng 16h45 cùng ngày, gia đình ông Đặng Đình Nhâm, ở thôn 2, xã Quảng Bị, huyện Chương Mỹ, đào giếng. Trong lúc đào giếng, ông Nhâm bất ngờ nghe thấy tiếng rung lắc mạnh. Sau đó, trước cửa nhà ông Nhâm xuất hiện một hố sâu khoảng 2m, rộng 15m2 và khu vực này bắt đầu sụt lún xuống độ sâu 5m, hiện tại đã rộng khoảng hơn 100m2.
-20 hộ dân sống tại khu vực bị sụt lún được di dời đi nơi khác để đảm bảo an toàn.
-Trần Thanh
+# url = https://dantri.com.vn/xa-hoi/dai-gia-giau-mat-chi-tien-ty-lam-cau-cho-hoc-sinh-den-truong-20210501204253464.htm
+# date = 20210501
+Trường trung học cơ sở thực nghiệm Xiayi, ở phía nam thành phố Thương Khâu, tỉnh Hà Nam, Trung Quốc nằm tại một con đường chính, thường xuyên ùn tắc và không có đèn giao thông nên việc sang đường hằng ngày là mối nguy hiểm với học sinh.
+Người dân cho biết, đoạn đường gần trường này luôn tắc nghẽn khi phụ huynh đưa con đến trường hoặc đón con. "Gần cổng trường không có đèn tín hiệu giao thông, rất nguy hiểm", một phụ huynh cho biết.
+Một giáo viên giấu tên lên tiếng: "Không an toàn cho giáo viên và học sinh. Đôi khi ô tô không dừng lại khi bạn sang đường".
+Vì vậy, một người phụ nữ họ Meng đã chi hơn 1 triệu nhân dân tệ (hơn 3 tỷ đồng) để xây dựng hai cầu vượt bộ hành để những em học sinh có thể đến trường an toàn.
+Được biết, bà Meng cũng có con học tại trường trung học cơ sở thực nghiệm Xiayi. Đây cũng là lý do khiến bà bỏ tiền đầu tư xây cầu cho các con.
+"Tôi làm cầu từ tiền túi của mình vì sự an toàn của các cháu. Nó cũng giúp giao thông thuận tiện và nhanh chóng hơn", bà Meng nói.
+Bà Meng cũng cho hay, con đường đặc biệt bất tiện khi trời mưa do trường nằm ở khu vực đất thấp hơn. "Nước ngập sâu, rất khó qua đường. Nước tràn qua bậc thang nơi các cháu đứng đợi cha mẹ như những chú chim non, trông tội nghiệp. Chân con tôi trắng bệch vì ngâm nước", bà Meng chia sẻ.
+Theo người phụ nữ này, một trong 2 cầu vượt sắp hoàn thành còn cầu còn lại đang làm nền móng. Mặc dù, con đang học tại trường, bà Meng cho biết chưa bao giờ đề cập đến vai trò của mình trong việc xây dựng cây cầu.
+"Tôi không muốn con cảm thấy tự đắc vì điều đó. Tôi chỉ làm những gì có thể làm. Khi chết, không thể mang theo tiền và tôi không để lại quá nhiều tiền cho con", bà Meng cho hay và cho biết sẽ gọi đây là "cầu Trí Tuệ".
+Chia sẻ với tờ Xiaoxiang Morning Herald, một người công tác tại trường cho biết, dù biết cầu sắp hoàn thành nhưng chưa bao giờ biết ai đã chi tiền cũng như lý do làm cầu.
+Quang Anh
+Theo SCMP

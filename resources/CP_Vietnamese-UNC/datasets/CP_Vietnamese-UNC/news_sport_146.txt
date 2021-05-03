@@ -1,12 +1,21 @@
 # doc_id = news_sport_146
-# url = https://dantri.com.vn/the-thao/kanya-keomany-nguoi-lanh-dao-xinh-dep-va-day-tai-nang-cua-bong-da-lao-20210425195529415.htm
-# date = 20210425
-Kanya Keomany hiện được xem là một trong những cái tên có tầm ảnh hưởng quan trọng đối với bóng đá nữ Lào nói riêng và cả châu Á nói chung.
-Với kinh nghiệm hơn một thập kỷ làm việc cho Liên đoàn bóng đá châu Á (AFC), vào năm 2018, Kanya Keomany đã được bầu vào Ban chấp hành AFC và trở thành một trong bốn thành viên nữ hiếm hoi của cơ quan này.
-Đặc biệt, Kanya Keomany cũng tham gia vào Ủy ban bóng đá nữ AFC và tích cực đóng góp cho sự phát triển bóng đá nữ tại châu Á.
-"Tôi thấy biết ơn nếu những gì tôi làm có thể ảnh hưởng tới nhiều chị em phụ nữ hơn, để tiến tới tạo ra một sự khác biệt. Điều quan trọng nhất là có thể đưa ra một ví dụ tiêu biểu rằng, bóng đá là môn thể thao dành cho tất thảy mọi người, từ nhhiều tầng lớp khác nhau, bất kể giới tính của họ", Kanya Keomany chia sẻ cùng trang FIFA.com.
-Dĩ nhiên, bông hoa của "đất nước triệu voi" cũng hiểu rõ những khó khăn và thách thức mà mình sẽ phải đối mặt: "Chúng ta đều biết rằng đôi khi, là phụ nữ trong một ngành nghề mà đàn ông thống trị thì bạn sẽ phải làm việc chăm chỉ gấp đôi để được chấp nhận. Mọi người có xu hướng theo dõi từng bước bạn đi để chỉ trích sai lầm của bạn hoặc là để mổ xẻ thành tích của bạn".
-Dù vậy, Kanya Keomany không hề cảm thấy nản lòng hay bỏ cuộc. Thay vào đó, Tổng Thư ký của Liên đoàn bóng đá Lào đang rất nỗ lực để cùng đội tuyển bóng đá nữ quốc gia này chạy đua giành vé tham gia FIFA World Cup nữ sắp tới.
-Kanya Keomany cho biết: "May mắn là tại Lào, đặc biệt là trong thế hệ này và trong bóng đá nói riêng, chúng tôi được trao cơ hội bình đẳng giữa nam và nữ. Tuy nhiên, quan điểm và sự rập khuôn về bóng đá nữ, hoặc là phụ nữ đá bóng, vẫn cứ là một trở ngại trong việc đưa chị em phụ nữ đến với bóng đá".
-Dung Nhi
-Theo TS
+# url = https://dantri.com.vn/the-thao/khien-florentino-perez-noi-dien-cac-doi-bong-linh-hau-qua-cuc-lon-20210421191017231.htm
+# date = 20210421
+Chỉ 2 ngày sau khi tuyên bố thành lập, European Super League đang đối diện với nguy cơ lớn giải thể khi 9 CLB đã quyết định tháo chạy khỏi giải đấu. Ngoài 6 CLB Anh (Man Utd, Man City, Liverpool, Tottenham, Arsenal, Liverpool), còn có AC Milan, Inter và mới nhất là Atletico Madrid.
+Chỉ còn 3 CLB ở lại European Super League là Real Madrid, Barcelona và Juventus.
+Phát biểu trước báo giới, Chủ tịch European Super League, Florentino Perez khẳng định vẫn chưa có ý định dừng giải đấu, dù chỉ còn 3 CLB ở lại là Juventus, Barcelona và Real Madrid.
+Trước tình hình đó, Phó chủ tịch European Super League, Andrea Agnelli đã thừa nhận giải đấu có thể phải tạm ngừng sau sóng gió vừa qua.
+Tuy nhiên, tờ Marca nhấn mạnh rằng giải đấu chỉ "tạm ngừng", chứ chưa "hủy bỏ". Bởi lẽ, cuộc chiến liên quan tới European Super League vẫn còn rất nóng.
+Và giờ đây, mục tiêu của European Super League đã chuyển từ FIFA và UEFA sang nhóm "Big Six" ở Premier League. Đây là những đội bóng công khai "bắn phát súng" đầu tiên, rút đơn xin ra khỏi nhóm sáng lập. Điều đó khiến cho các CLB khác cũng "rủ nhau" tháo chạy khỏi European Super League.
+6 CLB Anh đối diện với nguy cơ mất số tiền lớn vì vi phạm thỏa thuận ở European Super League.
+Chủ tịch Florentino Perez nhấn mạnh rằng: "Không ai có thể rút lui khỏi dự án bởi có những điều khoản ràng buộc và nó đã có hiệu lực sau sự đồng thuận của 12 CLB vào thứ Bảy tuần trước".
+Nhà báo Pedrerol của đài El Chiringuito đã tiết lộ rằng người đứng đầu của Real Madrid sẽ có hành động pháp lý trong tương lai để chiến đấu lại với nhóm "Big Six".
+Nhiều tờ báo Anh (trong đó có Sky Sports) tiết lộ rằng 12 CLB đã đồng thuận ký vào bản hợp đồng có thời hạn... 23 năm (tức tới năm 2044). Do đó, mức đền bù của những CLB tháo chạy là rất lớn.
+Nhà báo Kaveh Solhekol của đài Sky Sports tiết lộ: "Bản hợp đồng có thời hạn tới 23 năm cho thấy mức độ nghiêm túc của họ. Tôi chắc chắn rằng các CLB đã ý thức được cuộc chiến pháp lý có thể nổ ra nếu như họ rút lui giữa chừng. Ban đầu, các CLB tham gia chưa nghĩ tới hậu quả lớn như vậy. Họ chỉ nghĩ mình có thể thi đấu ở giải đấu cấp cao hơn và có nhiều tiền hơn.
+Nhưng cuối cùng, các CLB Anh đã đầu hàng sớm bởi vi phạm các quy tắc cạnh tranh của EU và Vương quốc Anh".
+Chủ tịch Florentino Perez nổi điên, quyết làm tới cùng trong vụ này.
+Tờ Reuters cho rằng nguồn lợi quá lớn của European Super League mang lại (4,19 tỷ USD) sẽ giúp nhiều CLB sống khỏe trong bối cảnh ảnh hưởng đại dịch Covid-19 vừa qua. Điều đó đã "che mắt" họ. Khi đặt bút ký vào bản hợp đồng, họ không ý thức được sự phản đối quá lớn từ Chính phủ Anh và người hâm mộ.
+Khả năng những CLB tháo chạy bị phạt là rất lớn. Họ sẽ phải nộp một số tiền không nhỏ (chưa biết rõ con số chính thức trong hợp đồng). Dù thế nào, nó cũng khiến các CLB càng lao đao hơn sau cuộc khủng hoảng vì Covid-19.
+Điều đáng nói, các CLB chỉ thoát việc bị kiện nếu như cả 12 CLB tuyên bố rút lui. Điều này rất khó khi mà Real Madrid và Juventus vẫn cho thấy quyết tâm lớn.
+Sự lọc lõi của Florentino Perez là điều ai có thể dự đoán được trước. Và lần này, khi mà 6 CLB Anh đã khiến "ông trùm" nổi giận thì họ có thể phải chịu hậu quả vô cùng nặng nề.
+H.Long

@@ -1,16 +1,17 @@
 # doc_id = news_society_200
-# url = https://dantri.com.vn/xa-hoi/nhung-khoanh-khac-chien-truong-chua-tung-cong-bo-cua-liet-si-nhiep-anh-20210429182537592.htm
-# date = 20210429
-Trung sĩ, liệt sĩ Phan Tứ Kỷ được phân công làm nhiếp ảnh thuộc Phòng Chính trị, Sư đoàn 304, chiến đấu và hy sinh ở chiến trường Quảng Trị.
-Trung sĩ, Liệt sĩ Phan Tứ Kỷ sinh năm 1948, quê ở xã Quỳnh Đôi, huyện Quỳnh Lưu, tỉnh Nghệ An. 20 tuổi, anh nhập ngũ và được biên chế vào Phòng Chính trị Sư đoàn 304. Ngày 3/8/1972, anh hy sinh khi tham gia chiến đấu tại huyện Cam Lộ, tỉnh Quảng Trị.
-Với nhiệm vụ được phân công tại Phòng Chính trị Sư đoàn, với chiếc máy ảnh được trang cấp, Trung sĩ Phan Tứ Kỷ đã ghi lại nhiều khoảnh khắc đắt giá trong cuộc chiến đấu bảo vệ độc lập của dân tộc. Năm 1973, gia đình nhận được giấy báo tử cùng các di vật của liệt sĩ Phan Tứ Kỷ.
-Ông Phan Duy Hương, anh trai của liệt sĩ Phan Tứ Kỷ kể lại: "Trong chiếc túi vải vẫn còn nhuộm đỏ máu của Kỷ có nhiều thư từ, sổ sách, chiếc kèn acmonica và rất nhiều bức ảnh đen trắng".
-Gần 50 năm qua, ông Phan Duy Hương giữ gìn những di vật đó như báu vật. Mới đây, ông đã tặng lại Bảo tàng Quân khu 4 một phần di vật của người em trai liệt sĩ.
-"Nếu giữ lại, nó chỉ có ý nghĩa đối với riêng gia đình tôi. Tôi muốn tặng lại cho bảo tàng để phục vụ cho việc tuyên truyền, giáo dục thế hệ hôm nay về một giai đoạn trong lịch sử cuộc chiến đấu bảo vệ Tổ quốc. Nhất là, khi được trưng bày, giới thiệu đến đông đảo người dân, biết đâu, những người lính có mặt trong những bức ảnh hoặc người thân của họ có thể nhận ra và cung cấp cho chúng ta thêm nhiều thông tin về giai đoạn lịch sử này", ông Phan Duy Hương tâm sự.
-Những bức ảnh đen trắng, bé bằng chiếc tem thư được dán trong một cuốn sổ tay. Nhiều bức ảnh đã bị hư hỏng, mờ nhòe. Các bức ảnh không rõ chụp ở đâu, vào thời điểm nào, bên cạnh mỗi bức ảnh đều được ghi ký hiệu QĐ.
-Thiếu tá Phan Thị Thúy Nga - Bảo tàng Quân khu 4 cho biết: "Trung sĩ Phan Tứ Kỷ chiến đấu và hy sinh ở Quảng Trị. Căn cứ vào các tài liệu, thư từ của liệt sĩ Phan Tứ Kỷ có thể phán đoán những bức ảnh này được chụp tại chiến trường Quảng Trị, trong khoảng thời gian 1968-1972".
-Dân trí xin chọn và đăng tải một số bức ảnh của liệt sĩ Phan Tứ Kỷ:
-Trước giờ ra trận.
-Phút thư giãn giữa chiến trường.
-Hoàng Lam 
-(Chú thích ảnh do người viết đặt)
+# url = https://dantri.com.vn/xa-hoi/nut-giao-hinh-canh-hoa-khong-lo-hon-400-ty-dong-hien-dai-nhat-quang-ninh-20210428174453099.htm
+# date = 20210428
+Nút giao hình cánh hoa khổng lồ hơn 400 tỷ đồng hiện đại nhất Quảng Ninh
+Tọa lạc ở cửa ngõ TP. Hạ Long (Quảng Ninh), nút giao thông Minh Khai thuộc dự án đường nối thành phố Hạ Long tới cầu Bạch Đằng, với tổng mức đầu tư là hơn 400 tỷ đồng, đã hoàn thành và đưa vào sử dụng tháng 1/2021.
+Toàn cảnh nút giao thông hơn 400 tỷ đồng, hoành tráng nhất Quảng Ninh
+Dự án xây dựng nút giao Minh Khai được bắt đầu triển khai từ đầu năm 2019, thiết kế nút giao bao gồm các hạng mục: Thi công 8 nhánh rẽ với tổng chiều dài gần 5km, rộng 11m với 2 làn xe tốc độ tối đa 60km/h.
+Dự án do Ban quản lý Dự án đầu tư xây dựng các công trình giao thông tỉnh Quảng Ninh làm chủ đầu tư, đã hoàn thành và đưa vào sử dụng cuối tháng 1/2021.
+Nút giao thuộc phường Đại Yên, là vị trí trung tâm, cửa ngõ đi vào thành phố Hạ Long, nối liền với QL18 và giao cao tốc Hà Nội - Hải Phòng - Quảng Ninh, cao tốc Hạ Long - Vân Đồn.
+Hai cầu vượt QL18 được xây mới ở hai bên trái phải và song song với cầu vượt hiện hữu nâng tổng chiều rộng cầu vượt lên 36,75m gồm 8 làn xe, vận tốc tối đa cho phép 100km/h.
+4 đảo của đường dẫn lên cao tốc được trồng cỏ và trang trí các loại cây theo hình bông hoa 8 cánh.
+Tại tuyến đường QL18, vị trí lối dẫn lên cao tốc Hải Phòng - Quảng Ninh được hạn chế tốc độ 50km/h để đảm bảo an toàn giao thông.
+Cũng theo ghi nhận, tại vị trí giải phân cách giữa, ở các đảo, khu tam giác được trải thảm cỏ và trồng cây xanh, hoa theo mùa tạo cảnh quan xanh đồng bộ với tuyến đường cửa ngõ vào TP Hạ Long.
+Tuyến cao tốc Hạ Long - Vân Đồn cũng đã thông xe, giúp rút ngắn thời gian di chuyển cho các phương tiện ôtô qua lại.
+Trên mỗi cột đèn cao áp tại nút giao Minh Khai (TP Hạ Long) đều được treo cờ Tổ quốc và cờ Đảng đan xen nhau, chào mừng các ngày lễ lớn 30/4 và 1/5.
+Với thiết kế dạng hoa thị, nút giao Minh Khai được xây dựng trên diện tích 25,1ha tại phường Đại Yên (TP Hạ Long), giúp giải quyết được xung đột giao thông giữa QL18 với các phương tiện lên xuống cao tốc; kết nối đồng bộ các hạ tầng giao thông của tỉnh Quảng Ninh.
+Quân Đỗ - An Nhiên

@@ -1,9 +1,33 @@
 # doc_id = news_society_189
-# url = https://dantri.com.vn/xa-hoi/ngay-dau-nghi-le-13-nguoi-chet-vi-tai-nan-giao-thong-20210501072003025.htm
-# date = 20210501
-So với ngày lễ 30/4/2020, số vụ tai nạn giao thông giảm 2, giảm 1 người chết, 1 người bị thương. Đường sắt và đường thủy không xảy ra tai nạn giao thông.
-Thực hiện cao điểm của Cục Cảnh sát giao thông về bảo đảm trật tự, an toàn giao thông, trật tự xã hội dịp lễ 30/4, 1/5, bảo vệ bầu cử đại biểu Quốc hội khóa XV và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2021 -2026, lực lượng Cảnh sát giao thông toàn quốc đã nỗ lực bảo đảm trật tự, an toàn giao thông. Qua công tác tuần tra kiểm soát, lực lượng Cảnh sát giao thông đã kiểm tra, lập biên bản gần 8.400 trường hợp vi phạm trật tự, an toàn giao thông, phạt hành chính gần 11 tỷ đồng.
-Cục Cảnh sát giao thông cho biết, qua trích xuất dữ liệu trên hệ thống giám sát, trong khoảng thời gian từ 8h06 đến 8h38 ngày 30/4 tại 1 điểm camera giám sát trên cao tốc Pháp Vân - Cầu Giẽ đã ghi nhận 91 trường hợp vi phạm (49 phương tiện đi vào làn dừng khẩn cấp, 42 trường hợp lái xe không thắt dây an toàn).
-Cũng qua hệ thống giám sát cho thấy, lưu lượng phương tiện trên các tuyến giao thông từ 0h đến 12h ngày 30/4 tăng cao, trong đó tuyến cao tốc Thành phố Hồ Chí Minh - Trung Lương có gần 74.000 phương tiện (cùng kỳ năm 2020 là 51.162 phương tiện), cao tốc Long Thành - Dầu Giây có gần 57.000 phương tiện, cao tốc Nội Bài - Lào Cai có gần 51.500 phương tiện…
-Vân Nhật
-TTXVN
+# url = https://dantri.com.vn/xa-hoi/nguoi-csgt-da-giai-cuu-hang-tram-cho-meo-gap-nan-20210428135813708.htm
+# date = 20210428
+"Giật" chó, mèo khỏi lò mổ
+Anh Lê Hùng Dương bên cạnh những vật nuôi được giải cứu.
+Nằm khuất sâu trong con hẻm nhỏ trên đường Y Moal (phường Tân Lợi, TP Buôn Ma Thuột, Đắk Lắk) là căn nhà nhỏ với tên gọi "Nhà của cún em". Đây hiện là nơi sinh sống của hàng chục chú chó, mèo có hoàn cảnh "đặc biệt" mà anh Lê Hùng Dương (31 tuổi, cán bộ Đội CSGT TP Buôn Ma Thuột, Công an tỉnh Đắk Lắk) đã giải cứu.
+4 năm qua, anh Dương đã giải cứu được khoảng 200 cá thể chó mèo các loại.
+Bước vào căn nhà là thấy ngay hàng chục chú chó đang chực sẵn, sủa lớn nhưng tuyệt nhiên không có con nào hung hãn, xông tới người lạ. Chạy tới xua tay, ra lệnh cho đàn chó bớt sủa, anh Dương trấn an để mọi người yên tâm vì "các bé chó ở đây ngoan lắm, không cắn người đâu!".
+Tiếp chúng tôi sau một đêm dài mất ngủ vì đi giải cứu một chú chó gặp nạn, anh Dương, đôi mắt vẫn còn đỏ ngầu, vừa ăn tạm bát mì tôm trộn cơm nguội. Anh kể lại cơ duyên đến với việc giải cứu chó mèo.
+Năm 2017, trong một buổi tối đi làm về, anh Dươngtình cờ phát hiện 2 đối tượng chạy xe máy chở theo 2 bao tải có dấu hiệu nghi vấn nên lập tức đuổi theo. Lúc này, do hoảng sợ, các đối tượng đã ném bao tải xuống đất rồi bỏ chạy thoát thân.
+Mở bao tải ra, anh Dương thấy rất nhiều chó bên trong. Trong số này, có một con chó cái đang mang thai gần sinh nở nhưng bị chích điện và nhốt bao bịt kín, ngạt thở, cơ thể đang rất yếu. Anh vội mang "nạn nhân" về nhà trọ, chăm sóc.
+"Bé Trề" được anh Dương nuôi từ khi lọt lòng mẹ đến nay.
+Chỉ khoảng 30 phút sau, con chó mẹ cho ra đời hai con chó con rồi lăn ra chết vì kiệt sức. Lúc này, một con chó con cũng chết, chỉ còn lại chú chó nhỏ thở thoi thóp. Quá thương chú chó, anh Dương lật đật bế chó đi tìm bác sĩ thú y để cấp cứu và nỗ lực bằng mọi cách giữ được mạng sống cho nó.
+Cứu được chó nhỏ, anh Dương mừng hơn "bắt được vàng". Anh đặt tên chú chó là "bé Trề". Sau khi cứu "bé Trề", cơ duyên lại đưa anh đến với việc giải cứu cả trăm cá thể chó, mèo các loại.
+Cứ vậy, tình thương dành cho đàn chó, mèo ngày càng lớn trong anh, khiến anh trở thành người "bao đồng", chuyên giải cứu chó bị chích điện, bị đánh đập, bỏ rơi, thậm chí chuẩn bị vào lò mổ để phục vụ các quán nhậu đông khách...
+Gần đây, vừa tan làm thì anh nghe tin một chú chó bị cột chặt mõm, sắp bị đưa vào lò mổ rồi may mắn vùng thoát được và đang chạy lang thang tại khu vực chợ tại huyện Krông Búk. Anh vội vàng cùng một người bạn chạy xe máy hơn 70km đi tìm chú chó đáng thương.
+Anh Dương ôm "bé Rằm", chú chó từng bị chủ lò mổ cột mõm, chuẩn bị làm thịt.
+"Tôi biết bé chó bị cột chặt miệng hiện đang rất đói, khát nên nếu không sớm cứu được thì chắc chắn nó sẽ chết. Sau hơn 16 giờ đồng hồ tìm kiếm tôi mới tìm được chú chó khi nó đã mệt lả. Chỉ khi ôm "bé" vào lòng tôi mới an tâm được. Tôi đặt tên cu cậu là "bé Rằm" do được cứu vào đúng ngày rằm" - anh Dương bồi hồi nhớ lại.
+Có những lần anh Dương phải vào tận lò mổ, kỳ kèo giá cả với chủ lò khi bị hét giá để mua lại chú chó sắp bị thịt với giá từ 65.000 - 80.000 đồng/kg.
+"Chó mèo là bạn, không phải là thức ăn!"
+Mang hàng chục chú chó, mèo về phòng trọ để nuôi, căn phòng của anh Dương vốn đã nhỏ thành ra chật ních. Quý mến trước tấm lòng của anh Dương, một doanh nhân tại TP Buôn Ma Thuột đã cho anh ở nhờ tại một căn nhà cấp bốn trong khuôn viên khu vườn khá rộng phía sau để anh tiếp tục việc nuôi dưỡng những chú chó mèo kém may mắn.
+Với những chú chó bị bắt đem bán vào lò mổ, anh Dương đều tìm cách để mua lại đem về nuôi.
+Yêu chó mèo, anh Dương dành tiền lương để mua đồ ăn, lo khám chữa bệnh cho chúng. Dịp cuối tuần rảnh, anh còn tranh thủ đi phụ bốc vác, phụ hồ… kiếm thêm tiền mua gạo và thức ăn cho các "bé".
+"Nói thật các "bé" mình nuôi chỉ gọi là được ăn để sống chứ chưa được ăn ngon như ở nhà khác. Nhưng mình vẫn cố nuôi thật tốt và không để các "bé" bị đói, cũng không khổ sở vì bị hành hạ", anh Dương tâm sự.
+Thức ăn cho đàn chó mèo được anh chế biến mỗi ngày.
+Việc giải cứu cho mèo không phải dễ dàng. Trên cơ thể anh Dương chi chít những vết thương lớn nhỏ khi bị chó cắn, mèo cào. Đến nay đã 6 lần anh phải tiêm vắc xin phòng bệnh dại, thậm chí có những lần anh phải nhập viện vì phản ứng thuốc. Dù vậy, chưa một lần anh nghĩ đến việc sẽ từ bỏ công việc này.
+"Việc bị chó cắn cũng trở nên bình thường với mình rồi, cái cảm giác cứu được một chú chó, dù bị nó cắn, vẫn cảm thấy nhẹ nhõm lắm. Đi làm về có mệt mỏi bao nhiêu nhưng chỉ cần thấy bầy chó, mèo chạy ào ra đón, vẫy đuôi vui vẻ, tôi cũng thấy hạnh phúc khó tả. Mỗi cu cậu một tính cách nhưng chung quy lại đều rất đáng yêu", anh Dương xúc động nói.
+Hiện việc giải cứu chó, mèo, ngoài anh Dương còn có một số bạn bè của anh cùng tham gia. Trong số đó có anh Nguyễn Hoàng Phát, chủ một cơ sở thú y tại TP Buôn Ma Thuột. Anh Phát nhận khám, chữa trị miễn phí cho những vật nuôi được giải cứu, đưa về.
+4 năm lặng lẽ làm công việc nhiều người cho là "dị", anh Dương cùng các bạn đã giải cứu được khoảng 200 con chó, mèo các loại. Nhiều chủ nhân những vật nuôi bị thất lạc đã tìm đến xin nhận lại thú cưng. Cũng có nhiều người yêu chó, mèo đến xin về nuôi.
+Anh Dương chỉ ra một điều kiện duy nhất là người nuôi cam kết không ăn thịt chó, mèo, không hành hạ chúng.
+Biết được việc làm ý nghĩa của anh Dương, nhiều người đã quyên góp tiền để giúp anh có thêm chi phí chăm sóc đàn thú cưng mỗi ngày một nhiều. Tuy vậy, anh Dương cũng chỉ nhận sự giúp đỡ khi thực sự cần thiết.
+Trước khi chia tay chúng tôi anh Dương nhắn gửi việc anh giải cứu chó mèo xuất phát từ tình thương yêu với chúng và mong truyền tải được thông điệp với mọi người rằng, "chó mèo là bạn không phải là thức ăn", "không có người ăn thịt, nạn trộm cắp chó, mèo mới giảm đi".
+Thúy Diễm

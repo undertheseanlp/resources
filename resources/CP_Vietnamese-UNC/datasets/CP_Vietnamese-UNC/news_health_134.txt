@@ -1,14 +1,17 @@
 # doc_id = news_health_134
-# url = https://dantri.com.vn/suc-khoe/hang-chuc-nguoi-co-phan-ung-nhe-sau-khi-tiem-vac-xin-phong-dich-covid-19-20210428194311240.htm
-# date = 20210428
-Ban chỉ đạo phòng, chống dịch bệnh Covid-19 tỉnh Cà Mau cho biết, qua 3 ngày (từ 26 - 28/4) thực hiện việc tiêm vắc xin AstraZeneca phòng dịch Covid-19 đợt 1, tỉnh này có 1.893 người được tiêm vắc xin ở 7 đơn vị.
-Có 160 người phải tạm hoãn (chủ yếu lực lượng của Bệnh viện đa khoa tỉnh Cà Mau), riêng trong ngày 28/4 là 76 người.
-Trong hàng ngàn trường hợp trên, có 330 trường hợp có phản ứng nhẹ sau tiêm chủng. Tính riêng ngày tiêm 28/4 có 50 trường hợp.
-Theo Ban Chỉ đạo phòng, chống dịch Covid-19 tỉnh Cà Mau, các trường hợp có phản ứng nhẹ sau khi tiêm vắc xin là rất bình thường. Những người sau khi tiêm sẽ được tiếp tục theo dõi sức khỏe theo quy định.
-Ghi thông tin tiêm vắc xin phòng dịch Covid-19 ở Cà Mau (Ảnh minh họa).
-Cho đến nay, Cà Mau vẫn còn đang điều trị 5 người mắc Covid-19, gồm BN2599, BN2600, BN2639, BN2640, BN2641.
-Trong ngày 28/4, tỉnh cũng xét nghiệm các mẫu bệnh Covid-19 nói trên, trong đó có 1 mẫu dương tính lần 8 đối với SARS-CoV-2 (BN2600), 3 mẫu âm tính lần 1 (BN2599, BN2639, BN2640), 1 mẫu âm tính lần 4 (BN2641).
-Ngoài ra, còn có 3 mẫu âm tính SARS-CoV-2 là tài xế và cán bộ phục vụ tại khu cách ly.
-Trước tình hình dịch bệnh Covid-19 hiện nay đang diễn biến phức tạp, đặc biệt là tại các nước láng giềng và các tỉnh biên giới Tây Nam, Chủ tịch tỉnh Cà Mau, ông Lê Quân "hỏa tốc" chỉ đạo các đơn vị trong tỉnh hạn chế tổ chức các hoạt động, sự kiện mang tính chất giải trí không cần thiết.
-Yêu cầu các đơn vị, địa phương tăng cường thanh, kiểm tra việc thực hiện các biện pháp phòng, chống dịch bệnh Covid-19, phát hiện kịp thời và xử lý nghiêm các trường hợp vi phạm quy định, đặc biệt là đối với trường hợp không đeo khẩu trang tại nơi công cộng, điểm tập trung đông người, điểm tổ chức vui chơi, tham quan du lịch…
-Huỳnh Hải
+# url = https://dantri.com.vn/suc-khoe/hoan-tat-tiem-thu-nghiem-mui-1-vac-xin-covivac-20210420151538824.htm
+# date = 20210420
+Thông tin được chia sẻ bởi PGS.TS Vũ Đình Thiểm, Giám đốc Trung tâm thử nghiệm lâm sàng, Viện Vệ sinh Dịch tễ Trung ương.
+Theo PGS Thiểm, đến nay vẫn chưa ghi nhận phản ứng bất thường ở các tình nguyện viên. Các phản ứng phụ ghi nhận đều chỉ ở mức nhẹ và trung bình như: đau nhức vùng tiêm, đau mỏi cơ, sốt nhẹ. Tình trạng sức khỏe của các tình nguyện viên đều ổn định.
+Hiện tại Đại học Y Hà Nội vẫn đang tiếp tục tiêm mũi vắc xin Covivac thứ hai cho các tình nguyện viên đã đủ 28 ngày kể từ tiêm mũi đầu tiên.
+Tiêm vắc xin Covid-19 cho tình nguyện viên.
+"Theo dự kiến, toàn bộ mũi thứ hai của giai đoạn thử nghiệm đầu tiên sẽ được hoàn tất tiêm thử vào ngày 15/5. Cuối tháng 5, chúng tôi sẽ có báo cáo lên Bộ Y tế. Nếu được thông qua, giai đoạn thử nghiệm thứ hai sẽ được triển khai vào tháng 6, tại Trung tâm Y tế huyện Vũ Thư, Thái Bình", PGS Thiểm cho hay.
+120 tình nguyện viên thử nghiệm lâm sàng giai đoạn 1 được chia thành 5 nhóm để tiêm với các mức liều khác nhau: 3 nhóm vắc xin không có tá chất với các mức liều: 1mcg; 3mcg; 10mcg; 1 nhóm vắc xin mức liều 1mcg có bổ sung tá chất; 1 nhóm gồm 20 người tiêm giả dược (nước muối vô trùng dùng để tiêm) để so sánh với những nhóm tiêm vắc xin trên.
+Theo TS Dương Hữu Thái, Viện trưởng IVAC, vắc xin Covivac được phát triển trên công nghệ truyền thống là nuôi cấy trên trứng gà có phôi. Đây là công nghệ đã được IVAC phát triển vắc xin cúm mùa.
+Quy trình sản xuất vắc xin Covivac có thể được tóm gọn như sau:
+- Trứng sạch của giống gà Pháp phù hợp với nghiên cứu sẽ được lựa chọn để nuôi cấy. Trứng đã được ấp nên đã hình thành phôi lẫn dịch niệu đệm.
+- Chủng virus được tiêm vào dịch niệu đệm của trứng. Đây là công đoạn nuôi cấy virus.
+- Khi virus đã nhân bản bên trong túi dịch thì hút dịch chứa virus ra ngoài.
+- Tiến hành tinh chế, lọc tách để lấy virus và dùng hóa chất để bất hoạt virus. Bản thân virus không còn khả năng gây bệnh nhưng vẫn giữ nguyên đặc tính ban đầu. Virus bất hoạt này được sử dụng để bào chế và sản xuất vắc xin.
+Nhà máy sản xuất vắc xin của IVAC đạt chuẩn GMP - WHO, quy mô ước tính 6 triệu liều/năm, có thể mở rộng lên 30 triệu liều/năm. Một mẻ sản xuất ước tính khoảng 50.000-100.000 liều.
+Minh Nhật

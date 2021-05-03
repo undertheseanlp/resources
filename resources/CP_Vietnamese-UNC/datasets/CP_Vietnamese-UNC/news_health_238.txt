@@ -1,19 +1,29 @@
 # doc_id = news_health_238
-# url = https://dantri.com.vn/suc-khoe/toa-dam-truc-tuyen-viem-gan-virus-cach-phong-va-dieu-tri-hieu-qua-20210427090337164.htm
-# date = 20210427
-Hiện nay đang tồn tại 5 loại viêm gan do virus gây ra, được gọi là các loại A, B, C, D và E. Trong đó, viêm gan B, C nguy hiểm hơn cả vì mức độ lây truyền nhanh chóng và người nhiễm hai loại siêu vi này đều rất mơ hồ về biểu hiện.
-Gan là cơ quan trọng yếu của cơ thể, quyết định tình trạng sức khỏe của cơ thể. Gan vừa như một tổng kho dự trữ năng lượng, vừa là "nhà máy xử lý rác thải" giúp loại bỏ các chất độc hại ra khỏi cơ thể. Tuy nhiên khi gan bị tổn thương, cụ thể ở đây là bị các loại virus tấn công (gây viêm gan virus) sẽ khiến chức năng gan bị suy giảm, làm chậm các quá trình nói trên.
-Trong số các loại viêm gan virus, viêm gan virus B hiện đang là vấn nạn nhức nhối hàng đầu.
-Ước tính hơn 400 triệu người mắc viêm gan B trên thế giới. Cứ mỗi phút lại có 2 người chết vì những biến chứng do viêm gan B gây ra.
-Tại Việt Nam, có tới hơn 8 triệu người mắc viêm gan B mạn tính, mỗi năm có tới hơn 25.000 người chết do biến chứng từ căn bệnh này, tiêu tốn hơn 3000 tỉ đồng mỗi năm để điều trị.
-Do cơ chế tồn tại dai dẳng của virus viêm gan ở tế bào gan của người bệnh, nên ngay cả những liệu pháp điều trị hiện đại nhất cũng có tỷ lệ đáp ứng nhất định và tiềm ẩn nhiều nguy cơ kháng thuốc. Việc điều trị cần có sự giám sát chặt chẽ, đánh giá hiệu quả, giám sát tình trạng kháng thuốc và không ngừng nâng cao thể trạng cũng như chức năng gan của bệnh nhân.
-Nhà báo Nguyễn Xuân Toàn- Phó Tổng Biên tập báo điện tử Dân trí tặng hoa tới các vị khách mời của chương trình.
-Cho đến nay, y học vẫn chưa tìm ra cách điều trị triệt để căn bệnh này. Mục đích điều trị cốt yếu là kích thích hệ miễn dịch để cơ thể tự tìm cách diệt và đào thải virus ra khỏi cơ thể, giảm thiểu sự nhân lên của virus và quan trọng nhất là ngăn ngừa biến chứng nguy hiểm của bệnh là xơ gan và ung thư gan.
-Để độc giả hiểu hơn về cách phòng cũng như điều trị căn bệnh này, Báo Dân trí tổ chức buổi Tọa đàm trực tuyến "Viêm gan virus - Cách phòng và điều trị hiệu quả".
-Khách mời của buổi tọa đàm gồm:
-1. GS.TS.TTND Nguyễn Văn Mùi - Nguyên Phó GĐ Bệnh viện Quân Y 103, Chủ tịch Hội đồng viết phác đồ điều trị viêm gan B.
-2. PGS.TS.BS Trịnh Thị Xuân Hòa - Nguyên Chủ nhiệm bộ môn Truyền nhiễm - Bệnh viện Quân y 103; Cán bộ kiêm nhiệm bộ môn Truyền nhiễm - Bệnh viện Bệnh Nhiệt đới Trung ương.
-Buổi Tọa đàm trực tuyến bắt đầu vào 9h sáng ngày 28/4. Mời các bạn theo dõi toàn bộ cuộc giao lưu tại đây:
-Chương trình nhận được rất nhiều câu hỏi từ bạn đọc, tuy nhiên do thời lượng có hạn nên xin tạm dừng tại đây. Mọi câu hỏi và thắc mắc, quý độc giả có thể gửi về hộp thư suckhoe@dantri.com.vn, chúng tôi sẽ gửi tới các chuyên gia và trả lời bạn đọc qua email.
-Cảm ơn các bạn đã tham gia, theo dõi chương trình.
-Sức khỏe
+# url = https://dantri.com.vn/suc-khoe/toi-234-them-6-ca-covid-19-tai-5-dia-phuong-20210423181657853.htm
+# date = 20210423
+Tính từ 6h đến 18h ngày 23/4, nước ta có thêm 6 ca mắc Covid-19 (BN2825-2830) được cách ly ngay sau khi nhập cảnh tại Đà Nẵng (1), Bà Rịa - Vũng Tàu (1), Khánh Hòa (2), An Giang (1), TP HCM (1).
+Cụ thể:
+- CA BỆNH 2825 (BN2825) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nam, 37 tuổi, công dân Việt Nam, địa chỉ tại quận Hoàng Mai, Thành phố Hà Nội.
+Ngày 8/4, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Quốc tế Đà Nẵng trên chuyến bay VJ8679 và được cách ly ngay sau khi nhập cảnh tại Thành phố Đà Nẵng. Kết quả xét nghiệm ngày 22/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Phổi Đà Nẵng.
+- CA BỆNH 2826 (BN2826) ghi nhận tại tỉnh Bà Rịa - Vũng Tàu: Bệnh nhân nam, 50 tuổi, quốc tịch Philippines, là thuyền viên trên tàu di chuyển từ Trung Quốc đến tỉnh Bà Rịa - Vũng Tàu ngày 18/4.
+Đây là trường hợp được cách ly ngay trên tàu tại khu vực neo đậu Cảng vụ hàng hải Vũng Tàu. Kết quả xét nghiệm ngày 22/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Trung tâm Y tế huyện Long Điền.
+- CA BỆNH 2827 (BN2827) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nam, 37 tuổi, quốc tịch Ấn Độ, là chuyên gia.
+Bệnh nhân từ Ấn Độ quá cảnh Dubai, Hàn Quốc, sau đó nhập cảnh Sân bay Cam Ranh trên chuyến bay OZ773 ngày 20/4và được cách ly ngay sau khi nhập cảnh tại tỉnh Khánh Hòa. Kết quả xét nghiệm ngày 22/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới tỉnh Khánh Hòa.
+- CA BỆNH 2828 (BN2828) ghi nhận tại tỉnh An Giang: Bệnh nhân nam, 23 tuổi, công dân Việt Nam, địa chỉ tại huyện An Phú, tỉnh An giang.
+Ngày 20/4 bệnh nhân trên từ nước ngoài nhập cảnh tại Cửa khẩu Long Bình và được cách ly ngay sau khi nhập cảnh tại tỉnh An Giang. Kết quả xét nghiệm ngày 22/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Trung tâm y tế huyện An Phú, tỉnh An Giang.
+- CA BỆNH 2829 (BN2829) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nữ, 23 tuổi, công dân Việt Nam, địa chỉ tại huyện Long Điền, tỉnh Bà Rịa - Vũng Tàu.
+Bệnh nhân từ Nga nhập cảnh Sân bay Cam Ranh trên chuyến bay VN62 ngày 18/4 và được cách ly ngay sau khi nhập cảnh tại tỉnh Khánh Hòa. Kết quả xét nghiệm ngày 22/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới tỉnh Khánh Hòa.
+- CA BỆNH 2830 (BN2830) ghi nhận tại TP HCM: Bệnh nhân nữ, 27 tuổi, công dân Việt Nam, địa chỉ tại quận Hoàn Kiếm, Thành phố Hà Nội.
+Ngày 21/4, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Tân Sơn Nhất trên chuyến bay JL759 và được cách ly ngay sau khi nhập cảnh tại TPHCM. Kết quả xét nghiệm ngày 22/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Dã chiến Củ Chi.
+Tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 39.191, trong đó:
+- Cách ly tập trung tại bệnh viện: 518
+- Cách ly tập trung tại cơ sở khác: 23.688
+- Cách ly tại nhà, nơi lưu trú: 14.985.
+Về tình hình điều trị, theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế:
+- Số ca âm tính với SARS-CoV-2:
++ Lần 1: 12
++ Lần 2: 11
++ Lần 3: 17
+- Số ca tử vong: 35 ca.
+- Số ca điều trị khỏi: 2.490 ca.
+Nam Phương

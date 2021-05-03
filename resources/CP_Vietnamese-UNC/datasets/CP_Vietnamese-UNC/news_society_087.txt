@@ -1,11 +1,13 @@
 # doc_id = news_society_087
-# url = https://dantri.com.vn/xa-hoi/cuu-vo-roi-xuong-ham-biogas-chong-tu-vong-20210425130714409.htm
-# date = 20210425
-Sáng 25/4, ông Đặng Văn Hướng, Chủ tịch UBND xã Đắk Ha (huyện Đắk G'Long) xác nhận, trên địa bàn vừa xảy ra một vụ tai nạn rơi xuống hầm biogas, khiến 1 người chết, 1 người bị thương.
-Vụ tai nạn xảy ra vào lúc 16 giờ 30 phút ngày 24/4, tại thôn 3, xã Đắk Ha.
-Theo thông tin từ gia đình nạn nhân, trước đó, ông Nguyễn Đ.H. (SN 1958) cùng vợ là bà Nguyễn T.X. sửa ống thoát của hầm biogas.
-Trong quá trình sửa, bà X. bị trượt chân rơi xuống hầm biogas, ông H. đã xuống đưa bà X. lên. Bà X. khi đưa lên thì bị ngất, còn ông H. chỉ hơi mệt, vẫn đi lại được.
-Sau khi vệ sinh thân thể, bà X. được đưa đi cấp cứu tại Bệnh viện Đa khoa tỉnh Đắk Nông.
-Riêng ông H. sau khi tắm xong thấy người mệt rồi yếu dần, gia đình cũng đưa đi cấp cứu nhưng trên đường chuyển xuống bệnh viện tại TP. Hồ Chí Minh, ông H. đã tử vong.
-Hiện bà X. đang được điều trị tích cực tại Bệnh viện Chợ Rẫy TP Hồ Chí Minh.
-Dương Phong
+# url = https://dantri.com.vn/xa-hoi/da-nang-ra-soat-cac-su-kien-le-hoi-dip-304-15-20210427165454266.htm
+# date = 20210427
+Đà Nẵng rà soát các sự kiện, lễ hội; hạn chế tập trung đông người để phòng dịch Covid-19.
+Chiều 27/4, trước tình hình dịch bệnh Covid-19 diễn biến phức tạp, một bộ phận người dân có tư tưởng lơ là, chủ quan sau thời gian không có ca nhiễm mới trong cộng đồng, nguy cơ bùng phát dịch lớn, nhất là trong dịp nghỉ lễ 30/4-1/5 tới, Thành ủy Đà Nẵng có công điện truyền đạt đề nghị trên.
+Ban Thường vụ Thành ủy Đà Nẵng đồng thời đề nghị chính quyền các cấp, đơn vị chức năng tăng cường các biện pháp phòng, chống dịch đã đề ra với phương châm "phòng ngừa tích cực, phát hiện sớm, cách ly nhanh, điều trị hiệu quả, xử lý dứt điểm, nhanh chóng ổn định tình hình", kiên quyết không để dịch bệnh bùng phát trên địa bàn thành phố.
+Ban cán sự đảng Ủy ban nhân dân thành phố rà soát, hoàn chỉnh các kế hoạch, phương án, biện pháp phòng, chống dịch Trước mắt, tập trung đảm bảo an toàn phòng, chống dịch trong quá trình tổ chức Cuộc bầu cử đại biểu Quốc hội khóa XV, bầu cử đại biểu hội đồng nhân dân các cấp nhiệm kỳ 2021-2026 và các hoạt động trong mùa du lịch hè năm 2021 trên địa bàn thành phố.
+Đồng thời, rà soát tất cả sự kiện, lễ hội trên địa bàn thành phố trong thời gian đến, tiếp tục hạn chế các sự kiện tập trung đông người không cần thiết; trường hợp tổ chức phải thực hiện nghiêm các yêu cầu, quy định công tác phòng, chống dịch.
+Các trường hợp vi phạm quy định phòng, chống dịch nơi công cộng, nhất là không đeo khẩu trang sẽ được xử lý nghiêm.
+Tại những nơi có nguy cơ dễ xảy ra lây nhiễm như khu vực tập trung đông người, yêu cầu mọi người dân phải thực hiện nghiêm biện pháp 5K; tổ chức lực lượng kiểm tra, xử lý nghiêm các trường hợp vi phạm quy định phòng, chống dịch, nhất là việc không đeo khẩu trang.
+Công điện củaBan Thường vụ Thành ủy Đà Nẵng cũng lưu ý, tổ chức khai báo y tế đối với các du khách đến thành phố với hình thức phù hợp, không gây trở ngại nhưng phải đảm bảo cơ bản đầy đủ thông tin.
+Trường hợp phát hiện ca bệnh, phải tập trung chỉ đạo, áp dụng ngay các biện pháp khoanh vùng, truy vết, cách ly. Việc áp dụng các biện pháp cách ly, phong tỏa, giãn cách xã hội phải theo phương châm thiết thực, hiệu quả; bảo đảm an toàn nhưng không để sản xuất, kinh doanh bị đình trệ ở quy mô quá mức cần thiết; hạn chế tối đa tác động bất lợi đến các hoạt động sản xuất, kinh doanh và đời sống nhân dân.
+Tâm An

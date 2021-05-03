@@ -1,34 +1,14 @@
 # doc_id = news_health_243
-# url = https://dantri.com.vn/suc-khoe/toi-254-viet-nam-them-10-ca-mac-covid-19-20210425180538696.htm
-# date = 20210425
-Tính từ 6h đến 18h ngày 25/4, nước ta có 10 ca mắc mới Covid-19 (BN2384-2843) được cách ly ngay sau khi nhập cảnh tại Hà Nội (1), Khánh Hòa (6), Đà Nẵng (3).
-Cụ thể:
-- CA BỆNH 2834 (BN2834) ghi nhận tại Thành phố Hà Nội: Bệnh nhân nam, 23 tuổi, công dân Việt Nam, địa chỉ tại tỉnh Bắc Ninh.
-Ngày 23/4, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Nội Bài trên chuyến bay JL751 và được cách ly ngay sau khi nhập cảnh tại Thành phố Hà Nội. Kết quả xét nghiệm ngày 24/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh.
-- CA BỆNH 2835 (BN2835) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nữ, 54 tuổi, công dân Việt Nam, địa chỉ tại huyện Củ Chi, TP HCM.
-Ngày 19/4, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Cam Ranh trên chuyến bay VJ5139 và được cách ly ngay sau khi nhập cảnh tại tỉnh Khánh Hòa. Kết quả xét nghiệm lần 2 ngày 24/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Lao và Bệnh phổi tỉnh Khánh Hòa.
-- CA BỆNH 2836 (BN2836) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nữ, 19 tuổi, công dân Việt Nam, địa chỉ tại quận Đống Đa, Thành phố Hà Nội.
-Ngày 10/4, bệnh nhân từ Đức nhập cảnh Sân bay Cam Ranh trên chuyến bay VN30 và được cách ly ngay sau khi nhập cảnh tại tỉnh Khánh Hòa. Kết quả xét nghiệm lần 2 ngày 24/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Lao và Bệnh phổi tỉnh Khánh Hòa.
-- CA BỆNH 2837 (BN2837) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nam, 25 tuổi, công dân Việt Nam, địa chỉ tại huyện Thủy Nguyên, Thành phố Hải Phòng.
-- CA BỆNH 2838 (BN2838) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nam, 22 tuổi, công dân Việt Nam, địa chỉ tại huyện Thường Xuân, tỉnh Thanh Hóa.
-- CA BỆNH 2839 (BN2839) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nam, 25 tuổi, công dân Việt Nam, địa chỉ tại thị xã Bỉm Sơn, tỉnh Thanh Hóa.
-- CA BỆNH 2840 (BN2840) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nam, 22 tuổi, công dân Việt Nam, địa chỉ tại huyện Thanh Chương, tỉnh Nghệ An.
-Ngày 22/4, BN2837-2840 từ Nhật Bản nhập cảnh Sân bay Cam Ranh trên chuyến bay QH9413 và được cách ly ngay sau khi nhập cảnh tại tỉnh Khánh Hòa. Kết quả xét nghiệm ngày 24/4 dương tính với SARS-CoV-2. Hiện các bệnh nhân được cách ly, điều trị tại Bệnh viện Lao và Bệnh phổi tỉnh Khánh Hòa.
-- CA BỆNH 2841 (BN2841) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nam, 25 tuổi, công dân Việt Nam, địa chỉ tại huyện Nam Đàn, tỉnh Nghệ An.
-Ngày 23/4, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Quốc tế Đà Nẵng trên chuyến bay VJ3613 và được cách ly ngay sau khi nhập cảnh tại Thành phố Đà Nẵng. Kết quả xét nghiệm ngày 24/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Phổi Đà Nẵng.
-- CA BỆNH 2842 (BN2842) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nam, 26 tuổi, công dân Việt Nam, địa chỉ tại huyện Mỹ Đức, Thành phố Hà Nội.
-Ngày 23/4, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Quốc tế Đà Nẵng trên chuyến bay VJ8859 và được cách ly ngay sau khi nhập cảnh tại Thành phố Đà Nẵng. Kết quả xét nghiệm ngày 24/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Phổi Đà Nẵng.
-- CA BỆNH 2843 (BN2843) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nữ, 24 tuổi, công dân Việt Nam, địa chỉ tại quận Bắc Từ Liêm, Thành phố Hà Nội.
-Ngày 21/4, bệnh nhân từ Nga nhập cảnh Sân bay Quốc tế Đà Nẵng trên chuyến bay VN5062 và được cách ly ngay sau khi nhập cảnh tại Thành phố Đà Nẵng. Kết quả xét nghiệm ngày 24/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Phổi Đà Nẵng.
-Tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 40.846, trong đó:
-- Cách ly tập trung tại bệnh viện: 514
-- Cách ly tập trung tại cơ sở khác: 25.360
-- Cách ly tại nhà, nơi lưu trú: 14.972
-Về tình hình điều trị, theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế:
-- Số ca âm tính với SARS-CoV-2:
-+ Lần 1: 13
-+ Lần 2: 15
-+ Lần 3: 20
-- Số ca tử vong: 35 ca.
-- Số ca điều trị khỏi: 2.516 ca.
-Nam Phương
+# url = https://dantri.com.vn/suc-khoe/tphcm-5560-nguoi-co-phan-ung-sau-tiem-vac-xin-covid-19-20210426145028751.htm
+# date = 20210426
+Báo cáo của Sở Y tế, TPHCM tại cuộc họp Ban chỉ đạo về tình hình dịch Covid-19 trên địa bàn (ngày 26/4) cho thấy, thành phố đã kết thúc đợt 1 tiêm vắc xin Covid-19 cho các nhóm đối tượng tham gia nơi tuyến đầu chống dịch. Cụ thể, ngành y tế đã tổ chức tiêm cho 9.155 người là nhân viên y tế và nhân viên khu cách ly tập trung. Ngoài ra, ngành y tế hỗ trợ ngành công an tổ chức tiêm vắc xin cho 1.000 cán bộ, chiến sĩ tham gia lực lượng phòng chống dịch.
+Hơn 10.000 nghìn người nơi tuyến đầu chống dịch tại TPHCM đã được chích vắc xin ngừa Covid-19 trong đợt 1 (ảnh: Phạm Nguyễn).
+Tổng kết công tác tiêm vắc xin lần thứ nhất của Sở Y tế ghi nhận có 5.560 người gặp các phản ứng thông thường sau tiêm với các dấu hiệu như: sốt, sưng đau tại chỗ tiêm, phát ban, đau cơ, đau đầu, tiêu chảy... Số trường hợp gặp phản ứng thông thường sau tiêm chiếm tỷ lệ 57,3% trên tổng số người được tiêm vắc xin Covid-19. Hiện chưa ghi nhận trường hợp bị phản ứng nặng, tất cả những người có phản ứng sau tiêm đều được theo dõi sát, đến nay sức khỏe đã ổn định.
+Trong đợt 2 của kế hoạch tiêm chủng, thành phố sẽ tiếp nhận 57.750 liều vắc xin Covid-19. Công tác chủng ngừa được triển khai trên các nhóm ưu tiên theo kế hoạch có nguy cơ lây nhiễm cao như cán bộ, nhân viên y tế làm việc tại những khoa phòng, bộ phận trọng yếu hoặc thường xuyên tiếp xúc với nhiều người của các cơ sở y tế. Bên cạnh đó, ngành y tế sẽ thực hiện chích nhắc cho những người đã tiêm đợt 1. Dự kiến chiến dịch sẽ kết thúc vào ngày 5/5 theo đúng lộ trình của Bộ Y tế.
+Có 57,3% trên tổng số người chích vắc xin ngừa Covid-19 gặp phản ứng thông thường sau tiêm (ảnh: Phạm Nguyễn).
+Tại cuộc họp, ông Nguyễn Thành Phong Chủ tịch UBND thành phố nhấn mạnh, dù đã qua 73 ngày không ghi nhận ca nhiễm Covid-19 ngoài cộng đồng nhưng thành phố đang đối mặt với nguy cơ xâm nhập dịch bệnh ở mức cao. Hiện nay, các nước lân cận như Campuchia, Thái Lan và Lào đang trong tình trạng báo động của dịch Covid-19. Riêng số ca mắc bệnh tại Campuchia tăng gần 10.000 người, việc kiểm soát đường biên giới các tỉnh, thành đã được tăng cường. Nhưng kiểm soát toàn bộ thì cũng rất khó khăn, chính vì thế cần phải có các biện pháp quyết liệt, nếu không sẽ rất vất vả như các nước lân cận.
+Chủ tịch thành phố cho biết: "Chúng ta chuẩn bị các sự kiện lễ 30/4 và 1/5 trong tình hình dịch phức tạp ở khu vực. Nếu không có giải pháp căn cơ, triệt để thì chỉ cần một ca bệnh nhiễm Covid-19 ngoài cộng đồng cũng sẽ khiến nguy cơ dịch lây lan nhanh, khó kiểm soát vì thành phố có mật độ dân số đông. Chính phủ đã có Công điện khẩn gửi các bộ, ngành và địa phương trên cả nước. Trong đó, đặc biệt nhấn mạnh nguyên tắc 5k, phòng chống dịch quyết liệt nhưng không để ảnh hưởng và đình tệ việc sản xuất, kinh doanh".
+Công tác tiêm chủng đợt 2 đang được đẩy mạnh để tăng độ bao phủ của vắc xin trước diễn biến khó lường của dịch Covid-19 (ảnh: Phạm Nguyễn).
+Trên thực tế, việc đeo khẩu trang phòng chống dịch bệnh đang có dấu hiệu lơi lỏng cho thấy tâm lý chủ quan của cộng đồng trước nguy cơ dịch bệnh đang diễn ra. Thành phố yêu cầu các sở ngành, đơn vị liên quan phải siết chặt những biện pháp phòng, chống dịch, quyết liệt thực hiện các biện pháp 5k, bắt buộc đeo khẩu trang ở các sự kiện đông người nơi công cộng, trên phương tiện giao thông, sân bay, chợ, siêu thị, trường học... Các cơ quan, đơn vị phải thường xuyên đánh giá và cập nhật tình hình thực hiện các biện pháp phòng, chống dịch trên bản đồ chống dịch.
+Trước tình hình dịch Covid-19 diễn biến rất phức tạp trên thế giới và khu vực, Phó Thủ tướng Chính phủ Phạm Bình Minh đã có điện khẩn chỉ đạo TPHCM tăng cường quản lý tổ chức các chuyếnbay nhập cảnh vào thành phố. Các chuyến bay chở chuyên gia, nhà đầu tư, người nước ngoài, công dân lao động, việt kiều… tăng cường quản lý chặt, đảm bảo tần suất, số lượng chuyến bay, số người nhập cảnh, không để quá tải hành khách.
+Vân Sơn - Quốc Anh

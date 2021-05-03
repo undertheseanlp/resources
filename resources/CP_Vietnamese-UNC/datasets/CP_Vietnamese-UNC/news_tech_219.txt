@@ -1,21 +1,13 @@
 # doc_id = news_tech_219
-# url = https://dantri.com.vn/suc-manh-so/tat-ca-trong-mot-lua-chon-toi-uu-cho-giai-phap-in-an-cua-doanh-nghiep-20210429183830871.htm
-# date = 20210429
-Đáp ứng các nhu cầu in ấn đa dạng
-Biểu đồ tài chính, phác thảo bản vẽ kiến trúc, hình ảnh phục vụ giảng dạy…sẽ cần đến bản in khổ giấy A3 mà doanh nghiệp hay tổ chức nào cũng muốn trang bị cho mình một chiếc máy in không cồng kềnh, mà chi phí lại vừa phải để việc in ấn thường xuyên được chủ động và linh hoạt.
-Là một trong những thương hiệu dẫn đầu về giải pháp in ấn, HP không chỉ cung cấp các sản phẩm máy in phù hợp với nhu cầu của từng phân khúc khách hàng mà các sản phẩm đó còn kèm theo các tính năng ưu việt và hữu ích. Máy in đa chức năng khổ giấy A3 HP LaserJet MFP M440nda như một giải pháp in ấn đáp ứng trọn vẹn yêu cầu của doanh nghiệp khi vừa có tính năng in khổ giấy A3 và các khổ giấy thông thường khác là A4, A6, B4, B5…, vừa có thể photocopy và scan dữ liệu.
-Sở hữu mức giá cạnh tranh so với các loại máy trong cùng phân khúc, cộng thêm việc tích hợp đa chức năng, HP LaserJet MFP M440nda giúp nâng cao hiệu suất cho doanh nghiệp, mang đến lợi ích kinh tế không chỉ ở khoản phí đầu tư ban đầu, mà còn là trong suốt thời gian hoạt động và phát triển lâu dài.
-Bản in sắc nét, kích thước đáp ứng mọi không gian văn phòng
-HP LaserJet MFP M440nda đảm bảo bản in trắng đen có chất lượng sắc nét, rõ ràng với độ phân giải 1200 x 1200 dpi, khiến cho nỗi lo về bản in mờ nhòe, in dính sọc sẽ không còn. Bản scan cũng có độ phân giải tối đa 4800 x 4800 dpi cho chất lượng như bản gốc. Ngoài ra, HP LaserJet MFP M440nda có tốc độ in hai mặt lên đến 24 trang/phút với khổ A4, 13 trang/phút với khổ A3 và chỉ tốn khoảng 7,7 giây cho trang in đầu tiên. Tốc độ scan màu và trắng đen vào khoảng 33 trang/phút. Và đây cũng là sản phẩm máy in đáng ghi nhận khi được trang bị khay giấy ADF đảo mặt tự động (ADF), hỗ trợ cho việc photocopy hai mặt hay scan nhiều tài liệu một cách thuận tiện mà không cần phải thao tác gì thêm, hay khay giấy mở rộng cho phép người dùng nạp sẵn lượng giấy lên đến 600 tờ để không phải thêm giấy quá thường xuyên.
-Với kích thước nhỏ gọn (560x583x505mm), tiện bố trí trên bàn hoặc bất cứ vị trí nào trong phòng làm việc, HP LaserJet MFP M440nda là một lựa chọn tối ưu cho doanh nghiệp hay tổ chức kinh doanh nhỏ và vừa.
-Phục vụ nhu cầu bảo mật, quản lý dữ liệu của doanh nghiệp
-Nhắc đến giải pháp in ấn của HP dĩ nhiên không thể bỏ qua các tính năng bảo mật ưu việt. Điều này thể hiện rõ ràng qua việc HP LaserJet MFP 440nda được trang bị mã PIN để xác thực danh tính trước khi in ấn thông qua màn hình LCD có hệ thống phím số. Máy được kết nối qua mạng LAN giúp việc in, scan trong nội bộ công ty thêm thuận tiện, nhanh chóng nhưng vẫn đảm bảo tính bảo mật của thông tin qua văn bản in.
-HP Web Jetadmin chính là giá trị gia tăng của dòng máy in đa chức năng khổ giấy A3 HP LaserJet MFP 440nda, thông qua nền tảng web giúp cài đặt, định dạng, xử lý lỗi, kết nối máy in với các máy tính trong nội bộ công ty. Bên cạnh đó, tính năng Job Accounting tích hợp trong phần mềm này cho phép bộ phận IT của công ty dễ dàng phân quyền cho từng cá nhân hoặc nhóm, hỗ trợ doanh nghiệp trong việc theo dõi, phân tích mức độ sử dụng thiết bị của nhân viên, từ đó đưa ra các giải pháp tối ưu cho chi phí vận hành.
-HP LaserJet MFP M440nda hiện có mức giá niêm yết là 29,790,000đ.
-Sản phẩm đang được đang được phân phối chính hãng bởi Nhà phân phối chính thức là Công Ty Cổ Phần Công Nghệ Elite.
-Thông tin chi tiết xin liên hệ:
-Công Ty Cổ Phần Công Nghệ Elite
-Địa chỉ: 289/1 Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, TP Hồ Chí Minh
-Website: https://elite-jsc.com
-Hotline: (028) 3512 3959
-Trường Thịnh
+# url = https://dantri.com.vn/suc-manh-so/ten-cuop-dien-thoai-tra-lai-thiet-bi-cho-nan-nhan-vi-ly-do-bat-ngo-20210413012158329.htm
+# date = 20210413
+Tên cướp đã trả lại điện thoại cho nạn nhân vì nhận ra rằng đó không phải là mẫu sản phẩm mà mình yêu thích (Ảnh minh họa).
+Bị giật điện thoại nơi công cộng là điều mà không ai mong muốn. Nhiều người sẽ tìm các biện pháp như đuổi theo tên cướp, sử dụng các công cụ xác định vị trí hoặc báo cảnh sát với hy vọng tìm lại chiếc điện thoại bị mất nhưng cũng không mong gì có thể nhận lại. Tuy nhiên, một người đàn ông Ấn Độ đã được tên cướp trả lại chiếc điện thoại sau khi bị tên này giật mất.
+Theo đó, sự việc xảy ra tại một ga tàu ở thị trấn Noida (bang Uttar Pradesh, Ấn Độ), khi người đàn ông có tên Debayan Roy đang đứng đợi tàu và sử dụng điện thoại để nhắn tin, thì bất ngờ bị một người đàn ông đeo khẩu trang đen giật lấy chiếc điện thoại trên tay rồi chạy mất.
+Sự việc xảy ra quá bất ngờ khiến Debayan đứng sững trong giây lát. Sau khi định thần lại, anh này đã lập tức đuổi theo tên cướp để lấy lại chiếc điện thoại bị mất.
+Tuy nhiên, điều bất ngờ đã xảy ra, trong khi Debayan đang đuổi theo tên cướp thì nhận ra tên này thay vì tìm cách bỏ chạy thật xa thì lại quay đầu và chạy về phía anh. Khi cả hai đối mặt, tên cướp đã nói với Debayan: "Anh bạn, tôi tưởng rằng đây là một chiếc điện thoại OnePlus 9 Pro", sau đó tên cướp đặt chiếc điện thoại xuống nền nhà ga rồi tiếp tục bỏ chạy trong sự ngỡ ngàng của Debayan.
+Debayan cho biết chiếc điện thoại mà anh sử dụng khi bị cướp là một chiếc Galaxy S10+. Có vẻ như tên cướp là một người yêu thích mẫu smartphone OnePlus 9 Pro và nhìn nhầm chiếc điện thoại của Debayan nên đã giật lấy, nhưng khi bỏ chạy, tên này đã nhận ra sự nhầm lẫn nên quay trở lại trả máy cho Debayan.
+Galaxy S10+ (trái) và OnePlus 9 Pro (phải) có vẻ ngoài khá giống nhau.
+Debayan đã chia sẻ câu chuyện về vụ cướp kỳ lạ của mình lên mạng xã hội Twitter và nhanh chóng "gây sốt". Nhiều người cho rằng Debayan đã rất may mắn khi gặp được một tên cướp tử tế nên vẫn còn lấy lại được chiếc điện thoại của mình.
+Trong khi đó, nhiều cư dân mạng lại hài hước cho rằng hãng smartphone OnePlus nên trao tặng cho tên cướp một chiếc OnePlus 9 Pro, bởi lẽ chắc hẳn rằng đây là một "fan cuồng nhiệt" của hãng smartphone này.
+T.ThủyTheo DTrends

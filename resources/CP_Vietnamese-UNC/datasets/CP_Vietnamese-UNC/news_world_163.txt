@@ -1,9 +1,14 @@
 # doc_id = news_world_163
-# url = https://dantri.com.vn/the-gioi/nga-doi-hoa-luc-vao-sao-huyet-phien-quan-o-syria-tieu-diet-200-tay-sung-20210420074134165.htm
-# date = 20210420
-Tại một cuộc họp báo ngày 19/4, ông Alexander Karpov, phó giám đốc Trung tâm hòa giải các bên tham chiến ở Syria, cho biết các máy bay chiến đấu của Không quân Vũ trụ Nga đã tấn công vào các mục tiêu ở thành phố cổ Palmyra của Syria, phá hủy một căn cứ ngầm của phiến quân tại đây.
-Ông Karpov cho biết, lực lượng của Nga tại Syria đã nhận được thông tin tình báo rằng phiến quân đã lập một căn cứ ngầm ở Palmyra, nơi được cho là sào huyệt của phiến quân để tổ chức các vụ tấn công khủng bố và chế tạo thiết bị nổ. Sau khi xác định được vị trí của các mục tiêu này, lực lượng của Không quân Vũ trụ Nga đã tiến hành đợt không kích nhằm vào đây.
-"Kết quả là, 200 tay súng, 24 xe bán tải chở súng máy hạng nặng cũng như khoảng 500kg đạn dược, linh kiện chế tạo thiết bị nổ đã bị phá hủy", ông Karpov nói.
-Quan chức Nga cho biết thêm, các nhóm vũ trang bất hợp pháp ở Syria đã lên kế hoạch thực hiện các vụ tấn công khủng bố nhằm vào các cơ quan chính phủ ở các thành phố lớn để&nbspgây bất ổn trước cuộc bầu cử tổng thống dự kiến diễn ra vào ngày 26/5 tới. Ông Karpov nói, các phần tử khủng bố được huấn luyện trong các trại nằm "trong các vùng lãnh thổ mà chính phủ Syria không kiểm soát, kể cả trong khu vực At-Tanf, do lực lượng Mỹ kiểm soát".
-Không quân Vũ trụ Nga đóng vai trò quan trọng trong chiến dịch quân sự của Nga ở Syria kể từ năm 2015 sau khi Tổng thống Syria Bashar Assad đề nghị Nga hỗ trợ chống khủng bố. Hiện tại, Nga, Thổ Nhĩ Kỳ, Iran là các nước đứng ra đảm bảo lệnh ngừng bắn ở Syria.
-Minh PhươngTheo Sputnik
+# url = https://dantri.com.vn/the-gioi/nga-dua-50-may-bay-chien-dau-den-crimea-20210419160419031.htm
+# date = 20210419
+Máy bay chiến đấu Su-25 Nga (Ảnh: Sputnik).
+Hãng tin Tass (Nga) ngày 17/4 dẫn nguồn tin từ cơ quan báo chí của Quân khu phía nam Liên bang Nga cho biết Moscow đã triển khai hơn 50 máy bay chiến đấu tới bán đảo Crimea. Hoạt động luân chuyển máy bay chiến đấu này là một phần trong quá trình kiểm tra của quân đội Nga.
+Các phi hành đoàn thuộc đơn vị không quân Su-25SM3 của Lực lượng Phòng không và Không lực 4 thuộc Quân khu phía nam, đóng tại Stavropol, đã được điều động đến các sân bay quân sự ở Crimea.
+Trong khi đó, phi đội Su-25SM3 đóng tại Crimea đã được chuyển tới bãi thử Ashuluk tại vùng Astrakhan của Nga.
+"Trong các cuộc diễn tập chiến thuật bay, các phi hành đoàn của máy bay Su-27SM, Su-30SM, Su-24M, Su-25SM3 và Su-34 sẽ thực hiện các vụ phóng tên lửa và ném bom nhằm vào các mục tiêu hải quân", tuyên bố cho biết.
+Nga ngày 15/4 thông báo sẽ chặn eo biển Kerch trong 6 tháng để tập trận quân sự. Nga cũng đưa 15 tàu chiến từ Biển Caspian tới Biển Đen vào tuần trước.
+Lệnh hạn chế đi lại một phần Biển Đen của Nga đã vấp phải sự phản đối của nhiều nước, đặc biệt là Ukraine. Đây là tuyến đường đóng vai trò quan trọng đối với hoạt động xuất khẩu của Ukraine.
+Lầu Năm Góc kêu gọi Nga dừng cản trở các tàu thuyền trong khu vực, cũng như chấm dứt việc tăng cường lực lượng quân sự dọc biên giới Ukraine, đồng thời khẳng định Washington luôn ủng hộ Kiev. Đáp lại, Moscow nói rằng các hoạt động quân sự của Nga diễn ra trong lãnh thổ nước này và không nhằm vào bất cứ quốc gia nào.
+Thứ trưởng Ngoại giao Nga Sergei Ryabkov ngày 13/4 cảnh báo tàu chiến của Mỹ ở Biển Đen cần tránh xa Crimea vì nguy cơ xảy ra các vụ việc ngoài ý muốn là rất cao. Căng thẳng giữa Nga với Ukraine và phương Tây leo thang sau khi Nga sáp nhập bán đảo Crimea hồi tháng 3/2014.
+Thành Đạt
+Tổng hợp

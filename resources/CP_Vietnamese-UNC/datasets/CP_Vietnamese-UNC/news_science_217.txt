@@ -1,18 +1,42 @@
 # doc_id = news_science_217
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tam-giac-den-vo-tinh-duoc-phat-hien-gan-mat-troi-20210405060241370.htm
-# date = 20210405
-Một UFO ngoài hành tinh hay chỉ là một trục trặc dữ liệu?
-Có thực sự một sinh vật rất thông minh đến từ Vũ trụ đã tới thăm Hệ mặt trời hay không? Vật thể được cho là UFO đầu tiên được phát hiện từ rất lâu bằng thiết bị Helioviewer - công cụ trực tuyến cho phép mọi người quan sát những bức ảnh chụp Hệ mặt trời từ nhiều vệ tinh khác nhau, bao gồm Đài quan sát Động lực học Mặt trời (SDO) của NASA và tàu vũ trụ NASA-ESA SOHO.
-Một người có đam mê nghiên cứu về những vật thể lạ ngoài hành tinh, Scott C Warring, đã tuyên bố rằng ông đã nhìn thấy một vật thể lạ ngay gần Mặt trời từ hơn một năm về trước.
-Đăng tải trên trang blog UFO Sightings Daily của mình, ông cho rằng hình tam giác xuất hiện gần Mặt trời với một chu kỳ đều đặn, nó có thể là một chiếc phi thuyền của người ngoài hành tinh. Ngoài ra, chuyên gia này còn đưa ra một giả thuyết thứ hai khi cho rằng đây cũng có thể là "lối vào của Mặt trời" - một loại hố đen nào đó mà con người chưa thể khám phá ra được.
-Chuyên gia Scott Waring tin rằng bức ảnh này là thật.
-Tuy nhiên không có một giải thích mang tính khoa học nào được công bố bởi ông Warring. Tất cả quan điểm của ông chỉ là những lời suy đoán chủ quan của bản thân: "Tôi đang quan sát Mặt trời bằng thiết bị Helioviewer và nhận thấy một hình tam giác đen xuất hiện ngay trước ống kính. Vì vậy tôi đã tiếp tục quan sát nó và trong suốt hơn một năm nó vẫn ở đó. Vật thể lạ này có chu kỳ di chuyển, cứ 3 tháng nó lại đổi chiều di chuyển một lần. Điều này thật kỳ quặc, để biết rõ hơn bạn hãy xem video của tôi."
-Người đàn ông tự xưng là thợ săn UFO này tiếp tục cho biết: "Nó có thể là một con tàu khổng lồ có hình tam giác. Tuy nhiên, nhiều khi tôi tự hỏi nó có phải là cách cửa để vào bên trong một Mặt trời rỗng hay không? Nếu là một lối vào thì thực sự sẽ có phương tiện di chuyển qua lại cánh cổng đó. Rất nhiều khả năng đây chính là con đường của những người ngoài hành tinh."
-Ông Waring cũng đưa khám phá của mình lên kênh YouTube cá nhân, kênh này được rất nhiều người có chung niềm đam mê UFO theo dõi. Một người cho rằng vật thể bí ẩn như đang theo dõi hoạt động của Mặt trời. Một tài khoản khác lại cho rằng: "Có thể thứ này lại đang bảo vệ Trái đất khỏi những điều tồi tệ nhất mà Mặt trời sẽ gây ra. Nếu đúng như vậy, thì tôi vô cùng biết ơn vì nó đã ở đó."
-Chưa từng có bằng chứng nào về người ngoài hành tinh đã đến thăm hành tinh của chúng ta.
-Tuy nhiên, trong tất cả các giả thuyết, một chuyên gia đã đưa ra lời giải thích có vẻ thuyết phục hơn cả: "Vật thể lạ trên chỉ là một lỗi do trục trặc phần mềm dữ liệu. Các bức ảnh Mặt trời mà NASA thu lại được có đầy rẫy những điểm đen. Hiện tượng này xuất hiện khi dòng dữ liệu kết nối không được truyền đi đầy đủ".
-Theo nhà vật lý thiên văn năng lượng Mặt trời C. Alex Young của NASA, những sự việc tương tự trên thường xuyên xảy ra với vệ tinh SOHO. Ông nói: " Luồng hình ảnh cho SOHO / EIT có dạng khối, vì vậy nếu một phần dữ liệu bị mất, bạn sẽ bị thiếu một khối."
-Theo như các nhà khoa học được biết, Trái đất là hành tinh duy nhất có sự sống trong Hệ mặt trời của chúng ta. Mặc dù rất có thể sự sống và thậm chí là những sinh vật sống rất thông minh tồn tại trong một Hệ mặt trời hoặc thiên hà khác, nhưng khoảng cách là quá xa để các sinh vật ngoài hành tinh có thể đến thăm chúng ta.
-Thay vào đó, các nhà khoa học đang khám phá những thế giới mới như sao Hỏa để xem liệu sự sống vi sinh vật đơn giản có từng phát triển ở đó hay không. Sao Hỏa từng được cho là giống một Trái đất trẻ, điều này khiến nó trở thành ứng cử viên sáng giá cho việc tìm ra các vi khuẩn hóa thạch - Đó chính là mục tiêu trong nhiều sứ mệnh của NASA.
-Theo Hà Trang
-Dân Việt
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tau-kri-nanggala-402-va-nhung-vu-mat-tich-khoa-hoc-chua-the-ly-giai-20210424001901613.htm
+# date = 20210424
+Trong lịch sử, thế giới từng chứng kiến nhiều vụ mất tích tương tự, theo kiểu "đột ngột" biến mất mà không để lại chút đầu mối nào.
+Đối với một vài trường hợp, người ta phải mất hàng chục năm mới tìm ra lời giải. Nhưng cũng có những vụ việc chưa bao giờ được đưa ra ngoài ánh sáng. Dưới đây là một số câu chuyện nổi tiếng.
+1. Lost Colony - bí mật suốt 400 năm qua
+Dòng chữ bí ẩn được tìm thấy trên các thân cây sau sự biến mất không dấu vết của hơn 100 người dân, từ đàn ông, phụ nữ, trẻ em.
+Chuyện kể rằng, vào năm 1587, 117 người di cư từ Anh do John White (1540 - 1593) dẫn đầu đã tìm đến hòn đảo Roanoke trên bờ biển Bắc Carolina (Mỹ) ngày nay để tạo dựng một cuộc sống mới trên "miền đất hứa".
+Mọi thứ không như dự tính, khi đến nơi, họ đã vấp phải sự phản đối quyết liệt của người bản xứ. John White khi đó quyết định trở về Anh để xin quân viện trợ.
+Phải tới 3 năm sau, năm 1590, John White mới có thể trở lại hòn đảo cũ. Tuy nhiên, mọi thứ đã thay đổi đáng kinh ngạc, khi hơn 100 người dân, từ đàn ông, phụ nữ, trẻ em đều biến mất không một dấu vết.
+Thứ duy nhất mà John White tìm thấy là dòng chữ "CROATOAN" được khắc nguệch ngoạc lên một thân cây. Cho rằng đó là lời nhắn của đồng bào mình trước khi di cư đến hòn đảo cùng tên gần đó sinh sống, John White và đội quân Anh quyết định đi tìm, nhưng họ chưa bao giờ thành công.
+Sau nhiều nỗ lực, John White đã bỏ cuộc. Đồng nghĩa với sự thật về việc biến mất của hàng trăm người di cư Anh vẫn chưa bao giờ được làm sáng tỏ.
+Đây được xem là một trong những vụ mất tích tập thể khó hiểu bậc nhất trong lịch sử nhân loại, với số phận của những người dân di cư trong Lost Colony đến nay vẫn là bài toán hóc búa đối với sử gia và nhà khảo cổ.
+2. Hành khách biến mất trên tàu MV Joyita
+Một phần con tàu MV Joyita bị chìm khi được tìm thấy. (Ảnh: Weburbanist.com)
+Một vụ việc khiến người ta nhớ đến thảm họa chìm tàu Titanic, đó là việc con thuyền MV Joyita đã lật và chìm trên đường từ đảo Fiji tới Vanua Levu.
+Trước đó, thuyền MV Joyita được mệnh danh là "không thể chìm". Thế rồi nó cũng chịu kết cục mà không ai mong muốn. Điều đáng sợ là tất cả 25 hành khách và thuyền viên đều bị mất tích một cách bí ẩn.
+Điều lạ lùng chưa chấm dứt. Rất lâu sau, con thuyền đã được tìm thấy tại vùng biển Nam Thái Bình Dương. Toàn bộ các xuồng cứu sinh trên thuyền biến mất.
+Nhà khoa học David Wright đặt ra giả thuyết, cho rằng do không đủ chỗ trên xuồng cứu hộ, nên một số người đã bơi cùng với áo phao, và từng người một đã chết do đuối nước hoặc bị cá mập ăn thịt.
+Dẫu vậy, sự thật sau vụ mất tích của những người trên xuồng thì đến nay vẫn chưa có lời giải đáp.
+3. Máy bay MH370 biến mất giữa không trung
+MH370 của Malaysia Airlines mất tích ngày 8/3/2014. Ảnh: Getty Images
+Ngày 8/3/2014, máy bay của hãng hàng không Malaysia Airlines mang số hiệu MH370 đã mất tích trong khi bay từ Sân bay quốc tế Kuala Lumpur, Malaysia đến Sân bay quốc tế Thủ đô Bắc Kinh, Trung Quốc.
+Toàn bộ 239 người trên máy bay được cho là đã tử vong do một tai nạn mà không ai dám chắc. Càng khó hiểu hơn khi máy bay bị mất tích trong điều kiện thời tiết tốt, và gần như không có sự can thiệp từ vật thể bay khác.
+Rất nhiều giả thuyết đã được đặt ra, có cả thuyết âm mưu. Tuy nhiên, những giả thuyết này đều không có bằng chứng xác thực và bí ẩn này vẫn chưa có lời giải đáp.
+Theo cơ quan điều tra, một số bộ phát trên máy bay MH370 có thể đã được tắt bằng tay. Và khi xảy ra sự cố, chuyến bay đã thay đổi hướng rất mạnh.
+Trong suốt thời gian này, không hề có cuộc gọi nào từ hành khách cũng như phi hành đoàn, cũng như tín hiệu được gửi bởi các phi công. Xác máy bay hiện vẫn chưa được tìm thấy.
+4. Tàu nhiên liệu USS Cyclops biến mất không dấu vết
+Tàu chở nhiên liệu USS Cyclops. Ảnh: Wikipedia.
+USS Cyclops là một trong những tàu nhiên liệu lớn nhất của Hải quân Mỹ. Nó được nhìn thấy lần cuối vào ngày 4/3/1918, khi đang cập bến tại vùng Tây Ấn trên hải trình từ Brazil đến Baltimore, mang theo 10.800 tấn quặng mangan (sử dụng trong sản xuất đạn dược) cùng 306 hành khách và thủy thủ đoàn.
+USS Cyclops đã không bao giờ cập bến Baltimore, bởi con tàu khổng lồ cùng 306 nạn nhân đã hoàn toàn biến mất không dấu vết nơi đại dương sâu thẳm.
+Nhiều chiến dịch tìm kiếm được thực hiện trong vô vọng, khiến hải quân Mỹ không thể xác định nguyên nhân dẫn tới vụ mất tích.
+Điều lạ lùng là tàu không phát tín hiệu cấp cứu, thủy thủ đoàn cũng không trả lời tín hiệu vô tuyến từ hàng trăm tàu Mỹ trong khu vực.
+Sự việc là một trong số hàng loạt vụ mất tích tàu thuyền, máy bay có liên quan tới vùng "Tam giác quỷ Bermuda", càng làm tăng thêm tính bí ẩn của khu vực này.
+5. Tàu ngầm KRI Nanggala-402 mất tích giữa lòng đại dương
+Thủy quân Indonesia đứng trên boong tàu ngầm quân sự KRI Nanggala-402 năm 2013. Ảnh: Reuters
+Tàu ngầm KRI Nanggala 402 do Đức sản xuất mất tích vào ngày 21/4 khi đang tham gia cuộc diễn tập ở ngoài khơi đảo Bali, Indonesia.
+Tàu liên lạc lần cuối với sở chỉ huy vào lúc 3 giờ sáng để xin phép lặn xuống biển, trước khi mất liên lạc hoàn toàn.
+Hải quân Indonesia nhận định tàu Nanggala có thể đã chìm xuống độ sâu 600-700 mét, lớn hơn nhiều so với độ sâu tối đa cho phép hoạt động của tàu. Vào thời điểm mất tích, tàu chở 53 thành viên thủy thủ đoàn
+Nhà phân tích quốc phòng Ridzwan Rahmat cho biết sự việc đã được dự đoán từ trước, do tàu này đã quá cũ và chở quá tải số thành viên thủy thủ đoàn.
+Tuy nhiên, nguyên nhân tại sao xảy ra sự cố, tàu KRI Nanggala-402 hiện đang ở đâu, và số phận 53 thủy thủ đoàn thế nào, vẫn là những câu hỏi đang đi tìm lời giải đáp.
+Minh Khôi

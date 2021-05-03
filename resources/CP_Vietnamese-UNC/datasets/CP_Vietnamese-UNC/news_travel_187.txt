@@ -1,23 +1,20 @@
 # doc_id = news_travel_187
-# url = https://dantri.com.vn/du-lich/nguoi-dan-ong-ha-noi-luon-van-phan-luc-gia-gap-ruoi-chiec-sh-giua-ho-20210406165911131.htm
-# date = 20210406
-Mới đây, tài khoản Lê Vương Lâm đăng tải một clip chơi ván phản lực đã làm "dậy sóng" cộng đồng mạng vì sự độc đáo. Hình ảnh chiếc ván phi băng băng trên mặt nước khiến nhiều người liên tưởng đến các nhân vật trong phim siêu anh hùng.
-Anh Lâm và chiếc ván phản lực của mình.
-Ván phản lực - Silver Surf du nhập về Việt Nam vào năm 2019. Silver Surf được thiết kế đặc biệt với phần thân vỏ bằng Carbon cho cấu trúc siêu bền, siêu nhẹ giống như dòng xe thể thao của các hãng nổi tiếng như: Lamborghini, Porsche. Trọng lượng của ván chỉ 19kg nên có thể mang đi dễ dàng hoặc đeo vai ra bãi biển hoặc hồ nước.
-Anh Lâm luôn kiểm tra các bộ phận của ván phản lực trước khi xuống nước.
-Bộ phận tay ga của ván phản lực.
-Chìa khóa cảm biến khi người chơi ngã ván sẽ tự động ngắt.
-Silver Surf sử dụng động cơ hai thì 106cc được làm mát bằng nước, cho công suất lên tới 11 mã lực. Tốc độ tối đa ở điều kiện lặng sóng là 55km/h, nó tương đương tốc độ của một tầu chiến.
-Điều này giúp cho người chơi có thể thực hiện các động tác khó như: bốc đầu, đảo lật hoặc bay khỏi mặt nước.
-Máy của ván phản lực sử dụng động cơ hai thì 106cc.
-Silver Surf sử dụng chìa khóa an toàn từ tính, khi bạn ngã chìa khóa rời ra và động cơ ngắt. Cơ chế jet không lộ chân vịt giúp người sử dụng không gặp nguy hiểm dù tụt xuống phía sau ván trượt.
-Anh Lâm cho biết số người chơi ván phản lực ở Hà Nội rất ít, chỉ "đếm trên đầu ngón tay".
-"Tôi vô tình được thử chơi ván phản lực này một vài lần. Sau thấy thích thú nên quyết định "xuống tiền" để mua ván về. Người mới chơi có thể học cách giữ thăng bằng và điều chỉnh ga của ván, mất khoảng 15 phút làm quen là có thể bắt đầu chạy được", anh Lâm chia sẻ.
-Những giây phút thư giãn của anh Lâm khi chơi ván phản lực.
-"Để chơi môn này an toàn, người chơi nên để ý kiểm tra xăng dầu bôi trơn động cơ trước, tập quen dần với ván phản lực trước khi xuống nước. Quan trọng nhất là mặc áo phao và đội mũ bảo hiểm bởi chạy tốc độ cao khi ngã xuống nước rất nguy hiểm", anh cho biết thêm.
-Ván phản lực được anh Lâm mua với giá khoảng 165 triệu đồng - " đắt gấp rưỡi chiếc Honda SH150i 2020" và ở Hà Nội chỉ duy nhất một người bán.
-Người chơi ván phản lực phải dùng nhiều bộ phận trên người để giữ cân bằng.
-Anh Lâm cho biết sau khi đăng tải clip lên mạng xã hội, rất nhiều người vào khen ngợi cũng như hỏi giá của sản phẩm này. "Nhưng khi tôi nói mức giá thì nhiều người bất ngờ. Họ nói đây là thú chơi chỉ dành cho người giàu", anh Lâm chia sẻ. "Nhưng không chỉ có tiền để mua ván, mình phải dành thời gian tìm hiểu thì mới sử dụng được nó", anh cho biết thêm.
-Người mới chơi mất khoảng 15-30 phút để làm quen giữ thăng bằng trên ván.
-Anh Lâm đem chiếc ván phản lực của mình đi xuyên Việt.
-Toàn Vũ
+# url = https://dantri.com.vn/du-lich/nhung-bai-bien-cho-phep-du-khach-khoa-than-noi-tieng-the-gioi-20210416112735494.htm
+# date = 20210416
+Spiaggia di Guvano, Italia
+Bãi biển này không rộng lớn và cũng không đông đúc du khách như nhiều bãi biển khác ở Italia. Tuy nhiên, nơi đây được ví như "viên ngọc ẩn", bạn có thể thoải mái tận hưởng không gian yên tĩnh, biệt lập, trong lành.
+Little, Hawaill, Mỹ
+Mặc dù khỏa thân nơi công cộng là bất hợp pháp ở Hawaii, Mỹ nhưng làm điều này ở bãi biển Litte sẽ là trải nghiệm đáng nhớ.
+Bãi biển Little nằm trong công viên quốc gia Makena. Với cảnh quan thiên nhiên hoang sơ, bạn có thể lướt sóng, đắm mình trong cảnh sắc tuyệt đẹp và tham gia các điệu nhảy sôi động vào chiều chủ nhật. Vào tối chủ nhật, du khách còn được thưởng thức màn múa lửa ấn tượng của các vũ công.
+Paradise, Hy Lạp
+Paradise (Thiên Đường) là hòn đảo có bãi biển nổi tiếng với những bữa tiệc sôi động. Đây là bãi biển khỏa thân đầu tiên của đảo và thu hút rất nhiều du khách.
+Maslin, Australia
+Lady Bay ở Sydney được xem là bãi biển khỏa thân lâu đời nhất ở Australia, nhưng Maslin là bãi biển khỏa thân đầu tiên được công nhận vào năm 1975. Khu vực cho phép khỏa thân hoàn toàn kéo dài khoảng 1,5km ở đoạn cuối phía nam.
+Khu vực cho phép khỏa thân hoàn toàn kéo dài khoảng 1,5km.
+Cát sạch, làn nước trong xanh, nắng vàng là điểm thu hút du khách. Hàng năm tại đây còn diễn ra Nude Olympic - một sự kiện thể thao được tổ chức vào tháng 1. Tuy nhiên, khi Ủy ban Olympic quốc tế phàn nàn về tên này, sự kiện được đổi tên thành Maslin Beach Nude Olympics, sau đó đổi sang Maslin Beach Nude Games.
+Black's Beach, La Jolla, California, Mỹ
+Bãi biển này nằm ở khu vực hẻo lánh, dưới những những vách núi ở Torrey Pines. Black's Beach là một trong những bãi biển khỏa thân lớn nhất ở Mỹ và được hợp pháp hóa thành bãi tắm tiên hồi những năm 1970.
+Wreck, Canada
+Nằm trong công viên Pacific Spirit Regional, bãi biển Wreck là địa điểm mọi người có thể đến nếu muốn khỏa thân tắm nắng. Toàn bộ bãi biển dài gần 8km đồng thời là bãi biển khỏa thân lớn nhất khu vực Bắc Mỹ.
+Phương Hà
+Tổng hợp

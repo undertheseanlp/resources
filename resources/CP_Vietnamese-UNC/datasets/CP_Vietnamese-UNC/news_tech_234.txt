@@ -1,23 +1,24 @@
 # doc_id = news_tech_234
-# url = https://dantri.com.vn/suc-manh-so/thu-thuat-toi-uu-bo-nho-ram-giup-may-tinh-hoat-dong-muot-ma-hon-20210407234518398.htm
-# date = 20210407
-Sau một thời gian dài sử dụng, máy tính thường rơi vào tình trạng ì ạch, nhất là khi chạy cùng lúc quá nhiều phần mềm hoặc chạy các phần mềm nặng (như phần mềm đồ họa xử lý ảnh, video…). Tình trạng thường gặp phải với những máy có cấu hình yếu, bộ nhớ RAM khiêm tốn.
-Nếu máy tính hoạt động quá tải trong một thời gian dài có thể dẫn đến tình trạng treo máy hoặc có thể bị khởi động lại, gây mất mát dữ liệu của người dùng.
-Trong trường hợp máy tính của bạn hoạt động ì ạch và thường xuyên gặp phải tình trạng quá tải, phần mềm với tên gọi Memory Cleaner sẽ là một giải pháp để xử lý vấn đề.
-Memory Cleaner là phần mềm nhỏ gọn và miễn phí, sẽ tự động tối ưu và giải phóng dung lượng bộ nhớ RAM trên máy tính, giúp máy tính hoạt động mượt mà và nhẹ nhàng hơn, ngay cả khi đang chạy các phần mềm nặng hay chạy đồng thời nhiều phần mềm khác nhau.
-Trong quá trình thử nghiệm thực tế cho thấy Memory Cleaner hoạt động rất hiệu quả, nhất là với những máy tính có bộ nhớ RAM khiêm tốn (từ 8GB trở xuống). Phần mềm sẽ thực sự phát huy hiệu quả và tác dụng của mình khi bộ nhớ RAM bị chiếm dụng nhiều hơn 80% tổng dung lượng.
-Ưu điểm lớn nhất của Memory Cleaner đó là rất nhỏ gọn và hoạt động nhẹ nhàng, chiếm dụng ít tài nguyên hệ thống, do vậy hoàn toàn không làm ảnh hưởng đến hiệu suất của máy tính khi cài đặt và sử dụng phần mềm này.
-Phần mềm hỗ trợ mọi phiên bản của hệ điều hành Windows, download miễn phí tại đây.
-Sau khi cài đặt, giao diện chính của Memory Cleaner sẽ tự động bật mở, cùng với đó biểu tượng của phần mềm cũng sẽ xuất hiện trên khay hệ thống của Windows.
-Giao diện chính của phần mềm khá đơn giản, trên đó hiển thị các thông tin chi tiết liên quan đến bộ nhớ RAM của máy tính, như tổng dung lượng bộ nhớ RAM, tỉ lệ RAM đang được sử dụng (so với tổng dung lượng RAM), dung lượng chiếm dụng cao nhất, thấp nhất và dung lượng RAM trung bình trong quá trình sử dụng máy tính…
-Dựa vào các thông tin do phần mềm cung cấp, người dùng sẽ biết được máy tính mình đang sử dụng có thường xuyên bị rơi vào tình trạng bộ nhớ RAM bị quá tải hay không.
-Trong trường hợp máy tính trở nên ì ạch vì các tiến trình phần mềm chiếm dụng quá nhiều RAM hoặc một phần mềm nặng đang chạy trên máy tính, khiến tỉ lệ sử dụng RAM bị tăng lên cao (hơn 80% tổng dung lượng), bạn có thể nhấn vào 1 trong 2 nút bấm chức năng mà Memory Cleaner cung cấp:
-- Trim Processes' Working Set: tính năng này sẽ tự động tối ưu để hạ mức dung lượng RAM mà các tiến trình phần mềm đang chạy trên Windows chiếm dụng, điều này sẽ giúp Windows lấy lại đủ dung lượng bộ nhớ cần thiết để hoạt động mượt mà, tránh trường hợp hệ thống bị ì ạch hoặc bị treo.
-- Clear System Cache: với chức năng này phần mềm sẽ tự động giải phóng bộ nhớ đệm của hệ thống, rồi từ đó sử dụng bộ nhớ đệm này để giảm tải cho dung lượng RAM, giúp "hạ nhiệt" bộ nhớ của hệ thống để giúp Windows bớt ì ạch hơn.
-Bạn có thể sử dụng lần lượt một trong 2 chức năng để kiểm tra độ hiệu quả của từng chức năng, hoặc có thể sử dụng đồng thời cả 2 chức năng này để có được hiệu quả cao nhất.
-Đặc biệt, phần mềm còn cung cấp chức năng cho phép thực hiện quá trình tối ưu bộ nhớ RAM một cách tự động mỗi khi dung lượng RAM bị chiếm dụng quá nhiều, khiến Windows trở nên quá tải. Để kích hoạt chức năng tối ưu tự động, bạn chọn tab Options trên giao diện chính của phần mềm.
-Tại đây, bạn đánh dấu vào 2 tùy chọn đầu tiên để phần mềm tự động tối ưu và giải phóng bộ nhớ RAM trong trường hợp bộ nhớ bị chiếm dụng lớn hơn 80% so với tổng dung lượng RAM hiện có trên máy tính.
-Trong trường hợp bạn muốn thực hiện quá trình giải phóng RAM cứ mỗi 5 phút/lần thì đánh dấu vào 2 tùy chọn giữa, tuy nhiên chức năng này không thực sự cần thiết.
-Trong trường hợp bạn muốn Memory Cleaner khởi động cùng Windows và luôn thực hiện chức năng tối ưu bộ nhớ RAM của mình, bạn đánh dấu vào tùy chọn "Start Memory Cleaner with Windows".
-Nhìn chung, Memory Cleaner hoạt động thực sự hiệu quả, đặc biệt trên các máy tính có cấu hình yếu và bộ nhớ RAM khiêm tốn (dung lượng bộ nhớ RAM từ 8GB trở xuống).
-Quang Huy
+# url = https://dantri.com.vn/suc-manh-so/tik-tok-bo-nhiem-tan-ceo-vua-roi-xiaomi-sang-dau-quan-20210501124150612.htm
+# date = 20210501
+Chew Shou Zi vừa rời Xiaomi sang làm Giám đốc Tài chính cho ByteDance, kiêm Giám đốc điều hành TikTok. Ảnh: Bloomberg
+Tờ Bưu điện Hoa Nam Buổi sáng cho biết, ByteDance, công ty mẹ của TikTok, đã bổ nhiệm Giám đốc Tài chính Chew Shou Zi làm tân CEO (Giám đốc điều hành) của ứng dụng chia sẻ video đình đám này.
+Trong khi đó, Vanessa Pappas, người giữ chứng quyền CEO của TikTok trong thời gian qua, được bổ nhiệm làm giám đốc vận hành (COO) của công ty.
+Ông Chew Shou Zi vừa rời Xiaomi gia nhập ByteDance vào tháng trước, sẽ tiếp tục đảm nhiệm vị trí Giám đốc tài chính (CFO) tại tập đoàn này - theo công bố của ByteDance.
+Trước đó, ông Chew đã có nhiều năm làm giám đốc tài chính và chủ tịch kinh doanh quốc tế của Xiaomi, nơi ông có công đưa nhà sản xuất thiết bị điện tử này trở thành một trong những công ty công nghệ Trung Quốc lớn nhất từ trước tới nay niêm yết trên sàn chứng khoán Hong Kong.
+Sinh ra tại Singapore, ông Chew thông thạo tiếng Anh và tiếng Trung. Chew Shou Yi có kinh nghiệm điều hành các công ty công nghệ lớn của Trung Quốc và cả các ngân hàng như Goldman Sachs, nơi ông từng phụ trách mảng ngân hàng đầu tư.
+Chew cũng từng làm việc cho DST Global của Yuri Milner, công ty tận dụng cơ hội với người sáng lập ByteDance kiêm Giám đốc điều hành Trương Nhất Minh (Zhang Yiming) để trở thành một trong những nhà đầu tư sớm nhất vào tập đoàn này.
+Động thái thuê Chew Shou Yi là một dấu hiệu cho thấy ByteDance đang tiến tới việc chào bán cổ phiếu lần đầu ra công chúng (IPO) với một số công ty con của mình.
+TikTok hiện vẫn đang là ứng dụng được yêu thích và tăng trưởng bùng nổ ở nhiều quốc gia trên thế giới. Tuy nhiên, ông Chew sẽ phải điều hướng căng thẳng chính trị giữa Mỹ và Trung Quốc cũng như những lo ngại ngày càng tăng về quyền riêng tư dữ liệu, đặc biệt liên quan đến việc trẻ em sử dụng ứng dụng TikTok.
+Trong một tuyên bố, CEO của ByteDance Trương Nhất Minh cho biết: "Đội ngũ lãnh đạo của Shou và Vanessa sẽ tạo tiền đề cho sự phát triển bền vững. Shou mang đến kiến thức sâu sắc về doanh nghiệp và ngành, ông từng lãnh đạo một nhóm những nhà đầu tư sớm nhất của chúng tôi và đã làm việc trong lĩnh vực công nghệ suốt một thập kỷ. Ông ấy sẽ bổ sung chiều sâu cho đội ngũ, tập trung vào các lĩnh vực bao gồm quản trị công ty và các sáng kiến kinh doanh dài hạn".
+Năm ngoái, Kevin Mayer đã rời bỏ một trong những vị trí quyền lực hàng đầu tại Walt Disney Co. để nhận lời dẫn dắt TikTok, một trong những ứng dụng hot nhất thế giới với hơn 100 triệu người dùng chỉ riêng tại Mỹ.
+Tuy vậy, ông Mayer đã từ chức chỉ 3 tháng sau đó, khi cựu Tổng thống Mỹ Donald Trump yêu cầu ByteDance bán TikTok ở Mỹ hoặc đối mặt với lệnh cấm ứng dụng này, với lý do lo ngại về an ninh quốc gia khi TikTok thuộc quyền sở hữu của Trung Quốc.
+Thời điểm này, ông Trương Nhất Minh đã thảo luận một số thỏa thuận với những người khổng lồ công nghệ Mỹ, bao gồm Microsoft, Oracle, nhưng cuối cùng đã quyết định chờ đợi cuộc khủng hoảng đi tới bớt thù địch hơn sau cuộc bầu cử tổng thống Mỹ.
+Sau đó, TikTok vẫn chưa bao giờ ký thỏa thuận chuyển giao cuối cùng, và thỏa thuận này hiện vẫn trong tình trạng lấp lửng khi chính quyền Tổng thống Biden đang tiến hành xem xét. Hiện không có dấu hiệu nào cho thấy ByteDance sẽ bị buộc phải bán TikTok.
+Trào lưu "Front Row" trên TikTok, khi người dùng post những video bắt chước cảnh họ dự các show thời trang đình đám.
+Thành công của TikTok được thúc đẩy bởi một thuật toán mạnh mẽ giúp dự đoán những gì mọi người muốn xem tiếp theo. Ứng dụng này vượt xa ngay cả các hệ thống được sử dụng bởi Facebook hoặc Snapchat. TikTok nghiên cứu chặt chẽ việc sử dụng và xem xét hàng trăm điểm dữ liệu bao gồm những trang web mà mọi người đã duyệt và cách họ gõ ký tự tìm kiếm, thậm chí cả nhịp và kiểu gõ phím.
+Chính núi dữ liệu này, được thu thập từ cơ sở người dùng phần lớn là trẻ tuổi, đã củng cố mối lo ngại của chính quyền cựu Tổng thống Trump về những gì có thể xảy ra nếu thông tin rơi vào tay chính phủ Trung Quốc, điều mà TikTok đã bác bỏ, tuyên bố họ sẽ không bao giờ bàn giao dữ liệu.
+Năm 2019, ByteDance từng bị Ủy ban Thương mại Liên bang Mỹ (FTC) phạt 5,7 triệu USD để giải quyết cáo buộc cho rằng ứng dụng Musical.ly, mà ByteDance mua và chuyển thành TikTok, đã thu thập bất hợp pháp thông tin từ trẻ vị thành niên.
+Đó là án phạt lớn nhất của FTC trong một vụ kiện về quyền riêng tư trẻ em vào thời điểm đó.
+Trong tháng 4 này, TikTok lại đối diện một vụ kiện khác, đại diện cho hàng triệu trẻ em ở Anh và Châu Âu trước những lo ngại về quyền riêng tư. Đơn kiện cáo buộc ứng dụng TikTok và công ty mẹ ByteDance vi phạm luật bảo vệ dữ liệu của Anh và Liên minh Châu Âu. Vụ kiện nhằm ngăn chặn TikTok "xử lý bất hợp pháp thông tin của hàng triệu trẻ em" và yêu cầu xóa mọi thông tin cá nhân.
+Theo Baotintuc

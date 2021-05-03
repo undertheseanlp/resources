@@ -1,15 +1,17 @@
 # doc_id = news_science_258
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/vi-sao-rang-e-buot-khi-an-uong-do-lanh-20210330164125945.htm
-# date = 20210330
-Một nghiên cứu mới đây cho thấy rất có thể protein TRPC5 chính là chìa khóa giải mã.
-Protein này có trong các tế bào tạo ngà bên trong răng. Đây là các tế bào hình thành nên lớp ngà nằm dưới lớp men răng. Mới đây các nhà nghiên cứu đã phát hiện ra các tế bào tạo ngà cũng chính là những cảm biến độ lạnh. Chúng cảm nhận được nhiệt độ bởi vì TRPC5 là một kênh ion, được coi như một cổng tiếp nhận các hóa chất truyền tín hiệu, như là calcium chẳng hạn, qua các màng tế bào trong những điều kiện nhất định, mà trong trường hợp này là khi tiếp xúc với đồ lạnh.
-Nhờ phát hiện này, các nhà khoa học có thể đưa ra các cách điều trị cho chứng đau hoặc siêu nhạy cảm ở răng, có thể dưới dạng kẹo cao su hoặc miếng dán trực tiếp lên ngà răng.
-Trước đó, các nhà nghiên cứu ở bệnh viện đa khoa Massachusetts, Mỹ, đã xác định được TRPC5 chính là một cảm biến nhiệt độ. Từ đó, họ tiến hành thí nghiệm trên chuột và nhận thấy những con chuột không có gene quy định mã cho TRPC5 thì không có phản ứng khi răng tiếp xúc với thức ăn lạnh. Ở những con có gene này, nếu dùng hóa chất để vô hiệu hóa các kênh ion protein này thì cũng có tác dụng mất cảm giác với thức ăn lạnh.
-Phân tích cụ thể trên những chiếc răng người đã được nhổ cũng cho thấy các kênh TRPC5 như vậy ở các tế bào tạo ngà. Điều này cho thấy răng người cũng có cùng cơ chế cảm biến.
-Protein TRPC5 còn có trong các bộ phận khác trong cơ thể, và đã từng được biết là có phản ứng với độ lạnh và gây ra một số phản ứng sinh học nhất định. Ngày nay chúng ta còn biết rằng chúng cũng có vai trò cảm biến tương tự ở các tế bào ngà răng. Như vậy là khoảng 2,4 tỷ người trên thế giới đang chung sống với những chiếc răng nhạy cảm sẽ có cơ hội được chữa trị.
-Nhưng trên hết, nghiên cứu mới này còn giúp chúng ta hiểu được vì sao nhiều thế kỷ qua, dầu đinh hương được dùng để điều trị đau răng. Đó là vì dầu đinh hương chứa hoạt chất eugenol có tác dụng vô hiệu hóa TRPC5.
-Răng trở nên nhạy cảm với nhiệt độ thấp có thể do bị sâu răng, do tụt lợi khi có tuổi, và nhiều nguyên nhân khác, một tác dụng phụ của điều trị răng bằng hóa chất.
-Các nhà nghiên cứu cho rằng nhạy cảm với độ lạnh có thể là một dấu hiệu để cơ thể đề phòng những tác động có hại hơn nữa cho chiếc răng đó. Các tế bào tạo ngà hoạt động mạnh hơn trong điều kiện lạnh có nghĩa là chiếc răng đang gặp môi trường có hại.
-Nghiên cứu răng người là một lĩnh vực rất khó. Tiến sĩ Jochen Lennerz, thành viên nhóm nghiên cứu cho biết "răng người không đơn giản là chỉ cần chụp cắt lớp mà tìm hiểu được". Nhóm của ông đã tiến hành nghiên cứu nói trên hơn mười năm qua mới có kết luận và sẽ còn tiếp tục tìm hiểu sâu hơn nữa.
-Phạm Hường 
-Theo Science Alert
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/vi-sao-rat-kho-diet-gian-20210413154441156.htm
+# date = 20210413
+Gián có bộ xương ngoài được tạo thành từ các tấm chồng lên nhau và được nối lại bằng một lớp màng co giãn. Lớp màng này đủ linh hoạt để chuyển năng lượng của gián đến chân của chúng, cho phép chúng có thể chui lọt ở những vết nứt và kẽ hở cực kỳ nhỏ. Trong khi đó, lớp bên ngoài dày và đặc của chúng có thể vừa bảo vệ vừa thay đổi, định hình khi cần thiết.
+Ngoài việc có một cơ thể mạnh mẽ nhưng có thể uốn cong, gián rất giỏi trong việc ẩn nấp. Chúng có thể ẩn mình dễ dàng ở nhiều khu vực và không bị ảnh hưởng bởi nhiệt độ thay đổi hoặc các yếu tố bên ngoài khác.
+Chúng thích ăn các nguồn protein truyền thống. Nhờ khứu giác tuyệt vời, gián có thể tìm thấy chất dinh dưỡng trong những nguồn như bìa cứng hoặc giấy.
+Tuy nhiên, khó diệt không có nghĩa là không có cách. Bạn có thể tránh phải diệt gián trong nhà bằng cách ngăn chúng xâm nhập ngay từ đầu.
+Vì gián có thể chui vào mọi ngóc ngách rất nhỏ nên đầu tiên, theo các chuyên gia, bạn hãy tìm cách trám các vết nứt xung quanh bên ngoài nhà mình.
+Bịt các khoảng trống dưới và xung quanh cửa ra vào, cửa sổ và nơi các đường dây điện đi vào nhà. Bịt kín các đường ống thoát nước và lỗ thoát nước thải, sử dụng các phương pháp bảo quản thực phẩm phù hợp.
+Thực tế, gián đang tìm đến nhà bạn để đáp ứng các nhu cầu cơ bản của chúng, đó là thức ăn, nước uống và nơi ở. Để loại bỏ chúng, nếu bạn nuôi thú cưng và cho chúng ăn ngoài trời, hãy dọn dẹp bát đĩa của chúng hàng đêm.
+Đảm bảo quầy, bàn và các bề mặt khác không có mảnh vụn. Không cất thức ăn trên bàn làm việc hoặc các khu vực khác trong nhà, nơi chúng có thể dễ bị lãng quên.
+Bên cạnh đó, một ngôi nhà bừa bộn là nơi ẩn náu lý tưởng của gián. Do đó, hãy loại bỏ các chồng báo, tạp chí hoặc giấy. Đây là những nơi ẩn náu và nguồn thức ăn tuyệt vời cho gián.
+Hút bụi thường xuyên để loại bỏ bụi bẩn, bụi và các mảnh vụn. Hãy đổ rác hàng ngày và cất các thùng chứa ngoài trời cách xa lối vào nhà của bạn.
+Dọn dẹp các khu vực không sử dụng hoặc ít đi lại, chẳng hạn như tủ quần áo, gác xép, nhà để xe, phòng tiện ích và khu vực lưu trữ nếu bạn phát hiện có gián lớn ở đó.
+Trong trường hợp gián đã xâm nhập vào nhà bạn, hay xác định loại gián đang xuất hiện vì mỗi loại sẽ có đặc điểm khác nhau.
+Hãy sử dụng bẫy keo. Bẫy bằng keo là một phương pháp dễ sử dụng để bắt và xác định gián cũng như xác nhận sự hiện diện của chúng trong khu vực nhà bạn. Những con gián sẽ chạy ngang qua các bẫy và bị bắt gọn.
+Trang Phạm

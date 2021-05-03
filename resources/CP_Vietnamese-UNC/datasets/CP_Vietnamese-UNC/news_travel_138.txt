@@ -1,12 +1,14 @@
 # doc_id = news_travel_138
-# url = https://dantri.com.vn/du-lich/kham-pha-ve-dep-hoang-so-o-manh-dat-co-duong-bien-gioi-dai-nhat-xu-nghe-20210405200559250.htm
-# date = 20210405
-Đến với xã biên giới Mỹ Lý, huyện Kỳ Sơn, tỉnh Nghệ An du khách có dịp được đi trên những con thuyền độc mộc...
-Rồi vượt qua những con sóng trên dòng Nậm Nơn để trải nghiệm những "hiểm nguy" mà con sông này tạo nên. Con sông Nậm Nơn này được bắt nguồn từ nước bạn Lào đổ về Việt Nam.
-Mỹ Lý cũng là xã nằm trên thượng nguồn của lòng hồ thủy điện bản Vẽ, nơi có dòng Nậm Nơn chảy qua. Trên địa bàn còn có dòng khe lớn đổ vào Nậm Nơn là khe Tắm. (Ảnh: Hồ Phương).
-Ghé thăm xã Mỹ Lý với một bầu không khí trong lành, đồng bào các dân tộc nơi đây đã thường xuyên nâng cao ý thức bảo vệ rừng và môi trường thiên nhiên. Vì vậy, nhiều đàn chim đã về đây trú ngủ, phát triển. Hiện nay, cung đường Tây Nghệ An chạy qua địa bàn Mỹ Lý đã tạo điều kiện hết sức thuận lợi cho du khách có nhiều cơ hội được tham quan và trải nghiệm cuộc sống của bà con xã Mỹ Lý. (Ảnh: Đào Tuấn - BNA).
-Đến Mỹ Lý chúng ta sẽ bắt gặp các bầy chim đi kiếm mồi vào buổi sáng và về trú ngủ vào buổi chiều. 
-Và đặc biệt hơn, đến với mảnh đất xã Mỹ Lý, du khách còn được chiêm ngưỡng tòa tháp cổ nghìn năm tuổi ở Bản Yên Hòa, mang kiến trúc Phật giáo đẹp, độc đáo. Bản Yên Hòa, nơi sinh sống của cộng đồng người Thái, với hơn 100 hộ dân sống cạnh bờ sông Nậm Nơn. Người dân nơi đây chủ yếu dựa vào nương rẫy, đánh bắt cá ...
-Xã Mỹ Lý cũng là xã có đường biên giới giáp Lào dài nhất xứ Nghệ với 43,5 km.
-Mỹ Lý có tổng diện tích 27.000 ha nằm trên địa hình núi cao. Xã Mỹ Lý có 12 bản dân cư với dân số 5.590 người của 1.250 hộ. 90% dân số xã Mỹ Lý thuộc cộng đồng dân tộc Thái, xã có 3 bản người Mông gồm: Nhọt Lợt, Phà Chiếng, Piêng Vai; 1 bản Khơ Mú là Huồi Pún. Bản trung tâm của xã Mỹ Lý là Xiềng Tắm.
-Nguyễn Duy - Duy Ngoãn
+# url = https://dantri.com.vn/du-lich/kinh-ngac-truoc-cach-trung-quoc-xay-thang-may-cao-nhat-the-gioi-bang-tay-20210401183313340.htm
+# date = 20210401
+Nằm chót vót ở độ cao hơn 300 m so với mực nước biển, hệ thống thang máy ngoài trời đưa du khách dũng cảm lên chiêm ngưỡng cảnh quan ngoạn mục trên cao thuộc công viên quốc gia Trương Gia Giới, tỉnh Hồ Nam, Trung Quốc.
+Với tầm cao này, du khách được bước tới đỉnh của mặt đá sa thạch - nơi từng tạo nguồn cảm hứng cho cảnh quan của dãy núi Pandora Hallelujah trong phim bom tấn Avatar do Hollywood sản xuất.
+Người ta còn ví von hệ thống thang máy Bách Long là tháp Eiffel của Trung Quốc. Công trình đã thiết lập hàng loạt kỷ lục Guiness, bao gồm: thang máy ngoài trời cao nhất thế giới, thang máy tham quan 2 tầng cao nhất và thang máy hành khách nhanh nhất với sức chở lớn nhất.
+Việc xây dựng hệ thống thang máy Bách Long tại khu thắng cảnh này là điều rất cần thiết. Nếu muốn đi bộ lên đỉnh, du khách phải bước trên 999 bậc đá. Nhưng sử dụng thang máy, người ta chỉ mất 1 phút để di chuyển từ chân núi tới đỉnh cao 326m.
+Trung bình mỗi giờ, thang máy Bạch Long phục vụ khoảng 1.380 hành khách. Công trình còn được trang bị thêm hệ thống laser và đường hầm thoát hiểm trong trường hợp nguy cơ địa chấn xảy ra.
+Được biết, vào những năm 1990, lời đồn đại về cảnh quan hùng vỹ tại đây đã lan rộng, thu hút lượng lớn khách du lịch tới đây đi bộ xuyên rừng. Điều này phần nào khiến hệ sinh thái bị ảnh hưởng buộc chính phủ Trung Quốc phải hành động.
+Nhằm bảo vệ hệ sinh thái cũng như giúp du khách thấy được cảnh quan thiên nhiên tuyệt đẹp, chính quyền Trung Quốc đã cho xây một thang máy nửa bên trong, một nửa bên ngoài vách núi sa thạch. Đáng kinh ngạc ở chỗ, thang máy được xây bằng tay bởi không thể vận chuyển các máy móc hạng nặng lên trên do địa hình quá hiểm trở.
+Ở độ cao 168 m, du khách có thể nhìn thấy nhưng thực chất chỉ bằng hơn một nửa tổng chiều cao của thang máy. Độ cao 152 m thấp hơn được ẩn bên dưới các trục bên trong vách đá. Dưới đáy là đường hầm dài 200 m dẫn tới sảnh chính.
+Thời điểm hiện tại, mọi thứ vẫn đang vận hành suôn sẻ, nhưng việc tạo nên hệ thống thang máy Bạch Long được các kỹ sư công nhận là một kỳ tích nhờ sự nỗ lực và kỹ thuật tiên tiến.
+Quốc Việt
+Theo Smithsonian Channel/ Wonder World

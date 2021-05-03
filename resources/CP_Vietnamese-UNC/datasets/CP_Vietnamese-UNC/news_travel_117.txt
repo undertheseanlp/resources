@@ -1,15 +1,14 @@
 # doc_id = news_travel_117
-# url = https://dantri.com.vn/du-lich/hang-van-nguoi-du-khai-mac-nam-du-lich-quoc-gia-bat-buoc-phai-khai-bao-y-te-20210419152217812.htm
-# date = 20210419
-Lễ Khai mạc Năm Du lịch Quốc gia năm 2021 - Lễ hội Hoa Lư sẽ diễn ra vào tối ngày 20/4 tại Khu di tích Quốc gia đặc biệt Cố đô Hoa Lư (xã Trường Yên, huyện Hoa Lư).
-Theo Ban tổ chức, dự kiến sẽ có hàng vạn đại biểu, người dân và du khách tham dự sự kiện này.
-Để đảm bảo công tác vệ sinh môi trường khu vực tổ chức Lễ Khai mạc, phòng chống, không để dịch Covid-19 xảy ra, Ban tổ chức sẽ bố trí 5 máy quét thân nhiệt tự động tại 3 cổng vào khu vực tổ chức Lễ Khai mạc: Cổng phía Đông (2 máy), Cổng phía Bắc (2 máy), Cổng phía Nam, hướng đi thôn Chi Phong (1 máy); ngoài ra còn sử dụng thêm các nhiệt kế hồng ngoại cầm tay để thực hiện kiểm tra thân nhiệt cho 100% đại biểu và người dân tham dự.
-Tất cả đại biểu, người dân và du khách đến tham dự Lễ khai mạc Năm Du lịch Quốc gia 2021 và Lễ hội Hoa Lư vào tối 20/4 tới, bắt buộc phải khai báo y tế, đeo khẩu trang... đảm bảo phòng chống dịch Covid-19.
-Đại biểu và người dân bắt buộcphải hoàn thành 4 bước khi dự sự kiện: Sát khuẩn tay, đeo khẩu trang, đo thân nhiệt và khai báo y tế mới được vào tham dự lễ khai mạc. Việc khai báo y tế được thực hiện bằng 2 hình thức: dùng điện thoại thông minh quét mã QR-Code hoặc ghi tờ khai y tế.
-Tất cả các trường hợp bị ho, sốt, khó thở… nghi nhiễm SARS-CoV-2 phải đưa về nhà bạt cách ly tạm thời, lấy mẫu xét nghiệm và chuyển đến cách ly tại Trạm Y tế xã Trường Yên hoặc Trạm Y tế xã Ninh Hòa.
-Bà Lê Thị Bích Thục, Phó Giám đốc Trung tâm bảo tồn di tích lịch sử - văn hóa Cố đô Hoa Lư cho biết, để chuẩn bị cho đêm khai mạc, trước đó, Trung tâm đã phối hợp với ngành Y tế phun khử khuẩn toàn bộ khu di tích. Đồng thời tuyên truyền, khuyến cáo người dân và du khách đến tham quan, chiêm bái tại khu di tích thực hiện nghiêm túc các quy định về phòng, chống dịch bệnh Covid-19.
-Theo ông Trần Văn Doanh, Giám đốc Trung tâm Y tế huyện Hoa Lư, mặc dù từ đầu năm đến nay, trên địa bàn tỉnh chưa có ca bệnh COVID-19 trong cộng đồng, các biện pháp phòng chống dịch được thực hiện nghiêm túc. Tuy nhiên, nguy cơ dịch bệnh luôn thường trực, đòi hỏi mỗi người dân, du khách khi đến nơi đông người cần thực hiện nghiêm các quy định về phòng dịch của Bộ Y tế.
-Ngành Y tế cũng đã xây dựng phương án cụ thể, bố trí máy đo nhiệt độ tự động, chuẩn bị dung dịch sát khuẩn, khẩu trang tại 2 cổng vào sân lễ hội. Đồng thời, hướng dẫn du khách khai báo y tế bằng MÃ QR-CODE, thành lập tổ cấp cứu, theo dõi và nắm bắt các trường hợp có dấu hiệu ho, sốt, khó thở, kiên quyết thực hiện cách ly theo đúng quy định.
-Ban chỉ đạo Phòng, chống dịch Covid-19 tỉnh Ninh Bình cho hay, để chủ động phòng chống dịch Covid-19 tại Lễ Khai mạc Năm du lịch Quốc gia và Lễ hội Hoa Lư năm 2021, Ban chỉ đạo yêu cầu các đại biểu, khách mời và toàn bộ người dân tham gia Lễ khai mạc thực hiện nghiêm túc các biện pháp như sau:
-Thực hiện triệt để việc kiểm tra thân nhiệt, đeo khẩu trang thường xuyên và sát khuẩn tay nhanh tại khu vực ra vào đối với 100% đại biểu, khách mời và người dân tham dự lễkhai mạc. Toàn bộ người dân thực hiện "Khai báo y tế" trong quá trình ĐI VÀ ĐẾN hay còn gọi là "CHECK-IN/CHECK-OUT" Y TẾ bằng 02 hình thức tại các địa điểm tổ chức lễ khai mạc.
-Thái Bá
+# url = https://dantri.com.vn/du-lich/hoang-hon-canh-ca-sau-o-at-len-bo-di-tim-tinh-yeu-o-my-20210413104752543.htm
+# date = 20210413
+Khi mùa mưa bắt đầu, những con cá sấu vào khu vực đô thị để tìm "tình yêu" trở thành mối đe dọa với các cư dân ở Florida, Mỹ.
+Tháng 4 là tháng cuối cùng của mùa khô ở bang Florida đồng thời đánh dấu quá trình giao phối, sinh sản của loài bò sát này. Nhiệt độ cao làm cho quá trình trao đổi chất tăng lên khiến chúng có thể di chuyển xa hơn để tìm thức ăn và bạn tình.
+Tuần trước, văn phòng cảnh sát Hillsborough, Mỹ nhận được cuộc gọi của người dân báo có một con cá sấu dài 3m đang "ẩn mình" dưới một chiếc ô tô đang đỗ tại Tampa, Florida.
+Trước đó, một người đàn ông ở hạt Pinellas phát hiện một con cá sấu dài 2,1m đang nằm trong bể bơi.
+Thậm chí, có người còn phát hiện 2 con cá sấu đang giao phối ở sân sau tại trang trại Lakewood, sự việc được quay video và đăng tải lên Youtube.
+Ủy ban bảo tồn động vật hoang dã và cá Florida cảnh báo: "Thời tiết mùa xuân ấm áp có nghĩa cá sấu hoạt động nhiều hơn và dễ gặp chúng hơn".
+Hiện nay, bang Florida thiết lập đường dây nóng để người dân báo cáo nếu gặp cá sấu. Mặc dù, loài bò sát này có thể hung dữ hơn trong mùa giao phối nhưng tỷ lệ cá sấu vô cớ tấn công người ở Florida chỉ là 1/3,2 triệu.
+Tuy vậy, ủy ban bảo tồn động vật hoang dã và cá Florida khuyên, người dân không cho cá sấu ăn, giữ khoảng cách an toàn nếu gặp chúng, chỉ bơi vào ban ngày và ở nơi được chỉ định...
+Phần lớn cá sấu giao phối trong tháng 5 và tháng 6, con cái đẻ trung bình 32-46 quả trứng. Những quả trứng sẽ nở vào cuối hè hoặc đầu thu.
+Phương Hà
+Theo The Guaridan/The Hill

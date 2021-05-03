@@ -1,22 +1,15 @@
 # doc_id = news_health_222
-# url = https://dantri.com.vn/suc-khoe/than-toc-lap-benh-vien-da-chien-500-giuong-tai-ha-nam-san-sang-hoat-dong-20210501155251134.htm
-# date = 20210501
-Sáng 1/5, Đoàn công tác của Bộ Y tế do Cục trưởng Cục khám chữa bệnh Lương Ngọc Khuê làm trưởng đoàn, đã về Hà Nam để kiểm tra công tác triển khai lắp đặt bệnh viện dã chiến tại Bệnh viện Bạch Mai cơ sở 2. Hiện tại Bệnh viện dã chiến đã hoàn thành lắp đặt thiết bị, máy móc, chuẩn bị đủ thuốc men, sẵn sàng tiếp nhận và điều trị cho bệnh nhân Covid-19 ngay trong chiều nay.
-Sáng 1/5, Đoàn công tác của Bộ Y tế do Cục trưởng Cục khám chữa bệnh Lương Ngọc Khuê làm trưởng đoàn, đã về Hà Nam để kiểm tra công tác triển khai lắp đặt bệnh viện dã chiến tại Bệnh viện Bạch Mai cơ sở 2.
-Thực hiện lắp đặt thiết bị xuyên đêm
-Theo báo cáo của Bệnh viện Bạch Mai, thực hiện chỉ đạo của Bộ Y tế, đêm 29/4, Bệnh viện đã cử hàng trăm cán bộ xuống làm việc với tỉnh để giám sát và triển khai các công tác hỗ trợ tỉnh Hà Nam, đầu tiên là lắp đặt phòng xét nghiệm Covid-19. Đến chiều 30/4, bệnh viện đã sẵn sàng nhận các test, có thể triển khai 10.000 mẫu xét nghiệm/ngày.
-Các cán bộ y tế của bệnh viện làm việc ngày đêm trong ngày 30/4 đãlắp đặt xong 50 giường cấp cứu và hồi sức tích cực áp dụng đầy đủ kỹ thuật cao từ ECMO để có thể tiếp nhận điều trị bệnh nhân Covid-19 ngay. Bệnh viện đang tiếp tục lắp đặt thêm hơn 400 giường bệnh nữa. Toàn bộ 500 giường, máy móc, trang thiết bị, phục vụ điều trị của Bệnh viện dã chiến tại Bạch Mai cơ sở 2 được chuyển đến từ cơ sở 1.
-Cơ sở 2 của Bệnh viện Bạch Mai được xây dựng tại Hà Nam.
-Xét nghiệm với công suất 10.000 mẫu một ngày
-Bệnh viện Bạch Mai đã điều động 5 kíp bác sĩ theo các chuyên khoa: cấp cứu, điều trị tích cực, truyền nhiễm, tim mạch và nhi ứng trực tại Bệnh viện Dã chiến Hà Nam. Bệnh viện cũng thống nhất kế hoạch với tỉnh Hà Nam sẽ chuyển các bệnh nhân F1 là người cao tuổi, có bệnh lý nền, trẻ em đến điều trị và theo dõi tại Bệnh viện dã chiến này.
-Để Bệnh viện dã chiến có thể đi vào hoạt động tốt, Bệnh viện Bạch Mai để nghị tỉnh Hà Nam hỗ trợ bệnh viện về công tác hậu cần (nơi ăn nghỉ cho đội ngũ cán bộ y, bác sỹ; bố trí dịch vụ cung cấp suất ăn), bố trí lực lượng công an, quân sự làm nhiệm vụ tại bệnh dã chiến, triển khai các điều kiện phòng chống dịch theo tiêu chí Bệnh viện an toàn.
-Cục trưởng Cục khám chữa bệnh Lương Ngọc Khuê và lãnh đạo tỉnh Hà Nam, kiểm tra phòng điều trị áp dụng kỹ thuật cao từ ECMO dành cho bệnh nhân COVID-19 nặng.
-Cục trưởng Lương Ngọc Khuê khẳng định, với kinh nghiệm hỗ trợ công tác chống dịch và thành lập Bệnh viện dã chiến tại Quảng Nam, Đà Nẵng, Hải Dương… Bệnh viện Bạch Mai đã nhanh chóng hoàn thiện cơ sở vật chất và trang thiết bị cho Bệnh viện dã chiến tại Hà Nam trong thời.
-Cục Khám chữa bệnh sẽ nhanh chóng hoàn thiện thủ tục trình Bộ Y tế ra quyết định thành lập Bệnh viện dã chiến tại Bệnh viện Bạch Mai cơ sở 2 để đảm bảo các bệnh nhân điều trị tại đây được thanh toán BHYT như bệnh nhân điều trị tại cơ sở 1; cấp máy móc thiết bị phục vụ bệnh viện dã chiến theo yêu cầu của công tác phòng chống dịch.
-Theo kế hoạch, chiều 1/5 tỉnh Hà Nam sẽ chuyển các bệnh nhân F1 nguy cơ cao (người lớn tuổi, có bệnh lý nền, trẻ em…) đến điều trị và theo dõi tại bệnh viện dã chiến này.
-"Chiều tối nay, chúng tôi sẽ đưa tiếp 400 giường điều trị bệnh nhân Covid-19 dương tính vào hoạt động. Tất cả vật tư, trang thiết bị y tế, thuốc men đều được hỗ trợ tối đa từ Bệnh viện Bạch Mai cơ sở 1 và Bệnh viện Đa khoa tỉnh Hà Nam đã sẵn sàng để điều trị cho bệnh nhân", GS.TS Nguyễn Quang Tuấn, Giám đốc Bệnh viện Bạch Mai cho biết.
-Tại đây, Bệnh viện có 5 kíp bác sĩ theo các chuyên khoa: cấp cứu, điều trị tích cực, truyền nhiễm, tim mạch và nhi.
-Tổng số giường lắp đặt khoảng 300 đến 500 giường, trong đó có 30 giường cấp cứu hồi sức, áp dụng đầy đủ kỹ thuật cao như EMCO, máy thở... Toàn bộ 500 giường, máy móc, trang thiết bị, hệ thống oxy… của bệnh viện dã chiến được chuyển đến từ cơ sở 1.
-Bên cạnh đó, hệ thống xét nghiệm khẳng định SARS-CoV-2 đã được khởi động, có thể hỗ trợ Hà Nam xét nghiệm ngay với công suất 10.000 mẫu một ngày. Bệnh viện Bạch Mai đã huy động nhân lực và vật lực tối đa, khẩn trương và thần tốc để thiết lập Bệnh viện dã chiến này.
-Theo Thông tin từ Ban Chỉ đạo phòng, chống dịch Covid-19 tỉnh Hà Nam cho biết, đến thời điểm hiện tại, cơ sở cách ly y tế tập trung trường Cao đẳng y tế Hà Nam đã tiếp nhận 333 trường hợp thuộc diện F1 liên quan đến các ca bệnh dương tính với virus SARS-CoV-2 tại địa phương. Trong số các trường hợp về cách ly tại cơ sở cách ly tập trung có cả người già, trẻ em, thậm chí có người liệt toàn thân phải có người thân chăm sóc. Hiện nay, các lực lượng đang tiếp tục truy vết và xác định dự kiến còn hàng trăm trường hợp thuộc diện F1 cần đưa đi cách ly tập trung.
-Đức Văn- Nam Phương
+# url = https://dantri.com.vn/suc-khoe/the-nao-la-giai-doan-som-cua-ung-thu-thuc-quan-20210421064147133.htm
+# date = 20210421
+Các bác sĩ cho biết, bệnh nhân ung thư thực quản nếu được phát hiện sớm khi chỉ có tổn thương tại chỗ sẽ có thể thực hiện các biện pháp điều trị tại chỗ như phẫu thuật hoặc xạ trị, tiên lượng khả quan. Tuy nhiên, nếu ở giai đoạn muộn, ung thư di căn xa thì phải tiến hành điều trị toàn thân và tiên lượng cũng xấu hơn.
+Vậy ung thư thực quản được chia làm mấy giai đoạn, dấu hiệu để phát hiện sớm ung thư thực quản như thế nào?
+Các giai đoạn ung thư thực quản
+Sau khi được chẩn đoán mắc bệnh ung thư thực quản, các bác sĩ sẽ bước vào đánh giá giai đoạn của bệnh ung thư với 4 giai đoạn sau:
+-Ung thư thực quản giai đoạn 1: tế bào ung thư nằm ở lớp trên cùng của thành thực quản.
+-Ung thư thựcquản giai đoạn 2: là khi tế bào ung thư đã xâm lấn đến tổ chức bạch huyết lân cận, tuy nhiên chưa ảnh hưởng đến các bộ phận khác của cơ thể.
+-Ung thư thực quản giai đoạn 3: trong vùng cạnh thực quản, tế bào ung thư đã xâmlấn tổ chức và bạch huyết, ảnh hưởng đến lớp sâu hơn của thành thực quản.
+-Ung thư thực quản giai đoạn 4: tế bào ung thư đã xâm lấn đến các bộ phận khác của cơ thể như: gan, phổi, não, xương. Ở giai đoạn này, cần sử dụng các phương pháp y học như: Chụp cắt lớp vi tính, xạ hìnhxương, nội soi phế quản để chẩn đoán bệnh.
+Điều trị ung thư thực quản cần phụ thuộc vào một số yếu tố như: kích thước, sự lan tỏa của khối u và tình trạng chung của bệnh nhân, bác sĩ sẽ tư vấn và chỉ định phẫu thuật hay hóa trị, xạ trị, liệu pháp miễn dịch .... Tuy nhiên phẫu thuật là biện pháp chủ yếu. Thông qua phương pháp phẫu thuật, khối u sẽ được lấy cùng với một phần hoặc toàn bộ thực quản, tổ chức bạch huyết kệ cận và các tổ chức khác trong vùng.
+Càng được phát hiện sớm, việc điều trị càng mang lại tiên lượng tốt.
+Vì vậy, người dân khi thấy có triệu chứng: nuốt đau, nuốt khó, nuốt nghẹn, gầy sút cân nhiều, đau họng hoặc lưng, ho kéo dài, nôn, ho ra máu cần đi khám chuyên khoa ung bướu và khi phát hiện bệnh cần điều trị sớm tại cơ sở uy tín, không nên đợi bệnh trở nên nghiêm trọng mới đến viện khiến quá trình chữa trị kéo dài, nặng nề, tốn kém.
+Tú Anh

@@ -1,28 +1,25 @@
 # doc_id = news_sport_223
-# url = https://dantri.com.vn/the-thao/sieu-giai-dau-european-super-league-se-lam-loan-the-gioi-bong-da-20210419140647310.htm
-# date = 20210419
-European Super League là gì?
-Đêm qua, đại diện của 12 CLB hàng đầu châu Âu lúc này đã cùng thống nhất thành lập siêu giải đấu European Super League. Trong đó bao gồm 6 đội bóng của Anh là Man Utd, Man City, Chelsea, Liverpool, Arsenal, Tottenham, 3 CLB của Tây Ban Nha là Real Madrid, Barcelona, Atletico Madrid, 3 CLB của Italia là Juventus, AC Milan và Inter.
-Siêu giải đấu European Super League đang đe dọa sự ổn định của thế giới bóng đá.
-Trong đó, Chủ tịch của Real Madrid, Florentino Perez được bầu làm chủ tịch ban điều hành Super League. Hai phó chủ tịch là Andrea Agnelli (chủ tịch của Juventus) và Joel Glazer (người sở hữu Man Utd).
-Trước đó, hai CLB của Đức là Dortmund, Bayern Munich cũng như CLB PSG của Pháp đã đồng ý nhưng họ bất ngờ rút lui vào phút chót. Theo mong muốn của những người khởi xướng European Super League, họ cần 15 đội bóng tham dự cố định (3 suất này đáng ra thuộc về Dortmund, Bayern Munich, PSG) và 5 CLB khác tham dự theo sự tuyển chọn vào mỗi mùa giải.
-Theo dự kiến, mùa giải European Super League sẽ diễn ra vào tháng 8 hàng năm. Các trận đấu diễn ra vào giữa tuần và không trùng với lịch thi đấu ở giải VĐQG. Do đó, các đội bóng dự European Super League vẫn có thể thi đấu ở giải quốc nội.
-20 CLB sẽ được chia ra làm 2 bảng, thi đấu vòng tròn lượt đi và về theo thể thức sân nhà sân khách. 3 đội đứng đầu mỗi bảng sẽ giành vé vào tứ kết. Các đội bóng xếp thứ 4 và 5 ở mỗi bảng sẽ đá play-off sẽ tranh hai suất còn lại. Từ vòng tứ kết, giải đấu sẽ thi đấu loại trực tiếp với hai lượt trận. Riêng trận chung kết sẽ chỉ thi đấu 1 trận.
-Vì sao European Super League ra đời?
-Thực tế, tham vọng ra đời một siêu giải đấu đã xuất hiện trong vài năm trở lại đây. Những "CLB sáng lập" (bao gồm các ông lớn ở châu Âu) có tham vọng tạo ra giải đấu với chất lượng của các trận đấu được nâng cao hơn, có tính cạnh tranh nhiều hơn. Tất nhiên, đi kèm với đó là nguồn lợi kinh tế khổng lồ (thậm chí hơn cả Champions League ngày nay). Đơn giản, giải đấu quy tụ gần như toàn bộ "cỗ máy kiếm tiền" trong làng túc cầu.
-Nguồn lợi quá lớn khiến các CLB lớn đang trà đạp lên lợi ích chung.
-Đặc biệt, khi những CLB lớn chịu ảnh hưởng nặng nề bởi đại dịch Covid-19, họ càng có quyết tâm hơn để thực hiện siêu giải đấu này, để kiếm tiền mạnh mẽ hơn.
-Ngoài ra, nhóm "CLB sáng lập" cũng không tin rằng thể thức hiện tại của các cúp châu Âu cũng như những cải tổ trong tương lai của UEFA có thể mang tới cho người hâm mộ những trận đấu chất lượng, cũng như thúc đẩy doanh thu (đặc biệt là cho những đội bóng mạnh).
-Theo vài nguồn tin, một số tổ chức sẵn sàng tài trợ vài tỷ USD để triển khai dự án European Super League.
-Theo ước tính của European Super League, các CLB sáng lập có thể thu về số tiền 3,5 tỷ euro (mà không phải cắt phế cho UEFA). Tính ra, mỗi đội bóng có thể nhận được 400 triệu euro (gấp 4 lần ở Champions League). Trong khi đó, theo thể thức ở các cúp châu Âu, UEFA nắm toàn bộ doanh thu và dựa trên con số đó chia cho các đội bóng tham dự.
-FIFA, UEFA phản đối. Án phạt nào cho những "kẻ nổi loạn"?
-Đương nhiên, việc các CLB tự ý tách riêng động tới khá nhiều quyền lợi của UEFA lẫn FIFA. Do đó, họ đang phản đối dữ dội. Chủ tịch UEFA, Aleksander Ceferin nhấn mạnh hành động của 12 CLB nói trên là "ích kỷ" và "thiếu tính đoàn kết".
-FIFA và UEFA sẽ thẳng tay trừng trị những "kẻ nổi loạn"?
-UEFA nhấn mạnh luôn "ủng hộ sự đoàn kết trong bóng đá và mô hình hiện tại đảm bảo doanh thu công bằng cho mọi đội bóng".
-Họ đã phát đi thông báo: "Chúng tôi sẽ xem xét tất cả biện pháp ở cả vấn đề tư pháp và thể thao để ngăn chặn European Super League. Các CLB liên quan đến những giải đấu không chính thống sẽ bị cấm thi đấu ở giải quốc nội, châu Âu và thế giới. Những cầu thủ thuộc biên chế của các CLB này sẽ không được thi đấu cho đội tuyển quốc gia".
-FIFA từng đưa ra thông báo hồi tháng 1/2021 (khi kế hoạch của các CLB vẫn nằm trong ý tưởng) rằng sẽ không cấp phép cho giải đấu không chính thống. Bất kỳ CLB hay cầu thủ nào liên quan tới giải đấu như vậy sẽ không được thi đấu ở các giải đấu hay liên đoàn thuộc FIFA.
-Trong khi đó, giải Premier League có điều khoản yêu cầu các CLB muốn tham dự giải đấu này phải có "sự chấp thuận bằng văn bản của Hội đồng quản trị giải đấu". Nếu tự ý vi phạm thì các CLB sẽ bị phạt rất nặng.
-Giả sử, European Super League được tổ chức thì nó sẽ tạo ra sự hỗn loạn, đảo điên trong thế giới bóng đá. Nó khiến thế giới bóng đá đi theo hướng khác, trong đó mọi thứ đều bị đảo lộn và không tuân theo quy tắc nào.
-Thủ tướng Anh, Boris Johnson nhấn mạnh: "Các kế hoạch tổ chức giải đấu European Super League sẽ khiến thế giới bóng đá đảo lộn. Chúng tôi ủng hộ quyết định mạnh tay của những nhà quản lý bóng đá. Các CLB có liên quan phải trả lời người hâm mộ và cộng đồng bóng đá trước khi thực hiện kế hoạch nào tiếp theo".
-Bởi lẽ đó, nhiều khả năng ý tưởng tổ chức European Super League sẽ chỉ nằm trên giấy. Nó giống như "đứa con không thừa nhận" của thế giới bóng đá. Trong đó, nếu vi phạm thì quyền lực của các CLB và cầu thủ sẽ bị ảnh hưởng rất lớn. Ở khía cạnh nào đó, nó có thể phá nát sự ổn định hiện tại của làng túc cầu.
+# url = https://dantri.com.vn/the-thao/thang-huy-diet-as-roma-62-man-utd-mo-toang-canh-cua-vao-chung-ket-20210430044740940.htm
+# date = 20210430
+Man Utd xuất sắc giành chiến thắng với tỷ số 6-2 trước AS Roma.
+Trước thềm trận đấu với AS Roma ở lượt đi bán kết Europa League, những người hâm mộ của Man Utd đã đề cập tới chiến thắng 7-1 trước đối thủ này ở Old Trafford tại bán kết Champions League 2007.
+Dường như điều đó đã trở thành động lực lớn giúp cho thầy trò HLV Solskjaer tạo nên trận đấu bùng nổ nhất mùa giải. Họ đã biến AS Roma thêm một lần nữa trở thành nạn nhân của màn hủy diệt tại "Nhà hát của những giấc mơ".
+Cavani thi đấu tuyệt hay khi đóng góp cú đúp.
+Sau 90 phút thi đấu, Man Utd đã xuất sắc vùi dập AS Roma với tỷ số 6-2. Trong đó, Bruno Fernandes và Cavani mỗi người lập cú đúp. Hai bàn thắng còn lại của Quỷ đỏ do công của Pogba và Greenwood. Chiến thắng này gần như chắc chắn đã đảm bảo tấm vé lọt vào chung kết cho Man Utd.
+Bước vào trận đấu này, Man Utd ra sân với sơ đồ 4-2-3-1 với Cavani đá cắm. Hỗ trợ cho cầu thủ này là Pogba, Bruno Fernandes và Rashford. Hai tiền vệ trung tâm của CLB là Fred và McTominay. Trong khi đó, ở bên kia chiến tuyến, AS Roma ra sân với sơ đồ 3-4-2-1 với Dzeko đá cao nhất.
+Bruno Fernandes cũng đóng góp 2 bàn thắng cho Man Utd.
+Ngay sau tiếng còi khai cuộc, hai đội đã thể hiện màn đôi công rực lửa. Trước đối thủ thi đấu quá "hồn nhiên", Man Utd đã có bàn mở tỷ số ngay ở phút thứ 9. Từ pha phát động của Pogba, bóng tới chân của Cavani. Cầu thủ người Uruguay đã thực hiện đường chuyền một chạm cho Bruno Fernandes băng xuống hạ gục thủ thành Pau Lopez, mở tỷ số trận đấu.
+Tuy nhiên, AS Roma đã ngay lập tức có câu trả lời. Phút 12, Pogba để bóng chạm tay trong vòng cấm và trọng tài đã cho CLB Italia hưởng phạt đền. Trên chấm 11 mét, Pellegrini đã dứt điểm thành công, san bằng tỷ số 1-1.
+Pogba cũng có trận đấu khiến cho HLV Solskjaer hài lòng.
+Trong những phút tiếp theo, hai đội vẫn đôi công rực rỡ. Phút 33, Dzeko đã đưa AS Roma vượt lên dẫn trước 2-1.Sau đường chuyền của Pellegrini, tiền đạo người Bosnia đã dễ dàng đệm bóng vào lưới trống.
+Cuối hiệp 1, Cavani có cơ hội không thể thuận lợi hơn để gỡ hòa khi đối mặt với thủ môn. Tuy nhiên, sau 2 cú dứt điểm, tiền đạo người Uruguay vẫn không thành công. Hiệp 1 kết thúc với tỷ số 2-1 nghiêng về AS Roma.
+AS Roma chỉ bùng nổ trong thời gian ngắn ở hiệp 1.
+Tuy nhiên, hiệp 2 lại chứng kiến hình ảnh vô cùng bùng nổ của Man Utd. Phút 48, Bruno Fernandes đã thực hiện đường chuyền thuận lợi cho Cavani vô lê tung nóc lưới AS Roma, san bằng tỷ số 2-2.
+Sau khi có được bàn thắng gỡ hòa, Man Utd thi đấu cực hay. Họ thậm chí khiến cho AS Roma không thể lên bóng. Cuối cùng, điều gì tới đã phải tới. Phút 64, pha dứt điểm của Wan-Bissaka đã chạm chân cầu thủ AS Roma khiến cho thủ thành Mirante (vào thay Pau Lopez) vất vả cản phá. Cavani đã có mặt đúng lúc để đệm bóng tung lưới đội khách, nâng tỷ số lên 3-2.
+Chỉ đúng 1 phút sau, Cavani đã mang về cho Man Utd quả phạt đền sau khi bị Smalling phạm lỗi. Trên chấm 11 mét, Bruno Fernandes đã dứt điểm thành công, giúp Man Utd dẫn trước 4-2.
+Man Utd đang ở rất gần thiên đường
+Trong thời gian còn lại, AS Roma gần như vỡ trận. Họ liên tiếp để thủng lưới thêm 2 bàn nữa do công của Pogba (phút 75) và Greenwood (phút 86) để giành chiến thắng chung cuộc với tỷ số 6-2.
+Ở trận bán kết còn lại, Villarreal đã hạ gục Arsenal với tỷ số 2-1. Đây là trận đấu mà đại diện Tây Ban Nha đã sớm có 2 bàn thắng dẫn trước của Manu Trigueros và Albiol. Sau đó, Arsenal còn phải thi đấu với 10 người khi Dani Ceballos bị truất quyền thi đấu.
+Arsenal thua 1-2 trên sân của Villarreal.
+Dù sao, Nicolas Pepe đã vớt vát lại chút hy vọng cho Arsenal bằng bàn thắng rút ngắn tỷ số xuống còn 1-2 ở phút73. Với 1 bàn thắng trên sân khách, hy vọng lội ngược dòng của "Pháo thủ" ở lượt về vẫn còn khá sáng.
 H.Long

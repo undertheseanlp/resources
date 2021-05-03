@@ -1,10 +1,19 @@
 # doc_id = news_health_087
-# url = https://dantri.com.vn/suc-khoe/chuyen-15000-lieu-vac-xin-covid-19-tu-hai-duong-cho-8-tinh-mien-tay-20210427111338762.htm
-# date = 20210427
-Cụ thể, Bộ Y tế điều chuyển 20.000 liều vắc xin trong tổng số 43.700 liều vắc xin cấp cho Trung tâm Kiểm soát bệnh tật tỉnh Hải Dương đợt 2 cho Lào Cai và 8 tỉnh miền Tây. Trong đó, Lào Cai có 5.000 liều; Tiền Giang, Bến Tre, Sóc Trăng được phân bổ 2.000 liều mỗi tỉnh. Còn lại các tỉnh Trà Vinh, Vĩnh Long, Hậu Giang, Bạc Liêu, Cà Mau, mỗi địa phương có 1.800 liều.
-Dự án Tiêm chủng mở rộng Quốc gia - Viện Vệ sinh dịch tễ Trung ương thực hiện điều chuyển vắc xin từ Trung tâm Kiểm soát bệnh tật tỉnh Hải Dương đến Dự án Tiêm chủng mở rộng khu vực miền Bắc và miền Nam để cung ứng cho các địa phương, đơn vị theo danh sách trên. Các đơn vị tiếp nhận vắc xin và tổ chức triển khai tiêm chủng theo quy định.
-Theo Bộ trưởng Y tế Nguyễn Thanh Long, trong thời gian qua, Ban Chỉ đạo Quốc gia và Bộ Y tế liên tục có những cảnh báo với việc có thể xuất hiện đợt dịch thứ 4 ở Việt Nam. Đây là nguy cơ hiện hữu và dịch lần sau thường tàn khốc hơn lần trước.
-"Chúng tôi cho rằng, nguy cơ lây nhiễm từ ngoài vào Việt Nam ở khu vực Tây Nam bộ rất lớn cộng thêm dịp nghỉ lễ dài ngày 30/4-1/5 sắp tới, nhưng hiện có một bộ phận người dân lơ là, mất cảnh giác với việc phòng chống lây nhiễm Covid-19, không tuân thủ khuyến cáo 5K của Bộ Y tế, đặc biệt không đeo khẩu trang, khử khuẩn. Nếu để xảy ra dịch tại khu vực này sẽ ảnh hưởng mọi mặt từ an sinh, xã hội đến phát triển kinh tế", Bộ trưởng Bộ Y tế bày tỏ lo lắng.
-Thời gian gần đây, tại khu vực phía Nam, người nhập cảnh gia tăng nhanh chóng. Riêng trong tháng 4 đã tăng gấp đôi so với tháng 2. Đặc biệt, tỷ lệ ca bệnh dương tính từ người nhập cảnh rất cao, tăng 10-13 lần so với tháng 1/2021. Trong khi đó, kết quả giải trình tự gene mẫu bệnh phẩm của các bệnh nhân Covid-19 về từ nước láng giềng cho thấy có đến gần 86 % bệnh nhân mang biến thể phát hiện tại Anh và 14,3% mang biến thể Nam Phi. Do đó, tốc độ lây lan nhanh, nguy cơ xâm nhập rất lớn, tuy nhiên chúng ta thấy rằng năng lực kiểm soát và khả năng phòng chống của khu vực này đã được nâng lên.
-TS Phan Trọng Lân, Viện trưởng Viện Pasteur TP HCM cho rằng nguy cơ dịch bệnh luôn hiện hữu trên khắp cả nước, do đó nơi nào có tập trung đông người, nơi nào lơ là, không tuân thủ các quy định phòng chống dịch và giám sát không đảm bảo thì nơi đó nguy cơ dịch bệnh sẽ tăng lên. Như vậy cần phải kiểm soát chặt chẽ vấn đề nhập cảnh, cùng đó nếu có ca bệnh thì phải khoanh vùng, cách ly nhanh chóng, không để ca bệnh lan ra cộng đồng.
-Nam Phương
+# url = https://dantri.com.vn/suc-khoe/chuyen-gia-huong-dan-cach-tu-kham-vu-phat-hien-som-nguy-co-ung-thu-20210430072655494.htm
+# date = 20210430
+Ung thư vú là căn bệnh ung thư phổ biến ở phụ nữ Việt Nam và trên thế giới. Tại Việt Nam, năm 2018 có 164.671 số ca mắc mới ung thư, trong đó ung thư vú chiếm 15.229 ca (9,2%). Nếu phát hiện ở giai đoạn sớm tỉ lệ chữa khỏi đến 95%. Tuy nhiên tại Việt Nam, vẫn có đến 50% bệnh nhân ung thư vú đến viện ở giai đoạn muộn.
+Việc tầm soát, sàng lọc có ý nghĩa vô cùng quan trọng với phát hiện sớm ung thư vú.Tuy nhiên tại cộng đồng, chỉ có 24,2% phụ nữ có thực hành tự khám vú hàng tháng. Thống kê cho thấy, tỷ lệ phát hiện bất thường ở nhóm phụ nữ thực hành tự khám vú thấp hơn ở nhóm không thực hành cho thấy hiệu quả và ý nghĩa của việc hướng dẫn phụ nữ tự khám vú đối với việc phát hiện sớm tổn thương ung thư vú.
+GS.TS Nguyễn Bá Đức, nguyên Giám đốc Bệnh viện K khuyến khích tất cả phụ nữ qua tuổi 20 nên tự khám vú mỗi tháng, sau khi sạch kinh khoảng 5 ngày theo hướng dẫn dưới đây:
+Đứng hoặc ngồi trước gương:
+Hai tay xuôi, quan sát các thay đổi ở vú như u cục, dầy lên, lõm da hoặc thay đổi màu sắc da.
+Đưa tay ra sau gáy, sau đó quan sát lại.
+Chống hai tay lên hông, làm cử động cơ ngực lên xuống bằng động tác nâng vai lên hay hạ vai xuống. Động tác này làm cho các thay đổi nếu có sẽ rõ hơn.
+Quan sát ở cả tư thế chính diện và nghiêng.
+Sờ nắn khi đứng hoặc ngồi
+Đầu tiên, hãy đưa tay phải ra sau gáy. Dùng tay trái sờ nắn vú phải, 4 ngón tay (trỏ, giữa, áp út, út) đặt sát vào nhau thành một mặt phẳng, ép đều lên các vùng khác nhau của tuyến vú vào thành ngực theo hướng vòng xoáy ốc từ đầu vú trở ra ngoài.
+Kiểm tra từng vùng của vú và cả nách. Nặn nhẹ đầu vú xem có dịch chảy ra không. Sau đó tiến hành tương tự với vú bên trái.
+Sờ nắn khi nằm
+Hãy nằm ngửa một cách thoải mái, đặt một gối mỏng ở dưới lưng bên trái và dùng tay kiểm tra như thao tác đứng trước gương ở trên. Lần lượt đổi bên thực hiện khám bên vú còn lại.
+Khi tự khám vú, nếu phát hiện có những bất thường như u, cục, lồi lõm bất thường ở vú, núm vú tụt vào, chảy dịch, cảm giác đau hay bất cứ sự nghi ngờ nào, cần đến cơ sở y tế chuyên khoa để khám sàng lọc, phát hiện ung thư vú.
+Việc phát hiện sớm điều trị mang lại hiệu quả cao, cho phép bảo tồn không phải cắt bỏ vú, mang lại chất lượng cuộc sống tốt hơn cho người bệnh.
+Tú Anh

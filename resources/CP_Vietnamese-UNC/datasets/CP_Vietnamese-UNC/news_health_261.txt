@@ -1,19 +1,26 @@
 # doc_id = news_health_261
-# url = https://dantri.com.vn/suc-khoe/uong-thuoc-giam-can-nu-benh-nhan-non-ra-mau-cat-toan-bo-thuc-quan-da-day-20210429163123725.htm
-# date = 20210429
-Ngày 29/4, Bệnh viện Bạch Mai thông tin cứu chữa thành công trường hợp nữ bệnh nhân 43 tuổi (Quảng Ninh) bị lở loét dạ dày, thực quản do uống thuốc giảm cân mua trên mạng.
-Bệnh nhân do có mong muốn giảm cân, nên khi tìm hiểu trên mạng đã mua 2 lọ thuốc giảm cân được quảng cáo nguồn gốc thảo dược thiên nhiên từ Thái Lan, với giá 500.000 đ/hộp để uống.
-Những viên thuốc giảm cân bệnh nhân mua trên mạng.
-Theo đúng hướng dẫn, mỗi ngày chị uống 2 viên vào buổi tối cùng nước chanh ấm trước khi đi ngủ. Kết quả, sau 1 tháng chị giảm được 3kg.
-Chưa kịp vui mừng, ngay sau đó, sáng sớm ngày 10/1/2021 chị A. đột ngột buồn nôn, nôn ra cả máu tươi, máu đen.
-Lúc đầu bệnh nhân chỉ nghĩ đến cảm gió, được đưa vào Trung tâm y tế Móng Cái cấp cứu. Bệnh nhân được chẩn đoán theo dõi viêm loét dạ dày, đại tràng, đường ruột/nghi nấm thực quản. Trải qua 6 ngày điều trị, tình trạng bệnh nhân không được cải thiện, được chuyển lên Trung tâm chống độc (Bệnh viện Bạch Mai).
-Bệnh nhân đã phải trải qua quá trình điều trị 3 tháng tại Bệnh viện Bạch Mai, trong tình trạng rất nặng.
-TS.BS Trần Mạnh Hùng - Trưởng Khoa Ngoại tổng hợp Bệnh viện Bạch Mai cho biết, trong suốt thời gian nằm viện, bệnh nhân hoàn toàn không thể ăn uống được (thức ăn, nước uống cứ cho vào là nôn ra), phải nuôi dưỡng hoàn toàn bằng đườngtĩnh mạch. Từ một người hoàn toàn khỏe mạnh với trọng lượng 70kg, cao 1m60, chị A. sụt chỉ còn 35kg, cơ thể suy kiệt nghiêm trọng
-Kết quả nội soi và chụp X.Q cản quang dạ dày cho thấy bệnh nhân bị hẹp toàn bộ thực quản và dạ dày. Dù đã được nong thực quản tại Trung tâm Tiêu hóa gan mật nhưng do đoạn hẹp quá dài nên không thực hiện được.
-Đặc biệt, trong lòng thực quản bệnh nhân có nhiều sẹo co kéo gây hẹp lòng thực quản đến mức máy soi không qua được, nguy cơ thủng thực quản rất lớn.
-Sau hơn 2 tháng nằm điều trị, các bác sĩ hội chẩn toàn viện, quyết định phẫu thuật cho bệnh nhân. Ca mổ được thực hiện ngày 6/4/2021, sau 5 giờ phẫu thuật các bác sĩ cắt toàn bộ thực quản, dạ dày bệnh nhân, sau đó tạo hình đường tiêu hóa trên bằng hồi đại tràng phải.
-Đến nay, bệnh nhân đã được rút hết dẫn lưu ở ngực, bụng và cổ trái. Sau 3 tháng nằm viện và điều trị, hiện chị A đang hồi phục, đã tăng được 5kg và dần trở lại cuộc sống bình thường, chị đã tự ăn được bằng đường miệng, được xuất viện trong ngày 29/4.
-Bệnh nhân từ chỗ không ăn, uống được, sau khi được cắt dạ dày, thực quản và tạo hình lại đã dần ổn định, lên được 5kg và được xuất viện.
-TS.BS Trần Mạnh Hùng đánh giá, tình trạng teo, hẹp toàn bộ dạ dày thực quản do hóa chất rất hiếm gặp và tỷ lệ tàn tật, tử vong trước đây rất cao. Hiện nay, với sự phát triển của y học, nhờ sự phối hợp tốt của các chuyên khoa, những bệnh nhân đặc biệt như thế này đã có cơ hội để phẫu thuật tạo hình lại đường tiêu hóa trên.
-Đặc biệt các bác sĩ cảnh báo những trào lưu giảm cân không khoa học có thể gây hại cho sức khỏe. Giảm cân là một quá trình diễn ra lâu dài và liên quan đến chuyển hóa trong cơ thể, cần có chế độ dinh dưỡng, vận động hợp lý. Vì vậy, nên tham vấn ý kiến bác sĩ dinh dưỡng để có chế độ giảm cân an toàn, không gây hại cho sức khỏe.
-Hồng Hải
+# url = https://dantri.com.vn/suc-khoe/vi-sao-khong-co-dau-hieu-gi-da-ung-thu-tien-liet-tuyen-giai-doan-4-20210424165622892.htm
+# date = 20210424
+Có mặt tại buổi hội thảo Chăm sóc sức khỏe toàn diện- Thời 4.0 diễn ra sáng 23/4 tại Hà Nội, ông Vũ (84 tuổi, Hà Nội) băn khoăn không hiểu vì sao bản thân không có dấu hiệu gì mà đã ung thư giai đoạn 4. Ông đã có kết quả sinh thiết khẳng định của Bệnh viện Ung bướu Hà Nội, đã uống thuốc điều trị được 2 tháng nhưng ông vẫn không tin được điều này.
+Ông tự nhận bản thân là người có sức khỏe tốt, 5 năm gần đây cân nặng luôn ổn định ở mức 66kg. Bắt đầu từ năm ngoái, ông thấy cơ thể giảm cân nhiều, còn 58 kg nhưng chủ quan không kiểm tra. Sau đó, nghe lời con trai ông đến một bệnh viện tư gần nhà để khám nhưngkhông phát hiện bất thường.
+Về nhà vẫn thấy đau ở hông, ông tiếp tục đi khám tại một bệnh viện công. Sau 10 ngày nằm viện, ông thấy hết đau nên được cho xuất viện. Tuy nhiên, một tuần sau ông thấy cơ thể mệt mỏi, không ăn được, nổi 2 hạch ở cổ. Ông đi khám và được chuyển đến khám tại Bệnh viện Ung bướu Hà Nội. Sau khi được kiểm tra, làm các xét nghiệm, sinh thiết ông rất bất ngờ khi nhận được chẩn đoán ung thư tuyến tiền liệt giai đoạn 4.
+"Trước đó, tôi không thấy cơ thể có gì bất thường, đi tiểu bình thường, nước tiểu bình thường, không ra máu. Tôi cũng không tiểu rắt, tiểu buốt", ông Vũ nói.
+TS.BS cao cấp Hoàng Văn Tuyết, nguyên Phó giám đốc Bệnh viện Bệnh Nhiệt đới Trung ương.
+"Bệnh ung thư chính là như thế, không có dấu gì mà bệnh đã tiến triển. Chính vì thế khám sức khỏe, tầm soát định kỳ là việc hết sức quan trọng", TS.BS cao cấp Hoàng Văn Tuyết, nguyên Phó giám đốc Bệnh viện Bệnh Nhiệt đới Trung ương cho biết.
+Theo bác sĩ Tuyết trước đây người dân ít biếtđến ung thư tuyến tiền liệt nhưng thời gian gần đây bệnh được nhắc đến nhiều. Điều này là nhờ có các hệ thống máy móc hiện đại được áp dụng trong điều trị cũng như trong chẩn đoán như chụp cộng hưởng từ, xét nghiệm tầm soát sớm ung thư (xét nghiệm chỉ số PSA tự do, PSA toàn phần), sinh thiết hạch cổ…
+"Ung thư tiền liệt tuyến diễn tiến rất âm thầm, kín đáo. Phần lớn các trường hợp mắc chỉ phát hiện ra khi bệnh đã di căn đến nơi khác, khi bệnh khu trú thường không có dấu hiệu. Có đến 70-80% ung thư tiền liệt tuyến được phát hiện đôi khi là từ hạch, đôi khi là di căn ở phổi, bụng, đặc biệt ung thư tiền liệt tuyến rất "yêu thích" và hướng di căn đến xương là chủ đạo. Nhiều người chỉ đau lưng, đau xương đùi, đau hông, đi khám bệnh chụp phim, xét nghiệm thì thấy tổn thương ung thư", bác sĩ Tuyết chia sẻ.
+Theo bác sĩ, dấu hiệu ban đầu của bệnh ung thư tuyến tiền liệt mà nhiều người cảm nhận được chính là dấu hiệu đau lưng. 80-90% người bệnh khi phát hiện bệnh đều có dấu hiệu này.
+Dấu hiệu ung thư tuyến tiền liệt
+Các dấu hiệu ung thư tuyến tiền liệt giai đoạn đầu khá mơ hồ. Các triệu chứng thường chỉ rõ ràng ở giai đoạn tiến triển:
+- Đau lưng, hông
+- Giảm cân
+- Đau vùng khung chậu
+- Tiểu đau buốt hoặc rát, không thể đi tiểu
+- Có máu trong nước tiểu
+- Tiểu đêm
+- Khó khăn trong việc duy trì cương cứng
+- Táo bón mãn tính và các vấn đề đường ruột khác
+Đái khó, đái rắt, đái máu, đôi khi bí đái, đôi khi có biểu hiện tắc niệu quản. Đây là các biểu hiện thể hiện sự xâm lấn hoặc chèn ép gây tắc đường tiết niệu. Những vấn đề như đi tiểu khó khăn, bí tiểu…, thậm chí tiểu ra máu thường gặp ở người lớn tuổi và không phải lúc nào cũng là dấu hiệu ung thư tuyến tiền liệt. Cũng vì thế nhiều người chủ quan khi gặp các dấu hiệu cảnh báo này.
+Ung thư tuyến tiền liệt đôi khi tiến triển trên nhiều người bệnh rất âm thầm không có triệu chứng rõ ràng.
+Nam Phương
+* Tên nhân vật đã được thay đổi

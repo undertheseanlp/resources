@@ -1,26 +1,18 @@
 # doc_id = news_health_102
-# url = https://dantri.com.vn/suc-khoe/dau-hieu-do-vang-den-canh-bao-gan-bi-hu-hai-khong-the-phuc-hoi-20210425122113665.htm
-# date = 20210425
-Xơ gan có khả năng gây tử vong cao, đồng thời nó cũng có khả năng chuyển hóa ác tính nhất định. Do đó, một tỷ lệ lớn các bệnh nhân ung thư gan đều có tiền sử bị xơ gan.
-Điều đáng sợ hơn nữa là do khả năng bù trừ của gan rất mạnh nên xơ gan giai đoạn đầu không có những biểu hiện điển hình, thậm chí người bệnh có thể không có triệu chứng gì.
-Tuy nhiên, khi bệnh xơ gan tiếp tục tiến triển, người bệnh cũng sẽ có các dấu hiệu cảnh báo khác nhau. Khi các triệu chứng sau xuất hiện, hãy cảnh giác với tình trạng xơ hóa ở lá gan.
-Lòng bàn tay chuyển sang màu đỏ
-Trong những trường hợp bình thường, lòng bàn tay của chúng ta phải đồng nhất và có màu hồng nhạt, nhưng đối với bệnh nhân xơ gan thì khác.
-Vì xơ gan lâu dần sẽ gây tổn thương tế bào gan, dẫn đến chức năng gan của người bệnh ngày càng kém đi, ảnh hưởng đến chức năng nội tiết. Lúc này, một lượng lớn estrogen bắt đầu tích tụ trong cơ thể kích thích mao mạch giãn ra. Do đó, bệnh nhân xơ gan có thể sẽ có nhiều đốm hoặc mảng màu đỏ sậm ở bề mặt lòng bàn tay. Nếu quan sát kỹ các mảng này , bạn thậm chí có thể tìm thấy mạch máu nhỏ giãn nở.
-Vàng mắt
-Đây là biểu hiện điển hình nhất của bệnh vàng da. Vàng da là một trong những triệu chứng bệnh xơ gan thường gặp, nhất là sau khi bước vào giai đoạn xơ gan mất bù.
-Do tế bào gan của người bệnh đã bị tổn thương nghiêm trọng, không thể chuyển hóa bình thường bilirubin sinh ra trong cơ thể .Vì vậy, một lượng lớn bilirubin sẽ tích tụ trong máu và dần dần hình thành tình trạng tăng bilirubin trong máu. Khi bilirubin đi theo dòng máu, nó sẽ khiến da, niêm mạc và màng cứng của bệnh nhân bị vàng bất thường.
-Nước da sẫm màu
-Sau khi chức năng gan suy giảm sẽ dẫn đến rối loạn nội tiết, hàm lượng neuraminidase sẽ tăng lên, dẫn đến một số lượng lớn tyrosine chuyển hóa thành melanin (hắc sắc tố), nó bắt đầu trong tích tụ trên khuôn mặt và làn da của bệnh nhân.
-Hơn nữa, một số bệnh nhân xơ gan thường bị rối loạn chức năng thượng thận nên sắc mặt bệnh nhân có những thay đổi bất thường, nước da ngày càng sạm đi, da khô ráp, xuất hiện rõ quầng thâm, nổi mao mạch đầu mũi.
-Để gan khỏe mạnh, chúng ta cần áp dụng thêm các biện pháp sau:
-Ngủ đủ giấc, làm việc và nghỉ ngơi đều đặn
-Ngủ đủ giấc góp phần tăng cường sức khỏe của gan. Ban đêm còn được gọi là khoảng thời gian để gan hồi phục. Nguyên do là bởi lượng máu tiêu thụ của cơ thể sẽ trở nên rất thấp khi ngủ vào ban đêm, và lượng máu có thể được lưu trữ trong gan nhiều hơn.
-Việc cung cấp máu đầy đủ có thể làm cho quá trình trao đổi chất của gan diễn ra mạnh mẽ hơn, có tác dụng thúc đẩy quá trình phân chia và tái tạo tế bào gan, từ đó sửa chữa các tổn thương tốt hơn.
-Tăng cường uống nước
-Uống đủ nước là nền tảng sức khỏe của gan. Khi cơ thể đủ nước quá trình trao đổi chất và giải độc của gan được thúc đẩy mạnh mẽ. Ngoài ra, chúng ta cũng có thể bổ sung các dưỡng chất có lợi cho gan vào nước sẽ mang đến tác dụng tốt hơn.
-Kiên trì tập thể dục
-Kiên trì tập thể dục 3-4 lần mỗi tuần sẽ rất có ích cho sức khỏe của gan.
-Những người kiên trì tập thể dục thì khả năng trao đổi chất của cơ thể mạnh hơn, chất độc trong cơ thể được đào thải ra ngoài nhanh hơn, quá trình phân hủy và tiêu thụ lipid mạnh mẽ hơn, khả năng gan bị tổn thương từ đó sẽ giảm đi.
-Minh Nhật
-Tổng hợp
+# url = https://dantri.com.vn/suc-khoe/dau-hieu-nguy-hiem-so-1-bao-hieu-benh-gan-20210420223322515.htm
+# date = 20210420
+Dấu hiệu nguy hiểm số 1 cho thấy gan đang gặp vấn đề là giữ nước
+Nếu gan không hoạt động bình thường, nó có thể gây ra các vấn đề sức khỏe nghiêm trọng, thậm chí gây tử vong. Vì vậy, làm thế nào để gan báo cho cơ thể biết rằng nó đang ở trong tình trạng xấu? Theo Bệnh viện Cleveland, giữ nước là triệu chứng phổ biến nhất của bệnh gan. Khoảng 50% người bị xơ gan, dạng bệnh gan nặng nhất, gặp phải tình trạng này khi mô sẹo thay thế mô gan khỏe mạnh. Giữ nước có thể biểu hiện như phù (sưng) ở chân hoặc bụng căng phồng (cổ trướng).
+Tình trạng này xảy ra khi gan không còn khả năng sản xuất albumin, một loại protein ngăn chất lỏng thoát ra khỏi mạch máu và vào mô.
+Các triệu chứng khác của bệnh gan bao gồm:
+• Hoàng đản, hay vàng da vàng mắt, xảy ra khi gan không còn khả năng xử lý bilirubin, một chất được sản xuất bởi các tế bào hồng cầu; thay vào đó, nó tích tụ trong mắt hoặc da. Đây là dấu hiệu của bệnh gan nghiêm trọng hơn, nghĩ đến suy gan.
+• Chảy máu xảy ra khi mô sẹo trong gan khiến gan không thể xử lý được nhiều máu như trước. Do đó, máu chuyển đến những nơi như thực quản và đường tiêu hóa. Người bệnh có thể nôn ra máu hoặc đi ngoài ra máu.
+• Phân nhạt màu, cho thấy gan đang gặp khó khăn trong việc xử lý mật.
+• Ngứa do tích tụ muối mật dưới da.
+• Nước tiểu sẫm màu, do bilirubin dư thừa được đào thải qua thận.
+Nếu thấy có các triệu chứng của bệnh gan, hãy đến ngaycơ sở y tế để được các bác sĩ kiểm tra.
+Làm thế nào để bảo vệ gan
+Xơ gan có thể chậm lại nhưng không thể đẩy lùi, vì vậy điều quan trọng là phải ngăn không để gan đạt đến trạng thái xấu này.
+Để giữ cho gan khỏe mạnh, hãy tập thể dục thường xuyên (ít nhất năm lần một tuần, mỗi ngày 30 phút); duy trì chế độ ăn uống và cân nặng lành mạnh; uống rượu có chừng mực (nghĩa là không quá một ly mỗi ngày đối với phụ nữ và hai ly đối với nam giới); chủng ngừa viêm gan A và B nếu bác sĩ đề nghị; và dùng thuốc cẩn thận (uống theo chỉ dẫn, và không pha với rượu.
+Cẩm Tú
+Theo ETNT

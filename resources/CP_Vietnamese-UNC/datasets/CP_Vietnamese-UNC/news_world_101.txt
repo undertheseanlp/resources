@@ -1,11 +1,8 @@
 # doc_id = news_world_101
-# url = https://dantri.com.vn/the-gioi/giam-dap-kinh-hoang-o-israel-38-nguoi-chet-20210430082323616.htm
-# date = 20210430
-Hiện trường vụ giẫm đạp khiến hàng chục người chết ở Israel (Ảnh: Reuters).
-Truyền thông địa phương cho biết, sự cố xảy ra ở khu vực chân núi Meron, miền bắc Israel vào thời điểm hàng chục nghìn người đổ về tham gia lễ hội Lag BaOmer của người Do Thái.
-Đây là một trong những sự kiện tập trung đông người nhất ở Israel kể từ khi đại dịch Covid-19 bùng phát cách đây hơn 1 năm, bất chấp cảnh báo của giới y tế.
-Một khán đài ở đây đã bị sập khiến những người tham gia hốt hoảng, giẫm đạp lên nhau tìm cách thoát thân.
-Các video đăng tải trên mạng cho thấy khung cảnh hỗn loạn, nhiều người cố chui qua khe rách của mái tôn để thoát ra khỏi đám đông. Một hình ảnh khác cho thấy các thi thể xếp la liệt trên cáng sau vụ giẫm đạp.
-Vụ giẫm đạp khiến ít nhất 38 người chết, khoảng 103 người bị thương. Cảnh sát đã phong tỏa khu vực xảy ra giẫm đạp và yêu cầu người dân sơ tán bằng ô tô khách.
-Thủ tướng Benjamin Netanyahu gọi đây là "thảm họa kinh hoàng" và yêu cầu điều tra làm sáng tỏ vụ việc.
-Minh PhươngTheo Reuters
+# url = https://dantri.com.vn/the-gioi/giam-doc-tai-chinh-huawei-duoc-hoan-phien-toa-dan-do-20210422123923159.htm
+# date = 20210422
+Guardian đưa tin, Thẩm phán tòa án tối cao British Columbia (Canada) đầu tuần này đã đồng ý hoãn phiên tranh tụng dẫn độ bà Mạnh Vãn Chu 3 tháng sau khi HSBC và Huawei đạt được thỏa thuận hòa giải ở Hong Kong. Theo kế hoạch ban đầu, lẽ ra phiên tòa tranh tụng sẽ khép lại vào tháng 5.
+Phán quyết có thể coi là một thắng lợi của bà Mạnh Vãn Chu và đội ngũ luật sư trong cuộc chiến pháp lý nhằm tránh nguy cơ bà bị dẫn độ sang Mỹ. Richard Peck, luật sư của bà Mạnh cho biết, họ chỉ yêu cầu một "khoảng thời gian khiêm tốn" để xem xét các giấy tờ và dùng làm bằng chứng tại tòa.
+Trước đó, các luật sư đại diện của Canada đã phản đối hoãn phiên tòa vì cho rằng điều đó giúp đội ngũ luật sư của bà Mạnh có nhiều thời gian hơn thông thường để đưa ra những lập luận và các tài liệu có thể đã bị chỉnh sửa quá nhiều để có thể trở thành bằng chứng quan trọng.
+Giới chức Canada bắt giữ bà Mạnh tại sân bay Vancouver vào ngày 1/12/2018 theo đề nghị của Mỹ. Mỹ cáo buộc con gái nhà sáng lập Huawei Nhậm Chính Phi lừa đảo ngân hàng HSBC về mối quan hệ làm ăn của Huawei ở Iran, dẫn đến việc ngân hàng này vi phạm lệnh trừng phạt của Mỹ. Washington cũng đề nghị dẫn độ bà Mạnh sang Mỹ để xét xử. Tuy nhiên, Huawei đã bác bỏ cáo buộc và cho rằng vụ việc nhằm vào bà Mạnh Vãn Chu có mang động cơ chính trị.
+Minh PhươngTheo Guardian

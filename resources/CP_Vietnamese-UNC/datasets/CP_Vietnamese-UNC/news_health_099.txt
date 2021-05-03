@@ -1,21 +1,14 @@
 # doc_id = news_health_099
-# url = https://dantri.com.vn/suc-khoe/dan-van-phong-nen-ren-luyen-suc-khoe-ra-sao-de-phong-ngua-benh-beo-phi-20210419141002603.htm
-# date = 20210419
-Ngồi nhiều, bệnh nhiều - đặc biệt là chứng thừa cân, béo phì
-Đặc điểm của người làm việc bàn giấy là thường xuyên ở trong môi trường máy lạnh, uống ít nước, sinh hoạt thiếu khoa học, nạp nhiều đồ ăn dầu mỡ, kém dinh dưỡng. Dần dà họ gặp các triệu chứng như đau mỏi vai gáy, thắt lưng, cứng cổ, suy giãn tĩnh mạch chi dưới, giảm thị lực hoặc các bệnh tiêu hóa, v.v.
-Về lâu dài sẽ dễ mắc các bệnh nguy hiểm như béo phì, huyết áp, tim mạch, tiểu đường, loãng xương, giảm trí nhớ hay lo lắng, trầm cảm do ít vận động.
-Nhắc đến béo phì, dù là quốc gia có tỷ lệ béo phì thấp nhất thế giới, ở mức 2.1% (theo Tổ chức Y tế Thế giới (WHO) năm 2020), Việt Nam vừa phải vật lộn giữa sự gia tăng bệnh lý thừa cân vừa phải giải quyết vấn đề suy dinh dưỡng thấp còi ở các vùng miền khác nhau. Tỷ lệ béo phì tăng mạnh ở khu vực thành thị, được biết trong 2020, khoảng 2 triệu dân số Việt bị thừa cân, cứ 100 người thì có 2 người có chỉ số BMI vượt ngưỡng an toàn.
-Quá trình đô thị hóa, biến đổi khí hậu, những thay đổi trong đa dạng thực phẩm, lối sống và thói quen ăn uống được cho là những nguyên nhân dẫn đến việc người thành thị, bộ phận lao động trí óc ít vận động thể chất nhanh chóng gặp tình trạng thừa cân.
-Tìm nhiều cách để vận động ngăn ngừa thừa cân
-Theo khuyến nghị của WHO, người lớn 18-64 tuổi nên dành ít nhất 150 phút mỗi tuần cho hoạt động thể lực cường độ trung bình trở lên, đồng nghĩa người làm việc văn phòng cần tận dụng tối đa thời gian và đa dạng phương pháp để rèn luyện thân thể.
-Tập trung giảm mỡ, tăng cơ, khởi động lối sống và dinh dưỡng lành mạnh
-Hướng đến khuyến khích người Việt cải thiện sức khỏe, trung tâm California Fitness & Yoga giới thiệu Phiên bản đặc biệt của Thử thách Thay đổi hình thể California 2021 - chương trình giảm cân hoàn toàn miễn phí trong 8 tuần giúp các thí sinh có những biến chuyển tích cực về sức khỏe và thay đổi ngoạn mục về hình thể.
-Bên cạnh chỉ số khối cơ thể (BMI), chúng ta cần quan tâm đến cả chỉ số mỡ cơ thể (PBF) để biết mình nên ưu tiên những loại hình tập luyện nào tối ưu hóa việc giảm mỡ thừa và tăng cơ bắp. Chương trình sẽ đưa ra lộ trình tập luyện bài bản nhằm giúp người tham gia đạt được mục tiêu hình thể, phòng ngừa các bệnh nguy hiểm như béo phì, thừa cân và trau dồi kiến thức về chế độ ăn cân bằng, khoa học.
-Với khoảng 1.5 triệu kg mỡ mỗi năm mà hội viên của trung tâm đã giảm thành công trong hơn 10 năm qua, tham gia Phiên bản đặc biệt của Thử thách Thay đổi hình thể California 2021 sẽ là khởi đầu tuyệt vời cho sống lành mạnh và duy trì vóc dáng. Tập trung vào mục tiêu truyền cảm hứng tập luyện cho 90 triệu người Việt, California Fitness & Yoga đang tìm kiếm 20.000 người để cùng thiết lập kỷ lục thế giới về số lượng người tham gia thay đổi hình thể lớn nhất thế giới. Theo đó, người tham gia sẽ nhận được 2 tháng hội viên miễn phí, các lớp PT nhóm và được ghi tên vào cộng đồng những người cùng tạo dựng kỷ lục đáng tự hào này.
-Di chuyển nhiều hơn tại chỗ làm:
-Các chuyên gia khuyến khích sau khoảng 30 phút đến tối đa 1 tiếng tập trung, mọi người nên thay đổi tư thế, vươn vai, thư giãn các khớp, cột sống hay hít thở sâu. Nếu có thể, hãy leo thang bộ thay vì đi thang máy, tranh thủ đi bộ đến các địa điểm vui chơi, ăn uống gần văn phòng.
-Tập thêm thể thao ngoài giờ làm:
-Tùy thuộc vào điều kiện sống, tuổi tác và thể chất, người ngồi nhiều có thể lựa chọn các bộ môn như chạy bộ, cầu lông, bơi lội, bóng đá, v.v để cơ thể tăng cường sự dẻo dai, ăn ngon ngủ yên và tinh thần tỉnh táo hơn.
-Nói tóm lại, để phòng ngừa những căn bệnh nguy hại đến sức khỏe sinh ra từ đặc thù "ngồi nhiều" của giới công sở, hãy hoạt động, đi đứng và tập luyện nhiều hơn. Thay đổi bắt đầu từ nhận thức, vì thế hãy bắt đầu ngay việc hoạt động thể chất từ những gợi ý nêu trên.
-Nếu muốn thay đổi hình thể miễn phí và cùng tham gia vào cộng đồng lập kỷ lục thế giới về số người tham gia thay đổi hình thể với California Fitness & Yoga, hãy hoàn thành các thông tin đăng ký nhanh gọn bằng việc truy cập đường dẫn chính thức tại đây: https://link.cali.vn/ctc-pr
-Trường Thịnh
+# url = https://dantri.com.vn/suc-khoe/dang-tin-that-thiet-ve-benh-viem-mang-nao-mot-phu-nu-bi-xu-phat-20210420210948726.htm
+# date = 20210420
+Cơ quan chức năng làm việc với bà B.
+Ngày 20/4, thông tin từ Sở Thông tin và Truyền thông Hà Tĩnh cho biết, đơn vị vừa phối hợp với các ngành chức năng triệu tập và ra quyết định xử phạt đối với bà L.T.B (SN 1965, trú tại phường Trần Phú, TP Hà Tĩnh) số tiền 5 triệu đồng về hành vi đưa thông tin sai sự thật trên mạng xã hội Facebook.
+Trước đó, ngày 18/4, bà B. sử dụng Facebook của mình đăng tải thông tin thất thiệt về bệnh viêm màng não xảy ra trên địa bàn.
+"Bệnh viện tỉnh đang quá tải, có bệnh nhân chuyển Hà Nội mà cũng không cứu được. Cả người lớn và trẻ em đều có thể bị. Bệnh lây qua đường hô hấp. Bệnh diễn biến nhanh, có khi chỉ sau 24h đã tử vong….", thông tin thất thiệt bà B. đăng trên Facebook của mình.
+Thông tin đã gây hoang mang, lo lắng cho người dân. Trước sự việc này, cơ quan chức năng đã vào cuộc và triệu tập bà B. lên làm việc.
+Tại cơ quan chức năng, bà L.T.B. thừa nhận đăng những thông tin đăng tải trên mạng xã hội là sai sự thật. Bà B. cho rằng mục đích bà đăng tải là để mọi người chủ động phòng tránh.
+Theo Trung tâm Kiểm soát bệnh tật tỉnh Hà Tĩnh, từ quý I/2021 đến nay, Hà Tĩnh ghi nhận 133 ca bệnh viêm não, viêm màng não tăng 2,5 lần so với cùng kỳ những năm trước đây. Tuy nhiên, biểu hiện lâm sàng của các ca bệnh đều nhẹ, đáp ứng thuốc tốt và khỏi bệnh sau thời gian điều trị.
+Ông Nguyễn Chí Thanh, Giám đốc Trung tâm Kiểm soát bệnh tật tỉnh Hà Tĩnh cho biết, các mẫu bệnh phẩm được gửi đi xét nghiệm tại Viện Vệ sinh dịch tễ Trung ương đều có kết quả âm tính với các chủng virus nặng như viêm màng não mô cầu, viêm màng não do phế cầu, Hib hay liên cầu khuẩn. Vì vậy, thông tin có dịch viêm màng não mô cầu là chưa có cơ sở.
+Các chuyên gia y tế cũng khuyến cáo, trong thời điểm này, mọi người cần ăn uống đầy đủ để nâng cao sức đề kháng; Vệ sinh nhà cửa sạch sẽ, thông thoáng; Vệ sinh chuồng trại, phun hóa chất diệt con vật trung gian gây bệnh; Thường xuyên vệ sinh cá nhân, thường xuyên rửa tay bằng xà phòng, đeo khẩu trang ở nơi công cộng.
+Tại các trường học, cần tránh cho học sinh sử dụng chung cốc nước, khăn mặt. Khi xuất hiện các triệu chứng đau đầu dữ dội, nôn, sốt cần đưa bệnh nhân đến ngay các cơ sở y tế để khám sàng lọc, điều trị kịp thời.
+Xuân Sinh

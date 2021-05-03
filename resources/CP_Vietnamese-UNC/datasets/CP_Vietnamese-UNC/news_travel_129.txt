@@ -1,23 +1,18 @@
 # doc_id = news_travel_129
-# url = https://dantri.com.vn/du-lich/khach-o-at-huy-tour-den-sam-son-doanh-nghiep-ngoi-tren-dong-lua-20210429211121369.htm
-# date = 20210429
-Thành phố biển Sầm Sơn, tỉnh Thanh Hóa đã tổ chức khai trương du lịch hè năm 2021 vào ngày 24/4 vừa qua.
-So với các năm trước, năm nay, Sầm Sơn khai trương du lịch hè sớm hơn. Hầu hết các khách sạn, cơ sở lưu trú cũng đã sẵn sàng để phục vụ người dân và du khách.
-Nhiều khách sạn, cơ sở lưu trú, lượng khách đặt phòng lên đến 80-90%, thậm chí, có những khách sạn đã kín khách đặt phòng từ trước cho dịp nghỉ lễ 30/4 và 1/5.
-Anh N.V.L, chủ của nhiều khách sạn trên đường Hồ Xuân Hương, thành phố Sầm Sơn chia sẻ: "Những ngày khai trương vừa qua, khách sạn không còn phòng trống, chúng tôi đã phải huy động hàng trăm nhân viên dọn phòng, phục vụ ăn uống, sắp xếp xe cộ…".
-Tuy nhiên, những ngày gần đây, khi tình hình dịch bệnh Covid-19 diễn biến phức tạp đã tác động đến tâm lý của nhiều du khách.
-Ngày mai (30/4) là ngày đầu tiên của kỳ nghỉ lễ, tuy nhiên, từ ngày 29/4, nhiều du khách đã hủy phòng khách sạn tại thành phố Sầm Sơn, đặc biệt là khách tour.
-Theo anh L., hiện cơ bản các tour đã hủy phòng, còn khách du lịch nhỏ lẻ, gia đình vẫn chưa có kế hoạch thay đổi. 
-"Khi có chỉ đạo của các ngành chức năng, chúng tôi đã nghiêm túc thực hiện các biện pháp phòng, chống dịch Covid-19, như chuẩn bị khẩu trang, nước sát khuẩn cũng như tờ khai y tế…
-Để chuẩn bị vào mùa du lịch mới, ngoài cơ sở vật chất phòng ốc, chúng tôi đã phải huy động hàng trăm nhân sự, làm việc hơn một tuần nay từ ngày khai trương. Việc nhiều đoàn khách hủy tour, trả phòng sẽ ảnh hưởng rất nhiều đến các cơ sở lưu trú như chúng tôi", anh L. chia sẻ.
-Có khoảng 30% các tour hủy đặt phòng khách sạn, lưu trú tại Sầm Sơn trong kỳ nghỉ lễ 30/4 và 1/5.
-Nếu tình hình vẫn tiếp tục diễn biến theo chiều hướng xấu, thì thiệt hại về kinh tế đối với các nhà hàng, khách sạn và các cơ sở lưu trú là rất lớn.
-Ông Bùi Quốc Đạt, Phó chủ tịch UBND thành phố Sầm Sơn chia sẻ: "Theo thống kê chiều ngày 29/4, các tour du lịch đến Sầm Sơn hủy khoảng 30%, còn các gia đình, cá nhân vẫn bình thường.
-Thành phố đã tăng cường công tác kiểm tra, yêu cầu các khách sạn, cơ sở lưu trú phải chuẩn bị khẩu trang, nước sát khuẩn. Sau một ngày đoàn kiểm tra đến nhắc nhở mà các cơ sở không thực hiện nghiêm thì sẽ bị đình chỉ hoạt động.
-Du khách đến với Sầm Sơn phải thực hiện theo khuyến cáo của Bộ Y tế, chúng tôi luôn cố gắng để Sầm Sơn là điểm đến an toàn", ông Đạt cho biết.
-Cũng theo ông Đạt, thành phố Sầm Sơn đã đồng ý cho Trung tâm Y tế mua 10.000 khẩu trang để sẵn sàng tiếp ứng cho các điểm du lịch trên địa bàn.
-Ngày 29/4, Tổng cũng Du lịch cũng đã tiến hành kiểm tra và cơ bản đánh giá tốt công tác chuẩn bị của địa phương cũng như các nhà hàng, khách sạn, cơ sở lưu trú.
-Theo thống kê của ngành chức năng, trong 4 ngày nghỉ lễ 30/4 và 1/5, lượng khách đặt phòng đạt khoảng 85%/tổng lượng phòng toàn tỉnh Thanh Hóa.
-Trao đổi với Dân trí, bà Vương Thị Hải Yến, Phó Giám đốc Sở Văn hóa - Thể thao và Du lịch Thanh Hóa cũng cho biết, trong 4 ngày nghỉ lễ 30/4 và 1/5, lượng khách đặt phòng du lịch tại Thanh Hóa đạt khoảng 85%.
-Tuy nhiên, do ảnh hưởng của dịch Covid-19, cho đến nay lượng khách hủy phòng khoảng 30% (tương đương 12.000 phòng/ngày); ước thiệt hại về doanh thu buồng phòng khoảng 40 tỷ đồng; thiệt hại về doanh thu ăn uống khoảng 160 tỷ đồng; thiệt hại về các dịch vụ khác khoảng 30 tỷ đồng…
-Trần Lê
+# url = https://dantri.com.vn/du-lich/kham-pha-2-doi-cat-dep-nhu-tranh-dung-goc-nao-cung-co-anh-dep-20210501080718429.htm
+# date = 20210501
+Tọa lạc tại xã Hòa Thắng, huyện Bắc Bình, cách trung tâm thành phố Phan Thiết khoảng 65km, Bàu Trắng là một trong những điểm đến hấp dẫn thu hút đông đảo du khách tới check-in khi đi du lịch Bình Thuận.
+Theo tiếng địa phương, "bàu" nghĩa là hồ. Trước đó, nơi đây là một hồ nước lớn đổ ra biển nhưng lâu dần bị cát vùi lấp. Sau đó, người dân đắp thêm đập cát vắt ngang hồ, tạo đường đi. Bởi vậy hình thành nên hai hồ nước nhỏ được gọi là Bàu Ông và Bàu Bà.
+Hai làn tỉnh lộ băng qua Bàu Trắng được ví như cung đường phủ cát trắng. (Ảnh: Van Ngo).
+Trước đây, Bàu Trắng ít được du khách biết đến, chủ yếu thu hút những tín đồ đi phượt vì nằm ở địa phận xa nhất tỉnh Bình Thuận, giáp ranh Ninh Thuận. Năm 2018, một chiếc xe bán nước màu vàng độc đáo phía ven đường xuất hiện nổi bật giữa sa mạc cát đã nhanh chóng thu hút nhiều du khách khắp nơi tới đây.
+Ở Bàu Trắng, các đồi cát ở được gió biển thổi vào tạo thành những triền cong mềm mại, có độ dốc thoai thoải. Du khách có thể đi bộ dọc theo các triền cát để ngắm cảnh, chụp hình.
+Những triền cát uốn lượn mềm mại. (Ảnh:@mievatho).
+Một điều đặc biệt khiến Bàu Trắng trở thành điểm đến hấp dẫn chính là khả năng "tự đổi màu". Bãi cát trắng như tuyết ban đầu có thể chuyển sang màu vàng nhạt tùy theo góc của mặt trời hay phụ thuộc vào độ che phủ của mây.
+Bởi sự đổi màu này mà nhiều du khách tới đây không khỏi hoang mang vì tưởng đến nhầm chỗ.
+Tới Bàu Trắng, ngoài chiêm ngưỡng khung cảnh thiên nhiên tươi đẹp, du khách còn được tham gia nhiều hoạt động trải nghiệm thú vị như đi thuyền máy, chèo sup hay kayak, câu cá, đua xe địa hình trên đồi cát, trượt cát hoặc cắm trại dã ngoại,...
+Không chỉ có Bàu Trắng, đồi cát Mũi Né (phường Mũi Né, TP. Phan Thiết) cũng là điểm đến hấp dẫn du khách. Nơi đây có nhiều tên gọi khác nhau như đồi cát vàng, đồi cát đỏ hay đồi cát bay dựa theo màu sắc và hình dáng của các triền cát thay đổi trong ngày.
+Đồi cát Mũi Né được cho là hình thành từ mỏ sắt cổ tồn tại hàng trăm năm nên đã kiến tạo nên màu đặc trưng cho cát, chủ yếu là cát đỏ. Cát ở đây cũng được các nhà khoa học quốc tế thẩm định đạt yêu cầu để làm nguyên liệu cho nghệ thuật điêu khắc trên cát.
+Đặc biệt, đồi cát không chỉ có một hình dạng nhất định mà thay đổi theo ngày hoặc theo tháng do chịu ảnh hưởng từ sức gió hoặc bão cát. Sự đa dạng về hình dáng cũng là lý do khiến đồi cát luôn thu hút du khách tới khám phá, chiêm ngưỡng vẻ đẹp kỳ diệu nơi đây.
+Ở đồi cát Mũi Né, du khách được thoải mái trải nghiệm phi xe tốc độ, "bay" qua những triền cát nhấp nhô.
+Thậm chí, du khách không nên bỏ lỡ một trò chơi "đặc sản" ở đây chính là trượt cát. Bạn có thể thuê những tấm nhựa mỏng của người dân địa phương với giá 10.000 - 20.000 đồng/lượt rồi ngồi lên trượt từ đỉnh đồi cát xuống dưới.
+Thảo Trinh

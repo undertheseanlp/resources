@@ -1,16 +1,8 @@
 # doc_id = news_world_055
-# url = https://dantri.com.vn/the-gioi/bien-den-day-song-anh-sap-dua-tau-chien-toi-san-nha-cua-nga-20210420000451958.htm
-# date = 20210420
-Tàu khu trục Dragon của Hải quân Anh (Ảnh: Tass).
-"Chúng tôi đã nhận được thông báo từ Anh về việc tàu chiến của họ đi qua eo biển Bosphorus, dự kiến vào tuần đầu tiên của tháng 5", hãng tin Sputnik (Nga) dẫn nguồn tin ngoại giao từ Thổ Nhĩ Kỳ ngày 19/4 cho biết.
-Tuần trước, các hãng truyền thông đưa tin tàu khu trục và tàu hộ vệ chống ngầm của Hải quân Hoàng gia Anh sẽ tiến vào Biển Đen vào đầu tháng 5. Động thái này được xem là dấu hiệu thể hiện sự đoàn kết của Anh với Ukraine trong bối cảnh tình hình căng thẳng ở biên giới Nga - Ukraine leo thang.
-Một phát ngôn viên của Bộ Quốc phòng Anh nói với báo Sunday Times rằng Anh và các đồng minh "kiên quyết ủng hộ chủ quyền và toàn vẹn lãnh thổ của Ukraine", đồng thời kêu gọi Nga hạ nhiệt căng thẳng.
-Thông tin trên được đưa ra trong bối cảnh Nga ngày 14/4 thông báo lập vùng cấm tàu nước ngoài tại một khu vực ở Biển Đen để tập trận cho đến tháng 10. Vùng cấm này nằm gần eo biển Kerch nối Biển Đen với Biển Azov.
-Tình hình Biển Đen tiếp tục nóng lên trong thời gian qua. Nga đã đưa 17 tàu chiến tới khu vực này, bao gồm 15 tàu thực hiện nhiệm vụ tập trận ở khu vực, trong khi Moscow cáo buộc NATO triển khai khoảng 40.000 binh sĩ và 15.000 khí tài đến gần biên giới Nga, chủ yếu ở Biển Đen và khu vực Baltic.
-Mỹ tuần trước đã thông báo với Thổ Nhĩ Kỳ về việc hủy kế hoạch đưa 2 tàu chiến qua eo biển Bosphorus, dù trước đó Washington cho biết sẽ đưa hai tàu khu trục đến Biển Đen bắt đầu từ ngày 14/4 và triển khai ở đó đến ngày 4/5. Mỹ vẫn định kỳ triển khai tàu chiến đến Biển Đen để hỗ trợ Ukraine khi chiến sự ở miền Đông Ukraine nổ ra từ năm 2014 giữa quân đội Ukraine với lực lượng ly khai nghi do Nga hậu thuẫn.
-Theo Công ước Montreux năm 1936, Mỹ phải thông báo trước cho Thổ Nhĩ Kỳ ít nhất 15 ngày khi đưa tàu chiến qua eo biển Bosphorus và Dardanelles. Đây là công ước cho phép các tàu chiến nước ngoài triển khai ở Biển Đen trong vòng 21 ngày.
-Nga và phương Tây leo thang căng thẳng gần đây sau khi Mỹ và các đồng minh bày tỏ quan ngại việc Moscow tăng cường lực lượng gần biên giới với Ukraine. Tuy nhiên, Điện Kremlin khẳng định việc triển khai lực lượng trong phạm vi lãnh thổ của Nga là hoàn toàn bình thường, không nhằm vào bất cứ một quốc gia nào.
-Bình luận về việc Anh đưa tàu chiến tới Biển Đen, nghị sĩ Aleksey Pushkov, giáo sư về quan hệ quốc tế và là cựu chủ tịch ủy ban vấn đề đối ngoại thuộc hạ viện Nga, nhận định: "Người Anh vẫn hoài nghi về những nỗ lực của Thủ tướng Boris Johnson trong việc hỗ trợ Ukraine chống lại Nga".
-"Hầu hết người Anh đều nhớ rằng các cuộc can thiệp quân sự trước đây đã khiến đất nước phải trả giá rất nhiều sinh mạng và tiền bạc. Vì vậy, tốt hơn hết Thủ tướng Johnson nên hạn chế việc đưa hai tàu chiến đến Biển Đen để hỗ trợ Ukraine. Việc này là vô ích", ông Pushkov nói thêm.
-Thành Đạt
-Theo Sputnik, The Sun
+# url = https://dantri.com.vn/the-gioi/binh-si-myanmar-ban-canh-cao-tau-cho-si-quan-bien-phong-thai-lan-20210423190334577.htm
+# date = 20210423
+Theo Reuters, vụ nổ súng xảy ra gần làng Tha Ta Fung ở tỉnh Mae Hong Son của Thái Lan. Hai nguồn tin an ninh cho hay, không có ai bị thương trong vụ nổ súng."Quân đội Myanmar lo ngại các tàu thuyền này chở hàng tiếp tế cho lực lượng đối lập nên họ ra hiệu để kiểm tra tàu", một nguồn tin cho biết và nói thêm rằng các binh sĩ Myanmar đã lên khám xét con tàu.
+Một nhân chứng cho biết, binh sĩ Myanmar đã nổ súng xuống mặt nước ngay sát con tàu trên sông Salween. "Mọi người đều rất sợ hãi", nhân chứng này nói.Quân đội Myanmar hiện chưa bình luận về thông tin này.
+Biên giới giữa Thái Lan và Myanmar căng thẳng gần đây khi hàng chục nghìn người Myanmar tìm cách vượt biên giới sang Thái Lan để tránh các cuộc giao tranh giữa quân đội và những nhóm vũ trang thiểu số.
+Thái Lan đã kêu gọi chính quyền quân sự Myanmar xuống thang căng thẳng, tránh các hành động bạo lực nhằm vào người biểu tình. Ngoài ra, Thái Lan cũng đang phối hợp với các nước khác trong ASEAN để tìm ra một giải pháp hòa bình cho Myanmar. Kể từ khi quân đội Myanmar lật đổ chính quyền dân sự hôm 1/2, hơn 700 người đã thiệt mạng trong các cuộc đụng độ giữa lực lượng an ninh và người biểu tình.
+Minh PhươngTheo Reuters

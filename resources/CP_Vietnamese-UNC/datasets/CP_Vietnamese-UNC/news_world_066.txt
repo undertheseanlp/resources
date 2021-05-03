@@ -1,16 +1,9 @@
 # doc_id = news_world_066
-# url = https://dantri.com.vn/the-gioi/campuchia-trai-qua-ngay-den-toi-nhat-thai-lan-cang-minh-chong-covid-19-20210425064801497.htm
+# url = https://dantri.com.vn/the-gioi/can-canh-benh-vien-dieu-tri-covid-19-bi-thieu-rui-82-nguoi-chet-o-iraq-20210425205504821.htm
 # date = 20210425
-Campuchia trải qua "ngày đen tối nhất" trong đại dịch
-Theo Bộ Y tế Campuchia, trong ngày 24/4, nước này ghi nhận kỷ lục 10 ca tử vong vì Covid-19. Đây là ngày có số người tử vong vì Covid-19 cao nhất ở Campuchia kể từ khi dịch bùng phát và ghi nhận ca tử vong đầu tiên hồi tháng 3.
-Đến nay, Campuchia ghi nhận tổng cộng 9.359 ca mắc Covid-19 mặc dù chỉ mới gần đây Campuchia là một trong những quốc gia có số người mắc Covid-19 thấp nhất thế giới. Campuchia có tổng cộng 71 ca tử vong vì Covid-19 và tất cả đều là các ca ghi nhận trong khoảng 2 tháng trở lại đây.
-Trước tình hình dịch lây lan nhanh, thủ đô Phnom Penh chính thức phong tỏa hai tuần bắt đầu từ ngày 15/4, đồng thời khoanh các "vùng đỏ", cấm người dân ra khỏi nhà trừ các lý do cấp thiết về y tế.
-Chính quyền Phnom Penh hôm 23/4 ra một quyết sách mới, yêu cầu đóng cửa toàn bộ chợ dân sinh từ ngày 24/4 cho đến ngày 7/5 do xuất hiện nhiều ca bệnh mới liên quan đến các chợ. Chính quyền địa phương cũng khuyến khích các tiểu thương và bảo vệ các chợ làm xét nghiệm Covid-19.
-Giới chức thành phố đã phát cho hàng nghìn gia đình mỗi hộ 25kg gạo, nước mắm và một số thực phẩm. Một tài khoản Telegram được chính quyền địa phương lập ra gần đây để giúp người dân cần hỗ trợ khẩn cấp thực phẩm, đến nay chính quyền đã nhận được hàng nghìn đề nghị như vậy.
-"Gia đình tôi phải đề nghị hỗ trợ khẩn cấp thực phẩm hàng ngày. Tôi đã mất hoàn toàn nguồn thu nhập do nhà máy đóng cửa và lệnh phong tỏa, Thorn Meng, một người dân ở Phnom Penh, cho biết.
-Thái Lan căng mình chống dịch
-Thái Lan cũng đang phải đối mặt với một đợt bùng phát mới của dịch Covid-19. Chỉ riêng ngày 24/4, nước này ghi nhận kỷ lục 2.839 ca mắc mới và 8 ca tử vong, nâng tổng số người mắc Covid-19 ở đây lên hơn 53.000 ca và 129 ca tử vong. Chỉ riêng trong tháng 4 này, Thái Lan ghi nhận 27.000 ca mắc mới, một phần được cho là do sự xuất hiện của biến chủng mới dễ lây lan hơn có tên gọi B.1.1.7 phát hiện lần đầu tiên ở Anh cuối năm ngoái.
-Bangkok, điểm nóng bùng phát dịch ở Thái Lan, đã yêu cầu đóng cửa các địa điểm công cộng như công viên, trung tâm thể thao, phòng tập gym, bể bơi, viện bảo tàng, thư viện, trung tâm hội nghị, bắt đầu từ ngày mai 26/4 cho đến ngày 9/5.
-Bangkok và 40 tỉnh thành của Thái Lan cũng yêu cầu người dân đeo khẩu trang bắt buộc ở nơi công cộng. Trong khi đó, Hiệp hội Bán lẻ Thái Lan cũng yêu cầu các trung tâm thương mại giới hạn giờ mở cửa từ 11 giờ sáng đến 8 giờ tối bắt đầu từ hôm nay. Các cửa hàng tiện lợi được phép mở cửa từ 5 giờ sáng đến 10 giờ tối. Trường học, nhà hàng, quán bar đã buộc phải đóng cửa khoảng 1 tuần này và tiếp tục đóng cửa đến đầu tháng sau.
-Thái Lan cũng đẩy nhanh chương trình tiêm chủng vắc xin ngừa Covid-19, tuy nhiên, đến nay mới chỉ có chưa đầy 1 triệu người trong tổng số khoảng 66 triệu người của Thái Lan đã tiêm.
-Minh PhươngTheo Reuters, Bangkok Post
+Vụ hỏa hoạn xảy ra ở khoa hồi sức cấp cứu của bệnh viện Ibn Khatib tại thủ đô Baghdad của Iraq tối 24/4 (Ảnh: Reuters).
+Người nhà của bệnh nhân cũng vật lộn để bảo vệ người thân khỏi đám cháy. Ahmed Zaki, một nhân chứng có mặt tại bệnh viện, cho hay anh đã nhìn thấy nhiều người nhảy ra khỏi cửa sổ để tránh ngọn lửa (Ảnh: AP).
+Toàn bộ bệnh nhân trong bệnh viện đã được sơ tán (Ảnh: Reuters).
+Theo Bộ Nội vụ Iraq, tính đến hiện tại, ít nhất 82 người thiệt mạng, 110 người bị thương. Con số này có thể còn tăng tiếp do nhiều người bị bỏng nặng (Ảnh: EPA).
+Theo giới chức dân phòng địa phương, bệnh viện này không có hệ thống phòng cháy và trần giả khiến ngọn lửa cháy lan sang các vật liệu dễ cháy khác (Ảnh: EPA).
+Minh PhươngTheo Dailymail

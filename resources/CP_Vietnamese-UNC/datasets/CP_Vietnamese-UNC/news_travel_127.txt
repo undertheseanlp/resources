@@ -1,6 +1,22 @@
 # doc_id = news_travel_127
-# url = https://dantri.com.vn/du-lich/khach-chen-chan-dat-ban-de-duoc-robot-chien-khoai-nau-mi-phuc-vu-tan-ban-20210410153356990.htm
-# date = 20210410
-Trải nghiệm robot chiên khoai, nấu mì, phục vụ tận bàn cho thực khách
-Toàn Vũ
-Theo SCMP
+# url = https://dantri.com.vn/du-lich/khai-mac-nam-du-lich-quoc-gia-2021-hoa-lu-co-do-ngan-nam-20210421073441160.htm
+# date = 20210421
+Dự Lễ khai mạc có ông Đinh Tiến Dũng, UV BCT, Bí thư Thành ủy Hà Nội (nguyên Bí thư Tỉnh ủy Ninh Bình); ông Nguyễn Trọng Nghĩa, Bí thư Trung ương Đảng, Trưởng Ban Tuyên giáo Trung ương; ông Vũ Đức Đam, UVTƯ Đảng, Phó Thủ tướng Chính phủ, Trưởng Ban Chỉ đạo Nhà nước về Du lịch; ông Nguyễn Văn Hùng, Bộ trưởng Bộ VH-TT&DL, Trưởng Ban chỉ đạo Năm Du lịch Quốc gia - Ninh Bình 2021.
+Lễ khai mạc Năm Du lịch Quốc gia 2021 với chủ đề "Hoa Lư - Cố đô ngàn năm".
+Cùng tham dự buổi lễ có đông đảo lãnh đạo các Ban, Bộ, ngành trung ương; đại biểu quốc tế có trưởng Văn phòng đại diện UNESCO tại Việt Nam; Đại sứ quán các nước tại Việt Nam; lãnh đạo một số tỉnh, thành phố trong cả nước; lãnh đạo tỉnh Ninh Bình; hàng vạn người dân và du khách thập phương.
+Phát biểu tại lễ khai mạc, ông Phạm Quang Ngọc, Chủ tịch UBND tỉnh Ninh Bình chia sẻ: Năm 2021, Ninh Bình tiếp tục đăng cai tổ chức Năm Du lịch Quốc gia.
+Đây vừa là vinh dự, vừa là trách nhiệm của Đảng bộ, chính quyền và nhân dân tỉnh Ninh Bình trước du lịch cả nước, cũng là cơ hội để khẳng định vị thế, hình ảnh du lịch Ninh Bình trên bản đồ du lịch Việt Nam và thế giới.
+Ông Phạm Quang Ngọc, Chủ tịch UBND tỉnh Ninh Bình phát biểu khai mạc buổi lễ.
+Việc tổ chức thành công Năm Du lịch Quốc gia 2021 cũng góp phần thực hiện có hiệu quả "mục tiêu kép": Vừa phòng chống dịch bệnh, bảo vệ sức khỏe nhân dân, vừa phục hồi phát triển kinh tế - xã hội.
+Đồng thời đưa du lịch Ninh Bình phát triển bứt phá, trở thành điểm đến hấp dẫn hàng đầu Việt Nam và thế giới.
+Phát biểu chỉ đạo tại buổi lễ, Phó Thủ tướng Chính phủ Vũ Đức Đam nhấn mạnh: Lễ khai mạc Năm Du lịch Quốc gia 2021 diễn ra trong bối cảnh cả thế giới đang phải đối mặt với đại dịch Covid-19, và ngành du lịch là một trong những ngành ảnh hưởng nặng nề nhất.
+Với sự nỗ lực của các cấp, các ngành, sự đồng lòng của nhân dân, Việt Nam đang kiểm soát tốt dịch bệnh. Trong đó phải kể đến ngành du lịch vẫn từng bước khẳng định vai trò của mình trong nền kinh tế, trở thành điểm sáng trên bản đồ du lịch thế giới.
+Phó thủ tướng Vũ Đức Đam tin tưởng du lịch Việt Nam sẽ phát triển mạnh mẽ trong thời kỳ khó khăn như hiện nay, cũng như sau khi đại dịch được kiểm soát trên quy mô toàn cầu.
+Để phát triển du lịch trong bối cảnh dịch bệnh khi chúng ta chưa mở cửa đón khách du lịch quốc tế thì việc tổ chức Năm Du lịch Quốc gia 2021 là động lực phục hồi ngành du lịch trong nước. Tuy nhiên chúng ta không được chủ quan, lơ là để dịch bệnh xuất hiện trong cộng đồng.
+Phó Thủ tướng yêu cầu: Để ngành Du lịch phát huy tốt nhất tiềm năng, lợi thế trở thành ngành kinh tế mũi nhọn, đòi hỏi chúng ta không ngừng nỗ lực, phải có chương trình hành động của chính quyền cũng như chiến lược phát triển cụ thể, huy động mọi nguồn lực đầu tư; chủ động xây dựng để đón khách quốc tế khi đảm bảo các điều kiện; tăng cường ứng dụng công nghệ thông tin, tiếp tục xây dựng môi trường du lịch thân thiện, an toàn đưa Việt Nam trở thành điểm đến hấp dẫn trong nước và quốc tế.
+Hàng vạn người dân và du khách tham dự lễ khai mạc Năm du lịch Quốc gia 2021.
+"Chúng ta cùng tin tưởng rằng Du lịch Việt Nam tiếp tục phát triển mạnh mẽ trong cả thời kỳ khó khăn hiện nay cũng như sau khi đại dịch được kiểm soát trên quy mô toàn cầu và sẽ có đóng góp ngày càng quan trọng trong công cuộc phát triển đất nước đem lại hạnh phúc cho nhân dân, góp phần phát triển văn hóa con người Việt Nam và nền văn hiến Việt Nam mãi trường tồn, tỏa sáng trong dòng chảy văn minh của nhân loại", Phó Thủ tướng Vũ Đức Đam nói.
+Sau lễ khai mạc là chương trình nghệ thuật với chủ đề "Hoa Lư- Ngàn năm vang mãi". Có khoảng 500 nghệ sỹ, và nhân dân tham gia biểu diễn bao gồm: 200 diễn viên chuyên nghiệp trung ương và Ninh Bình và một số địa phương thuộc các vùng Văn hóa Bắc, Trung, Nam và Tây Nguyên, 300 diễn viên không chuyên, 30 người mẫu Áo dài và trẻ em...
+Chương trình văn nghệ được dàn dựng công phu với sự tham gia biểu diễn của 500 nghệ sĩ.
+Đây là chương trình nghệ thuật được dàn dựng công phu, thể hiện niềm tự hào về truyền thống vẻ vang của vùng đất lịch sử Cố đô Hoa Lư ngàn năm cũng như những bước chuyển mình mạnh mẽ của đất nước, của quê hương Ninh Bình.
+Thái Bá

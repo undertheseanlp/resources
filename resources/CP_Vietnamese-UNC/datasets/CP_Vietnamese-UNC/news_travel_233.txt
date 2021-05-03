@@ -1,18 +1,15 @@
 # doc_id = news_travel_233
-# url = https://dantri.com.vn/du-lich/tay-luong-nu-quoc-tren-himalaya-noi-phu-nu-co-the-lay-nhieu-chong-20210327091623451.htm
-# date = 20210327
-Dân tộc Mosuo có dân số khoảng 40.000 người và từ rất lâu họ chỉ sống ở rìa hồ Luga - ranh giới giữa hai tỉnh Tứ Xuyên và Vân Nam, xung quanh được bao bọc bởi núi cao khiến cả vùng dân cư như ngụ tại một thung lũng cách biệt.
-Do vị trí địa lí như vậy, rất nhiều năm những tập tục của người Mosuo vẫn được bảo tồn, một trong số đó phải nói tới việc cho phép phụ nữ được lấy nhiều chồng.
-Người phụ nữ Mosuo dệt bằng khung cửi tại cửa hàng của cô ở Lệ Giang, Trung Quốc. (Ảnh: Getty Images).
-Đây là bộ tộc duy nhất trên thế giới áp dụng tập tục "tẩu hôn" thường được các nhà nghiên cứu Trung Quốc gọi là "tình yêu tự do". Đơn giản hơn, phụ nữ có quyền lựa chọn và đổi bạn đời bất cứ khi nào họ muốn - đây được xem như một lối sống ủng hộ quyền tự quyết của nữ giới.
-Đồ gia dụng truyền thống trong văn hóa Mosuo.
-Thậm chí, theo truyền thống, phụ nữ được cho phép sở hữu và thừa kế tài sản. Do vậy, những đứa trẻ khi được sinh ra "chỉ thuộc" về mẹ ruột, được nuôi nấng bởi gia đình nhà mẹ các anh em trai và chú bác có vai trò như cha. Có nhiều trường hợp cả mẹ của những đứa bé này cũng không biết người đàn ông nào là bố của con họ.
-Bà Naju Dorma, 73 tuổi và bà Lacuo Dorma, 66 tuổi, đến từ làng Luoshui, đang mặc trang phục truyền thống của người Mosuo.
-Để giải thích cho việc này, một số người cho rằng do nắm trong tay tài chính cũng như tiếng nói, nghiễm nhiên đứa con sẽ được nuôi dưỡng bởi nhà mẹ.
-Đàn ông vẫn đóng vai trò quan trọng trong xã hội, họ thường phải xa làng, đi theo những đoàn buôn lớn để bán các sản vật địa phương. Họ cũng có trách nhiệm xây dựng nhà cửa, đánh bắt cá, làm thịt các loại gia súc,…. Mặc dù không có trách nhiệm làm cha, họ có trách nhiệm với tư cách là chú đối với con của chị em mình.
-Những người Mosuo những năm gần đầy cho rằng: "Họ đang mất dần đi bản sắc của mình".
-Bà Sergei Dorma, 70 tuổi, người đã trải qua những giai đoạn biến động của bộ tộc.
-Nhiếp ảnh gia Karolin Klüppel, người đã dành một thời gian sống ở Mosuo, nói với National Geographic. "Cuộc sống sung túc hơn nhờ làm du lịch nhưng những người cao tuổi nhất của bộ tộc này đồng thời cũng cảm thấy thực sự đau buồn vì những thay đổi."
-Trong khi những người trẻ tuổi hơn Mosuo đã trở nên hòa nhập hơn, nhiều cô gái còn kết hôn với người bên ngoài bộ tộc và chuyển đến các thành phố lớn hơn để tìm việc làm, những người phụ nữ lớn tuổi trở thành thế hệ còn lại bảo vệ văn hóa cổ xưa.
-Hằng Đoàn
-Theo The Guardian/ National Geographic
+# url = https://dantri.com.vn/du-lich/thu-qua-la-trong-ngon-lanh-nhung-khong-biet-an-se-tu-vong-trong-24-gio-20210403171951387.htm
+# date = 20210403
+Ackee vốn là thứ quả kỳ lạ gắn liền với văn hóa người Jamaica. Được coi là thứ trái cây độc hại ở vùng Tây Phi, nếu biết cách ăn sẽ rất bổ dưỡng, còn ngược lại chúng có thể khiến người dùng tử vong chỉ trong 24 giờ.
+Được biết, người đàn ông chạy nhanh nhất thế giới - vận động viên điền kinh Usain Bolt thường thưởng thức món ăn chế biến từ quả Ackee hàng sáng. Điều này càng làm nhiều người tò mò.
+Vỏ ngoài của quả ackee có màu đỏ, trông khá giống vải thiều, nguồn gốc từ Ghana. Có hình dáng như trái lê, ackee khi chín chuyển từ màu xanh lục sang đỏ tươi hoặc vàng cam. Chúng tự tách ra, để lộ những hạt lớn màu đen bóng bên trong. Mỗi phần được bao phủ bởi lớp thịt mềm. Ngày nay, trái ackee được đóng hộp và trở thành một trong những mặt hàng xuất khẩu chính của quốc gia này.
+Theo các chuyên gia, loại quả lạ này được đưa tới một hòn đảo ở Jamaica từ một con tàu nô lệ từ Tây Phi. Ban đầu, nó có tên khoa học là "Blighia Sapida" đặt vào năm 1806 để vinh danh vị thuyền trưởng Bligh. Ông cũng là người có công đưa cây ackee từ Jamaica tới vườn bách thảo Hoàng gia ở Kew, London vào năm 1793 do trước đó loài cây này không được giới khoa học biết tới.
+Do phù hợp với khí hậu nhiệt đới ở Jamaica nên loại trái cây này rất phát triển tại đây. Ngày nay, dọc theo chiều dài đất nước này, du khách sẽ thấy số lượng lớn cây ackee mọc khắp nơi, từ vịnh Montego đến các khu vườn của Goldeneye...
+Như đã nói ở trên, trong trái ackee có độc tố. Nếu ăn những quả chưa chín, bạn có thể bị hypoglycin thậm chí tử vong trong vòng một ngày. Bởi vậy người dân địa phương chỉ ăn những quả đã chín đỏ ửng và biến nó trở thành một phần món ăn "quốc hồn quốc túy" của mình.
+Với món ăn chế biến từ quả ackee, người Jamaica sẽ ăn cùng với cá muối (thường làm từ cá tuyết). Đầu bếp Cuthbert Binns vốn là bếp trưởng một nhà hàng lâu năm tại Jamaica chia sẻ cách chế biến sao cho bổ dưỡng mà không sợ ngộ độc.
+Đó là luộc ackee cùng cá muối trong 20 phút rồi để ráo nước và lọc xương cá. Tiếp đó, đầu bếp sẽ xào cà chua, hành tây, tỏi trong chảo, rồi cho hỗn hợp trên vào, rắc thêm xạ hương, tiêu đen là có thể thưởng thức.
+Theo mô tả, khi được nấu chín, thịt quả ackee sẽ chuyển sang màu vàng bơ, có vị kem ngậy rất cân bằng với chút mặn đậm đà của cá muối. Đây cũng là món ăn sáng rất được người địa phương ưa chuộng.
+Không chỉ được người Jamaica ưa chuộng, tại khu vực Tây Phi, hạt và vỏ loại trái cây này còn dùng làm xà phòng tẩy rửa. Trong khi đó tại Haiti từng diễn ra tình trạng người dân tử vong do ăn những trái ackee chưa chín.
+Quốc Việt
+Theo BBC

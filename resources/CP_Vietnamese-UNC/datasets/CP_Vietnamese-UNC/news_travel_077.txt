@@ -1,14 +1,32 @@
 # doc_id = news_travel_077
-# url = https://dantri.com.vn/du-lich/da-nang-vang-ve-hon-moi-nam-khach-tam-bien-deo-khau-trang-20210429231139947.htm
-# date = 20210429
-Chiều 29/4, nhiều người dân và du khách đã đổ ra các bãi biển Phạm Văn Đồng, Mỹ Khê… của Đà Nẵng để vui chơi, tắm biển.
-Càng về chiều tối, lượng người đổ ra biển càng đông hơn. Một số người chơi thể thao, nhiều người khác thì xuống tắm biển hay đơn giản là chỉ ngồi hóng gió mát từ biển.
-Tuy nhiên, so với dịp lễ 30/4-1/5 các năm trước khi chưa có dịch, năm nay lượng khách không đông bằng.
-Người dân và du khách đổ ra các bãi biển Đà Nẵng chiều 29/4.
-Phần lớn mọi người không đeo khẩu trang để thoải mái trong việc chơi thể thao và tắm biển. Tuy nhiên, bên cạnh đó vẫn có không ít người thực hiện nghiêm túc việc đeo khẩu trang nhằm đảm bảo an toàn công tác phòng chống dịch Covid-19.
-Cô Nguyễn Thị Hồng Phương, cùng con cháu từ Hà Nội vào Đà Nẵng du lịch cho biết: "Hiện tình hình dịch Covid-19 đang diễn biến phức tạp. Mình vui chơi, tắm biển cũng phải đeo khẩu trang để đảm bảo an toàn cho bản thân và những người xung quanh".
-Phần lớn mọi người không đeo khẩu trang để thoải mái trong việc chơi thể thao và tắm biển. Tuy nhiên, bên cạnh đó vẫn có những người chấp hành rất tốt.
-Ngồi trên bờ hóng mát cũng đeo khẩu trang.
-Đi dạo cũng đeo khẩu trang.
-Hay xuống biển tắm cũng đeo khẩu trang.
-Khánh Hồng
+# url = https://dantri.com.vn/du-lich/dac-san-viet-danh-cuoc-sinh-menh-voi-tu-than-khi-thuong-thuc-20210331101423890.htm
+# date = 20210331
+Nhộng ve sầu
+Ve sầu non hay còn gọi là nhộng ve sầu, có rộ nhất là từ cuối tháng 4 đến hết tháng 7 trong năm. Vài năm trở lại đây, món ăn này được xem là đặc sản, được nhiều người ưa chuộng tìm mua.
+Nhộng ve sầu có nhiều loại, đắt và bán chạy nhất là nhộng cánh tơ. Đây là loài nhộng vừa lột xác xong, thân ve còn rất non và cánh mới nhú. Lúc này nhộng khá béo và mềm.
+Nhộng ve sầu được xem là đặc sản, được nhiều người ưa chuộng tìm mua.
+Theo nhiều chủ nhà hàng, nhộng ve sầu có thể chế biến được nhiều món như rán giòn, tẩm bột, rim mắm..., khi ăn có vị bùi, ngậy, béo, thơm. Có thời điểm khan hàng, nhộng ve sầu được chào bán với giá 800.000 đồng/ 1kg.
+Thời gian qua rất nhiều người phải nhập viện vì thưởng thức đặc sản nhộng ve sầu.
+Dù được xem là đặc sản nhưng món ăn này tiềm ẩn khá nhiều nguy hiểm. Theo các chuyên gia y tế, nhộng ve sầu không có độc tố gây chết người.
+Nhưng do nhộng ve sống khá lâu trong môi trường trước khi lột xác và trưởng thành ngoi lên khỏi mặt đất nên rất dễ bị nhiễm vi khuẩn hay các loài nấm độc ký sinh trên cơ thể. Nếu ăn phải con nhộng có những độc tố này thì hậu quả sẽ rất khó lường.
+Tiết canh
+Tiết canh được làm từ tiết động vật (lợn, vịt, ngan...) trộn với nội tạng, sụn, thịt. Đây là món ăn được nhiều người Việt ưa thích. Điều đặc biệt của món ăn là nguyên liệu chế biến.
+Tiết động vật tươi được pha với chút nước mắm hoặc nước muối nhạt, hãm cho khỏi đông trước khi trộn với những phần thịt băm nhỏ để làm đông tiết.
+Tiết canh là món đặc sản được nhiều người ưa chuộng. (Ảnh: Toàn Vũ).
+Vì nhiều lý do, nhất là vấn đề liên quan tới vệ sinh an toàn thực phẩm nên tiết canh được xem là món ăn không an toàn. Trong quá trình chế biến, tiết của động vật không qua bất kỳ công đoạn tiệt trùng nào mà được ăn trực tiếp cùng với lạc rang và rau thơm.
+Tuy nhiên, đây cũng là được xem là món ăn không an toàn. (Ảnh: Toàn Vũ).
+Tiết canh bản chất là sử dụng máu sống chế biến nên không thể tiêu diệt các loại vi khuẩn, ký sinh trùng, nhất là máu của lợn, gà, vịt... đang nhiễm bệnh. Đó là chưa kể, trong tiết canh sống còn chứa nhiều nguồn bệnh như giun sán, giun xoắn...
+Gỏi cá sống
+Món cá nhảy được xem là món ăn phổ biến, đặc sản của người Thái ở Sơn La. Điểm khác biệt của món ăn này chính là ở cách ăn rất lạ lùng, cá vẫn còn nhảy tanh tách trong miệng khi ăn.
+Cá bắt về phải còn sống, chọn những con cá bé, có kích thước lớn nhất là bằng ngón tay cái của người lớn, thả vào chậu nước muối sạch, để cá tự bơi và tiết hết những thứ bẩn ở trong người.
+Cá được ăn sống cùng các loại rau thơm.
+Khi ăn, người ta dùng dao nhỏ khía nhanh vào bụng cá, nặn ruột bỏ ra ngoài rồi thả nhanh vào hỗn hợp ăn kèm gồm: lõi chuối tươi, rau thơm các loại gia vị mắm, muối, mỳ chính, tỏi, ớt và đặc biệt là không thể thiếu hạt mắc khén (gia vị đặc biệt của người Thái).
+Dù được nhiều người ưa chuộng, song không ít trường hợp đã phải nhập viện do thưởng thức món đặc sản này. Theo các chuyên gia y tế, những món ăn chưa qua nấu chín luôn tiềm ẩn nguy cơ nhiễm các loại vi sinh vật, nếu nặng có thể đe dọa tới tính mạng.
+Cá nóc
+Cá nóc là một loại cá thuộc lớp cá vây tia, với đặc tính đẩy ra những lớp gai khi ở trạng thái phòng ngự. Đây là loài cá sống ở khu vực nước mặn, quanh các khu vực bãi đá san hô ngầm vùng nhiệt đới. Loại cá này có tính độc mạnh, gây chết người khi ăn nếu không được chế biến đúng cách.
+Cá nóc là loài có độc tính rất mạnh.
+Ở Việt Nam đã thống kê được hơn 60 loài cá nóc, trong đó có khoảng 30 loài là cá độc. Độc tố cá nóc rất độc, với người chỉ cần ăn 10 gam thịt cá nóc có độc tố là bị ngộ độc. Chỉ từ 1-2mg độc tố có thể gây chết người.
+Thông thường, thịt cá nóc thường được chế biến bằng cách lọc thịt cá nóc còn tươi nguyên. Chọn phần thịt cá không có độc, thái thành miếng mỏng và ăn như sashimi.
+Cách chế biến cá nóc vô cùng khó khăn, và chỉ một số đầu bếp trên thế giới mới đủ khả năng chế biến món ăn này.
+Tại Nhật Bản, một suất sashimi cá nóc có thể tiêu tốn của một gia đình khoảng 200 USD cho 8 miếng khi dùng bữa tại những nhà hàng sang trọng.
+Hiệp Nguyễn

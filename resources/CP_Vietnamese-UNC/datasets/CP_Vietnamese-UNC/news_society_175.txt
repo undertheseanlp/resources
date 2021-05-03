@@ -1,12 +1,13 @@
 # doc_id = news_society_175
-# url = https://dantri.com.vn/xa-hoi/lien-tiep-phat-hien-2-thi-the-phu-nu-troi-tren-song-20210429103720660.htm
+# url = https://dantri.com.vn/xa-hoi/long-an-nhan-loi-lung-tung-vung-tau-hoa-toc-tiep-nhan-12-thuyen-vien-20210429073404776.htm
 # date = 20210429
-Khu vực cống Bara cây Phượng, nơi phát hiện thi thể nạn nhân.
-Trưa 30/4, ông Nguyễn Hồ Sơn, Chủ tịch UBND xã Lăng Thành (huyện Yên Thành, Nghệ An) cho biết, người dân trên địa bàn vừa mới phát hiện thi thể một người phụ nữ trên sông Đào, đoạn qua cống cây Phượng.
-"Thi thể người phụ nữ được phát hiện vào khoảng 10h sáng nay (30/4). Hiện, các cơ quan chức năng đang tiến hành công tác khám nghiệm để điều tra, làm rõ", ông Sơn cho hay.
-Trước đó, ngày 29/4 người dân địa phương phát hiện thi chị P.T.N (SN 1981) trên đoạn kênh 14A, thuộc địa bàn xóm Tiên Bồng, xã Phú Thành, huyện Yên Thành (Nghệ An).
-Nhiều người nhận định, nạn nhân rất có thể là chị T.H.H (quê ở xã Hòa Sơn, huyện Đô Lương) là người đi cùng với chị P.T.N. (SN 1981, quê xã Công Thành, huyện Yên Thành), được người dân phát hiện tử vong vào ngày hôm qua (29/4) dưới kênh thủy lợi.
-Trước đó, vào khoảng 8h ngày 29/4 người dân địa phương phát hiện thi chị P.T.N (SN 1981) trên đoạn kênh 14A, thuộc địa bàn xóm Tiên Bồng, xã Phú Thành, huyện Yên Thành (Nghệ An).
-Được biết, vào chiều 29/4, chị N. và chị H. có đi cùng nhau trên một chiếc xe máy qua địa bàn huyện Yên Thành, sau đó cả 2 người đều mất tích bí ẩn.
-Hiện nguyên nhân khiến nạn nhân tử vong đang được Công an tỉnh Nghệ An điều tra, làm rõ.
-Nguyễn Tú
+Tối 28/4, UBND tỉnh Bà Rịa - Vũng Tàu đã có văn bản hỏa tốc giao Sở Y tế phối hợp cùng đơn vị liên quan khẩn trương tiếp nhận 12 thuyền viên trên tàu Dai Duong Sea dương tính với SARS-CoV-2 vào Trung tâm Y tế huyện Long Điền để điều trị và cách ly kịp thời.
+Các thuyền viên còn lại được cách ly y tế tập trung tại cơ sở cách ly Ban bảo vệ, chăm sóc sức khỏe cán bộ tỉnh, để tiếp tục theo dõi, thực hiện đầy đủ các thủ tục nhập cảnh theo quy định.
+Báo cáo của chủ tàu Dai Duong Sea cho biết, các thuyền viên đang rất lo lắng, bất ổn sau khi có kết quả dương tính với SARS-CoV-2. Do vậy, việc tiếp nhận và điều trị cho 12 thuyền viên tàu Dai Duong Sea mang tính cấp bách.
+Tàu Dai Duong Seachở theo 18 thuyền viên, có 12 người dương tính với SARS-CoV-2.
+Liên quan đến vụ việc này, UBND tỉnh Long An cũng có văn bản gửi UBND tỉnh Bà Rịa - Vũng Tàu đề nghị hỗ trợ tiếp nhận điều trị, cách ly y tế đối với các thuyền viên trên tàu Dai Duong Sea. Lý do được UBND tỉnh Long An đưa ra là do khoảng cách từ nơi tàu đang neo đậu về đất liền Long An xa hơn Bà Rịa - Vũng Tàu và Long An cũng đang tập trung nguồn lực cách ly y tế công dân Việt Nam từ nước ngoài về, tăng cường kiểm soát biên giới.
+Trước đó, chiều 24/4, tàu Dai Duong Sea (quốc tịch Việt Nam) trọng tải gần 4.400 tấn, trên tàu có 18 thuyền viên đi từ cảng Sampit (Indonesia) với lịch trình về cảng Bourbon (Long An). Trước khi cập cảng đến, tàu này dừng ở vùng biển phao số 0 Vũng Tàu để chờ cơ quan chức năng tỉnh Long An lấy mẫu xét nghiệm SARS-CoV-2.
+Đến ngày 26/4, 12/18 thuyền viên tàu này có kết quả dương tính lần 1 với SARS-CoV-2. Tuy nhiên, sau khi có kết quả xét nghiệm, ngành chức năng tỉnh Long An đã nói rằng mình không biết trường hợp này.
+Trong khi đó tỉnh Bà Rịa - Vũng Tàu khẳng định chính ngành chức năng Long An đã đến Vũng Tàu để lấy mẫu xét nghiệm các thuyền viên trước khi cho tàu cập cảng tại địa phương mình.
+Tỉnh Long An thừa nhận, do lần đầu gặp trường hợp tàu Dai Duong Sea có 18 thuyền viên nhập cảnh tại cảng Bourbon (huyện Bến Lức) nên xử lý lúng túng và nhận lỗi với tỉnh Bà Rịa - Vũng Tàu về vụ việc này.
+Trung Kiên

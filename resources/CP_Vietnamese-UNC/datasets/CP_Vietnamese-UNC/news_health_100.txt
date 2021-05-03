@@ -1,14 +1,13 @@
 # doc_id = news_health_100
-# url = https://dantri.com.vn/suc-khoe/dang-tin-that-thiet-ve-benh-viem-mang-nao-mot-phu-nu-bi-xu-phat-20210420210948726.htm
-# date = 20210420
-Cơ quan chức năng làm việc với bà B.
-Ngày 20/4, thông tin từ Sở Thông tin và Truyền thông Hà Tĩnh cho biết, đơn vị vừa phối hợp với các ngành chức năng triệu tập và ra quyết định xử phạt đối với bà L.T.B (SN 1965, trú tại phường Trần Phú, TP Hà Tĩnh) số tiền 5 triệu đồng về hành vi đưa thông tin sai sự thật trên mạng xã hội Facebook.
-Trước đó, ngày 18/4, bà B. sử dụng Facebook của mình đăng tải thông tin thất thiệt về bệnh viêm màng não xảy ra trên địa bàn.
-"Bệnh viện tỉnh đang quá tải, có bệnh nhân chuyển Hà Nội mà cũng không cứu được. Cả người lớn và trẻ em đều có thể bị. Bệnh lây qua đường hô hấp. Bệnh diễn biến nhanh, có khi chỉ sau 24h đã tử vong….", thông tin thất thiệt bà B. đăng trên Facebook của mình.
-Thông tin đã gây hoang mang, lo lắng cho người dân. Trước sự việc này, cơ quan chức năng đã vào cuộc và triệu tập bà B. lên làm việc.
-Tại cơ quan chức năng, bà L.T.B. thừa nhận đăng những thông tin đăng tải trên mạng xã hội là sai sự thật. Bà B. cho rằng mục đích bà đăng tải là để mọi người chủ động phòng tránh.
-Theo Trung tâm Kiểm soát bệnh tật tỉnh Hà Tĩnh, từ quý I/2021 đến nay, Hà Tĩnh ghi nhận 133 ca bệnh viêm não, viêm màng não tăng 2,5 lần so với cùng kỳ những năm trước đây. Tuy nhiên, biểu hiện lâm sàng của các ca bệnh đều nhẹ, đáp ứng thuốc tốt và khỏi bệnh sau thời gian điều trị.
-Ông Nguyễn Chí Thanh, Giám đốc Trung tâm Kiểm soát bệnh tật tỉnh Hà Tĩnh cho biết, các mẫu bệnh phẩm được gửi đi xét nghiệm tại Viện Vệ sinh dịch tễ Trung ương đều có kết quả âm tính với các chủng virus nặng như viêm màng não mô cầu, viêm màng não do phế cầu, Hib hay liên cầu khuẩn. Vì vậy, thông tin có dịch viêm màng não mô cầu là chưa có cơ sở.
-Các chuyên gia y tế cũng khuyến cáo, trong thời điểm này, mọi người cần ăn uống đầy đủ để nâng cao sức đề kháng; Vệ sinh nhà cửa sạch sẽ, thông thoáng; Vệ sinh chuồng trại, phun hóa chất diệt con vật trung gian gây bệnh; Thường xuyên vệ sinh cá nhân, thường xuyên rửa tay bằng xà phòng, đeo khẩu trang ở nơi công cộng.
-Tại các trường học, cần tránh cho học sinh sử dụng chung cốc nước, khăn mặt. Khi xuất hiện các triệu chứng đau đầu dữ dội, nôn, sốt cần đưa bệnh nhân đến ngay các cơ sở y tế để khám sàng lọc, điều trị kịp thời.
-Xuân Sinh
+# url = https://dantri.com.vn/suc-khoe/dang-tu-suong-thi-ban-gai-goi-chang-trai-gap-cai-ket-dang-20210422164401027.htm
+# date = 20210422
+Ths.Bs Nguyễn Đình Liên, Trưởng khoa Phẫu thuật Thận tiết niệu và Nam học, Bệnh viện E (Hà nội) cho biết, bệnh nhân nhập viện trong tình trạng đau đớn, "cậu nhỏ" sưng phồng và đã chuyển màu tím đen.
+Bệnh nhân cho biết có bạn gái song mới đi du học được mấy tháng. Thi thoảng, cậu có "tự sướng" để giải quyết nhu cầu. Lần này, cậu đang "tự xử" thì bạn gái gọi điện về. Lúc đấy, bị giật mình cậu vội vàng giấu "súng" nhưng lại quá tay bẻ gãy cả dương vật. Cậu cảm nhận rõ cơn đau chói lên, dương vật đang cương cứng bỗng xỉu đi, sau đó bắt đầu sưng lên và chuyển màu đỏ rồi sang tím đen.
+Bs Liên cho biết rất may bệnh nhân đã đến viện kịp thời và được mổ cấp cứu nên không để lại hậu quả. Hiện bệnh nhân đã được xuất viện.
+Theo bác sĩ những trường hợp bị "gãy súng" do thủ dâm như trên không phải hiếm gặp. Dương vật được hình thành bởi 3 khối mô cương gồm: thể hang ở 2 mặt bên và mặt trước, thể xốp ở giữa và mặt sau và các lớp bọc. "Gãy" chỉ là một cách nói tượng trưng bởi dương vật không có cấu trúc xương, trong y học bệnh nhân được chẩn đoán vỡ vật hang.
+Vỡ vật hang là bệnh do chấn thương làm rách vỏ trắng bao quanh vật hang, máu trong vật hang chảy ra lan tràn dưới mạc dương vật hoặc rách cả 2 lớp mạc nông và mạc sâu dương vật gây tụ máu dưới da bìu, tầng sinh môn, vùng bẹn và vùng trên xương mu khi dương vật đang cương.
+Vỡ vật hang thường xảy ra lúc dương vật cương cao độ. Lúc đó các lớp mạc bao quanh vật hang bị giãn căng ra nên rất mỏng và yếu, chỉ cần một tác động nhẹ làm gấp góc dương vật hoặc va chạm vào dương vật cũng đủ làm cho các lớp mạc quanh vật hang bị vỡ gây máu từ vật hang thoát ra ngoài. Theo y văn, vỡ vật hang thường xảy ra khi giao hợp và tự bẻ dương vật.
+Đây là một cấp cứu ngoại khoa, cần can thiệp càng sớm càng tốt. Nếu được cấp cứu sớm, gần 100% bệnh nhân hồi phục hoàn toàn. Thực tế có rất nhiều trường hợp chủ quan, ngại đi khám. Lý do vì mới đầu khi bị gãy, bệnh nhân thấy đau nhói nhưng sau đó đau ở mức vừa phải, chịu đựng được, nghĩ không sao nên đến viện trễ.
+Những trường hợp điều trị muộn có nguy cơ cao bị rối loạn cương dương, teo gấp góc, đau không quan hệ được, đi tiểu khó…Một số biểu hiện của bệnh gồm: dương vật bầm tím, sưng nề; đau dương vật; dương vật bị vẹo lệch, biến dạng; tiểu đau, buốt, rát, tiểu ra máu, xuất tinh ra máu…
+Để phòng tránh, bác sĩ Liên cho rằng nam giới nên áp dụng các tư thế quan hệ tình dục an toàn. Đặc biệt với những bạn sử dụng biện pháp tự sướng. Thủ dâm được xem là hành vi cứu cánh cho những khi ham muốn tình dục không được đáp ứng và tránh lây các bệnh xã hội trong điều kiện hiện nay. Tuy nhiên, thủ dâm cũng cần biết cách và khoa học. Không nên lạm dụng quá nhiều, lâu dần sẽ mất cảm giác quan hệ thực thụ thậm chí để lại những hậu quả khôn lường như xuất tinh sớm thậm chí liệt dương.
+Hà An

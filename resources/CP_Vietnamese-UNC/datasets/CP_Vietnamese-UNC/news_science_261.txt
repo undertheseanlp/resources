@@ -1,26 +1,20 @@
 # doc_id = news_science_261
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/viet-nam-tung-bien-che-phien-ban-mi-g-21-bis-manh-ngang-f-16-20210419112022017.htm
-# date = 20210419
-Tiêm kích MiG-21Bis bắt đầu gia nhập Không quân Nhân dân Việt Nam từ năm 1979. Đó có thể là phiên bản MiG-21bBs 75A dành cho khối xã hội chủ nghĩa. Hiện nay, toàn bộ MiG-21Bis đã bị loại biên do hết niên hạn sử dụng.
-Việt Nam từng biên chế số lượng lớn MiG-21Bis, đây là phiên bản cuối cùng của dòng tiêm kích hạng nhẹ nổi tiếng MiG-21 do Liên Xô sản xuất.
-Năng lực tác chiến của MiG-21Bis tương đương với chiến đấu cơ hạng nhẹ F-16A/B của Mỹ.
-Sự ra đời của MiG-21Bis được Liên Xô thai ngén vào cuối thập niên 1960. Nhằm tiếp tục nâng cao tính năng của máy bay tiêm kích MiG-21 và Su-15, mùa Đông năm 1971 chính phủ Liên Xô ra nghị quyết yêu cầu Phòng thiết kế chế tạo máy MKB Soyuz ở Ufa chế tạo mới động cơ turbojet R-25-300 có sức đẩy cất cánh 7.100 kg còn khi bay thấp với tốc độ âm thanh là 9.900 kg.
-Trên cơ sở động cơ mới, dự án nâng cấp tiêm kích MiG-21 chính thức bắt đầu, phiên bản này được định danh là MiG-21Bis.
-Việc sản xuất MiG-21Bis được triển khai ngay trong năm đó (1971) tại nhà máy ở thành phố Gorkiy.
-Ngoài động cơ tuốc bin phản lực có tăng tốc TRDF dành cho tiêm kích MiG-21Bis, người ta đã hoàn thiện hệ thống nhiên liệu, các điểm dự trữ đã được tìm ra (chủ yếu nhờ thùng dầu phụ) đã cho phép tăng dung tích hệ thống nhiên liệu thêm gần 239 lít, do đó bù trừ được phần mất tầm bay xa do tiêu hao nhiên liệu đã tăng lên.
-Phải ghi nhận công sức của các nhà sản xuất động cơ MKB Soyuz, họ đã hoàn thành nhiệm vụ. R25-300 đã tạo ra lực đẩy ở chế độ khẩn cấp 7.100 KG, còn khi tăng tốc cấp một- 6.850 KG.
-Vẫn giữ nguyên kích thước của mẫu động cơ trước đó, trọng lượng khô của động cơ tăng không đáng kể và đã không vượt quá 1.215kg.
-Thực tế tính năng lực đẩy của động cơ R25-300 đã vượt quá yêu cầu ban đầu đưa ra, vì thế giúp cho máy bay có sức cơ động tốt hơn.
-Rất tiếc là khung thân của máy bay MiG-21Bis đã được tận dụng hết khoảng trống, kể cả các khoang bên trong thân đã cạn kiệt, nếu không sức mạnh của MiG-21Bis còn mạnh hơn nhiều.
-Radar trang bị cho MiG-21Bis tuy có kích thước không lớn nhưng cũng đã mở rộng khả năng bắt bám mục tiêu của máy bay lên đáng kể.
-Máy bay được trang bị tadar RP-21; máy ngắm quang học ASP-PFD-21; tổ hợp dẫn đường - lái PNK Polyot-OI giúp cho MiG-21Bis trở thành đối thủ cực kỳ lợi hại trên không khi đó.
-MiG-21Bis vẫn giữ lại kênh thông tin liên lạc chống nhiễu Lazur, kênh này đảm bảo liên lạc với hệ thống chỉ huy tự động trên mặt đất Vozdukh-1.
-Phi công được trang bị ghế phóng dù KM-1 hoặc KM-1M, thiết bị thu áp suất không khí PVD-18.
-Với việc trang bị này giúp cho phi công có thể thoát thân an toàn trong trường hợp máy bay bị bắn cháy.
-Khả năng cơ động của máy bay gần bằng các tính năng tương ứng của máy bay tiêm kích thế hệ bốn F-15, F-16 và Mirage 2000. Diện tích tán xạ radar (RCS) của máy bay này gần bằng tính năng của máy bay tiêm kích F-16.
-So với các biến thể trước của MiG-21, máy bay tiêm kích MiG-21Bis được cải tiến cánh, thiết bị trên máy bay được hoàn thiện thêm, tăng đáng kể danh sách vũ khí.
-Tải trọng vũ khí của tiêm kích MiG-21Bis khoảng 1,3 tấn cho phép triển khai đến 4 tên lửa không đối không tầm nhiệt K-13M, RS-2US, R-3S, R-3R, R-60 và R-60M; hoặc có thể mang rocket cỡ 57 và 240mm hoặc các loại bom rơi tự do cỡ 500kg.
-4 giá treo có thể cho phép mang "pháo thuyền" (gun pod), máy ảnh hàng không các phương tiện trinh sát vô tuyến điện tử. Trong thân máy bay được bố trí một khẩu pháo hàng không GSh-23L cỡ 23mm với kho đạn 200 viên.
-Năm 1972 nhà máy hàng không ở thành phố Gorkiy đã chế tạo 35 chiếc tiêm kích đánh chặn MiG-21bis đầu tiên, và ngay trong năm đó máy bay được đưa vào trang bị.
-Từ năm 1972 đến năm 1985 Liên Xô đã chế tạo 2.013 chiếc MiG-21Bis với ba cấu hình chủ yếu: sản phẩm "75" cho Không quân của bộ đội Phòng không của Liên Xô (PVO); "75A" cho các nước xã hội chủ nghĩa và "75B" cho các nước tư bản chủ nghĩa và đang phát triển.
-Theo ANTĐ
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/virus-ebola-co-the-an-nau-nhieu-nam-ben-trong-co-the-con-nguoi-20210318124953581.htm
+# date = 20210318
+Vào thời điểm này tháng trước, các nhà chức trách quốc gia ở quốc gia Châu Phi Guinea tuyên bố họ đang phải đối phó với đợt bùng phát dịch Ebola sâu trong vùng nông thôn phía nam Nzérékoré của nước này.
+Với đợt bùng phát hiện có 14 trường hợp được xác nhận và 4 trường hợp nghi ngờ, Tổ chức Y tế Thế giới đang áp dụng một loạt các biện pháp bảo vệ và truy tìm để ngăn chặn sự lây lan của virus.
+Những nghi ngờ về nguồn bùng phát cho đến nay tập trung vào một y tá 51 tuổi qua đời vào cuối tháng 1, đã tìm kiếm sự giúp đỡ từ cả cơ sở y tế địa phương và một thầy lang sau một cơn sốt cao, nôn mửa, suy nhược kèm theo bệnh tiêu chảy.
+Sau lần đầu tiên được chẩn đoán mắc bệnh thương hàn và sau đó là bệnh sốt rét, mới đây các chuyên gia phỏng đoán có vẻ như căn bệnh của cô là do virus Zaire ebolavirus gây ra, một mầm bệnh chết người đến mức ít nhất 5 trường hợp trong đợt bùng phát gần đây nhất đã không chống chọi được với tác động của nó.
+Tuy nhiên, hậu quả của sự lây lan không được điều chỉnh của virus có thể còn tồi tệ hơn nhiều. Từ cuối năm 2013 đến năm 2016, mầm bệnh đã hoành hành khắp các quốc gia Guinea, Liberia và Sierra Leone trong một đợt bùng phát khiến khoảng 40% trong số 28.610 người bị nhiễm bệnh tử vong.
+Các đợt bùng phát nhỏ hơn đã phát sinh kể từ Cộng hòa Dân chủ Congo, nhưng các nhà nghiên cứu hiện có lý do để nghi ngờ rằng đợt bùng phát gần đây nhất này có liên quan đến việc virus có thể đã ẩn náu ở Guinea trong 5 năm qua hoặc hơn.
+Một phân tích bộ gene của các mẫu virus lấy từ bốn bệnh nhân được thực hiện bởi Trung tâm Nghiên cứu và Đào tạo về Bệnh truyền nhiễm của Guinea (CERFIG) cùng Phòng thí nghiệm Sốt xuất huyết Quốc gia, cho thấy chúng thuộc chủng Makona độc lực cao của dịch bệnh Tây Phi.
+Kết luận này được hỗ trợ với một phân tích thứ hai trên ba mẫu được thực hiện bởi phòng thí nghiệm tham chiếu của WHO tại Viện Pasteur Senegal, so sánh gene của những mẫu virus gần đây nhất với 1.063 bộ gen từ đợt bùng phát ở Tây Phi 2013-2016.
+Các kết quả cho thấy một thông tin gây sốc, chồng của nữ y tá có thể chính là người đã âm thầm lưu giữ virus trong cơ thể anh ta nhiều năm.
+Về cơ bản phải mất khoảng một tuần hoặc lâu hơn để Zaire ebolavirus bắt đầu gây ra các vấn đề trong cơ thể con người, mở đầu bằng việc nhắm mục tiêu vào nhiều loại tế bào miễn dịch để mở đường cho sự lây lan nhanh chóng.
+Đại thực bào cuối cùng bắt kịp với cuộc tấn công dữ dội, nuốt chửng các tế bào trong cuộc chiến toàn lực. Hậu quả dẫn đến các mao mạch bị rò rỉ và các cục máu đông lắng đọng trong các mạch máu, khiến toàn bộ hệ thống cơ quan trong cơ thể có nguy cơ bị sụp đổ. Các chất tiết ra từ cơ thể bị nhiễm bệnh có thể dễ dàng truyền virus nhất.
+Có những dấu hiệu cho thấy virus có thể tồn tại bên trong cơ thể lâu hơn, với RNA của nó có thể được phát hiện trong nước tiểu sau một tháng, mồ hôi sau khoảng 40 ngày và trong tinh dịch hơn một năm.
+Các phần tử virus được phân tích trong đợt bùng phát mới này có rất nhiều điểm chung với dịch bệnh ở Tây Phi.
+Kết quả này cũng thách thức những suy nghĩ về việc những đợt bùng phát như vậy có thể bắt đầu như thế nào và cách truyền đạt hiệu quả các biện pháp bảo vệ sự an toàn và sức khỏe trong các cộng đồng bị ảnh hưởng.
+Các nạn nhân của Ebola đã phải đối mặt với sự kỳ thị nặng nề ở nhiều nền văn hóa châu Phi, không chỉ từ những người khác trong cộng đồng mà còn ở ấn tượng của chính người bệnh về giá trị bản thân.
+Trang Phạm
+Theo Science Alert

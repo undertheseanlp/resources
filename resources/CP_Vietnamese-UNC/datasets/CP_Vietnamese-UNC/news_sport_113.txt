@@ -1,18 +1,12 @@
 # doc_id = news_sport_113
-# url = https://dantri.com.vn/the-thao/ha-gia-lai-suyt-thua-soc-doi-hang-duoi-an-giang-o-cup-quoc-gia-20210423191136629.htm
-# date = 20210423
-Ở các trận đấu còn lại trong ngày 23/4, thuộc vòng 1 cúp quốc gia, B.Bình Dương bất ngờ thua đội hạng dưới Cần Thơ trong loạt sút luân lưu, SHB Đà Nẵng thắng Bà Rịa Vũng Tàu 1-0. Trong khi đó, HL Hà Tĩnh thắng đội Công An Nhân Dân 4-2, còn Phố Hiến cũng bất ngờ quật ngã SL Nghệ An bằng chiến thắng 1-0.
-Chỉ phải gặp đội hạng dưới là An Giang ở vòng 1, HLV Kiatisuk bên phía HA Gia Lai chủ động cất hầu hết các trụ cột của mình, gồm Công Phượng, Văn Toàn, thủ môn Tuấn Linh, Văn Thanh, Hồng Duy… trên băng ghế dự bị. Xuân Trường thậm chí không được đăng ký, còn Tuấn Anh dù trở lại sau chấn thương cũng tạm ngồi ngoài.
-Ngoài ra, HA Gia Lai trận này cũng không sử dụng các cầu thủ ngoại, do quy định ở Cúp Quốc gia, khi các đội thuộc V-League gặp các đội thuộc giải hạng Nhất, đôi bên không dùng cầu thủ ngoại.
-Vắng nhiều trụ cột, HA Gia Lai gặp nhiều khó khăn trong việc triển khai lối chơi. Họ cũng có một vài cơ hội trong hiệp 1, nhưng không tận dụng thành công. Đáng kể nhất là tình huống sút bóng dội cột dọc của Bảo Toàn ở giữa hiệp thi đấu thứ nhất.
-Sang hiệp 2, HLV Kiatisuk tung Tuấn Anh vào sân, hòng giúp tuyến giữa của đội bóng phố núi chơi tốt hơn. Nhưng khi mà HA Gia Lai còn chưa kịp ghi bàn, họ đã bị thủng lưới từ một tình huống rất bất ngờ.
-Phút 71, từ cánh phải, Tuấn Anh của An Giang căng ngang cho Kiên Cường đệm bóng cận thành. Thủ môn Lê Văn Trường bên phía HA Gia Lai đẩy bóng ra, nhưng Văn Hợp của đội khách kịp lao vào đá bồi, mở tỷ số 1-0 cho đội bóng miền Tây Nam bộ.
-Choáng váng sau bàn thua vừa nêu, các cầu thủ HA Gia Lai càng thêm nôn nóng, trước khi dứt điểm chệch mục tiêu khá nhiều ở các phút sau đó.
-Đến lúc này, HLV Kiatisuk buộc phải tung các trụ cột của mình gồm Văn Toàn, Văn Thanh, Minh Vương và cả cầu thủ nhập tịch Nguyễn Trung Đại Dương vào sân.
-Chính sự hiện diện của các cầu thủ vừa nêu giúp cho thế trận của HA Gia Lai thay đổi, và kết quả của trận đấu cũng dần thay đổi.
-Phút 85, Văn Toàn bị chèn ngã trong khu vực 16m50 của đội khách, và trọng tài Dương Hữu Phúc cho HA Gia Lai được hưởng phạt đền.
-Từ chấm 11m, Vũ Văn Thanh đánh bại thủ môn Thanh Nhã của đội An Giang, gỡ hòa 1-1 cho đội bóng của HLV Kiatisuk.
-Sau bàn thắng vừa nêu, HA Gia Lai tiếp tục tấn công ào ạt. Phút 87, Dụng Quang Nho dứt điểm đầy kỹ thuật ngay rìa khu vực 16m50, buộcthủ môn Thanh Nhã của đội khách phải cứu thua bằng những đầu ngón tay.
-Nhưng hàng thủ An Giang không thể đứng vững trước sức tấn công quá mạnh mẽ của đội bóng phố núi. Phút 89, Văn Toàn gây áp lực buộc thủ thành Thanh Nhã phải đẩy bóng ra, đúng đà băng xuống của Nguyễn Trung Đại Dương, trước khi cầu thủ nhập tịch này đệm bóng từ cự ly gần vào lưới trống, ấn định chiến thắng 2-1 cho HA Gia Lai.
-Vòng loại Cúp Quốc gia Bamboo Airways 2021 sẽ diễn ra trong ba ngày 23, 24 và 25/4. Lễ khai mạc sẽ diễn ra trên sân Quy Nhơn ngày 24/3, trước thềm trận đấu chủ nhà CLB Bình Định tiếp CLB Long An.
-Kim Điền
+# url = https://dantri.com.vn/the-thao/ha-southampton-leicester-city-hen-chelsea-o-chung-ket-fa-cup-20210419094851012.htm
+# date = 20210419
+Một ngày sau khi Chelsea vượt qua Man City với tỷ số 1-0 ở trận bán kết thứ nhất, Leicester City cũng vượt qua Southampton với tỷ số tương tự ở trận bán kết còn lại.
+HLV Brendan Rodgers tiếp tục tin dùng Kelechi Iheanacho, cầu thủ xuất sắc nhất Ngoại hạng Anh tháng 3/2021 trong vai trò đá cặp tiền đạo cùng Jamie Vardy. Đáng chú ý, James Maddison phải ngồi dự bị, nhường vị trí "số 10" cho Ayoze Perez.
+Kelechi Iheanacho ghi bàn thắng duy nhất vào lưới Southampton để giúp Leicester City vào chơi chung kết FA Cup với Chelsea
+Ngay trong hiệp 1, Leicester đã có ít nhất 3 cơ hội để mở tỷ số sau những pha lên bóng tốc độ từ hai cánh. Đáng tiếc ở tình huống cuối cùng, cả Vardy và Wilfred Ndidi đều dứt điểm hỏng ăn trong tư thế trống trải.
+Phút 55, Vardy thoát xuống bên cánh trái rồi căng ngang dọn cỗ. Kelechi Iheanacho dứt điểm thiếu chuẩn xác nhưng bóng bật trúng chân trung vệ Jannik Vestergaard nảy ra để tiền đạo Leicester ghi bàn từ cú đá bồi cận thành.
+Kelechi Iheanacho trở thành người hùng của Leicester City khi giúp đội nhà có mặt ở trận chung kết FA Cup kể từ năm 1969 đến nay
+Có bàn dẫn trước, Leicester lại triển khai lối đá phòng ngự - phản công sở trường. Southampton được cầm bóng nhiều hơn nhưng hàng công yếu kém khiến họ không thể tạo ra mấy sóng gió về phía khung thành Kasper Schmeichel, với cơ hội tốt nhất có chăng là cú bắt vô-lê đưa bóng đi sát cột dọc của Ibrahima Diallo ở phút 62.
+Về phía Leicester, họ cũng có cơ hội để nhân đôi cách biệt với 2 cú dứt điểm của Maddison nhưng đều không thành công. Tuy vậy, chiến thắng tối thiểu 1-0 là đủ để "Bầy cáo" góp mặt ở chung kết FA Cup, nơi họ sẽ chạm trán Chelsea vào ngày 15/5 tới.
+Sông Lam

@@ -1,13 +1,36 @@
 # doc_id = news_health_203
-# url = https://dantri.com.vn/suc-khoe/quang-tri-cach-ly-3-truong-hop-f-1-tiep-xuc-voi-nguoi-mac-covid-19-20210426163838273.htm
-# date = 20210426
-Ngày 26/4, lãnh đạo Sở Y tế tỉnh Quảng Trị xác nhận, đã tiến hành lấy mẫu xét nghiệm đối với 3 người đàn ông tiếp xúc với 1 người nhiễm Covid-19 và đưa đi cách ly tập trung tại Trường Cao đẳng kỹ thuật.
-Trước đó, vào ngày 21/4, 3 người đàn ông quê ở tỉnh Quảng Trị tiếp xúc gần với 1 trường hợp mắc Covid-19 tại cột mốc số 0 khu vực Cửa khẩu quốc tế La Lay (huyện Đakrông, tỉnh Quảng Trị).
-Ba trường hợp tiếp xúc với ca mắc Covid-19 đã được cách ly. Ảnh minh họa.
-Theo thông tin từ cơ quan chức năng: Trường hợp đầu tiên là ông Nguyễn H. (35 tuổi, trú tại thị trấn Bến Quan, huyện Vĩnh Linh, tỉnh Quảng Trị), làm nghề lái xe.
-Vào 13h ngày 21/4, sau khi tiếp xúc với người đàn ông nhiễm Covid-19 ở cột mốc số 0 thì ông H về ngủ trên xe, tiếp xúc với tổ lái xe.
-Đến 19h ngày 22/4, ông H. lái xe từ Cửa khẩu quốc tế La Lay về đến Khu Công nghiệp Nam Đông Hà (TP Đông Hà, tỉnh Quảng Trị), ngủ lại trên xe. Đến 6h ngày 23/4 thì về nhà riêng và tiếp xúc với 4 người nhà…
-Đến ngày 25/4, ông H cùng 2 người đàn ông trú tại TP Đông Hà từng tiếp xúc với người nhiễm Covid-19 ở cột mốc số 0 được lấy mẫu xét nghiệm Covid-19 và cách ly tập trung tại Trường cao đẳng kỹ thuật Quảng Trị.
-Theo lãnh đạo Sở Y tế, 3 người này không có triệu chứng sốt, ho, khó thở, đã được lấy mẫu xét nghiệm và cách ly tập trung.
-Ngoài 3 trường hợp trên, những người tiếp xúc gần với 3 người đàn ông nói trên tự cách ly tại nhà.
-Đăng Đức
+# url = https://dantri.com.vn/suc-khoe/sang-234-viet-nam-co-8-ca-mac-moi-covid-19-20210423061232147.htm
+# date = 20210423
+Tính từ 18h ngày 22/4 đến 6h ngày 23/4, nước ta có 8 ca mắc mới Covid-19 (BN2817-2824) được cách ly ngay sau khi nhập cảnh tại TP HCM (5), Nam Định (3).
+Cụ thể:
+- CA BỆNH 2817 (BN2817) ghi nhận tại TP HCM: Bệnh nhân nữ, 36 tuổi, công dân Việt Nam, địa chỉ tại huyện Hải Hậu, tỉnh Nam Định.
+Bệnh nhân từ Ukraina quá cảnh Qatar, sau đó nhập cảnh Sân bay Tân Sơn Nhất ngày 18/4 trên chuyến bay QR970 và được cách ly ngay sau khi nhập cảnh tại TP HCM. Kết quả xét nghiệm ngày 19/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện dã chiến Củ Chi.
+- CA BỆNH 2818 (BN2818) ghi nhận tại TP HCM: Bệnh nhân nam, 34 tuổi, quốc tịch Ấn Độ, là chuyên gia.
+Bệnh nhân từ Ấn Độ quá cảnh Qatar, sau đó nhập cảnh tại Sân bay Tân Sơn Nhất ngày 18/4 trên chuyến bay QR970 và được cách ly ngay sau khi nhập cảnh tại TP HCM. Kết quả xét nghiệm ngày 19/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện dã chiến Củ Chi.
+- CA BỆNH 2819 (BN2819) ghi nhận tại TP HCM: Bệnh nhân nữ, 31 tuổi, quốc tịch Thổ Nhĩ Kỳ. Bệnh nhân từ Thổ Nhĩ Kỳ nhập cảnh Sân bay Tân Sơn Nhất ngày 14/4 trên chuyến bay TK6086 và được cách ly ngay sau khi nhập cảnh tại TPHCM. Kết quả xét nghiệm lần 2 ngày 20/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện dã chiến Củ Chi.
+- CA BỆNH 2820 (BN2820) ghi nhận tại TP HCM: Bệnh nhân nữ, 38 tuổi, công dân Việt Nam, địa chỉ tại huyện Bá Thước, tỉnh Thanh Hóa.
+- CA BỆNH 2821 (BN2821) ghi nhận tại TP HCM: Bệnh nhân nữ, 39 tuổi, công dân Việt Nam, địa chỉ tại huyện Tháp Mười, tỉnh Đồng Tháp.
+BN2820-2821 từ Dubai nhập cảnh Sân bay Tân Sơn Nhất ngày 14/4 trên chuyến bay VN88 và được cách ly ngay sau khi nhập cảnh tại TP HCM. Kết quả xét nghiệm lần 2 ngày 21/4 dương tính với SARS-CoV-2. Hiện các bệnh nhân được cách ly, điều trị tại Bệnh viện dã chiến Củ Chi.
+- CA BỆNH 2822 (BN2822) ghi nhận tại tỉnh Nam Định: Bệnh nhân nam, 36 tuổi, công dân Việt Nam, địa chỉ tại huyện Thanh Hà, tỉnh Hải Dương.
+- CA BỆNH 2823 (BN2823) ghi nhận tại tỉnh Nam Định: Bệnh nhân nam, 30 tuổi, công dân Việt Nam, địa chỉ tại huyện An Lão, thành phố Hải Phòng.
+- CA BỆNH 2824 (BN2824) ghi nhận tại tỉnh Nam Định: Bệnh nhân nữ, 69 tuổi, công dân Việt Nam, địa chỉ tại Thành phố Hạ Long, tỉnh Quảng Ninh.
+BN2822-2824 từ Nhật Bản nhập cảnh Sân bay Vân Đồn ngày 20/4 trên chuyến bay VJ2723 và được cách ly ngay sau khi nhập cảnh tại tỉnh Nam Định. Kết quả xét nghiệm ngày 22/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh.
+Tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 39.191, trong đó:
+- Cách ly tập trung tại bệnh viện: 518
+- Cách ly tập trung tại cơ sở khác: 23.688
+- Cách ly tại nhà, nơi lưu trú: 14.985.
+Về tình hình điều trị: Theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế:
+- Số ca âm tính với SARS-CoV-2:
++ Lần 1: 12
++ Lần 2: 11
++ Lần 3: 17
+- Số ca tử vong: 35 ca.
+- Số ca điều trị khỏi: 2.490 ca.
+Trong ngày 22/4, có thêm 20.203 người được tiêm chủng vắc xin phòng Covid-19. Như vậy đến nay đã có 128.610 người được tiêm vắcxin (cả đợt 1 và đợt 2). Trong ngày, tỉnh Phú Thọ, Thái Nguyên, Bắc Kạn, Nghệ An, Yên Bái, Lào Cai, Bình Định, Kon Tum bắt đầu triển khai tiêm chủng vắc xin phòng Covid-19.
+Thế giới ghi nhận hơn 144 triệu ca nhiễm, trong đó hơn 3 triệu ca tử vong. Trong 3 tuần vừa qua, thế giới ghi nhận hơn 15 triệu ca mắc Covid-19 (chiếm 10% tổng số ca mắc từ đầu dịch), hơn 240.000 bệnh nhân đã tử vong (chiếm 8% tổng số tử vong từ đầu dịch).
+Tại khu vực Đông Nam Á, Philippines ghi nhận trung bình hơn 10.400 ca mắc mới mỗi ngày, gần gấp đôi so với thời điểm trong tháng 3/2021 và vượt xa con số trung bình 213 ca mỗi ngày hồi tháng 4/2020.
+Tại Indonesia, hiện nay tỷ lệ ca dương tính với SARS-CoV-2 đã giảm còn 11%, so với gần 30% ghi nhận vào thời điểm bùng phát dịch mạnh nhất (ngày 9/2). Ngày 20/4, Bộ trưởng Điều phối Các vấn đề kinh tế Indonesia, Airlangga Hartarto thông báo lệnh hạn chế hoạt động cộng đồng quy mô nhỏ (PPKM) sẽ được kéo dài từ ngày 20/4 tới ngày 3/5; đồng thời mở rộng ra 25 tỉnh, thành trên khắp cả nước. Trước đó, thủ đô Jakarta và nhiều địa phương khác đã áp dụng và liên tục kéo dài các lệnh hạn chế cộng đồng quy mô lớn dưới nhiều hình thức.
+Thái Lan xuất hiện đợt bùng phát dịch thứ 3, liên quan đến ổ dịch các quán rượu tại thủ đô Bangkok và lây lan ra 75/77 tỉnh của nước này. Con số ca bệnh tại nước này đã lên đến hơn 39.000, 97 trường hợp tử vong. Riêng trong ngày 12/4, Thái Lan ghi nhận 980 trường hợp mắc mới do lây nhiễm cộng đồng - con số ca mắc mới hằng ngày cao nhất kể từ khi đại dịch bùng phát đến nay.
+Tại Lào, Thủ tướng Lào Phankham Viphavanh đã ký lệnh phong tỏa thủ đô Vientiane trong hai tuần nhằm ngăn dịch bệnh Covid-19 tiếp tục lây lan tại đây. Bộ Y tế nước này hôm 21/4 đã ghi nhận thêm 28 ca dương tính Covid-19 mới (tổng số ca nhiễm là 88 ca).
+Tại Campuchia, ngày 21/4 ghi nhận 303 ca mắc mới, con số ca mắc mới theo ngày thấp nhất kể từ đầu tuần này, nâng tổng số ca mắc Covid-19 lên 7.747 ca (54 ca tử vong). Thủ đô Phnom Penh ghi nhận số ca mắc cao nhất cả nước.
+Nam Phương

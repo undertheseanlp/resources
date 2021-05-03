@@ -1,24 +1,17 @@
 # doc_id = news_sport_171
-# url = https://dantri.com.vn/the-thao/man-utd-se-lot-xac-de-vuot-qua-cai-dop-khung-khiep-20210429110539459.htm
-# date = 20210429
-Lịchthi đấu lượt đi bán kết Europa League:
-02h00 ngày 30/4
-Man Utd vs AS Roma
-Villarreal vs Arsenal
-(đội xếp trước sẽ đóng vai trò chủ nhà ở lượt đi)
-Trước thềm trận đấu với AS Roma, trang fanpage của Man Utd đã có động thái "khiêu khích" khi nhắc lại chiến thắng 7-1 trước đối thủ này ở Champions League 2007. Thế nhưng, ở góc độ nào đó, động thái ấy cũng cho thấy rằng Man Utd đang thực sự "thèm khát" những thành công trong quá khứ.
-Chiến thắng 7-1 trước AS Roma gợi lên giai đoạn thành công rực rỡ của Man Utd.
-Man Utd dưới thời Sir Alex Ferguson chính là biểu tượng thành công. Ở đó, có đôi lúc, dù CLB không sở hữu đội hình quá mạnh nhưng họ luôn biết cách khuất phục đối phương. Bản lĩnh làm nên thành công ấy.
-Ở thời điểm này, Man Utd đang "khát" một danh hiệu thực sự. Không ai có thể phủ nhận rằng, Quỷ đỏ đang ngày một tiến bộ và ổn định hơn dưới thời HLV Solskjaer. Thế nhưng, họ vẫn có thiếu một yếu tố để vươn lên đỉnh cao, đó là bản lĩnh.
-Nói vậy bởi lẽ, dưới thời HLV Solskjaer, thành tích tốt nhất của Man Utd chỉ là dừng bước ở… bán kết. Ở mùa giải trước, họ đã thất bại trong cả 3 trận bán kết FA Cup, League Cup và Europa League. Sang mùa này, Man Utd một lần nữa dừng bước ở bán kết League Cup.
-Đó được xem là cái dớp của Man Utd thời Solskjaer nhưng phải thừa nhận rằng họ luôn thiếu bản lĩnh ở thời điểm quyết định. Đơn cử như ở trận cuối cùng vòng bảng Champions League mùa này với Leipzig. Man Utd chỉ cần một trận hòa trên đất Đức là giành vé đi tiếp nhưng họ còn làm tệ hơn thế. Rất hiếm có đội bóng dẫn đầu tới 5 lượt ở vòng bảng nhưng vẫn phải rời cuộc chơi theo cách như vậy.
-Man Utd dưới thời Solskjaer chưa có "tiếng nói" ở thời điểm quyết định.
-Hay như ở mùa giải này, Man Utd từng trải qua chuỗi trận dài không thể chiến thắng và ghi bàn trước các CLB trong nhóm Big Six, trước khi phá dớp điều đó bằng chiến thắng trước Man City (mới nhất là Tottenham).
-Nói vậy để thấy, nếu đặt lên bàn cân, Man Utd đang hơn AS Roma ở mọi yếu tố trong trận đấu này. Thế nhưng, những người Man Utd vẫn có cảm giác lo lắng. Phải chăng, họ giống như "chim sẻ sợ cành cong". Những lần hụt hơi ở thời điểm quyết định trong những năm qua đã khiến cho niềm tin giảm sút.
-Dù sao, điều mừng với Man Utd là AS Roma đang ở trong tình cảnh khó khăn nhất kể từ đầu mùa. Họ đã trượt dốc thê thảm ở giai đoạn 2 mùa giải này tại Serie A. Từ chỗ có vị trí trong top 4, "Bày sói" đã tụt xuống vị trí thứ 7. Giờ đây, hy vọng giành vé dự Champions League của AS Roma trở nên xa vời khi kém CLB xếp thứ 4 là Juventus tới 11 điểm (trong bối cảnh mùa giải chỉ còn 5 vòng). Thậm chí, họ còn có nguy cơ không kiếm nổi vé dự Europa League khi kém CLB xếp thứ 6 là Lazio tới 6 điểm nhưng thi đấu nhiều hơn 1 trận.
-AS Roma không còn đường lùi nên sẽ rất nguy hiểm.
-Ở khía cạnh khác, việc hụt hơi ở Serie A càng thúc đẩy AS Roma tiến bước ở Europa League. Bởi con đường duy nhất giúp họ giành vé dự Champions League mùa tới là vô địch Europa League mùa này.
-Nhìn chung, kể từ vòng knock-out Europa League, AS Roma vẫn cho thấy bản lĩnh của mình khi lần lượt vượt qua Braga, Shakhtar Donetsk và Ajax. Man Utd đương nhiên là thử thách khác nhưng đoàn quân của HLV Paulo Fonseca không còn đường lùi lúc này.
-Họ sẽ tới Old Trafford với nỗi đau phục hận thất bại 1-7 trong quá khứ. Điều đó càng khiến cho CLB thủ đô Italia trở nên đáng sợ hơn. Đây chắc chắn là thử thách không hề dễ dàng với Man Utd.
-Đội hình dự kiến:
-H.Long
+# url = https://dantri.com.vn/the-thao/mang-xa-hoi-tran-ngap-anh-che-su-sup-do-cua-european-super-league-20210421234016907.htm
+# date = 20210421
+Sự xuất hiện một cách đầy bất ngờ của siêu giải đấu European Super League trở thành đề tài bàn tán sôi nổi và hấp dẫn nhất của truyền thông và mạng xã hội trong suốt 3 ngày qua, để rồi kết cục dẫn đến là sự sụp đổ nhanh chóng "ngay từ trong trứng nước" của một giải đấu không được ủng hộ của người hâm mộ bóng đá cả thế giới như vừa qua.
+Người hâm mộ xuống đường phản đối các CLB tham dự European Super League
+Sự phản đối mạnh mẽ của người hâm mộ đối với một siêu giải đấu không đứng về lợi ích của họ chính là nguyên nhân lớn nhất dẫn đến sự sụp đổ nhanh chóng này. Chiến thắng đã khiến người hâm mộ bóng đá cả thế giới thấy phấn khích, đặc biệt hàng loạt những hình ảnh chế giễu về siêu giải đấu "chết yểu" đã xuất hiện tràn ngập trên mạng xã hội trong ngày hôm nay.
+Jamie Carragher, bình luận viên của kênh Sky Sport, người đã ngay từ đầu phản đối mạnh mẽ việc thành lập European Super League, đã thể hiện sự phấn khích trước sự sụp đổ của siêu giải đấu bằng cách đăng trên twitter cá nhân hình ảnh một tấm bia mộ chế giễu việc European Super League chỉ tồn tại không quá hai ngày.
+Jamie Carragher khắc bia mộ cho giải đấu chết yểu European Super League
+Cựu cầu thủ của Man Utd, Rio Ferdinand cũng bày tỏ sự vui mừng khi chia sẻ một đoạn clip ghi lại cảnh anh vừa cười vừa xoa tay vào nhau trong phòng thu đồng thời hét vang "Hãy vui lên nào".
+Rio Ferdinand bảy tỏ niềm vui khi nghe tin giải đấu European Super League chết yểu
+Rất nhiều lời khen ngợi đã được đưa ra khi sớm ngăn chặn một ý tưởng gây náo loạn thế giới như European Super League trong mấy ngày qua. Trung tâm của sự tức giận của hầu hết mọi người là Florentino Perez, chủ tịch CLB Real Madrid, người sẽ giữ vai trò chủ tịch của European Super League.
+Vào tối 19/4i, Perez đã có một cuộc phỏng vấn gây kinh ngạc trên truyền hình Tây Ban Nha, khi ông tuyên bố European Super League sẽ 'cứu bóng đá' trước khi khẳng định một số CLB lớn nhất thế giới - bao gồm cả Real Madrid - đã mất rất nhiều tiền trong đại dịch Covid-119.
+Siêu dự án của Perez đổ bể chỉ sau 3 ngày trước sự phản ứng mạnh mẽ của người hâm mộ bóng đá thế giới
+Người hâm mộ đã nhanh chóng chế nhạo Perez, khi lồng vào bức ảnh ngôi sao PSG, Kylian Mbappe, vượt qua sự truy cản của Gerard Pique bằng cách chèn tên Perez đang cố gắng níu giữ sự sụp đổ nhanh chóng của European Super League.
+Ảnh chế theo trend "Hãy bắt tôi nếu có thể" để chế giễu chủ tịch Perez cố gắng ngăn cản các CLB tháo chạy khỏi European Super League
+Cuối cùng, như HLV Pep Guardiola chia sẻ, việc European Super League chết yểu là điều tất nhiên, khi "Đó là giải đấu mà thành công không cần đến nỗ lực, phần thưởng không cần sự cố gắng. Đó là giải đấu mà thành công đã được đảm bảo sẵn, còn thất bại thì không hề quan trọng".
+Sông Lam

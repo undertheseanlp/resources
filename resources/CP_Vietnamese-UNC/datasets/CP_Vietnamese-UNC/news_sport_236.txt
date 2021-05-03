@@ -1,14 +1,12 @@
 # doc_id = news_sport_236
-# url = https://dantri.com.vn/the-thao/thua-soc-barcelona-con-hung-chiu-don-trung-phat-nang-ne-20210501063931574.htm
-# date = 20210501
-Mới đây, Barcelona đã bất ngờ hứng chịu thất bại sốc với tỷ số 1-2 trước Granada trên sân nhà Nou Camp. Trận thua này đã khiến cho Los Blaugrana bỏ lỡ cơ hội cực lớn vươn lên dẫn đầu La Liga.
-HLV Ronald Koeman nhận thẻ đỏ trong trận đấu với Granada.
-Không những vậy, họ còn chịu tổn thất lớn khi HLV Ronald Koeman đã bị truất quyền chỉ đạo sau khi có lời lẽ được cho là xúc phạm trọng tài thứ tư. Hành động của HLV người Hà Lan đã thực sự gây tai họa cho Los Blaugrana.
-Nói vậy bởi lẽ, Ủy ban kỷ luật của La Liga đã có cuộc họp khẩn để xem xét vụ việc. Theo kết luận của cơ quan này, HLV Ronald Koeman đã có lời lẽ không phù hợp với trọng tài. Do đó, họ quyết định cấm chỉ đạo trong 2 trận với HLV Barcelona.
-Án phạt này xuất phát từ Điều 117 trong luật của La Liga. Theo đó, cầu thủ hoặc HLV sẽ bị cấm thi đấu 2 trận nếu có lời lẽ, hành vi coi thường trọng tài và cơ quan quản lý thể thao.
-Điều đáng nói, HLV Ronald Koeman sẽ vắng mặt trong hai trận đấu vô cùng quan trọng của Barcelona trước Valencia và Atletico Madrid. Đặc biệt, trận đấu với Atletico Madrid đóng vai trò quyết định trực tiếp chức vô địch La Liga mùa này.
-HLV Ronald Koeman sẽ bị cấm chỉ đạo 2 trận, trong đó có trận chiến quyết định gặp Atletico Madrid.
-Sau trận đấu với Granada, HLV người Hà Lan đã lên tiếng giải thích: "Tôi không biết liệu tôi mất quyền chỉ đạo có ảnh hưởng đến đội bóng không nhưng chắc chắn sẽ ảnh hưởng đến tôi. Nếu tôi đã dùng những lời lẽ xấu xa xúc phạm trọng tài thì tôi sẽ chịu hình phạt nhưng mọi chuyện thực tế không hề như vậy
-Thật thiếu tôn trọng. Đây là một sự xúc phạm. Tôi chưa từng một lần dùng lời lẽ thô tục với ông ấy. Nếu họ thêu dệt nên những điều mà tôi không hề nói, tôi chắc chắn sẽ phải làm điều gì đó".
-Barcelona chắc chắn sẽ không chấp nhận án phạt này từ Ủy ban kỷ luật của La Liga. Họ được cho là sẽ kháng cáo để giúp HLV Ronald Koeman giảm án xuống còn 1 trận, để có thể trở lại ở trận gặp Atletico Madrid.
-H.Long
+# url = https://dantri.com.vn/the-thao/thuyen-truong-clb-ha-noi-nhan-loi-khuyen-tu-hlv-park-hang-seo-20210427064059040.htm
+# date = 20210427
+Ngày hôm qua, CLB Hà Nội đã có buổi tập để chuẩn bị cho vòng 11 V-League 2021 gặp CLB Bình Định. HLV Park Choong Kyun đã có 5 ngày làm việc ở đội bóng mới và ông thừa nhận không ít áp lực trong bối cảnh đội bóng Thủ đô có phần khủng hoảng.
+HLV Park Choong Kyun cho biết ông đã nhìn ra những điểm mạnh, điểm yếu của CLB Hà Nội: "Trước mắt chúng tôi còn các trận đấu phải lên kế hoạch, trong đó có cả các trận ở Cúp Quốc gia.
+HLV Park Choong Kyun quyết tâm cùng CLB Hà Nội vượt qua giai đoạn khó khăn.
+Chúng tôi sẽ gắng khắc phục và vươn lên ở từng trận đấu một. Tôi nhận thông tin về làm HLV CLB Hà Nội sau 2 vòng đấu đầu tiên. Đội Hà Nội luôn đặt mục tiêu có thứ hạng cao, đua vô địch và khi nhận lời mời, tôi không có chút do dự.
+Phong cách thi đấu của CLB Hà Nội và triết lý bóng đá của tôi rất tương đồng. Tôi không gặp khó khăn gì về phong cách chơi của CLB. Tuy nhiên, CLB Hà Nội phải cải thiện ở khâu phòng ngự. Họ có nhiều nhược điểm, nhưng đây là vấn đề chiến thuật nên tôi không thể tiết lộ".
+Bên cạnh đó, HLV Park Choong Kyun cũng chia sẻ về những lời khuyên từ người đồng hương Park Hang Seo: "Khi đến Việt Nam, tôi đã gặp HLV Park Hang Seo và nhận được những chỉ dạy, lời khuyên của ông ấy.
+Tôi phải làm gương, cố gắng từng trận đấu một để những hậu bối của mình sau này khi sang Việt Nam có thể tiếp nối con đường mà chúng tôi đã đi".
+Trước thềm trận đấu với CLB Bình Định vào 19h ngày 28/4 cũng như hai trận còn lại với SL Nghệ An và Sài Gòn FC ở LS V-League 2021, chiến lược gia người Hàn Quốc quyết tâm cùng CLB Hà Nội giành trọn vẹn 9 điểm để có mặt ở top 6 cùng suất đua vô địch năm nay.
+Thùy Anh

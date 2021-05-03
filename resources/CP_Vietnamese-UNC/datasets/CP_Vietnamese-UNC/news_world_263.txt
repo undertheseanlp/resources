@@ -1,10 +1,33 @@
 # doc_id = news_world_263
-# url = https://dantri.com.vn/the-gioi/video-tau-chien-nga-phong-xit-ten-lua-20210430094953424.htm
-# date = 20210430
-Theo Sputnik, Bộ Quốc phòng Nga đã công bố một video ghi lại vụ phóng thành công tên lửa hành trình Kalibr từ tàu khu trục Đô đốc Shaposhnikov trong đợt thử nghiệm vũ khí trên biển Nhật Bản hồi đầu tháng.
-Tuy nhiên, một video khác rò rỉ trên mạng xã hội đã hé lộ một diễn biến khác của vụ phóng này.
-Hình ảnh từ đoạn video cho thấy, chưa đầy một giây sau khi rời ống phóng, sự cố đã xảy ra với động cơ của tên lửa khiến nó bắt đầu mất kiểm soát.
-Tên lửa bị tách làm đôi, xoay vòng liên tục trên không trung, trước khi rơi xuống biển. Vị trí rơi cách không xa tàu Đô đốc Shaposhnikov.
-Sau khi hoàn tất quá trình nâng cấp vào năm ngoái, tàu Đô đốc Shaposhnikov chuyển từ tàu săn ngầm thành tàu khu trục đa năng, có thể mang 16 tên lửa hành trình Kalibr tầm xa. Các tên lửa Kalibr có thể được sử dụng để tấn công các tàu nổi, tàu ngầm cũng như mục tiêu trên mặt đất.
-Thành Đạt
-Theo Sputnik
+# url = https://dantri.com.vn/the-gioi/vu-tau-ca-trung-quoc-o-da-ba-dau-eu-ra-chien-luoc-mang-tinh-buoc-ngoat-20210428213407002.htm
+# date = 20210428
+Hạm đội tàu cá Trung Quốc neo đậu tại rạn Đá Ba Đầu, cụm Sinh Tồn thuộc quần đảo Trường Sa của Việt Nam (Nguồn: Reuters)
+EU có bước đi mới
+Ngày 24/4, EU bày tỏ lo ngại về sự hiện diện của các tàu cá Trung Quốc tại Đá Ba Đầu nằm trong các khu vực tranh chấp ở Biển Đông.
+Động thái của liên minh này được đưa ra sau khi khoảng 200 tàu Trung Quốc hiện diện trái phép ở Đá Ba Đầu và một số thực thể khác trong quần đảo Trường Sa của Việt Nam.
+Trong tuyên bố gửi Cơ quan Hành động Đối ngoại châu Âu (EEAS), EU nói rằng, sự hiện diện của các tàu Trung Quốc tại bãi Đá Ba Đầu đang đe dọa hòa bình và ổn định trong khu vực.
+EU kêu gọi các nước liên quan, bao gồm cả Trung Quốc và Philippines, giải quyết tranh chấp bằng các biện pháp hòa bình và ngoại giao phù hợp với Công ước Liên hợp quốc về Luật Biển năm 1982 (UNCLOS).
+Bên cạnh việc lặp lại sự phản đối của khối đối với bất kỳ hành động đơn phương có thể làm suy yếu hòa bình khu vực và trật tự dựa trên luật lệ, EU còn thúc giục tất cả các bên theo đuổi những nỗ lực chân thành hướng tới việc hoàn tất bộ quy tắc này.
+Tuyên bố nêu rõ, EU ủng hộ tiến trình do ASEAN dẫn dắt nhằm hướng tới một Bộ quy tắc ứng xử của các bên trên Biển Đông (COC) hiệu quả, thực chất và ràng buộc về mặt pháp lý, không làm phương hại đến lợi ích của các bên thứ ba.
+Brussels đồng thời yêu cầu các bên tôn trọng phán quyết của Tòa Trọng tài hồi tháng 7/2016, trong đó khẳng định Trung Quốc đã vi phạm quyền chủ quyền của Philippines trong vùng đặc quyền kinh tế (EEZ) của nước này.
+Trước động thái mới của EU, người phát ngôn của Phái đoàn Trung Quốc tại EU ngày 25/4 đã đáp trả rằng, tàu cá Trung Quốc tới bãi Đá Ba Đầu tránh bão là hợp lý và hợp pháp.
+Người phát ngôn trên nói: "Biển Đông không nên trở thành công cụ để các quốc gia cá biệt kiềm chế và gây áp lực với Trung Quốc, cũng không nên trở thành chiến trường cạnh tranh giữa các cường quốc.
+Trung Quốc kêu gọi EU tôn trọng nỗ lực của các nước trong khu vực nhằm xử lý đúng đắn những khác biệt và duy trì sự ổn định ở Biển Đông, đồng thời chấm dứt các hành động tiêu cực và gieo rắc bất hòa".
+Can dự sâu hơn, toàn diện hơn
+Trước đó, ngày 19/4, EU đã thông qua dự thảo "Chiến lược của Liên minh châu Âu (EU) về hợp tác ở Ấn Độ Dương-Thái Bình Dương", trong đó nhấn mạnh mục tiêu hướng đến đảm bảo tuyến đường thương mại biển tự do và rộng mở theo luật quốc tế, đặc biệt là UNCLOS, vì lợi ích của tất cả các bên.
+Trong kết luận của Hội đồng châu Âu (EC) về việc thông qua dự thảo trên, các quốc gia thành viên đã ghi nhận tầm quan trọng của việc duy trì sự hiện diện của hải quân châu Âu tại Ấn Độ Dương-Thái Bình Dương.
+Đây là các động thái mang tính bước ngoặt lớn của EU với khu vực, đặc biệt là trong các vấn đề trên biển, vì các lý do sau đây:
+Thứ nhất, EU đã đạt được bước chuyển trong thống nhất lập trường chung giữa 27 quốc gia thành viên về sự ra đời của một chính sách riêng với khu vực.
+Dự thảo đã thể hiện nhận thức của Brussels về tầm quan trọng ngày càng tăng của Ấn Độ Dương-Thái Bình Dương và cam kết củng cố vai trò của khối trong hợp tác với các đối tác tại đây.
+Thứ hai, động thái trên của EU còn được coi là "lời đáp", sau khi các nước thành viên gồm Pháp, Đức và Hà Lan công bố chiến lược với khu vực trong năm 2020.
+Đây cũng được coi là gạch nối dài cho kế hoạch tương tự của Anh hồi tháng 3 cũng như lời kêu gọi của Mỹ hối thúc các đồng minh tăng cường can dự vào Ấn Độ Dương-Thái Bình Dương.
+Thứ ba, EU đã bước vào không gian địa chiến lược của Ấn Độ Dương-Thái Bình Dương một cách "toàn diện" hơn với việc bổ sung thêm chân kiềng an ninh - quân sự.
+Điều này đảm bảo rằng, tiếng nói của khối trong khu vực có phần "nặng hơn" so với trước kia, khi EU thường tập trung thúc đẩy can dự về mặt chính trị - ngoại giao nhiều hơn.
+Theo đó, EU nhấn mạnh đến việc tiếp tục phát triển quan hệ đối tác trong khu vực về an ninh và quốc phòng, trong đó có giải quyết các vấn đề an ninh biển, an ninh mạng, khủng bố và tội phạm có tổ chức...
+Thứ tư, dự thảo hứa hẹn nhiều hoạt động hợp tác cụ thể và thực chất với khu vực về an ninh biển trong thời gian tới, cụ thể là EU sẽ mở rộng phạm vi hoạt động của dự án Tuyến đường hàng hải quan trọng Ấn Độ Dương (CRIMARIO) giai đoạn II sang khu vực Nam Á và Đông Nam Á, đồng thời hướng đến cải thiện việc chia sẻ thông tin và quản lý khủng hoảng trên các tuyến đường biển quan trọng.
+Ngoài ra, theo tài liệu này, một trong các mục tiêu của việc phối hợp sự hiện diện trên biển của EU dựa trên sự đóng góp tự nguyện của các quốc gia thành viên là hợp tác với hải quân các nước, hỗ trợ xây dựng năng lực ở các lĩnh vực liên quan, và thiết lập sự giám sát toàn diện về an ninh biển và tự do hàng hải theo luật quốc tế, đặc biệt là UNCLOS.
+Liên quan đến hoạt động của tàu cá Trung Quốc trên Biển Đông tại bãi Đá Ba Đầu thuộc quần đảo Trường Sa của Việt Nam, ngày 8/4, Người phát ngôn Bộ Ngoại giao Lê Thị Thu Hằng cho biết:
+Cần phải nhắc lại Việt Nam có đầy đủ bằng chứng lịch sử và cơ sở pháp lý khẳng định chủ quyền với hai quần đảo Hoàng Sa và Trường Sa, phù hợp với luật pháp quốc tế, cũng như chủ quyền, quyền chủ quyền, quyền tài phán đối với các vùng biển liên quan ở Biển Đông, được xác lập phù hợp với Công ước của Liên hợp quốc về Luật Biển năm 1982.
+Mọi hình thức tuyên truyền, quảng bá những nội dung trái với sự thật lịch sử và luật pháp quốc tế đều không có giá trị, không thể thay đổi được thực tế về chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa, cũng như thực tế về vấn đề Biển Đông.
+Theo Dương Anh
+Thế giới & Việt Nam

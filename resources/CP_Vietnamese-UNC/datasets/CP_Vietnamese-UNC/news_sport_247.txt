@@ -1,14 +1,23 @@
 # doc_id = news_sport_247
-# url = https://dantri.com.vn/the-thao/trong-hoang-nghi-68-tuan-lo-hen-vong-loai-world-cup-2022-20210429200406964.htm
-# date = 20210429
-Ở trận đấu này, Trọng Hoàng đã bị đau sau một pha tranh chấp. Cầu thủ CLB Viettel sau đó buộc phải rời sân để nhờ sự chăm sóc của các bác sĩ. Do mất Trọng Hoàng, Viettel đã để TP.HCM chia điểm sau trận hòa 1-1, qua đó bị HA Gia Lai bỏ xa tới 5 điểm trên BXH.
-Dù vậy, vấn đề của CLB Viettel là việc không tìm được người thay thế xứng đáng cho Trọng Hoàng ở những trận đấu tới đây. Theo kết quả vừa được các bác sĩ CLB Viettel thông báo, Trọng Hoàng bị rách cơ tứ đầu đùi trái. Với chấn thương này Trọng Hoàng có thể phải nghỉ thi đấu từ 6-8 tuần.
-Trọng Hoàng dính chấn thương ở trận gặp TPHCM hôm 27/4 vừa qua (ảnh: Trọng Vũ).
-Trọng Hoàng chấn thương cũng là một tin dữ với HLV Park Hang Seo. Dưới thời thầy Park, Trọng Hoàng là cầu thủ rất quan trọng, cùng với Hùng Dũng là hai cầu thủ hơn 23 tuổi góp công vào tấm HCV SEA Games lịch sử năm 2019.
-Với việc phải nghỉ khoảng 2 tháng, cơ hội tham dự vòng loại World Cup 2022 khu vực châu Á của Trọng Hoàng gần như khép lại. Trước đó, thầy Park cũng đã mất Hùng Dũng, điều này khiến chiến lược gia người Hàn Quốc rất đau đầu với bài toán nhân sự ở đội tuyển Việt Nam.
-Theo kế hoạch, chuẩn bị cho mục tiêu lấy vé vào vòng loại cuối World Cup 2022 khu vực châu Á, đợt tập huấn của đội tuyển Việt Nam được chia làm 2 giai đoạn. Giai đoạn 1, thầy trò HLV Park Hang Seo hội quân tại Quy Nhơn từ ngày 10/5 đến ngày 18/5. Tại đây, đội tuyển Việt Nam có trận giao hữu với CLB Bình Định ngày 15/5.
-Giai đoạn 2, đội tuyển Việt Nam rèn quân luyện tại Hà Nội từ ngày 19/5 cho đến ngày 26/5, sau đó lên đường sang UAE bằng chuyến chuyên cơ vào ngày 27/5. Trước trận gặp Indonesia, Quang Hải và các đồng đội có gần 10 ngày tập luyện tại UAE.
-Nhằm đáp ứng công tác chuyên môn của đội tuyển trong thời gian tập huấn tại UAE, VFF đang liên hệ để thầy trò HLV Park Hang Seo có 1 trận đấu giao hữu mang tính "tổng duyệt" vào ngày 31/5. Nếu không có gì thay đổi, quân xanh của tuyển Việt Nam là Jordan.
-Sau 5 trận đấu tại bảng G, đội tuyển Việt Nam đang dẫn đầu bảng với 11 điểm. Vị trí nhì bảng đang thuộc về Malaysia với 9 điểm. Tiếp theo lần lượt là Thái Lan (8 điểm), UAE (6 điểm) và cuối cùng là Indonesia (0 điểm).
-Theo lịch thi đấu vừa được AFC chốt lại, đội tuyển Việt Nam gặp Indonesia (7/6), gặp Malaysia (11/6) và gặp UAE (15/6) đều vào khung giờ 23h45 (giờ Việt Nam).
-T.Đ
+# url = https://dantri.com.vn/the-thao/tuyen-bo-hlv-kiatisuk-thay-park-hang-seo-huyen-thoai-thai-lan-bi-nem-da-20210423142729950.htm
+# date = 20210423
+Như đã thông tin, trong cuộc trả lời phỏng vấn Sport.Trueid của Thái Lan, cựu danh thủ bóng đá xứ chùa Vàng, Piyapong Pue-on, đã gây bão dư luận khi nhận định trong tương lai gần, HLV Kiatisuk sẽ thay HLV Park Hang Seo dẫn dắt đội tuyển Việt Nam.
+Điều đáng nói, huyền thoại bóng đá Thái Lan còn "trù ẻo" HLV Park Hang Seo nếu thất bại của vòng loại World Cup 2022 khu vực châu Á vào tháng 6 tới, thì VFF sẽ có hành động.
+"Zico đang tạo nên cơn sốt và sắm vai người hùng ở Việt Nam. Anh ấy đang làm nên những màn trình diễn tuyệt vời khi dẫn dắt HA Gia Lai ở V-League. Sức hút mà Zico tạo ra đang là rất lớn. Tôi nghĩ anh ấy có cơ hội rất lớn để dẫn dắt đội tuyển Việt Nam. Tôi nghĩ khả năng đó cũng sẽ đến sớm thôi.
+HLV Kiatisuk khó có thể dẫn dắt đội tuyển Việt Nam.
+Dù HLV Park Hang Seo đang rất thành công ở đội tuyển Việt Nam, nhưng liên đoàn bóng đá nước này hẳn cũng đang tính toán cho tương lai với người kế thừa dẫn dắt đội tuyển. Nếu điều đó xảy ra, chắc chắn Kiatisuk sẽ có cơ hội dẫn dắt đội tuyển Việt Nam đối đầu với tuyển Thái Lan", Piyapong Pue-on nói.
+Ngay sau những những phát biểu trên, cả báo chí Thái Lan và Việt Nam đều bày tỏ nhiều quan điểm khác nhau. Trong khi giới truyền thông Thái Lan chủ yếu dẫn lời cựu danh thủ Thái Lan, thì báo chí Việt Nam đã có nhiều phản biện, đồng thời cho rằng đây chưa phải là thời điểm bàn tới chuyện thay HLV trưởng ở đội tuyển Việt Nam khi chiến dịch vòng loại World Cup 2022 khu vực châu Á đang tới gần.
+Với giới bóng đá Việt Nam, các HLV, chuyên gia cũng cho rằng những phát biểu của cựu danh thủ Thái Lan không có tính thực tế và rất dễ gây nên những cuộc tranh cãi không hồi kết.
+HLV kỳ cựu Nguyễn Thành Vinh cho biết, hiện tại HLV Park Hang Seo vẫn là HLV được người hâm mộ Việt Nam yêu mến, tin tưởng tuyệt đối. Việc VFF xem xét hợp đồng nếu như đội tuyển Việt Nam không có thành tích tốt ở vòng loại World Cup 2022 diễn ra vào tháng 6 tới đây là quá vội vàng.
+"Chúng ta đều biết là HLV Park Hang Seo đã xây dựng nên hình ảnh không thể thay thế trong lòng người hâm mộ Việt Nam. Chúng ta không thể so sánh hình ảnh của thầy Park với Kiatisuk được. Một người là dẫn dắt đội tuyển quốc gia, còn người còn lại vừa mới tới HA Gia Lai. Hiện Kiatisuk dẫn dắt HA Gia Lai thăng hoa, nhưng thực tế là cũng chưa có thành tích cụ thể", HLV Nguyễn Thành Vinh.
+Theo cựu HLV SL Nghệ An, chuyện thay HLV Park Hang Seo có lẽ chỉ nên bàn trong vài năm tới, khi mà thầy Park có dấu hiệu của tuổi tác, hoặc chiến lược gia người Hàn Quốc có những kế hoạch riêng của mình.
+Được biết, ông Park đang ấp ủ giấc mơ mở học viện bóng đá mang tên mình ở Việt Nam, để sau khi chia tay nghiệp HLV, sẽ làm công tác đào tạo trẻ, giúp nền bóng đá ở quê hương thứ hai phát triển trong tương lai.
+Về góc độ chuyên môn, HLV Nguyễn Thành Vinh đặt ra vấn đề: "Kiatisuk là người Thái Lan, trong khi bóng đá Việt Nam và Thái Lan xem nhau như kình địch. Nếu hai đội tuyển gặp nhau ở những giải đấu lớn, lúc đó sẽ thế nào?".
+HLV Park Hang Seo nhận được sự ủng hộ tuyệt đối ở Việt Nam.
+Cùng chung quan điểm với HLV Nguyễn Thành Vinh, chia sẻtrên báo chí, HLV Lê Thụy Hải cũng thể hiện sự không hài lòng với những phát biểu của cựu danh thủ Thái Lan.
+Theo cựu HLV CLB Thể Công, bóng đá Việt Nam không thể thuê một HLV của kình địch Thái Lan, khi nền bóng đá đôi bên thường xuyên cạnh tranh nhau. Đó là chưa kể HLV Kiatisuk chưa đủ tầm để thay HLV Park Hang Seo. Nếu VFF muốn tìm người mới, thì phải là một HLV đẳng cấp tầm châu Á, thế giới.
+"Bóng đá Thái Lan từng rất thành công với HLV Kiatisuk, nhưng rồi khi họ thất bại thảm hại ở vòng loại thứ ba khu vực châu Á của World Cup 2018 thì Liên đoàn bóng đá Thái Lan đã sa thải HLV trưởng. Họ muốn hướng tới đẳng cấp cao hơn nữa và vì thế đã ký hợp đồng với HLV người Nhật Bản", HLV Lê Thụy Hải nói.
+Không chỉ có 2 HLV kỳ cựu, mà ngay cả các nhà cầm quân trẻ đang dẫn dắt ở V-League cũng bày tỏ quan điểm không đồng tình với ý kiến của cựu danh thủ Thái Lan. Tất cả cho rằng việc đưa vấn đề này ra là rất nhạy cảm, bởi đội tuyển Việt Nam và Thái Lan đều đang cạnh tranh tấm vé đi tiếp tại vòng loại World Cup 2022 khu vực châu Á.
+Về phần mình, trao đổi với chúng tôi, một quan chức VFF đã từ chối đưa ra bình luận, đồng thời khẳng định hợp đồng của HLV Park Hang Seo vẫn được giữ nguyên như đã ký.
+Theo đó, hợp đồng có giá trị đến 31/1/2022, sẽ được tự động gia hạn thêm 1 năm nữa, nếu không bên nào có ý kiến khác. Khi hai bên thống nhất thì toàn bộ điều khoản trong hợp đồng được ký kết trước đó sẽ được giữ nguyên.
+Thùy Anh

@@ -1,11 +1,15 @@
 # doc_id = news_world_140
-# url = https://dantri.com.vn/the-gioi/may-bay-khong-nguoi-lai-cam-tu-cua-iran-thoi-bay-xe-tang-20210422153700153.htm
-# date = 20210422
-Cận cảnh máy bay không người lái Iran tham gia cuộc thử nghiệm (Ảnh chụp màn hình).
-Đài truyền hình Press TV đưa tin, lực lượng Vệ binh Cách mạng Hồi giáo Iran (IRGC) ngày 21/4 đã thực hiện một bài thử nghiệm bay với UAV tự sát do nước này tự phát triển.
-Đoạn video cho thấy khí tài hình tam giác lao rất nhanh vào các mục tiêu như xe tăng, công ten nơ và khiến chúng nổ tung trong nháy mắt. Ngoài ra, hình ảnh chiếc UAV di chuyển trên đường băng cũng được ghi lại, cho thấy diện mạo của vũ khí này.
-Cũng vào ngày hôm qua, Iran đã công bố đoạn video cho thấy các UAV của nước này theo dõi tàu sân bay của hải quân Mỹ hoạt động ở Vịnh Ba Tư. Đoạn video được quay rõ nét cho thấy rõ hình ảnh các khí tài quân sự của Mỹ như máy chiến đấu, trực thăng. Tehran trước đó từng tuyên bố họ có thể phá hủy bất cứ mục tiêu nào của Mỹ trong khu vực.
-Vụ thử nghiệm của Iran diễn ra trong bối cảnh tình hình Trung Đông vẫn căng thẳng và chưa có dấu hiệu hạ nhiệt. Hôm 12/4, Tehran nói rằng nước này bị "khủng bố hạt nhân" khi cơ sở hạt nhân Natanz của Tehran bị gián đoạn hôm 11/4. Iran cáo buộc Israel đứng sau vụ việc và tuyên bố sẽ trả đũa.
-Quan hệ giữa Mỹ và Iran xấu đi rõ rệt từ năm 2018 khi Washington rút khỏi hiệp ước hạt nhân với Tehran. Căng thẳng bùng phát lên cao trào vào đầu năm ngoái khi Mỹ thực hiện vụ không kích ám sát một tướng cấp cao của Tehran khiến Tehran tấn công tên lửa đáp trả. Mỹ thường xuyên cáo buộc các nhóm vũ trang thân Iran đứng sau các vụ tấn công vào cơ sở ngoại giao, căn cứ quân sự có người Mỹ ở Iraq trong thời gian qua.
+# url = https://dantri.com.vn/the-gioi/may-bay-lon-nhat-the-gioi-tro-lai-bau-troi-sau-2-nam-o-an-20210501220001348.htm
+# date = 20210501
+Stratolaunch ngày 29/4 đã cất cánh lần thứ 2 tại Nam California, Mỹ.
+Chuyến bay thử nghiệm kéo dài 4 giờ đồng hồ được thực hiện ở sa mạc Mojave.
+Stratolaunch, chiếc máy bay lớn nhất thế giới, đã bay thử lần đầu vào 2 năm trước, nhưng sau đó, nó đã "im hơi lặng tiếng" cho tới ngày 29/4.
+Chiếc máy bay 6 động cơ đã hạ cánh an toàn trên đường băng bằng 28 bánh xe và công ty Stratolaunch đã gọi đây là một bài bay thử nghiệm "thành công".
+Stratolaunch có tên gọi khác là Roc - một loài chim huyền thoại khổng lồ trong thần thoại Trung Đông.
+Nó có sải cánh 117 mét, độ cao tối đa hơn 10.600 mét.
+Máy bay này được phát triển bởi người đồng sáng lập tập đoàn Microsoft, tỷ phú Paul G. Allen.
+Tuy nhiên, ông Allen đã qua đời vài tháng trước khi Roc cất cánh lần đầu vào tháng 4/2019. Chiếc máy bay sau đó đã được bán cho một bên khác.
+Ông Allen ban đầu muốn dùng chiếc máy bay để phóng các tên lửa mang vệ tinh vào không gian ở trên cao. Tuy nhiên, chủ mới của Roc muốn sử dụng nó để làm công cụ phóng các phương tiện bay siêu thanh sử dụng trong nghiên cứu.
+Roc được trang bị 6 động cơ, và sải cánh của nó dài hơn một sân bóng bầu dục của Mỹ.
 Đức Hoàng
-Theo Sputnik
+Ảnh: Reuters

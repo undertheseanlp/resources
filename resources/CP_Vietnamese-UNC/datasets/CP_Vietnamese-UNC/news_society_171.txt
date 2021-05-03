@@ -1,11 +1,10 @@
 # doc_id = news_society_171
-# url = https://dantri.com.vn/xa-hoi/ky-luat-chu-tich-pho-chu-tich-huyen-vi-cap-sai-hang-tram-thua-dat-20210428101301119.htm
-# date = 20210428
-Theo đó, tại kỳ họp thứ 5, Ủy ban Kiểm tra Tỉnh ủy Đắk Nông đã quyết định thi hành kỷ luật bằng hình thức khiển trách đối với ông Ngô Xuân Đông, Chủ tịch UBND huyện Krông Nô và ông Trần Đăng Ánh, Phó chủ tịch UBND huyện Krông Nô.
-UBKT tỉnh ủy Đắk Nông vừa quyết định kỷ luật 2 lãnh đạo huyện Krông Nô.
-Trong thời gian giữ chức vụ Phó Chủ tịch UBND huyện (từ 7/2014 - 10/2017), sau đó là Chủ tịch UBND huyện Krông Nô từ năm 2017 đến nay, ông Ngô Xuân Đông đã vi phạm trong việc ký 32 quyết định cấp giấy chứng nhận quyền sử dụng (GCNQSD) đất với 172 thửa đất cho 115 hộ gia đình và cá nhân có hộ khẩu thường trú ngoài địa phương, không đầy đủ về thủ tục và thành phần hồ sơ theo quy định.
-Ông Đông còn ký 4 quyết định cấp GCNQSD đất với 41 thửa đất cho 27 hộ và cá nhân sau ngày 1/1/2008 không đủ điều kiện cấp; ký 7 quyết định cho phép 5 hộ chuyển mục đích sử dụng đất hàng nămkhông đúng kế hoạch sử dụng đất của địa phương.
-Cùng ngày, Ủy ban Kiểm tra Tỉnh ủy Đắk Nông quyết định thi hành kỷ luật bằng hình thức khiển trách đối với ông Trần Đăng Ánh, Phó Chủ tịch UBND huyện Krông Nô.
-Trong thời gian giữ chức vụ Phó Chủ tịch UBND huyện Krông Nô, ông Ánh cũng ký 14 quyết định cấp GCNQSD đất với 25 thửa đất cho 20 hộ gia đình và cá nhân có hộ khẩu thường trú ngoài địa phương, không đầy đủ về thủ tục và thành phần hồ sơ theo quy định và hàng loạt quyết định khác vi phạm quy định về luật đất đai.
-Theo UBKT Tỉnh ủy Đắk Nông, ông Ngô Xuân Đông và ông Trần Đăng Ánh cùng phải chịu trách nhiệm trong việc thực hiện chưa tốt trách nhiệm quản lý Nhà nước về quản lý, bảo vệ rừng trên địa bàn huyện Krông Nô để diện tích rừng bị mất gần 100 ha.
-Đặng Dương
+# url = https://dantri.com.vn/xa-hoi/lao-thang-xe-vao-duoi-o-to-tai-dang-dau-2-cong-nhan-tu-vong-20210426133210055.htm
+# date = 20210426
+Ngày 26/4, Công an huyện Trảng Bom (tỉnh Đồng Nai) cho biết, đơn vị này đang điều tra làm rõ nguyên nhân vụ tai nạn nghiêm trọng trên đường liên xã Hưng Long - xã Lộ 25 khiến 2 người chết thảm.
+Thông tin ban đầu, vào đêm 25/4, anh Trương Công Tiệp (SN 1990, quê Khánh Hòa) điều khiển xe máy mang BKS 59V2-209.54chở theo anh Nguyễn Thanh Tùng (SN 2000, quê Cà Mau) chạy trên đường liên xã Hưng Long,đến ấp Hưng Phát thì bất ngờ tông thẳng vào đuôi xe tải đang dừng sát lề đường.
+Cú tông mạnh khiến 2 người ngồi trên xe máy lao đầu vào thùng hàng xe tải rồi văng xuống đường. Hậu quả vụ tai nạn khiến anh Tiệp tử vong tại chỗ, còn anh Tùng được mọi người đưa đi cấp cứu nhưng cũng tử vong sau đó.
+Hiện trường vụ tai nạn nghiêm trọng khiến 2 nam công nhân tử vong
+Nhận được tin báo, lực lượng chức năng sở tại cùng các đơn vị nghiệp vụ nhanh chóng có mặt tại hiện trường lấy lời khai nhân chứng để điều tra làm rõ nguyên nhân vụ tai nạn.
+Được biết 2 người gặp nạn đang là công nhân làm việc trong khu công nghiệp Bầu Xéo.
+Khoa Nam

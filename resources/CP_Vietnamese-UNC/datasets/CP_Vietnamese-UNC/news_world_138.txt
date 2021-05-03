@@ -1,19 +1,24 @@
 # doc_id = news_world_138
-# url = https://dantri.com.vn/the-gioi/lo-hoa-tang-do-lua-suot-ngay-dem-tai-an-do-20210424184840264.htm
-# date = 20210424
-Ấn Độ ngày 24/4 ghi nhận thêm 346.786 ca mắcCovid-19trong 24 giờ qua, đánh dấu ngày thứ 3 liên tiếp có số ca mắc Covid-19 cao nhất thế giới.
-Trong ngày 24/4, Ấn Độ cũng ghi nhận thêm 2.624 ca tử vong vì Covid-19.Đây là con số tử vong cao nhất tại nước này kể từ khi dịch bệnh bùng phát.
-Tính đến nay, Ấn Độ ghi nhận tổng cộng hơn 16,6 triệu ca mắc Covid-19, trong đó có 189.544 ca tử vong, trở thành tâm chấn của đại dịch toàn cầu.
-Số ca tử vong tăng vọt khiến các cơ sở hỏa táng bị quá tải dù đã hoạt động hết công suất cả ngày lẫn đêm.
-Do không thể chờ đến lượt khi số thi thể ùn ứ qua nhiều ngày, nhiều thi thể đã được gom lại để hỏa táng tập thể.
-Thủ đô New Delhi trở thành tâm dịch ở Ấn Độ, ước tính cứ 4 phút lại có 1 người tử vong vì Covid-19 tại New Delhi.
-Nhiều lò hỏa thiêu ở Surat, Rajkot, Jamnagar và Ahmedabad đã nhận số lượng thi thể nhiều gấp 3-4 lần ngày thường.
-Các lò hỏa táng bằng kim loại thậm chí bị nóng chảy do không có thời gian để nguội lại, khi số thi thể được thiêu liên tục.
-Do thiếu nhân lực, người nhà của các bệnh nhân cũng tham gia hỗ trợ việc hỏa thiêu. Họ thậm chí không mặc đồ bảo hộ.
-Ảnh chụp từ trên cao cho thấy các khu vực hỏa táng ở Ấn Độ vẫn hoạt động cả vào ban đêm.
-Các giàn thiêu được xếp cạnh nhau trên một khu đất trống. Nguyên liệu để hỏa thiêu là củi và gỗ.
-Nguyên nhân khiến Ấn Độ "vỡ trận" được cho là do sự chủ quan trong quá trình chống dịch, cùng với sự xuất hiện của biến thể vi rút nguy hiểm hơn.
-Tại nhiều nơi ở New Delhi, xe cứu thương xếp hàng dài trước các cơ sở hỏa táng, trong khi các thi thể phải nằm trên đường chờ tới lượt.
-"Không một ai ở New Delhi từng chứng kiến cảnh tượng này. Trẻ con mới 5 tuổi, thiếu niên 15 tuổi hay thanh niên 25 tuổi bị hỏa táng. Cặp đôi mới cưới cũng bị hỏa táng. Thật khủng khiếp khi chứng kiến cảnh này",Jitender Singh Shunty, người điều hành một tổ chức y tế phi lợi nhuận, cho biết.
+# url = https://dantri.com.vn/the-gioi/mau-tau-ngam-indonesia-mat-tich-ban-chay-nhat-phuong-tay-20210422151453338.htm
+# date = 20210422
+Tàu ngầm KRI Nanggala 402 diễn tập trước khi mất tích hôm 21/4 (Ảnh: Reuters).
+Tàu ngầm KRI Nanggala 402của hải quân Indonesia nặng 1.300 tấn, là tàu ngầm tấn công Type 209 chạy bằng động cơ diesel - điện. Tàu bắt đầu được đóng vào năm 1978 và Indonesia đã tiếp nhận vào tháng 10/1981.
+Tàu KRI Nanggala 402đã trải qua vài lần nâng cấp, trước khi tham gia cuộc diễn tập hải quân ở ngoài khơi đảo Bali hôm 21/4. Thủy thủ đoàn đã xin phép cho tàu lặn xuống, nhưng sau đó mất liên lạc.
+Vào thời điểm mất liên lạc, có 53 người trên tàu KRI Nanggala 402. Con tàu được cho là rơi xuống độ sâu khoảng 700 mét.
+"Đó là một tàu ngầm cổ điển", Phó đô đốc hải quân Pháp Antoine Beaussant nói vớiAFP.
+Theo ông Beaussant, tàu này chỉ chịu được độ sâu an toàn khoảng 250 mét.
+"Nếu nó nằm ở độ sâu 700 mét, khả năng cao là tàu này sẽ vỡ", Phó đô đốc Pháp nhận định.
+Tàu KRI Nanggala 402có tốc độ hành trình 21,5 hải lý/giờ và có thể chở 34 thủy thủ. Trong số 53 người trên tàu ngầm mất tích, có 49 thành viên thủy thủ đoàn, 1 chỉ huy tàu và 3 chuyên gia vũ khí.
+Động cơ điện của tàu lấy từ tổ hợp pin với trọng lượng nặng, chiếm đến 25% trọng lượng của tàu. Vũ khí chính của tàu ngầm KRI Nanggala402 gồm 8 ống phóng ngư lôi 533 mm, 14 ngư lôi hạng nặng AEG SUT.
+Trực thăng tìm kiếm của Indonesia đã phát hiện vết dầu loang tại khu vực tàu ngầm mất tích, tuy nhiên hiện chưa rõ vết dầu này xuất phát từ tàu hay là tín hiệu của thủy thủ đoàn.
+Tàu KRI Nanggala được nâng cấp vào năm 1989 tại Đức và sau đó vào năm 2012 tại Hàn Quốc. Một phần cấu trúc của tàu đã được thay thế. Các hệ thống động cơ, sonar và vũ khí trên tàu cũng được nâng cấp.
+Hải quân Indonesia cũng sở hữu một tàu ngầm khác cùng mẫu mang tên KRI Cakra. TheoJanes, hãng tin chuyên về thông tin quân sự, Indonesia còn 3 tàu ngầm thuộc các mẫu Type 209 khác nhau được chế tạo ở Hàn Quốc và Indonesia.
+Năm 1993, Indonesia đã mua lại 39 tàu đã qua sử dụng từ hải quân Đông Đức.
+Tàu ngầm Type 209 được phát triển vào những năm 1960 để thay thế các tàu có từ thời Chiến tranh Thế giới thứ 2. Loại tàu ngầm này chưa từng được Đức sử dụng, nhưng Đức vẫn xuất khẩu thành công 61 chiếc cho hơn 10 quốc gia, trong đó có Hy Lạp, Ấn Độ và Thổ Nhĩ Kỳ.
+Argentina từng triển khai tàu ngầm Type 209 trong Chiến tranh Falklands chống lại Anh.
+Ai Cập dự kiến sẽ nhận được tàu ngầm Type 209/1400 thứ tư được đóng tại Đức. Tàu này được chế tạo tại các nhà máy đóng tàu Đức, hiện thuộc sở hữu của tập đoàn công nghiệp khổng lồ Thyssenkrupp.
+Công ty Thyssenkrupp viết trên trang web của mình rằng, Type 209 được lấy cảm hứng từ các tàu ngầm ven biển thời hậu chiến của hải quân Đức. Tuy nhiên, các tàu này được nâng cấp để có thể hoạt động ở các vùng nước sâu hơn và mang được nhiều thiết bị hơn.
+Trang web Thyssenkrupp cũng khẳng định Type 209 là "tàu ngầm phi hạt nhân bán chạy nhất ở phương Tây".
+Mặc dù Indonesia vẫn chưa ghi nhận thảm họa tàu ngầm nghiêm trọng nào, các quốc gia khác từng gặp phải các vụ tai nạn như vậy.
 Thành Đạt
-Ảnh: Reuters
+Theo AFP

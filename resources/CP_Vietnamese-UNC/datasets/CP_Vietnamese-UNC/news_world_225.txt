@@ -1,21 +1,10 @@
 # doc_id = news_world_225
-# url = https://dantri.com.vn/the-gioi/tau-ngam-indonesia-chim-o-do-sau-850-met-20210424161227084.htm
-# date = 20210424
-Tàu ngầm KRI Nanggala 402 của hải quân Indonesia (Ảnh: Reuters).
-Tham mưu trưởng hải quân Indonesia Yudo Margono hôm nay 24/4 cho biết tàu ngầm KRI Nanggala 402 đã chìm ở độ sâu 850 mét dưới vùng biển ngoài khơi đảo Bali.
-"Hải quân đã tìm thấy vệt dầu và các bộ phận của các vật thể là bằng chứng cho thấy tàu KRI Nanggala đã bị chìm", Tham mưu trưởngquân đội Indonesia, tướngHadi Tjahjanto, cho biết trong cuộc họp báo chiều nay.
-"Trong vài ngày qua, chúng tôi đã trục vớt được các mảnh vỡ và các vật dụng từ vị trí cuối cùng mà tàu ngầm lặn. Các vật dụng này sẽ không thể thoát ra ngoài tàu ngầm nếu không có áp lực bên ngoài hoặc hỏng bệ phóng ngư lôi", Tham mưu trưởng hải quân Indonesia Yudo Margono cho biết thêm.
-Theo ông Margono, với những bằng chứng xác thực được cho là từ tàu ngầm, hải quân Indonesia đã chuyển từ giai đoạn tìm kiếm "tàu ngầm mất tích" sang giai đoạn "tàu ngầm chìm".
-Đô đốc Margono cho biết mọi nỗ lực đang được chuẩn bị để giải cứu tàu ngầm từ độ sâu 850 mét.
-"Tàu ngầm có thể bắt đầu nứt ở một số phần khi đi xuống độ sâu từ 400 mét đến 500 mét", ông Margono cho biết.
-Theo Đô đốc Margono, cho đến nay vẫn chưa có dấu hiệu nào về thi thể hoặc người sống sót bên trong tàu ngầm mất tích.
-Tại cuộc họp báo, Đô đốc Margono đã cho các phóng viên xem một số vật dụng được trục vớt từ vị trí tàu ngầm mất tích, bao gồm một mảnh ngư lôi.
-Ông nói rằng một máy quét đã phát hiện tàu ngầm ở độ sâu 850 mét, trong khi tàu chỉ được chế tạo để chịu được độ sâu lên đến 500 mét.
-"Bởi vì tàu ngầm ở độ sâu 850 mét, rất rủi ro và rất khó để một thiết bị có thể nâng nó lên", tham mưu trưởng hải quân Indonesia nhận định.
-Tàu ngầm KRI Nanggala 402 do Đức sản xuất mất tích vào ngày 21/4 khi đang tham gia cuộc diễn tập ở ngoài khơi đảo Bali, Indonesia. Tàu liên lạc lần cuối với sở chỉ huy vào lúc 3 giờ sáng để xin phép lặn xuống biển, trước khi mất liên lạc hoàn toàn.
-Trước khi phát hiện vị trí của tàu ngầm, hải quân Indonesia nhận định tàu Nanggala có thể đã chìm xuống độ sâu 600-700 mét, lớn hơn nhiều so với độ sâu tối đa cho phép hoạt động của tàu. Vào thời điểm mất tích, tàu chở 53 thành viên thủy thủ đoàn.
-Hải quân Indonesia cho rằng sự cố về điện có thể đã xảy ra trong lúc tàu Nanggala làm nhiệm vụ, khiến tàu bị mất kiểm soát và không thể thực hiện các thao tác và quy trình khẩn cấp để có thể nổi lại trên mặt nước.
-Theo hải quân Indonesia, tàu ngầm KRI Nanggala chỉ có đủ dưỡng khí đến 3 giờ sáng 24/4, bởi lượng ôxy dự trữ chỉ đủ dùng cho 72 giờ sau khi tàu bị mất điện. Hiện tại đã qua hạn chót này và hy vọng giải cứu 53 người trên tàu ngầm KRI Nanggala gần như không còn.
-Trước đó, Indonesia phát hiện một vật thể có từ tính cao ở độ sâu 50-100 mét, song vẫn chưa thể khẳng định đó là tàu ngầm. Lực lượng cứu hộ cũng phát hiện vết dầu loang ở vị trí tàu ngầm Nanggala mất tích. Hải quân Indonesia nhận định đây có thể là dấu hiệu cho thấy thân tàu bị hư hại, hoặc là tín hiệu từ thủy thủ đoàn.
-Thành Đạt
-Theo Sputnik
+# url = https://dantri.com.vn/the-gioi/thai-lan-trai-qua-ngay-chet-choc-nhat-vi-covid-19-20210426080310793.htm
+# date = 20210426
+Theo số liệu của Bộ Y tế Thái Lan, trong ngày 25/4, nước này ghi nhận gần 2.500 ca mắc mới và 11 ca tử vong do Covid-19. Đây là ngày thứ hai liên tiếp Thái Lan ghi nhận số ca tử vong do Covid-19 kỷ lục. Đến nay, nước này ghi nhận hơn 55.000 ca mắc, trong đó 140 trường hợp đã tử vong.
+Mặc dù năm ngoái Thái Lan đã khá thành công trong việc hạn chế đà lây lan của Covid-19, nhưng sự xuất hiện của biến chủng virus mới có tên gọi B.1.1.7 khiến Thái Lan ghi nhận khoảng 27.000 ca mắc, 46 ca tử vong chỉ trong vòng 25 ngày qua.
+B.1.1.7 là biến chủng mới của virus SARS-CoV-2 được phát hiện lần đầu tiên tại Anh vào cuối năm ngoái. Biến chủng này được cho là dễ lây lan hơn nhiều so với biến chủng cũ. B.1.1.7 hiện đã xuất hiện ở nhiều quốc gia trên thế giới, khiến nhiều quốc gia "vỡ trận", trong đó có Ấn Độ.
+Làn sóng Covid-19 mới bùng phát ở Thái Lan khi nước này đang dần mở cửa kinh tế trở lại, khôi phục ngành du lịch vốn bị ảnh hưởng nặng nề bởi các làn sóng trước.
+Để đối phó với làn sóng lây lan mới, Thái Lan sẽ làm chậm tốc độ cấp thị thực cho công dân nước ngoài đến từ Ấn Độ. Ngoài ra, thời gian cách ly với du khách sẽ kéo dài từ 10 ngày lên 14 ngày cho đến khi tình hình cải thiện, Reuters dẫn lời một quan chức Bộ Y tế Thái Lan cho hay.
+Các biện pháp khác được Thái Lan áp dụng trong tuần qua gồm đóng cửa các cơ sở thể thao, giải trí từ ngày 26/4 đến 9/5. Bangkok cũng đưa ra án phạt tới 20.000 Baht với người vi phạm quy định đeo khẩu trang bắt buộc ở nơi công cộng. Các trung tâm thương mại vẫn được mở cửa nhưng bị giới hạn giờ mở cửa ở Bangkok và 17 tỉnh thành khác.
+Minh PhươngTheo Reuters

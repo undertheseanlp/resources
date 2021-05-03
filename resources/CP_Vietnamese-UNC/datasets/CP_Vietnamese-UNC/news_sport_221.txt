@@ -1,15 +1,28 @@
 # doc_id = news_sport_221
-# url = https://dantri.com.vn/the-thao/sap-nhap-tich-viet-nam-filip-nguyen-chiu-so-phan-ham-hiu-o-giai-ch-sec-20210423183544767.htm
-# date = 20210423
-Trong những năm gần đây, Filip Nguyễn luôn là thủ môn số 1 của CLB Slovan Liberec. Không những vậy, sau khi tỏa sáng rực rỡ ở mùa giải trước, thủ thành gốc Việt đã góp công lớn giúp Slovan Liberec giành vé tham dự Europa League.
-Filip Nguyễn mất vị trí số 1 trong khung gỗ ở CLB Slovan Liberec.
-Thế nhưng, trong thời gian qua, Filip Nguyễn đã bất ngờ mất chỗ đứng ở CLB của CH Séc vào tay thủ môn dự bị Knobloch. Trong 10 trận đấu gần nhất ở giải VĐQG CH Séc, thủ thành sinh năm 1992 đều phải dự bị.
-Bước ngoặt tới với Filip Nguyễn ở thời điểm thủ thành này dính chấn thương trong trận đấu với Zlin vào ngày 17/2. Sau đó, người gác đền gốc Việt đã phải mất 2 tuần để điều trị chấn thương này.
-Trong thời gian Filip Nguyễn vắng mặt, thủ thành dự bị Knobloch đã thi đấu quá tốt. Nhờ đó, anh đã chiếm luôn vị trí chính thức trong khung gỗ của Slovan Liberec kể từ đó tới nay.
-Thực tế, trong thời gian này, Filip Nguyễn đã ra sân trong trận đấu với Ceske Budejovice ở cúp quốc gia CH Séc. Thế nhưng, người gác đền sinh năm 1992 vẫn bị HLV trưởng Hoftych ngó lơ trong những trận đấu tiếp theo.
-Filip Nguyễn có thể sẽ nhận quốc tịch Việt Nam trong thời gian tới.
-Kể từ đó tới nay, Knobloch đã ra sân trong 10 trận đấu liên tiếp và để thủng lưới 7 bàn. Trong số này, Slovan Liberec đã giành chiến thắng trong 5 trận đấu, hòa 2, thua 3. Tới thời điểm này, Slovan Liberec đang xếp thứ 6 trên bảng xếp hạng với 46 điểm sau 28 trận.
-Filip Nguyễn đã bất ngờ mất vị trí chính thức ở CLB Slovan Liberec trong thời điểm mà cầu thủ này sắp hoàn thành quốc tịch Việt Nam. Mới đây, người gác đền CH Séc đã tới Đại sứ quán Việt Nam để hoàn tất thủ tục cuối cùng.
-Nếu như nhận quốc tịch Việt Nam vào trước tháng 5, Filip Nguyễn hoàn toàn có thể được HLV Park Hang Seo triệu tập vào đội tuyển Việt Nam tham dự vòng loại World Cup 2022. Mặc dù từng được triệu tập lên đội tuyển CH Séc nhưng Filip Nguyễn vẫn chưa ra sân nên đủ điều kiện khoác áo đội tuyển Việt Nam.
-Nếu như có Filip Nguyễn, HLV Park Hang Seo sẽ bớt lo lắng hơn về vấn đề thủ môn, trong bối cảnh Văn Lâm có thể không được ra sân nhiều ở CLB Cerezo Osaka. Hơn nữa, thầy Park cũng cần một thủ môn chất lượng để tạo nên sự cạnh tranh trong khung gỗ đội tuyển Việt Nam.
-H.Long
+# url = https://dantri.com.vn/the-thao/so-phan-cua-euro-2020-neu-cac-cau-thu-nhan-lenh-trung-phat-tu-uefa-20210420145959177.htm
+# date = 20210420
+Chủ tịch liên đoànbóng đá Đan Mạch đồng thời là thành viên Ủy ban điều hành UEFA Jesper Moller đã tuyên bố đầy cứng rắn sẽ loại 12 CLB sáng lập siêu giải đấu European Super League khỏi các giải đấu Champions League và Europa League, còn các cầu thủ khoác áo các CLB này cũng sẽ bị cấm triệu lập vào đội tuyển quốc gia tham dự các giải đấu Euro, World Cup.
+Chủ tịch UEFA Alexander Ceferin thề sẽ không nương tay với các cầu thủ khoác áo những CLB sáng lập European Super League
+Đây thực sự là tin sốc không chỉ với các cầu thủ mà còn với người hâm mộ bóng đá thế giới, khi Vòng chung kết (VCK) Euro 2020 sẽ chuẩn bị khởi tranh vào tháng 6 tới đây. VCK Euro 2020 (diễn ra năm 2021) có 24 đội tham dự, chia thành 6 bảng đấu. Giải đấu hấp dẫn sẽ diễn ra trong vòng 1 tháng, với trận khai mạc vào ngày 11/6 giữa Thổ Nhĩ Kỳ và chủ nhà Ý tại Rome.
+Vòng bảng sẽ kết thúc vào ngày 23-6.Vòng 16 đội diễn ra từ ngày 26 đến 29-6. Tứ kết diễn ra ngày 2 và 3-7, bán kết diễn ra 6 và 7-7. Chung kết tổ chức ngày 11-7 tại London, Anh.
+Thế nhưng, giải đấu được chờ đợi nhất trong năm 2021 này đang đứng trước nguy cơ "đổ bể" nếu những ngôi sao ở 12 CLB sáng lập European Super League bị cấm cửa. Thiệt hại lớn nhất là các đội tuyển mạnh, được xem là ứng cử viên cho chức vô địch của giải đấu.
+1. Đội tuyển Bồ Đào Nha:
+C.Ronaldo, Bruno Fernandes là những cái tên sáng giá phải vắng mặt ở Euro 2020 nếu UEFA áp dụng lệnh cấm
+Đội tuyển Bồ Đào Nha, nhà vô địch Euro 2016 sẽ gặp khó khăn vô cùng lớn để bảo vệ danh hiệu ở Euro 2020 nếu UEFA áp dụng lệnh cấm các cầu thủ đang khoác áo ở 12 CLB sáng lập siêu giải đấu European Super League. Có 8 cầu thủ sẽ bị cấm thi đấu ở Euro 2020, trong đó đáng chú ý nhất là những ngôi sao như C.Ronaldo đang thi đấu cho Juventus, Bruno Fernandes trong màu áo Man Utd, Joao Felix đang khoác áo Atletico Madrid, Bernado Silva đang khoác áo Man City.
+2. Đội tuyển Pháp:
+Đội tuyển Pháp có tới 14 cầu thủ sẽ bị cấm tham dự Euro 2020 nếu UEFA áp dụng lệnh trừng phạt
+Đội tuyển Pháp, một trong những ứng cử viên cho chức vô địch Euro 2020 sẽ hoàn toàn đổ bể kế hoạch khi họ có tới 14 cầu thủ không được tham dự giải đấu danh giá ở châu Âu 4 năm tổ chức một lần này.
+Tin vui là tiền đạo ngôi sao Kylian Mbappe vẫn được quyền tham dự khi anh đang khoác áo PSG - một trong những ông lớn chưa tham gia vào nhóm sáng lập European Super League. Tuy nhiên "Gà trống Gô-loa" sẽ không có sự phục vụ của những siêu sao trong đội hình như Paul Pogba (khoác áo Man Utd), Antoine Griezmann, Dembele (khoác áo Barcelona), Kante (khoác áo Chelsea), thủ môn Hugo Lloris (khoác áo Tottenham Hotspur)...
+3. Đội tuyển Bỉ:
+Đội tuyển Bỉ cũng mất 8 cầu thủ ở Euro 2020
+Cũng như đội tuyển Bồ Đào Nha, đội tuyển Bỉ sẽ vắng mặt 8 ngôi sao trong đội hình của mình, trong đó đáng chú ý nhất là tiền đạo Romelo Lukaku đang khoác áo Inter Milan và Kevin de Bruyne đang khoác áo Man City.
+4. Đội tuyển Anh:
+Tuyển Anh cũng thiệt hại nặng với 14 cầu thủ bị cấm tham dự Euro 2020
+Đội tuyển Anh đang đặt quyết tâm rất cao trong việc giành chức vô địch ở Euro 2020 lần này khi HLV Gareth Southgate đang sở hữu trong tay rất nhiều cầu thủ chất lượng. Thế nhưng Tam sư sẽ đổ bể mọi kế hoạch nếu 14 cầu thủ của họ sẽ không được phép tham dự ở Euro 2020.
+Đáng chú ý nhất những cái tên phải vắng mặt trong đội hình Tam sư là tiền đạo Harry Kane (đang khoác áo Tottenham Hotspur), hai cầu thủ Harry Maguire và Luke Shaw của Man Utd. Có 4 ngôi sao của Man City cũng sẽ vắng mặt là Phil Foden, Raheem Sterling, trung vệ Johns Stones, hậu vệ KyleWalker. 3 cầu thủ ở Chelsea cũng phải vắng mặt như Ben Chiwell, Reece James...
+5. Đội tuyển Đức:
+Đội tuyển Đức được xem là ít bị thiệt hại nhất nếu UEFA áp dụng lệnh cấm cầu thủ khoác áo 12 CLB sáng lập European Super League tham dự Euro 2020. Lý do các cầu thủ Đức chủ yếu chơi ở Bundesliga, và không có CLB nào ở Đức tham gia vào siêu giải đấu vừa mới thành lập nói trên.
+Dù vậy, cũng có 7 cầu thủ sẽ không được phép tham dự Euro 2020, trong đó có 3 ngôi sao đang khoác áo Chelsea là tiền đạo Kai Havertz, trung vệ Antonio Rudiger và tiền đạo Timo Werner. Thủ thành Ter Stergen đang khoác áo Barcelona cũng nằm trong những cầu thủ bị cấm cửa.
+6. Đội tuyển Tây Ban Nha:
+Đội tuyển Tây Ban Nha nằm trong số những đội "thiệt quân" lớn ở Euro 2020 khi có 14 cầu thủ sẽ không được phép tham dự nếu lệnh cấm của UEFA có hiệu lực. Những cái tên đáng chú ý như thủ thành David de Gea của Man Utd, trung vệ Sergio Ramos của Real Madrid. 4 ngôi sao đang khoác áo Barcelona cũng sẽ không có mặt ở tuyển quốc gia...
+Sông Lam

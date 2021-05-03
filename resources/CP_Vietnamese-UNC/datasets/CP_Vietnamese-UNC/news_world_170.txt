@@ -1,20 +1,14 @@
 # doc_id = news_world_170
-# url = https://dantri.com.vn/the-gioi/nga-tang-quan-o-bien-gioi-ukraine-keu-goi-dong-minh-phuong-tay-hanh-dong-20210422112839540.htm
-# date = 20210422
-Ngoại trưởng Ukraine Dmytro Kuleba trả lời phỏng vấn Reuters ngày 21/4 (Ảnh: Reuters).
-Trong cuộc phỏng vấn với Reuters ngày 21/4, Ngoại trưởng Ukraine Dmytro Kuleba cho biết mặc dù nước này vẫn chưa có các thông tin cho thấy Nga đã quyết định hành động quân sự với Ukraine, song ông cho rằng việc quan trọng bây giờ là phương Tây phải hành động ngay để ngăn điều đó xảy ra.
-"Tôi không có thông tin để nói rằng Nga đã quyết định phát động một chiến dịch quân sự chống lại Ukraine. Vì vậy, mọi việc có thể đi theo bất kỳ hướng nào", ông Kuleba nói.
-"Và đây là lý do khiến phản ứng của phương Tây, phản ứng đồng nhất của phương Tây, lúc này rất quan trọng, để ngăn cản (Tổng thống) Putin... đưa ra quyết định đó", Ngoại trưởng Ukraine nói thêm.
-Ukraine đang nỗ lực kêu gọi sự hỗ trợ từ cộng đồng quốc tế trong bối cảnh Nga tăng cường lực lượng ở khu vực biên giới phía đông và ở bán đảo Crimea.
-Kiev và Moscow đã đổ lỗi cho nhau về sự sụp đổ của lệnh ngừng bắn ở khu vực phía đông Donbass, nơi quân đội Ukraine đối đầu với các lực lượng ly khai mà Ukraine cáo buộc do Nga hậu thuẫn. Ukraine cho biết cuộc xung đột khiến hơn 14.000 người thiệt mạng kể từ năm 2014.
-Ngoại trưởng Kuleba cho biết trong cuộc gặp với Ngoại trưởng Mỹ Antony Blinken tuần trước, ông đã yêu cầu Washington cung cấp "các phương tiện tác chiến điện tử mạnh mẽ" để đối phó với khả năng của Nga trong việc gây nhiễu thông tin liên lạc của Ukraine.
-Ngoại trưởng Ukraine cũng tiết lộ rằng ông đã hối thúc một cuộc họp của các ngoại trưởng Liên minh châu Âu (EU) để xem xét "cấm Nga tham gia hệ thống thanh toán liên ngân hàng quốc tế (SWIFT)". Ukraine coi đây là một phần trong các biện pháp trừng phạt kinh tế mới nếu Nga leo thang căng thẳng.
-Theo ông Kuleba, ngoại giao phương Tây đã giúp kiềm chế Nga, nhưng mọi thứ "sẽ phụ thuộc vào việc liệu phương Tây có sẵn sàng... biến lời nói thành hành động hay không".
-Ngoại trưởng Kuleba cho biết Ukraine không nhận được phản hồi từ Điện Kremlin về lời mời do Tổng thống Ukraine Volodymyr Zelenskiy gửi tới người đồng cấp Nga Vladimir Putin hôm 20/4 để tổ chức các cuộc đàm phán ngay tại khu vực xung đột Donbass.
-Trong thông điệp liên bang ngày 21/4, Tổng thống Putin cảnh báo phương Tây không được vượt qua "lằn ranh đỏ" của Nga, đồng thời nói rằng Moscow sẽ đáp trả nhanh chóng và gay gắt trước bất kỳ hành động khiêu khích nào.
-"Tôi đã hiểu thông điệp của Tổng thống Putin theo cách sau: "Chúng tôi sẽ vượt qua lằn ranh đỏ của bạn, nhưng bạn không được phép vượt qua lằn ranh đỏ của chúng tôi, và chúng tôi sẽ xác định đâu là lằn ranh đỏ của chúng tôi"", Ngoại trưởng Kuleba nói.
-Cao ủy Đối ngoại của EU ước tính Nga đã triển khai hơn 100.000 binh sĩ đến Crimea và khu vực giáp biên giới Ukraine. Trong khi đó, Lầu Năm Góc nói rằng hiện diện quân sự của Nga ở biên giới giáp Ukraine còn lớn hơn thời điểm Moscow sáp nhập bán đảo Crimea năm 2014.
-Tuy nhiên, Nga khẳng định hoạt động dồn quân của nước này nhằm chuẩn bị một cuộc diễn tập quân sự kéo dài 3 tuần. Nga cho biết cuộc diễn tập nhằm kiểm tra khả năng sẵn sàng chiến đấu đối phó với hành vi đe dọa từ NATO. Moscow cũng cho rằng việc triển khai lực lượng trong lãnh thổ Nga là hoàn toàn bình thường, vì mục đích phòng vệ mà không nhằm vào bất cứ quốc gia nào.
-Politico dẫn các nguồn tin cho biết Nhà Trắng đang cân nhắc đề nghị từ Ukraine về việc đưa thêm vũ khí tới nước này. Một trong số những vũ khí được đề xuất là các tên lửa Patriot. Patriot đã được triển khai tại Ba Lan, song Ukraine cũng muốn Mỹ đưa tên lửa này tới lãnh thổ của mình.
-Thành Đạt
-Tổng hợp
+# url = https://dantri.com.vn/the-gioi/nga-thu-ten-lua-moi-bay-nhanh-gap-4-lan-dan-ban-tu-sung-truong-ak-47-20210429171723171.htm
+# date = 20210429
+Nga thử tên lửa mới bay nhanh gấp 4 lần đạn bắn từ súng trường AK-47
+Một vụ phóng tên lửa của Nga (Ảnh minh họa: Sputnik)
+Newsweek đưa tin, cuộc thử nghiệm diễn ra hồi đầu tuần tại bãi thử Sary-Shagan, Kazakhstan.
+"Sau hàng loạt thử nghiệm, hệ thống tên lửa chống đạn đạo mới đã chứng minh được khả năng và hoàn thành nhiệm vụ, tấn công mục tiêu với độ chính xác cao", chỉ huy đơn vị phòng thủ chống tên lửa Nga Sergei Grabchuk, cho hay.
+Bộ Quốc phòng Nga cho biết, tên lửa này được thiết kế để bảo vệ thủ đô Moscow khỏi các vụ tấn công từ trên không và trên vũ trụ.
+Trả lời RT, ông Grabchuk cho biết, tên lửa này có thể di chuyển với tốc độ trên 3 km/s (10.800 km/h), nhanh gấp 4 lần tốc độ của một viên đạn bay ra từ nòng súng AK-47, tương đương 700m/s (2.520 km/h).
+Vụ thử tên lửa diễn ra trong bối cảnh căng thẳng giữa Nga, Ukraine và phương Tây vẫn đang cao. Tuy nhiên, căng thẳng đã giảm nhiệt vào tuần trước khi Nga thông báo rút bớt quân khỏi các khu vực gần biên giới Ukraine. Mặc dù vậy, Nga vẫn đang triển khai khí tài ở những nơi này.
+Mỹ và phương Tây chỉ trích động thái điều động quân sự quy mô lớn của Nga là "khiêu khích", tuyên bố mà Moscow mạnh mẽ bác bỏ và khẳng định họ làm như vậy vì lý do an ninh và có quyền đưa quân hay vũ khí tới các địa điểm trên lãnh thổ Nga.
+Nga khẳng định việc họ rút bớt quân gần Ukraine không liên quan tới áp lực từ phương Tây, đồng thời cho hay việc NATO triển khai quân đội gần Nga là nguyên nhân khiến Moscow lo ngại.
+Đức Hoàng
+Theo Newsweek

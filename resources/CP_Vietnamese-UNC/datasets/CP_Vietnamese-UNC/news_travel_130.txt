@@ -1,25 +1,24 @@
 # doc_id = news_travel_130
-# url = https://dantri.com.vn/du-lich/khach-o-at-huy-tour-sau-1-dem-loat-nha-nghi-sa-pa-treo-bien-trong-phong-20210430090047407.htm
-# date = 20210430
-Khách ồ ạt hủy tour sau 1 đêm, loạt nhà nghỉ Sa Pa treo biển "trống phòng"
-Sáng 30/4 - buổi sáng đầu tiên của kỳ nghỉ lễ dài, khu vực trung tâm thị xã Sa Pa vẫn "vắng lặng như tờ". Mặc dù trước đó, theo dự kiến, trong dịp lễ ngày 30/4 và 1/5, Sa Pa sẽ đón 65.000 đến 70.000 lượt khách.
-Điều "lạ" hơn nữa là chỉ sau một đêm, hàng loạt nhà nghỉ, khách sạn tại khu vực trung tâm Sa Pa đồng loạt treo biển "trống phòng", "còn phòng". Trong khi trước đó, vào chiều 29/4, theo ghi nhận của phóng viên, số lượng các khách sạn, nhà nghỉ treo biển "trống phòng" không nhiều.
-Đây cũng là điều rất hiếm xảy ra ở Sa Pa trong các dịp nghỉ lễ, cao điểm du lịch hè.
-"Chỉ trong một đêm, khách gọi đến hủy gần 20 phòng đã đặt trước cả tháng nay do e ngại dịch Covid-19. Đúng là chuyện chưa từng có", một chủ nhà nghỉ tại thị trấn Sa Pa (Lào Cai) cho biết.
-Ông cho biết thêm: "Ngày hôm qua, chuỗi 3 nhà nghỉ của chúng tôi chỉ còn trống độ 10 phòng nhưng nay khách đồng loạt hủy, thành ra đã trống đến hơn 30 phòng. Trước nay, chưa một dịp lễ 30/4 - 1/5 nào lại rơi vào cảnh này".
-Ông Vàng Văn Phúc, quản lý một khách sạn trên đường Ngũ Chỉ Sơn cũng rơi vào cảnh tương tự: "Nhiều du khách nghe tin dịch Covid-19 diễn biến phức tạp thì ồ ạt gọi hủy phòng. Khách sạn còn trống tới 70-80% tổng số phòng. Tôi chỉ hy vọng đúng ngày lễ sẽ có nhiều khách lẻ tới đặt phòng hơn để vớt vát".
-Tương tự như các nhà nghỉ, khách sạn, việc du khách hủy tour đến Sa Pa cũng khiến chủ các cửa hàng ăn "ngồi trên đống lửa".
-"Trưa 30/4, theo lịch, chúng tôi sẽ phục vụ 3 đoàn với hơn 100 khách, nhưng đêm qua 2 đoàn đã hủy. Tuy họ sẽ bồi thường theo hợp đồng nhưng đây cũng là cú sốc với chúng tôi", anh Ma Văn Áng, đại diện một nhà hàng ăn uống ở Sa Pa cho biết.
-Chủ tịch UBND thị xã Sa Pa thông tin, trong dịp lễ 30/4 và 1/5, dự kiến nơi đây sẽ đón 65.000 đến 75.000 lượt khách, tăng 30-40% so với quý I và bằng 70% so với năm 2019.
-Thông tin từ UBND thị xã vào chiều 29/4, khoảng 10% lượng khách hủy phòng trên địa bàn. Nhưng tỉ lệ này tăng cao khi có các ca mắc mới được công bố vào đêm 29/4, sáng 30/4.
-Hàng loạt các sự kiện có khả năng phải tạm dừng như nhảy sạp và xác lập kỷ lục nhảy sạp có số lượng người tham dự lớn nhất Việt Nam (theo kế hoạch tổ chức vào tối 1/5), lễ hộiđường phố, ngày hội khám phá Hoa và Đá…
-6h sáng 30/4, Bộ Y tế thông tin nước ta có 4 ca mắc mới Covid-19 gồm 1 ca được cách ly ngay sau khi nhập cảnh và 3 ca ghi nhận trong nước.
-Sáng 30/4 - buổi sáng đầu tiên của kỳ nghỉ lễ dài, khu vực trung tâm Sa Pa vẫn "vắng lặng như tờ". Du khách xuất hiện lác đác.
-Hàng loạt nhà nghỉ, khách sạn tại khu vực trung tâm thị xã Sa Pa treo biển "trống phòng", "còn phòng".
-Trong đêm 29/4, khách ồ ạt gọi điện hủy phòng khách sạn đã đặt.
-Do diễn biến mới của dịch Covid-19, du khách đồng loạt hủy tour du lịch đến Sa Pa. Các nhà chủ cơ sở kinh doanh lưu trú tại đây "đứng ngồi không yên".
-Không khí vắng vẻ, ảm đạm tại các nhà nghỉ, khách sạn.
-Các tuyến taxi, xe điện cũng vắng bóng du khách.
-Khu vực trung tâm thị xã Sa Pa thường đông đúc vào các kỳ nghỉ lễ nay vắng vẻ lạ thường.
-Để phòng chống dịch Covid-19, đoàn thanh niên của thị xã đã đi phát, tặng khẩu trang cho du khách và người dân.
-Toàn Vũ
+# url = https://dantri.com.vn/du-lich/kham-pha-dem-pho-co-san-pham-du-lich-doc-dao-rieng-co-cua-hoi-an-20210327093342459.htm
+# date = 20210327
+Đêm 26/3 (tức 14 âm lịch), Hội An đã khởi động lại sản phẩm du lịch mang dấu ấn đặc trưng, độc đáo "Tái hiện đêm phố cổ Hội An đầu thế kỷ XX" sau thời gian tạm ngưng vì dịch bệnh.
+"Đêm phố cổ" thu hút sự quan tâm của đông đảo người dân, du khách.
+Đèn lồng là một "đặc sản" của Hội An và không thể thiếu trong mỗi "Đêm phố cổ", được du khách yêu thích.
+Hoạt động "Tái hiện đêm phố cổ Hội An" là ý tưởng độc đáo, với mục đích phục dựng nguyên bản đời sống của nhân dân Hội An vào những năm đầu thế kỷ XX, cùng với các hoạt động văn hóa đa dạng, đầy màu sắc như hát bội, cờ làng, thư pháp, trò chơi bài chòi, bịt mắt đập niêu, cờ tướng…
+Đêm 14 âm lịch, du khách thường đến Hội An để thả hoa đăng trên dòng sông Hoài cầu bình an, may mắn.
+Nhiều khách du lịch đôi ba lần trở lại Hội An, đều có ý muốn đặt chân đến vùng đô thị cổ này vào những lúc Hội An tổ chức "Đêm phố cổ". Bây giờ, sự kiện văn hóa này đã trở thành lễ hội - một hoạt động góp phần định danh cho bản sắc du lịch Hội An...
+Tiếng hát du dương như ngân vang khắp không gian phố cổ.
+Tại nhiều góc đường trong phố cổ thường bày bàn cờ tướng, tái hiện cuộc sống bình dị của người dân Hội An đầu thế kỷ XX.
+Dọc theo các tuyến phố, ánh đèn điện chìm khuất bởi màu sắc của đèn lồng trên các khung cửa gỗ. Thành phố Hội An trầm lắng, dù lễ hội với lượng lớn du khách nhưng mọi thứ luôn chuyển động rất nhẹ nhàng, thư thái và an toàn.
+Chị Lê Ngân Khánh (du khách Đà Nẵng chia sẻ): "Tôi rất thích đến Hội An, đặc biệt mỗi lần tổ chức "Đêm phố cổ", tạm quên đi những xô bồ phố thị, đến đây ta như bước vào một thế giới hoàn toàn khác, mọi thứ chuyển động thật nhẹ nhàng, an yên. Tôi thích nhất là dạo bước dưới những ánh đèn lồng lung linh, ngắm phố cổ về đêm thật yên bình, nên thơ, hiếm nơi nào có được một không gian tuyệt vời như vậy".
+Các cờ thủ đang suy tính các bước đi trong trò chơi cờ làng.
+"Đêm phố cổ" đã và đang góp phần khơi dậy tinh thần gìn giữ và phát huy văn hóa của địa phương trong lòng mỗi người dân Hội An. Đây cũng là nền tảng để bảo tồn và phát huy giá trị văn hóa phi vật thể, các loại hình nghệ thuật văn hóa dân gian. Đồng thời, sự thành công của "Đêm phố cổ" đã tạo nên một sản phẩm du lịch đặc trưng, mang dấu ấn riêng của Di sản văn hóa thế giới Đô thị cổ Hội An.
+Các trò chơi dân gian như hô hát bài chòi, bịt mắt đập niêu… thu hút đông đảo du khách tham gia.
+Hiện nay, để khởi động lại hoạt động du lịch tại Hội An, thành phố đã và đang đưa ra nhiều chương trình nghệ thuật, sản phẩm du lịch văn hóa độc đáo, hấp dẫn để du khách có nhiều lựa chọn khi đến đây.
+Nhiều sản phẩm bổ sung thêm hoặc làm mới lại để "chiêu đãi" du khách, và "Đêm phố cổ" là một trong những sản phẩm du lịch độc đáo mà du khách không nên bỏ lỡ khi ghé đến Hội An.
+Trải nghiệm ngồi thuyền ngắm dọc sông Hoài ngắm phố cổ về đêm được nhiều du khách yêu thích.
+Từ sau Tết Nguyên đán đến nay, nhất là khi dịch bệnh Covid-19 dần được kiểm soát ở hai đầu đất nước, mỗi ngày phố cổ Hội An đón hàng nghìn du khách đến tham quan. Theo thống kê, quý I/2021, thành phố Hội An đón khoảng 146.375 lượt khách; trong đó có 8.420 lượt khách mua vé tham quan.
+Hội An đã và đang triển khai nhiều chương trình nghệ thuật hấp dẫn, đặc sắc phục vụ du khách. Trong hình là chương trình thực cảnh "Hội An show" đang được tập duyệt, sẽ được công diễn vào đêm 28/3 phục vụ du khách.
+Năm 2021 dự báo còn tiếp tục khó khăn, nhưng với nỗ lực từ trung ương đến địa phương, đặc biệt với nhiều chương trình, sự kiện hấp dẫn được tổ chức hứa hẹn sẽ giúp du lịch Hội An nhanh chóng phục hồi, phát triển.
+Thành phố Hội An tiếp tục áp dụng chương trình giảm 50% giá vé đối với du khách khi đến tham quan khu phố cổ, làng gốm Thanh Hà và làng rau Trà Quế.
+Công Bính - Ngô Linh

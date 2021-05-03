@@ -1,21 +1,15 @@
 # doc_id = news_travel_184
-# url = https://dantri.com.vn/du-lich/ngoi-lang-an-chua-bau-vat-dan-doi-doi-nho-nhat-da-duoi-song-mang-ban-20210423091925354.htm
-# date = 20210423
-Nằm ở một vị trí không mấy bắt mắt, ngay cạnh con sông lớn nhất Trung Quốc và được bao quanh bởi những ngọn núi, làng Hà Gia Bá hay còn gọi là Kỳ Thạch Trấn thu hút một lượng lớn khách du lịch hàng năm.
-Tuy nhiên, điều hấp dẫn du khách không phải do cảnh sắc thiên nhiên hay văn hóa lâu đời mà tại đây lưu trữ một lượng lớn đá cuội với đủ hình thù bắt mắt.
-Bãi đá cuội trên sông.
-Hằng năm từ tháng 2 tới tháng 4, sông Dương Tử bước vào mùa khô, nước bắt đầu rút xuống sẽ để lộ một bãi cạn rộng hơn 3000 mẫu, kéo dài gần 10 cây số với hàng trăm nghìn viên đá lấp lánh, đầy màu sắc và đủ loại kích cỡ.
-Các hộ gia đình ở làng đi nhặt những viên đá cuội dưới lòng sông Dương Tử rồi đem bán. Không ít gia đình nhờ bán được một viên đá đã đổi đời, có thể có nhà mua xe.
-Nói về nguồn gốc của nghề bán đá, chính quyền địa phương cho biết năm 2003, một viên đá trong nhà một cặp vợ chồng ở thành phố Newton - Massachusetts đột nhiên nổi tiếng và họ cho biết đã mua ở Hà Gia Trang. Từ đó, những nhà sưu tầm đổ xô tới đây tìm những viên đá đẹp nhất và mua chúng với giá trên trời.
-Điều làm cho đá ở sông Dương tử đoạn gần Hà Gia Trang trở nên phổ biến với các nhà sưu tập là những hoa văn thú vị. Mỗi đường hoa văn dường như lại mang một câu chuyện khác nhau.
-Một viên đá trên sông với đường vân độc đáo.
-Đá đem bán ở đây cũng không phải những hòn đá cuội nhỏ mà là những viên đá to, nặng với đủ mọi hình dáng và màu sắc kỳ lạ.
-Đá được những người săn "đá" thu mua với giá cao, ước tính rằng làng Hà Gia Bá đã thu khoảng 20 triệu nhân dân tệ hằng năm chỉ bằng việc bán đá.
-Nhà nào, cũng chất đá thành núi trong sân.
-Người dân đang phân loại đá chờ người tới mua.
-Những người đi thu gom đá thường là đàn ông trên 30 tuổi sẽ đeo một chiếc gùi trên lưng, đi dọc bờ sông và lượm đá. Sau khi lượm về, họ sẽ tiếp tục phân loại, đặt tên và trưng bày.
-Hầu như nhà nào ở Hà Gia Bá cũng chất đầy đá ở sân, chờ "người sành đá" đến thưởng thức và trao đổi.
-Với những ai có tay nghề lượm đá lâu năm, họ sẽ dễ dàng nhận ra được viên đá nào có giá trị mua bán cao. Đá có hoa văn, màu sắc và hình dáng càng độc thì càng bán được nhiều tiền.
-Một viên đá sông Dương Tử giá trị nhất có thể được bán với giá hàng nghìn, thậm chí hàng chục nghìn nhân dân tệ. Một viên đá được chủ sở hữu đặt tên là "Con đường gian khổ", được cho là đã được bán với giá trên trời 100.000 nhân dân tệ (15.400 đô la Mỹ).
-Hằng Đoàn
-Theo AG news
+# url = https://dantri.com.vn/du-lich/nhac-nho-khong-hut-thuoc-la-thuc-khach-bi-hung-tron-nuoc-lau-nong-vao-mat-20210401113800570.htm
+# date = 20210401
+Vụ việc xảy ra trong một nhà hàng lẩu ếch ở thành phố Thành Đô, tỉnh Tứ Xuyên, Trung Quốc, hôm 29/3 vừa qua. Nạn nhân là một nữ thực khách họ Xiao tới đây dùng bữa tối cùng bạn bè.
+Khi đang ăn, Xiao thấy người đàn ông ở bàn kế bên hút thuốc nên đã lên tiếng yêu cầu không hút vì cô gặp vấn đề về phổi. Thay vì dập điếu thuốc, người đàn ông trở nên hung hãn và hét lớn: "Tại sao tôi không thể hút trong nhà hàng? Đó không phải việc của cô".
+Thấy thái độ bất hợp tác của vị khách, Xiao đã rút điện thoại ra quay thì bị người này dọa đập vỡ món đồ cá nhân. Rất bức xúc với hành vi này, Xiao đã chia sẻ đoạn video lên mạng xã hội Weibo và thu hút hơn 170 triệu lượt xem.
+Không chỉ mắng mỏ Xiao, người đàn ông còn quát tháo bạn đi cùng cô. "Anh ta không hút thuốc nên chắc không phải là đàn ông". Một số vị khách khi chứng kiến vụ việc thậm chí còn hùa theo và cho biết "người Tứ Xuyên có thói quen hút thuốc trong nhà hàng".
+Thậm chí cuối cùng, Xiao còn bị người kia hất "thứ chất lỏng nóng" vào mặt. Sau đó, phía nhà hàng xác nhận đó là nước lẩu.
+Vì quá bức xúc, cô gái đã gọi điện báo cảnh sát và rời đi.
+Tại cơ quan điều tra, Xiao và người đàn ông được gọi tới. Phía cảnh sát đã đứng ra hòa giải đôi bên. Người đàn ông cũng lên tiếng xin lỗi vì hành động nóng nảy của mình, đồng thời bồi thường Xiao 1.000 nhân dân tệ (hơn 3,5 triệu đồng).
+Xiao cho biết, cô không thực sự cần lời xin lỗi, nhưng mong rằng vụ việc sẽ là hồi chuông cảnh báo ý thức cộng đồng trong việc hút thuốc lá tại những nơi công cộng.
+"Nhiều người già, trẻ nhỏ, hay những người mắc bệnh về phổi như tôi, thậm chí ngay cả người khỏe mạnh đều không muốn hít phải hơi thuốc lá. Không hút thuốc nơi công cộng đông người là sự tôn trọng tối thiểu với người xung quanh", Xiao nói.
+Trong khi đó, quản lý nhà hàng cho biết họ không biết vụ việc xảy ra tại dãy bàn của Xiao vì hôm đó quá đông khách. Ngoài ra, phía nhà hàng cũng bị công ty mẹ phạt 50.000 nhân dân tệ (hơn 175 triệu đồng) vì để ra sự cố đáng tiếc. Người đại diện cho biết, nếu để xảy ra vụ việc tương tự, phía nhà hàng sẽ bị thu hồi giấy phép nhượng quyền.
+Huy Hoàng
+Theo SCMP

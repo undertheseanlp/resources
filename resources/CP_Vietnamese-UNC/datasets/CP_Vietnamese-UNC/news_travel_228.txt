@@ -1,13 +1,18 @@
 # doc_id = news_travel_228
-# url = https://dantri.com.vn/du-lich/sua-lai-nha-nguoi-dan-ong-ngo-ngang-phat-hien-bi-mat-khong-ngo-20210427070640652.htm
-# date = 20210427
-Tháng 12/2020, anh Gary Machens (sống ở Alton, Illinois, Mỹ) mua một căn nhà. Mới đây, người đàn ông này đã phát hiện đường hầm có từ thế kỷ 19 ngay dưới công trình này.
-Theo NYPost, đường hầm được tìm thấy sau khi một phần vỉa hè bên cạnh nhà bị hư hỏng và người đàn ông nhìn thấy một lối vào bên trong.
-"Khi chúng tôi đang tiến hành đào và làm lại đá thì phát hiện đường hầm này", anh Gary Machens cho hay.
-Chưa biết đường hầm được làm với mục đích gì, nhưng Gary Machens nhận định để xây dựng được phải có nhiều người tham gia và tốn công sức, có thể đây là một phần của đường sắt ngầm.
-Các nhà sử học khu vực Alton đã tới đường hầm và đánh giá đường hầm có từ năm 1840.
-"Ba cựu thị trưởng của Altons đã sống trong ngôi nhà này nhiều năm. Tôi không biết có ai trong số họ biết chuyện này không.
-Ngôi nhà được xây dựng từ năm 1890, đường hầm được cho là có từ năm 1840. Chúng tôi có bản đồ, năm 1863 chưa có ngôi nhà và không có ngôi nhà nào khác trên mảnh đất này", Gary Machens chia sẻ.
-Là một người yêu thích lịch sử, Gary Machens hi vọng sẽ mở đường hầm cho mọi người đến tham quan nếu được thành phố hỗ trợ về chi phí. Hiện tại, Gary đã sửa lại vỉa hè và niêm phong lối vào hầm.
-Quang Anh
-Theo NYPost/Daily Mail
+# url = https://dantri.com.vn/du-lich/tay-luong-nu-quoc-tren-himalaya-noi-phu-nu-co-the-lay-nhieu-chong-20210327091623451.htm
+# date = 20210327
+Dân tộc Mosuo có dân số khoảng 40.000 người và từ rất lâu họ chỉ sống ở rìa hồ Luga - ranh giới giữa hai tỉnh Tứ Xuyên và Vân Nam, xung quanh được bao bọc bởi núi cao khiến cả vùng dân cư như ngụ tại một thung lũng cách biệt.
+Do vị trí địa lí như vậy, rất nhiều năm những tập tục của người Mosuo vẫn được bảo tồn, một trong số đó phải nói tới việc cho phép phụ nữ được lấy nhiều chồng.
+Người phụ nữ Mosuo dệt bằng khung cửi tại cửa hàng của cô ở Lệ Giang, Trung Quốc. (Ảnh: Getty Images).
+Đây là bộ tộc duy nhất trên thế giới áp dụng tập tục "tẩu hôn" thường được các nhà nghiên cứu Trung Quốc gọi là "tình yêu tự do". Đơn giản hơn, phụ nữ có quyền lựa chọn và đổi bạn đời bất cứ khi nào họ muốn - đây được xem như một lối sống ủng hộ quyền tự quyết của nữ giới.
+Đồ gia dụng truyền thống trong văn hóa Mosuo.
+Thậm chí, theo truyền thống, phụ nữ được cho phép sở hữu và thừa kế tài sản. Do vậy, những đứa trẻ khi được sinh ra "chỉ thuộc" về mẹ ruột, được nuôi nấng bởi gia đình nhà mẹ các anh em trai và chú bác có vai trò như cha. Có nhiều trường hợp cả mẹ của những đứa bé này cũng không biết người đàn ông nào là bố của con họ.
+Bà Naju Dorma, 73 tuổi và bà Lacuo Dorma, 66 tuổi, đến từ làng Luoshui, đang mặc trang phục truyền thống của người Mosuo.
+Để giải thích cho việc này, một số người cho rằng do nắm trong tay tài chính cũng như tiếng nói, nghiễm nhiên đứa con sẽ được nuôi dưỡng bởi nhà mẹ.
+Đàn ông vẫn đóng vai trò quan trọng trong xã hội, họ thường phải xa làng, đi theo những đoàn buôn lớn để bán các sản vật địa phương. Họ cũng có trách nhiệm xây dựng nhà cửa, đánh bắt cá, làm thịt các loại gia súc,…. Mặc dù không có trách nhiệm làm cha, họ có trách nhiệm với tư cách là chú đối với con của chị em mình.
+Những người Mosuo những năm gần đầy cho rằng: "Họ đang mất dần đi bản sắc của mình".
+Bà Sergei Dorma, 70 tuổi, người đã trải qua những giai đoạn biến động của bộ tộc.
+Nhiếp ảnh gia Karolin Klüppel, người đã dành một thời gian sống ở Mosuo, nói với National Geographic. "Cuộc sống sung túc hơn nhờ làm du lịch nhưng những người cao tuổi nhất của bộ tộc này đồng thời cũng cảm thấy thực sự đau buồn vì những thay đổi."
+Trong khi những người trẻ tuổi hơn Mosuo đã trở nên hòa nhập hơn, nhiều cô gái còn kết hôn với người bên ngoài bộ tộc và chuyển đến các thành phố lớn hơn để tìm việc làm, những người phụ nữ lớn tuổi trở thành thế hệ còn lại bảo vệ văn hóa cổ xưa.
+Hằng Đoàn
+Theo The Guardian/ National Geographic

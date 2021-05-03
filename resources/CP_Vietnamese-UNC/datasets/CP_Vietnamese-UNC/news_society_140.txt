@@ -1,15 +1,11 @@
 # doc_id = news_society_140
-# url = https://dantri.com.vn/xa-hoi/ha-noi-vi-sao-chua-cach-ly-xa-hoi-toan-bo-xa-viet-hung-20210501115403386.htm
-# date = 20210501
-Huyện Đông Anh chưa ra quyết định cách ly xã hội toàn bộ xã Việt Hùng theo đề xuất của Sở Y tế Hà Nội. Trong ảnh là thời điểm ngõ 83 đường Dục Nội (thuộc thôn Trung, xã Việt Hùng) được phong tỏa để kiểm soát dịch bệnh (Ảnh: Thành Trung).
-Trưa 1/5, một cán bộ Văn phòng HĐND-UBND huyện Đông Anh (Hà Nội) cho biết, tính đến thời điểm hiện tại, địa phương này chưa quyết định cách ly xã hội toàn bộ xã Việt Hùng theo Chỉ thị 16 của Thủ tướng Chính phủ.
-Trước đó, theo báo cáo của Sở Y tế Hà Nội, ngày 30/4, sau khi xã Việt Hùng xuất hiện 3 ca mắc covid-19, gồm: anh N.V.K (SN 1993, ở Khu Trung; là F1 của BN2899 ở Hà Nam); anh N.Đ.Đ (SN 1994, ở Lỗ Giao; làm tại Công ty Vinco) và chị N.H.N (SN 1996, ở Lỗ Giao; làm tại Công ty Panasonic), cơ quan y tế đã lập tức điều tra, xác định có 71 trường hợp F1 liên quan đến 3 người này.
-Nhận định tình hình dịch bệnh trong thời gian tới sẽ rất phức tạp, Sở Y tế Hà Nội đã có đề xuất khẩn trương lấy mẫu toàn bộ người dân thôn Trung (xã Việt Hùng). Đặc biệt, cơ quan này đề nghị thực hiện cách ly xã hội toàn bộ xã Việt Hùng theo Chỉ thị 16 của Thủ tướng Chính phủ và thực hiện Chỉ thị 15 đối với xã Uy Nỗ.
-Trả lời PV Dân trí về nội dung đề nghị của Sở Y tế Hà Nội, vị cán bộ huyện Đông Anh cho biết, căn cứ trên tình hình thực tiễn ở địa phương nên huyện chưa quyết định cách ly xã hội toàn bộ xã Việt Hùng.
-"Dự kiến trong chiều nay, phía huyện sẽ ban hành quyết định khoanh vùng, cách ly theo từng khu vực cụ thể mà không cách ly toàn xã Việt Hùng" - vị này nói.
-Phó Chủ tịch UBND TP Hà Nội Chử Xuân Dũng tại cuộc họp chiều 30/4 (Ảnh: Thành Trung).
-Trước đó, chỉ đạo tại cuộc họp chiều 30/4, Phó Chủ tịch UBND TP Hà Nội Chử Xuân Dũng cho biết, tùy thuộc và mức độ đánh giá tình hình dịch bệnh mà các cơ quan liên quan ra quyết định phong tỏa cục bộ hay chỉ phong tỏa một bộ phận, một khu vực.
-"Nếu chưa thì phong tỏa diện rộng rồi từng bước nới lỏng dần. Các xã của huyện Đông Anh cũng như vậy. Trong quá trình phong tỏa thì đề nghị quản lý chặt không được để lây chéo. Đảm bảo các gia đình cách ly độc lập nhau, tránh việc phong tỏa kiểu hình thức" - ông Dũng nhấn mạnh.
-Về công tác phòng, chống dịch bệnh, theo báo cáo của Phòng Y tế huyện Đông Anh, nhà ở của ca mắc Covid-19 tại khu tập thể ga Cổ Loa (ngõ 83 đường Dục Nội, thuộc thôn Trung, xã Việt Hùng) đã được lập chốt cách ly kiểm soát y tế đối với 19 hộ gia đình. Lập chốt cách ly và ra quyết định cách ly y tế tại nhà đối với 70 công nhân thuộc trường hợp F2.
-Trong ngày 30/4, Đội cảnh sát giao thông, trật tự Công an huyện Đông Anh đã tăng cường tuần tra kiểm soát, nhắc nhở và xử phạt các trường hợp không đeo khẩu trang, các quán nước vỉa hè tập trung đông người…
-Nguyễn Trường
+# url = https://dantri.com.vn/xa-hoi/hai-can-nha-boc-chay-du-doi-o-sai-gon-20210426192544590.htm
+# date = 20210426
+Theo Phòng Cảnh sát PCCC và Cứu nạn cứu hộ Công an TPHCM, lúc 17h45 cùng ngày, căn nhà trên đường Lý Thường Kiệt (phường 11, quận Tân Bình) bất ngờ xảy ra hỏa hoạn.
+Ngay khi ngọn lửa bùng phát, lực lượng chữa cháy tại chỗ cố gắng dùng nước và bình chữa cháy để dập lửa, nhưng không hiệu quả. Đám cháy sau đó lan sang căn nhà 4 tầng kinh doanh về mặt hàng sơn kế bên.
+Sau đó, đội Cảnh sát PCCC và Cứu nạn cứu hộ Công an quận Tân Bình điều động nhiều xe chuyên dụng và hàng chục cán bộ chiến sĩ đến hiện trường, chia thành nhiều mũi, triển khai các biện pháp phun nước vào bên trong để dập lửa.
+Ghi nhận thực tế tại hiện trường vào thời điểm xảy ra vụ hỏa hoạn, hệ thống điện bị ngắt trên diện rộng, nhiều tiếng nổ phát ra từ căn nhà 4 tầng. Ngoài ra, giao thông qua khu vực ùn tắc cả hai hướng.
+Cảnh sát vẫn đang nỗ lực khống chế đám cháy.
+Bước đầu xác định, hỏa hoạn không gây thiệt hại về người nhưng nhiều tài sản ở 2 căn nhà bị "Bà hỏa" viếng đều bị thiêu rụi.
+Nguyên nhân đang được công an điều tra.
+Hoàng Thuận

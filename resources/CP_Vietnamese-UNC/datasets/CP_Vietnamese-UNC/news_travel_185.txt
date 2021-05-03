@@ -1,14 +1,16 @@
 # doc_id = news_travel_185
-# url = https://dantri.com.vn/du-lich/ngoi-nha-lam-tu-hang-tram-nghin-vo-hau-ton-tai-suot-may-tram-nam-khong-do-20210327122233519.htm
-# date = 20210327
-Tưởng chừng là thứ đồ bỏ đi, nhưng những ngôi nhà ở thị trấn Tư Tiền thuộc thành phố Trung Sơn, tỉnh Quảng Đông, Trung Quốc, lại tận dụng vỏ hàu là nguyên liệu xây dựng.
-Người dân địa phương cho biết, tổ tiên xa xưa của làng đã tận dụng lượng vỏ hàu hàng trăm nghìn chiếc từ vùng biển địa phương để xây nhà ở. Vỏ hàu được đắp lên tường bao quanh bên ngoài. Với loại nguyên liệu độc lạ này giúp những ngôi nhà ở Tư Tiền mát mẻ vào mùa hè, còn mùa đông lại ấm áp. Đặc biệt, nhà không bị dột, tụ nước mưa hay côn trùng xâm nhập.
-Hầu hết các căn nhà vỏ hàu tại đây có tuổi đời từ 400 năm trở lên. Vỏ hàu chứa canxi cacbonat và sclerostin chống lại sự ăn mòn của nước biển. Chúng được trộn với bùn để xây tường. Trong khi đó, phần tường được đỡ bằng những trụ gỗ sa mu quý. Bởi vậy, kiểu nhà này thích hợp khi xây dựng ở vùng ven biển.
-Ước tính trong làng có hơn 100 nhà làm từ vỏ hàu, nhưng nhiều căn đã bị thời gian phá hủy. Hiện chỉ còn khoảng 4 ngôi nhà vẫn được bảo quản tốt.
-Tuổi đời lên tới hàng trăm năm nhưng những ngôi nhà này vẫn giữ được nét cổ xưa hiếm có. Hàng trăm nghìn vỏ hàu được gắn chắc kiên cố khắp tường, tạo nên nét độc đáo riêng biệt.
-Bên cạnh nhà vỏ hàu, thị trấn Tư Tiền còn thu hút du khách bởi nhiều điểm du lịch hấp dẫn, bao gồm những tòa nhà được xây từ thời nhà Tống vẫn còn tới ngày nay. Qua lối kiến trúc và xây dựng có thể thấy khu vực này từng là nơi có nền kinh tế phát triển, thịnh vượng.
-Lối xây nhà bằng vỏ hàu còn xuất hiện ở làng Xunpu thuộc tỉnh Phúc Kiến. Đó là một làng chài ven biển nhỏ với phong cách xây dựng rất riêng. Người dân địa phương cho biết, họ đã tận dụng hàng tấn vỏ hàu để dựng nhà từ thời nhà Tống đến nay.
-Họ tin rằng, cấu trúc vỏ hàu bền chắc không bị gió biển mặn mòi bào mòn nên một số ngôi nhà vẫn đứng vững suốt hàng trăm năm mà không có dấu hiệu mục nát.
-Dù ngày nay người dân có nhiều nguyên liệu khác để lựa chọn xây dựng hơn trước, nhưng với tính năng đặc biệt, nhà vỏ hàu vẫn là điểm hút khách du lịch ghé thăm.
-Quốc Việt
-Theo BBC Travel/ China Daily
+# url = https://dantri.com.vn/du-lich/nhieu-doan-khach-den-binh-dinh-huy-tour-truoc-gio-g-20210428173604581.htm
+# date = 20210428
+Ông Huỳnh Cao Nhất, Phó Giám đốc Sở Du lịch tỉnh Bình Định cho biết, do ảnh hưởng của dịch bệnh, dịp lễ 30/4-1/5 năm nay, ghi nhận xảy ra tình trạng nhiều đoàn khách hủy tour.
+Tuy nhiên, con số này không ảnh hưởng lớn đến hoạt động kinh doanh dịch vụ du lịch trên địa bàn tỉnh. Hiện, mỗi ngày chỉ tính riêng đường hàng không đã có gần 5.000 du khách đến Bình Định.
+Theo ông Nhất, chỉ tính riêng du khách di chuyển bằng đường hàng không qua Cảng hàng không Phù Cát đã tăng rất nhanh.
+Nếu tuần trước chỉ 25 chuyến bay/ngày (chỉ tính chuyến bay đến), thì tuần này tăng lên 33 chuyến/ngày. Mỗi ngày có khoảng 4.000 - 5.000 du khách đến Bình Định, đó là chưa kể du khách đi đường bộ, đường sắt.
+"Hiện nay, những khách sạn dọc biển Quy Nhơn, các khách sạn trong nội thành Quy Nhơn tỷ lệ kín phòng khá lớn, phần lớn trên 95% khách đặt phòng lưu trú, có những khách sạn kín phòng 100%.
+Tuy nhiên, hai ngày qua do tình hình dịch bệnh căng thẳng và Thủ tướng Chính phủ cũng có chỉ đạo một số yêu cầu quyết liệt hơn thì cũng có tình trạng một số đoàn khách du lịch đã hủy tour đến khách sạn trong nội thành Quy Nhơn", ông Nhất thông tin.
+Theo Phó Giám đốc Sở Du lịch Bình Định Huỳnh Cao Nhất, từ trước 30/4 và 1/5, Sở Du lịch đã có nhiều văn bản chỉ đạo các tổ chức, cá nhân kinh doanh dịch vụ du lịch để đảm bảo các yêu cầu kinh doanh, đặc biệt là thực hiện theo chỉ đạo của Chính phủ về phòng, chống dịch Covid-19.
+Cụ thể, tiếp tục thực hiện nghiêm các văn bản chỉ đạo, hướng dẫn của Bộ Văn hóa, Thể thao và Du lịch, Bộ Y tế, UBND tỉnh Bình Định về công tác phòng, chống dịch Covid-19. Đặc biệt, tập trung triển khai các yêu cầu về đảm bảo chất lượng dịch vụ, an ninh, an toàn cho du khách du lịch dịp lễ 30/4 và 1/5.
+Các khách sạn; khu, điểm, địa điểm du lịch; người điều khiển phương tiện vận chuyển khách du lịch; nơi mua sắm yêu cầu khách du lịch phải đeo khẩu trang, khai báo y tế.
+Các khu, điểm, địa điểm du lịch phải bố trí lực lượng thường xuyên giám sát, nhắc nhở khách du lịch đeo khẩu trang, hạn chế tập trung đông người.
+Kiên quyết không đón tiếp khách du lịch không thực hiện chỉ đạo đeo khẩu trang khi đến vui, giải trí ở khu, điểm, địa điểm du lịch, nơi mua sắm và sử dụng các dịch vụ của đơn vị mình trừ trường hợp phải tháo khẩu trang để sử dụng dịch vụ.
+"Những ngày qua, Thanh tra Sở Du lịch và Đội thanh tra liên ngành du lịch liên tục kiểm tra các cơ sở lưu trú của các tổ chức, cá nhân vừa kiểm tra công tác phòng, chống dịch vừa có hướng dẫn, nhắc nhở thực hiện đúng theo quy định về chống dịch, nhất là thực hiện nghiêm yêu cầu 5K", ông Nhất cho hay.
+Doãn Công

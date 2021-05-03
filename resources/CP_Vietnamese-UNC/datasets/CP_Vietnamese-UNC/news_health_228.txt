@@ -1,20 +1,13 @@
 # doc_id = news_health_228
-# url = https://dantri.com.vn/suc-khoe/thoi-diem-nao-thich-hop-nhat-kham-vu-de-phat-hien-ung-thu-som-20210430064453323.htm
-# date = 20210430
-Vậy thời điểm nào tốt nhất để thực hiện khám vú? Bao lâu nên thực hiện một lần, thưa bác sĩ? (Ngọc Phương, Phú Thọ).
-GS.TS Trần Văn Thuấn, Thứ trưởng Bộ Y tế, nguyên Giám đốc Bệnh viện K trả lời:
-Trong 5 loạiung thưhay gặp nhất ở nữ giới, ung thư vú đứng vị trí đầu bảng với 43,1/100.000 dân, với tỉ lệ tử vong 12,9/100.000 dân. Tiếp đến là ung thư đại trực tràng, ung thư cổ tử cung, ung thư phổi, ung thư tử cung.
-Trong các loại ung thư ở nữ giới, ung thư vú, cổ tử cung đều có thể sàng lọc và phát hiện sớm. Đặc biệt là với ung thư vú là bệnh dễ phát hiện sớm nhất, là vì bệnh nhân tự sờ thấy được.
-Trước đây ung thư vú là nỗi ám ảnh của nhiều người, nhưng ngày nay ung thư vú có thể sàng lọc, phát hiện sớm và tiên lượng điều trị tốt (tỉ lệ điều trị khỏi đến 75%) nếu được chẩn đoán ở giai đoạn sớm.
-Việc tầm soát, sàng lọc có ý nghĩa vô cùng quan trọng với phát hiện sớm ung thư vú. Trong giai đoạn 2008-2010, qua sàng lọc 70.980 phụ nữ tại 7 tỉnh/thành phố, tỷ lệ phát hiện ung thư vú qua sàng lọc là 59,2/100.000 phụ nữ là khá cao, cho thấy hiệu quả khi triển khai các chương trình này tại cộng đồng.
-Tuy nhiên tại cộng đồng, chỉ có 24,2% phụ nữ có thực hành tự khám vú hàng tháng trong số những người tham gia chiến dịch sàng lọc, phát hiện sớm ung thư vú. Tuy nhiên, tín hiệu đáng mừng đó là tỷ lệ phát hiện bất thường ở nhóm phụ nữ thực hành tự khám vú thấp hơn ở nhóm không thực hành cho thấy hiệu quả và ý nghĩa của việc hướng dẫn phụ nữ tự khám vú đối với việc phát hiện sớm tổn thương ung thư vú.
-Việc tự khám vú là biện pháp tầm soát quan trọng để kịp thời phát hiện những bất thường ở vú có thể là dấu hiệu sớm của ung thư.
-Phụ nữ nên tự khám vú đều đặn mỗi tháng một lần, tốt nhất tự kiểm tra sau kỳ kinh nguyệt khoảng 5 ngày là lúc vú mềm nhất. Trong gia đình có người thân mắc bệnh thì nguy cơ di truyền càng cao. Nếu bạn phát hiện có khối u hay sự thay đổi của vú, nên đến viện khám càng sớm càng tốt.
-Chị em cũng cần có thói quen khám sức khỏe định kỳ, tầm soát ung thư vú khi qua tuổi 40. Với những chị em có nguy cơ cao (trong gia đình có mẹ hoặc chị em gái mắc ung thư vú, đột biến gen BRCA1/BRCA2; có kinh sớm; không sinh con...), nên đi khám, tầm soát ở lứa tuổi sớm hơn.
-Những dấu hiệu cảnh báo ung thư vú
-- Khối u không đau ở ngực
-- Thường xuyên bị ngứa và rát quanh núm vú
-- Núm vú bị rỉ máu, tiết dịch khác thường hoặc thụt vào, co lại
-- Làn da trên vú bị sần da cam, dày lên hoặc bị lún xuống, có nếp gấp.
-- Có hạch ở hố nách.
-Hồng Hải
+# url = https://dantri.com.vn/suc-khoe/thuoc-dieu-tri-covid-19-co-the-san-sang-vao-cuoi-nam-nay-20210429192705804.htm
+# date = 20210429
+Giám đốc điều hành Pfizer, Albert Bourla cho biết nhà sản xuất dược phẩm lớn nhất thế giới đang nỗ lực để cho ra đời một thuốc thử nghiệm điều trị căn bệnh này vào cuối năm nay. Vào tháng 3, Pfizer đã bắt đầu thử nghiệm lâm sàng giai đoạn đầu một liệu pháp kháng virus mới điều trị COVID-19, căn bệnh đã giết chết hơn 573.000 người Mỹ.
+Theo TS Mikael Dolsten, giám đốc khoa học và là chủ tịch nghiên cứu, phát triển và y tế Pfizer toàn cầu, thuốc có thể được kêđơn "khi có dấu hiệu đầu tiên của nhiễm trùng, mà không bắt buộc bệnh nhân phải nhập viện hoặc chăm sóc tích cực. Thuộc nhóm chất ức chế protease, được sử dụng để điều trị HIV và viêm gan C, thuốc ngăn chặnsản sinh các enzym cần thiết để virus nhân lên trong tế bào người.
+Nếu các thử nghiệm lâm sàng chứng minh thành công và được FDA phê duyệt, thuốc có thể được phân phối ở Mỹ vào cuối năm 2021.
+TS Neeta Ogden nói: "Tôi nghĩ rằng loại thuốc này sẽ "thay đổi cuộc chơi". Thậm chí còn chưa thấy một thuốc điều trị nào được cho là có thể dùng điều trị sớm hoặc dự phòng nếu bị phơi nhiễm, giống như những gì xảy ra với bệnh cúm".
+"Virus tiếp tục biến đổi và sẽ tiếp tục hiện diện ở một số dạng, và chúng ta cần những loại thuốc có thể sử dụng ngay khi có dấu hiệu đầu tiên của các triệu chứng để ngăn chặn sự lây lan, nhờ đó sẽ ngăn chặn bệnh nặng và ngăn việc phải nhập viện".
+Pfizer - công ty đã phát triển vắc xin COVID-19 đầu tiên được phê duyệt ở Mỹ cùng với nhà sản xuất dược phẩm BioNTech của Đức - tiếp tục thử nghiệm vắc xin trên trẻ em từ 6 tháng đến 11 tuổi. Đầu tháng này, công ty đã yêu cầu FDA mở rộng việc cấp phép sử dụng vắc xin cho thanh thiếu niên từ 12 đến 15 tuổi sau khi các nghiên cứu cho thấy nó có hiệu quả..
+Người Mỹ từ 16 tuổi trở lên đủ điều kiện để được chủng ngừa. Tuy nhiên, nhiều người đang bỏ qua liều vắc xin Pfizer hoặc Moderna thứ hai rất quan trọng. Tính đến đầu tháng 4, hơn 5 triệu người đã bỏ lỡ mũi tiêm thứ hai, theo CDC.
+Khi được hỏi về sự lưỡng lự trong việc tiêm vắc xin, Bourla nói: "Quyết định của bạn sẽ không chỉ ảnh hưởng đến sức khỏe của bạn - quyết định tiêm vắc xin của bạn sẽ ảnh hưởng đến sức khỏe của người khác và có thể là sức khỏe của những người mà bạn yêu thương nhất vì họ là những người mà bạn tiếp xúc cùng".
+Cẩm Tú
+Theo CBS News

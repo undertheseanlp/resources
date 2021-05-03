@@ -1,14 +1,14 @@
 # doc_id = news_world_122
-# url = https://dantri.com.vn/the-gioi/indonesia-phat-hien-manh-moi-moi-ve-nguyen-nhan-khien-tau-ngam-bi-dam-20210428055835557.htm
-# date = 20210428
-Straits Times dẫn lời hai quan chức cấp cao của Hải quân Indonesia ngày 27/4 cho biết, chuyển động mạnh của sóng ngầm ở khu vực tàu ngầm KRI Nanggala 402 diễn tập sáng 21/4 có thể đã khiến con tàu bị chìm.
-Ảnh chụp từ vệ tinh thời tiết Himawari-8 của Nhật Bản và châu Âu xác nhận sự hiện diện của sóng ngầm này gần vị trí của KRI Nanggala 402 trùng thời điểm con tàu mất tích.
-Chuẩn Đô đốc Hải quân Indonesia Iwan Isnurwanto giải thích, có một sự chênh lệch lớn về khối lượng riêng của nước ở eo biển Lombok và nước biển phía bắc Bali, nơi xác tàu ngầm KRI Nanggala 402 được tìm thấy.
-"Chúng ta thử hình dung khoảng 2 triệu đến 4 triệu m3 khối nước đổ ập vào, liệu ai có thể chống cự được. Tàu KRI Nanggala 402 lặn xuống độ sâu 13m và gặp phải sóng ngầm này", Chuẩn Đô đốc Iwan nói. Ông cho biết thêm: "Chúng tôi vẫn tiếp tục điều tra, và sẽ mất một thời gian. Chúng tôi sẽ mời các chuyên gia về tàu ngầm cả trong nước và quốc tế tham gia".
-Tàu ngầm KRI Nanggala 402 của Hải quân Indonesia gặp nạn sáng 21/4 khi đang diễn tập phóng ngư lôi ngoài khơi Bali. Sau nỗ lực tìm kiếm quy mô lớn với sự hỗ trợ của quốc tế, Indonesia phát hiện xác con tàu hôm 25/4 ở độ sâu 838m, ở vị trí không xa nơi con tàu đã lặn xuống. Toàn bộ 53 thủy thủ trên tàu đều được xác nhận đã thiệt mạng.
-Hình ảnh được cho là xác tàu ngầm KRI Nanggala 402 được tàu cứu hộ ghi lại ở độ sâu hơn 800m (Ảnh: Guardian).
-Giới chức hải quân Indonesia loại trừ giả thuyết con tàu gặp nạn do lỗi con người, đồng thời bác bỏ ý kiến cho rằng thảm kịch là do sai sót trong quá trình nâng cấp.
-Họ cho rằng, con tàu có thể đã gặp sự cố mất điện và chìm xuống độ sâu khoảng 600m - 700m, vượt quá giới hạn tối đa 500m mà con tàu có thể chống chịu, do vậy con tàu bị nứt vỡ làm nhiều mảnh do áp suất của nước. Lực lượng tìm kiếm đã vớt được một mảnh vỡ được cho là từ bệ phóng ngư lôi của tàu ngầm cùng một số vật dụng cá nhân, một mảnh áo thoát hiểm. Theo giới chức Indonesia, áo thoát hiểm này vốn được cất trong "hộp khẩn cấp", rất có thể thủy thủ trên tàu đã lấy nó ra khi con tàu gặp nạn nhưng không kịp mặc.
-Một số ý kiến cho rằng, con tàu 44 tuổi này gặp nạn do đã quá cũ và chở quá số người quy định tối đa 38 người. Tuy nhiên, tất cả chỉ dừng lại ở phán đoán.
-Trong thời gian tới, Indonesia muốn trục vớt con tàu và thủy thủ đoàn với sự hỗ trợ của cộng đồng quốc tế nhằm phục vụ quá trình điều tra làm sáng tỏ vụ tai nạn. Các chuyên gia cho rằng, việc trục vớt con tàu ở độ sâu hơn 800m là khả thi nhưng là một thách thức không dễ dàng đòi hỏi nỗ lực hậu cần rất lớn. Hơn nữa, nhiệm vụ này có thể tiêu tốn nhiều thời gian và tài chính.
-Minh PhươngTheo Straits Times
+# url = https://dantri.com.vn/the-gioi/indonesia-phat-hien-manh-moi-quan-trong-vu-tau-ngam-cho-53-nguoi-mat-tich-20210421204841533.htm
+# date = 20210421
+Tàu ngầmKRI Nanggala 402 (Ảnh: Getty).
+Reuters đưa tin, Bộ Quốc phòng Indonesia cho hay nỗ lực tìm kiếm từ trên không tàu ngầm KRI Nanggala-402 đã phát hiện ra một vết tràn dầu ở gần nơi con tàu chìm xuống trước đó.
+"Đội tìm kiếm trên trực thăng đã phát hiện vết tràn dầu ở nơi tàu ngầm chìm xuống", quân đội Indonesia thông báo.
+Sáng sớm ngày 21/4, KRI Nanggala-402 biến mất bí ẩn khi nó đang thực hiện một cuộc tập trận ngư lôi ở phía bắc đảo Bali. Vị trí mất tích cách Bali 95 km.
+Đại diện phía lực lượng vũ trang quốc gia Indonesia cho hay, khi tàu được cho phép lặn xuống, liên lạc đã bị đứt đoạn ngay lập tức.
+Ngoài tìm kiếm bằng trực thăng, quân đội Indonesia đã cấp tập điều 2 tàu hải quân với khả năng sử dụng sóng âm phản xạ để tìm kiếm tàu mất tích. Trong các tàu này, có một tàu khảo sát thủy văn. Ngoài ra, Indonesia cũng đề nghị Singapore và Australia hỗ trợ vì những nước này sở hữu tàu cứu hộ tàu ngầm.
+Tàu ngầm mất tích nằm trong số 5 tàu của Indonesia đang hoạt động trong biên chế, gồm 2 chiếc do Đức đóng hàng chục năm trước (bao gồm KRI Nanggala-402), cùng 3 tàu ngầm mới hơn do Hàn Quốc đóng.
+Truyền thông địa phương đưa cho biết, hải quân Indonesia cho rằng tàu ngầm mất tích đã chìm xuống khu vực ở độ sâu 700 mét.
+Con tàu mất tích được Đông Đức đóng năm 1979 và vào biên chế Indonesia năm 1981.
+Đức Hoàng
+Theo Reuters

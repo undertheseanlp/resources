@@ -1,27 +1,35 @@
 # doc_id = news_science_267
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/xe-tang-mau-hong-va-su-that-dang-sau-cach-dung-mau-sac-thu-vi-20210429063345555.htm
-# date = 20210429
-Một chiếc xe tăng được sơn màu hồng tại vườn Havana (Cuba). Ảnh: Havanatimes
-Trong các tài liệu lịch sử, đôi khi chúng ta bắt gặp những cỗ xe tăng hay thậm chí tàu chiến được sơn màu hồng đầy độc đáo. Liệu phương pháp này có phải chỉ để cho đẹp?
-Cuộc cách mạng về sử dụng màu sắc trên phương tiện
-Sĩ quan Louis Mountbatten - người phát minh và ứng dụng màu hồng tím trên tàu chiến hiệu quả. Ảnh: Wikipedia
-Nếu như đây được xem là một cuộc cách mạng, thì Louis Mountbatten có lẽ là người đã khởi xướng ra nó.
-Mountbatten (1900 - 1979) là một sĩ quan thuộc Hải quân Hoàng gia Anh, từng giữ chức Tư lệnh Đồng minh Tối cao, Bộ Tư lệnh Đông Nam Á.
-Năm 1940, khi hộ tống một đoàn tàu trên biển vào lúc hoàng hôn, Mountbatten nhận thấy có một số tàu trong đoàn đã biến mất khỏi tầm nhìn sớm hơn nhiều so với những chiếc còn lại.
-Một trong số đó là chiếc tàu chở khách Union-Castle, được sơn màu xám - hồng tím, hay sự pha lẫn giữa màu hoa cẩm quỳ và hoa oải hương.
-Mountbatten nhanh trí nhận thấy đây có thể là một phương pháp ngụy trang mang lại lợi thế cho tàu chiến trước kẻ thù. Điều đáng chú ý là nó đặc biệt hiệu quả trong những thời điểm mấu chốt của một trận đánh, là lúc bình minh và hoàng hôn.
-Ngay lập tức, ông ra lệnh sơn tất cả các tàu khu trục của hạm đội dưới quyền sáng màu xám pha hồng tím tương tự tàu Union-Castle.
-Về sau này, Mountbatten cũng đã được sử dụng để đặt tên cho gam màu đặc trưng do chính ông sử dụng, có mã hex #997A8D.
-Tàu Union-Castle với gam màu xám pha hồng tím đặc trưng. Ảnh: Amazon
-Ứng dụng rộng rãi trong quân sự
-Từ lâu, người ta đã có cách tư duy sử dụng địa hình để chọn màu cho phương tiện, cũng như các trang phục quân sự.
-Thí dụ như khi chiến đấu trong rừng, quân đội sẽ chọn màu xanh rằn ri pha đen, khi chiến đấu trên biển, họ chọn màu xanh dương và xám. Điều tương tự với màu trắng khi chiến đấu trên tuyết.
-Tuy nhiên, cách tư duy và ứng dụng màu sắc thú vị của Mountbatten đã truyền cảm hứng cho rất nhiều đơn vị quân sự nổi tiếng trên toàn thế giới.
-Một số minh chứng điển hình như tàu USS Winslow của hải quân Mỹ, tàu Schnellboot S-147 của Đức quốc xã, tàu tuần dương HMS Kenya của hải quân Anh,... đã sử dụng "màu Mountbatten" để chiếm lợi thế trên chiến trường.
-Tàu USS Winslow . Ảnh: NavHistory
-Máy bay Spitfire PR11 mã danh "365" được sơn màu hồng. Ảnh: Wikipedia
-Mẫu xe đặc chủng Land Rover IIА-109 SAS khá nổi tiếng được sơn màu hồng để tránh bị phát hiện trên sa mạc.
-Không chỉ được sơn cho tàu chiến, màu độc đáo này còn được áp dụng cho các phương tiện và khí tài quân sự trên mặt đất và hàng không.
-Đặc biệt, người ta nhận thấy màu hồng hòa quyện rất tốt với cát trên địa hình sa mạc, và gần như không thể phân biệt được trên mặt đất vào thời điểm bình minh và hoàng hôn.
-Điều này phổ biến tới mức cho đến ngày nay, tông màu hồng vẫn được sử dụng cho một số kiểu ngụy trang trên địa hình sa mạc.
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/xem-chu-ky-doan-tinh-nguoi-duoi-goc-do-khoa-hoc-20210414150953404.htm
+# date = 20210414
+Phân tích chữ viết từ lâu đã bị giới khoa học xem là một ngành "giả khoa học", mà thuộc nhiều hơn về bộ môn "phong thủy".
+Tuy nhiên, vẫn có một số nghiên cứu với lập luận chặt chẽ, khẳng định rằng phương pháp của họ là đáng tin cậy trong việc phân tích chữ ký thay vì những nét viết chung.
+Giống như ông bà ngày xưa có câu "nét chữ nết người", ý nói chữ viết của con người phản ánh tính cách của chúng ta, thì những nhìn nhận về chữ ký dưới góc độ khoa học cũng cho rằng đây không chỉ đơn thuần là một ký hiệu báo danh tính của cá nhân, mà còn có ảnh hưởng rất lớn đến tính cách và thành công của chúng ta.
+Chữ ký càng lớn, càng nhiều cơ hội làm lãnh đạo
+Với nam giới, chữ ký mang kích thước lớn thường đi đôi với những nét tính cách tự tin và tham vọng. (Ảnh: Internet)
+Theo một nghiên cứu được đăng trong cuốn tạp chí Journal of Research in Personality, mối tương quan giữa kích thước chữ ký và tính cách cá nhân là hoàn toàn có cơ sở khoa học.
+Cuộc nghiên cứu đã tiến hành khảo sát và lấy mẫu chữ ký của các sinh viên từ 340 trường đại học ở Uruguay, bao gồm 192 nữ và 148 nam. Kết quả cho thấy, những sinh viên có chữ ký với kích thước lớn thường có tham vọng leo cao trên các thứ bậc xã hội.
+Cụ thể, nghiên cứu này đo kích thước chữ ký thông qua việc phác thảo ra một đa giác nhỏ nhất có thể chứa trọn vẹn chữ ký đó. Họ cũng kiểm soát những biến số khác, ví dụ như số lượng chữ cái xuất hiện trong chữ ký
+Sau cùng, những đối tượng tham gia nghiên cứu được đề nghị làm một bài trắc nghiệm về tính cách tâm lý, cũng như trả lời một vài câu hỏi về bản thân.
+Kết quả không nằm ngoài dự liệu, khi đối với nam giới, chữ ký mang kích thước lớn thường đi đôi với những nét tính cách tự tin và tham vọng.
+Chữ ký của Cựu Tổng thống Donald Trump cho thấy sự năng động, tham vọng, dũng cảm và tự tin. (Ảnh: Internet)
+Chữ ký phát hiện chứng "ái kỷ"
+"Ái kỷ", hay còn gọi là bệnh tự yêu mình (tên khoa học là "narcissistic personality disorder") được xem là một dạng rối loạn nhân cách khi một người có biểu hiện tự cao, ảo tưởng, thiếu đồng cảm với người khác.
+Trong cùng khảo sát nêu trên, các nhà khoa học phát hiện thấy có sự liên kết giữa kích thước chữ ký và chứng "ái kỷ", đúng trong trường hợp cả nam và nữ.
+"Một chữ ký lớn là tín hiệu cho thấy xu hướng muốn nổi bật, yêu bản thân mình, và chiếm được vị trí chủ chốt giữa một nhóm người", Tiến sĩ Charles Ham - một trong những tác giả của nghiên cứu cho hay.
+Chữ cái đầu tiên trong chữ ký
+Người viết chữ cái đầu tiên in hoa, to, rõ ràng thường là những người tự tin, mạnh mẽ, độc lập và quyết đoán. Bạn sống có hoài bão lớn và luôn có kế hoạch để thực hiện những hoài bão đó.
+Chữ cái đầu tiên in hoa, to, rõ ràng chứng tỏ bạn là người tự tin, mạnh mẽ. (Ảnh: Internet)
+Chữ cái đầu là chữ cái thường biểu lộ bạn là người thích sự giản dị, chậm rãi và yêu chuộng cuộc sống giản đơn. Bạn không có tham vọng lớn và dễ dàng cảm thấy hài lòng trong cuộc sống.
+Người dùng chữ đầu tiên là chữ hoa, kiểu cách thường là những người lãng mạn. (Ảnh: Internet)
+Người dùng chữ đầu tiên là chữ hoa kiểu cách hoặc thay chữ đầu tiên bằng ký tự đặc biệt chẳng hạn như thay chữ S bằng khóa Sol, chữ A bằng ngôi sao là những người khá yêu thích sự bay bổng, lãng mạn. Những người này thường là nghệ sĩ hoặc người làm việc trong lĩnh vực có liên quan đến nghệ thuật.
+Độ nghiêng của chữ ký
+Chữ kí nghiêng, hướng lên trên biểu thị bạn là người khá tham vọng và chú trọng vào sự nghiệp. (Ảnh: Internet)
+Người có chữ kýhướng lên trên là những người khá tham vọng, chú trọng đến thành công trong sự nghiệp và luôn làm mọi điều để tiến về phía trước.
+Chữ kýngang biểu lộ bạn là những người có cuộc sống luôn cân bằng, không bon chen, hối hả. Bạn cũng là người ưa chuộng sự yên tĩnh và bình yên trong cuộc sống.
+Chữ kýhướng xuống cho thấy bạn thiếu tự tin vào bản thân, ý chí không mạnh mẽ. Những người này thường kém tham vọng và khó thành công trong cuộc sống.
+Nét gạch dưới chữ ký
+Một nét gạch dưới chữ kýhướng lên chứng tỏ bạn là người ý thức tốt về giá trị của bản thân, có xu hướng tự trọng rất cao nhưng lại biết cách cư xử chừng mực trong các mối quan hệ xã hội.
+Nét ngang đâm xuyên chữ ký biểu thị người có nội tâm khá phức tạp. (Ảnh: Internet)
+Người có nét gạch xuyên qua chữ kýcó nội tâm khá phức tạp, thường hay mâu thuẫn với chính bản thân mình. Những người này hay thay đổi chủ kiến và rất khó tiến đến thành công trong cuộc sống.
 Minh Khôi
+Tổng hợp

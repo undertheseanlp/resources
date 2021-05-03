@@ -1,15 +1,24 @@
 # doc_id = news_travel_164
-# url = https://dantri.com.vn/du-lich/loai-hoa-moc-tu-than-dep-ngo-ngang-hut-du-khach-checkin-o-phu-yen-20210331151001079.htm
-# date = 20210331
-Về với Cao nguyên Vân Hòa những ngày này, chúng ta sẽ cảm nhận được không khí mát mẻ, trong lành, những dãy núi trùng trùng điệp điệp, mây trắng lơ lửng bay.
-Để đến được Vân Hòa, từ TP. Tuy Hòa du khách đi về hướng Bắc đến Hòa Đa, rẽ trái chừng 20km là đến nơi. Ngoài ngắm cảnh, vào những ngày này, hoa đỏ đang nở rộ, đẹp ngỡ ngàng, vì vậy nếu có dịp du khách nên ghé thăm một lần để chiêm ngưỡng.
-Hầu hết các vườn đỏ đẹp, nổi tiếng đều tập trung ở thôn Liên Sơn, xã Sơn Xuân (H. Sơn Hòa, Phú Yên).
-Theo ông Nguyễn Văn Bình (chủ vườn đỏ) cho biết, hoa đỏ bắt đầu nở vào tháng giêng (âm lịch) đến tháng giữa tháng 3 và tháng 4 thì kết trái.
-Hoa đỏ có nhiều màu, nhưng chủ yếu là màu đỏ...
-và màu vàng...
-Ngoài ra, còn có màu xanh chuối non lạ mắt.
-Khác với loài cây khác, hoa đỏ mọc từ thân và kết trái từ gốc lên phía trên.
-Được biết, mỗi năm vào mùa đỏ chín đã thu hút hàng ngàn lượt khách đến tham quan, chụp ảnh tại các vườn đỏ ở Cao nguyên Vân Hòa.
-"Cụ đỏ" hơn 120 năm tuổi hoa nở rộ khắp thân.
-Hoa đỏ mọc kín thân vào những ngày cuối tháng 3 và đang vào giai đoạn kết trái.
-Trung Thi
+# url = https://dantri.com.vn/du-lich/ly-do-nhieu-nguoi-an-do-muon-duoc-hoa-tang-o-song-hang-20210429102330022.htm
+# date = 20210429
+Varanasi nằm bên bờ sông Hằng ở Ấn Độ là một trong những thành phố có người định cư liên tục lâu đời nhất thế giới.
+Đây cũng là một trong 7 thành phố linh thiêng của Ấn Độ giáo. Người ta tin rằng, nếu một người được hỏa táng ở Varanashi và tro cốt của họ được thả xuống dòng nước thiêng và tinh khiết của sông Hằng, vòng luân hồi sẽ kết thúc và đến được Niết Bàn.
+Mỗi ngày, Manikarnika Ghat - bãi hỏa thiêu có khoảng 100 thi thể được hỏa táng trên các giàn hỏa thiêu bằng gỗ dọc theo bờ sông Hằng.
+Braj Kishore Panday, người điều hành hỏa táng bên sông ở New Delhi từng cho biết: "Theo đạo Hindu, không có lửa, linh hồn không thể được giải thoát hoàn toàn".
+Còn Kesarwani làm việc cho một hệ thống hỏa táng sạch, tiết kiệm năng lượng cho biết: "Hỏa táng là truyền thống lâu đời mà chúng tôi làm theo. Vì vậy, tạo sự thay đổi trong truyền thống này là nhiệm vụ khó khăn".
+Ở Varanasi có 87 bậc thang kiểu này và là nơi cúng dường và tiến hành nghi lễ. (Ảnh: Third Eye Traveller).
+"Ghat" - bậc thang dẫn xuống dòng sông hoạt động suốt ngày đêm, mọi ngày trong một năm. Ở Varanasi có 87 bậc thang kiểu này và là nơi cúng dường và tiến hành nghi lễ. Phần lớn các ghat phục vụ nhu cầu tắm rửa của dân chúng, một số khác là nơi cử hành nghi lễ hỏa táng người đã qua đời.
+Người chết được khiêng xuống nơi hỏa táng.
+Ngày nào cũng có đám tang và người thân đến đưa tang. Một thực tế đáng buồn là những khu nhà trọ của những người muốn chết ở đây đông đúc người già khắp thành phố Varanasi. Nhiều người trong số họ ăn xin cả ngày trên đường phố để dành dụm tiền cho chi phí tang lễ.
+Với những người phương Tây, cách tổ chức tang lễ này nghe có vẻ rùng rợn. Tuy nhiên, Varanasi luôn tràn đầy sức sống và những buổi lễ. Những người lạ đến xem nghi lễ hỏa táng và chia vui với gia đình người thân yêu của họ vì đã nhập cõi Niết Bàn.
+Bãi hỏa táng Manikarnika Ghat ở Varanasi. (Ảnh: DailyMail)
+Trong nhiều thế kỷ, những người theo đạo Hindu đã tìm cách thoát khỏi vòng đời, cái chết và luân hồi bằng cách chết ở Varanasi hoặc hỏa táng trên các "Ghat". Đó là lý do vì sao những người theo đạo Hindu từ khắp Ấn Độ thường chọn sống những ngày cuối đời tại thành phố 5000 năm tuổi này.
+Mukti Bhavan hay "Ngôi nhà cứu rỗi" là khu nhà nghỉ tồi tàn. Đây là nơi những người Hindu trả tiền và sống những ngày cuối đời để được thiêu xác bên sông Hằng ở Varanasi. "Mọi người ở đây trung bình khoảng 15 ngày, có thể 2-3 ngày hoặc 1 tháng. Họ ở lại đây cho đến khi chết", người quản lý cho biết.
+Một thi thể được đưa xuống gần bờ sông để tắm rửa và chuẩn bị hỏa táng ở bãi hỏa táng Manikarnika Ghat. (Ảnh: DailyMail)
+Mối liên hệ giữa thành phố linh thiêng với cái chết đã tạo ra cả ngành công nghiệp tang lễ.
+Trong những con ngõ nhỏ hẹp của thành phố gần các địa điểm hỏa táng, những đám tang nhộn nhịp đi qua, những thi thể quấn trong vải nhiều màu sắc, đặt trên khung tre được khiêng trên vai và hướng về con sông. Đôi khi còn kèm cả tiếng vỗ tay, đánh trống.
+Sự háo hức, phản ánh sức mạnh niềm tin vào sức mạnh tinh thần của thành phố - nơi mà người sùng đạo gọi là "Kashi" - thành phố của ánh sáng.
+Khi Ấn Độ hứng chịu làn sóng dịch Covid-19 thứ 2, những khu hỏa táng trên khắp đất nước rực lửa suốt ngày đêm. Điều này không chỉ do số ca tử vong vì Covid-19 tăng đột biến trong thời gian qua, mà còn vì phong tục hỏa táng người chết ở đất nước này.
+Tại thủ đô New Delhi, nhiều người vẫn phải chờ đợi mòn mỏi bên ngoài trên những chiếc xe cứu thương xếp hàng dài, tại một số nơi, xác chết nằm dọc bên đường trong nhiều giờ. Dù chính quyền đã yêu cầu tăng số giàn thiêu song vẫn chưa thể đáp ứng được nhu cầu.
+Phương Hà
+Theo Independent/ Atlas

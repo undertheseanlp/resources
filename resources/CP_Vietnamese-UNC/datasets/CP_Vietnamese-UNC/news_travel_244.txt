@@ -1,22 +1,33 @@
 # doc_id = news_travel_244
-# url = https://dantri.com.vn/du-lich/toc-nguoi-bi-an-nhat-the-gioi-tu-choi-lien-lac-voi-ben-ngoai-20210330082835943.htm
-# date = 20210330
-Cái chết của một du khách Mỹ khi đến thăm đảo Bắc Sentinel - hòn đảo bị cô lập giữa đại dương đã thu hút sự chú ý của thế giới về những cư dân sống ẩn dật tại hòn đảo nhỏ này.
-Một bức ảnh về hai người đàn ông Sentinelese đang chèo thuyền không được chú thích ngày tháng được phát hành bởi Cơ quan khảo sát nhân chủng học của Ấn Độ.
-Người Sentinelese là một trong số ít nhóm người không có liên lạc với thế giới bên ngoài, và một phần nguyên nhân tới từ sự cô lập về mặt địa lí.
-Đảo Bắc Sentinel chụp từ trên cao.
-Bắc Sentinel là một hòn đảo nhỏ, nằm ngoài các tuyến đường vận chuyển chính, được bao quanh bởi một rạn san hô cạn và không có bến cảng tự nhiên.
-Nguyên nhân còn lại một phần do người dân trên đảo muốn bảo tồn những hệ thống luật pháp được áp dụng bởi chính phủ Ấn Độ và một phần do họ muốn duy trì tính biệt lập của hòn đảo. Trong hơn 200 năm qua, có một vài chuyến thăm tới hòn đảo này và những chuyến thăm đều không kết thúc trong êm đẹp.
-Phản ứng của người Sentinelese khi thấy có tàu lạ xâm nhập vào vùng đảo. (Ảnh: Daily Mail).
-Nhiều năm qua phản ứng của người Sentinelese đối với thế giới bên ngoài luôn là: lao, đá, mũi tên, xác động vật... họ ném bất cứ thứ gì có trong tay về phía những kẻ đặt chân lên đảo.
-Ảnh từ trên một máy bay trực thăng trong lúc làm nhiệm vụ khảo sát cứu hộ đã bị tấn công bằng cung tên khi bay gần lãnh thổ của họ. (Ảnh: Daily Mail).
-Theo điều tra dân số năm 2011, và dựa trên ước tính của các nhà nhân chủng học, có ít nhất 15 người và nhiều nhất lên tới 500 người Sentinelese đang sống trên đảo.
-Người Sentinelese có quan hệ họ hàng với các nhóm bản địa khác ở quần đảo Andaman, một chuỗi các hòn đảo ở Vịnh Bengal của Ấn Độ, nhưng họ đã bị cô lập trong một thời gian dài đến mức các nhóm Andaman khác, như Onge và Jarawa, không thể hiểu được ngôn ngữ của người Sentinelese.
-Người Sentinelese phản ứng trước việc có tàu lạ vào đảo. ( Ảnh: Daily Mail).
-Kể từ sau những năm 1991, càng ngày dân Sentinelese càng hung hăng, tách biệt hơn. Với thảm họa sóng thần khủng khiếp năm 2004, họ chứng minh rằng họ vẫn sống sót tốt mà không cần có bất kỳ mối liên hệ nào với thế giới bên ngoài.
-Do đó, những nỗ lực tiến vào bên trong hòn đảo để nghiên cứu được xem như không còn cần thiết.
-Một người đàn ông giương cung bắn máy bay cứu hộ vào năm 2014. (Ảnh: Daily Mail).
-Chính phủ Ấn Độ từ lâu cũng đã cấm người dân và du khách tiến vào khu vực 8km quanh đảo Bắc Sentinel. Thậm chí, quay phim và ghi hình bộ tộc này cũng bị cấm.
-Quan trọng hơn bộ luật này với mục đích đảm bảo sự tồn tại của một trong những bộ tộc lâu đời nhất hành tinh - con người hiện đại tốt nhất không nên cố gắng tiếp xúc với bộ tộc này, vì về cơ bản họ không có khả năng tự bảo vệ mình đối với những thay đổi của thế giới hiện đại.
-Hằng Đoàn
-Theo Forbes
+# url = https://dantri.com.vn/du-lich/ve-hung-vi-doc-con-duong-hanh-phuc-tren-cao-nguyen-da-ha-giang-20210422093041155.htm
+# date = 20210422
+Đậm sắc màu Hà Giang trên "con đường hạnh phúc"
+Nhắc đến Hà Giang, du khách sẽ không khỏi thu hút bởi những cái tên như: Cột cờ Lũng Cú, nhà Vương vua Mèo, dốc Thẩm Mã, cổng trời Quản Bạ… đậm sắc màu Đông Bắc với cảnh sắc hùng vĩ.
+Ngày nay, nếu du khách đến với Hà Giang, điểm cực bắc tổ quốc với cột cờ Lũng Cú lừng lững giữa đất trời, du khách sẽ được trải nghiệm sự hiểm trở, khúc khủyu của "con đường hạnh phúc" dẫn đến cao nguyên đá Đồng Văn, quốc lộ 4C.
+Nghĩa trang Vị Xuyên
+Trước khi khám phá Hà Giang, nghĩa trang liệt sĩ Vị Xuyên là điểm đến đầu tiên của du khách, nơi đây được khởi công xây dựng từ năm 1990, là nơi yên nghỉ của trên 1.800 liệt sĩ.
+Nghĩa trang liệt sĩ Quốc gia Vị Xuyên (tỉnh Hà Giang) nằm cạnh QL2, cách TP Hà Giang khoảng 18 km về phía Hà Nội. Nghĩa trang liệt sĩ Quốc gia được xây dựng trên diện tích 1,2HA nằm tựa lưng vào dãy núi Tây Côn Lĩnh, hướng ra phía trước là dòng sông Lô lịch sử.
+Nơi đây trở thành "ngôi nhà chung" của các liệt sĩ đã anh dũng chiến đấu hy sinh trong cuộc chiến bảo vệ biên giới phía Bắc và các liệt sĩ thuộc 32 tỉnh, thành từ Bình Trị Thiên trở ra. Du khách nhận những nén hương từ hướng dẫn viên, thành kính hướng về nơi yên nghỉ của các chiến sĩ với lòng biết ơn vô hạn, khởi đầu hành trình với nhiều cảm xúc.
+Cổng trời Quản Bạ
+Là một trong những thắng cảnh nổi tiếng của tỉnh Hà Giang. Đây được ví như là ranh giới giữa trời và đất.
+Từ cổng trời, phóng tầm mắt ra xa, bạn sẽ được chiêm ngưỡng một bức tranh phong cảnh tuyệt đẹp với núi rừng bao la, những thửa ruộng bậc thang xanh ngắt và thung lũng tam giác mạch khi mùa về.
+Dốc Thẩm Mã
+Một trong những nơi để lại ấn tượng nhiều nhất cho du khách khi đến với mảnh đất này phải kể đến là dốc Thẩm Mã, một trong những cung đường huyền thoại đầy mạo hiểm mà bất cứ phượt thủ nào khi đam mê cũng đều muốn được chinh phục nó.
+Mặc dù có độ dốc cao cùng những khúc cua tay áo nguy hiểm bậc nhất nhưng cũng đẹp bậc nhất trong cung đường phượt Đông Bắc Việt Nam.
+Con dốc Thẩm Mã nối từ Yên Minh tới Phố Cáo. Chính vì nối hai địa danh nổi tiếng trong hành trình du lịch Hà Giang nên hầu như những ai tới đây đều phải đi qua con dốc này. Tên gọi của con dốc cũng khá cuốn hút người ta khám phá.
+Theo những người già làng kể lại, công cụ di chuyển xưa kia gần như duy nhất chỉ phụ thuộc vào sức ngựa.
+Và để thẩm định cũng như đánh giá ngựa tốt hay không, người ta thường cho ngựa chở hàng nặng từ chân dốc lên đến đỉnh. Chú ngựa nào vượt qua được sẽ được giữ lại để làm công cụ phục vụ sản xuất còn nếu không sẽ bị làm thịt. Dốc Thẩm Mã hiểu nôm na là con dốc dùng để thẩm định sức ngựa.
+Cột cờ Lũng Cú
+Theo quốc lộ 4C ngược lên phía đông bắc khoảng 160km, du khách sẽ đến xã Đồng Văn, huyện Đồng Văn. Từ đây, tiếp tục xuôi theo con đường trải nhựa nối liền hai xã Lũng Cú - Đồng Văn khoảng 40km, du khách sẽ đến với đỉnh Lũng Cú.
+Từ xa, Lũng Cú hiện ra thật sinh động với vùng đất với 3/4 là đá, nổi bật lên là cột cờ Tổ quốc có hình dáng giống cột cờ Hà Nội, trông xa giống như một ngọn tháp, xung quanh là phong cảnh núi rừng hùng vĩ, trùng điệp...
+Bà con dân tộc ở Lũng Cú chủ yếu là làm nương rẫy và làm ruộng bậc thang. Riêng đồng bào dân tộc Mông và Lô Lô vẫn bảo tồn nghề dệt truyền thống với các công đoạn làm sợi lanh, dệt vải. Trong ảnh chính là những thiếu nữLô Lô, trong làng Lô Lô Chải nằm cạnh cột cờ Lũng Cú đang ngồi thêu thổ cẩm.
+Dinh thự hoành tráng giữa cao nguyên Đồng Văn
+Dinh thự vua Mèonằm giữa thung lũng Sà Phìn, huyện Đồng Văn, trên một khối đất nổi cao như hình mai rùa, tượng trưng cho thần Kim Quy, bao quanh bởi một dải núi hình vòng cung, tạo nên địa thế phòng thủ rất tuyệt vời.
+Toàn bộdinh thự vua Mèocó diện tích gần 3.000m2, bắt đầu được xây dựng vào năm 1919, hoàn thành vào năm 1928. Thời điểm xây dựng dinh thự, nơi đây chưa hề có máy móc, đường sá thì hiểm trở vô cùng. Do đó, dinh thự hoàn toàn do sức lực đồng bào người H'mông ở đây làm thủ công.
+Khu dinh thự ngày nay được nhà nước công nhận là Di tích quốc gia từ năm 1993. Điểm nhấn nữa của dinh là nghệ thuật điêu khắc trong các phần của dãy nhà, mang đậm dấu ấn củadòng họ Vương.
+Nhiều chi tiết bằng đá của tòa nhà được chạm khắc cầu kỳ, khéo léo mang các biểu tượng cho sự phú quý, hưng thịnh. Những chân cột được chạm khắc hình cuống quả thuốc phiện to như cái chum, giống đến từng chi tiết, được mài cho thật bóng bằng bạc trắng.
+Dinh thự vua Mèo Vương Chính Đứcđã và đang trở thànhđịa điểm du lịch nổi tiếng tạiHà Giangxinh đẹp mà du khách không thể bỏ lỡ.
+Ngày 10/9/1959 là ngày khởi công mở đường Hạnh Phúc lên Cao nguyên đá Đồng Văn. Trải qua bao gian khổ, hy sinh với sự tham gia của trên 1.200 dân công và sự giúp đỡ của trên 1.000 thanh niên xung phong các tỉnh, đến ngày 20/3/1965, con đường đã hoàn thành.
+Điểm đầu con đường từ phường Quang Trung, thành phố Hà Giang và kết thúc ở thị trấn Mèo Vạc với chiều dài 185km. Ngày công thực hiện là 2.246.321với khối lượng 2.899.638m3 đất đá. Chi phí làm đường vào thời giá khoảng những năm 60 của thế kỷ trước hết trên… 5,5 triệu đồng.
+Gần 60 năm sau ngày con đường Hạnh Phúc hoàn thành, từ chỗ Cao nguyên đá lạnh lẽo ngày nào, nay đời sống của đồng bào các dân tộc được thay đổi, vươn lên mạnh mẽ. Hàng ngày, có hàng ngàn lượt xe ô tô bon bon ngược xuôi trên tuyến đường Hạnh Phúc. Rất đông trong số đó là du khách tìm về nơi địa đầu tổ quốc.
+Phạm Nguyễn

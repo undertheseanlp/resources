@@ -1,27 +1,18 @@
 # doc_id = news_tech_183
-# url = https://dantri.com.vn/suc-manh-so/nokia-ra-mat-6-smartphone-moi-dinh-hinh-3-phan-khuc-gia-tu-2-8-trieu-20210409052646584.htm
-# date = 20210409
-Tối 8/4, Nokia chính thức ra mắt tổng cộng 6 smartphone thuộc 3 dòng C, G và X series tại một sự kiện được tổ chức trực tuyến.
-Trong đó, series X cao cấp nhất phô diễn sức mạnh phần cứng và mang đến những trải nghiệm tốt nhất cho người dùng, series G có hiệu năng đủ đáp ứng nhu cầu cơ bản đi kèm thời lượng pin cao nhất, còn series C là smartphone cơ bản, với giá rẻ, hướng đến đối tượng người mới làm quen.
-Nokia X10 | X20 5G
-Cả hai chiếc smartphone ở phân khúc cao cấp của Nokia đều sở hữu cấu hình bên trong và thiết kế gần như tương đồng. Khác biệt đáng kể nhất giữa hai mẫu máy chủ yếu đến từ camera.
-Cụ thể, X20 có camera chính 64MP đi kèm bộ chỉnh sửa màu chuyên nghiệp. Ba camera còn lại lần lượt là camera góc siêu rộng 5MP, camera macro 2MP và camera đo độ sâu 2MP. Camera trước với sở hữu ống kính tiêu cự cố định 32MP.
-Trong khi đó, Nokia X10 có camera chính phía sau độ phân giải chỉ 48MP còn các camera phụ giống như X20. Ở phía trước, camera selfie của X10 cũng giảm xuống còn 8MP, thay vì là ống kính tiêu cự cố định 32MP như trên X20.
-Về thiết kế, cả hai máy đều sở hữu màn hình đục lỗ 6.67 inch, độ phân giải Full HD+. 4 camera sau của X10 và X20 được đặt trong một module tròn.
-Về cấu hình, Nokia X10 và X20 cùng được trang bị chip Snapdragon 480 5G (tiến trình 8nm) với hai lõi Kryo 460 Gold lõi (A76) và sáu lõi nhỏ đi kèm cùng với GPU đồ họa Adreno 619.
-Cả hai mẫu smartphone cao cấp của Nokia đều sử dụng pin 4470 mAh, có hỗ trợ sạc nhanh 18W.
-Giá khởi điểm của X10, X20 lần lượt là 309 euro (8,5 triệu VNĐ) và 349 euro (9,6 triệu VNĐ). Dự kiến, Nokia X20 sẽ có mặt trên thị trường vào tháng 5 trong khi X10 sẽ lên kệ muộn hơn vào tháng 6.
-Nokia G10 | G20
-Bộ đôi smartphone tầm trung của Nokia nổi bật với thời lượng pin lớn 5050 mAh, hỗ trợ sạc nhanh 10W.
-Về mặt thiết kế, bộ đôi này có ngoại hình giống hệt nhau, với màn hình tai thỏ 6.5 inch, độ phân giải HD+.
-Sự khác biệt của 2 mẫu máy nằm ở camera, khi G10 chỉ có 3 camera với ống kính chính 13MP, ống kính macro 2MP và ống kính chiều sâu 2MP, thì G20 trang bị cụm 4 camera với ống kính chính 48MP, ống kính góc siêu rộng 5MP, ống kính macro 2MP và ống kính chiều sâu 2MP.
-Một khác biệt nữa nằm ở phần cứng của 2 mẫu máy, khi Nokia G10 chạy chip Helio G25, Nokia G20 chạy chip Helio G35.
-Giá quy đổi của Nokia G10 và G20 lần lượt là 4 triệu VNĐ, và 4.5 triệu VNĐ.
-Nokia C10 | C20
-Bộ đôi này được thiết kế để hướng tới phân khúc khách hàng lần đầu sử dụng smartphone. Do đó cấu hình của máy chỉ đi kèm bản Android 11 Go, được lược bỏ bớt một số tính năng để đổi lấy trải nghiệm mượt mà.
-Cả hai đều có màn hình LCD 6,52 inch, độ phân giải HD+ cùng thiết kế tai thỏ.
-Về mặt phần cứng, Nokia C20 được trang bị chip Unisoc SC9863a tốc độ 1.6 GHz. Trong khi C10 sử dụng chip Unisoc SC7331e tốc độ 1,3 GHz. Cả hai sẽ đều bắt đầu với RAM từ 1GB nhưng có tùy chọn nâng cấp lên 2GB.
-Nokia C10 và C20 có pin 3.000 mAh với khả năng sạc 5W qua cổng microUSB.
-Về kết nối, chỉ có Nokia C20 được trang bị 4G, tức Nokia C10 chỉ có kết nối 3G.
-Mức giá quy đổi được Nokia công bố lần lượt là 2,1 triệu VNĐ đối với C10, và 2,5 triệu VNĐ đối với C20.
-Nguyễn Nguyễn
+# url = https://dantri.com.vn/suc-manh-so/nu-youtuber-noi-tieng-va-nong-bong-gay-soc-khi-lo-danh-tinh-that-20210408130816916.htm
+# date = 20210408
+Cô gái có tên Chiharu chỉ bắt đầu sự nghiệp làm Youtuber của mình từ tháng 12 năm ngoái, nhưng đến cuối tháng 3/2021, kênh Youtube của cô đã có hơn 20.000 người đăng ký theo dõi. Dù mới chỉ đăng tải 6 clip lên kênh Youtube của mình, cái tên Chiharu đã trở nên nổi tiếng trên mạng xã hội và được nhiều người biết đến.
+Nữ Youtuber Chiharu sở hữu thân hình "nóng bỏng" nên nhanh chóng thu hút sự chú ý của cư dân mạng.
+Một trong những lý do giúp Chiharu trở nên nổi tiếng trên mạng xã hội đó là cô sở hữu một thân hình "nóng bỏng". Những đoạn clip của cô có nội dung khá đơn giản, quay lại những buổi tập thể dục hoặc chạy bộ vào buổi tối, với máy quay thường hướng về "vòng một" đầy đặn của cô gái này. Điều đặc biệt đó là Chiharu không hề lộ mặt trong những đoạn video của mình, mà gương mặt của cô được giấu sau lớp khẩu trang. Chiharu cũng không hề nói lời nào trong tất cả các đoạn video được đăng lên Youtube.
+Nhiều người hâm mộ Chiharu cho biết họ rất nóng lòng muốn biết được dung nhan thật của nữ Youtuber "nóng bỏng" này đằng sau lớp khẩu trang. Mới đây, ước muốn của họ đã được đáp ứng.
+Nhân kỷ niệm kênh Youtube cán mốc 20.000 người đăng ký, mới đây, Chiharu đã đăng tải một đoạn video lên kênh Youtube của mình. Tuy nhiên, trong đoạn video, thay vì cô gái "nóng bỏng" thường thấy, là sự xuất hiện của một người đàn ông trung niên với nụ cười gượng gạo.
+Trong đoạn clip, người đàn ông này cho biết mình đã 37 tuổi và thừa nhận rằng anh chính là Chiharu. Người này cho biết mình đã nảy ra ý tưởng trở thành Youtuber vào năm ngoái, sau khi bị mất việc do ảnh hưởng bởi đại dịch. Tệ hơn nữa, chú chó cưng của người này bị chẩn đoán mắc ung thư và phải tốn nhiều tiền để chữa trị. Biết rằng những cô gái "nóng bỏng" thường thu hút rất đông sự chú ý của cư dân mạng, người đàn ông này đã quyết định tự mình hóa thân thành một cô gái như vậy.
+Đội một bộ tóc giả dài, đeo khẩu trang để che giấu gương mặt thật và sử dụng một bộ ngực giả bằng silicon, người đàn ông này đã tự biến mình thành một cô gái "nóng bỏng" với biệt danh Chiharu. Ngoài ra, người này còn dùng ứng dụng di động để xử lý gương mặt của mình từ nam sang nữ, trước khi đăng tải những hình ảnh lên mạng xã hội.
+Người này cho biết đã thực hiện ý tưởng trở thành một cô gái "nóng bỏng" trên Youtube mà không hề nói với vợ mình.
+Dung nhan thực sự của "cô nàng" Chiharu khiến nhiều người "ngã ngửa".
+Để có thể đặt quảng cáo và kiếm tiền từ Youtube, mỗi kênh Youtube sẽ cần phải có tối thiểu 1.000 người đăng ký theo dõi và 4.000 giờ xem video trong 12 tháng gần nhất. Đây là cột mốc không dễ dàng gì đạt được. Tuy nhiên, kênh Youtube của Chiharu đã nhanh chóng đạt được cột mốc này và bản thân Chiharu cũng không thể ngờ rằng mình lại có thể trở nên nổi tiếng trên Youtube trong một thời gian ngắn như vậy.
+Số lượng người đăng ký kênh Youtube của Chiharu liên tục tăng, khiến anh phải tự hỏi về đạo đức của mình. Trong đoạn clip hé lộ danh tính thật, Chiharu cho biết anh đã suy nghĩ rất nhiều và quyết định không thể lừa dối người xem thêm nữa và anh không muốn xây dựng sự nghiệp Youtuber bằng sự lừa dối.
+Để chứng minh lời nói của mình là thật, người đàn ông này đã trưng ra những thứ phụ kiện giúp anh có thể hóa thân thành cô nàng Chiharu "nóng bỏng", bao gồm mái tóc giả, bộ ngực silicon cỡ lớn, trang phục phụ nữ… ngoài ra, người đàn ông này cũng phải sử dụng thành thạo các loại phấn nền và mascara để giúp cho gương mặt của mình trở nên lung linh hơn, dù đã bị che bởi lớp khẩu trang.
+Ngay sau khi tiết lộ về danh tính và giới tính thật, số lượng người đăng ký kênh của Chiharu đã giảm từ hơn 20.000 xuống chỉ còn hơn 18.000. Nhiều người đã bày tỏ sự phẫn nộ vì bị lừa dối lâu nay, tuy nhiên, nhiều người cũng đã thể hiện sự ngưỡng mộ cho những cống hiến của Chiharu, và đặc biệt là mục đích kiếm tiền của anh để chữa bệnh cho thú cưng.
+Hiện chưa rõ hướng đi trong tương lai của kênh Youtube Chiharu là gì, nhưng nhiều khả năng anh sẽ tận dụng kỹ năng trang điểm của mình để thực hiện những video hướng dẫn trang điểm cho người xem.
+T.ThủyTheo OC/SoMag

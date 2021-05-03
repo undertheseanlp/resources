@@ -1,10 +1,10 @@
 # doc_id = news_travel_095
-# url = https://dantri.com.vn/du-lich/don-gan-15-trieu-khach-du-lich-trong-quy-1-dat-doanh-thu-hon-900-ty-20210330222108274.htm
-# date = 20210330
-Theo thống kê, trong quý 1 năm 2021, lượng khách du lịch đến các khu, điểm du lịch của Hà Nam đạt 1.490.300 lượt khách, trong đó khách nội địa 1.471.300 lượt, khách quốc tế 19.000 lượt (đạt 46% kế hoạch năm). Doanh thu du lịch ước đạt hơn 900 tỷ đồng (đạt 40% so với kế hoạch năm).
-Khu du lịch Tam Chúc một trong những điểm thu hút khách du lịch.
-Theo Cục Thống kê, doanh thu dịch vụ lưu trú, ăn uống trên địa bàn tỉnh Hà Nam 3 tháng đầu năm đạt 547 tỷ đồng, tăng 12,6%; doanh thu du lịch lữ hành đạt 22,5 tỷ đồng, tăng 4,5%; doanh thu dịch vụ khác 913,9 tỷ đồng, tăng 8,5%.
-So với cùng kỳ năm 2020, tổng lượt khách các cơ sở lưu trú phục vụ tăng 25,7%, ngày khách phục vụ tăng 25,5%; lượt khách du lịch theo tour tăng 19,5%, ngày khách du lịch theo tour tăng 14,7%.
-Sở Văn hóa - Thể thao và Du lịch hướng dẫn các khu, điểm, các cơ sở lưu trú, kinh doanh dịch vụ du lịch tiếp tục triển khai các biện pháp cấp bách phòng, chống dịch bệnh Covid-19, triển khai thực hiện nghiêm các văn bản chỉ đạo của các cấp các ngành đối với công tác phòng, chống dịch bệnh Covid-19.
-Không để lây lan dịch bệnh trong hoạt động du lịch; tăng cường tuyên truyền, hướng dẫn khách du lịch và người lao động tuân thủ các biện pháp phòng, chống dịch bệnh nhằm đảm bảo an toàn, sức khỏe cho du khách, cán bộ, nhân viên, người lao động trong ngành du lịch.
-Đức Văn
+# url = https://dantri.com.vn/du-lich/dong-thap-sap-cong-dien-200-mon-an-che-bien-tu-sen-20210408063920680.htm
+# date = 20210408
+Mới đây, Tổ chức Kỷ lục Việt Nam (Vietkings) làm việc với lãnh đạo tỉnh Đồng Tháp đề xuất phối hợp với tỉnh Đồng Tháp tổ chức sự kiện công diễn 200 món ăn từ sen để đăng ký kỷ lục thế giới; đồng thời tổ chức chương trình nghệ thuật nhằm giới thiệu, quảng bá hình ảnh quê hương Đồng Tháp đến với bạn bè quốc tế.
+Theo Vietkings,tỉnh Đồng Tháp được đánh giá là một trong những địa phương có nhiều đặc sản độc đáo và có tiềm năng. Vừa qua, tỉnh Đồng Tháp cũng đã có4 đặc sản được chọn vào Top 100 đặc sản quà tặng Việt Nam(2020 - 2021) gồm có: Bánh phồng tôm Sa Giang, Nem Lai Vung, Xoài Cát Chu Cao Lãnh, Hồng Sen Tửu Tháp Mười.
+Đồng Tháp sẽ công diễn 200 món ăn chế biến từ sen để xác lập kỷ lục thế giới.
+Với kết quả này, Vietkings mong muốn có thể kết nối địa phương để tìm ra những sản phẩm mới, những đặc sản có tiềm năng xuất khẩu cao để đưa ra các giải pháp tiêu thụ trong tương lai, đẩy mạnh kinh tế của doanh nghiệp và địa phương cũng như đưa được đặc sản Việt Nam ra thế giới.
+Đánh giá cao ý tưởng trên của Vietkings phù hợp với định hướng của tỉnh, Chủ tịch Ủy ban nhân dân tỉnh Phạm Thiện Nghĩa yêu cầu Sở Văn hóa, Thể thao và Du lịch phối hợp với Vietkings xây dựng kế hoạch, trong đó lưu ý thời điểm tổ chức phù hợp, kết hợp tổ chức các hội thảo liên quan đến sen, góp phần quảng bá nét đẹp văn hóa, ẩm thực và con người Đồng Tháp.
+Khi nghe sự kiện này, nhiều người dân hiếu kỳ chờ xem 200 món ăn chế biến từ sen thế nào?
+Nguyễn Hành

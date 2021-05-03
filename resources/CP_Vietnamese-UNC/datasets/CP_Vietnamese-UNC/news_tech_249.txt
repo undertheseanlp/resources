@@ -1,16 +1,29 @@
 # doc_id = news_tech_249
-# url = https://dantri.com.vn/suc-manh-so/ung-dung-hm-nhan-bao-1-sao-tu-cong-dong-mang-20210405000520564.htm
-# date = 20210405
-Ứng dụng có tên H&M One Team - Employee App trên cửa hàng CH Play đã nhận về gần 1.000 lượt đánh giá 1 sao từ cộng đồng mạng Việt Nam. Điều đó khiến cho mức điểm của phần mềm này nhanh chóng bị kéo tụt xuống 1 sao.
-Theo nội dung mô tả, đây là ứng dụng dành riêng cho các nhân viên của H&M tại Hà Lan. Bên cạnh những đánh giá 1 sao, cư dân mạng Việt Nam cũng để lại hàng loạt bình luận tiêu cực về hãng thời trang này dù thông tin trên chưa được làm rõ.
-"Tẩy chay H&M", "Hoàng Sa, Trường Sa của Việt Nam", "Get out Vietnam" (Rời khỏi Việt Nam) là những thông điệp mà cư dân mạng để lại trong phần bình luận của ứng dụng H&M One Team - Employee App trên CH Play.
-Ngày 2/4, truyền thông quốc tế đồng loạt đưa tin hãng bán lẻ thời trang Thụy Điển H&M đã đồng ý sửa lại bản đồ đăng tải trên website của hãng theo yêu cầu từ chính quyền Trung Quốc. 
-Cụ thể, giới chức Trung Quốc yêu cầu hãng thời trang H&M chỉnh sửa một bản đồ trên trang web vì nó "có vấn đề". Tuy nhiên, không rõ vấn đề cần chỉnh sửa là gì, H&M cũng chưa lên tiếng bình luận về vụ việc. Dù vậy, thông tin trên đã gây ra một làn sóng giận dữ trên cộng đồng mạng tại Việt Nam, thậm chí xuất hiện làn sóng kêu gọi tẩy chay H&M.
-Trên Facebook, hàng loạt hội nhóm với mục đích "tẩy chay H&M" đã được thành lập và nhanh chóng thu hút hàng chục nghìn thành viên. Chưa dừng lại ở đó, cộng đồng mạng còn tràn vào các bài đăng trên fanpage của H&M Việt Nam để công kích.
-Trên nền tảng Twitter, những hashtag như #Apologize_to_Vietnam (Hãy xin lỗi Việt Nam), #BoycottHM (Tẩy chay H&M) hay #TaychayHM liên tục lọt top thịnh hành với hàng nghìn chủ đề thảo luận.
-Tuần trước, H&M đã bị chính phủ và người tiêu dùng Trung Quốc dọa tẩy chay khi có những bình luận về vấn đề bông vải ở Tân Cương.
-Một loạt cửa hàng H&M tại Trung Quốc đã bị các chủ mặt bằng cho thuê yêu cầu đóng cửa. Các tìm kiếm về H&M trên bản đồ di động Baidu và ứng dụng chia sẻ xe của Didi Chuxing cũng đều hiển thị trang trống. Nhiều biển quảng cáo của thương hiệu này cũng bị dỡ bỏ.
-Để xoa dịu tình hình, H&M đã phải "xuống nước" với Trung Quốc - thị trường lớn thứ 3 của hãng này - bằng cách cam kết sẽ nỗ lực vực dậy niềm tin của người tiêu dùng, đồng nghiệp và các đối tác kinh doanh tại Trung Quốc. Trong đó, việc chấp nhận "sửa bản đồ" là một trong những thể hiện đầu tiên của H&M với cam kết trên.
-H&M vào Việt Nam từ năm 2017. Sau 3 năm kinh doanh tại Việt Nam, hãng đã có 12 cửa hàng, trong đó, 5 cửa hàng ở Hà Nội, 4 ở TP.HCM, 3 ở Hạ Long, Đà Nẵng, Cần Thơ. Hoạt động kinh doanh cũng liên tục tăng trưởng tốt.
-Theo tìm hiểu của Dân trí, doanh thu thuần năm 2019 của hãng tại Việt Nam là hơn 1.114 tỷ đồng, tăng mạnh so với mức 717 tỷ đồng năm 2018. Riêng trong quý I/2021, hãng đạt hơn 386 tỷ đồng doanh thu, tăng 5% so với cùng kỳ năm 2019.
-Thế Anh
+# url = https://dantri.com.vn/suc-manh-so/vi-sao-mot-con-chip-ti-hon-lai-dang-khien-gioi-cong-nghe-toan-cau-lao-dao-20210411032546617.htm
+# date = 20210411
+Nếu như ngành môi trường đang phải đau đầu vì hiệu ứng nhà kính, ngành y tế vật lộn với đại dịch Covid-19, thì ngành công nghệ cũng đang lao đao trước vấn nạn thiếu hụt chip bán dẫn.
+Thực tế cho thấy một quốc gia có thể tự làm bom nguyên tử, hay tên lửa, nhưng không thể sản xuất một con chip riêng lẻ nếu tách mình khỏi chuỗi cung ứng toàn cầu. Đó là một quy luật khắc nghiệt, nhưng phản ánh đúng thực tế hiện nay.
+Những hệ lụy của nó, hơn bao giờ hết, đang khiến người tiêu dùng trên toàn thế giới phải đối mặt với sự gia tăng về giá và tình trạng thiếu hụt các sản phẩm từ thiết bị gia dụng, TV, smartphone đến ô tô và thậm chí cả máy chơi game.
+Khủng hoảng chưa từng có, ngay cả "ông lớn" cũng lao đao
+Một công nhân tại nhà máy sản xuất lò vi sóng của tập đoàn Midea Group. Ảnh: Xinhua
+Là đại diện cho lĩnh vực thiết bị gia dụng, Midea lên tiếng cảnh báo ngành này đang "chịu áp lực lớn" về nguồn cung chip sụt giảm trên diện toàn cầu.
+Hãng điện tử Trung Quốc cho biết giá chip dùng cho thiết bị gia dụng - thường kém tinh vi hơn so với chip dùng trong điện thoại thông minh và máy tính xách tay - sẽ tăng lên khi tình trạng thiếu chip trên toàn cầu vẫn tiếp diễn.
+Xiaomi - một công ty chuyên sản xuất thiết bị thông minh trong tuần này cũng đã buộc phải tăng giá một số mẫu TV, với lý do giá của các linh kiện chính cao hơn. Samsung và Sony gần đây cũng tăng giá một loạt sản phẩm của hãng với lý do tương tự.
+Trong lĩnh vực xe hơi, các nhà sản xuất ô tô dự kiến mất 61 tỷ USD doanh thu do thiếu chip và rất khó để định lượng những tác hại của nó trong tương lai.
+Tính đến tháng 4/2021, hãng xe Ford phải hủy hoạt động tại 2 nhà máy ô tô, thông báo lợi nhuận có thể sụt giảm lên tới 2,5 tỷ USD trong năm. Hãng Nissan thì ngừng sản xuất tại các nhà máy ở Mexico và Mỹ. Còn General Motors lo sợ có thể phải đối mặt với mức sụt giảm lợi nhuận 2 tỷ USD.
+Thiếu chip bán dẫn khiến ngay cả các ông lớn về xe cũng điêu đứng.
+Trong lĩnh vực smartphone, Huawei từ lâu đã chịu ảnh hưởng nặng nề do lệnh cấm của chính phủ Mỹ, khiến HiSilicon (công ty con của Huawei) không thể tiếp tục sản xuất dòng chip Kirin để trang bị trên smartphone cao cấp của hãng.
+Điều này dẫn tới hệ quả điện thoại Huawei đang trở nên đắt đỏ hơn, dẫu lượng đặt mua vẫn tăng mạnh tại thị trường Trung Quốc trong thời gian qua.
+Ngay cả Apple, một công ty Mỹ, cũng bắt đầu cảm nhận được những tác động đầu tiên từ việc thiếu chip toàn cầu.
+Theo một thông tin mới đây, iPad và MacBook có thể sẽ bị đình trệ sản xuất do thiếu các linh kiện cần thiết.
+"Cơn khát chip" nguyên nhân do đâu?
+"Chip là tất cả", Neil Campling, nhà phân tích công nghệ và truyền thông tại Mirabaud cho biết.
+"Có một cơn bão về các yếu tố cung - cầu đang diễn ra. Khinhu cầu mới không được theo kịp, mọi thứ đều khủng hoảng và tình hình ngày càng trầm trọng hơn".
+"Không có dấu hiệu nào cho thấy nguồn cung bắt kịp hoặc nhu cầu sẽ giảm, trong khi giá đang tăng trên toàn chuỗi", Campling nói. "Điều này sẽ ảnh hưởng tới từng người tiêu dùng trên phố. Hãy chờ xem ô tô sẽ đắt hơn, điện thoại sẽ đắt hơn. iPhone năm nay chắc chắn không rẻ hơn năm ngoái".
+Trên thực tế, những dấu hiệu sớm nhất của tình trạng thiếu chip đã xuất hiện vào những tháng đầu tiên của năm 2020.
+Vào thời điểm đó, thế giới đang trong giai đoạn của làn sóng lây nhiễm lần thứ nhất, và Covid-19 đã loại bỏ gần như toàn bộ nhu cầu của người tiêu dùng trong mọi lĩnh vực của cuộc sống.
+Cuộc khủng hoảng nhen nhóm từ một số yếu tố kết hợp với nhau, mà trung tâm của nó được cho là bắt nguồn từ TSMC, công ty lớn nhất của Đài Loan, đồng thời là nhà sản xuất chip hàng đầu thế giới cho những gã khổng lồ về công nghệ.
+Theo các giám đốc điều hành của TSMC, đối tác của họ đang tích trữ nhiều hàng tồn kho hơn mức bình thường để phòng ngừa sự không chắc chắn và họ sẽ duy trì phương pháp này trong một thời gian dài.
+Cũng chính điều đó đã làm trầm trọng thêm tình trạng khan hiếm chip trên toàn cầu và sự ảnh hưởng đến các ngành nghề ngày càng nặng nề hơn.
+"Dịch bệnh, sự giãn cách xã hội trong các nhà máy và sự cạnh tranh nhu cầu tăng vọt từ tablet, laptop và xe điện đang gây ra căng thẳng nhất trong nguồn cung linh kiện smartphone trong nhiều năm", Neal Moston, một nhà phân tích tại Strategic Analysis nhận định.
+Nguyễn Nguyễn

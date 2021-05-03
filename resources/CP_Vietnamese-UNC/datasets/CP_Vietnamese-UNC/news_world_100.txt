@@ -1,36 +1,11 @@
 # doc_id = news_world_100
-# url = https://dantri.com.vn/the-gioi/gia-tang-gap-10-lan-nguoi-an-do-quay-cuong-trong-con-khat-oxy-20210429120337893.htm
-# date = 20210429
-Người nhà bệnh nhân Covid-19 mang bình rỗng, chờ nạp ôxy tại một trung tâm nạp ôxy ở New Delhi hôm 27/4 (Ảnh:Getty).
-Theo Guardian, trong hơn hai tuần, các cuộc gọi liên tục đổ về điện thoại của Mohit Arora. Có ngày anh nhận được hơn 1.000 cuộc gọi. Tất cả đều đang tìm kiếm thứ được quý như vàng và rất khan hiếm tại Ấn Độ lúc này: ôxy.
-"Chúng tôi nhận được 1.000 cuộc gọi mỗi ngày, nhưng chúng tôi chỉ có thể cung cấp 10-15 bình (ôxy) mỗi ngày. Thật sự rất đau lòng. Mọi người gọi điện tới, khóc lóc trên điện thoại, cầu xin ôxy suốt cả đêm", Arora nói.
-Arora làm việc cho Sewa Satkar Trust - tổ chức phân phối bình ôxy miễn phí trên khắp New Delhi. Tuy nhiên, năng lực của tổ chức vẫn không đủ để đáp ứng nhu cầu về ôxy ngày càng tăng.
-Khi làn sóng Covid-19 thứ hai càn quét Ấn Độ trong những ngày qua, thủ đô New Delhi đã rơi vào tình trạng thiếu ôxy trầm trọng. Số ca nhiễm tăng vọt, trong khi nguồn cung ôxy vơi dần, thậm chí tại một số bệnh viện cạn kiệt hoàn toàn, khiến bệnh nhân chết ngay trên giường bệnh.
-Do các bệnh viện và giường điều trị tích cực dành cho bệnh nhân Covid-19 ở New Delhi bị quá tải, các bác sĩ buộc phải chỉ định bệnh nhân tự tìm ôxy cho mình. Do vậy, nhu cầu đối với bình ôxy đã tăng lên mức chưa từng có. Một số nhà cung cấp ôxy tại thị trường chợ đen đã đẩy giá một bình ôxy từ 80 USD lên 970 USD.
-Tuy nhiên, một "đội quân" ôxy đã vào cuộc, cung cấp bình và nạp ôxy miễn phí cho những người đang cần.
-Đội quân ôxy
-Người nhà bệnh nhân Covid-19 xếp hàng chờ nạp ôxy tại Ấn Độ (Ảnh: PTI).
-"Tình hình ở New Delhi vô cùng khủng khiếp: bệnh nhân chết trên đường, bên ngoài bệnh viện khi họ không thể nhận được lượng ôxy cần thiết. Chúng tôi đã làm những gì tốt nhất có thể, nhưng thật đau đớn khi phải từ chối, vì chúng tôi không có đủ ôxy mỗi ngày. Đôi khi chúng tôi phải tắt điện thoại để nghỉ ngơi, dù chỉ trong nửa tiếng", Arora chia sẻ.
-Gần đây, ngay cả những bệnh viện tư nhân lớn nhất ở New Delhi như Vedanta cũng gọi điện "thông báo với chúng tôi rằng, họ đang thiếu ôxy và đề nghị chúng tôi giúp cung cấp bình ôxy khẩn cấp", Arora nói thêm.
-"Rõ ràng là cả chính quyền trung ương và tiểu bang đều không làm được, do vậy các tổ chức phi chính phủ nhỏ và dân sự phải cố gắng tham gia và làm tất cả những gì có thể. Nhưng vẫn chưa đủ, thậm chí gần như không đủ để lấp đầy khoảng trống", Arora cho biết.
-Sewa Satkar Trust là một trong số các tổ chức tình nguyện cho biết họ ngày càng khó khăn hơn để tìm mua ôxy từ các nhà máy công nghiệp. Các quy định của chính phủ yêu cầu các nhà máy phải bán ôxy trực tiếp cho bệnh viện, thay vì nạp đầy các bình ôxy riêng lẻ. Nhưng hầu hết bệnh nhân cần ôxy lại không thể nhập viện.
-Theo Reuters, các ca nhiễm vẫn đang tăng mạnh ở thủ đô, nơi ghi nhận hơn 20.000 ca mắc Covid-19 mới mỗi ngày, trong khi Ấn Độ tiếp tục ghi nhận hơn 300.000 ca nhiễm mới hôm 27/4 - ngày không còn một giường điều trị tích cực nào ở New Delhi.
-Khủng hoảng ôxy
-Shruti Saha, người chờ đợi suốt nhiều ngày để đến lượt mình được nạp bình ôxy cho mẹ, đã ngã quỵ sau khi được thông báo về cái chết của mẹ, bên ngoài một xưởng nạp ôxy, ở New Delhi (Ảnh: Reuters).
-Cuộc khủng hoảng ôxy tại Ấn Độ đã trở nên nghiêm trọng đến mức cộng đồng quốc tế bắt đầu vào cuộc hỗ trợ nước này. Tổ chức Y tế Thế giới (WHO) gửi 4.000 máy tạo ôxy, tách ôxy từ không khí, trong khi các quốc gia gồm Đức, Singapore, Mỹ, Anh và thậm chí cả những nước nhỏ như vương quốc láng giềng Bhutan đều cam kết cung cấp ôxy và máy tạo ôxy cho Ấn Độ.
-Faisal Khaliq, thuộc tổ chức Madrasa Amania Trust, là một trong những người đã giúp phân phát bình ôxy miễn phí trên khắp New Delhi. Khaliq làm việc với một tổ chức phi chính phủ khác, Asma Esa Foundation, bắt đầu mua bình ôxy từ tháng 2 và hiện phân phối khoảng 200 bình ôxy miễn phí trên khắp Delhi. Nhưng Khaliq cho biết không thể đáp ứng được tất cả yêu cầu và cần ít nhất 5.000 bình ôxy để đáp ứng nhu cầu hiện tại.
-"Trong nhiều trường hợp, tôi đã khóc sau khi nghe mọi người yêu cầu - không, đúng nghĩa là cầu xin - một bình ôxy để cứu những người thân của họ. Sau khi ngắt điện thoại, có lúc tôi khóc suốt 10 phút, sau đó lại bắt đầu nhận cuộc gọi. Thật sự không thể chịu nổi khi nghe những lời van xin, những tiếng kêu khóc, cầu xin ôxy, sẵn sàng trả bất cứ thứ gì, sẵn sàng làm bất cứ điều gì để đổi lấy một bình ôxy nặng 10 kg", Khaliq nói.
-Mohammad Nauman thuộc tổ chức Asma Esa Foundation cho biết các tình nguyện viên - những người đang bỏ tiền túi để mua các bình ôxy và nạp đầy - đã không ngủ vì liên tục nhận được các cuộc gọi cung cấp ôxy suốt 24 giờ.
-"Việc tìm ôxy ngày càng khó khăn hơn, trong khi nhu cầu rất cao. Chúng tôi lo lắng mỗi ngày rằng, chúng tôi sẽ không thể có được những gì chúng tôi cần vì nguồn ôxy ngày càng ít đi", Nauman cho biết.
-"Chúng tôi cảm thấy bất lực. Chúng tôi muốn cung cấp ôxy cho tất cả những người gọi đến nhưng không có cách nào, chúng tôi không có đủ", Nauman nói.
-Không chỉ thủ đô New Delhi đang gặp khó khăn về nguồn cung ôxy. Ở Uttar Pradesh, một trong những bang đông dân nhất của Ấn Độ, thành phố Agra - "quê hương" của lăng mộ Taj Mahal nổi tiếng - cũng thiếu ôxy trầm trọng. Mặc dù thủ hiến bang Uttar Pradesh, Yogi Adityanath, nhấn mạnh rằng bang không thiếu ôxy và dọa sẽ có hành động pháp lý đối với các bệnh viện được cho là đang cạn kiệt ôxy, những người sống ở Agra đều lên tiếng về tình trạng thiếu ôxy nghiêm trọng.
-Một người đàn ông mệt mỏi đợi bên ngoài nhà máy để được nạp đầy bình ôxy ở New Delhi (Ảnh: New Delhi).
-Nhà hoạt động Narendra Kumar Paras, người đang giúp phân phối ôxy toàn thành phố, cho biết ông nhận được 900 cuộc gọi mỗi ngày nhưng chỉ có thể trả lời khoảng 500 cuộc trong số đó.
-"Hàng nghìn người đang xếp hàng mỗi ngày tại trung tâm ôxy để lấy ôxy cho người thân, mà không thực hiện giãn cách xã hội. Hôm 27/4, một cuộc hỗn chiến bạo lực đã xảy ra tại một trung tâm ôxy và một người đàn ông đã hét lên: "Có thể bắn tôi nhưng đừng ngăn tôi lấy bình ôxy", Paras cho biết.
-"Tôi đã tiếp xúc với rất nhiều người không lấy được ôxy trong 3 ngày qua. Thật đau lòng. Mọi người cứ gọi cho tôi là khóc. Nhiều khi có cả trẻ con gọi cho tôi khóc, nhờ tôi mang ôxy cứu bố mẹ chúng", Paras nói.
-Paras cho biết một số bệnh viện ở Agra đã gọi cho anh vì không còn ôxy.
-"Lãnh đạo bệnh viện cũng bức xúc. Họ cầu xin chính quyền rằng họ không có ôxy. Họ bất lực đến mức phải gọi cho tôi để giúp cung cấp ôxy cho bệnh nhân của họ", Paras nói.
-Tại Jhansi, một thành phố bị ảnh hưởng nặng nề khác ở Uttar Pradesh, sinh viên Akash Parashar đã giúp cung cấp ôxy cho hơn 1.500 người dân địa phương.
-"Người dân ở đây đang cầu xin ôxy, nhưng vì chính quyền không thể giúp họ, nên mọi người phải từ biệt những người thân vì không thể nhận được ôxy mà họ cần", Parashar cho biết.
-Thành Đạt
-Tổng hợp
+# url = https://dantri.com.vn/the-gioi/giam-dap-kinh-hoang-o-israel-38-nguoi-chet-20210430082323616.htm
+# date = 20210430
+Hiện trường vụ giẫm đạp khiến hàng chục người chết ở Israel (Ảnh: Reuters).
+Truyền thông địa phương cho biết, sự cố xảy ra ở khu vực chân núi Meron, miền bắc Israel vào thời điểm hàng chục nghìn người đổ về tham gia lễ hội Lag BaOmer của người Do Thái.
+Đây là một trong những sự kiện tập trung đông người nhất ở Israel kể từ khi đại dịch Covid-19 bùng phát cách đây hơn 1 năm, bất chấp cảnh báo của giới y tế.
+Một khán đài ở đây đã bị sập khiến những người tham gia hốt hoảng, giẫm đạp lên nhau tìm cách thoát thân.
+Các video đăng tải trên mạng cho thấy khung cảnh hỗn loạn, nhiều người cố chui qua khe rách của mái tôn để thoát ra khỏi đám đông. Một hình ảnh khác cho thấy các thi thể xếp la liệt trên cáng sau vụ giẫm đạp.
+Vụ giẫm đạp khiến ít nhất 38 người chết, khoảng 103 người bị thương. Cảnh sát đã phong tỏa khu vực xảy ra giẫm đạp và yêu cầu người dân sơ tán bằng ô tô khách.
+Thủ tướng Benjamin Netanyahu gọi đây là "thảm họa kinh hoàng" và yêu cầu điều tra làm sáng tỏ vụ việc.
+Minh PhươngTheo Reuters

@@ -1,14 +1,13 @@
 # doc_id = news_science_250
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/vi-khuan-vo-hinh-moi-co-the-ne-he-thong-mien-dich-cua-con-nguoi-20210320060836527.htm
-# date = 20210320
-Tuy nhiên, một khám phá mới của các nhà khoa học sâu dưới đáy biển đã đặt ra câu hỏi với hệ thống miễn dịch của con người vì những vi khuẩn "vô hình" mới được phát hiện có thể vượt qua hàng rào phòng thủ của chúng ta mà không hề bị phát hiện.
-Khám phá đáng kinh ngạc này đã được công bố trên tạp chí Khoa học Miễn dịch học với các vi khuẩn được tìm thấy ở Di sản Thế giới được UNESCO công nhận lớn nhất và sâu nhất thế giới gần quần đảo Kiribati. Được biết đến với cái tên Khu bảo tồn quần đảo Phượng Hoàng, đây là một trong những điểm xa xôi nhất trên Trái đất.
-Với sự hỗ trợ của một thiết bị có tên SuBastian như một phòng thí nghiệm đồng thời là một phương tiện vận hành từ xa, nhóm nghiên cứu có thể thu thập những bằng chứng cần thiết.
-Nhóm nghiên cứu đã thu thập được các mẫu vi khuẩn đặc biệt và họ muốn xem cách chúng sẽ tương tác với các tế bào của động vật có vú như thế nào bằng cách sử dụng các tế bào của chuột và người để điều tra.
-Các nhà khoa học đã loại bỏ Lipopolysaccharide (LPS), còn được gọi là lipoglycan hoặc nội độc tố, là các đại phân tử được cấu tạo gồm lipid và polysaccharide của 50 chủng vi khuẩn khác nhau và cho chúng vào đĩa có một trong hai nhóm tế bào của động vật có vú.
-Vấn đề được quan tâm đó là 80% trong số mẫu được thử nghiệm không kích hoạt được phản ứng miễn dịch.
-Các kết quả dường như chỉ ra rằng các chủng vi khuẩn này không thể "được" nhìn thấy được đối với hệ thống miễn dịch của con người và không tạo ra phản ứng gì với sự hiện diện của chúng.
-Cho đến nay, các nhà nghiên cứu vẫn chưa rõ cơ chế đằng sau "chiếc áo tàng hình" của vi khuẩn, nhưng dường như có mối tương quan giữa các chuỗi acyl dài và sự thiếu phản ứng miễn dịch.
-Thực tế là vi khuẩn đã phát triển trong một không gian không có động vật có vú với chỉ 20% trong số chúng được thử nghiệm kích thích phản ứng miễn dịch, cho thấy có lẽ hiệu quả của hệ thống miễn dịch của con người không nhiều "quyền năng" như chúng ta vẫn nghĩ.
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/vi-sao-cho-an-co-20210423065416022.htm
+# date = 20210423
+Thực tế, nhiều người cho rằng chó có thể bị ốm do ăn cỏ hoặc thậm chí là sau khi bị ốm mới ăn cỏ. Điều này xuất phát từ việc những người nuôi thú cưng thường để ý chó của họ nôn mửa sau bữa ăn nhẹ có cỏ, mặc dù chưa bao giờ rõ liệu việc ăn cỏ có gây ra bệnh tật hay không, hay liệu nó có gây ra nôn mửa sau đó hay không. Tuy nhiên, câu trả lời ở góc độ khoa học có thể là "không".
+Trong một nghiên cứu tự báo cáo về thói quen ăn thực vật của chó, các nhà nghiên cứu đã phát hiện ra rằng 79% số lượng chó đã ăn cỏ vào một thời điểm nào đó trong quá khứ. Mặc dù con số cao như vậy, chỉ 9% trong số những con chó này có biểu hiện ốm trước đó và chỉ 22% trong số chúng bị nôn sau khi ăn cỏ. Điều đó khiến phần lớn những con chó trông khỏe mạnh, ăn một đống cỏ và sau đó vẫn sẽ có một ngày vui vẻ và không bị bệnh tật gì.
+Mặc dù chưa có quá nhiều nghiên cứu sâu hơn về chủ đề này, nhưng kích thước mẫu lớn chắc chắn cho thấy rằng người bạn thân nhất của con người đang thực hiện một thói quen kỳ quặc vì một lý do khác.
+Có thể chúng ta không bao giờ hiểu đầy đủ về hành vi này, nhưng lời giải thích hàng đầu hiện nay là chó thực sự có thể chỉ muốn… thưởng thức hương vị tươi mát của cỏ.
+Các chủ sở hữu thường ghi nhận sự gia tăng trong việc chó ăn cỏ khi mùa xuân đến, vì vậy có thể cỏ mới mọc chỉ là một món ngon đơn thuần với chúng.
+Nhiều người nghĩ chó hay mèo là loài ăn thịt bắt buộc, có nghĩa là chúng chỉ hòa toàn ăn thịt. Tuy nhiên, nghiên cứu đã chỉ ra rằng chó và sói thực sự là động vật ăn tạp và chúng lấy một phần chất dinh dưỡng lành mạnh hàng ngày từ thực vật.
+Nhiều nghiên cứu đã tìm thấy bằng chứng về cây xanh và quả mọng trong chế độ ăn của sói hoang dã, cho thấy nó chiếm một phần nhỏ nhưng đáng kể trong lượng thức ăn của chúng.
+Bên cạnh đó, cỏ là một nguồn chất xơ tuyệt vời, một thứ có thể dễ dàng thiếu trong chế độ ăn của những chú chó bình thường.
+Vì vậy, có thể nói cỏ gần như chắc chắn không phải là vấn đề chó ăn để nôn mửa, mà thay vào đó là thứ mà chó cố ý ăn để thưởng thức hoặc bổ sung dinh dưỡng cho cơ thể chúng.
 Trang Phạm
-Theo IFL Science

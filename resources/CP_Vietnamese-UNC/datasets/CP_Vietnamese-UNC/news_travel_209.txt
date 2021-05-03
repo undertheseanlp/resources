@@ -1,14 +1,16 @@
 # doc_id = news_travel_209
-# url = https://dantri.com.vn/du-lich/quan-pho-5000-dong-16-nam-khong-tang-gia-ngay-ban-500-bat-o-nam-dinh-20210404164837366.htm
-# date = 20210404
-Quán phở của chị Nguyễn Thị Chung nằm trong con hẻm nhỏ trên đường 19/5, phường Tế Xương, TP. Nam Định.
-Mở cửa từ năm 2005, đến nay đã gần 16 năm nhưng chị vẫn giữ mức giá 5000 đồng/bát - mức giá mà nhiều thực khách xem là "rẻ như cho".
-Quán phở nho nhỏ chỉ chừng 20m2 với vài bộ bàn ghế đơn sơ, quầy đồ ăn đã cũ… đã trở thành địa chỉ quen thuộc với nhiều người dân Thành Nam.
-Quán chị Chung mở cửa từ 17h30 chiều đến 1 - 2h sáng hôm sau, phục vụ chủ yếu cho học sinh, sinh viên, người lao động thu nhập thấp. Chỉ 5000 đồng nhưng bát phở vẫn đầy đặn với bánh phở, gà xé, mọc, chả lá lốt. Nước dùng ngon ngọt, đậm đà, "chiều lòng" thực khách.
-Mỗi ngày, chị Chung bán khoảng 350 bát phở giá 5000 đồng và khoảng 200 bát có giá từ 10 - 20000 đồng. Bát phở đắt hơn chỉ đơn giản là có thêm nhiều chả, mọc, thịt hơn hoặc có thể thêm quả trứng.
-Đông khách quá mà quán lại nhỏ nên chị Chung phải kê thêm bàn ghế ra ngoài vỉa hè. Lúc cao điểm, khách phải chờ rất lâu mới có chỗ ngồi. "Thỉnh thoảng, có khách chờ không được nên "giận dỗi" bỏ về. Nhưng rồi mai họ lại tới", chị Chung vừa thoăn thoắt làm phở cho khách vừa chia sẻ.
-Không ít người tìm đến quán phở 5000 vì tò mò, nửa tin nửa ngờ, chẳng biết thực chất bát phở sẽ ra sao. Nhưng sau khi thưởng thức thì đa phần họ đều có chung nhận xét "quá ngon, quá rẻ".
-Nói về bí quyết khiến phở 5000 đồng mà vẫn ngon đến thế, chị Chung thật thà chia sẻ: "Nước dùng là yếu tố quan trọng nhất để có một bán phở ngon. Ở quán của tôi nước dùng được hầm hoàn toàn từ xương gà ta. Mỗi ngày tôi bán hết vài chục con gà và tất cả số xương đó tôi đều không bỏ đi mà để làm nước dùng nên nó mới được nhiều thực khách yêu thích như vậy".
-Trung bình mỗi ngày, chị Chung bán hết 30 - 40 con gà, hơn 1 tạ bánh phở cùng 3 nồi nước dùng.
-"Mức giá này thật sự rất phù hợp với học sinh, sinh viên như bọn em. Bát phở chỉ 5000 nhưng cũng đủ ấm bụng, ngon miệng. Chị chủ quán lúc nào cũng niềm nở, nhiệt tình với khách", bạn Trần Như Quỳnh (TP Nam Định) chia sẻ.
-Hương Thảo
+# url = https://dantri.com.vn/du-lich/quang-tri-khao-sat-dau-tu-khu-du-lich-sinh-thai-thac-ta-puong-20210408162130606.htm
+# date = 20210408
+Thông tin từ UBND tỉnh Quảng Trị cho biết, đã có quyết định đồng ý cho Công ty TNHH MTV Orchid Phú Quý (trụ sở tại TP Đông Hà, tỉnh Quảng Trị) nghiên cứu, khảo sát lập dự án khu sinh thái thác Tà Puồng và khu vực lân cận thuộc xã Hướng Việt (huyện Hướng Hóa).
+Thác Tà Puồng là điểm đến hấp dẫn ở miền Tây Quảng Trị.
+Ngoài ra, để khai thác tiềm năng du lịch tại thác Tà Puồng và khu vực lân cận, UBND tỉnh Quảng Trị trước đó giao Sở VH-TT-DL chủ trì, phối hợp với các Sở, ngành, địa phương liên quan tổ chức khảo sát, lập quy hoạch tỷ lệ 1/2000 phát triển loại hình tham quan du lịch sinh thái, nghỉ dưỡng kết hợp với du lịch cộng đồng và du lịch sinh thái mạo hiểm khu vực nêu trên.
+Chính vì thế, đề xuất dự án du lịch sinh thái của Công ty TNHH MTV Orchid Phú Quý cần phù hợp với định hướng của tỉnh.
+Nếu được đầu tư bài bản, nơi đây hứa hẹn sẽ trở thành điểm du lịch sinh thái nổi tiếng trong tương lai.
+Được biết, thác Tà Puồng cách thị trấn Khe Sanh (huyện Hướng Hóa) chừng 60 km, có độ cao trên 35m, có thác nước lớn, quanh năm nước đổ xuống rất đẹp, tạo cảm giác thích thú cho du khách.
+Ngoài hệ thống thác nước còn có một động nhỏ nằm ở trên cao, rộng khoảng 10m và ăn sâu vào lòng núi khoảng 200m.
+Mặc dù được xem là điểm đến du lịch thú vị, thu hút nhiều du khách thời gian qua nhưng chưa được đưa vào khai thác du lịch một cách xứng đáng.
+Vào cuối tháng 2/2021, Phó Chủ tịch UBND tỉnh Quảng Trị - ông Hoàng Nam đã dẫn đầu đoàn khảo sát một số điểm du lịch tại các huyện miền núi Đakrông, Hướng Hóa.
+Tại đây, Phó Chủ tịch UBND tỉnh Quảng Trị khẳng định, miền Tây tỉnh Quảng Trị hiện có rất nhiều tiềm năng du lịch: có hang động, thác nước, suối, cảnh quan rừng.
+Ông Nam cho rằng, muốn khai thác tốt các danh thắng này cần có sự đầu tư ban đầu, trước mắt biến những nơi này trở thành điểm đến của nhân dân trên địa bàn tỉnh và khách du lịch.
+Qua đó, lãnh đạo tỉnh giao các đơn vị liên quan, trực tiếp là Sở VH-TT&DL tiến hành công tác quy hoạch các điểm du lịch một cách cụ thể trên cơ sở tôn trọng tự nhiên, không can thiệp sâu vào hệ thống sinh thái tự nhiên, mời gọi các nhà đầu tư có đủ năng lực để khai thác hiệu quả.
+Đăng Đức

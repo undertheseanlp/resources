@@ -1,12 +1,22 @@
 # doc_id = news_science_256
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/vi-sao-mot-so-nguoi-co-the-kiem-soat-kha-nang-noi-da-ga-20210329061813147.htm
-# date = 20210329
-Nổi da gà là một quá trình tiến hóa còn sót lại từ tổ tiên của chúng ta. Trong tự nhiên, một khoảnh khắc bay hoặc đánh nhau, các cơ nhỏ xung quanh nang lông co lại, khiến lông trồi lên và khiến con vật trông to lớn và đáng sợ hơn.
-Tuy nhiên, đối với con người, đây thường được coi là một phản ứng không tự nguyện, được điều khiển bởi các dây thần kinh từ hệ thần kinh giao cảm điều chỉnh các hành động vô thức của cơ thể. Vì vậy, với sự hiểu biết hiện tại về mặt sinh lý học không thể kiểm soát hành động này. Tuy nhiên, có vẻ như một số người lại có khả năng ngược lại.
-Trong một nghiên cứu năm 2018, được công bố trên tạp chí PeerJ, các nhà nghiên cứu từ Đại học Northeastern đã tập hợp 32 người có thể chứng minh khả năng kiểm soát tự nguyện của họ đối với piloerection, tên khoa học nói về sự co thắt các cơ nhỏ ở gốc nang lông gây nổi da gà. Hầu hết những người tham gia giải thích rằng họ rất dễ nổi da gà theo ý muốn. Thậm chí, họ còn ngạc nhiên khi hầu hết mọi người không có khả năng này.
-Nằm trong một phần của nghiên cứu, những người tham gia được yêu cầu hoàn thành một cuộc khảo sát về tính cách của họ, cũng như các câu hỏi khác về chứng nổi da gà.
-Nhóm nghiên cứu nhận thấy tất cả những người có thể kiểm soát cơn nổi da gà của mình đều thể hiện mức độ cởi mở cao hơn. Đây là một đặc điểm tính cách thường đề cập đến xu hướng của một người là có khả năng tiếp thu nhiều hơn với những ý tưởng mới và trải nghiệm mới.
-Những người này có xu hướng sáng tạo, giàu trí tưởng tượng và tò mò, cũng như có sự đánh giá cao hơn đối với nghệ thuật hay cái đẹp.
-Tuy nhiên, trước câu hỏi vì sao có những người có khả năng kiểm soát khả năng nổi da gà, các nhà nghiên cứu vẫn chưa đưa ra một câu trả lời thuyết phục hơn. Để đi sâu hơn vào bí ẩn, các tác giả nghiên cứu cho biết rất mong muốn tiếp tục thực hiện một nghiên cứu lớn hơn liên quan đến nhiều người hơn.
-Trang Phạm
-Theo IFL Science
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/vi-sao-nu-hon-lai-hap-dan-con-nguoi-20210405163918872.htm
+# date = 20210405
+Nhưng có lẽ câu trả lời này chưa đủ thuyết phục, nhưng ngay cả các nhà khoa học cũng thấy khó trả lời được đầy đủ cho câu hỏi này.
+Nụ hôn khiến mọi người gần gũi nhau hơn
+Ôm hôn là một cử chỉ và cảm giác quan trọng khi mọi người bắt đầu thấy quý mến người kia. Để có thể đến đủ gần và thân mật đến mức có thể hôn ai đó, bạn phải cảm thấy tin cậy người đó. Nếu bạn không cảm thấy thích một người đủ để muốn hôn, đó là dấu hiệu cho thấy người đó nên tìm kiếm một ai khác để kết thành bạn trai hoặc bạn gái.
+Trong thời bệnh dịch hiện nay, lãng mạn cũng theo cách khác.
+Ngoài nụ hôn, cơ thể còn có nhiều cách khó có thể diễn đạt thành lời, nhưng lại bảo cho chúng ta biết đó không phải là người hợp với mình, chẳng hạn như bạn cảm thấy khó chịu khi chạm vào da người đó, hoặc không thích mùi của người đó.
+Đối với hai người trưởng thành, nụ hôn dường như là dấu hiệu đầu tiên giúp họ biết được người kia có đúng là người mình muốn cùng xây dựng nên một gia đình hay không. Nếu tình cảm không đủ lớn từ cả hai phía để họ muốn hôn nhau, có lẽ họ không thấy người kia đủ hấp dẫn để tiếp tục sống cùng nhau cho đến lúc có con và chia sẻ cuộc sống đến tận tuổi già.
+Nếu cả hai người cùng thích và tin tưởng nhau đủ để thấy vui sướng khi hôn nhau, họ sẽ làm việc đó thường xuyên. Cảm giác hạnh phúc đó khiến họ càng tin cậy nhau hơn và dần dần có thể sẽ đủ lớn để họ muốn cùng nhau xây dựng một gia đình.
+Một số nghiên cứu cho thấy nụ hôn còn mang lại lợi ích cho các cặp đôi cả nhiều năm sau khi họ chung sống chứ không chỉ ban đầu. Những cặp đôi thích hôn nhau và thường xuyên hôn nhau sẽ trở nên yêu thương nhau nhiều hơn và vui vẻ hơn trong cuộc sống so với các cặp đôi ít hôn nhau.
+Hôn có làm lây truyền vi trùng không?
+Đúng là hôn một người khiến bạn có thể lây vi trùng của người đó. Nhưng biết được điều này lại thực sự giúp chúng ta giải thích vì sao chúng ta vẫn hôn nhau. Nếu bạn định tiến tới một mối quan hệ với một người, và hiểu rằng tiếp xúc gần gũi là nguy cơ khiến bạn có thể lây vi trùng của người đó, và bạn cảm thấy không muốn hôn bởi vì sợ bị lây và có thể bị ốm, thì chắc chắn đó là dấu hiệu bạn không muốn chung sống với người đó.
+Hôn là một trong những cách để mọi người tìm thấy sự tin cậy và gần gũi, giúp họ gắn bó lâu dài với nhau.
+Còn nếu bạn quyết định hôn một người bạn thích, cảm giác sung sướng sẽ khiến bạn bớt lo lắng về việc có thể bị lây nhiễm vi trùng.
+Không phải người nào cũng hôn
+Một số loài vật khác trong tự nhiên cũng hôn nhau. Tinh tinh thường hôn nhau sâu đậm, giống như những nụ hôn của những con người yêu nhau. Nhưng điều ngạc nhiên là không phải người nào cũng thích hôn, và có nhiều kiểu hôn khác nhau. Nụ hôn thể hiện tình yêu thương giữa bố mẹ và con cái không giống như nụ hôn lãng mạn của các cặp đôi yêu nhau.
+Một nghiên cứu đã khảo sát 168 nhóm đối tượng, từ những cộng đồng nhỏ sống bằng cách săn bắt tự nhiên đến những nhóm đông người sống ở thành phố lớn. Kết quả nghiên cứu cho thấy chỉ có chưa đến ½ (46%) số người được khảo sát là có những nụ hôn lãng mạn.
+Những người sống ở những nền văn hóa không có tục lệ ôm hôn là những người sống ở châu Phi cận Sahara, New Guinea hoặc rừng mưa Amazon. Họ thấy buồn cười hoặc ghê ghê khi nhìn thấy những bức ảnh chụp người hôn nhau. Tuy vậy, họ có những cách khác để tiếp xúc trực tiếp với mục đích gây thiện cảm và trao gửi tình cảm cho nhau. Hôn lãng mạn xuất hiện phổ biến ở những cộng đồng đông dân cư và hiện đại, những nơi có nhiều nhóm người khác nhau cùng chung sống.
+Vẫn còn có nhiều điều bí ẩn chứa đựng trong những nụ hôn lãng mạn, cả các nhà khoa học và chính những người hôn nhau đều chưa biết hết. Vì thế, chưa ai trả lời được chính xác những câu hỏi xung quanh cử chỉ thân mật và lãng mạn này.
+Phạm Hường
+Theo The Conversation

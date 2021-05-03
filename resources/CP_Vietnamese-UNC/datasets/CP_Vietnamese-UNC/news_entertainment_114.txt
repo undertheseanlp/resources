@@ -1,18 +1,45 @@
 # doc_id = news_entertainment_114
-# url = https://dantri.com.vn/giai-tri/hoa-hau-the-gioi-bi-tuoc-vuong-mien-vi-yeu-nhieu-nguoi-cung-mot-luc-20210424081834536.htm
-# date = 20210424
-Marjorie Wallace, sinh năm 1954, cao 1,68m là một trong những Hoa hậu Thế giới dính nhiều tai tiếng nhất. Cô chỉ giữ danh hiệu được 104 ngày và bị tước vương miện vì yêu nhiều người cùng một lúc.
-Wallace sinh ra ở Indianapolis, Indiana, Mỹ. Gia đình cô điều hành một doanh nghiệp nhỏ và cô lớn lên ở vùng ngoại ô. Người đẹp tóc vàng có cuộc sống bình yên cho tới năm 14 tuổi khi bố mẹ cô ly dị. Marjorie Wallace bắt đầu rời nhà thực hiện những chuyến du lịch dài ngày và năm 17 tuổi, cô chuyển đến sống với một nghệ sĩ guitar trong ban nhạc rock Pure Funk.
-Ở tuổi 17, Marjorie Wallace cũng bắt đầu đi lại thường xuyên giữa Indianapolis và Chicago để làm việc như một người mẫu. Một công ty người mẫu đã ủng hộ và động viên Marjorie Wallace tham gia cuộc thi Hoa hậu Thế giới Indiana và Hoa hậu Thế giới Mỹ. Marjorie Wallace giành chiến thắng và đại diện cho Mỹ tham gia cuộc thi Hoa hậu Thế giới năm 1973 tổ chức tại London, Anh quốc.
-Hoa hậu thế giới năm 1973 Marjorie Wallace
-Vào ngày 23 tháng 11 năm 1973, Wallace đã vượt qua 53 người đẹp và trở thành Hoa hậu Mỹ đầu tiên đăng quang Hoa hậu Thế giới. Danh hiệu cao quý này giúp tên tuổi Marjorie Wallace được biết đến rộng rãi. Người đẹp được yêu mến bởi nhan sắc cá tính, tươi trẻ và năng động.
-Trong thời gian ở Anh, Marjorie Wallace đã hẹn hò với nhiều người nổi tiếng bao gồm ca sĩ xứ Wales Tom Jones, ngôi sao bóng đá Bắc Ireland George Best và tay đua Công thức 1 Peter Revson, người mà cô được cho là đã đính hôn.
-Trong thời gian đính hôn với Revson, cô đã ngoại tình với ca sĩ Tom Jones, Hoa hậu bị bắt gặp hôn nam ca sĩ trên một bãi biển ở Barbados. Điều này đã vi phạm vào quy chế và hợp đồng đối với một Hoa hậu Thế giới khiến ban tổ chức cuộc thi đưa ra quyết định tước danh hiệu của cô vào ngày 7 tháng 3 năm 1974, 104 ngày sau khi cô đăng quang. Tổ chức Hoa hậu thế giới thông báo rằng Wallace đã không hoàn thành các yêu cầu cơ bản của công việc Hoa hậu.
-Vào thời điểm Marjorie Wallace hò hẹn với ca sĩ nổi tiếng Tom Jones, Tom đang kết hôn với Linda còn Marjorie đính hôn với tay đua xe hơi Peter Revson. Khi cuộc tình của họ bị phanh phui, cuộc hôn nhân của Tom Jones với Linda rơi vào nguy hiểm, Tom đã từ bỏ Hoa hậu Thế giới để quay về với tình yêu của đời mình, người yêu thuở nhỏ Linda.
-Đáng chú ý, 15 ngày sau khi Wallace bị tước vương miện, bạn trai cô - tay đua Peter Revson đã thiệt mạng trong một vụ tai nạn vào ngày 22 tháng 3 năm 1974, khi đang luyện tập cho Grand Prix Nam Phi 1974 ở Johannesburg. Peter Revson chết trên đường đến bệnh viện và Marjorie Wallace đã vô cùng đau khổ, suy sụp.
-Chưa đầy ba tháng sau cái chết của bạn trai, Wallace được đưa đến Bệnh viện St. Vincent Indianapolis sau khi chị gái của Hoa hậu tìm thấy cô bất tỉnh trong căn hộ của mình do dùng thuốc ngủ quá liều. Các bác sĩ đã phải rất nỗ lực để giữ được mạng sống cho Hoa hậu. Nhiều người tin rằng Marjorie Wallace đã cố gắng tự tử khi đó. Tuy nhiên, 2 năm sau, trong một cuộc trả lời phỏng vấn, Marjorie Wallace nói: "Tôi bị trầm cảm và đã uống quá nhiều thuốc ngủ. Tôi chưa bao giờ cố tự sát".
-Sau hàng loạt scandal xảy ra, Marjorie Wallace lấy lại tinh thần và theo đuổi sự nghiệp của một người dẫn chương trình kiêm diễn viên. Cô trở thành phát thanh viên thể thao của kênh ABC và CBS. Cô cũng xuất hiện trong các clip quảng cáo trên truyền hình và tham gia một vài bộ phim, làm giám khảo một số show truyền hình ăn khách.
-Vào mùa hè năm 1977, cô gặp nhà sản xuất phim Michael Klein tại một bữa tiệc ở Beverly Hills, Mỹ và họ kết hôn vào tháng 5 năm 1978. Cặp đôi có với nhau một cậu con trai tên là Adam.
-Năm 1982, cuộc hôn nhân của Hoa hậu Thế giới và Michael Klein kết thúc. Ngay sau đó, báo chí đưa tin cô đang hẹn hò với Richard Cohen, chồng cũ của doanh nhân Tina Sinatra. Năm 1994, cô kết hôn với doanh nhân bất động sản Donald Soffer nhưng cặp đôi ly dị 2 năm sau đó.
+# url = https://dantri.com.vn/giai-tri/hoa-hau-the-gioi-dien-ao-khong-noi-y-dep-doi-ben-chong-kem-10-tuoi-20210412080650440.htm
+# date = 20210412
+Priyanka Chopra và chồng trẻ Nick Jonas dự lễ trao giải điện ảnh hàng đầu nước Anh BAFTA diễn ra tại nhà hát Royal Albert Hall ở London, Anh quốc ngày 11/4 vừa qua
+Hoa hậu 39 tuổi diện bộ đồ lộng lẫy của Pertegaz. Bộ trang phục màu sắc và rất thanh lịch nhưng không kém phần gợi cảm
+Priyanka Chopra tham gia lễ trao giải BAFTA trong vai trò người giới thiệu giải thưởng. Bộ phim White Tiger của cô cũng nhận được 2 đề cử tại lễ trao giải này
+Như nhiều sự kiện trong mùa dịch, lễ trao giải BAFTA tổ chức ở nhà hát Royal Albert Hall mà không có khán giả tham dự và chỉ có một số ít các nghệ sĩ xuất hiện trên thảm đỏ
+Priyanka Chopra và chồng kém 10 tuổi là cặp đôi đẹp và thu hút sự chú ý nhất tại lễ trao thưởng điện ảnh hàng đầu Anh quốc. Hoa hậu thế giới năm 2000 và chồng trẻ kết hôn đã gần 3 năm và quấn quýt không rời
+Xuất hiện trên thảm đỏ lễ trao giải còn có nữ diễn viên Phoebe Dyvenor
+Ngôi sao điện ảnh 26 tuổi diện bộ váy Louis Vuitton thanh lịch và sang trọng tôn dáng vóc mảnh mai
+Phoebe Dynevor giới thiệu 1 giải thưởng trên sân khấu lễ trao giải BAFTA
+"Tiểu thư Jones" Renée Zellweger cũng có mặt trong sự kiện. Ngôi sao Hollywood giới thiệu giải thưởng Nam diễn viên chính xuất sắc nhất
+Nữ diễn viên Felicity Jones diện váy áo của Valentino khi tham dự lễ trao giải BAFTA
+Sophie Cookson ăn vận kín đáo và duyên dáng khi dự sự kiện
+Hugh Grant sánh đôi vợ Anna Elisabet Eberstein
+Nữ diễn viên xinh đẹp Anna Kendrick diện váy Zuhair Murad dự sự kiện từ Los Angeles, Mỹ
+Wunmi Mosaku - nữ diễn viên được đề cử - theo dõi lễ trao giải từ Los Angeles, Mỹ
+Andra Day khoe lưng trần gợi cảm tại Los Angeles, Mỹ
+Cynthia Erivo diện váy lạ mắt
+Ngôi sao người Australia Rose Bryne
+NHỮNG GIẢI THƯỞNG CHÍNH TẠI LỄ TRAO GIẢI BAFTA 2021:
+Bộ phim hay nhất: Nomadland
+Nữ diễn viên chính xuất sắc nhất: Frances Mcdormand, Nomadland
+Nam diễn viên chính xuất sắc nhất: Anthony Hopkins,The Father
+Đạo diễn xuất sắc nhất: Chlóe Zhao, Nomadland
+Diễn viên mới nổi: Bukky Bakray
+Bộ phim Anh hay nhất: Promising Young Woman
+Bộ phim tài liệu hay nhất: My Octopus Teacher
+Màn ra mắt xuất sắc của một biên kịch, đạo diễn hoặc nhà sản xuất người Anh: Remi Weekes, biên kịch - đạo diễn phim His House
+Kịch bản gốc hay nhất: Emerald Fennell, Promising Young Woman
+Nam diễn viên phụ xuất sắc nhất: Daniel Kaluuya,Judas And The Black Messiah
+Nữ diễn viên phụ xuất sắc nhất: Yuh-Jung Youn,Minari
+Quay phim xuất sắc nhất: Joshua James Richards, Nomadland
+Bộ phim không nói tiếng Anh hay nhất: Another Round
+Kịch bản chuyển thể hay nhất: Christopher Hampton, Florian Zeller, The Father
+Bộ phim hoạt hình xuất sắc nhất: Soul
+Âm thanh xuất sắc nhất: Jaime Baksht, Nicolas Becker, Phillip Bladh, Carlos Cortés, Michelle Couttolenc, Sound Of Metal
+Hiệu ứng hình ảnh đặc biệt: Scott Fisher, Andrew Jackson, Andrew Lockley, Tenet
+Bộ phim hoạt hình ngắn của Anh hay nhất: The Owl And The Pussycat
+Bộ phim ngắn của Anh hay nhất: The Present
+Thiết kế sản xuất xuất sắc nhất: Donald Graham Burt, Jan Pascale, Mank
+Hóa trang xuất sắc nhất: Matiki Anoff, Larry M. Cherry, Sergio Lopez-Rivera, Mia Neal, Ma Rainey's Black Bottom
+Thiết kế trang phục xuất sắc nhất: Ann Roth, Ma Rainey's Black Bottom.
 Vĩnh Ngọc
-Theo Beauty
+Theo DM

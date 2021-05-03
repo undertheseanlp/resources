@@ -1,23 +1,17 @@
 # doc_id = news_health_259
-# url = https://dantri.com.vn/suc-khoe/ung-thu-benh-tu-mieng-ma-vao-20210426163601269.htm
+# url = https://dantri.com.vn/suc-khoe/vet-mau-tuoi-vach-tran-co-so-phau-thuat-tham-my-chui-20210426094841574.htm
 # date = 20210426
-Ung thư là hiện tượng đột biến của tế bào. Từng tế bào trong cơ thể con người không phải tồn tại vĩnh viễn, mà nó phát triển, sinh sôi, từ một tế bào phát triển thành nhiều tế bào. Hằng ngày, một số tế bào chết đi, một số tế bào mới sinh ra để cân bằng. Khi tế bào bị đột biến, sinh ra những dòng tế bào có khả năng tăng trưởng vô hạn độ, không tuân theo quy luật, sự kiểm soát bình thường thì sẽ tạo ra những khối u.
-Tế bào ngày càng phát triển khổng lồ khiến kích thước khối u ngày càng to, chèn ép các bộ phận xung quanh, di căn sang các bộ phận khác của cơ thể. Cuối cùng, do hiện tượng phát triển vô hạn độ, di căn, chèn ép, xâm lấn các bộ phận quan trọng, sử dụng hết năng lượng của cơ thể, làm cơ thể cạn kiệt dẫn đến tử vong.
-GS.TS Nguyễn Bá Đức (nguyên Giám đốc Bệnh viện K Trung ương) khẳng định: "Tất cả những gì đánh vào nhân tế bào đều có thể gây ung thư và trên 80% nguyên nhân là do môi trường bên ngoài, còn tỷ lệ tự đột biến rất thấp, chỉ khoảng 10%. Trong các tác nhân bên ngoài, thức ăn đóng một vai trò quan trọng, được xếp hàng đầu trong các tác nhân môi trường có ảnh hưởng lớn nhất đến căn bệnh này (35%), đứng thứ 2 là thuốc lá (30%)".
-Vì thế, chú ý được yếu tố dinh dưỡng, bạn đã ngăn ngừa được 35% nguy cơ gây ung thư.
-BS CK1. Nguyễn Anh Tuấn, Khoa Xạ trị, xạ phẫu, Viện Ung thư, Bệnh viện Trung ương Quân đội 108 đưa ra những lời khuyên dinh dưỡng để phòng ngừa nguy cơ mắc căn bệnh nguy hiểm này:
-Tuân thủ chế độ ăn uống lành mạnh ở mọi lứa tuổi
-Chế độ ăn uống lành mạnh bao gồm:
-- Thực phẩm có hàm lượng chất dinh dưỡng cao giúp bạn đạt được và duy trì trọng lượng cơ thể khỏe mạnh.
-- Nhiều loại rau màu xanh đậm, đỏ và cam, các loại đậu giàu chất xơ (đậu và đậu Hà Lan), và những loại khác.
-- Trái cây, đặc biệt là trái cây nguyên trái với nhiều màu sắc
-- Ngũ cốc nguyên hạt
-Chế độ ăn lành mạnh giới hạn hoặc không bao gồm:
-- Thịt đỏ và thịt chế biến (thịt xông khói, ướp muối, lên men…)
-- Đồ uống có đường hoặc chất tạo ngọt năng lượng cao.
-- Thực phẩm chế biến công nghiệp, đồ ăn nhanh và các sản phẩm ngũ cốc tinh chế.
-Hạn chế đồ uống có cồn:
-Uống rượu là yếu tố nguy cơ gây ung thư quan trọng thứ ba có thể phòng ngừa được sau thuốc lá và béo phì. Rượu kết hợp với thuốc lá làm tăng nguy cơ ung thư miệng, thanh quản và thực quản gấp nhiều lần so với việc uống rượu hoặc hút thuốc đơn thuần.
-Khuyến cáo: Chỉ nên uống không quá 1 đơn vị mỗi ngày đối với phụ nữ và 2 đơn vị đối với đàn ông (1 đơn vị tính bằng 12 ounces bia thông thường, 5 ounces rượu vang, hoặc 1,5 ounces rượu mạnh 40 độ chưng cất). Giới hạn này không có nghĩa là bạn được uống một lượng lớn hơn vào ít ngày hơn trong tuần vì nó sẽ gây hại cho sức khỏe hơn.
-GS Đức lưu ý, ngoài việc tuân thủ chế độ dinh dưỡng khoa học, cần hết sức lưu ý đến nguồn gốc thực phẩm. "Thức ăn không đảm bảo vệ sinh an toàn thực phẩm, bị nhiễm hóa chất… có thể gây độc cấp như ngộ độc thức ăn, nôn mửa. Nhưng nếu tiềm tàng lâu dài, tích lũy lâu ngày trong cơ thể, đến một lúc nào đó sẽ đủ lượng gây đột biến tế bào. Nếu bị đột biến nhẹ thì tế bào có thể tự điều chỉnh nhưng bị đi bị lại nhiều lần, tế bào sẽ mất khả năng tự sửa chữa, đột biến trở thành ác tính", GS Đức cảnh báo.
-Tú Anh
+Ngày 26/4, thông tin từ Thanh tra Sở Y tế TPHCM cho biết, tuần qua đơn vị này đã liên tiếp phát hiện nhiều vụ sai phạm liên quan đến hoạt động phẫu thuật thẩm mỹ trên địa bàn thành phố. Theo đó, từ các thông tin phản ánh của người dân thông qua cổng "y tế trực tuyến" Sở Y tế đã chỉ đạo lực lượng thanh tra vào cuộc.
+Cơ sở bị thanh tra đối phó bằng cách khóa cửa để "cản địa" lực lượng chức năng khi làm nhiệm vụ (ảnh: SYT)
+Để chủ động ứng phó, xử lý trước những hành vi chống đối và cản trở công tác thanh tra, lực lượng liên ngành đã phối hợp thực hiện trong kiểm tra xử lý sai phạm. Theo đó, ngày 19/4 Thanh tra Sở Y tế đãphối hợp với Công an thành phố Hồ Chí Minh vàchính quyền địa phươngtiến hành kiểm tra đột xuất cơ sở "Chang Beauty&Clinic" (số 160/16 Võ Thị Sáu, phường 8, quận 3).
+Làm việc với cơ quan chức năng, đại diện cơ sởchưa xuất trình được hồ sơ pháp lý như: giấy đăng ký kinh doanh; giấy phép hoạt động khám bệnh, chữa bệnh. Tuy nhiên, trên thực tế Chang Beauty&Clinic lại triển khai hoạt động phẫu thuật thẩm mỹ. Bằng chứng của các sai phạm trên được thể hiện qua phiếu thu đối với dịch vụ hút mỡ bụng, mỡ đùi, đơn thuốc cho khách hàng thực hiện thẩm mỹ nâng mũi, độn cằm...
+Ngoài ra tại cơ sở còn có hợp đồng đào tạo nâng mũi do bà Lê Thị Huyền Trang ký và biển quảng cáo dịch vụ thẩm mỹ như: cắt mi, nâng cung mày... Trên trang facebook Lê Thị Huyền Trang còn quảng cáo các dịch vụ trong lĩnh vực thẩm mỹ hút mỡ bụng, cắt da thừa… nhưng chưa xuất trình hồ sơ xác nhận nội dung quảng cáo theo quy định.
+Giường mổ và trang thiết bị phẫu thuật được lực lượng chức năng phát hiện tại cơ sở thẩm mỹ chui (ảnh: SYT).
+Tại thời điểm kiểm tra, đoàn liên ngành phát hiện một căn phòng ở tầng 2 của cơ sở bị khóa nên đề nghị cơ sở mở cửa. Tuy nhiên, đại diện cơ sở này có hành động đối phó không mở cửa với lý do đây là phòng của bà Lê Thị Huyền Trang chủ cơ sở đã đi Hà Nội.
+Bằng biện pháp nghiệp vụ, lực lượng công an đã buộc cơ sở phải mở cửa thì ghi nhận, bên trong có nhiều trang bị như: giường phẫu thuật, đèn phẫu thuật, trangthiếtbị y tế, dụng cụ phẫu thuật, thuốc, 1 máy monitor đang ở chế độ hoạt động, thùng rác y tế có gạcvàgăng tay còn dính máu tươi, lò hấp dụng cụ… và phát hiện có túi rác y tế, trang phục phẫu thuật để trong nhà vệ sinh của phòng ngủ. Tại cơ sở đoàn kiểm tra phát hiện có nhiều người "thuê nhà" nhưng không xuất trình được hồ sơ pháp lý.
+Tình trạng tương tự xảy ra tại "Việnthẩm mỹ Lux" (số 36 đường số 11 khu dân cư Cityland, phường 10, quận Gò Vấp). Đoàn kiểm tra phát hiệntại cơ sởcó3phòng đượctrang bị giường, đèn tiểu phẫu,các máy laser, các sản phẩm mỹ phẩm, filler, thuốc tê, kim tiêm, găng tay thủ thuật,có hai máy hút dịch, máy đốt điện, bình oxy,1 máy hấp dụng cụ đang sử dụng (còn nóng)và các dụng cụ, vật tư y tế như: kim chỉ khâu, sụn mũi nhân tạo, thuốc tê, dịch truyền đã qua sử dụng.
+Ngoài ra, tại cơ sở cócác giấy tờ phiếu tư vấn, đơn thuốc, sổ ghi chép các dịch vụ phẫu thuật thẩm mỹ, hút mỡ bụng, tạo hình bụng, gọt cằm, cắt mí, nâng mông. Kiểm tra trang facebook "Viện thẩm mỹ LUX" có đăng tải các clip dịch vụ thẩm mỹ như hút mỡ bụng, độn mông, cắt mí nhưng chưa xuất trình được hồ sơ xác nhận nội dung quảng cáo theo quy định.
+Viện Thẩm mỹ LUX bị lực lượng thanh tra yêu cầu ngừng hoạt động vì nhiều sai phạm (ảnh: SYT)
+Thực tế kiểm tra cho thấy, cơ sở đăng ký kinh doanh dịch vụ chăm sóc da, phun xăm thẩm mỹ (không thực hiện các kỹ thuật gây chảy máu). Tuy nhiên,cơ sở triển khaicác dịch vụ liên quan đến hoạt động khám bệnh, chữa bệnhphẫu thuậtthẩm mỹnhưngchưa có giấy phép hoạt động khám bệnh, chữa bệnh theo quy định của pháp luật.
+Cả hai cơ sở sai phạm nêu trên đã bị lực lượng thanh tra yêu cầu ngừng hoạt động khám bệnh, chữa bệnh, tháo gỡ tất cả các nội dung quảng cáo khám chữa bệnhtại cơ sở vàtrên các trang mạng vì chưa có đầy đủ hồ sơ pháp lý. Thanh tra Sở Y tế đang tiếp tục làm rõ việc những cá nhân đã thực hiện dịch vụ thẩm mỹ tại các cơ sở trên và xử lý sai phạm theo đúng quy định của pháp luật.
+Vân Sơn

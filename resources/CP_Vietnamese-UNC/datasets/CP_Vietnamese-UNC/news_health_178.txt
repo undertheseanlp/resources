@@ -1,15 +1,15 @@
 # doc_id = news_health_178
-# url = https://dantri.com.vn/suc-khoe/nhung-ai-can-canh-giac-voi-ung-thu-bang-quang-20210422203127627.htm
-# date = 20210422
-Ung thư bàng quang là một trong những bệnh ác tính nguy hiểm. Tuy nhiên, nếu được phòng tránh, phát hiện và điều trị sớm bệnh có thể kiểm soát được. Ung thư đường tiết niệu là 1 trong 7 loại ung thư thường gặp nhất trên thế giới, trong đó ung thư bàng quang chiếm tỷ lệ cao nhất 80-90. Tại Việt Nam, ung thư bàng quang 1 trong 10 loại ung thư hay gặp ở nam giới.
-Ung thư bàng quang là loại ung thư xảy ra ở bàng quang- cơ quan rỗng nằm tại vùng bụng dưới có chức năng chứa nước tiểu do thận thải ra. Phía trong thành bàng quang là lớp niêm mạc được cấu tạo từ các tế bào chuyển tiếp và tế bào vảy.
-Cũng giống như nguyên nhân gây bệnh, các yếu tố nguy cơ ung thư bàng quang vẫn chưa được nghiên cứu một cách rõ ràng. Một số yếu tố nguy cơ phổ biến dẫn đến ung thư bàng quang là:
-- Những người lớn tuổi có nguy cơ mắc ung thư bàng quang cao hơn những người trẻ.
-- Đàn ông dễ bị ung thư bàng quang hơn phụ nữ.
-- Tiền sử gia đình có người mắc phải ung thư bàng quang .
-- Người đã bị ung thư bàng quang cũng có khả năng tái phát.
-- Những người hút thuốc lá có nguy cơ ung thư bàng quang cao hơn hai đến ba lần so với những người không hút thuốc lá.
-- Nghề nghiệp dễ mắc ung thư như làm cao su, chất hóa học, da thuộc, thợ làm tóc, thợ kim khí, thợ in, thợ dệt, tài xế xe tải. Đây là những ngành nghề tiếp xúc thường xuyên với những chất sinh ung thư.
-Ngoài ra, các bệnh lý viêm bàng quang mạn tính, nhiễm trùng tiết niệu tái diễn nhiều lần hoặc sử dụng ống thông đường tiểu lâu ngày cũng gây nên ung thư bàng quang.
-Quá trình điều trị phụ thuộc vào vị trí u và giai đoạn bệnh, nhưng chủ yếu là phẫu thuật, có thể kèm theo hóa xạ trị bổ trợ, liệu pháp sinh học hoặc các liệu pháp quang động học, miễn dịch.
-Hà An
+# url = https://dantri.com.vn/suc-khoe/nhung-mui-tiem-vac-xin-covid-19-dau-tien-tai-dak-lak-20210424101336144.htm
+# date = 20210424
+Sáng 24/4, tại Bệnh viện Đa khoa TP Buôn Ma Thuột (Đắk Lắk) tất cả các bác sĩ, nhân viên y tế của bệnh viện đã được tiêm những mũi vắc xin Covid-19 đầu tiên.
+Theo đó, trong đợt 1, toàn tỉnh sẽ tiêm 17.050 vắc xin Covid-19 do Bộ Y tế phân bổ. Cụ thể, 7.317 bác sĩ, nhân viên cơ sở y tế; 8.255 người tham gia phòng chống dịch (thành viên Ban chỉ đạo phòng chống dịch các cấp và người làm việc khu cách ly tập trung, tự nguyện); 1.478 người thuộc Bộ đội biên phòng, Công an tỉnh, Cục Hải quan, Bộ Chỉ huy quân sự tỉnh.
+Tất cả phải đáp ứng tiêu chí không có bệnh nền và dưới 65 tuổi.
+Để công tác tiêm chủng diễn ra an toàn, đúng đối tượng, Trung tâm Kiểm soát bệnh tật tỉnh Đắk Lắk đã phối hợp với các địa phương lập danh sách những người được tiêm đợt 1. Tổ chức tập huấn cho tất cả cán bộ y tế cập nhật thông tin, kiến thức cho người tham gia tiêm chủng về những đặc tính cần lưu ý của vắc xin; xây dựng kế hoạch triển khai và tổ chức buổi tiêm...
+Ông Nguyễn Trung Thành - Phó Giám đốc Sở Y tế Đắk Lắk, cho biết: Thực hiện chỉ đạo của Bộ Y tế, ngành Y tế Đắk Lắk đã triển khai tiêm vắc xin Covid-19 cho các đối tượng ưu tiên trong tuyến đầu chống dịch. Trước khi triển khai tiêm, ngành y tế đã đẩy mạnh công tác tuyên truyền cho cán bộ, nhân viên y tế phải nắm rõ tầm quan trọng của vắc xin Covid-19 và đã tổ chức tập huấn để cập nhật các thông tin, kiến thức cần thiết.
+Ông Nguyễn Trung Thành - Phó Giám đốc Sở Y tế Đắk Lắk cho biết ngành y tế đã có kế hoạch và các phương án trong đợt tiêm chủng vắc xin Covid-19 đợt 1.
+"Với các đối tượng sau tiêm sẽ được theo dõi cẩn thận, ngành sẽ không chủ quan và bố trí các kíp trực nếu có trường hợp phản ứng sốc sẽ kịp thời xử lý theo quy định", ông Thành cho hay.
+Đợt tiêm chủng vắc xin Covid-19 đợt 1 tại Đắk Lắk sẽ diễn ngày 24/4 và xong trước ngày 5/5.
+Ông Y Lâm Niê - Giám đốc Bệnh viện Đa khoa TP Buôn Ma Thuột được tiêm vắc xin Covid-19.
+Chị Lê Thị Thu - Cán bộ điều dưỡng khoa Cấp cứu, Bệnh viện Đa khoa TP Buôn Ma Thuột cho biết, chị được kiểm tra, sàng lọc sức khỏe kỹ càng trước khi tiêm chủng. "Sau khi tiêm tôi thấy sức khỏe mình bình thường, chưa thấy có biểu hiện gì. Việc tiêm chủng là rất cần thiết cho những người đang công tác tại các cơ sở y tế và trực tiếp tham gia chống dịch", chị Thu chia sẻ.
+Các nhân viên y tế Bệnh viện Đa khoa TP Buôn Ma Thuột đều chưa có triệu chứng sau tiêm 30 phút.
+Thúy Diễm

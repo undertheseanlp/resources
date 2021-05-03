@@ -1,12 +1,20 @@
 # doc_id = news_sport_246
-# url = https://dantri.com.vn/the-thao/tottenham-kho-tim-duoc-nguoi-thay-the-hlv-mourinho-20210501140509257.htm
-# date = 20210501
-Ba ứng cử viên hàng đầu thay thế HLV Jose Mourinho là Erik ten Hag, Brendan Rodgers và Julian Nagelsmann, tuy nhiên cơ hội để ba nhân vật này cập bến sân Wembley là rất thấp.
-HLV Julian Nagelsmann, ứng cử viên số 1 đã đồng ý chuyển đến Bayern Munich kể từ mùa giải tới. Đội chủ sân Allianz Arena phải bỏ ra 25 triệu euro để có được chữ ký của chiến lược gia trẻ tuổi người Đức từ Leipzig.
-HLV Brendan Rodgers từ chối Tottenham để ở lại Leicester.
-Theo báo giới Anh, HLV Brendan Rodgers cũng là gương mặt được Tottenham chú ý, nhưng cựu thuyền trưởng Liverpool ưu tiên việc ở lại Leicester.
-Trong mùa giải năm nay, Brendan Rodgers đã giúp "Bầy cáo" góp mặt trong top 4 Premier League với chuỗi phong độ ấn tượng và gánh tránh nhiệm đưa CLB này giành vé dự Champions League năm sau.
-Trang chủ Ajax Amsterdam thông báo đạt thỏa thuận gia hạn với HLV Erik Ten Hag đến năm 2023. Chiến lược gia người Hà Lan là một trong những ứng viên được ban lãnh đạo Tottenham Hotspur nhắm đến để thay thế Jose Mourinho.
-Cựu cầu thủ Ryan Mason được bổ nhiệm làm HLV tạm quyền đến cuối mùa. Tuy nhiên, kinh nghiệm non nớt khiến Tottenham của ông thất bại 0-1 trước Man City ở chung kết Cúp Liên đoàn Anh cuối tuần trước.
-Sau khi "hụt" ba gương mặt ưa thích nhất, Chủ tịch Daniel Levy đang cân nhắc chuyển hướng tiếp cận những HLV như Ralf Rangnick (cựu HLV Leipzig), Roberto Martinez (tuyển Bỉ) hay Scott Parker (Fulham).
-Thùy Anh
+# url = https://dantri.com.vn/the-thao/tung-che-ha-gia-lai-hlv-le-huynh-duc-cho-ngay-doi-no-kiatisuk-20210425212410118.htm
+# date = 20210425
+Trước đó, ở vòng 8 V-League, HA Gia Lai đã thắng SHB Đà Nẵng 2-0 ngay trên sân Hòa Xuân. Chiến thắng này chính là sự khẳng định vị trí số 1, cũng như sức mạnh vượt trội của đội bóng phố Núi trong cuộc đua vô địch với các đối thủ còn lại ở V-League.
+Tuy nhiên, sau thất bại ở vòng 8 LS V-League 2021, HLV Lê Huỳnh Đức tỏ ra không phục khi cho rằng SHB Đà Nẵng tự thua chứ không phải HA Gia Lai hay hơn. Nhìn lại trận đấu này, ở hiệp 1, đội chủ sân Hòa Xuân chơi khá tốt, gây được áp lực với HA Gia Lai. Điều đáng tiếc, SHB Đà Nẵng không tận dụng được cơ hội tạo ra, và họ đã phải trả giá đắt ở hiệp 2.
+HLV Lê Huỳnh Đức cho biết, nếu gặp lại HA Gia Lai, Đà Nẵng chắc chắn sẽ chơi khác, và dĩ nhiên kết quả cũng khác: "Nếu HA Gia Lai vẫn chơi như vậy thì giai đoạn 2 họ sẽ gặp rắc rối với chúng tôi. Tuy nhiên, lúc đó phải chắc chắn rằng Đà Nẵng đã cải thiện được tình hình. Ở V-League, đội nào tự tin hơn thì sẽ giành thắng lợi".
+HLV Huỳnh Đức khao khát phục hận đồng nghiệp Kiatisuk.
+Như một duyên nợ, hai đội sớm gặp lại nhau ở cúp Quốc gia. Quyết tâm đòi nợ của cựu tiền đạo đội tuyển Việt Nam khiến cuộc tái đấu tới đây tại vòng 1/8 Cúp Quốc gia giữa Đà Nẵng và HA Gia Lai trở nên rất nóng.
+Đây chính là cơ hội để HLV trưởng CLB Đà Nẵng thực hiện tuyên bố của mình. Ở vòng 1 vừa diễn ra, HA Gia Lai chỉ sử dụng đội hình hai và đã thắng khó nhọc trước An Giang 2-1. Trong khi đó, Đà Nẵng thắng Bà Rịa - Vũng Tàu với tỷ số 1-0 nhờ pha lập công của Đức Chinh.
+Bất lợi đang thuộc về Đà Nẵng khi thầy trò HLV Lê Huỳnh Đức phải đá trên sân Pleiku của HA Gia Lai. Tuy nhiên, chắc chắn đội bóng sông Hàn sẽ có sự chuẩn bị kỹ lưỡng.
+Trên thực tế, việc SHB Đà Nẵng tự tin đòi nợ HA Gia Lai dường như chỉ là tuyên bố mang tính động viên các cầu thủ của HLV Lê Huỳnh Đức. Không có nhiều cơ sở để SHB Đà Nẵng có thể đánh bại đối thủ ở lần tái đấu tới.
+Đến thời điểm này, dù liên tục chê Đức Chinh, nhưng HLV Lê Huỳnh Đức vẫn phải trông chờ nhiều vào chân sút này. Bàn thắng duy nhất của tiền đạo quê Phú Thọ trước đội hạng Nhất Bà Rịa - Vũng Tàu cho thấy rất rõ điều đó.
+Trong khi đó, HA Gia Lai ngày một thăng hoa ở V-League, vừa thắng thuyết phục kình địch Hà Nội sau nhiều năm chỉ biết hòa và thua. Đà Nẵng sẽ dựa vào đâu để đòi nợ HA Gia Lai trong trận tái đấu sắp tới, khi mà bản thân đội bóng của HLV Lê Huỳnh Đức cũng không có một phong độ ổn định.
+Dù sao thì đây là trận đấu không chỉ là tâm điểm ở vòng 1/8 cúp Quốc gia, của làng bóng Việt Nam, mà còn với cả giới truyền thông khu vực, đặc biệt là Thái Lan.
+Tờ SMM Sport của Thái Lan hào hứng viết về trận đấu sắp diễn ra: "Trận thắng ngược 2-1 trước An Giang đưa HA Gia Lai của Zico vào vòng 1/8, sẵn sàng cho cuộc đối đầu với Đà Nẵng".
+HA Gia Lai của HLV Kiatisuk đang đạt phong độ cao.
+Tuy nhiên, tờ nhật báo thể thao của Thái Lan cũng dẫn lời Kiatisuk, để chỉ ra khoảng trống về lực lượng của HA Gia Lai, giữa các cầu thủ chính thức và các vị trí dự bị: "Đội của tôi có 26 cầu thủ, dĩ nhiên năng lực của từng người không giống nhau.
+Tôi cho rằng người hâm mộ cũng hiểu vì sao tôi sử dụng đội hình dự bị. Tôi muốn đánh giá sự khác biệt giữa các vị trí trong đội hình".
+Một lần nữa, cuộc đối đầu giữa Lê Huỳnh Đức và Kiatisuk lại trở thành tâm điểm, giống như trước vòng 8 V-League. Cả hai đều quá hiểu nhau, khi từng chạm trán nhiều năm trước trong màu áo đội tuyển Việt Nam và Thái Lan. Lê Huỳnh Đức đang thua người đồng nghiệp về thành tích đối đầu, và liệu thuyền trưởng CLB SHB Đà Nẵng có đòi được nợ sau những tuyên bố tự tin của mình?
+Hoàng Quốc

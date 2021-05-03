@@ -1,20 +1,18 @@
 # doc_id = news_health_076
-# url = https://dantri.com.vn/suc-khoe/cac-chien-si-mu-noi-xanh-viet-nam-tiep-tuc-sang-nam-sudan-lam-nhiem-vu-20210422110058519.htm
-# date = 20210422
-Sáng 21.4, tại sân bay Tân Sơn Nhất, các cán bộ chiến sĩ "mũ nồi xanh "thứ hai thuộc Bệnh viện dã chiến cấp 2 số 3 của Việt Nam đã lên đường tham gia lực lượng gìn giữ hòa bình Liên Hiệp quốc tại Phái bộ Nam Sudan.
-Lực lượng "mũ nồi xanh" sẽ di chuyển bằng máy bay vận tải quân sự C17 của Bộ Quốc phòng Úc.
-Các cán bộ, chiến sĩ "mũ nồi xanh" trước khi lên đường đã trải qua các khóa huấn luyện về chuyên môn quân y và nghiệp vụ gìn giữ hòa bình Liên Hợp quốc, như: Cấp cứu chấn thương nâng cao; huấn luyện cho Đội cứu trợ đường không; huấn luyện tiền triển khai; huấn luyện luật Nhân đạo quốc tế và ngoại dã chiến; huấn luyện bổ túc lái xe rơ moóc, xe bọc thép BRT 152 cho lực lượng liên quan...
-Thiếu tướng Nguyễn Hồng Sơn, Giám đốc Bệnh viện quân y 175 (bên phải) đã có mặt tại buổi lễ và giao nhiệm vụ cho các cán bộ, chiến sĩ.
-Ông đề nghị cán bộ, chiến sĩ chấp hành nghiêm kỷ luật Quân đội nhân dân Việt Nam, kỷ luật hành quân, quy định an toàn bay, quy chế, quy trình phòng chống dịch, bảo đảm an toàn tuyệt đối trong quá trình hành quân và đến địa bàn.
-Thiếu tướng Sơn cũng yêu cầu các cán bộ, chiến sĩ phải luôn đoàn kết, yêu thương, tương trợ lẫn nhau, phát huy bản lĩnh, phẩm chất Bộ đội Cụ Hồ thi đua lập nhiều thành tích, hoàn thành xuất sắc mọi nhiệm vụ được giao tại Phái bộ gìn giữ hòa bình Liên Hợp quốc tại Nam Sudan.
-Người thân, đồng đội đã trao những vòng tay ôm chặt, những giọt nước mắt chia tay đầy xúc động đến các chiến sĩ trước khi họ lên đường làm nhiệm vụ.
-Khoảnh khắc tạm biệt của các cán bộ, chiến sĩ và gia đình.
-Tinh thần lạc quan của các chiến sĩ "mũ nồi xanh" trước giờ lên đường.
-Do ảnh hưởng của dịch Covid-19, quá trình huấn luyện gặp nhiều khó khăn, song các cán bộ, chiến sĩ đều quyết tâm hoàn thành xuất sắc nhiệm vụ quốc tế, an toàn trở về.
-Ngay sau lễ tiễn, các cán bộ, chiến sĩ Bệnh viện Dã chiến cấp 2 số 3 đã thực hiện các thủ tục cần thiết để lên máy bay, chính thức sang Nam Sudan tham gia hoạt động gìn giữ hòa bình Liên hợp quốc.
-Thiếu tướng Nguyễn Hồng Sơn động viên cán bộ chiến sĩ Bệnh viện dã chiến cấp 2 số 3 lên đường thực hiện nhiệm vụ.
-Bệnh viện dã chiến cấp 2 số 3 triển khai thực hiện nhiệm vụ gìn giữ hòa bình Liên hợp quốc trong bối cảnh dịch Covid-19 vẫn đang diễn biến hết sức phức tạp. Đáng chú ý, địa bàn triển khai lại là tâm dịch.
-Toàn bộ cán bộ, chiến sĩ "mũ nồi xanh" đã được tiêm phòng vắc xin Covid-19, cũng như được tập huấn các biện pháp phòng dịch sát với điều kiện thực tế tại Nam Sudan.
-Máy bay cất cánh rời sân bay Tân Sơn Nhất đưa các cán bộ, chiến sĩ "mũ nồi xanh" sang Nam Sudan làm nhiệm vụ.
-Bài: Minh Nhật
-Ảnh: Bệnh viện 175
+# url = https://dantri.com.vn/suc-khoe/cac-dia-phuong-tiem-vac-xin-phong-covid-19-cho-tuyen-dau-chong-dich-20210419170320066.htm
+# date = 20210419
+Thừa Thiên Huế
+Trung tâm Kiểm soát bệnh tật tỉnh Thừa Thiên Huế ở TP Huế và 9 trung tâm y tế cấp huyện trên địa bàn tỉnh đã kích hoạt chương trình tiêm chủng phòng dịch Covid-19.
+Ở đợt tiêm đầu tiên này, Thừa Thiên Huế được phân bổ 6.200 liều vắc xin phòng Covid-19. Loại vắc xin AstraZeneca được tiêm có chỉ định tạo miễn dịch chủ động cho người từ 18 tuổi trở lên để phòng bệnh Covid-19.
+Ông Hoàng Văn Đức, Giám đốc Trung tâm Kiểm soát bệnh tật tỉnh Thừa Thiên Huế cho biết, liệu trình tiêm chủng vắc xin Covid-19 của hãng AstraZeneca bao gồm 2 liều riêng biệt. Mũi thứ hai cách mũi thứ nhất khi đủ 4 tuần trở lên.
+Toàn tỉnh Thừa Thiên Huế có 16 cơ sở tiêm chủng của các trung tâm y tế tuyến huyện và các bệnh viện đủ điều kiện tham gia tiêm chủng. Ngoài việc tổ chức tiêm chủng tại chỗ, Trung tâm Kiểm soát bệnh tật Thừa Thiên Huế còn tổ chức các điểm tiêm chủng lưu động tại các bệnh viện chuyên khoa tuyến tỉnh.
+Được biết, đội ngũ nhân lực tham gia công tác tiêm chủng tỉnh đều được tập huấn về việc sử dụng vắc xin phòng Covid-19 và theo dõi, xử lý phản ứng sau tiêm vắc xin.
+Theo kế hoạch, từ 19/4 đến ngày 29/4, việc tiêm chủng sẽ được thực hiện hoàn thành cho các đối tượng nhóm 1 ở tuyến đầu chống dịch.
+Quảng Bình
+Thông tin từ Sở Y tế Quảng Bình cho biết, ngành Y tế tỉnh này đang tích cực triển khai các biện pháp nhằm thực hiện tốt hoạt động tiêm vắc xin Covid-19 cho một số nhóm đối tượng ưu tiên trong đợt 1 năm 2021.
+Những trường hợp được ưu tiên tiêm miễn phí trong đợt này gồm: người làm việc trong các cơ sở y tế; lực lượng tham gia phòng, chống dịch ở các tuyến (thành viên ban chỉ đạo phòng chống dịch các cấp; người làm việc ở các khu cách ly y tế tập trung; người làm nhiệm vụ truy vết, điều tra dịch tễ; tổ Covid-19 dựa vào cộng đồng…); cán bộ, nhân viên thuộc các đơn vị: Hải quan Quảng Bình, Cửa khẩu quốc tế Cha Lo, Cảng Hòn La, Cảng hàng không Đồng Hới, Ga Đồng Hới; lực lượng bộ đội biên phòng; lực lượng công an nhân dân; người làm việc tại các cơ quan, đơn vị hành chính thường xuyên tiếp xúc với nhiều người.
+Công tác phòng chống Covid-19 tại Quảng Bình thời gian qua được triển khai đồng bộ, hiệu quả.
+Để triển khai tốt công tác tiêm chủng, ngành Y tế Quảng Bình sẽ tổ chức tập huấn về hoạt động khám, sàng lọc; tiến hành tiêm vắc xin và theo dõi, xử trí phản ứng sau tiêm cho cán bộ tiêm chủng tại các điểm tiêm trên toàn tỉnh.
+Dự kiến việc tiêm vắc xin Covid-19 sẽ bắt đầu từ ngày 27/4 đến 15/5. Ngành Y tế tỉnh Quảng Bình sẽ sử dụng hệ thống tiêm chủng mở rộng tại các cơ sở khám, chữa bệnh công lập trên địa bàn, triển khai thành 2 giai đoạn với 9 điểm tiêm phòng vắc xin Covid-19. Tại các điểm tiêm chủng, ngành y tế phân công nhân viên y tế chịu trách nhiệm theo dõi, xử trí các trường hợp phản ứng sau tiêm chủng (nếu có).
+Người được tiêm chủng sẽ ở lại để theo dõi 30 phút nhằm phát hiện sớm các trường hợp phản ứng sau tiêm chủng. Lực lượng y tế sẵn sàng các phương tiện cấp cứu tại chỗ, hộp thuốc phòng chống sốc, có sẵn phương án phân công cụ thể người hỗ trợ cấp cứu, đội cấp cứu lưu động, phương tiện vận chuyển bệnh nhân khi cần thiết.
+Đại Dương- Đặng Tài

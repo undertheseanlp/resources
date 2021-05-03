@@ -1,19 +1,68 @@
 # doc_id = news_health_173
-# url = https://dantri.com.vn/suc-khoe/nha-may-gan-xu-ly-ruou-bia-nhu-the-nao-20210430104323662.htm
-# date = 20210430
-Gánh nặng của lá gan
-Gan là một cơ quan quan trọng trong việc cân bằng và duy trì sức khỏe của con người. Trên thực tế, các chức năng của gan vẫn còn là ẩn số. Tuy nhiên, một số nghiên cứu đã thống kê được hơn 500 vai trò, sinh lý chức năng gan riêng biệt.
-Ngoài việc chuyển hóa các chất để có thể dễ dàng hấp thụ vào cơ thể; tổng hợp các chất cần thiết như các yếu tố đông máu, tổng hợp albumin… Gan còn là "ngôi nhà" dự trữ rất nhiều vitamin và khoáng chất. Ngoài ra, gan còn là nơi sản xuất dịch mật, một dịch thể quan trọng trong quá trình tiêu hóa.
-Bên cạnh đó, một chức năng không thể thiếu của gan đó là đào thải độc tố. Những độc tố tan trong mỡ sẽ được các tế bào gan phân giải thành những chất kém nguy hiểm hơn hoặc dễ tan trong nước hơn để đào thải ra bên ngoài. Chính vì những chức năng quan trọng đó mà gan được xem như là một "nhà máy hóa chất" của con người. 
-Tuy nhiên ở rất nhiều người, gan không chỉ phải "xử lý" một khối công việc khổng lồ như thế, mà còn phải thường xuyên "tăng ca" xử lý thêm rượu, bia, đồ uống có cồn. Điều này vô hình chung, khiến cho gan bị quá tải và phải chịu "áp lực" nặng nề.
-"Công suất" xử lý rượu bia của "nhà máy" gan
-Nghiên cứu đã chỉ ra, chỉ có khoảng 5 - 10% lượng rượu đưa vào cơ thể được bài tiết qua mồ hôi, hơi thở và nước tiểu; 90 - 95% lượng rượu, bia còn lại được chuyển đến gan để xử lý. Tuy nhiên, một lá gan khỏe mạnh, "công suất" tối đa chỉ có thể xử lý được khoảng 2 đơn vị cồn một ngày.
-Theo các chuyên gia, lượng cồn đi vào cơ thể ở mức an toàn là một đơn vị/ngày. Trong đó một đơn vị = 25 ml thức uống chứa cồn 40 độ, hoặc 50 ml thức uống chứa cồn 20 độ. Nếu vượt quá, tế bào gan hoạt động quá tải, cồn trong rượu chuyển hóa thành acetaldehyde - đây không chỉ là một chất độc hại đối với gan mà còn làm tổn thương đến cả hệ thần kinh, thị giác, tiêu hóa….
-Ngoài ra, hiện nay trên thị trường có rất nhiều loại rượu giả, rượu nhái kém chất lượng, chứa toàn cồn công nghiệp ethanol. Lượng rượu bia này nếu được hấp thụ vào cơ thể không những làm tăng tốc độ "tàn phá" gan mà còn có nguy cơ gây ngộ độc rượu.
-Rượu bia phá hủy gan như thế nào?
-Theo GS.TS Đào Văn Long - Nguyên Trưởng khoa tiêu hóa Bệnh viện Bạch Mai, Nguyên Giám Đốc Bệnh viện Đại học Y Hà Nội, Chủ tịch Hội đồng Sáng lập Viện Nghiên cứu và Đào tạo Tiêu hóa, Gan Mật cho biết: "Những người tiêu thụ rượu bia thường xuyên là những đối tượng dễ bị mắc các bệnh lý nguy hiểm về gan như gan nhiễm mỡ, viêm gan, xơ gan,… hơn những người khác".
-Trong đó, gan nhiễm mỡ là giai đoạn sớm nhất liên quan tới thói quen uống rượu bia. Theo thống kê cho thấy, có đến 90% người thường xuyên sử dụng rượu bia bị gan nhiễm mỡ. Tình trạng gan nhiễm mỡ sẽ dần thuyên giảm nếu người bệnh uống ít đi hoặc ngừng uống rượu.
-Ở giai đoạn viêm gan, các tế bào gan bị hoại tử. Viêm gan do rượu có thể diễn biến nặng hơn, nhất là ở những người đã có bệnh lý về gan từ trước như viêm gan B, viêm gan C... Ở giai đoạn này, người bệnh sẽ có các triệu chứng như: sốt, vàng da, chán ăn, đau vùng hạ sườn bên phải,….. Khi gan bị tổn thương kéo dài, tế bào chết dần được thay thế bằng các mô xơ và bắt đầu quá trình xơ hóa gan.
-Theo các bác sĩ, phần lớn người thường xuyên sử dụng rượu bia có biến chứng thành xơ gan. Đây là một bệnh lý nguy hiểm bởi nếu không được phát hiện và điều trị kịp thời, xơ gan có thể tiến triển nặng và biến chứng thành ung thư gan gây tử vong ở người bệnh.
-Ung thư gan - đây là "đoạn cuối con đường" của các bệnh lý về gan và cũng là mức độ nặng nhất. Ước tính, ung thư gan nguyên phát trên nền xơ gan chiếm tới 80% các trường hợp. Tổ chức nghiên cứu ung thư quốc tế (IARC) đã xếp hạng rượu bia là tác nhân gây ung thư mức độ 1 không chỉ đối với gan mà còn cả thực quản, dạ dày, đại trực tràng,…
-Thu Trang
+# url = https://dantri.com.vn/suc-khoe/nhin-lai-hanh-trinh-phat-trien-cua-12-loai-vac-xin-trong-lich-su-20210428140330619.htm
+# date = 20210428
+Để hình dung được phần nào sự phức tạp của việc phát triển vắc xin, hãy cùng nhìn lại quá trình phát triển vắc xin cho một số bệnh truyền nhiễm khác trong suốt chiều dài lịch sử.
+Bệnh đậu mùa
+Việc thanh toán bệnh đậu mùa nhờ vắc xin được coi là một trong những thành tựu lớn nhất trong lịch sử y tế công cộng, nhưng phải mất vài thế kỷ để nhân loại đến được đó.
+Hiện vẫn chưa rõ về nguồn gốc của bệnh đậu mùa, mặc dù các nhà khoa học tin rằng nó bắt nguồn từ Đế chế Ai Cập thế kỷ thứ 3 trước Công nguyên. Đến thế kỷ 18, chế độ thực dân đã khiến căn bệnh lan ra khắp toàn cầu. Bệnh có tỷ lệ tử vong khủng khiếp lên tới 30%.
+Năm 1796, Edward Jenner ở Anh đã chế tạo ra loại vắc xin đậu mùa thành công đầu tiên, nhưng mãi đến những năm 1950, phương pháp điều trị bằng vắc-xin mới bắt đầu thanh toán có hiệu quả căn bệnh này ở một số nơi trên thế giới.
+Sau đó, vào năm 1967, một nỗ lực toàn cầu đẩy mạnh sản xuất vắc-xin và sự tiến bộ trong công nghệ kim tiêm cuối cùng đã mang lại thành công trong việc thanh toán căn bệnh này vào năm 1980.
+Cho đến nay, bệnh đậu mùa vẫn là căn bệnh duy nhất đã được xóa sổ hoàn toàn trên khắp thế giới thông qua các nỗ lực tiêm chủng.
+Dịch hạch
+Bệnh dịch hạch là một trong những căn bệnh lâu đời nhất và chết người nhất thế giới, lên đến đỉnh điểm trong gần 200 triệu người chết trong suốt lịch sử nhân loại. Nhưng cho đến nay vẫn chưa có vắc-xin.
+Bệnh dịch hạch nổi tiếng vì đã giết chết hàng triệu người trong thời Trung cổ, nhưng căn bệnh này vẫn còn lưu hành ở nhiều vùng trên thế giới. Gần đây như năm 2017, một vụ dịch hạch ở Madagascar đã thu hút sự chú ý của thế giới và gây nhiều lo ngại.
+Tuy nhiên, vì dịch hạch là bệnh do vi khuẩn, nên có thể sử dụng các kháng sinh hiện đại để điều trị. Mặc dù vậy, các nhà nghiên cứu tin rằng phát triển vắc xin là lựa chọn khả thi nhất để ngăn ngừa sự lây lan của bệnh về lâu dài.
+Trong quá khứ, đã có nhiều nỗ lực để chế tạo ra một loại vắc xin dịch hạch nhưng đều thất bại, bao gồm một loại được sản xuất tại Mỹ để tiêm chủng cho binh sĩ trong Chiến tranh Việt Nam.
+Nhưng vào năm 2018, WHO đã công bố Hồ sơ sản phẩm mục tiêu vắc-xin dịch hạch, trong đó liệt kê 17 vắc-xin dự tuyển có thể được phê chuẩn, đang trải qua các thử nghiệm lâm sàng tiến tới mục tiêu được FDA phê chuẩn.
+Thương hàn
+Thương hàn là căn bệnh chết người có thể lây lan rộng qua thực phẩm và nước. Mặc dù tương đối ít phổ biến ở các nước công nghiệp, nó vẫn là một mối đe dọa đáng kể ở các quốc gia đang phát triển ở Đông Nam Á, Châu Phi và Châu Mỹ Latinh.
+Hiện trên thị trường có hai loại vắc xin để ngăn ngừa bệnh thương hàn. Sau khi vi khuẩn gây bệnh được phát hiện vào năm 1880, các nhà khoa học Đức bắt đầu nghiên cứu về chúng vào năm 1896.
+Năm 1909, bác sĩ quân đội Mỹ Frederick F. Russell đã phát triển vắc xin thương hàn đầu tiên của Mỹ. Trong nhiều năm sau đó, vắc-xin được sử dụng cho mục đích quân sự, nhưng vào năm 1914, nó đã được sử dụng cho người dân Mỹ.
+Ngày nay, bệnh thương hàn là không phổ biến ở Mỹ và tiêm chủng thường không được khuyến nghị thường quy.
+Sốt vàng
+Năm 1951, Max Theiler trở thành nhà khoa học đầu tiên và duy nhất nhận được giải thưởng Nobel về phát triển vắc xin. Những nỗ lực của ông để kiểm soát bệnh sốt vàng được cộng đồng khoa học ca ngợi và ông đã giúp sửa chữa những năm nghiên cứu sai lầm.
+Sốt vàng đã gây ra những vụ dịch chết người trong suốt lịch sử nhân loại trong hơn 500 năm và đến cuối thế kỷ 19, nó được biết đến là một mối đe dọa trên toàn thế giới. Nhưng ít ai biết về căn bệnh này và những nỗ lực tiêm phòng ban đầu vào cuối thế kỷ 19 đã sai lầm khi nhằm vào sự lây truyền của vi khuẩn khi thực sự bệnh là dovirus gây ra.
+Năm 1918, các nhà nghiên cứu của Viện Rockefeller đã phát triển thứ mà họ nghĩ là vắc xin sốt vàng thành công đầu tiên - nhưng vào năm 1926, Theiler đã chứng minh điều ngược lại và vắc-xin bị lỗi đã phải ngừng sản xuất.
+Hơn một thập kỷ sau, vào năm 1937, Theiler đã chế tạo ra vắc xin sốt vàng an toàn và hiệu quả đầu tiên mà kể từ đó trở thành tiêu chuẩn chung.
+Cúm
+Bệnh cúm có một lịch sử lâu dài, bi thảm đã cướp đi tính mạng của hàng triệu người trên toàn thế giới. Trong đại dịch cúm năm 1918, không có phương pháp chữa trị hoặc tiêm chủng nào được biết đến.
+Bắt đầu từ những năm 1930, phải mất nhiều thập kỷ nghiên cứu để hiểu được sự phức tạp của virus cúm và mãi đến năm 1945, loại vắc xin đầu tiên mới được phê chuẩn sử dụng ở Mỹ.
+Nhưng chỉ hai năm sau, vào năm 1947, các nhà nghiên cứu đã kết luận rằng sự thay đổi theo mùa trong thành phần của virus khiến việc tiêm chủng hiện tại không hiệu quả.
+Các nhà nghiên cứu nhận ra có hai loại virus cúm chính - cúm A và cúm B, cùng với nhiều chủng virus mới mỗi năm. Vì điều này, các nhà khoa học phải điều chỉnh vắc xin cúm hàng năm.
+Ngày nay, vắc xin cúm theo mùa được WHO thiết kế sử dụng dữ liệu thu thập từ các trung tâm giám sát dịch cúm để phát triển vắc-xin dựa trên ba chủng có khả năng lưu hành trong mùa tới.
+Bệnh bại liệt
+Mặc dù bệnh bại liệt có thể đã ảnh hưởng đến loài người trong hàng ngàn năm, nhưng mãi đến cuối những năm 1800, căn bệnh này mới đạt đến tỷ lệ dịch. Bước sang đầu thế kỷ 19, bệnh bại liệt đã tàn phá nước Mỹ, khiến nhiều bệnh nhân bị liệt hoặc tàn tật suốt đời.
+Nghiên cứu để hiểu về bệnh bại liệt đã dần dần tích lũy trong vài thập kỷ đầu tiên của thế kỷ 20. Năm 1935, việc tiêm chủng lần đầu tiên được thử nghiệm, trước hết là trên khỉ và sau đó là trên trẻ em ở California. Mặc dù vắc xin cho kết quả kém, hai thập kỷ nghiên cứu sau đó đã mở đường cho sự phát triển vắc-xin của Jonas Salk vào năm 1953 và Albert Sabin vào năm 1956.
+Sau một thử nghiệm với hơn 1,6 triệu trẻ em, vắc xin Salk đã được áp dụng ở Mỹ vào năm 1955. Nghiên cứu liên tục trong suốt những năm 1980 mở đường cho việc sản xuất vắc xin hiệu quả hơn, và đến năm 1994, bệnh bại liệt đã được thanh toán ở Châu Mỹ.
+Gần đây nhất là năm 1988, 350.000 người mắc bệnh bại liệt, phần lớn trong số họ là trẻ em. Đến năm 2018, chỉ có 33 trường hợp mắc bệnh bại liệt trên toàn thế giới.
+Năm ngoái đã chứng kiến sự gia tăng nhẹ về số lượng các trường hợp, với 544 ca. Một khi chúng ta đưa con số đó về 0, bệnh bại liệt sẽ là căn bệnh thứ hai được con người quét sạch khỏi hành tinh.
+Bệnh than
+Bệnh than được cho là có từ khoảng năm 700 trước Công nguyên, nhưng những ghi chép lâm sàng đầu tiên về căn bệnh này là vào những năm 1700.
+Trong suốt những năm 1800, một loạt các nghiên cứu để xác định căn bệnh này bắt nguồn từ đâu, vi khuẩn có thể sống được bao lâu và bệnh lây truyền qua động vật như thế nào đã mở đường cho những nỗ lực đầu tiên về vắc xin năm 1881.
+Năm 1937, nhà khoa học Max Sterne đã tạo ra một loại vắc xin bệnh than thành công được sử dụng trong chăn nuôi, một phiên bản của nó vẫn đang được sử dụng cho đến ngày nay, nhằm giảm lây truyền từ động vật sang người. 13 năm sau, vắc-xin đầu tiên cho người đã được tạo ra và sử dụng cho những người làm việc trong các nhà máy chế biến thịt ở Mỹ.
+Một vắc xin bệnh than cập nhật đã được phát triển vào năm 1970, chiếm phần lớn những gì được sử dụng để ngăn ngừa bệnh ở người ngày nay.
+Sởi, quai bị và rubella (MMR)
+Sởi, quai bị và rubella là những bệnh nhiễm virus từng gây ra những vụ dịch lớn chết người. Trong suốt những năm 1960, những vắc xin đơn lẻ đã được phát triển cho từng bệnh, nhưng một thập kỷ sau, chúng được kết hợp thành một.
+Sởi là bệnh đầu tiên trong số 3 bệnh có vắc xin riêng vào năm 1963, sau đó là quai bị vào năm 1967 và rubella năm 1969. Hai năm sau, năm 1971, Maurice Hilleman, Viện nghiên cứu trị liệu Merck, đã phát triển một loại vắc-xin kết hợp tạo miễn dịch đối với cả ba virus.
+Hilleman được ghi nhận đã tạo ra vắc xin sởi và quai bị đầu tiên, và bắt đầu nghiên cứu các cách để kết hợp một hệ thống miễn dịch cho từng loại virus. Sử dụng nghiên cứu trước đây của mình và vắc-xin rubella do Stanley Plotkin phát triển vào năm 1969, ông đã tạo ra vắc xin MMR thành công đầu tiên chỉ sau hai năm.
+Theo CDC, "Một liều vắc xin MMR có hiệu quả 93% đối với bệnh sởi, 78% đối với quai bị và 97% đối với rubella."
+"Hai liều vắc xin MMR có hiệu quả 97% đối với bệnh sởi và 88% đối với quai bị".
+Thủy đậu
+Nhiễm thủy đậu nguyên phát, thường gọi là thủy đậu, thường bị chẩn đoán nhầm là đậu mùa cho đến cuối những năm 1800. Vào những năm 1950, các nhà khoa học đã phân biệt thủy đậu với bệnh zona (herpes zoster) và các nghiên cứu tiếp theo đã dẫn đến sự phát triển vắc-xin đầu tiên cho bệnh thủy đậu ở Nhật Bản vào những năm 1970.
+Vắc xin được cấp phép sử dụng ở Mỹ năm 1995.
+Bệnh zona (herpes zoster)
+Bệnh zona, hay herpes zoster, bắt nguồn từ cùng một loại virus gây bệnh thủy đậu. Hai cách duy nhất bệnh zona có thể phát triển là sau khi bị nhiễm thủy đậu, hoặc (ít gặp) tiếp xúc với vắc-xin thủy đậu.
+Mối liên hệ giữa bệnh zona và bệnh thủy đậu được quan sát lần đầu tiên vào năm 1953 và trong suốt những năm 1960, các nghiên cứu chỉ ra rằng bệnh zona phổ biến hơn nhiều ở những người già. Nhưng mãi đến năm 2006, loại vắc-xin thương mại đầu tiên mới được cấp phép ở Mỹ.
+Một vắc xin được cấp phép gần đây cho bệnh zona đi kèm với khuyến nghị của Ủy ban Tư vấn về Thực hành Chủng ngừa Hoa Kỳ năm 2018 rằng người lớn từ 60 tuổi trở lên nên được tiêm vắc xin phòng bệnh.
+Viêm gan B
+Viêm gan B là một virus mới hơn và được bác sĩ Baruch Blumberg phát hiện vào năm 1965. Chỉ bốn năm sau, ông đã tạo ra vắc-xin viêm gan B đầu tiên bằng cách sử dụng dạng virus được xử lý nhiệt.
+12 năm sau, năm 1981, FDA đã phê chuẩn vắc xin viêm gan B thương mại đầu tiên, bao gồm mẫu máu từ những người hiến máu bị nhiễm.
+Sau đó, vào năm 1986, một vắc xin tổng hợp mới không sử dụng các sản phẩm máu đã thay thế loại vắc xin ban đầu.
+Vì viêm gan B có thể gây ung thư gan, vắc xin cũng được coi là vắc xin chống ung thư đầu tiên.
+Virus papilloma ở người (HPV)
+Virus u nhú ở người (HPV) là bệnh lây truyền qua đường tình dục phổ biến nhất ở Mỹ và các nghiên cứu cho thấy hơn 80% phụ nữ sẽ nhiễm virus vào một lúc nào đó trong đời.
+Hai chủng HPV được cho là gây ra tới 70% ung thư cổ tử cung, có thể dẫn đến hàng trăm ngàn ca tử vong mỗi năm. Mối liên quan giữa HPV và ung thư cổ tử cung được chứng minh lần đầu tiên vào năm 1981, và hơn hai thập kỷ nghiên cứu sau đó đã mang đến một loại vắc-xin được đưa ra thị trường.
+Vắc xin HPV đầu tiên được phát triển ở Mỹ vào năm 2006, và nghiên cứu tiếp theo đã dẫn đến sự phát triển của hai loại vắc-xin kể từ đó.
+Ngày nay, các khuyến nghị về loại vắc xin nên tiêm phần lớn phụ thuộc vào tuổi.
+Cẩm Tú
+Theo Bussiness Insider

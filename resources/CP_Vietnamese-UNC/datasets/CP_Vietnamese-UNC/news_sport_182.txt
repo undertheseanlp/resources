@@ -1,14 +1,12 @@
 # doc_id = news_sport_182
-# url = https://dantri.com.vn/the-thao/mot-minh-chap-6-vo-si-vo-su-thai-cuc-tai-tieng-nhap-vien-20210423122752336.htm
-# date = 20210423
-Ngụy Lôi là võ sư Thái Cực Quyền tai tiếng của Trung Quốc. Trong quá khứ, võ sư này từng thất bại chóng vánh (chỉ sau 10 giây) trong cuộc đối đầu với Từ Hiểu Đông. Sau đó, Ngụy Lôi gần như không thượng đài mà chỉ có những phát ngôn gây sốc.
-Ngụy Lôi từng thua Từ Hiểu Đông trong quá khứ.
-Mới đây, Ngụy Lôi tiếp tục tạo nên scandal mới trong làng võ thuật Trung Quốc. Theo nguồn tin từ tờ Sohu, võ sư Thái Cực Quyền tham gia vào vụ ẩu đả với 6 HLV thể hình ở Thành Đô.
-Cái kết thì ai cũng có thể đoán trước. Ngụy Lôi đã nhập viện trong tình trạng thương tích đầy mình. Theo cảnh sát, hiện trường hết sức lộn xộn, bàn ghế đã la liệt khắp phòng. Sau đó, chính Ngụy Lôi đã xác nhận bị 6 HLV thể hình đánh hội đồng.
-Nguyên nhân dẫn tới vụ xô xáttrên vẫn chưa được làm rõ. Cảnh sát bắt đầu lấy lời khai của hai phía và tiếp tục điều tra. Theo một nhân chứng có mặt ở hiện trường thì Ngụy Lôi là người sai trước.
-Võ sư Thái Cực Quyền đã sử dụng trái phép các thiết bị tập thể hình ở trung tâm tại Thành Đô. Sau đó, một HLV thể hình đã nhắc nhở Ngụy Lôi. Hai bên cự cãi, dẫn tới cuộc xô xát sau đó. Ngụy Lôi đã bị cả nhóm HLV thể hình lao vào tấn công.
-Ngụy Lôi bị 6 HLV thể hình tấn công, tới mức phải nhập viện.
-Trong khi đó, Ngụy Lôi khai rằng ông đã bịba người giữ chặt tay chân, còn một số khác thì lao vào đấm, đá. Sau đó, ông đã phải dùng hết sức để thoát ra. Tuy nhiên, lời khai này không được dân mạng Trung Quốc chấp nhận bởi nó có nhiều điểm không đúng. Theo họ, với sức lực của Ngụy Lôi thì việc thoát ra khỏi 6 HLV thể hình lực lưỡng là rất khó.
-Một số nhân chứng khác kể rằng Ngụy Lôi không thể đánh bại bất kỳ ai trong đó. Võ sư này đã phải dùng răng cắn vào ngực của đối thủ để chống cự.
-Ngụy Lôi thì khẳng định sẽ kiện 6 HLV thể hình tấn công mình ra tòa trong thời gian tới.
-H.Long
+# url = https://dantri.com.vn/the-thao/muon-loi-hlv-polking-bao-thai-lan-che-bong-da-viet-nam-xuong-cap-20210419175514822.htm
+# date = 20210419
+Tờ Siam Sport của Thái Lan viết: "HLV Mano Polking nóng mặt sau khi bị đánh bại 3-2 bởi đội Nam Định".
+"Sự không hài lòng này của HLV Mano Polking đến từ khoảng thời gian 12 phút cuối trận, khiến ông Polking nổi nóng" - tờ nhật báo thể thao hàng đầu Thái Lan nói thêm.
+Khoảng thời gian 12 phút vừa nêu chính là khoảng thời gian… bù giờ của hiệp 2. Ban đầu trọng tài Ngô Duy Lân chỉ thông báo bù giờ 5 phút, nhưng do các cầu thủ Nam Định câu giờ quá nhiều, mà thời gian đá bù được nâng lên đến 12 phút.
+Cũng tờ Siam Sport dẫn lời vị HLV trưởng của CLB TPHCM: "Tôi không có ý coi thường đội Nam Định, kể cả với các cầu thủ của họ. Họ là đội chiến thắng. Nhưng nhìn cách mà họ bảo vệ tỷ số, tôi cảm thấy xấu hổ'.
+"Mọi đội bóng đều muốn làm bất cứ điều gì cần thiết để bảo toàn chiến thắng, nhưng cách của đội Nam Định khiến tôi không thể hài lòng" - HLV Mano Polking phát biểu thêm - "Tất cả các thành viên của họ đều cố gắng câu giờ, người ở bên trong thì nằm sân, còn người ở bên ngoài thì đá thêm bóng vào trong".
+Rồi cũng tờ nhật báo thể thao hàng đầu Thái Lan mượn lời vị HLV mang 2 quốc tịch Đức và Brazil cám cảnh cho những gì mà giới bóng đá và người hâm mộ vừa chứng kiến: "Bóng đá ngày nay không giống như 20 năm trước, khi có ai đó hỏi tôi về V-League, tôi buộc phải nói rằng tôi xấu hổ với những hình ảnh mà tôi vừa thấy".
+Điều đáng nói ở chỗ thời gian gần đây báo chí Thái Lan không còn thường xuyên đưa tin về HLV Alexandre Mano Polking, người từng có thời gian dài làm việc tại giải Thai-League. Tuy nhiên, ngay sau khi ông Polking nói về mặt lạc hậu của một đội bóng tại V-League mà ông vừa được chứng kiến, truyền thông Thái Lan lập tức khai thác đề tài này, và cho rằng đây là đề tài nóng.
+Trong khi đó, đáp lời HLV Mano Polking của CLB TPHCM, HLV Nguyễn Văn Sỹ bên phía đội Nam Định cho biết: "Những gì đội Nam Định đã làm để bảo toàn tỷ số hoàn toàn nằm trong giới hạn cho phép của bóng đá. Đối phương mà thắng thì có lẽ họ cũng làm như vậy!".
+Thiện Nhân

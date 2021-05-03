@@ -1,22 +1,18 @@
 # doc_id = news_entertainment_196
-# url = https://dantri.com.vn/giai-tri/nhung-man-trinh-dien-rung-tim-cua-quoc-co-quoc-nghiep-va-cac-con-20210416134207426.htm
-# date = 20210416
-Anh em nghệ sĩ xiếc Quốc Cơ - Quốc Nghiệp là niềm tự hào của xiếc Việt Nam bởi năm 2016, cả hai đã xác lập kỷ lục Guinness thế giới khi chồng đầu đi hết 90 bậc thang ở nhà thờ Chánh tòa thành phố Girona, Tây Ban Nha.
-"Con nhà tông không giống lông cũng giống cánh", con trai của anh em "hoàng tử xiếc" cũng giống bố khi có thể thực hiện màn giữ thăng bằng và diễn xiếc ngay từ khi còn nhỏ tuổi.
-Biểu diễn gây quỹ ủng hộ miền Trung
-Cuối năm 2020, anh em "hoàng tử xiếc" Quốc Cơ và Quốc Nghiệp cùng các con Giang Vĩ Lâm - Giang Hùng Tâm đã có mặt trong một sự kiện âm nhạc gây quỹ ủng hộ miền Trung bị bão lũ. Ngoài tiết mục riêng của mình, anh em "hoàng tử xiếc" còn trình diễn cùng các con.
-Cụ thể, trong phần bán đấu giá 2 chiếc áo dài mà Quốc Cơ - Quốc Nghiệp từng mặc khi thi chung kết Britain's Got Talent, Vĩ Lâm và Hùng Tâm đã có màn trình diễn ngẫu hứng với các bố trên sân khấu gây thích thú cho khán giả.
-Lập kỷ lục Guinness Việt Nam
-Vào tháng 8/2020, Giang Vĩ Lâm (con trai của Quốc Cơ) và Giang Hùng Tâm (con trai của Quốc Nghiệp) đã xác lập kỷ lục Guiness Việt Nam, trở thành cặp anh em nhỏ tuổi nhất đứng thăng bằng trên tay cha.
-Trong phần biểu diễn, cả hai cậu nhóc đều rất tự tin và không hề sợ hãi. Giang Hùng Tâm - Giang Vĩ Lâm đều cố gắng giữ thăng bằng lâu nhất có thể và cuối cùng đã lập được kỷ lục Guinness Việt Nam.
-"Sau nhiều lần cân nhắc cũng như thấy được sự nỗ lực của các con, mặt khác hai bé đang có một thể lực, khả năng tốt trong thời điểm này nên chúng tôi muốn giữ lấy giây phút tuyệt vời nhất để xác lập kỷ lục cho các con" - Quốc Cơ và Quốc Nghiệp chia sẻ.
-Hai anh em cho biết, các bé đã tập luyện gần một năm để có thể thựchiện nhuần nhuyễn động tác này. Cả hai vừa cho con chơi, vừa tập luyện để các con không bị căng thẳng và có tâm lý sẵn sàng cho màn biểu diễn.
-Quốc Cơ - Quốc Nghiệp cùng các con biểu diễn lập kỷ lục Guinness
-Quốc Nghiệp diễn cùng con gái Tâm An
-Không riêng gì con trai Giang Hùng Tâm, Quốc Nghiệp cũng từng nhiều lần biểu diễn cùng con gái cưng Tâm An. Giữa năm 2020, gia đình Quốc Nghiệp - Ngọc Mai được mời trình diễn trong chương trình kỷ niệm 19 năm ngày Gia đình Việt Nam. Đứng trên sân khấu, bé Tâm An không sợ hãi mà phối hợp nhịp nhàng với bố để thực hiện động tác thăng bằng trên không.
-Từ khi 6 tháng tuổi, Tâm An đã khiến nhiều người ngạc nhiên bởi cô bé đã có thể đứng trên tay bố. Thông thường, ở giai đoạn này các bé chỉ mới biết lật hoặc ngồi cứng cáp, cầm đồ chơi nhưng Tâm An lại rất mạnh dạn làm xiếc cùng bố.
-Quốc Nghiệp cho biết, anh tập cho con gái từ khi bé gần 3 tháng bằng cách chỉ con gái những động tác nhẹ nhàng, hướng dẫn cách cầm nắm... Lúc 5 tháng rưỡi, Tâm An đã có thể đứng làm xiếc nhưng không Quốc Nghiệp không dám chia sẻ vì sợ bị "ném đá".
-Bản thân Quốc Nghiệp từng tâm sự, anh là một người bố nên sẽ biết cách làm thế nào để không gây nguy hiểm cho con. Do đó, anh không khuyến khích mọi người thực hiện động tác này bởi nó đòi hỏi nắm vững kỹ thuật chứ không chỉ đơn giản là để em bé đứng trên bàn tay của mình.
-Trong ngày thôi nôi, Giang Vĩ Lâm và Giang Hùng Tâm khiến nhiều người bất ngờ khi giữ thăng bằng trên tay bố dù lúc đó, cả hai chỉ mới 1 tuổi.
-Thật ra, từ khi mới 6 tháng tuổi, cậu bé Giang Hùng Tâm đã đứng thăng bằng rất vững trên tay bố Quốc Nghiệp. Không những không sợ hãi, cậu bé còn rất thích thú và liên tục nhìn ngắm xung quanh khi được bố nâng lên cao hơn.
-Băng Châu
+# url = https://dantri.com.vn/giai-tri/nu-dien-vien-26-tuoi-cua-an-do-tu-van-20210410195721287.htm
+# date = 20210410
+Được biết, vào ngày 8/4, nữ diễn viên Ấn Độ đã uống thuốc tự vẫn tại căn hộ riêng. Ngay sau đó, cô được đưa tới bệnh viện cấp cứu. Do được phát hiện sớm nên Chaitra hiện đã qua cơn nguy kịch.
+Nữ diễn viên 26 tuổi gần đây trở thành tâm điểm truyền thông Ấn Độ khi kết hôn với một doanh nhân giàu có. Cuộc hôn nhân của Chaitra được cho rằng rất phức tạp bởi ngay từ đầu, gia đình chồng đã phản đối hôn nhân của hai người.
+Ngày 8/4, nữ diễn viên Ấn Độ - Chaitra Kotoor uống thuốc độc tự vẫn vì tình nhưng may mắn được cứu sống.
+Theo truyền thông Ấn Độ, trong mắt gia đình Nagarjuna - chồng Chaitra, cô chỉ là một phụ nữ kém cỏi và không xứng với con họ. Thậm chí, Chaitra Kotoor còn bị ngăn không cho bước vào nhà chồng, bị dọa giết nếu không chủ động rời xa người đàn ông mà cô đã hết mực thương yêu nhiều năm.
+Cha của Chatra chia sẻ với tờ ETimes TV về tình hình của con gái: "Chaitra hiện đã ổn và qua cơn nguy kịch. Con bé đã trải qua những đau khổ về tinh thần vài ngày qua. Tôi hi vọng, con gái sẽ hồi phục sớm và trở lại bình thường. Bác sĩ hiện vẫn theo dõi con bé. Hi vọng, Chaitra sẽ được xuất viện vào ngày mai".
+Cha của nữ diễn viên 26 tuổi cũng nói thêm rằng: "Hy vọng, con gái tôi đã rút ra một bài học về cuộc sống cho chính mình và không hành động nông nổi như thế này. Con bé hứa với chúng tôi sẽ tập trung vào công việc viết lách. Mong rằng con gái tôi sẽ có một tương lai tốt đẹp".
+Nữ diễn viên Chaitra Kotoor trong bệnh viện
+Dù đã qua cơn nguy kịch nhưng nữ diễn viên 26 tuổi vẫn còn rất hoảng loạn. Nằm trên giường bệnh, Chaitra vẫn khóc và buồn bã vì cách đối xử tàn nhẫn của những người xung quanh.
+Khi được hỏi về tình hình chồng Chaitra, bố của cô cho hay: "Chúng tôi không nhận được tin tức từ gì về cậu ấy gần đây. Chúng tôi định tới gặp gia đình họ để nói chuyện và giải quyết mọi chuyện. Nhưng từ khi Chaitra tự vẫn, chúng tôi quyết định sẽ không nói gì nữa. Chúng tôi sẽ ở lại bệnh viện với con gái. Một khi con gái trở lại bình thường, chúng tôi sẽ xem xét mọi việc và quyết định thêm. Chaitra đã sẵn sàng đối mặt mọi chuyện".
+Theo thống kê của India Times, nhiều ngôi sao nữ ở Ấn Độ đã chọn tự sát là do đau khổ trong tình yêu. Nữ diễn viên Pratyusha Banerjee, người thủ vai diễn Anandi trong loạt phim Cô dâu 8 tuổi từ năm 2010 đến 2013, là một ví dụ.
+Năm 2016, người đẹp sinh năm 1991 đã treo cổ tự tử khiến người hâm mộ bàng hoàng. Các trang báo của Ấn Độ cho rằng, nữ diễn viên 9x tự vẫn vì chuyện tình cảm. Bạn thân của Pratyusha Banerjee - nữ diễn viên Sara Khan cho hay, cô đã tìm tới cái chết 2 lần trong một tháng sau khi mối quan hệ giữa cô và bạn trai Rahul Singh trở nên căng thẳng.
+Trước đó, vào năm 2013, nữ diễn viên Jiah Khan từng rơi vào trạng thái suy sụp khi phát hiện bạn trai Suraj Pancholi ngoại tình. Cô chọn cái chết khi mới 25 tuổi để giải thoát mình khỏi những khổ đau.
+Nữ diễn viên Pratyusha Banerjee của Cô dâu 8 tuổi từng tự vẫn vì tình vào năm 2016.
+Mi Vân
+Theo Timeofindia

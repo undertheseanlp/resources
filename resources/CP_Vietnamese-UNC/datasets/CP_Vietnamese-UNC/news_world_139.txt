@@ -1,24 +1,11 @@
 # doc_id = news_world_139
-# url = https://dantri.com.vn/the-gioi/mau-tau-ngam-indonesia-mat-tich-ban-chay-nhat-phuong-tay-20210422151453338.htm
+# url = https://dantri.com.vn/the-gioi/may-bay-khong-nguoi-lai-cam-tu-cua-iran-thoi-bay-xe-tang-20210422153700153.htm
 # date = 20210422
-Tàu ngầm KRI Nanggala 402 diễn tập trước khi mất tích hôm 21/4 (Ảnh: Reuters).
-Tàu ngầm KRI Nanggala 402của hải quân Indonesia nặng 1.300 tấn, là tàu ngầm tấn công Type 209 chạy bằng động cơ diesel - điện. Tàu bắt đầu được đóng vào năm 1978 và Indonesia đã tiếp nhận vào tháng 10/1981.
-Tàu KRI Nanggala 402đã trải qua vài lần nâng cấp, trước khi tham gia cuộc diễn tập hải quân ở ngoài khơi đảo Bali hôm 21/4. Thủy thủ đoàn đã xin phép cho tàu lặn xuống, nhưng sau đó mất liên lạc.
-Vào thời điểm mất liên lạc, có 53 người trên tàu KRI Nanggala 402. Con tàu được cho là rơi xuống độ sâu khoảng 700 mét.
-"Đó là một tàu ngầm cổ điển", Phó đô đốc hải quân Pháp Antoine Beaussant nói vớiAFP.
-Theo ông Beaussant, tàu này chỉ chịu được độ sâu an toàn khoảng 250 mét.
-"Nếu nó nằm ở độ sâu 700 mét, khả năng cao là tàu này sẽ vỡ", Phó đô đốc Pháp nhận định.
-Tàu KRI Nanggala 402có tốc độ hành trình 21,5 hải lý/giờ và có thể chở 34 thủy thủ. Trong số 53 người trên tàu ngầm mất tích, có 49 thành viên thủy thủ đoàn, 1 chỉ huy tàu và 3 chuyên gia vũ khí.
-Động cơ điện của tàu lấy từ tổ hợp pin với trọng lượng nặng, chiếm đến 25% trọng lượng của tàu. Vũ khí chính của tàu ngầm KRI Nanggala402 gồm 8 ống phóng ngư lôi 533 mm, 14 ngư lôi hạng nặng AEG SUT.
-Trực thăng tìm kiếm của Indonesia đã phát hiện vết dầu loang tại khu vực tàu ngầm mất tích, tuy nhiên hiện chưa rõ vết dầu này xuất phát từ tàu hay là tín hiệu của thủy thủ đoàn.
-Tàu KRI Nanggala được nâng cấp vào năm 1989 tại Đức và sau đó vào năm 2012 tại Hàn Quốc. Một phần cấu trúc của tàu đã được thay thế. Các hệ thống động cơ, sonar và vũ khí trên tàu cũng được nâng cấp.
-Hải quân Indonesia cũng sở hữu một tàu ngầm khác cùng mẫu mang tên KRI Cakra. TheoJanes, hãng tin chuyên về thông tin quân sự, Indonesia còn 3 tàu ngầm thuộc các mẫu Type 209 khác nhau được chế tạo ở Hàn Quốc và Indonesia.
-Năm 1993, Indonesia đã mua lại 39 tàu đã qua sử dụng từ hải quân Đông Đức.
-Tàu ngầm Type 209 được phát triển vào những năm 1960 để thay thế các tàu có từ thời Chiến tranh Thế giới thứ 2. Loại tàu ngầm này chưa từng được Đức sử dụng, nhưng Đức vẫn xuất khẩu thành công 61 chiếc cho hơn 10 quốc gia, trong đó có Hy Lạp, Ấn Độ và Thổ Nhĩ Kỳ.
-Argentina từng triển khai tàu ngầm Type 209 trong Chiến tranh Falklands chống lại Anh.
-Ai Cập dự kiến sẽ nhận được tàu ngầm Type 209/1400 thứ tư được đóng tại Đức. Tàu này được chế tạo tại các nhà máy đóng tàu Đức, hiện thuộc sở hữu của tập đoàn công nghiệp khổng lồ Thyssenkrupp.
-Công ty Thyssenkrupp viết trên trang web của mình rằng, Type 209 được lấy cảm hứng từ các tàu ngầm ven biển thời hậu chiến của hải quân Đức. Tuy nhiên, các tàu này được nâng cấp để có thể hoạt động ở các vùng nước sâu hơn và mang được nhiều thiết bị hơn.
-Trang web Thyssenkrupp cũng khẳng định Type 209 là "tàu ngầm phi hạt nhân bán chạy nhất ở phương Tây".
-Mặc dù Indonesia vẫn chưa ghi nhận thảm họa tàu ngầm nghiêm trọng nào, các quốc gia khác từng gặp phải các vụ tai nạn như vậy.
-Thành Đạt
-Theo AFP
+Cận cảnh máy bay không người lái Iran tham gia cuộc thử nghiệm (Ảnh chụp màn hình).
+Đài truyền hình Press TV đưa tin, lực lượng Vệ binh Cách mạng Hồi giáo Iran (IRGC) ngày 21/4 đã thực hiện một bài thử nghiệm bay với UAV tự sát do nước này tự phát triển.
+Đoạn video cho thấy khí tài hình tam giác lao rất nhanh vào các mục tiêu như xe tăng, công ten nơ và khiến chúng nổ tung trong nháy mắt. Ngoài ra, hình ảnh chiếc UAV di chuyển trên đường băng cũng được ghi lại, cho thấy diện mạo của vũ khí này.
+Cũng vào ngày hôm qua, Iran đã công bố đoạn video cho thấy các UAV của nước này theo dõi tàu sân bay của hải quân Mỹ hoạt động ở Vịnh Ba Tư. Đoạn video được quay rõ nét cho thấy rõ hình ảnh các khí tài quân sự của Mỹ như máy chiến đấu, trực thăng. Tehran trước đó từng tuyên bố họ có thể phá hủy bất cứ mục tiêu nào của Mỹ trong khu vực.
+Vụ thử nghiệm của Iran diễn ra trong bối cảnh tình hình Trung Đông vẫn căng thẳng và chưa có dấu hiệu hạ nhiệt. Hôm 12/4, Tehran nói rằng nước này bị "khủng bố hạt nhân" khi cơ sở hạt nhân Natanz của Tehran bị gián đoạn hôm 11/4. Iran cáo buộc Israel đứng sau vụ việc và tuyên bố sẽ trả đũa.
+Quan hệ giữa Mỹ và Iran xấu đi rõ rệt từ năm 2018 khi Washington rút khỏi hiệp ước hạt nhân với Tehran. Căng thẳng bùng phát lên cao trào vào đầu năm ngoái khi Mỹ thực hiện vụ không kích ám sát một tướng cấp cao của Tehran khiến Tehran tấn công tên lửa đáp trả. Mỹ thường xuyên cáo buộc các nhóm vũ trang thân Iran đứng sau các vụ tấn công vào cơ sở ngoại giao, căn cứ quân sự có người Mỹ ở Iraq trong thời gian qua.
+Đức Hoàng
+Theo Sputnik

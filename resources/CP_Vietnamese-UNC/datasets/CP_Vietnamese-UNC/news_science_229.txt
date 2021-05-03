@@ -1,15 +1,14 @@
 # doc_id = news_science_229
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tiet-lo-hau-qua-sau-vu-phun-cua-sieu-nui-lua-doi-voi-trai-dat-20210401061019832.htm
-# date = 20210401
-Tạp chí Geophysical Research Letters thông tin, các nhà khoa học đến từ Đại học Oslo (Na Uy), Trung tâm Helmholtz nghiên cứu đại dương Kiel GEOMAR (Đức), Trung tâm quốc gia nghiên cứu khí quyểnNCAR (Mỹ) và Viện nghiên cứu khí quyển Max Planck MPI-M (Đức)đã nghiên cứu về hậu quả sau vụ phun trào xảy ra cách đây 75 nghìn năm của siêu núi lửa Los Chocoyos, nằm ở vùng cao nguyên Guatemal.
-Hiện giờ, tại điểm núi lửa phun trào là miệng núi lửa Atitlan khổng lồ, nó biến thành một cái hồ. Độ cao của miệng núi lửa là 1563 mét trên mực nước biển, xung quanh có ba ngọn núi lửa hình nón: Atitlan, Toliman và San Pedro.
-Khi núi lửa Los Chocoyos phun trào, nó đạt cường độ cấp 8 - chỉ số lớn nhất trên thang Chỉ số phun trào núi lửa VEI (Volcanic Explosivity Index).
-Vụ phun trào được biết đến là một trong những sự kiện núi lửa lớn nhất trong 100.000 năm qua, và chắc chắn phải là hỏa ngục của magma, các vụ nổ và bùng phát khí.
-Các nhà khoa học đã phân tích trầm tích trong các lớp địa chất hình thành sau vụ phun trào và phát hiện ra rằng, thảm họa đã khiến một lượng lớn lưu huỳnh, clo và brom được thải vào khí quyển. Tro núi lửa sau vụ nổ Los Chocoyos được tìm thấy ở một số nơi trên cao nguyên Guatemala và trong trầm tích biển từ lõi biển sâu ở Thái Bình Dương, Vịnh Mexico và thậm chí ở Đại Tây Dương.
-Bằng cách phân tích trầm tích trong các lớp địa chất hình thành sau vụ phun trào, các nhà khoa học đã phát hiện ra rằng thảm họa đã khiến một lượng lớn lưu huỳnh, clo và brôm được thải vào khí quyển.
-Theo kết quả mô phỏng trên máy tính, vụ phun trào đã làm gián đoạn sự dao động bán niên hai năm một lần của vùng nhiệt đới theo hướng gió trong tầng bình lưu, kéo dài mười năm.
-Sự gián đoạn hệ thống gió là kết quả của tình trạng không khí bị nóng lên do khí sol và do hiệu ứng làm mát, nguyên nhân là vì suy giảm tầng ôzôn sau vụ phun trào.
-Nghiên cứu mới đã làm sáng tỏ điều gì sẽ xảy ra khi một siêu núi lửa như vậy phun trào. Nó sẽ kéo dài vài năm, lượng khí thải sẽ đạt đỉnh và nó có thể có sức mạnh để thay đổi tạm thời hướng gió trong tầng bình lưu nhiệt đới.
-Hiện nay trên thế giới có khoảng 20 siêu núi lửa được biết đến. Một trong những siêu núi lửa nổi tiếng nhất là Yellowstone Caldera ở Mỹ. Yellowstone được biết đến là nơi đã có hai vụ phun trào cấp độ 8 VEI trong quá khứ (khoảng 2,1 triệu và 640.000 năm trước).
-M.P
-Tổng hợp
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tieu-hanh-tinh-co-kich-thuoc-lon-hon-san-bong-da-dang-lao-ve-phia-trai-dat-20210407052725796.htm
+# date = 20210407
+Trung tâm Nghiên cứu Vật thể gần Trái đất của NASA đang theo dõi chặt chẽ những gì liên quan đến tiểu hành tinh này.
+Dự kiến tiểu hành tinh sẽ di chuyển gần nhất so với Trái đất vào đầu tháng 5 sắp tới.
+NASA ước tính rằng "2021 AF8" - tên của tiểu hành tinh được các nhà khoa học theo dõi lần đầu tiên vào tháng 3, có đường kính từ 260 đến 580 mét.
+So với nhiều tiểu hành tinh từng được phát hiện trong không gian thì nó khá nhỏ, nhưng AF8 2021 vẫn lớn hơn 90% các vật thể trong khoảng không lớn.
+Tuy nhiên, rất may mắn là tiểu hành tinh này được cho sẽ đi qua Trái đất một cách an toàn ở khoảng cách 3,4 triệu km. Nhưng các nhà thiên văn học vẫn đang theo dõi chặt chẽ vì tiểu hành tinh này đã được NASA phân loại là một tiểu hành tinh có khả năng nguy hiểm.
+Hệ thống theo dõi các mối đe dọa của NASA đang theo dõi 22 tiểu hành tinh tương tự như 2021 AF8 mặc dù rất ít cơ hội chúng va vào Trái đất trong 100 năm tới.
+Tiểu hành tinh đầu tiên và lớn nhất 29075 (1950 DA) trong danh sách này sẽ không xuất hiện cho đến năm 2880. Nó có kích thước gấp ba lần Tòa nhà Empire State ở Mỹ và từng được cho là có xác suất cao nhất đâm vào Trái đất.
+Tiểu hành tinh được biết đến là những tảng đá xoay quanh Mặt trời giống như bất kỳ hành tinh nào, nhưng có kích thước nhỏ hơn nhiều so với các hành tinh.
+Hầu hết các tiểu hành tinh trong Hệ Mặt trời của chúng ta đều được tìm thấy trong vành đai tiểu hành tinh trên quỹ đạo của Sao Hỏa và Sao Mộc. Ngoài ra, chúng còn quay trong quỹ đạo của các hành tinh khác và cũng quay quanh Mặt trời.
+Trang Phạm
+Theo Sputnik

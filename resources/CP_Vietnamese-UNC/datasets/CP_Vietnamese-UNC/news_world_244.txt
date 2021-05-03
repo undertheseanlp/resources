@@ -1,33 +1,19 @@
 # doc_id = news_world_244
-# url = https://dantri.com.vn/the-gioi/trai-qua-nhung-ngay-den-toi-nhat-an-do-gong-minh-chong-bao-covid-19-20210430171839601.htm
-# date = 20210430
-Bệnh nhân Covid-19 được đưa tới bệnh viện ở Kolkata, Ấn Độ (Ảnh: Getty).
-Ấn Độ hôm nay 30/4 tiếp tục công bố những con số kỷ lục, với 386.452 ca nhiễm mới và 3.498 ca tử vong trong 24 giờ qua. Một ngày trước đó, Ấn Độ ghi nhận 3.645 ca tử vong và hơn 379.000 ca nhiễm mới trong 24 giờ. Các số liệu được công bố chính thức được cho là thấp hơn nhiều so với số người chết và nhiễm bệnh trên thực tế.
-Ngoại trưởng Harsh Vardhan Shringla cho biết hơn 40 quốc gia đã cam kết gửi viện trợ y tế thiết yếu cho Ấn Độ, đặc biệt là ôxy, trong bối cảnh nguồn cung ôxy tại Ấn Độ đang bị thiếu hụt trầm trọng. Số hàng viện trợ bao gồm gần 550 "nhà máy" tạo ôxy, hơn 4.000 thiết bị tạo ôxy, 10.000 bình ôxy và 17 bồn khí đông lạnh.
-Theo Reuters, lô viện trợ khẩn cấp đầu tiên của Mỹ đã được chuyển đến hôm nay. Một máy bay vận tải quân sự Super Galaxy mang theo hơn 400 bình ôxy và các thiết bị y tế khác và gần 1 triệu bộ xét nghiệm nhanh Covid-19 đã hạ cánh xuống sân bay quốc tế của New Delhi.
-Nhật Bản, quốc gia mới nhất đề nghị giúp đỡ Ấn Độ, hôm nay thông báo rằng nước này sẽ gửi 300 máy tạo ôxy và 300 máy thở đến Ấn Độ.
-"Nhật Bản sát cánh cùng Ấn Độ, một người bạn và đối tác của chúng tôi, trong nỗ lực chống lại đại dịch Covid-19 thông qua gói hỗ trợ khẩn cấp bổ sung", Bộ Ngoại giao Nhật Bản cho biết.
-Ngoài Mỹ và Nhật Bản, nhiều quốc gia khác như Anh, Singapore... cũng lên kế hoạch đưa vật tư y tế và ôxy tới Ấn Độ.
-Tại nhiều thành phố của Ấn Độ, các bệnh viện đã hết giường bệnh, trong khi người nhà của các bệnh nhân phải chen lấn để mua thuốc và bình ôxy.
-"Chúng tôi tìm đến nhiều bệnh viện, nhưng đều bị từ chối nhập viện", con trai của một nữ bệnh nhân 84 tuổi cho biết. Người phụ nữ này đã tử vong tại nhà trong tuần này, sau khi không thể tìm thấy giường bệnh và ôxy ở Kolkata, thủ phủ của bang Tây Bengal.
-Đảm bảo nguồn cung ôxy
-Người dân mang bình ôxy tới một nhà máy để nạp đầy ở New Delhi (Ảnh: Reuters).
-Tình trạng khan hiếm ôxy y tế tại Ấn Độ được cho là sẽ khả quan hơn vào giữa tháng tới, khi nguồn cung ôxy tăng 25% và cơ sở hạ tầng giao thông đáp ứng được nhu cầu.
-Theo Moloy Banerjee, một lãnh đạo tại công ty sản xuất ôxy lớn nhất Ấn Độ Linde Plc, mức tiêu thụ ôxy y tế tại nước này đã tăng gấp 8 lần so với thông thường, lên tới khoảng 7.200 tấn mỗi ngày trong tháng này.
-"Đây là những gì đang gây ra cuộc khủng hoảng bởi không ai chuẩn bị trước cho điều này, đặc biệt khi nhu cầu liên tục tăng", ông Banerjee cho biết.
-Cuộc khủng hoảng hậu cần cũng đang cản trở việc vận chuyển nhanh chóng ôxy từ các khu vực ở phía đông đến các khu vực ở phía bắc và phía tây Ấn Độ - những nơi đang bị ảnh hưởng nặng nề bởi dịch bệnh. Tuy nhiên, ông Banerjee dự đoán tình trạng này sẽ được giải quyết trong những tuần tới, khi nhiều phương tiện sẽ được triển khai để phục vụ cho việc phân phối ôxy.
-"Kỳ vọng của tôi là vào giữa tháng 5, chúng ta chắc chắn sẽ có cơ sở hạ tầng giao thông cho phép đáp ứng nhu cầu ôxy trên khắp cả nước", ông Banerjee cho biết thêm.
-Theo ông Banerjee, Ấn Độ đang nhập khẩu khoảng 100 container lạnh để vận chuyển một lượng lớn ôxy y tế lỏng, trong đó công ty Linde cung cấp 60 container. Một số container đang được vận chuyển bằng máy bay của không quân Ấn Độ.
-Nhiều container trong số này sẽ được đặt trên các chuyến tàu chuyên dụng chạy xuyên Ấn Độ, mỗi chiếc chở từ 80-160 tấn oxy lỏng và vận chuyển đến nhiều thành phố.
-Công ty Linde cũng đang tìm cách tăng gấp đôi số lượng bình ôxy trong mạng lưới phân phối của mình lên ít nhất 10.000 bình, giúp cải thiện nguồn cung ôxy cho các vùng nông thôn có cơ sở hạ tầng kém.
-Tiêm vắc xin đồng bộ
-Người dân tập trung tiêm vắc xin Covid-19 tại Mumbai, Ấn Độ ngày 26/4 (Ảnh: Reuters).
-Chính phủ Ấn Độ dự kiến sẽ tiêm vắc xin Covid-19 cho tất cả người trưởng thành từ ngày 1/5.
-Tuy nhiên, một số bang cảnh báo họ không có đủ kho dự trữ vắc xin và việc triển khai tiêm chủng vắc xin mở rộng đang gặp nhiều rào cản như vấn đề hành chính, nhầm lẫn giá cả hay trục trặc kỹ thuật trên nền tảng vắc xin kỹ thuật số của chính phủ.
-Tất cả các trung tâm tiêm chủng ở thủ đô tài chính Mumbai của Ấn Độ đã đóng cửa trong 3 ngày kể từ ngày 30/4 do thiếu vắc xin.
-Chỉ khoảng 9% trong số 1,4 tỷ dân Ấn Độ đã được tiêm một liều vắc xin kể từ tháng 1.
-Theo The Hindu, Ấn Độ khó có khả năng tiếp tục xuất khẩu vắc xin sang các nước láng giềng, bao gồm Bangladesh, Nepal và Sri Lanka, cho đến ít nhất là tháng 7.
-Ấn Độ đã dừng xuất khẩu vắc xin, cả theo hình thức thương mại và viện trợ, sang các nước vào đầu tháng 4, khi làn sóng Covid-19 thứ hai đổ bộ. Ngoại trưởng Ấn Độ Harsh Shringla không đưa ra mốc thời gian cụ thể về việc khi nào các nguồn cung này sẽ được tiếp tục.
-"Hiện nay, nhu cầu vắc xin của chúng tôi rất lớn và tất cả đối tác của chúng tôi đều hiểu rằng trong bối cảnh này, những gì chúng tôi cần làm bây giờ là tăng cường chương trình tiêm chủng của mình, lên đến 2-3 tỷ liều", Ngoại trưởng Shringla cho biết thêm.
+# url = https://dantri.com.vn/the-gioi/trung-quoc-canh-bao-my-choi-quan-bai-dai-loan-la-dua-voi-lua-20210424112835133.htm
+# date = 20210424
+Ngoại trưởng Trung Quốc Vương Nghị phát biểu tại cuộc họp với Hội đồng Quan hệ Đối ngoại Mỹ (CFR) ngày 23/4 (Ảnh: Xinhua).
+Tại hội nghị trực tuyến với các quan chức Hội đồng Quan hệ Đối ngoại Mỹ (CFR) vào ngày 23/4, Ngoại trưởng Vương Nghị nhắc lại lập trường của Trung Quốc đối với vấn đề Đài Loan, Tân Cương và Hong Kong, yêu cầu Mỹ không can thiệp vào công việc nội bộ của Trung Quốc.
+Ông Vương Nghị nói rằng Mỹ không thể mong đợi Trung Quốc hợp tác trong các vấn đề thuộc lợi ích của Mỹ, trong khi liên tục thách thức các quyền và lợi ích của Trung Quốc.
+Đề cập tới vấn đề Đài Loan, nhà ngoại giao Trung Quốc nhấn mạnh rằng chơi "quân bài Đài Loan" là "đùa với lửa". Ông Vương Nghị hối thúc Mỹ tuân thủ nghiêm ngặt nguyên tắc Một Trung Quốc và tôn trọng các cam kết của Washington trong các tuyên bố chung giữa hai nước.
+Ông Vương cho rằng Mỹ vẫn chưa tìm ra con đường thích hợp để hợp tác với Trung Quốc và chính quyền Tổng thống Joe Biden vẫn đang có những hiểu lầm đối với Bắc Kinh.
+"Chúng tôi cho rằng cách tiếp cận đúng đắn để xử lý mối quan hệ Trung - Mỹ là tăng cường đối thoại, đẩy mạnh hợp tác, thu hẹp khác biệt và tránh đối đầu", Ngoại trưởng Vương Nghị nói, đồng thời cảnh báo nếu đối đầu, cả hai sẽ phải chịu tổn thất.
+Theo ông Vương, Trung Quốc tuân thủ chính sách phát triển hòa bình và không bao giờ tìm kiếm bá quyền, bởi các bài học từ kinh nghiệm lịch sử của nước này cho thấy nếu một quốc gia bá quyền, quốc gia đó chắc chắn sẽ thất bại.
+"Quan hệ Trung - Mỹ đang bước vào một ngã rẽ mới. Chìa khóa cho sự phát triển trong tương lai của quan hệ song phương phụ thuộc vào việc liệu Mỹ có thể chấp nhận sự trỗi dậy hòa bình của Trung Quốc, một quốc gia khác biệt về hệ thống xã hội, văn hóa lịch sử và giai đoạn phát triển, cũng như thừa nhận rằng người dân Trung Quốc có quyền theo đuổi cuộc sống tốt hơn hay không", ông Vương Nghị nói thêm.
+Ông Vương nói rằng Trung Quốc hy vọng Mỹ sẽ nhìn nhận sự phát triển của Trung Quốc một cách khách quan và hợp lý, đồng thời cùng Trung Quốc khám phá một con đường mới là chung sống hòa bình và hợp tác cùng có lợi.
+Phát biểu của Ngoại trưởng Trung Quốc được đưa ra sau khi Bộ Ngoại giao Mỹ ngày 9/4 công bố chính sách mới khuyến khích các cơ quan chính phủ tiếp cận các đối tác ở Đài Loan. Chính sách này cho phép giới chức Mỹ gặp gỡ giới chức Đài Loan tự do hơn so với trước đây.
+Mỹ, cũng như hầu hết quốc gia khác, chỉ có quan hệ ngoại giao chính thức với Trung Quốc đại lục, và không có quan hệ chính thức với Đài Loan kể từ năm 1979. Mặc dù vậy, Washington vẫn là đối tác thương mại và quân sự quan trọng của hòn đảo trong nhiều năm qua.
+Trung Quốc luôn coi Đài Loan là vùng lãnh thổ không thể tách rời và tuyên bố sẵn sàng sáp nhập bằng mọi giá, kể cả bằng vũ lực. Đài Loan có thể coi là vấn đề nhạy cảm trong mối quan hệ giữa Mỹ và Trung Quốc, Bắc Kinh coi đó là "lằn ranh đỏ" mà Washington không nên bước qua.
+Trung Quốc nhiều lần hối thúc Mỹ tuân thủ nguyên tắc "Một Trung Quốc" và 3 tuyên bố chung Mỹ - Trung, dừng bán vũ khí cho Đài Loan, chấm dứt các liên kết quân sự với hòn đảo.
+Vấn đề Đài Loan tiếp tục nóng lên gần đây sau khi Tổng thống Mỹ Joe Biden nhậm chức hồi đầu năm nay. Trung Quốc liên tục điều các phi đội máy bay chiến đấu áp sát Đài Loan, trong khi Mỹ cũng điều động các tàu chiến đến khu vực trong một động thái được cho là gửi thông điệp cứng rắn đến Trung Quốc.
 Thành Đạt
-Tổng hợp
+Theo Xinhua

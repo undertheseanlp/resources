@@ -1,21 +1,15 @@
 # doc_id = news_sport_117
-# url = https://dantri.com.vn/the-thao/he-lo-thong-tin-cuc-soc-ve-viec-hlv-mourinho-bi-sa-thai-20210420131024135.htm
-# date = 20210420
-Triều đại của HLV Mourinho ở Tottenham đã kết thúc sau 17 tháng. Vào hôm qua, "Người đặc biệt" vừa phải nhận trát sa thải tới từ Spurs. Đây là quyết định đột ngột khi mà gần 1 tuần nữa, Tottenham sẽ bước vào trận chung kết League Cup với Man City.
-Harry Kane, người được HLV Mourinho yêu thương nhất, được cho là nằm trong nhóm lật ghế "Người đặc biệt".
-Theo nguồn tin của The Sun, Chủ tịch Tottenham, Daniel Levy là người thực hiện việc "bắn hạ" tương lai của HLV Mourinho nhưng chính các cầu thủ Tottenham là người... "cung cấp đạn".
-Sau trận hòa trước Everton, một vài thành viên của Tottenham đã tới gặp riêng Chủ tịch Daniel Levy để phàn nàn về chiến thuật và phương pháp của "Người đặc biệt". Cần nói thêm rằng đây không phải là lần đầu tiên, họ tỏ ra bức xúc về điều này.
-Điều này càng khiến người ta tin rằng nội bộ của Tottenham đã thực sự loạn trong thời gian dài, trước khi HLV Mourinho ra đi. Còn nhớ, không lâu trước khi bị sa thải, HLV người Bồ Đào Nha từng thẳng thắn tuyên bố muốn tìm ra "kẻ phản bội" vì tiết lộ những thông tin bí mật trong phòng thay đồ của CLB lên mặt báo.
-Các cầu thủ trụ cột của Tottenham đã quá quen với cách mà Mourinho đối xử và phớt lờ (tới mức khinh thường) với những cá nhân hay trụ cột không còn nằm trong kế hoạch của ông.
-Họ cũng đã "chịu đựng lớn" khi luôn bị HLV Mourinho đổ lỗi sau những kết quả không tốt của đội bóng. Có quá nhiều gương mặt không vui trên sân tập, ngay cả khi Chủ tịch Daniel Levy xuất hiện.
-Đội trưởng Tottenham Hugo Lloris cũng nằm trong danh sách nhóm cầu thủ muốn đẩy HLV Mourinho ra đi.
-Chính vì vậy, theo tờ The Sun, cầu thủ Tottenham đã "nổi dậy" để lật ghế ông thầy người Bồ Đào Nha. Chủ tịch Daniel Levy cũng cho rằng đây là lúc "phải đưa ra hành động", trước khi sự bất ổn nằm ngoài tầm kiểm soát.
-Điều đáng nói là những cầu thủ có ý định lật ghế của HLV Mourinho lại có cả những người tưởng chừng sẽ "trung thành" với ông. Tờ The Sun không ngần ngại chỉ ra "kẻ đâm sau lưng" HLV người Bồ Đào Nha là Harry Kane và Hugo Lloris. Đây chính là những người đã đại diện cho các cầu thủ tới gặp Chủ tịch Daniel Levy đề đạt nguyện vọng sa thải HLV Mourinho.
-Harry Kane là người được HLV Mourinho ưu ái ở mùa giải này. Tiền đạo người Anh đã thi đấu rất tốt và đang dẫn đầu cả danh sách ghi bàn (21 bàn) và kiến tạo (13 lần) ở Premier League mùa giải này.
-Vấn đề ở chỗ, ngay sau khi "Người đặc biệt" bị sa thải, chính Harry Kane đã bày tỏ sự nuối tiếc. Trên trang Twitter, chân sút sinh năm 1993 viết: "Cảm ơn HLV Mourinho vì tất cả. Rất vui khi được làm việc cùng ông. Tôi chúc cho ông gặt hái được thành công ở chương tiếp theo trong sự nghiệp".
-Dưới thời HLV Pochettino, sân tập Enfield HQ đã trở thành nơi mà tất cả các nhân viên, bao gồm giám đốc điều hành, nhân viên dọn dẹp cho tới những ngôi sao trăm triệu bảng đã chào nhau bằng cái bắt tay và câu chào: "Chào buổi sáng".
-Các cầu thủ Tottenham được cho là không chịu nổi cách quản trị của HLV Mourinho.
-Trong khi đó, tới thời điểm HLV Mourinho dẫn dắt (đặc biệt là ở giai đoạn cuối), nó đã biến một môi trường mà các cầu thủ và đồng nghiệp thậm chí không thể nhìn vào mắt nhau.
-Trước sự căng thẳng ấy, Chủ tịch Daniel Levy không thể nhắm mắt để sự bất ổn ngày càng lan rộng. Bởi điều đó có thể khiến những ngôi sao sáng giá của Tottenham lũ lượt ra đi trong mùa Hè 2021.
-Đó là lý do vì sao mà ông đã quyết định sa thải HLV Mourinho một cách nhanh chóng và đột ngột tới vậy.
-H.Long
+# url = https://dantri.com.vn/the-thao/hlv-ferguson-70-nam-lich-su-bong-da-cham-dut-vi-european-super-league-20210419164000715.htm
+# date = 20210419
+Đại diện của 12 CLB hàng đầu châu Âu đã cùng thống nhất thành lập siêu giải đấu European Super League vào tối 18/4 khiến bóng đá châu Âu cảm thấy hỗn loạn. 12 CLB sáng lập giải đấu bao gồm 6 "ông lớn" của Anh là Man Utd, Man City, Chelsea, Liverpool, Arsenal, Tottenham, 3 CLB của Tây Ban Nha là Real Madrid, Barcelona, Atletico Madrid, 3 CLB của Italia là Juventus, AC Milan và Inter.
+Trước đó, hai CLB của Đức là Dortmund, Bayern Munich cũng như Paris Saint Germain (PSG) của Pháp đã đồng ý nhưng họ bất ngờ rút lui vào phút chót. Theo mong muốn của những người khởi xướng European Super League, họ cần 15 đội bóng tham dự cố định (3 suất này đáng ra thuộc về Dortmund, Bayern Munich, PSG) và 5 CLB khác tham dự theo sự tuyển chọn vào mỗi mùa giải.
+Ngay lập tức, rất nhiều tên tuổi của bóng đá thế giới đã phản đối mạnh mẽ việc thành lập siêu giải đấu này.Sir Alex Ferguson nằm trong những người chỉ trích việc thành lập European Super League khi chia sẻ trên Reuters ý kiến của mình:
+"Giải đấu này sẽ chấm dứt 70 năm lịch sử của bóng đá châu Âu. Khi còn là cầu thủ cho đội bóng tỉnh Dunfermline vào những năm 1960s, hay khi dẫn dắt Aberdeen vô địch cúp châu Âu, điều đó (Champions League) giống như leo lên đỉnh Everest.
+Sir Alex Ferguson phản đối việc thành lập European Super League vì làm đảo lộn lịch sử 70 năm của bóng đá thế giới
+Everton đã chi 500 triệu bảng để xây SVĐ mới với tham vọng được dự Champions League. Người hâm mộ bóng đá thế giới luôn yêu thích giải đấu này. Trong triều đại của tôi ở Man Utd, chúng tôi đã 4 lần vào chung kết Champions League và đó đều là những đêm đặc biệt nhất.
+Tôi không chắc Man Utd có liên quan gì tới việc thành lập giải đấu mới hay không, bởi tôi không phải một phần trong việc đưa ra quyết định".
+Trong khi đó, trả lời câu hỏi của báo giới ngay sau chiến thắng của Man Utd trước Burnley, HLV Ole Gunnar Solskjaer cho biết ông đã nhận được thông tin về việc thành lập siêu giải đấu châu Âu nói trên, nhưng tạm thời ông chưa đưa ra bình luận bởi cần phải xem xét kỹ thông tin cũng như thông báo chính thức từ CLB.
+Huyền thoại Man Utd Gary Neville là người phản đối mạnh mẽ nhất việc thành lập siêu giải đấu European Super League
+Man Utd nằm trong nhóm 6 "ông lớn" ở Premier League đồng ý tham gia sáng lập giải đấu European Super League
+Còn Man Utd có truyền thống hơn 100 năm, được hình thành từ những tầng lớp lao động bình dân tại Manchester. Thế mà bây giờ bọn họ lại muốn tham gia một giải đấu chẳng có thể thống gì cả, không tồn tại sự cạnh tranh lành mạnh và không hề bị lo phải xuống hạng.
+Sông Lam

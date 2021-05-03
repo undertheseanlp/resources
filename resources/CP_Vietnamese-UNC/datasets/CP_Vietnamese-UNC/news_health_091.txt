@@ -1,58 +1,29 @@
 # doc_id = news_health_091
-# url = https://dantri.com.vn/suc-khoe/chuyen-gia-tiet-lo-bi-quyet-tap-luyen-va-an-uong-phong-ngua-ung-thu-20191101211929204.htm
-# date = 20191101
-Theo thống kê của Globocan năm 2018 cho thấy: toàn thế giới có 18,1 triệu người mới mắc ung thư, trong đó có trên 9,5 triệu người tử vong vì căn bệnh này.
-Tại Mỹ, ung thư là nguyên nhân thứ hai gây tử vong chỉ đứng sau bệnh tim mạch. Bệnh lý ung thư không những làm giảm chất lượng sống của người bệnh mà còn gây ảnh hưởng đến cuộc sống của các thành viên trong gia đình, người chăm sóc và bạn bè. Đối với những người không hút thuốc, các yếu tố nguy cơ quan trọng liên quan đến ung thư bao gồm: trọng lượng cơ thể, chế độ ăn uống và hoạt động thể chất.
-Các thống kê tại Mỹ cho thấy: Ít nhất 18% các trường hợp ung thư và khoảng 16% các ca tử vong do ung thư có liên quan đến thừa cân, lười vận động, uống rượu hoặc dinh dưỡng kém. Vì vậy để phòng ngừa hiệu quả và đẩy lùi nguy cơ mắc ung thư, hiệp hội ung thư Mỹ ACS (American Cancer Society) đã đưa ra những khuyến cáo cụ thể như sau:
-Đạt được và duy trì cân nặng hợp lý trong suốt cuộc đời
-Hãy giữ cân nặng của bạn trong giới hạn khỏe mạnh và tránh thừa cân khi trưởng thành.
-Thừa cân hoặc béo phì có liên quan chặt chẽ đến việc tăng nguy cơ mắc một số loại bệnh ung thư, bao gồm:
-- Ung thư vú (sau mãn kinh), nội mạc tử cung, buồng trứng
-- Ung thư thực quản, dạ dày, đại trực tràng
-- Ung thư gan, thận
-- Ung thư tuyến tụy
-- Ung thư tuyến giáp
-- Đa u tủy xương, u màng não và tủy sống (Meningioma)
-Nhiều nghiên cứu đã chỉ ra mối liên hệ giữa giảm cân và giảm nguy cơ mắc ung thư vú (sau mãn kinh), nội mạc tử cung và một số loại ung thư khác. Thống kê tại Mỹ cho thấy: Thừa cân, béo phì được cho là một yếu tố nguy cơ của hơn 50% ung thư nội mạc tử cung, là nguyên nhân của khoảng 11% trường hợp ung thư ở nữ và khoảng 5% trường hợp ung thư ở nam giới.
-Vì vậy, thừa cân là một yếu tố nguy cơ chính của nhiều bệnh ung thư. Tuy nhiên, đánh giá đầy đủ tác động của đại dịch béo phì hiện nay đối với gánh nặng ung thư, bao gồm cả ảnh hưởng lâu dài của bệnh béo phì bắt đầu từ khi còn nhỏ vẫn chưa được hiểu rõ và đang tiếp tục nghiên cứu.
-Hoạt động thể chất
-Lợi ích của hoạt động thể chất: giúp giảm nguy cơ mắc một số loại ung thư, bao gồm:
-- Ung thư đại tràng (tác động mạnh mẽ nhất)
-- Ung thư vú, nội mạc tử cung
-- Ung thư bàng quang
-- Ung thư dạ dày, thực quản
-Hoạt động tích cực có thể giúp duy trì cân nặng lý tưởng, từ đó giúp giảm nguy cơ phát triển các bệnh ung thư có liên quan đến thừa cân và béo phì.
-Ngoài ra, lối sống năng động cũng giúp giảm nguy cơ mắc các vấn đề sức khỏe khác như: bệnh tim, huyết áp cao, tiểu đường và loãng xương.
-Ví dụ về hoạt động thể chất với cường độ vừa và cường độ mạnh
-Khuyến cáo về cường độ hoạt động hàng ngày, hàng tuần:
-- Người lớn: Nên tập 150-300 phút với cường độ vừa phải hoặc 75-150 phút với cường độ mạnh mỗi tuần (hoặc kết hợp cả hai). Đạt được trên 300 phút là lý tưởng nhất. Khi kết hợp với nhau, 1 phút hoạt động mạnh tương đương với 2 phút hoạt động vừa phải.
-Đối với những người có bệnh mãn tính hoặc các yếu tố nguy cơ của bệnh tim nên tham khảo bác sĩ trước khi bắt đầu các hoạt động cường độ mạnh.
-- Trẻ em và thanh thiếu niên: Khuyến khích vận động với cường độ vừa đến mạnh ít nhất một giờ mỗi ngày, và các hoạt động tăng cường về sức cơ ít nhất 3 ngày trong tuần. Các hoạt động phải phù hợp với lứa tuổi, thú vị và đa dạng, bao gồm các hoạt động thể thao và thể dục ở trường, ở nhà và ở cộng đồng. Để đạt được các mục tiêu trên cần có các môn học giáo dục thể chất và hoạt động ngoại khóa hàng ngày ở trường, và nên hạn chế thời gian sử dụng các thiết bị (xem tivi, điện thoại, máy tính…) ở nhà.
-Hạn chế thời gian ngồi
-Ngày càng có nhiều bằng chứng cho thấy: Ngồi nhiều làm tăng nguy cơ béo phì, tiểu đường type 2, bệnh tim mạch, và một số loại ung thư.
-Những thay đổi trong lối sống và những tiến bộ trong công nghệ đã khiến mọi người ít hoạt động hơn và ngồi nhiều mỗi ngày do thời gian sử dụng TV, máy tính và các thiết bị khác tăng lên. Dưới đây là một số mẹo giúp hạn chế thời gian ngồi nhiều:
-Hạn chế thời gian xem tivi và sử dụng hình thức giải trí khác
-Sử dụng máy đạp xe hoặc máy chạy bộ khi bạn xem tivi
-Sử dụng cầu thang bộ thay vì thang máy
-Nếu có thể, hãy đi bộ hoặc đi xe đạp đến điểm cần đến
-Tập thể dục vào bữa trưa với đồng nghiệp, gia đình hoặc bạn bè
-Tập thể dục giữa giờ hoặc đi bộ ngắn tại nơi làm việc giúp khỏe mạnh hơn
-Lên kế hoạch cho các hoạt động tích cực hơn là các chuyến đi chỉ để ngắm cảnh.
-Đeo máy đếm bước chân mỗi ngày và tăng số bước đi hàng ngày
-Tham gia một đội chơi thể thao.
-Tuân thủ chế độ ăn uống lành mạnh ở mọi lứa tuổi
-Chế độ ăn uống lành mạnh bao gồm:
-- Thực phẩm có hàm lượng chất dinh dưỡng cao giúp bạn đạt được và duy trì trọng lượng cơ thể khỏe mạnh.
-- Nhiều loại rau màu xanh đậm, đỏ và cam, các loại đậu giàu chất xơ (đậu và đậu Hà Lan), và những loại khác.
-- Trái cây, đặc biệt là trái cây nguyên trái với nhiều màu sắc
-- Ngũ cốc nguyên hạt
-Chế độ ăn lành mạnh giới hạn hoặc không bao gồm:
-- Thịt đỏ và thịt chế biến (thịt xông khói, ướp muối, lên men…)
-- Đồ uống có đường hoặc chất tạo ngọt năng lượng cao.
-- Thực phẩm chế biến công nghiệp, đồ ăn nhanh và các sản phẩm ngũ cốc tinh chế.
-Hạn chế đồ uống có cồn
-Uống rượu là yếu tố nguy cơ gây ung thư quan trọng thứ ba có thể phòng ngừa được sau thuốc lá và béo phì. Rượu kết hợp với thuốc lá làm tăng nguy cơ ung thư miệng, thanh quản và thực quản gấp nhiều lần so với việc uống rượu hoặc hút thuốc đơn thuần.
-Khuyến cáo: Chỉ nên uống không quá 1 đơn vị mỗi ngày đối với phụ nữ và 2 đơn vị đối với đàn ông (1 đơn vị tính bằng 12 ounces bia thông thường, 5 ounces rượu vang, hoặc 1,5 ounces rượu mạnh 40 độ chưng cất). Giới hạn này không có nghĩa là bạn được uống một lượng lớn hơn vào ít ngày hơn trong tuần vì nó sẽ gây hại cho sức khỏe hơn.
-Tóm lại, đối với mỗi cá nhân, việc duy trì cân nặng tiêu chuẩn, hoạt động thể chất thường xuyên, đủ cường độ, tuân thủ chế độ ăn uống lành mạnh có ý nghĩa rất quan trọng giúp phòng ngừa hiệu quả và đẩy lùi nguy cơ mắc bệnh ung thư.
-BS CK1. Nguyễn Anh Tuấn
-Khoa Xạ trị, xạ phẫu, Viện Ung thư, Bệnh viện TWQĐ 108
+# url = https://dantri.com.vn/suc-khoe/co-8-dau-hieu-nay-ban-hay-den-benh-vien-ngay-vi-canh-bao-u-nao-nguy-hiem-20210423075017138.htm
+# date = 20210423
+TS.BS Nguyễn Đức Liên, Trưởng khoa Ngoại thần kinh, Bệnh viện K cho biết, u nãoxuất hiện khi có tế bào bất thường hình thành bên trong não.Khối u não có nhiều loại, trong số đó có những khối u ác tính và những khối u não lành tính. Khối u não ác tính bắt nguồn từ não được gọi là ung thưnão nguyên phát. Một khối u não do bệnhung thư khác của cơ thể lan rộngvào não được gọi là ung thư não thứ phát, hay còn gọi là di căn não.
+Tùy theo tuổi mắc bệnh, vị trí và tính chất mô bệnh học của u mà bệnh nhân có các biểu hiện khác nhau. Các triệu chứng này thường biểu hiện khác nhau đối với mỗi người bệnh, tùy thuộc vào vị trí khối u, loại u, kích thước và tốc độ phát triển của nó.
+Dưới đây là một số biểu hiện thường gặp của các khối u não:
+Đau đầu
+Đau đầu trầm trọng là triệu chứng phổ biến, có thể bắt gặp ở khoảng 50% số bệnh nhân u não. Thường đau nhiều vào sáng sớm hay nửa đêm về sáng, đau dai dẳng, lặp lại hàng ngày, càng ngày càng đau nhiều hơn về cả cường độ và thời gian. Ở trẻ nhỏ chưa biết phàn nàn đau có thể biểu hiện bằng bỏ ăn, quấy khóc, ngủ ít, vật vã.
+Nôn và buồn nôn
+Bệnh nhân có khối u não thường có biểu hiện nôn, buồn nôn đi kèm với triệu chứng đau đầu, thường nôn vào buổi sáng, sau mỗi lần nôn bệnh nhân thường mệt hơn, nhưng đỡ đau đầu. Nếu để bệnh nhân nôn nhiều có thể dẫn đến suy kiệt, mất nước, rối loạn điện giải. Thời gian đầu, dấu hiệu chưa rõ ràng thì một số ít bệnh nhân được chẩn đoán là triệu chứng nôn đơn thuần có thể nghi ngờ do vấn đề bệnh lýtiêu hóa, đến khi thực hiện các xét nghiệm, chỉ định cho kết quả rõ ràng hơn mới phát hiện ra là u não.
+Giảm thị lực
++ Phù gai thị: Đây là dấu hiệu nặng thường gặp trong tăng áp lực nội sọ. Khi nghi ngờ có tăng áp lực nội sọ nên soi đáy mắt để xác định vì qua giai đoạn phù gai thị sẽ chuyển sang teo gai thị có thể dẫn đến mù.
++ Bán manh: Gặp trong trường hợp u chèn vào một phần của cửa dày thị giác hay giải thị giác.
++ Liệt vận nhãn: Gây nhìn đôi, với bệnh nhânliệt dây thần kinh VI thì thường có biểu hiện lác trong, liệt dây thần kinh III biểu hiện lác ngoài. Hội chứng parinaud (bệnh nhân không hội tụ được mắt) thường gặp khi u chèn vào cuống não hoặc u vùng tuyến tùng.
++ Rung giật nhãn cầu: Thường gặp ở bệnh nhân u hố sau.
+Kích thước vòng đầu tăng bất thường
+Ở các trẻ nhỏ, nhất là trẻ em dưới 2 tuổi thì nhiều khi không có các triệu chứng đau đầu, nôn, phù gai mà biểu hiện bằng kích thước vòng đầu tăng lên bất thường (nhanh hơn so với số đo chuẩn), các khớp sọ giãn rộng, thóp phồng, da đầu căng, giãn các tĩnh mạch dưới da đầu, có thể thấy mắt của bệnh nhân ở vị trí nhìn xuống. Ngoài ra ở trẻ sơ sinh và trẻ nhỏ có thể có biểu hiện tăng động và rối loạn hành vi nên cha mẹ cần hết sức lưu ý đến biểu hiện của trẻ. Ngoài ra trẻ có biểu hiện hội chứng thần kinh da gồm xơ hóa củ, đa u xơ thần kinh (NF1) thường tăng nguy cơ có khối u ở não.
+Mất kiểm soát hành vi
+Biểu hiện này khiến cho người bệnh đi lại loạng choạng, hay bị ngã, rối loạn thăng bằng, rối tầm, liệt các dây thần kinh sọ não.
+Căng thẳng kéo dài, thậm chí là trầm cảm
+Biểu hiện cáu gắt, mệt mỏi, căng thẳng, dễ kích động, kém tập trung, ngủ nhiều hoặc luôn ở trạng thái buồn ngủ cũng là một trong những biểu hiện cần chú ý.
+Yếu liệt và tê bì
+Cảm giác yếu liệt, tê bì, cảm giác kiến bò ở bàn tay, bàn chân. Tê, yếu thường có xu hướng một bên thân người.Nhất là bệnh nhân có hội chứng của trên lều tiểu não: thường sẽ giảm hoặc mất cảm giác nửa người, yếu hoặc liệt vận động nửa người, rối loạn nói (có thể hiểu lời nói nhưng bệnh nhân không nói được hoặc nói được nhưng không hiểu lời nói), rối loạn nhìn, rối loạn ý thức, giảm sự tập chung, rối loạn giấc ngủ.
+Động kinh
+Các khối u có thể đè đẩy vào các tế bào thần kinh não, tác động và làm biến đổi các tín hiệu điện từ trong não sẽ gây ra các cơn động kinh.
+Cơn động kinh đôi khi là dấu hiệu đầu tiên của một khối u não, nó cũng có thể gặp ở bất kỳ giai đoạn nào của bệnh. Khoảng 50% người bệnh bị u não trải qua ít nhất một lần cơn động kinh. Tuy nhiên động kinh không phải lúc nào cũng vì sự xuất hiện của một khối u não. Các nguyên nhân gây co giật khác bao gồm: dị dạng mạch máu não, sau đột quỵ não, sau chấn thương não, viêm nhiễm ký sinh trùng trong não…
+Theo TS Liên, những dấu hiệu trên cảnh báo bệnh u não nguy hiểm. Tuy nhiên, không phải cứ xuất hiện một số dấu hiệu này có nghĩa là bạn đã bị u não bởi các triệu chứng ấy có thể gặp ở nhiều loại bệnh khác nhau.
+Lúc này, bạn cần đến ngay bệnh viện, gặp bác sĩ để được chẩn đoán sớm, chính xác và tìm ra phương án điều trị phù hợp, mang lại kết quả tốt nhất cho bạn.
+Tú Anh

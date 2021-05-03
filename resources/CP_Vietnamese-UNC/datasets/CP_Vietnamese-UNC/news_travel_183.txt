@@ -1,14 +1,15 @@
 # doc_id = news_travel_183
-# url = https://dantri.com.vn/du-lich/ngoi-den-12-tang-khong-he-dung-dinh-nam-hien-ngang-giua-song-ca-tram-nam-20210326160506618.htm
-# date = 20210326
-Thạch Bảo Trại là một ngôi đền có kiến trúc độc đáo, nằm giữa dòng sông Dương Tử - con sông dài nhất châu Á, thuộc thành phố Trùng Khánh, Trung Quốc. Công trình được xây dựng dưới thời nhà Minh (1368-1644).
-Sau đó, nơi này trải qua hai lần đại tu vào thời nhà Thanh (1644-1912), hình thành dưới thời vua Càn Long ở thế kỷ 18. Như vậy, tính đến nay công trình đã trải qua hàng trăm năm lịch sử.
-Vào thời điểm đó, muốn vào viếng thăm, người dân chỉ có cách men theo sợi dây thòng lọng bằng sắt để leo lên. Tới năm 1819, khi tòa nhà hình tháp 9 tầng được xây dựng, khách thập phương không cần mạo hiểm như trước nữa, mà có thể thực hiện các nghi thức tâm linh ngay tại đây.
-Từ lâu nơi này đã trở thành điểm đến tâm linh thu hút khách thập phương. (Ảnh cắt từ clip).
-Tới năm 1956, đền được xây thêm 3 tầng lầu nữa, tổng cộng trở thành 12 tầng. Trong đó, mỗi tầng lại thờ một vị tướng lĩnh nổi tiếng thời Tam Quốc hay thi sỹ, học giả danh tiếng của Trung Quốc. Khuôn viên bên trong cũng thoáng đãng và trang nghiêm hơn để đón tiếp du khách ghé thăm.
-Theo tương truyền, xưa kia có nàng tiên nữ xinh đẹp tên là Nuwo khi đang phụ giúp sơn quét lại bầu trời đã vô tình làm rơi xuống trần gian một hòn đá. Sau này, hòn đá đó tạo nên vùng núi hùng vỹ, cũng là nơi ngôi đền Thạch Bảo Trại tọa lạc.
-Ngoài việc đứng sừng sững giữa sông suốt hàng trăm năm, điều khiến người ta phải nhắc tới đền Thạch Bảo Trại nhiều nhất chính là lối kiến trúc độc lạ ít nơi nào có được. Dù công trình cao tầng nhưng lại không dùng bất cứ chiếc đinh hay vật chống đỡ nào để kết nối, nhưng tất cả vẫn đứng vững.
-Tổng chiều cao của tòa tháp lên tới 56 m, với tông đỏ là màu chủ đạo, được làm hoàn toàn bằng gỗ. Từ trên cao nhìn xuống, công trình nối với bờ bằng một cây cầu nên giống như cây bonsai khổng lồ nằm giữa dòng sông nước chảy xiết.
-Trải qua nhiều thăng trầm của lịch sử và năm tháng, tới nay, đền Thạch Bảo Trại đã trở thành điểm đến thu hút du khách trong và ngoài nước khi tới thành phố Trùng Khánh.
-Quốc Việt
-Theo Xinhuanet/ China Discovery
+# url = https://dantri.com.vn/du-lich/nguoi-ha-noi-chi-tien-trieu-cam-trai-tren-noc-toa-nha-cao-tang-20210422163843575.htm
+# date = 20210422
+Cắm trại ngoài trời đang là trào lưu được giới trẻ yêu thích. Bên cạnh khái niệm camping (cắm trại), hiện nay, nhiều bạn trẻ đang chạy theo xu hướng glamping - được hiểu nôm na là cắm trại sang chảnh. Một khu glamping như vậy mới mở ra ngay tại trung tâm thủ đô Hà Nội và nhanh chóng được chia sẻ rầm rộ trên mạng xã hội.
+Khu glamping này nằm trong tòa nhà cao 65 tầng ngay giữa trung tâm thành phố.
+Khu cắm trại được bố trí vô cùng đẹp mắt với hệ thống lều trại, đèn, ghế, võng, khu vực nướng đồ ăn...
+Ban đầu khuôn viên rộng khoảng hơn 100m2 này chỉ là khu bồn hoa và là không gian hút thuốc. Sau đó, nơi đây được thuê lại để thiết kế thành khu cắm trại sang chảnh.
+Được biết địa điểm này do một người Hàn Quốc là anh In Byung Chun làm chủ. Xuất phát từ thú chơi cắm trại cá nhân, anh bắt đầu bán những thứ đồ chuyên dụng dành cho việc dã ngoại và rồi nảy ra ý tưởng độc đáo "cắm trại trong phố".
+Đến với khu glamping đặc biệt này, những vị khách không chỉ được thưởng thức không gian vô cùng thoáng đãng, mát mẻ chẳng kém gì những vùng ngoại ô mà còn được sử dụng những tiện ích có sẵn, từ những đồ dùng nhỏ nhất như ấm nước, mì gói, bát đĩa... cũng được chuẩn bị sẵn.
+Không gian nơi đây được chia thành 3 phần, không gian chính là khu trại, khu nướng ngoài trời cho những nhóm bạn thích tự nấu ăn và khu bếp - nơi mà những người phục vụ chuẩn bị món ăn đến với thực khách.
+Những vị khách sẽ bắt đầu bữa tiệc đêm giữa lưng chừng thành phố từ 19h và kết thúc vào 22h đêm. Nơi đây hoàn toàn không có wifi và những đồ giải trí điện tử.
+Mỗi lều được phục vụ các món đồ nướng như gà, thịt bò, hoa quả nướng... cùng với đó là những món salad, bánh mì, cơm trắng, súp theo kiểu Hàn Quốc. Đồ ăn được phục vụ lần lượt để giữ được độ nóng và vị thơm ngon.
+Các món ăn được nhân viên nướng và phục vụ ngay tại lều nếu khách có nhu cầu.
+Tất nhiên, khu cắm trại tiện nghi và sang chảnh này có mức giá không rẻ. Hiện chi phí một buổi cắm trại tại đây vào khoảng 800.000 đồng/người. Bên cạnh đó, để có một buổi tối trải nghiệm tại đây, bạn sẽ phải đặt trước và bình tĩnh chờ... xếp lịch.
+Khôi Vũ

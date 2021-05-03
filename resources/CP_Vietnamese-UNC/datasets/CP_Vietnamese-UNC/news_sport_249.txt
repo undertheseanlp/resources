@@ -1,14 +1,20 @@
 # doc_id = news_sport_249
-# url = https://dantri.com.vn/the-thao/truyen-thong-chau-au-noi-gian-voi-european-super-league-20210419164735716.htm
-# date = 20210419
-Tờ Daily Express dùng tiêu đề "Bóng đá trong tình trạng hỗn loạn" để nói về giải đấu mới được thành lập European Super League. Không những phản đối giải đấu mới, Daily Express trích dẫn phản ứng mạnh từ các cơ quan quản lý bóng đá bao gồm Premier League, FA và UEFA.
-Tờ Guardiola sử dụng dòng tiêu đề: "Đó là cuộc chiến" và hình ảnh bìa bài viết là Garry Neville, cựu cầu thủ bóng đá Anh và đang làm chuyên gia cho Sky Sports. Neville là tượng đài của Man Utd, dẫu vậy anh thẳng thắn lên án các ông chủ người Mỹ của "Quỷ đỏ" về việc tham gia vào việc thành lập European Super League.
-The Mail thẳng thắn lên án các CLB tham gia European Super League, đặc biệt các đội bóng Anh. Tờ báo này phê phán "sáu CLB không biết xấu hổ", nên "rút lui hoặc bỏ đi" sau khi Premier League gửi thư trực tiếp cho 20 câu lạc bộ đang tham dự giải đấu, thúc giục họ từ bỏ ý định tham gia giải đấu mới "trước khi vấp phải thiệt hại không thể khắc phục được".
-"Bóng đá trong chiến tranh" là tiêu đề bài viết của Daily Mail.
-Tiêu đề "nội chiến" được sử dụng bởi tờ Metro và iSport, những tờ báo này cũng cảm thấy ghê tởm trước lịch sử bóng đá trăm năm của Anh đang bị lợi dụng, trở thành công cụ của chủ nghĩa tư bản.
-Tờ Times of London chỉ trích Big Six, những đội bóng hàng đầu của nước Anh và cảnh báo rằng vì quyền lợi của họ mà đã "gây ra sự phẫn nộ".
-Tờ Telegraph đưa tin rằng "các câu lạc bộ nổi dậy phải đối mặt với việc bị trục xuất khi ly khai". FIFA, UEFA và Liên đoàn bóng đá Anh, Italia, Tây Ban Nha, Pháp và Đức đều khẳng định sẽ trục xuất các đội bóng tham gia European Super League. Các cầu thủ tham dự giải đấu sẽ không thể chơi cho bất kỳ các đội bóng nào khác (nằm ngoài European Super League), cũng như các đội tuyển quốc gia.
-Mặc dù PSG được nhắc đến như một đội bóng sẽ tham dự vào European Super League. Tuy nhiên, CLB này đã quyết định không tham gia vào việc thành lập giải đấu, cũng không có đội bóng nào của Pháp tham dự vào giải này. Tờ L'equipe của Pháp sử dụng tiêu đề: "Cuộc chiến của những kẻ giàu có" để nói về ý tưởng cho ra đời European Super League.
-Chỉ có báo chí Italia khá nhẹ nhàng khi đưa tin về việc ra đời của giải đấu mới. Cả Gazzetta dello Sport và Corriere dello Sport sử dụng tiêu đề tập trung vào việc đưa thông tin về sự ra đời của Super League.
-Tờ AS của Tây Ban Nha gọi European Super League là "quả bom xịt trong bóng đá châu Âu". Trong khi Marca cũng không ủng hộ sự ra đời của giải đấu này.
-Hạo Minh
+# url = https://dantri.com.vn/the-thao/uefa-doa-phat-nang-real-madrid-ong-trum-perez-phan-ung-bat-ngo-20210424203113976.htm
+# date = 20210424
+Sau khi tuyên bố thành lập vào tuần trước, giải European Super League đang đứng trước nguy cơ tan rã khi 9 CLB đã rút lui. Giờ đây, chỉ còn 3 CLB sót lại là Real Madrid, Barcelona và Juventus. Thậm chí, Barcelona còn không ngại tuyên bố vẫn tiếp tục gắn bó với siêu dự án này.
+Chủ tịch UEFA, Aleksander Ceferin ép các CLB phải lựa chọn thi đấu ở European Super League hoặc Champions League.
+Trong phiên họp mới đây, UEFA khẳng định vẫn sẽ tạo điều kiện cho Real Madrid tham dự Champions League mùa này. Sở dĩ họ không thể loại Los Blancos bởi những vấn đề liên quan tới bản quyền truyền hình.
+Thế nhưng, điều đó không có nghĩa rằng cơ quan quyền lực cao nhất của bóng đá châu Âu sẽ tha bổng cho nhóm "phản loạn". Họ vẫn tiếp tục cho các 3 CLB nói trên thêm thời gian để rút lui khỏi giải đấu. Bằng không, UEFA sẽ có hình phạt nặng trong tương lai.
+Chủ tịch UEFA, Aleksander Ceferin tuyên bố mạnh mẽ: "Rõ ràng, những CLB này buộc phải lựa chọn rằng họ sẽ tham dự European Super League hay sẽ thi đấu ở cúp châu Âu. Nếu họ muốn thi đấu ở European Super League thì không cần phải góp mặt ở Champions League.
+Nếu như họ muốn lập giải đấu của riêng mình thì cứ việc làm điều đó. Tôi có cái nhìn rất khác về những đội bóng đã chủ động thừa nhận sai lầm và rời khỏi dự án European Super League. Các CLB khác cũng thấy dự án này chết yểu nên họ đã không tham gia ngay từ đầu".
+Chủ tịch Real Madrid, Florentino Perez khẳng định sẽ không bắt các CLB tháo chạy đền bù ở thời điểm này, mà hy vọng họ sẽ nghĩ lại.
+Trong khi đó, chia sẻ trong bài phỏng vấn trên tờ AS, Chủ tịch Real Madrid, Florentino Perez khẳng định vẫn hy vọng các CLB tham dự và ủng hộ dự án European Super League.
+Người đứng đầu Real Madrid cho biết: "Ở thời điểm này, tôi sẽ không giải thích bất kỳ điều gì liên quan tới sự ràng buộc của các CLB khi tham gia dự án European Super League. Họ hoàn toàn có thể rút lui.
+Một số CLB trong đó phải chịu áp lực lớn nên đã quyết định ra đi. Nhưng tôi cho rằng dự án European Super League vẫn sẽ tiếp tục. Tôi hy vọng nó sẽ sớm xảy ra.
+European Super League vẫn tồn tại với những thành viên trong đó. Chúng tôi dành vài tuần để suy nghĩ nhưng đang phải đối diện với sự đàn áp của một số người, do không muốn mất đi đặc quyền của họ, đã sử dụng để thao túng dự án".
+Ngân hàng JP Morgan được cho là đã rút khoản tài trợ 3,5 tỷ bảng sau khi European Super League đứng trước nguy cơ tan rã. Trong tuyên bố vào thứ Sáu, họ thừa nhận đã sai lầm khi không đánh giá đúng tình hình.
+Người đứng đầu Real Madrid cảnh báo bóng đá sẽ loạn khi các CLB lớn phá sản trong vài năm tới.
+Tuy nhiên, Chủ tịch Florentino Perez đã bác bỏ thông tin trên: "Điều đó không đúng sự thật. Ngân hàng JP Morgan chưa hề rút tiền. Họ cũng mất một thời gian để suy nghĩ, giống như 12 CLB khi quyết định tham dự European Super League. Nếu như chúng tôi thay đổi được điều gì thì sẽ quyết tâm thay đổi nó".
+Bên cạnh đó, người đứng đầu Real Madrid cảnh báo các CLB có thể phá sản nếu không tìm ra được giải pháp. Ông nói thêm: "Sự thật là phiên bản mới ở Champions League không thuyết phục được tôi. Không phải là vì mô hình của phiên bản, mà là vì thời điểm áp dụng vào năm 2024. Nếu không tìm ra giải pháp sớm hơn, các CLB có thể phá sản.
+Tôi xin cảnh báo rằng bóng đá châu Âu sẽ loạn nếu như hàng loạt CLB lớn phá sản. Chỉ có những CLB được nhà nước cấp vốn hoặc sở hữu bởi những tỷ phú mới có thể thoát khỏi nạn này. Còn không thì các CLB xác định sẽ mất thêm hàng trăm triệu euro mỗi năm".
+H.Long

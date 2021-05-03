@@ -1,17 +1,13 @@
 # doc_id = news_health_149
-# url = https://dantri.com.vn/suc-khoe/khong-chi-ruou-nhung-yeu-to-sau-cung-co-the-lam-tang-nguy-co-mac-benh-gan-20210415094208799.htm
-# date = 20210415
-Lá gan là cơ quan lớn nhất trong cơ thể. Tất cả các chất vào cơ thể đều phải qua gan vào máu rồi mới đến các bộ phận khác. Gan giữ vai trò quan trọng đối với hàng trăm hoạt động sống của cơ thể tuy nhiên gan rất dễ bị tổn thương do thường xuyên tiếp xúc với các chất độc hại. Thống kê cho thấy hiện nay trên thế giới có khoảng hơn 2 tỷ người mang nguy cơ mắc các bệnh về gan vì nhiều nguyên nhân, đặc biệt là do uống quá nhiều rượu.
-Lý do rượu là nguồn phổ biến gây bệnh gan là vì sau khi được hấp thụ, phần lớn rượu được chuyển hóa ở gan. Do đó, nếu uống rượu với lượng quá nhiều, gan sẽ bị quá tải do không sản xuất kịp đủ số lượng enzyme chuyển hóa giải độc rượu. Hậu quả là rượu bị ứ lại trong cơ thể và gây độc cho nhiều cơ quan nội tạng mà gan là cơ quan đầu tiên, cũng là cơ quan bị ảnh hưởng nặng nề nhất. Điển hình cho các bệnh nghiêm trọng về gan do rượu gây ra là gan nhiễm mỡ, xơ gan mãn tính, viêm gan, thậm chí ung thư gan.
-Tuy nhiên, không chỉ rượu bia mà còn rất nhiều yếu tố khác là nguyên nhân gây bệnh gan cần chú ý đề phòng, đáng kể là:
-Béo phì
-Những người béo phì có nguy cơ mắc bệnh gan rất cao và có khả năng liên quan nhiều đến xơ gan và suy gan. Ở những người béo phì, lượng mỡ thừa trong cơ thể có xu hướng tích tụ trong gan, gây gan nhiễm mỡ.
-Muối
-Chế độ ăn quá nhiều muối không phải là một chế độ ăn khoa học, lành mạnh. Việc ăn nhiều muối rõ ràng không tốt cho sức khỏe nói chung và cho chức năng gan nói riêng. Ăn quá nhiều muối rất dễ gây gan nhiễm mỡ khi muối khiến chất lỏng tích tụ nhiều trong gan gây mỡ và làm sưng gan.
-Hút thuốc lá
-Hút thuốc lá luôn được khuyến cáo là hành động gây hại cho sức khỏe.
-Mặc dù việc hút thuốc không ảnh hưởng trực tiếp đến chức năng gan, nhưng các hóa chất độc hại trong khói thuốc lá có thể gây ra các tổn thương không hồi phục cho các tế bào gan khi các chất này làm tăng stress oxy hóa khi được vận chuyển đến gan.
-Bệnh tiểu đường
-Bệnh nhân tiểu đường có nguy cơ mắc các bệnh về gan cao (tỷ lệ khoảng 50%) vì hàm lượng insulin trong máu cao ở những người này khiến họ dễ tăng cân, béo bụng và dễ dẫn đến gan nhiễm mỡ.
-Minh Nhật
-Tổng hợp
+# url = https://dantri.com.vn/suc-khoe/lao-cai-an-sau-co-bi-ngo-doc-phai-vao-vien-cap-cuu-20210501112927555.htm
+# date = 20210501
+Bệnh viện đa khoa tỉnh Lào Cai vừa tiếp nhận bệnh nhân nữ ngộ độc do ăn sâu cây cọ (con đuông cọ)
+Thông tin này gây bất ngờ cho nhiều người, bởi lẽ, chúng ta vẫn thường nghe nói ăn những loài côn trùng như đuông cọ, đuông dừa, nhộng tằm vốn lành tính, không gây hại sức khỏe.
+Bệnh đa khoa tỉnh Lào Cai cho biết, bệnh nhân P.T.D. 22 tuổi nhà ở xã vùng cao Hợp Thành, thành phố Lào Cai ( tỉnh Lào Cai) nhập viện trong tình trạng mẩn ngứa, khó thở, đau bụng, nôn.
+Trước đó, bệnh nhân có ăn 3 con sâu cọ (đuông cọ) trong bữa tối. Qua thăm khám, xác định đây là trường hợp phản vệ độ II, nếu không xử lý kịp thời sẽ chuyển thành sốc phản vệ gây nguy hiểm đến tính mạng.
+Ngay lập tức, bệnh nhân được cấp cứu phản vệ theo phác đồ. Sau 8 giờ, bệnh nhân hết mẩn ngứa, huyết động ổn định, khó thở nhẹ, có thể ra viện sau 1-2 ngày nằm viện điều trị.
+Bác sĩ Phạm Văn Dương, Khoa Cấp cứu Bệnh viện đa khoa tỉnh Lào Cai khuyến cáo sâu cọ (đuông cọ), nhộng tằm là món ăn được nhiều người ưa thích nhưng do thành phần chứa hàm lượng đạm cao nên nó cũng gây ra nhiều nguy cơ dị ứng, thậm chí sốc phản vệ với những người có cơ địa dị ứng.
+Biểu hiện của dị ứng là nổi mề đay, phát ban, nôn, tiêu chảy, khó thở ngay sau khi ăn hoặc sau một vài giờ. Nặng hơn, có thể sốc phản vệ, nếu không được cấp cứu xử trí kịp thời sẽ nguy hiểm đến tính mạng.
+Do đó người dân khi ăn sâu cọ, nhộng tằm xuất hiện biểu hiện trên cần được đưa ngay đến các cơ sở y tế gần nhất để điều trị kịp thời, tránh để lâu sẽ nguy hiểm đến tính mạng.
+Trong trường hợp người bệnh còn tỉnh táo, có thể xử lý tại nhà bằng cách tự gây nôn, uống nhiều nước trước khi đưa đến bệnh viện điều trị tiếp.
+Phạm Ngọc Triển

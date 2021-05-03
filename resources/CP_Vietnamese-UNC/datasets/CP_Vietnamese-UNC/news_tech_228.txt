@@ -1,23 +1,22 @@
 # doc_id = news_tech_228
-# url = https://dantri.com.vn/suc-manh-so/thu-thuat-giup-sao-luu-va-phuc-hoi-toan-bo-tin-nhan-tren-smartphone-20210331125945760.htm
-# date = 20210331
-Sau một thời gian dài sử dụng, chắc chắn trên smartphone của bạn sẽ có những tin nhắn với nội dung quan trọng mà bạn luôn muốn lưu để xem lại khi cần. Nếu muốn đổi sang smartphone mới, hoặc để đề phòng trường hợp điện thoại bị mất cắp, hư hỏng, thì bạn sẽ có nhu cầu tạo một bản sao lưu toàn bộ nội dung tin nhắn hiện có trên smartphone.
-SMS Backup là ứng dụng miễn phí cho phép người dùng dễ dàng sao lưu và phục hồi toàn bộ tin nhắn SMS trên smartphone hiện có. Với sự trợ giúp của SMS Backup, người dùng có thể tạo bản sao các tin nhắn quan trọng đang có trên smartphone, hoặc có thể dễ dàng chuyển đổi tin nhắn smartphone cũ sang smartphone mới khi cần.
-Ứng dụng hiện chỉ có phiên bản dành cho Android, bạn đọc có thể tìm và tải từ CH Play, hoặc download SMS Backup trực tiếp tại đây hoặc tại đây (tương thích Android 5.0 trở lên).
-Trong lần đầu tiên khởi chạy ứng dụng sau khi cài đặt, bạn nhấn nút "Cho phép" từ các hộp thoại hiện ra để cấp quyền, giúp ứng dụng có thể sao lưu và phục hồi tin nhắn trên smartphone.
-Chờ trong giây lát, ứng dụng sẽ liệt kê toàn bộ các tin nhắn hiện có trên smartphone. Người dùng có thể đánh dấu tùy chọn những tin nhắn nào mình muốn sao lưu. Bạn nên để nguyên mặc định và tiến hành sao lưu toàn bộ tin nhắn có trên smartphone của mình.
-Nhấn nút "Back up" để sao lưu toàn bộ tin nhắn. Nhấn nút "Yes" từ hộp thoại hiện ra nếu muốn sao lưu cả những file media có trong các tin nhắn đã nhận.
-Sau khi quá trình sao lưu nội dung tin nhắn hoàn tất, một hộp thoại hiện ra, hỏi người dùng có muốn gửi file sao lưu tin nhắn vào email hoặc upload lên dịch vụ lưu trữ Google Drive hay không. Bạn nên lưu trữ file sao lưu của tin nhắn trên email để đề phòng trường hợp smartphone bị hư hỏng hoặc bị mất, bạn vẫn có thể phục hồi lại tin nhắn của mình ở một smartphone khác.
-Bạn nhấn "Yes" vào hộp thoại hiện ra, ứng dụng sẽ nén nội dung các tin nhắn đã được sao lưu thành một file định dạng .zip và cho phép người dùng chia sẻ file này thông qua email hoặc tin nhắn…
-Ngoài việc gửi file sao lưu tin nhắn qua email, bạn cũng có thể lưu một file sao lưu nội dung tin nhắn này trên máy tính của mình để phục hồi lại nội dung tin nhắn trên smartphone khi cần.
-Như vậy, bạn đã hoàn tất quá trình sao lưu nội dung tin nhắn trên smartphone bằng ứng dụng SMS Backup.
-Phục hồi tin nhắn đã sao lưu bằng SMS Backup
-Trong nhiều trường hợp, chẳng hạn bạn đổi sang một smartphone mới, hoặc phải phục hồi lại smartphone khiến toàn bộ dữ liệu trên đó bị mất… bạn muốn phục hồi lại toàn bộ tin nhắn cũ trước đây, thì việc đầu tiên, bạn cần cài đặt ứng dụng SMS Backup lên smartphone.
-Tiếp theo, bạn download file chứa dữ liệu sao lưu tin nhắn đã được tạo ra bởi ứng dụng SMS Backup từ trước (như đã hướng dẫn ở trên) về smartphone của mình.
-Từ giao diện chính của SMS Backup, bạn nhấn vào biểu tượng cài đặt ở góc trên bên phải (biểu tượng 3 chấm), chọn "Restore" từ menu hiện ra. Tại giao diện tiếp theo, nhấn vào nút "Add Backup", rồi tìm file chứa dữ liệu sao lưu tin nhắn mà bạn đã tải về ở trên để đưa file này vào trong ứng dụng.
-Bây giờ, bạn sẽ thấy nội dung của file hiển thị trên tab "Restorable" của ứng dụng, bạn nhấn vào file này và nhấn nút "Yes" tại hộp thoại hiện ra.
-Một điều cần lưu ý, để SMS Backup có thể phục hồi lại các tin nhắn trên smartphone, đòi hỏi người dùng phải chuyển SMS Backup thành ứng dụng nhắn tin mặc định trên smartphone. Để thực hiện điều này, sau khi nhấn vào nút "Yes" từ hộp thoại hiện ra ở trên, bạn chọn "SMS Backup" từ danh sách hiện ra, rồi nhấn nút "Đặt làm mặc định".
-Sau khi thay đổi thiết lập, SMS Backup sẽ lập tức thực hiện quá trình phục hồi tin nhắn.
-Một khi đã hoàn tất quá trình phục hồi tin nhắn, để thay đổi lại ứng dụng tin nhắn mặc định, bạn kích hoạt ứng dụng nhắn tin trên smartphone, một hộp thoại hiện ra hỏi bạn có muốn dùng ứng dụng này làm mặc định hay không, bạn nhấn "Có" (hoặc "OK") để quay về dùng ứng dụng nhắn tin cũ, thay vì dùng SMS Backup làm ứng dụng nhắn tin trên smartphone.
-Như vậy, với sự giúp đỡ của SMS Backup, người dùng sẽ có một công cụ hữu ích để sao lưu và phục hồi tin nhắn khi đổi sang sử dụng smartphone mới hoặc trong trường hợp không may smartphone bị mất, hư hỏng.
+# url = https://dantri.com.vn/suc-manh-so/thu-thuat-giup-tiet-kiem-dung-luong-bo-nho-tren-smartphone-noi-bat-tuan-qua-20210411035958441.htm
+# date = 20210411
+Những thủ thuật giúp tiết kiệm dung lượng bộ nhớ trên smartphone
+Phần lớn smartphone ngày nay đều được trang bị bộ nhớ dung lượng lớn; tuy nhiên, ngày càng nhiều smartphone không còn hỗ trợ khe cắm thẻ nhớ ngoài. Bên cạnh đó, quay video chất lượng 4K hoặc chụp ảnh với độ phân giải lớn sẽ chiếm rất nhiều không gian lưu trữ trên smartphone.
+Bài viết được Dân trí giới thiệu tại đây sẽ cung cấp cho bạn một vài cách thức đơn giản nhằm thu hồi dung lượng lưu trữ bị lãng phí trên smartphone hoặc giải phóng bộ nhớ, giúp có thêm không gian lưu trữ những dữ liệu quan trọng trên thiết bị.
+Mẹo hay biến gương mặt của chính bạn thành sticker hài hước trên smartphone
+Sẽ thật thú vị và ấn tượng nếu bạn tự biến gương mặt của chính mình hoặc của bạn bè, người thân, thành các nhãn dán độc đáo, "không đụng hàng" để sử dụng khi nhắn tin hoặc bình luận trên mạng xã hội.
+Mirror:emojii mememaker (gọi tắt là Mirror) là ứng dụng cho phép người dùng tạo ra các sticker hài hước và độc đáo từ gương mặt của chính mình. Ứng dụng sẽ cho phép người dùng chụp một bức ảnh selfie hoặc chọn một hình ảnh sẵn có trên smartphone, sau đó tự động nhận diện gương mặt có trong ảnh và ghép gương mặt đó vào những sticker cực hài hước. Bạn cũng có thể tùy biến để thay đổi màu da, kiểu tóc... sao cho phù hợp nhất, nhưng nét mặt vẫn được giữ nguyên như của chính bạn.
+Ứng dụng có cả phiên bản dành cho Android lẫn iOS, bạn đọc có thể tìm và tải Mirror từ CH Play và App Store, hoặc download ứng dụng trực tiếp tại đây hoặc tại đây (tương thích Android 5.0 trở lên) hoặc phiên bản dành cho iOS tại đây (tương thích iOS 11.0 trở lên).
+Ứng dụng có giao diện hoàn toàn bằng tiếng Việt nên rất dễ dàng và thuận tiện khi sử dụng. Xem hướng dẫn cách dùng ứng dụng đã được Dân trí giới thiệu tại đây.
+Thủ thuật tối ưu bộ nhớ RAM giúp máy tính hoạt động mượt mà hơn
+Sau một thời gian dài sử dụng, máy tính thường rơi vào tình trạng ì ạch, nhất là khi chạy cùng lúc quá nhiều phần mềm hoặc chạy các phần mềm nặng (như phần mềm đồ họa xử lý ảnh, video…). Tình trạng thường gặp phải với những máy có cấu hình yếu, bộ nhớ RAM khiêm tốn.
+Trong trường hợp máy tính của bạn hoạt động ì ạch và thường xuyên gặp phải tình trạng quá tải, phần mềm với tên gọi Memory Cleaner sẽ là một giải pháp để xử lý vấn đề.
+Memory Cleaner là phần mềm nhỏ gọn và miễn phí, sẽ tự động tối ưu và giải phóng dung lượng bộ nhớ RAM trên máy tính, giúp máy tính hoạt động mượt mà và nhẹ nhàng hơn, ngay cả khi đang chạy các phần mềm nặng hay chạy đồng thời nhiều phần mềm khác nhau.
+Trong quá trình thử nghiệm thực tế cho thấy Memory Cleaner hoạt động rất hiệu quả, nhất là với những máy tính có bộ nhớ RAM khiêm tốn (từ 8GB trở xuống). Phần mềm sẽ thực sự phát huy hiệu quả và tác dụng của mình khi bộ nhớ RAM bị chiếm dụng nhiều hơn 80% tổng dung lượng.
+Ưu điểm lớn nhất của Memory Cleaner đó là rất nhỏ gọn và hoạt động nhẹ nhàng, chiếm dụng ít tài nguyên hệ thống, do vậy hoàn toàn không làm ảnh hưởng đến hiệu suất của máy tính khi cài đặt và sử dụng phần mềm này.
+Phần mềm hỗ trợ mọi phiên bản của hệ điều hành Windows, download miễn phí tại đây. Xem hướng dẫn cách dùng phần mềm đã được Dân trí giới thiệu tại đây.
+Cách kiểm tra tài khoản Facebook có bị lộ thông tin hay không
+Đầu tuần trước, 533 triệu người dùng Facebook, bao gồm cả CEO Mark Zuckerberg của mạng xã hội này, đã bị đăng tải công khai lên một diễn đàn dành cho tin tặc. Những thông tin cá nhân này có thể bị tội phạm mạng lợi dụng để mạo danh, cho các mục đích lừa đảo hoặc cho các chiến dịch spam email, tin nhắn…
+Bạn đọc có thể thực hiện theo hướng dẫn của Dân trí tại đây để kiểm tra xem tài khoản Facebook của mình có nằm trong số 533 triệu người dùng bị hacker lấy cắp thông tin hay không, để có phương án xử lý phù hợp, như thay đổi mật khẩu, kích hoạt bảo mật 2 lớp cho tài khoản Facebook…
 Quang Huy

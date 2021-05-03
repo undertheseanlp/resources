@@ -1,25 +1,16 @@
 # doc_id = news_world_182
-# url = https://dantri.com.vn/the-gioi/nha-giau-an-do-rao-riet-thue-may-bay-tron-song-than-covid-19-20210424103710841.htm
-# date = 20210424
-Người thân mặc đồ bảo hộ tham dự tang lễ của một bệnh nhân chết vì Covid-19 tại một lò hỏa táng ở New Delhi, Ấn Độ ngày 21/4 (Ảnh: Reuters).
-Giá vé máy bay tăng vọt và nhu cầu về máy bay tư nhân bùng nổ vào ngày 23/4 khi những người giàu ở Ấn Độ cố gắng chạy trốn khỏi đợt bùng phát dịch Covid-19 trong nước, trước khi các chuyến bay đến Các Tiểu vương quốc Ả Rập Thống nhất (UAE) ngừng hoạt động.
-Tất cả các chuyến bay từ UAE đến Ấn Độ - một trong những hành lang hàng không bận rộn nhất thế giới - sẽ tạm dừng hoạt động từ ngày 25/4 do các ca mắc Covid-19 ở quốc gia Nam Á tăng kỷ lục.
-Thông tin từ các trang web so sánh giá cho thấy, các chuyến bay thương mại một chiều từ Mumbai (Ấn Độ) đến Dubai (UAE) vào ngày 23/4 và 24/4 có giá lên tới 80.000 rupee (1.000 USD), gấp khoảng 10 lần so với mức giá thông thường.
-Trong khi đó, vé cho tuyến New Delhi (Ấn Độ) đến Dubai (UAE) có giá hơn 50.000 rupee, gấp 5 lần so với mức thông thường.
-Không có vé nào được cấp từ ngày 25/4 khi UAE bắt đầu thực thi lệnh cấm nhập cảnh đối với những người bay từ Ấn Độ trong vòng 10 ngày.
-Đối với máy bay tư nhân, một người phát ngôn của Air Charter Service India, hãng chuyên cho thuê máy bay, đã mô tả số tiền lãi là "hoàn toàn điên rồ".
-"Chúng tôi có 12 chuyến bay đến Dubai vào ngày 24/4 và chuyến nào cũng kín chỗ", người phát ngôn cho biết.
-Người phát ngôn của Enthrall Aviation, một nhà cung cấp dịch vụ thuê máy bay khác, tiết lộ đã nhận được "gần 80 yêu cầu" thuê máy bay đến Dubai trong ngày 23/4.
-"Chúng tôi đã yêu cầu thêm máy bay từ nước ngoài để đáp ứng nhu cầu... Chi phí thuê một máy bay 13 chỗ từ Mumbai đến Dubai là 38.000 USD, và giá thuê một máy bay 6 chỗ là 31.000 USD", người phát ngôn của Enthrall Aviation cho biết.
-"Mọi người đang lập nhóm và sắp xếp với nhau chỉ để có được một chỗ ngồi trên máy bay của chúng tôi... Chúng tôi cũng nhận được một số yêu cầu bay đến Thái Lan, nhưng chủ yếu là nhu cầu bay đến Dubai", người phát ngôn cho biết thêm.
-Các bệnh nhân mắc Covid-19 phải nằm chung giường tại bệnh viện Lok Nayak Jai Prakash (LNJP) ở New Delhi, Ấn Độ ngày 15/4 (Ảnh: Reuters).
-Theo truyền thông địa phương, khoảng 300 chuyến bay thương mại thường hoạt động mỗi tuần giữa UAE và Ấn Độ.
-UAE hiện là nơi sinh sống của khoảng 3,3 triệu người Ấn Độ, chiếm 1/3 dân số. Họ hầu hết sống ở Dubai.
-Ngày 23/4, lệnh cấm nhập cảnh đối với những người từ Ấn Độ đến Anh cũng bắt đầu có hiệu lực, ngoại trừ công dân Anh và Ireland hoặc công dân nước thứ ba có quyền cư trú tại Anh.
-Các chuyến bay một chiều từ Mumbai hoặc Delhi đến London hôm 23/4 có giá từ 100.000 đến 150.000 rupee, tăng ít nhất gấp đôi so với mức thông thường khi đặt trước trong thời gian ngắn.
-Ghế trên các chuyến bay đến Mỹ vẫn có sẵn nhưng với giá cao hơn đáng kể, trong một số trường hợp gần như gấp đôi giá vé bình thường.
-Ấn Độ đang trải qua đợt bùng phát dịch Covid-19 lớn khiến nhiều nước lo ngại. Theo số liệu của Bộ Y tế Ấn Độ, trong ngày 23/4, nước này ghi nhận kỷ lục gần 333.000 ca mắc mới, cao hơn so với con số gần 315.000 ca của ngày trước đó.
-Ấn Độ hiện là tâm dịch Covid-19 lớn thứ hai thế giới, chỉ sau Mỹ, với hơn 16,6 triệu ca mắc, trong đó gần 190.000 người đã tử vong. Làn sóng Covid-19 thứ ba bùng phát ở Ấn Độ một phần do sự xuất hiện của các biến thể SARS-CoV-2 mới được cho là nguy hiểm hơn và có tốc độ lây lan nhanh hơn.
-Số ca mắc mới tăng nhanh khiến các bệnh viện khắp Ấn Độ rơi vào tình trạng quá tải. Các lò hỏa táng dù hoạt động hết công suất vẫn không đáp ứng đủ nhu cầu hỏa thiêu bệnh nhân tử vong vì Covid-19.
-Thành Đạt
-Theo AFP
+# url = https://dantri.com.vn/the-gioi/nha-trang-ung-ho-thu-do-washington-thanh-bang-thu-51-cua-my-20210422074625308.htm
+# date = 20210422
+Nhà Trắng tại thủ đô Washington D.C của Mỹ (Ảnh: Reuters).
+Trong thông báo hôm 20/4, Nhà Trắng bày tỏ sự ủng hộ với dự luật mang tên HR 51 của Hạ viện Mỹ. Hiện thủ đô của Mỹ có tên chính thức là Đặc khu Colombia, và không phải là một bang của Mỹ.
+"Đã từ rất lâu, hơn 700.000 người dân Washington D.C đã bị tước đi quyền được đại diện một cách đầy đủ trong quốc hội Mỹ. Việc (người dân) đóng thuế mà không có đại diện (được dân bầu ở quốc hội) và khước từ quyền tự quản lý (của Washington D.C) là đi ngược lại các giá trị dân chủ mà đất nước chúng ta dựa vào đó để lập quốc", thông báo của Nhà Trắng cho hay.
+Nếu HR 51 được thông qua, Washington D.C sẽ thành một tiểu bang. Ngoài ra, dự luật cũng đề xuất một khu vực nhỏ hơn gồm Nhà Trắng, khu Đồi Capitol (nơi đặt nhà Quốc hội Mỹ) và một số tòa nhà liên bang, tượng đài vẫn thuộc quyền giám sát của chính phủ Mỹ.
+Chính quyền Biden cho rằng việc lập nên bang thứ 51 sẽ khiến khối liên hiệp Mỹ trở nên mạnh hơn.
+"Washington D.C có nền kinh tế mạnh mẽ, một nền văn hóa phong phú và dân số đa dạng thuộc mọi tầng lớp xã hội, những người có quyền tham gia đầy đủ và bình đẳng vào nền dân chủ của chúng ta", tuyên bố viết.
+Tuy nhiên, giới quan sát cho rằng động thái hiện đang gặp phải rào cản lớn.
+Phe Dân chủ là bên có quan điểm ủng hộ HR 51 vì cho rằng người dân Washington D.C đóng thuế nhưng chỉ được cử đại diện không được phép bỏ phiếu vào cơ quan lập pháp. Ngoài ra, dân số của Washington D.C có xu hướng ủng hộ đảng Dân chủ, vì vậy việc đưa thủ đô Mỹ thành bang thứ 51 có thể mang lại lợi thế cho đảng Dân chủ khi các cuộc bầu cử diễn ra.
+Chính vì vậy, phía Cộng hòa nhiều lần phản đối việc chuyển Washington D.C thành một bang riêng.
+HR 51 đã được Hạ viện Mỹ thông qua, nhưng thách thức hiện nằm ở Thượng viện. Dù đảng Dân chủ hiện đang nắm đa số ghế ở Thượng viện, nhưng cách biệt mong manh chỉ 1 ghế.
+Để dự luật được thông qua, phe Dân chủ phải có đủ 60 phiếu ủng hộ HR 51 ở Thượng viện, đồng nghĩa rằng họ phải kêu gọi thêm khoảng 10 thượng nghị sĩ Cộng hòa ủng hộ. Đây là một thách thức lớn vì ngay cả trong nội bộ đảng Dân chủ có 6 người vẫn chưa chính thức tuyên bố ủng hộ HR 51.
+Đức Hoàng
+Theo Independent

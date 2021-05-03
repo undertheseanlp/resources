@@ -1,32 +1,18 @@
 # doc_id = news_tech_190
-# url = https://dantri.com.vn/suc-manh-so/phat-dong-giai-thuong-top-10-doanh-nghiep-ict-viet-nam-2021-20210408102207037.htm
-# date = 20210408
-Trong sự phát triển chung của đất nước, ngành công nghiệp phần mềm và dịch vụ CNTT luôn là ngành có tốc độ phát triển cao, đóng góp quan trọng vào sự phát triển, hiện đại hóa của các ngành kinh tế và mọi mặt của đời sống xã hội đất nước.
-Nhằm phát huy, khích lệ các doanh nghiệp trong thời đại công nghệ số, Hiệp hội Phần mềm và Dịch vụ CNTT Việt Nam (VINASA) đã chính thức phát động Chương trình "Top 10 doanh nghiệp ICT Việt Nam 2021".
-Đây được xem là một động thái nhằm đồng hành cùng Chính phủ hiện thực hóa mục tiêu hình thành lực lượng 100.000 doanh nghiệp công nghệ số Việt Nam vào năm 2030 để đáp ứng nhu cầu phát triển kinh tế xã hội.
-Được tổ chức từ năm 2014, đến nay sau 8 năm, chương trình đã lựa chọn và giới thiệu được 390 lượt doanh nghiệp, phát hành 20 ấn phẩm với 3 ngôn ngữ (tiếng Việt, tiếng Anh, tiếng Nhật) đã được biên soạn và mỗi năm đều được gửi giới thiệu tới hơn 2.000 cơ quan, đơn vị trong nước, hơn 10.000 đối tác từ trên 100 quốc gia và nền kinh tế trên thế giới trong mạng lưới hợp tác quốc tế của VINASA.
-"Trong bối cảnh hội nhập quốc tế ngày càng rộng, nhu cầu tìm kiếm, kết nối hợp tác cả từ trong nước và quốc tế đều rất lớn. Đặc biệt, trong giai đoạn hiện nay, nhu cầu chuyển đổi số ngày càng lớn, việc lựa chọn và giới thiệu các nhà cung cấp uy tín, đối tác có năng lực sẽ đáp ứng nhanh chóng và hiệu quả cho hợp tác của các bên", Bà Nguyễn Thị Thu Giang - Phó chủ tịch kiêm Tổng Thư ký VINASA - cho biết. "Năm nay, chương trình mở rộng đánh giá và lựa chọn Top 10 cho nhiều lĩnh vực công nghệ mới, không chỉ theo xu thế của thời đại mà còn là lời giải cho những bài toán thực tế của nhiều lĩnh vực cụ thể".
-Chương trình gồm 3 hoạt động, gồm bình chọn doanh nghiệp trong 17 lĩnh vực; biên soạn ấn phẩm đặc biệt với 3 ngôn ngữ; giới thiệu, quảng bá, kết nối hợp tác với đối tác, khách hàng tiềm năng trong nước và quốc tế.
-Trong đó, Giải thưởng Top 10doanh nghiệp CNTT Việt Nam 2021 sẽ lựa chọn và giới thiệu 10 doanh nghiệp tiêu biểu trong 17 lĩnh vực được chia thành 3 nhóm: theo lĩnh vực/loại hình hoạt động, cung cấp giải pháp chuyển đổi số trong 1 số lĩnh vực đang được quan tâm và nhóm về năng lực công nghệ, theo xu hướng và có lợi thế cạnh tranh hiện tại và tương lai.
-17 lĩnh vực theo tiêu chí của Giải thưởng gồm có:
-- Top 10 DN xuất khẩu phần mềm và dịch vụ CNTT
-- Top 10 DN BPO
-- Top 10 DN cung cấp nền tảng chuyển đổi số
-- Top 10 DN cung cấp dịch vụ, giải pháp chuyển đổi số
-- Top 10 DN cung cấp dịch vụ, giải pháp CNTT (SI)
-- Top 10 DN start-up số
-- Top 10 DN cung cấp giải pháp chính phủ số
-- Top 10 DN cung cấp giải pháp thành phố thông minh
-- Top 10 DN cung cấp giải pháp hậu cần và thương mại điện tử
-- Top 10 DN bảo mật - ATTT
-- Top 10 DN A-IoT
-- Top 10 DN cung cấpdịch vụ điện toán đám mây
-- Top 10 DN Blockchain
-- Top 10 DN FinTech
-- Top 10 DN EdTech
-- Top 10DN PropTech
-- Top 10 DN MedTech
-Theo chia sẻ của Ban tổ chức, các doanh nghiệp tham gia bình chọn sẽ được đánh giá theo 7 tiêu chí gồm: chỉ tiêu tài chính, nhân lực nhân sự, sản phẩm, năng lực công nghệ, công tác quản trị, thành tích đã đạt được và có thêm tiêu chí đánh giá đặc thù riêng theo ngành.
-Quy trình đánh giá gồm 3 vòng bao gồm: Sơ tuyển hồ sơ; Thuyết trình và Thẩm định thực tế; Bình chọn chung tuyển. Hội đồng đánh giá là các chuyên gia trong lĩnh vực công nghệ, tài chính, quản trị, thương mại điện tử, Startup, phóng viên chuyên ngành uy tín hàng đầu Việt Nam.
-Chương trình sẽ tiếp nhận hồ sơ các doanh nghiệp từ ngày7/4/2021, vòng thuyết trình trực tiếp ngày15 - 16/5/2021. Lễ công bố và trao chứng nhận Top 10 DN CNTT Việt Nam 2021 dự kiến sẽ được tổ chức ngày13/7, trước thềm Diễn đàn Cấp cao CNTT - TT Việt Nam 2021.
-Nguyễn Nguyễn
+# url = https://dantri.com.vn/suc-manh-so/qua-am-anh-vi-quang-cao-tri-xuong-khop-dan-mang-che-nhac-remix-gay-sot-20210331010759579.htm
+# date = 20210331
+"Bà con, ai đang gặp các vấn đề về xương khớp gọi cho tôi. Tôi cam kết chữa khỏi 100%", đoạn quảng cáo với giọng đọc khàn đặc này đã ám ảnh không ít người dùng YouTube tại Việt Nam trong thời gian vừa qua.
+Theo đó, nhiều người phản ánh rằng họ liên tục gặp phải đoạn quảng cáo thuốc trị đau xương khớp này khi xem video trên nền tảng YouTube. Nó có thể xuất hiện trên mọi thiết bị từ smartphone, máy tính cho đến những chiếc TV thông minh. Tần suất xuất hiện dày đặc của chúng khiến cho không ít người xem cảm thấy khó chịu.
+Có lẽ, vì quá ám ảnh với đoạn quảng cáo này, cư dân mạng Việt Nam đã quyết định biến nó trở thành một thứ gì đó mới mẻ và thú vị hơn. Chính vì thế, "bài ca xương khớp remix" cùng với điệu nhảy theo phong cách "tập thể dục" đã được cộng đồng mạng cho ra đời.
+Vẫn là giọng đọc khàn đặc trong video quảng cáo "bà con gọi cho tôi trị xương khớp", tuy nhiên, nó đã được kết hợp với một giai điệu âm nhạc vui tươi. Đa số cư dân mạng đều tỏ ra bất ngờ và thích thú với đoạn nhạc này.
+"Không thể tin rằng đoạn quảng cáo này lại có thể được remix thành một bài nhạc. Nghe cũng thú vị đấy chứ", tài khoản Minh Nhật bình luận trên Facebook.
+"Ám ảnh với quảng cáo "bà con gọi cho tôi trị xương khớp" mấy ngày hôm nay, giờ nghe thấy bài remix này lại hay hay, không còn nhận ra bản gốc đâu nữa", tài khoản Bích Phương chia sẻ.
+Trong những video trên, nhiều bạn trẻ còn mặc trang phục giống với các cụ ông, cụ bà và nhảy theo giai điệu của bài nhạc. Những video cover độc đáo này đều nhanh chóng thu hút về hàng trăm nghìn, thậm chí hàng triệu lượt xem cùng với đó là hàng chục nghìn bình luận khác nhau.
+Đây được xem là động thái khá thú vị của cộng đồng mạng tại Việt Nam khi liên tục bị "tra tấn" bởi quảng cáo thuốc trị xương khớp trong những ngày gần đây. Trên thực tế, quảng cáo này đang gây ảnh hưởng tiêu cực đến rất nhiều người sử dụng YouTube tại Việt Nam.
+"Chỉ trong một buổi tối, tôi bắt gặp quảng cáo "thuốc trị xương khớp" không dưới 5 lần. Nó có thể xuất hiện trên mọi thiết bị từ TV, smartphone và cả máy tính. Cứ mỗi khi mở một video mới là tôi lại phải nghe câu "bà con, ai đang gặp các vấn đề về xương khớp gọi cho tôi". Điều này khiến tôi cảm thấy rất mệt mỏi", anh Trung Hiếu, sống tại Hai Bà Trưng, Hà Nội chia sẻ.
+Trên các kho ứng dụng, YouTube cũng đang bị người dùng Việt phản đối mạnh mẽ về việc để cho quảng cáo thuốc không rõ nguồn gốc xuất hiện tràn lan. Nhiều người cho rằng việc YouTube nhắm mắt ngó lơ cho những quảng cáo này có thể gây ảnh hưởng đến sức khỏe của người dùng.
+"Đề nghị YouTube xem xét lại nội dung quảng cáo. Gần đây, các quảng cáo thuốc không rõ nguồn gốc xuất hiện một cách dày đặc, cực kỳ phản cảm, khiến người xem vô cùng khó chịu", một người dùng nhận xét trên App Store kèm với đánh giá 1 sao.
+Trao đổi vớiDân trí, đại diện Google tại Việt Nam cho biết mạng xã hội YouTube có chính sách nghiêm ngặt về chăm sóc sức khỏe và thuốc.
+"Chúng tôi có các chính sách quảng cáo nghiêm ngặt quản lý các loại quảng cáo mà chúng tôi cho phép trên nền tảng của mình, bao gồm các chính sách về chăm sóc sức khỏe và thuốc. Khi phát hiện thấy những quảng cáo vi phạm chính sách của mình, chúng tôi sẽ nhanh chóng gỡ bỏ chúng", đại diện Google tại Việt Nam cho biết.
+Tuy nhiên, khi được hỏi thêm về việc vì sao những quảng cáo như thuốc trị xương khớp, thuốc trị sỏi thận dù bị cấm như vẫn có thể lọt qua được kiểm duyệt của Google thì người này từ chối đưa ra câu trả lời.
+Thế Anh

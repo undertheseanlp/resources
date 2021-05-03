@@ -1,10 +1,11 @@
 # doc_id = news_health_198
-# url = https://dantri.com.vn/suc-khoe/quang-ngai-cach-ly-truong-hop-f-1-cua-benh-nhan-covid-19-o-ha-nam-20210429224155471.htm
-# date = 20210429
-Trường hợp phải cách ly tập trung là chị V.T.N.A (33 tuổi) ngụ phường Trần Phú, TP. Quảng Ngãi. Ngày 21/4, chị A. đi chung chuyến xe khách từ Đà Nẵng ra Hà Nội với BN2899, đây là bệnh nhân được công bố dương tính với SARS- CoV-2 vào sáng 29/4.
-Ngày 25/4, chị A. di chuyển từ Hà Nội về Quảng Ngãi bằng xe khách cùng nhiều người khác. Từ 21-29/4, chị A. đã đi đến nhiều nơi và tiếp xúc với nhiều người, nhưng đều mang khẩu trang.
-Đến sáng 29/4, chị A. được thông báo là F1 của BN2899 ở tỉnh Hà Nam. Chiều cùng ngày, chị A. và 4 người nhà đã được lấy mẫu xét nghiệm SARS-CoV-2.
-Tỉnh Quảng Ngãi cách ly một trường hợp F1 của bệnh nhân Covid-19 ở tỉnh Hà Nam.
-Ngay trong đêm 29/4, Chủ tịch UBND TP. Quảng Ngãi đãký quyết định cách ly tập trung đối với chị A. Hiện trường hợp này đang được cách ly tại cơ sở 2 Trung tâm y tế huyện Bình Sơn.
-Kết quả xét nghiệm được công bố lúc 22h cùng ngày cho thấy chị A. và 4 người nhà đều âm tính lần 1 với SARS-CoV-2. Hiện tất cả các trường hợp này đang được theo dõi chặt chẽ.
-Quốc Triều
+# url = https://dantri.com.vn/suc-khoe/quang-tri-ba-truong-hop-f-1-tiep-xuc-voi-ca-mac-covid-19-co-ket-qua-am-tinh-20210424163445726.htm
+# date = 20210424
+Tối 26/4, lãnh đạo Sở Y tế tỉnh Quảng Trị xác nhận, 3 trường hợp tiếp xúc gần với ca bệnh người Lào mắc Covid-19 hiện đã có kết quả âm tính với SARS-CoV-2.
+3 trường hợp nói trên gồm: V.P.H.N (37 tuổi, trú tại khu phố 9, phường 5, TP Đông Hà), N.T.Q (53 tuổi, trú tại khu phố 2, phường 5 TP Đông Hà), N.H (35 tuổi, trú tại xã Vĩnh Hà, huyện Vĩnh Linh, tỉnh Quảng Trị).
+Những người này là lái xe chuyên chở hàng hóa từ khu vực Cửa khẩu quốc tế La Lay (huyện Đakrông, tỉnh Quảng Trị) về công ty ở TP Đông Hà (tỉnh Quảng Trị).
+Vào ngày 21/4, 3 lái xe tiếp xúc gần với ca mắc Covid-19 là một người Lào tại khu vực cột mốc số 0 Cửa khẩu quốc tế La Lay.
+Sau đó, cả 3 lái xe về TP Đông Hà và ghé nhà, tiếp xúc với một số người thân.
+Ngày 25/4, khi nhận được thông tin 3 trường hợp có tiếp xúc với người mắc Covid-19, Ban Chỉ đạo Phòng chống dịch Covid-19 tỉnh Quảng Trị đã lấy mẫu xét nghiệm và đưa 3 người nói trên vào cách ly tập trung theo quy định.
+Hiện những người tiếp xúc gần với các lái xe này tự cách ly tại nhà.
+Đăng Đức

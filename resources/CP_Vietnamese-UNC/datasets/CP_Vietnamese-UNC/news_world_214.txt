@@ -1,18 +1,21 @@
 # doc_id = news_world_214
-# url = https://dantri.com.vn/the-gioi/quan-doi-myanmar-bat-thu-linh-bieu-tinh-20210420104632878.htm
-# date = 20210420
-Lãnh đạo biểu tình Myanmar Daw Myo Aye (Ảnh: Guardian).
-Theo Guardian, Daw Myo Aye bị lực lượng quân đội kéo ra khỏi văn phòng của bà hôm 15/4, sau đó được đưa tới một đồn cảnh sát - nơi bà bị buộc tội và giam giữ. Daw Myo Aye được cho là sẽ bị chuyển đến một nhà tù ở thành phố Yangon.
-Daw Myo Aye là người đứng đầu Công đoàn Đoàn kết Myanmar (STUM) - một trong những công đoàn độc lập lớn nhất tại Myanmar. Bà cũng là nhân vật trung tâm của phong trào đấu tranh vì quyền của người lao động.
-Daw Myo Aye là một trong những lãnh đạo nổi bật nhất của phong trào bất tuân dân sự, tổ chức hàng loạt cuộc đình công và biểu tình trên quy mô toàn quốc kể từ khi chính quyền dân sự củaCố vấn nhà nước Aung San Suu Kyi bị lật đổ và quân đội Myanmar lên nắm quyền điều hành đất nước hồi tháng 2.
-"Chúng tôi đã mất đi trụ cột. Nhưng chúng tôi sẽ tiếp tục hoạt động với những thành viên còn lại. Chúng tôi hoạt động dựa theo luật pháp và chúng tôi hỗ trợ cho người lao động phù hợp với luật lao động. Tổ chức của chúng tôi sẽ không sụp đổ, dù bà ấy không còn ở đây", một thành viên của STUM cho biết.
-Chue Thwel, con gái của Daw Myo Aye, cho biết: "Kể từ khi bắt đầu cuộc đảo chính vào ngày 1/2, tôi đã nghĩ đến việc họ sẽ đến tìm mẹ tôi... Tôi cảm thấy rằng họ bắt mẹ tôi để làm gương răn đe".
-"Cùng với việc nhiều lãnh đạo lao động đang phải lẩn trốn hoặc lưu vong, việc lực lượng quân đội bắt Daw Myo Aye đặt ra một thách thức nghiêm trọng đối với vai trò quan trọng của phong trào lao động Myanmar trong cuộc đấu tranh để khôi phục nền dân chủ", người phát ngôn của Worker Rights Consortium, một tổ chức giám sát quyền lao động, cho biết.
-Trước Daw Myo Aye, quân đội Myanmar đã bắt giữ Wai Moe Naing - một trong những thủ lĩnh chủ chốt của phong trào biểu tình phản đối chính quyền quân sự. Bạn bè và đồng nghiệp của Wai Moe Naing cho biết, anh bị bắt khi lực lượng an ninh được cho là dùng ô tô lao vào xe máy của Wai.
-Các vụ bắt giữ diễn ra trong bối cảnh làn sóng biểu tình phản đối binh biến ở Myanmar chưa có dấu hiệu lắng xuống sau hai tháng rưỡi.
-Theo Tổ chức Hỗ trợ Tù nhân Chính trị (AAPP), ít nhất 737 người đã thiệt mạng và hơn 3.000 người bị bắt giữ kể từ khi quân đội Myanmar lật đổ chính quyền dân sự.
-Tuy nhiên, truyền thông nhà nước Myanmar hôm 19/4 khẳng định chỉ có 258 người thiệt mạng trong các cuộc biểu tình và những con số tử vong khác đã bị thổi phồng.
-Theo truyền thông nhà nước Myanmar, trong số 258 dân thường thiệt mạng có 240 người chết khi lực lượng an ninh nổ súng trong cuộc đối phó người biểu tình, 7 người chết trong lúc các rào chắn được dỡ bỏ và hầu hết những trường hợp khác chết do tai nạn hoặc lý do tự nhiên. Ngoài ra, 3 người biểu tình thiệt mạng khi họ nổ súng vào nhau, trong khi 7 binh sĩ và 15 cảnh sát thiệt mạng trong các cuộc biểu tình.
-Truyền thông cũng đưa tin, người biểu tình đã làm hư hỏng 63 đồn cảnh sát, hơn 100 văn phòng, 16 cây cầu và 13 chi nhánh ngân hàng.
+# url = https://dantri.com.vn/the-gioi/sec-an-mieng-tra-mieng-doa-truc-xuat-toan-bo-nha-ngoai-giao-nga-20210421105113517.htm
+# date = 20210421
+Bộ trưởng Ngoại giao và Nội vụ Séc Jan Hamacek (Ảnh: EPA).
+"Tôi đã sẵn sàng cho mọi tình huống. Ngay cả việc xây dựng lại mối quan hệ từ đầu. Có nghĩa là chúng tôi sẽ trục xuất tất cả họ về nước", Bộ trưởng Ngoại giao và Nội vụ Séc Jan Hamacek viết trên Facebook ngày 20/4.
+Trước đó, Bộ trưởng Hamacek nói với các phóng viên rằng ông sẽ triệu tập Đại sứ Nga vào ngày 21/4 để thông báo các bước tiếp theo sau vụ Séc trục xuất 18 nhà ngoại giao Nga - những người bị Praha cho là gián điệp liên quan tới vụ nổ kho đạn năm 2014.
+Đáp lại, Bộ Ngoại giao Nga ngày 18/4 công bố 20 nhân viên Đại sứ quán Séc ở Moscow sẽ phải rời khỏi Nga. Thông báo được đưa ra sau khi Bộ Ngoại giao Nga triệu tập Đại sứ Séc ở Moscow Vitezslav Pivonka nhằm phản đối lệnh trừng phạt nhằm vào Nga trước đó của Séc.
+"Chúng tôi đang kêu gọi hành động tập thể của các nước EU và NATO nhằm trục xuất (các nhà ngoại giao Nga)", Bộ trưởng Hamacek nói thêm.
+Séc cáo buộc gián điệp Nga đứng sau vụ nổ kho đạn tại Séc cách đây 7 năm khiến 2 người thiệt mạng. Cảnh sát Séc cho biết họ đang truy nã 2 công dân Nga bị nghi ngờ có liên quan tới vụ việc.
+Hai nghi phạm bị Séc truy nã sở hữu nhiều hộ chiếu, trong đó có hộ chiếu trùng tên với hai nghi phạm trong nghi án đầu độc cựu điệp viên Nga Sergei Skripal ở Anh năm 2018.
+Séc cáo buộc Nga dàn dựng "cuộc tấn công khủng bố chưa từng có" vào lãnh thổ Séc. Trong khi đó, Nga chỉ trích lệnh trục xuất của Séc là "chưa từng có tiền lệ" và là "hành động thù địch".
+Động thái đáp trả lẫn nhau giữa Nga và Séc diễn ra trong bối cảnh quan hệ giữa Moscow và phương Tây leo thang căng thẳng gần đây. Sau khi Mỹ quyết định trục xuất 10 nhà ngoại giao Nga, Ba Lan cũng thông báo trục xuất 3 nhà ngoại giao của nước này. Ukraine cũng yêu cầu một nhà ngoại giao cấp cao của Nga rời đi.
+Nga trục xuất 2 nhà ngoại giao Bulgaria
+Bộ Ngoại giao Nga ngày 20/4 đã triệu tập Đại sứ Bulgaria Atanas Krystin và thông báo rằng hai nhà ngoại giao Bulgaria đã bị trục xuất. Nga ra thời hạn 72 giờ để hai nhà ngoại giao này rời đi.
+Theo Bộ Ngoại giao Nga, lệnh trục xuất trên được đưa ra để "đáp trả quyết định vô căn cứ của phía Bulgaria hồi tháng 3", khi Bulgaria tuyên bố trục xuất 2 nhân viên của Đại sứ quán Nga.
+Các công tố viên Bulgaria cho biết 2 nhà ngoại giao Nga bị buộc tội "gián điệp". Phía Bulgaria cáo buộc 2 nhà ngoại giao Nga tiến hành các hoạt động tình báo "bất hợp pháp".
+Căng thẳng trong quan hệ giữa Nga và Bulgaria ngày càng xấu đi sau một loạt vụ bê bối gián điệp thời gian gần đây. Từ tháng 10/2019 đến cuối năm 2020, 5 nhà ngoại giao Nga và 1 trợ lý kỹ thuật tại Đại sứ quán Nga đã bị Bulgaria trục xuất.
+Động thái của Nga và Bulgaria diễn ra trong bối cảnh nhiều quốc gia châu Âu gần đây đã lên tiếng cáo buộc Moscow đẩy mạnh hoạt động gián điệp.
+Ngoài Bulgaria, Áo, Hà Lan và Thụy Điển gần đây đều trục xuất các nhà ngoại giao Nga vì nghi ngờ họ là gián điệp.
 Thành Đạt
-Theo Reuters, Guardian
+Theo AFP, Reuters

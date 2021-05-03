@@ -1,11 +1,30 @@
 # doc_id = news_science_239
-# url = https://dantri.com.vn/khoa-hoc-cong-nghe/trai-dat-co-bao-nhieu-lit-nuoc-20210501062544132.htm
-# date = 20210501
-Từ lúc bắt đầu đến lúc kết thúc, nước đi theo một chu kỳ không đổi - nó bốc hơi khỏi đại dương, di chuyển trong không khí, mưa xuống đất liền và sau đó chảy trở lại đại dương.
-Chúng ta có thể tìm thấy khoảng 326 triệu nghìn tỷ gallon (1.260 triệu nghìn tỷ lít) nước trên Trái Đất.
-Các đại dương rất lớn. Khoảng 70% hành tinh được bao phủ bởi đại dương và độ sâu trung bình của đại dương là khoảng 12.100 feet (3.688 mét). 98% nước trên hành tinh là trong các đại dương, và do đó không thể sử dụng để uống. Ít hơn 3% nước trên hành tinh là nước ngọt, nhưng khoảng 1,6% nước trên hành tinh được "giấu" trong các tảng băng ở cực và sông băng. 0,36% khác được tìm thấy dưới lòng đất trong các tầng chứa nước và giếng.
-Chỉ khoảng 0,036% tổng nguồn cung cấp nước của hành tinh được tìm thấy trong các hồ và sông. Đó vẫn là hàng nghìn tỷ gallon, chiếm một lượng rất nhỏ so với tất cả lượng nước hiện có.
-Phần nước còn lại trên hành tinh lơ lửng trong không khí dưới dạng mây và hơi nước, hoặc ở trong cơ thể thực vật và động vật (cơ thể của con người 65% là nước, vì vậy nếu nặng 100 pound (46 kg) thì 65 pound là nước).
-Với tất cả các hộp soda, sữa và nước cam mà chúng ta thấy ở cửa hàng và trong tủ lạnh, có lẽ sẽ có vài tỷ gallon nước nằm trên kệ cùng một lúc.
-Phước Hải
-Theo Howstuffwork
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/tram-huong-co-y-nghia-gi-ma-thuong-lai-quat-tien-ti-cho-moi-giao-dich-20210410100012101.htm
+# date = 20210410
+Đứa con quý hiếm của mẹ thiên nhiên
+Phần màu sẫm, loang lổ chính là là phần chứa trầm hương trên cây gỗ.
+Trầm hương (tên khoa học: Agarwood) là tên gọi chung cho một chi thực vật thuộc họ Dó (aquilaria) gồm 17 loài. Phân bố rải rác ở các quốc gia Châu Á như Lào, Campuchia, Thái Lan, Indonesia, Trung Quốc,... và Việt Nam.
+Trầm hương thực chất là lượng dầu kết tinh trong gỗ cây Dó. Lý do vì sao nó kết tụ như vậy thì ngày nay giới khoa học đã tìm hiểu và nắm rõ được quy luật và cách tạo trầm.
+Cụ thể, khi cây Dó bị thương do các tác động bên ngoài như kiến đục, bom đạn, thiên tai, do chặt đẽo,... chất dầu trong cây tụ lại để kháng cự sự phá hoại nhiễm bệnh từ bên ngoài.
+Qua hàng chục năm, thậm chí hàng trăm năm dưới sự tương tác của các loại nấm và các hoạt chất trong chất nhựa này, nó dần dần biến tính và trở thành trầm.
+Do tính chất quý hiếm của mình, đa số trầm hương hiện nay được nuôi cấy tạo, không phải trầm hương tự nhiên.
+Mặc dù vậy, quá trình này là hoàn toàn không thể nắm bắt. Tùy theo thời gian hình thành và mức độ nhiễm sẽ cho ra được những khối trầm to nhỏ, hình dáng, đặc điểm khác nhau.
+Giá trị của trầm hương trên thị trường phản ánh mức độ hiếm có của chúng. Muốn tìm trầm phải đi vào những khu rừng sâu, nguy hiểm rình rập nên mới gọi là "ngậm ngải tìm trầm". Đổi lại, trầm hương tự nhiên mang hương gỗ nồng nàn, và có khả năng lưu hương lâu hơn so với trầm hương nuôi cấy.
+Phân loại trầm hương, ngay cả chuyên gia cũng gặp khó
+Hình chụp sắc nét khối trầm hương chìm nước. Thớ dầu đen và nhiễm phần lớn khối gỗ.
+Trầm hương được phân định rất nhiều loại, tùy theo cảm quan của con người chứ chưa có "chuẩn mực" chính xác, bởi tùy theo mức độ bị thương của cây, cũng như tỷ lệ nhiễm dầu mà trầm hương sẽ có màu sắc, mùi vị khác nhau.
+Theo kinh nghiệm dân gian, loại trầm hương hạng nhất tại Việt Nam đến nay vẫn là Kỳ nam, có giá lên đến nhiều tỷ đồng/mỗi kg. Đặc tính của loại này là có lượng dầu lớn nhất trong các loại trầm, mềm và dẻo, mùi hương đầy đủ vị cay, đắng, thơm, ngọt, khói xanh bay thẳng lên cao.
+Kỳ nam được chia làm 4 loại, phân định rõ ràng qua tính chất và màu, vị, như Bạch kỳ (màu trắng ngà, vô cùng quý hiếm), Thanh kỳ (màu xanh xám), Huỳnh kỳ (màu vàng nâu), Hắc kỳ (màu đen chàm).
+Các loại trầm hương ít quý hiếm hơn, xếp ở hạng hai, hạng ba, có tên gọi là Trầm (chia làm 6 loại) và Tốc (chia làm 4 loại).
+Theo kinh nghiệm của một số chuyên gia, phải tìm cỡ 1.500 cây Dó mới có 1 cây có trầm, hơn 10.000 cây có trầm mới có 1 cây có Kỳ nam. Sự hình thành nên từng loại trầm hương có rất nhiều bí ẩn mà hiện nay vẫn còn để ngỏ.
+Bên cạnh đó, thị trường trầm hiện nay cũng khiến người mua phải đau đầu bởi rất khó phân biệt đâu là trầm thật, đâu là giả trầm. Phải là người có kiến thức và từng tiếp xúc với trầm mới có thể phân biệt rõ các loại trầm.
+Trầm Kỳ nam sắc trắng ngà đặc biệt quý hiếm.
+Giá trị của trầm hương trong lịch sử Việt Nam
+Trầm hương không chỉ là món quà quý hiếm từ thiên nhiên, mà còn chứa đựng cả nền văn hóa cổ đại của người Việt Nam.
+Suốt chiều dài lịch sử, từ thời Thục An Dương Vương đến nay đã có không ít sử sách nói đến trầm hương Việt Nam. Thế kỷ thứ X, thời Vua Đinh Tiên Hoàng, các nghệ nhân đã dùng gỗ trầm hương để làm hòm gia bảo đựng áo long bào của hoàng đế.
+Trầm hương quý cũng bởi vì nhiều công dụng trong chữa bệnh và định thần, cải thiện sức khỏe. Theo y học cổ truyền, trầm hương tính ôn, vị thơm, cay; vào các kinh thận, tỳ, vị; có tác dụng giáng khí, làm ấm thận, tráng nguyên dương, giảm đau và an thần.
+Trầm thường được dùng điều trị các chứng đau ngực, đau bụng, nấc, nôn, hen suyễn, thận khí hư, bí tiểu tiện, nam giới tinh lạnh.
+Ngoài ra, xông tinh dầu trầm hương sau một ngày mệt mỏi và áp lực công việc, giúp giải tỏa căng thẳng, ổn định tinh thần, an thần dễ ngủ, giúp giấc ngủ ngon và sâu hơn.
+Báo Mỹ lý giải tại sao trầm hương Việt Nam đắt giá.
+Minh Khôi
+Tổng hợp

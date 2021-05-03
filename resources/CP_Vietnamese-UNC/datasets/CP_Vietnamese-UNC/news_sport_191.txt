@@ -1,17 +1,41 @@
 # doc_id = news_sport_191
-# url = https://dantri.com.vn/the-thao/nhan-cu-soc-lon-psg-du-suc-tao-nen-ky-tich-truoc-man-city-20210501062046067.htm
-# date = 20210501
-Ở trận lượt đi vòng bán kết Champions League, PSG đã hứng chịu thất bại với tỷ số 1-2 ngay trên sân nhà Công viên các Hoàng tử trước Man City. Điều đó khiến cho đội bóngnước Pháp phải đối diện với thách thức cực lớn ở lượt về.
-Mbappe dính chấn thương ngay trước thềm trận đấu với Man City.
-Theo đó, nếu muốn đi tiếp, PSG sẽ phải giành chiến thắng với cách biệt 2 bàn (hoặc tỷ số từ 3-2 trở lên) trên sân Etihad. Tuy nhiên, ngay trước thềm trận đánh lớn, PSG đã đón nhận tin không vui từ Mbappe.
-Báo giới Pháp đưa tin, Mbappe đã vắng mặt trong danh sách đăng ký của PSG thi đấu ở trận đấu với Lens ở Ligue 1 vào cuối tuần này. Chân sút người Pháp được cho là gặp vấn đề ở bắp chân phải.
-Hiện tại, người ta chưa rõ Mbappe sẽ phải nghỉ thi đấu lâu. Người ta bắt đầu nghi ngờ về khả năng tiền đạo sinh năm 1998 sẽ không kịp thời trở lại trong trận đấu với Man City vào giữa tuần sau.
-Nói về chấn thương của Mbappe, HLV Pochettino cho biết: "Mbappe đang gặp vấn đề ở bắp chân phải. Chúng tôi hy vọng rằng cậu ấy không gặp chấn thương nghiêm trọng và sẽ sớm trở lại. Đó là cầu thủ rất quan trọng với chúng tôi.
-Tôi đã nói chuyện về tình trạng của Mbappe với nhân viên y tế cũng như cá nhân cậu ấy. Tôi cho rằng Mbappe không gặp vấn đề gì lớn. Chỉ là phần cơ bắp của cậu ấy bị căng thẳng do hoạt động liên tục trong thời gian dài. Chúng ta từng thấy Mbappe đạt mức tốt nhất về thể chất".
-Nếu như Mbappe vắng mặt thì đó sẽ là tổn thất cực lớn của PSG. Dù thi đấu mờ nhạt trong trận đấu với Man City ở lượt đi bán kết Champions League nhưng cầu thủ này vẫn là cái tên vô cùng quan trọng.
-Idrissa Gueye sẽ vắng mặt trong trận đấu với Man City vì án treo giò.
-Ở mùa này, Mbappe đã ra sân 37 bàn thắng sau 43 trận đấu trên mọi đấu trường, trong đó có 8 bàn thắng trong 10 trận ở Champions League.
-Cũng trong trận đấu với Man City, PSG còn không có sự phục vụ của nhân tố quan trọng khác là tiền vệ phòng ngự Idrissa Gueye. "Máy quét" của PSG đã phải nhận thẻ đỏ sau pha vào bóng thô bạo với Ilkay Gundogan trong trận đấu lượt đi.
-Trong khi đó, hậu vệ Juan Bernat và thủ môn Alexandre Letellier chắc chắn sẽ không thể góp mặt trong trận đấu sắp tới vì những chấn thương trước đó.
-Trước mắt, PSG sẽ phải chạm trán với Lens ở Ligue 1 vào cuối tuần này. Đây cũng là trận đấu mà đội bóng của HLV Pochettino buộc phải thắng. Bởi lẽ, hiện tại, họ đang xếp thứ 2 ở Ligue 1 với 72 điểm, kém Lille 1 điểm trong bối cảnh mùa giải chỉ còn 4 vòng đấu.
-H.Long
+# url = https://dantri.com.vn/the-thao/nhin-lai-56-gio-nao-loan-roi-nhanh-chong-sup-do-cua-european-super-league-20210421113141007.htm
+# date = 20210421
+Chỉ mất 56 giờ kể từ khi tin tức về việc European Super League do nhóm 12 CLB "đại gia" ở châu Âu đồng sáng lập được công bố thì siêu giải đấu này đã nhanh chóng sụp đổ. Cùng điểm lại hai ngày gây náo loạn và tốn không ít giấy mực của truyền thông về sự kiện này.
+12 CLB tham gia sáng lập European Super League vào tối 18/4
+Chủ nhật ngày 18 tháng 4
+1 giờ chiều: Cây viết của tờ The Times đăng một câu chuyện nói rằng 5 CLB Anh đã đăng ký tham dự European Super League, siêu giải đấu gồm 20 đội. Đó là 5 trong số 6 "Big Six" của Premier League gồm Man Utd, Liverpool, Arsenal, Chelsea và Tottenham Hotspur. Duy chỉ có Man City trong nhóm "Big Six" đang cân nhắc.
+2 giờ chiều: Các nguồn tin tiết lộ Man City cũng quyết định tham gia siêu giải đấu sẽ có 15 thành viên thường trực, bao gồm Barcelona,   Real Madrid, Atlético Madrid, Juventus, Inter và Milan, đồng thời khẳng định 15 "CLB sáng lập" chia sẻ 3,5 tỷ euro ban đầu. Dự kiến   sẽ có thông báo vào lúc 9h30 tối.
+5 giờ chiều: Có một phản ứng dữ dội của người hâm mộ ngay lập tức khi tin tức truyền đi khắp thế giới. Gary Neville được nhiều người khen ngợi khi anh là người đầu tiên chỉ trích mạnh mẽ các CLB tham gia giải đấu và đặc biệt là CLB cũ của mình: Man Utd, cũng như Liverpool.
+"Họ đang tham gia một giải đấu mà họ không thể xuống hạng? Đó là một sự ô nhục tuyệt đối", Neville nói. "Đó là lòng tham thuần túy, họ là những kẻ mạo danh. Các ông chủ của Man United, Liverpool, Chelsea và Man City không liên quan gì đến bóng đá ở đất nước này".
+8h30 tối: Chính phủ Anh bày tỏ sự không hài lòng về kế hoạch này, nói rằng "các kế hoạch cho một giải European Super League sẽ gây tổn hại rất lớn cho bóng đá và chúng tôi ủng hộ các cơ quan quản lý bóng đá hành động".
+11 giờ tối: Các CLB bắt đầu thông báo rằng họ sẽ là một phần của European Super League mới, sẽ bắt đầu vào tháng 8. Các CLB cùng đăng một thông báo giống nhau trên trang chủ của mình, xác nhận rằng Florentino Perez của Real Madrid sẽ là chủ tịch của siêu giải đấu này. "Chúng tôi sẽ giúp bóng đá ở mọi cấp độ và đưa nó đến vị trí xứng đáng trên thế giới", Perez nói.
+Thứ Hai ngày 19 tháng 4
+8 giờ sáng: Phản ứng dữ dội chống lại European Super League tiếp tục với đông đảo các cổ động viên nhắm vào các CLB tham gia siêu giải đấu. Đại diện cho CĐV của CLB Chelsea bày tỏ: "Họ nói rằng sẽ mang đến những điều bất ngờ, nhưng hôm nay những CĐV của Chelsea cũng như những người ủng hộ bóng đá trên toàn thế giới chỉ nhìn thấy sự phản bội đáng khinh miệt".
+Gary Neville là người lên tiếng phản đối mạnh mẽ đầu tiên European Super League, rồi tiếp đến là các tên tuổi bóng đá thế giới như Sir Alex Ferguson, Ferdinand, Jurgen Klopp, các cầu thủ Andre Herreira, James Milner... cũng đồng loạt phản đối siêu giải đấu
+9 giờ sáng: Đại diện European Super League sẽ gửi một lá thư đến các chủ tịch của FIFA và UEFA thông báo về thủ tục pháp lý tại các tòa án châu Âu nhằm ngăn chặn bất kỳ lệnh trừng phạt nào mà hai cơ quan quản lý bóng đá có thể áp dụng.
+9 giờ sáng cùng ngày: Các đại diện từ các CLB European Super League bắt đầu rời khỏi Hiệp hội các câu lạc bộ châu Âu, bao gồm Phó chủ tịch Man Utd Ed Woodward và chủ tịch Andrea Agnelli của Juventus.
+10 giờ sáng: Borussia Dortmund nói rằng họ và Bayern Munich sẽ không tham gia giải đấu ly khai mới. Tiếp đó RB Leipzig cũng nhất trí với 2 CLB Đức từ chối tham gia siêu giải đấu nói trên. PSG vẫn chưa đưa ra bình luận nhưng được hiểu là cũng từ chối tham gia.
+11 giờ sáng: Ander Herrera của PSG trở thành cầu thủ đầu tiên lên tiếng phản đối kế hoạch này, nói rằng anh ấy "không thể giữ im lặng" về dự án. Mesut Özil, Arsène Wenger và Sir Alex Ferguson cũng đồng loạt lên án kế hoạch này.
+2 giờ chiều: Chủ tịch UEFA, Aleksander Ceferin, lên án các CLB tham gia siêu giải đấu mới là "đáng hổ thẹn" và nhắc lại rằng các cầu thủ tham gia siêu giải đấu nói trên sẽ không được phép khoác áo đội tuyển quốc gia của họ tại Euro và World Cup. Ông Ceferin chỉ trích dữ dội Ed Woodward và Agnelli, nói: "Chúng tôi không biết rằng chúng tôi có những con rắn độc ở gần chúng tôi như vậy, bây giờ chúng tôi đã rõ".
+Chủ tịch UEFA Alexander Ceferin thề sẽ không nương tay với các cầu thủ tham gia siêu giải đấu European Super League đồng thời chỉ trích dữ dội những CLB sáng lập giải đấu mới này
+5 giờ chiều: Chính phủ Vương quốc Anh cho biết họ sẽ làm "bất cứ điều gì cần thiết" để ngăn các CLB Anh tham gia giải đấu mới. Bộ trưởng Văn hóa Oliver Dowden cho biết: "Các nhà chức trách bóng đá sẽ có nhiều biện pháp trừng phạt", với sự ủng hộ của nhiều bộ trưởng khác.
+7 giờ tối: Phát biểu trước trận đấu của Liverpool với Leeds, HLV Jurgen Klopp nói rằng ông không thích ý tưởng về một European Super League và rằng ông "không muốn điều đó xảy ra". James Milner đồng ý với HLV của mình trong một cuộc phỏng vấn sau trận đấu khi nói rằng anh và các cầu thủ khác sẽ chống lại điều đó.
+9 giờ tối: Perez xuất hiện trên truyền hình Tây Ban Nha nói rằng European Super League xuất hiện để "cứu bóng đá". Ông nói thêm rằng các CLB đang ở trên "bờ vực của sự đổ nát", và "vào năm 2024 chúng tôi đã chết". Perez cho biết các trận đấu ở European Super League có thể ngắn hơn và "mọi thứ tôi làm đều vì lợi ích của bóng đá, đó là thời điểm quan trọng".
+Thứ Ba ngày 20 tháng 4
+10 giờ sáng: Everton trở thành CLB đầu tiên của nhóm "14 CLB còn lại ở Premier League" lên án các CLB European Super League. Everton khẳng định: "Sự kiêu ngạo phi lý này không được mong đợi ở bất cứ đâu trong bóng đá ngoài các CLB đã soạn thảo kế hoạch này. Thay mặt cho tất cả những ai có liên quan đến Everton, chúng tôi xin trân trọng yêu cầu các đề xuất được rút lại ngay lập tức".
+11 giờ sáng: Những rạn nứt đầu tiên bắt đầu xuất hiện khi nhà báo Sean Ingle của tờ The Guardian tiết lộ rằng hai CLB là Chelsea và Man City đang dao động về việc tham gia European Super League trong khi chủ tịch FIFA Gianni Infantino, nói rằng FIFA cực kỳ phản đối giải đấu ly khai.
+1.30 chiều: HLV Pep Guardiola của Man City bày tỏ sự tức giận của mình về siêu giải đấu mà CLB của ông đã đăng ký tham gia. Pep Guardiola nói: "Đó là giải đấu mà thành công không cần đến nỗ lực, phần thưởng không cần sự cố gắng. Đó là giải đấu mà thành công đã được đảm bảo sẵn, còn thất bại thì không hề quan trọng".
+4 giờ chiều: Người hâm mộ Chelsea bắt đầu tập trung bên ngoài sân Stamford Bridge trước trận đấu với Brighton để phản đối việc CLB tham gia European Super League, họ yêu cầu gỡ bỏ các biểu ngữ bên trong sân vận động và chuẩn bị những biểu ngữ mới như "RIP Chelsea FC (1905- 2021)" và "Xóa sổ Super League".
+6 giờ chiều: Các thông tin đầu tiên tiết lộ Chelsea sắp rút khỏi liên doanh vì phản ứng dữ dội của người hâm mộ và rằng họ đang chuẩn bị tài liệu để rút khỏi European Super League.
+7 giờ tối: Man City cùng Chelsea chuẩn bị rút lui khỏi giải đấu mới với cảm giác thực sự rằng liên doanh sắp sụp đổ.
+8 giờ tối: Tin tức thông báo rằng Ed Woodward sẽ từ chức phó chủ tịch điều hành của Man Utd vào cuối năm nay khi dự án tiếp tục sụp đổ.
+9 giờ 23 phút: Man City trở thành CLB đầu tiên thông báo rằng họ đã "chính thức ban hành thủ tục rút khỏi nhóm đang phát triển kế hoạch" để tạo ra European Super League.
+10 giờ 55 phút tối: Liverpool, Arsenal, Man Utd và Tottenham đồng loạt đưa ra tuyên bố rằng họ sẽ rút lui. Arsenal là CLB thông báo cụ thể nhất: "Chúng tôi đã mắc sai lầm và chúng tôi xin lỗi vì điều đó. Chúng tôi biết sẽ cần thời gian để khôi phục niềm tin của các bạn vào những gì chúng tôi đang cố gắng đạt được tại Arsenal ở đây".
+Man City là CLB đầu tiên tuyên bố rút lui European Super League khiến siêu giải đấu này nhanh chóng sụp đổ sau 56 giờ ra đời
+12.40 sáng: Xuất hiện những thông tin một số CLB Ý và Tây Ban Nha cũng chuẩn bị rút lui. Lúc này European Super League đã đưa ra một tuyên bố rằng dự án không bị bỏ rơi, nhưng cần có thêm thời gian để "định hình lại dự án".
+12.45 sáng: Người đầu tiên trong số "Big Six" được cho là đã lên kế hoạch rút lui, Chelsea, cuối cùng đã xác nhận tin này trong một tuyên bố. CLB nói rằng kế hoạch ly khai "sẽ không vì lợi ích tốt nhất của CLB, mà vì những người ủng hộ của chúng tôi hoặc cộng đồng bóng đá rộng lớn hơn".
+Hiện tại chỉ còn ba đội bóng Tây Ban Nha là Real Madrid, Barcelona, Atletico cùng Juventus của Italia chưa đưa ra quyết định cuối cùng. Như vậy sau hơn 2 ngày thành lập, European Super League từ 12 đội chỉ còn 4 đội.
+Juventus, Atletico, Barcelona được cho là sẽ nhanh chóng rút lui khỏi giải đấu này, nhằm tránh sự phẫn nộ từ các cổ động viên, đồng thời tránh cho các cầu thủ khỏi nguy cơ bị cấm dự Euro, World Cup.
+Real Madrid là đội bóng cuối cùng đưa ra cân nhắc có rút khỏi giải đấu hay không, bởi Chủ tịch Florentino Perez là người đứng đầu European Super League, đồng thời ông có nhiều tuyên bố đanh thép chống lại FIFA, UEFA.
+Sông Lam

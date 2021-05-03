@@ -1,7 +1,7 @@
 # doc_id = news_tech_124
 # url = https://dantri.com.vn/suc-manh-so/huawei-my-da-gay-thiet-hai-lon-cho-nganh-cong-nghiep-ban-dan-toan-cau-20210413142902212.htm
 # date = 20210413
-Chất bán dẫn là bộ phận rất phức tạp, đóng vai trò quan trọng trong khâu thiết kế và sản xuất. Chúng cũng đòi hỏi sự đầu tư lớn vào R&D và chi tiêu vốn. Tuy nhiên, thế giới lại đang trải qua một trong những đợt khủng hoảng thiếu hụt chip bán dẫn lớn nhất trong lịch sử. 
+Chất bán dẫn là bộ phận rất phức tạp, đóng vai trò quan trọng trong khâu thiết kế và sản xuất. Chúng cũng đòi hỏi sự đầu tư lớn vào R&D và chi tiêu vốn. Tuy nhiên, thế giới lại đang trải qua một trong những đợt khủng hoảng thiếu hụt chip bán dẫn lớn nhất trong lịch sử.
 Theo nhận định mới nhất ông Eric Xu - Chủ tịch luân phiên của Huawei tại Hội nghị thượng đỉnh các nhà phân tích toàn cầu lần thứ 18 (18th Global Analyst Summit), Mỹ chính là quốc gia phải chịu trách nhiệm về việc này.
 "Mỹ đã áp đặt ba vòng trừng phạt đối với Huawei trong 2 năm qua và điều này gây thiệt hại đáng kể cho hoạt động kinh doanh của chúng tôi. Hơn thế, nó đã gây ra thiệt hại lớn hơn cho ngành công nghiệp bán dẫn toàn cầu", ông Xu nhấn mạnh.
 Đại diện của Huawei cho rằng các lệnh cấm của Mỹ đã phá vỡ niềm tin trong toàn bộ chuỗi cung ứng toàn cầu của ngành, buộc nhiều quốc gia và khu vực phải suy nghĩ kỹ về an ninh chuỗi cung ứng.

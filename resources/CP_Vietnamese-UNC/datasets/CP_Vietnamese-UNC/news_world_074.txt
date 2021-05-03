@@ -1,14 +1,11 @@
 # doc_id = news_world_074
-# url = https://dantri.com.vn/the-gioi/chay-benh-vien-covid-19-o-an-do-18-benh-nhan-thiet-mang-20210501110137399.htm
-# date = 20210501
-Một phần bệnh viện bị thiêu rụi sau vụ hỏa hoạn (Ảnh: ANI).
-Theo AFP, vụ việc xảy ra vào 1 giờ sáng (giờ địa phương) ngày 1/5 tại bệnh viện ở Bharuch, bang Gujarat ở phía tây Ấn Độ. Ngọn lửa bùng lên khiến tòa nhà 4 tầng hiện đang chữa trị cho 50 bệnh nhân bốc cháy.
-Các video đăng tải trên mạng xã hội cho thấy ngọn lửa đang bao trùm một phần bệnh viện và các bệnh nhân được đưa ra ngoài sơ tán. Theo cập nhật mới nhất, ít nhất 18 bệnh nhân đã thiệt mạng trong vụ hỏa hoạn. Đám cháy đã được kiểm soát.
-Theo truyền thông địa phương, đám cháy bùng lên từ khu chăm sóc tích cực, nghi do sự cố chập điện.
-Vụ hỏa hoạn xảy ra trong bối cảnh hệ thống y tế Ấn Độ đang căng mình đối phó với làn sóng lây nhiễm thứ 2. Các bệnh viện đã quá tải không thể nhận thêm bệnh nhân trong khi các lò hỏa thiêu bị "thất thủ" vì quá nhiều người thiệt mạng.
-Ấn Độ hôm qua đã lập kỷ lục thế giới về số ca Covid-19 trong 24 giờ, vượt qua ngưỡng 400.000. Quốc gia Nam Á hiện có 19,1 triệu ca bệnh và trên 211.000 người thiệt mạng vì dịch.
-Trong thời gian qua, Ấn Độ liên tục xảy ra các vụ hỏa hoạn ở bệnh viện trị Covid-19. Tuần trước, 2 vụ cháy ở bệnh viện tại bang Maharashtra đã khiến hàng chục bệnh nhân qua đời.
-Ngoài hỗ trợ Ấn Độ chống dịch, một số quốc gia nước ngoài cũng đã ban hành lệnh hạn chế với những người từng di chuyển qua Ấn Độ như biện pháp nhằm ngăn dịch bệnh lây lan.
-Ấn Độ xảy ra nhiều vụ cháy bệnh viện điều trị Covid-19 thời gian qua (Ảnh: ANI).
-Đức Hoàng
-Theo Straits Times
+# url = https://dantri.com.vn/the-gioi/chay-benh-vien-dieu-tri-covid-19-o-baghdad-gan-30-nguoi-chet-tham-20210425105844473.htm
+# date = 20210425
+Các nguồn tin cho hay, vụ hỏa hoạn ở bệnh viện Ibn Khatib xảy ra sau khi xảy ra sự cố nổ một bình oxy.
+Bệnh viện Ibn Khatib sau khi xảy ra vụ cháy. Ảnh: Reuters.
+Nhiều xe cứu thương đã lao tới bệnh viện và đưa các nạn nhân đi cấp cứu.
+Người đứng đầu lực lượng phòng thủ dân sự Iraq cho hay, lửa phát ra từ tầng dành cho việc điều trị tích cực đối với bệnh phổi.
+Hệ thống y tế Iraq vốn đã hư hại nhiều trong chiến tranh và do các lệnh cấm vận, hiện nay đang bị quá tải do đại dịch Covid-19.
+Bộ Y tế Iraq hôm 24/4 cho hay, tổng số ca tử vong do Covid-19 ở Iraq là 15.217 người.
+Theo Trung Hiếu
+VOV

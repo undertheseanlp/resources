@@ -1,21 +1,19 @@
 # doc_id = news_sport_148
-# url = https://dantri.com.vn/the-thao/khien-florentino-perez-noi-dien-cac-doi-bong-linh-hau-qua-cuc-lon-20210421191017231.htm
-# date = 20210421
-Chỉ 2 ngày sau khi tuyên bố thành lập, European Super League đang đối diện với nguy cơ lớn giải thể khi 9 CLB đã quyết định tháo chạy khỏi giải đấu. Ngoài 6 CLB Anh (Man Utd, Man City, Liverpool, Tottenham, Arsenal, Liverpool), còn có AC Milan, Inter và mới nhất là Atletico Madrid.
-Chỉ còn 3 CLB ở lại European Super League là Real Madrid, Barcelona và Juventus.
-Phát biểu trước báo giới, Chủ tịch European Super League, Florentino Perez khẳng định vẫn chưa có ý định dừng giải đấu, dù chỉ còn 3 CLB ở lại là Juventus, Barcelona và Real Madrid.
-Trước tình hình đó, Phó chủ tịch European Super League, Andrea Agnelli đã thừa nhận giải đấu có thể phải tạm ngừng sau sóng gió vừa qua.
-Tuy nhiên, tờ Marca nhấn mạnh rằng giải đấu chỉ "tạm ngừng", chứ chưa "hủy bỏ". Bởi lẽ, cuộc chiến liên quan tới European Super League vẫn còn rất nóng.
-Và giờ đây, mục tiêu của European Super League đã chuyển từ FIFA và UEFA sang nhóm "Big Six" ở Premier League. Đây là những đội bóng công khai "bắn phát súng" đầu tiên, rút đơn xin ra khỏi nhóm sáng lập. Điều đó khiến cho các CLB khác cũng "rủ nhau" tháo chạy khỏi European Super League.
-6 CLB Anh đối diện với nguy cơ mất số tiền lớn vì vi phạm thỏa thuận ở European Super League.
-Chủ tịch Florentino Perez nhấn mạnh rằng: "Không ai có thể rút lui khỏi dự án bởi có những điều khoản ràng buộc và nó đã có hiệu lực sau sự đồng thuận của 12 CLB vào thứ Bảy tuần trước".
-Nhà báo Pedrerol của đài El Chiringuito đã tiết lộ rằng người đứng đầu của Real Madrid sẽ có hành động pháp lý trong tương lai để chiến đấu lại với nhóm "Big Six".
-Nhiều tờ báo Anh (trong đó có Sky Sports) tiết lộ rằng 12 CLB đã đồng thuận ký vào bản hợp đồng có thời hạn... 23 năm (tức tới năm 2044). Do đó, mức đền bù của những CLB tháo chạy là rất lớn.
-Nhà báo Kaveh Solhekol của đài Sky Sports tiết lộ: "Bản hợp đồng có thời hạn tới 23 năm cho thấy mức độ nghiêm túc của họ. Tôi chắc chắn rằng các CLB đã ý thức được cuộc chiến pháp lý có thể nổ ra nếu như họ rút lui giữa chừng. Ban đầu, các CLB tham gia chưa nghĩ tới hậu quả lớn như vậy. Họ chỉ nghĩ mình có thể thi đấu ở giải đấu cấp cao hơn và có nhiều tiền hơn.
-Nhưng cuối cùng, các CLB Anh đã đầu hàng sớm bởi vi phạm các quy tắc cạnh tranh của EU và Vương quốc Anh".
-Chủ tịch Florentino Perez nổi điên, quyết làm tới cùng trong vụ này.
-Tờ Reuters cho rằng nguồn lợi quá lớn của European Super League mang lại (4,19 tỷ USD) sẽ giúp nhiều CLB sống khỏe trong bối cảnh ảnh hưởng đại dịch Covid-19 vừa qua. Điều đó đã "che mắt" họ. Khi đặt bút ký vào bản hợp đồng, họ không ý thức được sự phản đối quá lớn từ Chính phủ Anh và người hâm mộ.
-Khả năng những CLB tháo chạy bị phạt là rất lớn. Họ sẽ phải nộp một số tiền không nhỏ (chưa biết rõ con số chính thức trong hợp đồng). Dù thế nào, nó cũng khiến các CLB càng lao đao hơn sau cuộc khủng hoảng vì Covid-19.
-Điều đáng nói, các CLB chỉ thoát việc bị kiện nếu như cả 12 CLB tuyên bố rút lui. Điều này rất khó khi mà Real Madrid và Juventus vẫn cho thấy quyết tâm lớn.
-Sự lọc lõi của Florentino Perez là điều ai có thể dự đoán được trước. Và lần này, khi mà 6 CLB Anh đã khiến "ông trùm" nổi giận thì họ có thể phải chịu hậu quả vô cùng nặng nề.
-H.Long
+# url = https://dantri.com.vn/the-thao/kiatisuk-nang-tam-cau-thu-ha-gia-lai-hlv-park-hang-seo-huong-loi-20210425202139140.htm
+# date = 20210425
+Với Công Phượng và Văn Toàn, người ta có thể dễ lý giải việc họ được nâng tầm, bởi Kiatisuk từng là tiền đạo hàng đầu Đông Nam Á, nên "Zico Thái" biết cách làm thế nào để giúp các tiền đạo chơi hay hơn, hiệu quả hơn.
+Nhưng Kiatisuk không chỉ biết nâng tầm các chân sút, mà với những người có thiên hướng chơi phòng ngự, cựu thần tượng hàng đầu của bóng đá khu vực cũng giúp cho họ tiến bộ hơn, chắc chắn hơn.
+Cho đến sau vòng 10 LS V-League 2021, HA Gia Lai mới để thủng lưới 6 bàn, là đội để thua ít bàn nhất tại giải đấu này. Dĩ nhiên, thành tích để thua ít của HA Gia Lai có đóng góp rất lớn của 2 trung vệ ngoại Kim Dong-su và Memovic, nhưng không vì thế mà phủ định sạch trơn đóng góp của các nội binh gồm tiền vệ trung tâm Lương Xuân Trường, cùng 2 hậu vệ biên Vũ Văn Thanh và Nguyễn Phong Hồng Duy.
+Trong số này, Xuân Trường, Hồng Duy và Văn Thanh đều là các tuyển thủ quốc gia, sẽ sớm gia nhập lực lượng của HLV Park Hang Seo, hướng về vòng loại World Cup 2022 - khu vực châu Á.
+Đáng kể hơn nữa, những vị trí vừa được Kiatisuk nâng tầm đều là các vị trí mà HLV Park Hang Seo cần người nhất, sau giai đoạn khủng hoảng lực lượng vừa qua của đội tuyển, vì chấn thương và thẻ phạt.
+Ví dụ như vị trí của Xuân Trường, ít ai ngờ cầu thủ này lại chơi cực hay ở vị trí tiền vệ đánh chặn ở HA Gia Lai, làm bệ phóng cho Trần Minh Vương thoải mái dâng cao hỗ trợ tấn công. Xuân Trường đang làm nhiệm vụ phòng ngự từ xa tốt hơn hẳn chính anh thời điểm Kiatisuk chưa trở lại với đội bóng phố núi trước mùa giải 2021.
+Xuân Trường hiện tại chơi lặng lẽ hơn, nhưng hiệu quả hơn, đặc biệt là hiệu quả cả trong tranh chấp tay đôi.
+Hệ thống phòng ngự của HA Gia Lai hiện chắc chắn nhất V-League có đóng góp rất lớn của Xuân Trường và Vũ Văn Thanh (phải).
+Trong bối cảnh mà Hùng Dũng chấn thương nặng, chắc chắn vắng mặt tại vòng loại World Cup và có thể là cả ở AFF Cup vào cuối năm, thì việc Lương Xuân Trường được Kiatisuk nâng cấp thành một tiền vệ phòng ngự có chất lượng là tín hiệu quá vui với HLV Park Hang Seo.
+Xuân Trường của Kiatisuk hay ở chỗ anh phòng ngự từ xa tiến bộ, nhưng vẫn không mai một năng lực tấn công của chính mình. Bằng chứng là bàn thắng vào lưới CLB Hà Nội ở vòng 10 V-League: Sút xa đầy quyết đoán và cực kỳ chính xác, ngay khi phát hiện ra khoảng trống ở trung lộ của đối phương và xâm nhập vào khoảng trống đấy.
+2 người khác, cũng tiến bộ hẳn ở năng lực phòng ngự, đó là Văn Thanh và Hồng Duy. Kiatisuk chủ yếu thay đổi ở các cầu thủ này về mặt ý thức và tư duy. Họ vẫn là những mũi tấn công biên lợi hại khi HA Gia Lai ép sân đối thủ, nhưng khi đội bóng của Kiatisuk tập trung chơi chậm bên phần sân nhà, các cầu thủ vừa nêu không cần ham dâng cao bỏ vị trí nữa.
+Hiện tại, Nguyễn Trọng Hoàng chắc chắn vắng mặt ở trận đấu đầu tiên của đội tuyển Việt Nam tại vòng loại World Cup vào tháng 6, gặp Indonesia trên đất UAE, vì án treo giò. Vũ Văn Thanh là ứng viên sáng giá thay thế Trọng Hoàng. Vũ Văn Thanh càng chơi hay dưới trướng Kiatisuk ở HA Gia Lai thì HLV Park Hang Seo càng mừng cho đội tuyển.
+Trong khi đó, ở cánh đối diện, Đoàn Văn Hậu chưa chắc kịp hồi phục cho vòng loại World Cup, hoặc có đến UAE, Đoàn Văn Hậu cũng chưa chắc đá hậu vệ trái, nếu đội tuyển Việt Nam cần người để tăng cường khả năng phòng ngự trung lộ.
+Khi đó, Hồng Duy sẽ là ứng viên thay thế Đoàn Văn Hậu nơi hành lang trái. Và phong độ cũng như sự tiến bộ của Hồng Duy trong những ngày qua ở HA Gia Lai, có thể giúp HLV Park Hang Seo nở nụ cười mãn nguyện.
+Cầu thủ của Kiatisuk khi lên tuyển trong ít ngày tới, vì thế, hoàn toàn có thể đóng vai chính, không chỉ với những tiền đạo vốn đã nổi tiếng và có chỗ đứng ở đội tuyển quốc gia như Công Phượng, mà còn với những người chuyên đóng vai "kép phụ" bấy lâu nay gồm Văn Toàn, Xuân Trường, Hồng Duy, Văn Thanh. Qua những gì đã thể hiện, họ có thể… đổi vai trong thời gian trước mắt!
+Kim Điền

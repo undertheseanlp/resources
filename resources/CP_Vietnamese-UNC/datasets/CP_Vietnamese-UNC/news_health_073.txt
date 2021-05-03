@@ -1,24 +1,14 @@
 # doc_id = news_health_073
-# url = https://dantri.com.vn/suc-khoe/ca-covid-19-sieu-lay-nhiem-o-ha-nam-da-lay-cho-8-benh-nhan-nhu-the-nao-20210429232653356.htm
-# date = 20210429
-Từ ca Hà Nam, 3 tỉnh có bệnh nhân lây nhiễm
-Đến nay, chùm ca bệnh liên quan đến BN2899 - ca F0 ở Hà Nam - được xác định có 8 trường hợp. BN2899từ Nhật Bản trên chuyến bay VJ3613 nhập cảnh Sân bay Đà Nẵng ngày 07/4/2021, được cách ly tập trung ngay, lấy mẫu xét nghiệm tại Đà Nẵng. Ngày 22/4 bệnh nhân hoàn thành cách ly, có kết quả xét nghiệm 3 lần âm tính, được về cách ly tại địa phương.
-Ngay khi trở về nhà, ngày 24/4, bệnh nhân có biểu hiện triệu chứng ho, sốt, đau họng được Trung tâm Kiểm soát bệnh tật tỉnh Hà Nam lấy mẫu xét nghiệm. Kết quả bệnh nhân dương tính với SARS-CoV-2.
-Hà Nam đã phong tỏa thôn có 5 ca Covid-19.
-Tất cả 4 người trong gia đình gồm: bố đẻ bệnh nhân; mẹ đẻ bệnh nhân; vợ bệnh nhân và con bệnh nhân đều bị lây nhiễm, là các bệnh nhân BN2901, BN2903, BN2908-BN2909.
-BN2899 cũng lây cho một trường hợp F1 ở Đông Anh, Hà Nội. Ca F1 này đã ăn liên hoan cùng BN2899 từ 20 giờ đến 22 giờ tại quán ăn ở thị trấn Vĩnh Trụ, Lý Nhân, Hà Nam.
-Với ca F1 Hà Nam là người Đông Anh đã dương tính với Sars-Cov-2. Từ 0h00 đêm 30/4, Hà Nội quyết định dừng hoạt động đối với các nhà hàng Karaoke và quán bar.
-BN2899 cũng đã lây cho 2 mẹ con ở Hưng Yên, khi hai mẹ con này về Hà Nam thăm người nhà, có tiếp xúc với BN2899 - là hàng xóm.
-Hai trường hợp này sống tại xã Tiên Tiến, huyện Phù Cừ, Hưng Yên. Bà S. đưa con về thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân, Hà Nam thăm mẹ ruột. Tại đây hai mẹ con tiếp xúc gần với bệnh nhân 2899, là hàng xóm. Sau khi Hà Nam báo cáo các trường hợp liên quan, Hưng Yên đã truy vết, đưa mẹ con bà S. đi cách ly tập trung và lấy mẫu xét nghiệm.
-Tại TP. Hồ Chí Minh cũng xác định 1 ca F1 với BN ở Hà Nam dương tính với SARS-CoV-2.
-Lây nhiễm nhanh, tấn công nhanh
-Đánh giá về ca Covid-19 ở Hà Nam, Bộ trưởng Y tế Nguyễn Thanh Long cho rằng tốc độ lây nhiễm nhanh, mức độ tấn công nhanh.
-"Bộ Y tế sẽ tiến hành đánh giá và phân tích giải trình tự gen", Bộ trưởng Y tế nói.
-Người đứng đầu ngành y tế cũng bày tỏ quan điểm việc chống dịch phải nhanh chóng, thầntốc vì nếu chúng ta chậm 1-2 ngày thì dịch sẽ bước sang chu kỳ lây nhiễm mới và công cuộc chống dịch càng khó khăn. Do đó điều quan trọng là phải dập bằng được ổ dịch Hà Nam.
-Bộ trưởng Y tế đánh giá ca F0 ở Hà Nam có tốc độ lây nhiễm nhanh, tấn công nhanh, với 8 ca F1 tiếp xúc với bệnh nhân đã dương tính với SARS-CoV-2.
-Theo Bộ trưởng, hiện ổ dịch này đã liên quan đến nhiều tỉnh thành khác, vì bệnh nhân đã đi taxi, xe khách, đã có người tiếp xúc bay vào TP Hồ Chí Minh, do đó yêu cầu các địa phương có người đi chung chuyến bay ở Nhật về Đà Nẵng hôm 7/4; đi chung xe khách từ Đà Nẵng về Hà Nam và cách ly chung với bệnh nhân tại khách sạn ở TP Đà Nẵng phải cách ly tập trung ngay, lấy mẫu xét nghiệm. 121 người cách ly cùng bệnh nhân tại khách sạn Alisia Bench ở Đà Nẵng chúng tôi đánh giá rất nhiều nguy cơ.
-"Những trường hợp còn lại cách ly tại các khách sạn khác phải lấy mẫu xét nghiệm ngay. Tất cả các hành khách đi cùng chuyến xe với bệnh nhân phải cách ly ngay, đồng thời truy vết ngay những người tiếp xúc với người đi cùng xe, để khi những trường hợp F1 thành F0, chúng ta đã có danh sách sẵn để quản lý"- Bộ trưởng Nguyễn Thanh Long yêu cầu.
-Báo cáo của UBND tỉnh Hà Nam cho biết, đến nay đã truy vết 113 trường hợp F1, số F2 khoảng hơn 200 người và hiện đang tiếp tục điều tra, truy vết.
-Bộ Y tế yêu cầuHà Nam phải tổ chức giám sát tất cả các trường hợp sốt, ho, đau họng. Tất cả những trường hợp này phải cách ly tại nhà, lấy mẫu xét nghiệm ngay. Đây là những trường hợp có dấu hiệu chỉ điểm, đặc biệt là tại khu vực lân cận bệnh nhân sinh sống, giao lưu.
-Đồng thời, Hà Nam phải thành lập ngay các tổ phòng chống Covid-19 cộng đồng ngay trong thôn Quan Nhân đêm nay, và toàn xã vào ngày mai. 2 người 1 tổ phụ trách 30-50 người để đi từng ngõ, gõ từng nhà, theo dõi chặt từng trường hợp, nếu ho, sốt thì báo cáo lấy mẫu xét nghiệm ngay. Bên cạnh đó, tỉnh phải huy động toàn bộ sinh viên trường Y để tập huấn về công tác lấy mẫu xét nghiệm, chuẩn bị sẵn tình huống chống dịch khi cần.
-Hồng Hải
+# url = https://dantri.com.vn/suc-khoe/ca-la-thuc-pham-tot-con-thit-la-toi-do-20210423201225223.htm
+# date = 20210423
+Nhóm chất đạm (protein) gồm: thịt, cá, trứng, sữa, vừng, đỗ, lạc cung cấp các axit amin- nguyên liệu chủ yếu xây dựng cơ thể. Đây là thành phần cơ bản của cơ thể sống. Nó tham gia vào thành phần mỗi tế bào và là yếu tố tạo hình chính của các cơ quan, bộ phận trong cơ thể.
+Theo Viện Dinh dưỡng Quốc gia không thể nói ăn cá tốt hơn ăn thịt. Lý do vì thịt cung cấp cho cơ thể các axit amin cần thiết, các axit béo giúp cho sự phát triển của nhiều tổ chức, cơ quan trong cơ thể. Ngoài ra thịt còn có các chất khoáng, vitamin và là nguồn các yếu tố vi lượng như vitamin A, sắt, kẽm, đồng, coban, selen... Thịt là nguồn vitamin nhóm B rất tốt (B1, B6, PP, B12…).
+Tuy nhiên, trong quá trình tiêu hóa thịt tạo ra nhiều sản phẩm trung gian không tốt với cơ thể. Trong thịt lại có nhiều mỡ, nhiều axit béo no và cholesterol, đặc biệt là trong phủ tạng hàm lượng cholesterol rất cao, nếu ăn nhiều sẽ làm tăng nguy cơ bị các bệnh về tim mạch, cao huyết áp.
+Cá và các chế phẩm là loại thức ăn có giá trị dinh dưỡng cao. Trước hết đó là nguồn protein quý, có đủ cácaxit amin cần thiết; mỡ cá có nhiều vitamin A, D và axit béo chưa no có nhiều mạch kép các loại (là những axit béo cần thiết có nhiều vai trò quan trọng trong cơ thể).
+Cá, nhất là cá biển có nhiều chất khoáng quan trọng như canxi, photpho, clo, natri... và các yếu tố vi lượng (đồng, coban, kẽm, i-ốt.... ). Lượng i-ốt ở một số loại cá biển rất cao, ví dụ như cá thu có từ 1,7-6,2 mg/ kg.
+Thịt của cá dễ tiêu thụ và dễ hấp thu, tổ chức liên kết phân phối đều nên khi nấu chóng chín, mềm, dễ tiêu hóa, dễ hấp thu.
+Cá, thịt đều có giá trị dinh dưỡng cao, vì vậy nên ăn cả cá và thịt đồng thời phối hợp với các thức ăn khác để cung cấp đầy đủ thành phần các chất dinh dưỡng và tạo cảm giác ngon miệng. Với người cao tuổi nên giảm bớt thịt, đặc biệt là thịt gia súc (loại 4 chân bò, lợn, chó, dê…) và ăn cá nhiều hơn.
+Đối với người trưởng thành lượng protein động vật chỉ nên đạt khoảng 25-30% tổng số protid là thích hợp. Đối với trẻ em tỷ lệ này nên cao hơn (đạm động vật chiếm khoảng 50-70% tổng số). Để đảm bảo cân đối chất đạm, bữa ăn cần có đa dạng các thức ăn giàu đạm có nguồn gốc từ động vật và thực vật ở tỷ lệ thích hợp.
+Mỗi loại thực phẩm đều cung cấp một số chất dinh dưỡng nhất định nhưng ở tỷ lệ khác nhau. Không một thực phẩm nào là hoàn hảo và có thể cung cấp đủ các chất dinh dưỡng cho nhu cầu của cơ thể.
+Bạn nên giảm thịt và tăng cường sử dụng cá trong khẩu phần ăn. Mỗi tuần nên ăn từ 2 - 3 bữa cá. Mỗi ngày mỗi người cần ăn tối thiểu 15 loại thực phẩm đại diện từ 4 nhóm (chất đạm, chất bột đường, chất béo, nhóm vitamin và muối khoáng).
+Hà An

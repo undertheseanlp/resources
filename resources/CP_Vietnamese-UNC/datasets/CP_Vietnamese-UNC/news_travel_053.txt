@@ -1,13 +1,8 @@
 # doc_id = news_travel_053
-# url = https://dantri.com.vn/du-lich/can-canh-loai-ca-duoi-cuc-doc-voi-noc-co-the-giet-chet-nguoi-20210328233221465.htm
-# date = 20210328
-"Blotched fantail ray" còn được gọi là cá đuối cẩm thạch. Chúng có thể tìm thấy trên khắp khu vực Ấn Độ Dương và tây Thái Bình Dương.
-Tại Australia, chúng thường tập trung ở bờ biển trung tâm khu vực Tây Úc, xung quanh vùng nhiệt đới phía bắc của nước này, xuống tận phía bắc New South Wales và đảo Lord Howe. Ngoài ra, chúng cũng xuất hiện nhiều dọc theo rạn san hô Great Barrier Reef nổi tiếng.
-Loài này có hình dạng đĩa, màu sắc đặc biệt với những đốm sáng tối ở mặt trên và một nếp gấp da bụng trên đuôi. Dù bản chất của chúng không hung dữ nhưng nó đã gây ra ít nhất một ca tử vong cho con người.
-Cá đuối cẩm thạch đặc trưng với đĩa vây ngực dày. Chúng có thể đạt tới 1,8 m chiều ngang. Đuôi của nó có gai nhọn với các cạnh răng cưa hướng vào thân.
-Trên thực tế, loài này thường bị nhầm với loài cá đuối đuôi bò. Sự khác biệt duy nhất giữa chúng chính là màu sắc và hình dáng đĩa hơi nhọn.
-Dù không dữ tợn nhưng chúng đặc biệt thận trọng với người lạ. Khi thấy sự xuất hiện của thợ lặn, chúng sẽ sẵn sàng vào tư thế phòng thủ. Thông thường, chúng sẽ trốn kỹ trong lớp cát dưới đáy biển để không bị thợ lặn nhìn thấy. Nếu không may giẫm phải, mắt cá chân nạn nhân có thể bị tấy đỏ. Nếu được chăm sóc kịp thời, vết thương có thể sẽ không gây nguy hiểm.
-Vũ khí bí mật và nguy hiểm nhất của cá đuối cẩm thạch chính là tuyến nọc độc nằm ở xương sống cùng một lớp màng bọc toàn bộ cơ chế châm chích.
-Khi tấn công, đuôi nó sẽ phóng lên, đâm ngòi chứa nọc độc vào cơ thể đối phương. Áp lực từ đòn tấn công sẽ làm rách lớp vỏ bảo vệ. Tiếp đó, chất độc từ các cạnh răng cưa bắt đầu chảy vào vết thương. Khi xâm nhập vào những bộ phận quan trọng trên cơ thể nạn nhân, nọc độc sẽ giết chết một người trưởng thành.
-Quốc Việt
-Theo Schannel/ Australian
+# url = https://dantri.com.vn/du-lich/canh-sac-nhu-co-tich-cua-canh-rung-do-quyen-tim-troi-tay-bac-20210415204457209.htm
+# date = 20210415
+Lấp ló sau những rặng cây già, hoa đỗ quyên khiến các du khách tham quan thích thú và say đắm. Từng chùm hoa nhỏ, vươn cao đung đưa trước từng đợt gió đầu mùa se lạnh. Tháng 4 trở thành cơ hội để hoa đỗ quyên "thống trị" cả núi rừng Lai Châu. (Ảnh: Ngô Thanh Hải).
+Ngắm hoa đỗ quyên để thấy Tây Bắc thật đẹp, về lại với miền rừng núi như tìm về miền ký ức cổ xưa. Miền ký ức ấy không xô bồ, náo nhiệt mà nhẹ nhàng, đằm thắm. Hoa đỗ quyên, một loài hoa giản dị, chân chất mà dịu dàng khó quên. (Ảnh: Ngô Thanh Hải).
+Ở Lai Châu, đỗ quyên rừng xuất hiện chủ yếu tại đỉnh Pu Ta Leng nằm trên dãy Hoàng Liên Sơn, thuộc địa phận xã Hồ Thầu, huyện Tam Đường. Đây được coi là địa điểm đắt giá nhất để tận hưởng trọn vẹn vẻ đẹp của hoa đỗ quyên rừng. (Ảnh: Ngô Thanh Hải).
+Cứ thử một lần đến thăm Pu Ta Leng (Lai Châu) vào mùa hoa đỗ quyên, vừa ngắm hoa vừa tận hưởng không gian yên bình, hoang vu nơi gặp gỡ của đất trời. (Ảnh: Ngô Thanh Hải).
+Phương Nga

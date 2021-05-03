@@ -19,7 +19,7 @@ Các học viện, trường trong Quân đội chỉ xét tuyển vào đào t�
 Về điểm chuẩn tuyển sinh: Thực hiện một điểm chuẩn chung với đối tượng thí sinh là quân nhân và thanh niên ngoài Quân đội; xác định điểm chuẩn riêng theo đối tượng Nam - Nữ (nếu trường có tuyển thí sinh nữ); theo thí sinh có hộ khẩu thường trú ở khu vực phía Bắc (tính từ Quảng Bình trở ra) và thí sinh có hộ khẩu thường trú ở khu vực phía Nam (tính từ Quảng Trị trở vào) hoặc theo từng Quân khu; thí sinh là quân nhân tại ngũ được xác định điểm tuyển theo hộ khẩu thường trú;
 - Đối với các học viện, trường có xét tuyển đồng thời Tổ hợp xét tuyển: Toán, Lý, Hóa (tổ hợp A00) và Tổ hợp xét tuyển: Toán, Lý, tiếng Anh (tổ hợp A01): Thực hiện một điểm chuẩn chung cho tổ hợp A00 và tổ hợp A01;
 - Thí sinh được tính điểm chuẩn theo hộ khẩu thường trú phía Nam phải có đủ các điều kiện sau:
- + Có hộ khẩu thường trú từ tỉnh Quảng Trị trở vào;
- + Thời gian có hộ khẩu thường trú từ tỉnh Quảng Trị trở vào (tính đến tháng 9 năm dự tuyển) phải đủ 3 năm thường trú liên tục trở lên;
- + Có ít nhất năm lớp 12 học và dự thi tốt nghiệp trung học phổ thông tại các tỉnh phía Nam.
++ Có hộ khẩu thường trú từ tỉnh Quảng Trị trở vào;
++ Thời gian có hộ khẩu thường trú từ tỉnh Quảng Trị trở vào (tính đến tháng 9 năm dự tuyển) phải đủ 3 năm thường trú liên tục trở lên;
++ Có ít nhất năm lớp 12 học và dự thi tốt nghiệp trung học phổ thông tại các tỉnh phía Nam.
 Nhật Hồng

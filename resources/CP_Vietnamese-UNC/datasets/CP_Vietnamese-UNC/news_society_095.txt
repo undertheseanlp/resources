@@ -1,10 +1,11 @@
 # doc_id = news_society_095
-# url = https://dantri.com.vn/xa-hoi/dang-tap-the-duc-hoang-hon-phat-hien-chan-nguoi-tho-ra-tu-lum-cay-20210426121216713.htm
-# date = 20210426
-Sáng 26/4, Công an phường Quán Bàu (TP Vinh, Nghệ An) nhận được tin báo của người dân về việc phát hiện một thi thể trong lùm cây dại.
-Vào sáng sớm, một số người dân đi tập thể dục trên đường thuộc phường Quán Bàu phát hiện mùi hôi thối nồng nặc từ một bụi cây (cách đường khoảng 10m) nên vào kiểm tra và thấy chân người thò ra bên ngoài. Ngay lập tức, người dân trình báo sự việc đến các cơ quan chức năng.
-Công an phường Quán Bàu cử cán bộ chiến sĩ đến bảo vệ hiện trường, phối hợp Công an TP Vinh và Phòng Cảnh sát Hình sự Công an tỉnh khám nghiệm tử thi phục vụ điều tra vụ việc.
-Nạn nhân là nam giới, khoảng từ 35-40 tuổi, thi thể đang trong quá trình phân hủy.
-Một số người dân cho biết, con đường này đang trong quá trình xây dựng nên ít phương tiện qua lại, chủ yếu người dân trong vùng đi tập thể dục.
-Vụ việc đang được công an điều tra làm rõ.
-Hoàng Lam
+# url = https://dantri.com.vn/xa-hoi/dang-tin-vung-tau-cam-tam-bien-mot-phu-nu-bi-xu-phat-20210501075303699.htm
+# date = 20210501
+Hàng nghìn người đã đổ về biển Vũng Tàu vào ngày 30/4 sau khi cơ quan chức năng bác tin "Vũng Tàu cấm tắm biển" (Ảnh: Hải Vân Vũng Tàu).
+Ngày 1/5, Công an thị xã Phú Mỹ đã phối hợp với Phòng An ninh chính trị nội bộ, Công an tỉnh Bà Rịa - Vũng Tàu (BR-VT) đã làm việc với bà P.T.H. (người địa phương) về hành vi đăng tải thông tin không đúng sự thật lên mạng xã hội Facebook.
+Trước đó, ngày 29/4, bà H. sử dụng tài khoản Facebook cá nhân đăng tải bài viết "Vũng Tàu cấm tắm biển" có nội dung TP Vũng Tàu đã huy động hơn 200 người gồm các lực lượng Cảnh sát trật tự, CSGT, Đội trật tự đô thị, để tuyên truyền nhắc nhở, ngăn chặn người dân xuống tắm biển.
+Trong bài viết này, bà H. còn đăng kèm một số hình ảnh về lực lượng chức năng TP. Vũng Tàu đang làm nhiệm vụ tại khu vực Bãi Trước. Sau khi đăng tải, bài viết đã được cộng đồng mạng chia sẻ rộng rãi, gây hoang mang dư luận. Sau đó, bà H. đã chủ động xóa bài viết này.
+Tại buổi làm việc, bà H. thừa nhận thông tin mà bản thân đăng tải là không đúng sự thật, gây hoang mang dư luận. Cơ quan chức năng đã yêu cầu bà H. đính chính thông tin, đồng thời củng cố hồ sơ để xử lý theo Nghị định của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực bưu chính, viễn thông, tần số vô tuyến điện, công nghệ thông tin và giao dịch điện tử.
+Sở Du lịch và lãnh đạo UBND TP. Vũng Tàu khẳng định không cấm tắm biển như thông tin xuyên tạc trên mạng xã hội.
+Theo Trung tâm quản lý và hỗ trợ khách du lịch TP Vũng Tàu, trong ngày 30/4, lượng khách đến Vũng Tàu ước khoảng 70.200 lượt, tăng gấp gần 5 lần so với sáng cùng ngày. So với cùng kỳ, năm nay do ảnh hưởng của dịch Covid-19 và thông báo UBND tỉnh ngưng tổ chức các sự kiện tập trung đông người nên lượng khách giảm.
+Trung Kiên

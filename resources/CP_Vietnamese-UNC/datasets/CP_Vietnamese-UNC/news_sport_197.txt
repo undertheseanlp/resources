@@ -1,19 +1,13 @@
 # doc_id = news_sport_197
-# url = https://dantri.com.vn/the-thao/noi-guong-hlv-park-hang-seo-hlv-trung-quoc-phai-ra-di-vi-su-co-kho-do-20210428163716910.htm
-# date = 20210428
-HLV người Trung Quốc, Li Huan Ning bắt đầu đảm nhận công việc ở đội tuyển bóng chuyền nam Việt Nam từ tháng 12/2020. Ông được kỳ vọng sẽ giúp đội tuyển Việt Nam vượt qua Thái Lan để giành tấm huy chương vàng SEA Games 31.
-HLV Li Huan Ning phải rời khỏi đội tuyển bóng chuyền nam Việt Nam vì không gia hạn được visa.
-Mặc dù vậy, rất có thể HLV Li Huan Ning sẽ không thể đảm nhận công việc này nữa bởi không gia hạn được visa do trục trặc giấy tờ. Chứng kiến việc HLV Li Huan Ning rời khỏi Việt Nam trong thời gian ngắn khiến cho báo giới Trung Quốc cảm thấy tiếc nuối.
-Tờ Sohu có bài viết: "HLV Li Huan Ning bị buộc thôi chức ở đội tuyển bóng chuyền nam Việt Nam".
-Trong bài viết, tác giả nhấn mạnh: "HLV Li Huan Ning đã bất ngờ thôi chức HLV đội tuyển bóng chuyền nam Việt Nam chỉ sau vài tháng huấn luyện.
-Một vài nguồn tin cho rằng visa của HLV Li Huan Ning đã hết hạn nhưng ông không thể gia hạn. Dù Liên đoàn bóng chuyền Việt Nam đã rất nỗ lực nhưng cơ hội ở lại của HLV này gần như bằng không.
-Liên đoàn bóng chuyền Việt Nam nhấn mạnh rằng những đóng góp của HLV người Trung Quốc đáng được ghi nhận nhưng ông buộc phải ra đi vì lý do không gia hạn được visa.
-HLV Li Huan Ning từng nhận được nhiều kỳ vọng khi tới làm việc cùng đội tuyển bóng đá chuyền nam Việt Nam kể từ tháng 12/2020. Họ đặt niềm tin rằng ông có thể giúp bóng chuyền Việt Nam giành huy chương vàng SEA Games 31.
-Dù là một trong những đội tuyển bóng chuyền mạnh nhất Đông Nam Á nhưng Việt Nam chưa từng giành huy chương vàng SEA Games. Thành tích tốt nhất của họ là giành huy chương bạc vào các năm 2003, 2007 và 2015. Thậm chí, ở kỳ SEA Games gần đây, bóng chuyền nam Việt Nam đã gây thất vọng khi để thua cả 3 trận, trong đó có cả thất bại trước Campuchia.
-Ước mơ trở thành HLV Park Hang Seo không trở thành sự thật với HLV Li Huan Ning.
-Trong cuộc trả lời phỏng vấn báo giới, HLV Li Huan Ning thừa nhận rằng ông muốn noi gương HLV Park Hang Seo, để mang tới thành công rực rỡ cho bóng chuyền Việt Nam.
-HLV Park Hang Seo từng giúp đội tuyển bóng đá Việt Nam có bước tiến thần tốc. Họ không chỉ khẳng định là đội bóng mạnh nhất Đông Nam Á mà còn vươn tầm ra châu Á.
-Trong buổi tập hồi tháng 1 năm nay, HLV Li Huan Ning từng chỉ ra 3 điểm yếu của bóng chuyền nam Việt Nam là chuyền một, chắn bóng và hay mắc lỗi nhỏ trong trận đấu. Tuy nhiên, sau khi mất việc, ông không còn cơ hội cải thiện điểm yếu này cho bóng chuyền Việt Nam.
-Một tiếng thở dài! HLV Li Huan Ning sắp phải rời Việt Nam".
-Trước mắt, HLV phó Trần Đình Tiền sẽ tạm thời tiếp quản công việc HLV đội tuyển bóng chuyền nam Việt Nam.
-H.Long
+# url = https://dantri.com.vn/the-thao/nu-vo-si-trung-quoc-khoc-lang-sau-khi-bi-doi-thu-ha-knockout-bat-ngo-20210426112435707.htm
+# date = 20210426
+Zhang Weili đối đầu với Rose Namajunas tại sự kiện UFC 261 để bảo vệ đai vô địch hạng rơm của mình vào tối 24/4 vừa qua. Trận đấu này nhận được sự quan tâm của đông đảo người hâm mộ, nhất là khi huyền thoại quyền Anh Myke Tyson từng tuyên bố võ sĩ người Trung Quốc sẽ nhanh chóng bị hạ gục bởi tay đấm người Mỹ.
+Zhang Weill giành đai vô địch hạng rơm UFC và đang có thành tích 21 trận thắng liên tiếp trước khi đối đầu với Rose Namajunas
+Trước trận đấu này, Zhang Weili cũng đã lên tiếng phản bác Myke Tyson khi nói: "Tyson không có quyền bình luận vì ông ta chẳng biết gì về MMA (võ tổng hợp tự do), và cũng chẳng biết gì về tôi nữa."- Zhang nói với Mạng Truyền hình Quốc tế Trung Quốc.
+"Mấy câu nói đó chẳng gây ảnh hưởng gì cả, thay vào đó tôi sẽ cố gắng hết sức. Và hơn nữa, tôi đề nghị Tyson hãy tự thử sức với MMA." - nữ võ sĩ từng giành thành tích 21 chiến thắng liên tiếp lên tiếng thách thức Mike Tyson.
+Tuy nhiên, những nhận xét của Myke Tyson lần này lại hoàn toàn đúng với những gì đã diễn ra trong trận đấu giữa Zhang Weili với Rose Namajunas.
+Mở màn bằng những cú đá thấp, Zhang Weili dự định dùng chiến thuật phá trụ để hạn chế khả năng thi đấu uyển chuyển với Boxing của Rose. Tuy nhiên, một tình huống bất ngờ đã xảy ra.
+Khi đang dang tay chờ đòn tấn công từ Rose, Zhang Weili đã dính đòn đá cực mạnh vào mặt từ đối thủ. Đòn đá khiến nhà vô địch người Trung Quốc đổ gục xuống sàn ngay lập tức, mở đường cho Rose lao vào kết thúc trận đấu với loạt "giã gạo" ngay sau đó.
+Nữ võ sĩ Trung Quốc Zhang Weili khóc lặng sau khi mất đai vô địch về tay Rose Namajunas
+Trọng tài đã phải lao vào can thiệp đồng thời công nhận một chiến thắng knock-out cho nữ võ sĩ người Mỹ. Với trận thua này, Zhang Weili đã khóc lặng sau khi để mất đai hạng rơm UFC về tay Rose Namajunas.
+Sông Lam

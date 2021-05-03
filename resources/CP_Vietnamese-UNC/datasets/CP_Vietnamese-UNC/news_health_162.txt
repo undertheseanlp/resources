@@ -1,20 +1,26 @@
 # doc_id = news_health_162
-# url = https://dantri.com.vn/suc-khoe/mui-tiem-vac-xin-phong-covid-19-dau-tien-cho-luc-luong-y-te-bac-lieu-20210422161213728.htm
-# date = 20210422
-Ghi nhận của phóng viên Dân trí, chiều ngày 22/4, hàng chục cán bộ, y, bác sĩ, điều dưỡng, hộ lý, nhân viên của Bệnh viện đa khoa tỉnh Bạc Liêu chính thức được tiêm vắc xin AstraZeneca phòng dịch Covid-19.
-Ông Mã Quốc Thiện, Giám đốc bệnh viện, là người có mặt và "xung phong" tiêm mũi đầu tiên theo đúng quy trình: Ghi thông tin cá nhân, đo huyết áp, khám sàng lọc, tiêm và theo dõi sau tiêm.
-Ông Mã Quốc Thiện, Giám đốc Bệnh viện đa khoa Bạc Liêu, tiêm mũi vắc xin phòng dịch Covid-19 đầu tiên.
-Tiếp đó, nhiều cán bộ, trưởng, phó khoa, đội ngũ y, bác sĩ của các phòng, khoa của Bệnh viện đa khoa Bạc Liêu đã tiến hành tiêm vắc xin theo quy trình đã đưa ra.
-Lãnh đạo Bệnh viện Bạc Liêu cho biết, trong đợt tiêm vắc xin đầu tiên này (đợt 1) có khoảng 100 người được tiêm. Sau tiêm cho thấy, chưa thấy trường hợp nào có phản ứng bất thường.
-Bệnh viện đa khoa Bạc Liêu là đơn vị đầu tiên của tỉnh Bạc Liêu được tiêm vắc xin phòng dịch Covid-19 ngay tại tỉnh này. Theo kế hoạch, bệnh viện có hơn 1.000 người, được chia ra nhiều lần tiêm, từ ngày 22 - 28/4.
-Giám đốc Bệnh viện đa khoa Bạc Liêu Mã Quốc Thiện cho biết, sau khi tiêm, ngoài theo dõi ít nhất 30 phút tại chỗ, thì đối tượng tiêm chủng còn được hướng dẫn tự theo dõi tại nhà trong vòng 24 giờ và tiếp tục theo dõi trong vòng 7 ngày về các dấu hiệu: Tinh thần, ăn, ngủ, thở, phát ban, thông báo cho nhân viên y tế nếu có dấu hiệu bất thường.
-"Liên hệ với bệnh viện hoặc các cơ sở y tế nếu sau tiêm chủng có một trong các dấu hiệu như sốt cao từ 39 độ C trở lên, tím tái, khó thở...", ông Thiện thông tin.
-Một số hình ảnh tiêm vắc xin đầu tiên được PV Dân trí ghi nhận:
-Nhân viên y tế Bệnh viện Bạc Liêu ghi thông tin cá nhân tại buổi tiêm vắc xin.
-Đo huyết áp...
-... và tiến hành khám sàng lọc trước khi tiêm.
-Một nữ nhân viên được tiêm mũi vắc xin đầu tiên.
-Ghi chép, xác nhận thông tin trường hợp đã tiêm vắc xin.
-Sau khi tiêm, các trường hợp được theo dõi trong khoảng 30 phút tại chỗ.
-Theo Sở Y tế tỉnh Bạc Liêu, toàn tỉnh có 5.988 đối tượng được tiêm vắc xin phòng dịch Covid-19 đợt 1, gồm: Lực lượng nhân viên y tế, Ban chỉ đạo phòng chống dịch Covid-19 các cấp, lực lượng bảo vệ, chăm lo người ở khu cách ly…
-Huỳnh Hải
+# url = https://dantri.com.vn/suc-khoe/neu-co-nhung-dau-hieu-nay-ban-chac-chan-bi-sa-sut-tri-tue-20210426082432180.htm
+# date = 20210426
+Nó không phải là một bệnh cụ thể, mà nhiều bệnh khác nhau có thể gây ra sa sút trí tuệ. Đó là lý do tại sao việc phát hiện ra nguyên nhân là rất quan trọng.
+1. Bệnh Alzheimer là gì?
+Theo CDC, Alzheimer dạng sa sút trí tuệ phổ biến nhất, là nguyên nhân gây tử vong đứng hàng thứ sáu đối với người trưởng thành ở Mỹ và ảnh hưởng đến hơn một triệu người. Và không giống như các bệnh khác, chẳng hạn như ung thư và bệnh tim, tỷ lệ tử vong do Alzheimer đang tăng lên theo thời gian. Không có cách chữa khỏi bệnh Alzheimer và bệnh trí nhớ đang tiến triển. Vì nó liên quan đến phần não kiểm soát tư duy, ký ức và ngôn ngữ, nó có thể bắt đầu nhẹ và cuối cùng khiến một người mất khả năng thực hiện các hoạt động hàng ngày.
+2. Nguyên nhân nào gây ra bệnh Alzheimer
+Có rất nhiều điều chưa biết về nguyên nhân gây ra bệnh Alzheimer. Chúng ta biết rằng bệnh nhân Alzheimer bị tích tụ protein amyloid trong não và hầu hết bệnh nhân cũng tích tụ quá mức protein thứ hai, được gọi là tau. Cả hai loại protein này đều có thể gây độc cho tế bào não.
+Vậy nguyên nhân gây ra bệnh Alzheimer, nói ngắn gọn là cái chết của tế bào não.
+3. Những dấu hiệu nào cho thấy bạn bị sa sút trí tuệ
+Các triệu chứng của bệnh Alzheimer thường bắt đầu sau tuổi 60. Có nhiều triệu chứng của bệnh cần chú ý, hầu hết chúng liên quan đến trí nhớ.
+Ai cũng có lúc quên thứ này thứ khác, nhưng nếu bạn hoặc người thân liên tục quên cuộc hẹn, mất những đồ đạc quan trọng như ví hoặc điện thoại, khó giữ đúng lịch hoặc thời gian trong ngày hoặc lặp đi lặp lại cùng một câu hỏi hoặc câu chuyện thì đó là dấu hiệu báo động. Các triệu chứng khác có thể bao gồm khó tìm đường đi, ngay cả khi đang trên hành trình quen thuộc, khó theo dõi các công việc phức tạp mà bạn đã từng quản lý một cách dễ dàngnhư nấu nhiều món cùng một lúc cho bữa tối hoặc theo dõi các hóa đơn và quản lý sổ sách, và trở nên ít quan tâm hơn đến các hoạt động xã hội, lo lắng hơn hoặc trầm cảm hơn.
+4. Làm thế nào để xác định nguy cơ?
+Mặc dù đã có rất nhiều nghiên cứu nhưng các nhà khoa học vẫn chưa biết chính xác nguyên nhân gây ra bệnh Alzheimer. Tuy nhiên, có một số yếu tố nguy cơ của bệnh Alzheimer mà mọi người cần lưu ý:
+• Tuổi: Hầu hết bệnh nhân được chẩn đoán mắc bệnh sau 60 tuổi, tuy nhiên, bệnh cũng có thể xảy ra ở những người trẻ hơn. Theo CDC, số người mắc bệnh tăng gấp đôi sau mỗi 5 năm kể từ tuổi 65.
+• Giới tính: Gần 2/3 số người mắc bệnh Alzheimer là phụ nữ, theo Hiệp hội bệnh Alzheimer (AA).
+• Chủng tộc: AA cũng chỉ ra rằng chủng tộc cũng đóng vai trò. Người Mỹ gốc Phi lớn tuổi có nguy cơ mắc bệnh này cao gấp đôi so với người da trắng lớn tuổi, trong khi người gốc Tây-Bồ có nguy cơ mắc bệnh cao gấp rưỡi.
+• Tiền sử gia đình: Nếu có tiền sử gia đình mắc bệnh Alzheimer, các nhà nghiên cứu tin rằng nó có thể làm tăng cơ hội phát triển bệnh này.
+• Thay đổi não: Theo các nhà nghiên cứu, những thay đổi trong não có thể bắt đầu nhiều năm trước khi các triệu chứng đầu tiên xuất hiện.
+• Huyết áp cao và cholesterol cao: Các nhà khoa học tin rằng bệnh tim và các yếu tố nguy cơ đột quỵ cũng có thể dự đoán bệnh Alzheimer's. Chúng bao gồm huyết áp cao và cholesterol cao.
+Các yếu tố nguy cơ có thể có khác có thể bao gồm giáo dục, chế độ ăn uống và môi trường. Tuy nhiên, cần nghiên cứu thêm để xác định mối liên quan chính xác.
+5. Làm thế nào để giảm thiểu nguy cơ?
+Mặc dù các nhà khoa học vẫn chưa biết chính xác lý do tại sao một số người phát triển bệnh Alzheimer và những người khác thì không, nhưng bạn không hoàn toàn bất lực trước nguy cơ mắc bệnh Alzheimer. Theo các chuyên gia, khoảng một phần ba nguy cơ - nghĩa là rất nhiều - nằm trong tầm kiểm soát của bạn.
+Một số lựa chọn lối sống - chẳng hạn như hoạt động thể chất và chế độ ăn - có thể giúp hỗ trợ sức khỏe não bộ và ngăn ngừa bệnh Alzheimer. Ngày càng có nhiều bằng chứng cho thấy các hoạt động tinh thần và xã hội cũng có thể giúp giảm nguy cơ mắc bệnh.
+Bệnh mạch máu - do những nguyên nhân như hút thuốc lá, huyết áp cao, cholesterol cao và bệnh tiểu đường - có thể làm tăng sự tích tụ amyloid và tăng nguy cơ mắc bệnh Alzheimer. Do đó, ăn uống lành mạnh và giữ huyết áp trong tầm kiểm soát cũng có thể giúp phòng ngừa bệnh.
+Cẩm Tú

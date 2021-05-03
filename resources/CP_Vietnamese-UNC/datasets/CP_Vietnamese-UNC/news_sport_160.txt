@@ -1,21 +1,10 @@
 # doc_id = news_sport_160
-# url = https://dantri.com.vn/the-thao/lee-nguyen-nhan-the-do-clb-tphcm-that-bai-cay-dang-20210418202130430.htm
-# date = 20210418
-Ở những phút bù giờ cuối cùng của trận đấu, trọng tài Ngô Duy Lân rút ra thẻ vàng thứ 2 cho Lee Nguyễn sau pha vào bóng nguy hiểm với một cầu thủ Nam Định. Đây chính là hình ảnh thất vọng với TPHCM, trong trận đấu mà họ trắng tay tại "chảo lửa" Thiên Trường.
-Lee Nguyễn là tâm điểm ở trận đấu trên sân Thiên Trường.
-Ở trận đấu này, Nam Định chơi rất tự tin. Ngay ở phút thứ 5, đón đường chuyền của đồng đội, Oussou Konan dứt điểm tung lưới thủ môn Văn Cường, mở tỷ số cho đội chủ nhà.
-Cầu thủ Việt kiều là điểm đến trong các đường lên bóng của CLB Nam Định.
-Ít phút sau, từ tình huống ném biên của đồng đội, Rodrigo Dias đánh đầu ngược để Konan khống chế bằng ngực rồi ngả người bắt vô-lê đẹp mắt đưa bóng đi sạt cột dọc khung thành TPHCM.
-Trước khi hiệp 1 khép lại, một tình huống xử lý khéo của Lee Nguyễn trước khi tung cú sút trong vòng cấm đưa bóng đi sát sạt mép trên xà ngang khung thành Nam Định.
-CLB TPHCM đã có thời điểm giữ được kết quả hòa 2-2.
-Ngay đầu hiệp 2, đội khách đã có bàn gỡ hòa. Đón đường chuyền dài vượt tuyến của Đỗ Văn Thuận để Lâm Ti Phông thoát xuống khống chế bằng ngực trước dứt điểm đánh bại thủ môn Xuân Việt, đưa trận đấu về vạch xuất phát.
-Phút 63, Lee Nguyễn thực hiện cú đá phạt góc, bóng được treo đến vị trí của Lâm Ti Phông và cầu thủ này bật cao đánh đầu đập đất hoàn tất cú đúp cho riêng mình.
-Niềm vui chiến thắng của cầu thủ Nam Định.
-Tuy nhiên chỉ 3 phút sau, từ chấm đá phạt ngoài vòng cấm TPHCM, Rodrigo tung cú sút tầm thấp đưa bóng xuyên hàng rào đội khách rồi bay vào lưới trong sự bất lực của thủ môn Văn Cường.
-Lee Nguyễn gây thất vọng với chiếc thẻ đỏ ở cuối trận.
-Cuối cùng, CLB Nam Định mới là người giành chiến thắng chung cuộc. Phút 77, từ một tình huống phạt góc của Nam Định, bóng bay về phía cột xa và Konan có mặt đệm bóng tung lưới TPHCM ở cự ly gần.
-Đội hình xuất phát:
-CLB Nam Định: Đinh Xuân Việt (thủ môn), Wesley Rodrigues, Đinh Văn Trường, Hoàng Xuân Tân, Nguyễn Đình Mạnh, Phan Văn Hiếu, Đoàn Thanh Trường, Phạm Minh Nghĩa, Rodrigo Dias, Oussou Konan, Mai Xuân Quyết.
-CLB TPHCM: Phạm Văn Cường (thủ môn), Sầm Ngọc Đức, Trần Đình Khương, Đỗ Văn Thuận, Võ Huy Toàn, Trần Thanh Bình, Nguyễn Trọng Long, Lâm Ti Phông, Lee Nguyễn, Joao Paulo, Junior Barros
-Thùy Anh
-Ảnh: Gia Hưng
+# url = https://dantri.com.vn/the-thao/linh-tron-cu-da-vao-dau-thu-mon-bi-mat-tri-nho-20210422222743473.htm
+# date = 20210422
+Tình huống va chạm vô cùng nghiêm trọng đã diễn ra trong trận đấu giữa Panama và Maringa ở giải vô địch Campeonato Paranaense (Brazil) vào ngày 21/4 vừa qua.
+Ngay ở phút thứ 8, tiền đạo Gui Sales (Maringa) thoát xuống đón đường chọc khe của đồng đội. Mặc dù vậy, thủ thành Bruno Grassi (Parana) đã dũng cảm lao ra cản phá đường bóng.
+Tình huống diễn ra quá nhanh khiến cho cầu thủ Gui Sales cũng không kịp hãm tốc. Hệ quả là chân của cầu thủ này đã va chạm rất mạnh với đầu của thủ thành Bruno Grassi.
+Điều đáng nói, sau khi nằm sân, thủ thành của CLB Parana đã ngồi dậy... ngẩn ngơ trên sân. Thậm chí, anh không nhận thức được những gì xảy ra xung quanh.
+Các bác sĩ đã vào chăm sóc cho Bruno Grassi. Tuy nhiên, theo lời kể của nhân viên y tế thì người gác đền này không còn nhớ được điều gì ở thời điểm ấy.
+Sau đó, anh đã ngay lập tức được chuyển tới bệnh viện để kiểm tra vùng đầu. Vấn đề ở chỗ, Bruno Grassi vẫn không thể nhớ được bất kỳ điều gì về pha bóng nói trên.
+H.Long

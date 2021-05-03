@@ -1,10 +1,13 @@
 # doc_id = news_society_126
-# url = https://dantri.com.vn/xa-hoi/ha-noi-ca-gian-7-chiec-dieu-hoa-o-chung-cu-roi-xuong-khu-vui-choi-tre-em-20210428075817242.htm
-# date = 20210428
-7 chiếc điều hòa rơi xuống khu vui chơi trẻ em.
-Sáng 28/4, trao đổi với PV Dân trí, lãnh đạo phường Mỹ Đình 2 (quận Nam Từ Liêm, Hà Nội) cho biết, lực lượng chức năng đang điều tra nguyên nhân 7 chiếc điều hòa, trên tường tầng khu chung cư An Bình (số 97 Trần Bình) bất ngờ sập xuống khu vui chơi của trẻ em.
-Khoảng 22h ngày 27/4, bảo vệkhu chung cư An Bình nghe thấy tiếng động lớn phía sau nhà, chạy ra thì phát hiện giàn điều hòa rơi xuống khu vui chơi trẻ em. Thời điểm 7 chiếc điều rơi xuống đất đã muộn, trời mưa, không có người qua lại, nên sự việc không gây thương tích cho người dân.
-Lực lượng chức năng đang làm rõ nguyên nhân giàn điều hòa bất ngờ rơi xuống đất (Ảnh: M.H).
-Lực lượng bảo vệ của tòa nhà đã nhanh chóng lắp rào chắn, không cho người dân đi qua khu vực nguy hiểm.
-"Một ngân hàng đang thuê lại tầng có 7 chiếc điều hòa bị rơi. Chúng tôi đang cho cán bộ phối hợp cùng với chủ đầu tư giải quyết sự việc", lãnh đạo UBND phường Mỹ Đình 2 nói.
-Trần Thanh
+# url = https://dantri.com.vn/xa-hoi/ha-noi-chi-hon-100-ty-dong-khoac-ao-moi-cho-ho-guom-20210430102618675.htm
+# date = 20210430
+UBND quận Hoàn Kiếm cho biết, hệ thống đèn chiếu sáng một số khu vực quanh hồ Hồ Gươm như tháp Rùa, kè hồ, đường dạo... đã xuống cấp, hư hỏng, cường độ chiếu sáng giảm. Do vậy, việc đầu tư, cải tạo hệ thống chiếu sáng khu vực xung quanh Hồ Gươm để đồng bộ hạ tầng kỹ thuật, nâng cao giá trị cảnh quan di tích là rất cần thiết.
+Thiết kế sơ bộ chia ra4 vùng chiếu sáng xung quanh hồ , gồm mặt nước hồ (bao gồm cả tháp Rùa); từ kè hồ tới mép vỉa hè; đường giao thông xung quanh hồ; các công trình kiến trúc xung quanh hồ.
+Đối với các di tích như tháp Rùa, cầu Thê Húc, đền Ngọc Sơn, các cây di sản đều được thiết kế riêng sao cho hệ thống chiếu sáng đảm bảo màu sắc tự nhiên của các vật thể có màu sắc, kiến trúc.
+Quận Hoàn Kiếm đang lấy ý kiến chuyên gia để hoàn thiện dự án.
+Quận Hoàn Kiếm cho biết, dự án chiếu sáng trang trí xung quanh khu vực Hồ Gươm sẽ sử dụng hệ thống đèn LED tiên tiến, tuổi thọ cao, có chuyển sáng theo mùa và được điều khiển bằng điện tử.
+Quận Hoàn Kiếm cũng đang xin ý kiến của các chuyên gia, nhà khoa học để hoàn thiện dự án trên. Theo Viện trưởng Viện Quy hoạch Kiến trúc đô thị - Trường ĐH Xây dựng Doãn Minh Khôi, nghệ thuật chiếu sáng cần nhiều kỹ thuật nhưng không khó, tính mỹ thuật mới khó. "Theo tôi có những công trình biểu tượng không nên thay đổi nhiều về tông màu như tháp Rùa, cầu Thê Húc", ông Khôi nói.
+Còn theo nhà sử học Dương Trung Quốc, không gian Hồ Gươm có 3 giá trị để tôn vinh. Cụ thể đó là mặt hồ, cây xanh và những dấu tích kiến trúc cổ. "Quận Hoàn Kiếm nên lấy tháp Rùa làm điểm nhấn, tôn vinh những cây di sản, làm đèn xung quanh các đường đi dạo dẫn đường. Đặc biệt, làm sao để thể hiện sự trầm mặc của lịch sử những có lúc vẫn thể hiện được sự rực rỡ trong những ngày lễ hội", ông Quốc nêu quan điểm.
+Chủ tịch UBND quận Hoàn Kiếm Phạm Tuấn Long cho biết, đơn vị này sẽ tiếp thu đầy đủ các ý kiến góp ý của các chuyên gia, nhà khoa học, đại diện các sở ngành để hoàn thành hồ sơ thiết kế trình cấp có thẩm quyền phê duyệt.
+Ông Long khẳng định, việc thiết kế hệ thống chiếu sáng chắc chắn phải đảm bảo việc bảo tồn, phát huy các giá trị di sản của Hồ Gươm, hài hòa với hệ thống cây xanh, mặt nước, đáp ứng yêu cầu quy hoạch, chương trình cải tạo chỉnh trang đô thị của thành phố.
+Quang Phong

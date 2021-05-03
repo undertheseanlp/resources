@@ -1,4 +1,23 @@
 # doc_id = news_health_112
-# url = https://dantri.com.vn/suc-khoe/dong-tac-squat-dung-cach-de-co-vong-3-cang-tron-quyen-ru-20210417162523490.htm
-# date = 20210417
-Thư Quỳnh - Nguyễn Quang
+# url = https://dantri.com.vn/suc-khoe/gia-lai-cach-ly-truong-hop-f-1-di-cung-chuyen-bay-co-benh-nhan-covid-19-20210430145701167.htm
+# date = 20210430
+Cụ thể, trường hợp F1 là anh V. (trú tại tổ 8, phường Yên Đỗ, TP.Pleiku, tỉnh Gia Lai) đã đi cùng chuyến bay VJ133 khởi hành từ Hà Nội đi Thành phố Hồ Chí Minh với bệnh nhân số 2910 (Hà Nam) vào ngày 27/4. Sau khi nắm được thông tin, cán bộ y tế đã tiến hành lấy mẫu xét nghiệm của anh V. và thực hiện cách ly theo quy định. Hiện sức khỏe của anh V. ổn định.
+Ban Chỉ đạo phòng, chống dịch Covid-19 tỉnh Gia Lai thông báo đến những hành khách nào đi trên chuyến bay VJ133 khởi hành từ Hà Nội đi Thành phố Hồ Chí Minh khi về tỉnh Gia Lai. Đồng thời, người đi trên xe biển kiểm soát 81B -00140 ngày 29/4 (từ thành phố Hồ Chí Minh về tỉnh Gia Lai) phải liên hệ với cơ sở y tế gần nhất để được hỗ trợ tư vấn.
+Hiện nay, trường hợp F1 đi cùng chuyến bay với bệnh nhân Covid - 19 sức khỏe ổn định và được cách ly theo quy định.
+Theo đó, từ ngày 29/1 đến 11/2/2021, trên địa bàn Gia Lai đã ghi nhận 27 trường hợp dương tính với SARS-CoV-2. Tất cả số bệnh nhân này đã được điều trị khỏi. Từ ngày 11/2 đến nay, tỉnh chưa ghi nhận thêm ca mắc mới nào. Dịch bệnh trên địa bàn đã được khống chế, dập tắt. Công tác thông tin tuyên truyền được thực hiện thường xuyên, liên tục nên hầu hết người dân đều có ý thức chủ động phòng ngừa dịch bệnh.
+Từ ngày 24/4, tỉnh Gia Lai đã triển khai chiến dịch tiêm vắc xin phòng Covid-19 đợt 2. Việc tiêm chủng được tiến hành đồng loạt tại Bệnh viện Đa khoa tỉnh, Bệnh viện 331, Bệnh viện Đại học Y Dược-Hoàng Anh Gia Lai và các trung tâm y tế trên địa bàn tỉnh cho các đối tượng theo kế hoạch.
+Đợt này, tỉnh Gia Lai được cấp 16.650 liều vắc xin và dự kiến triển khai tiêm cho 15.136 người. Đối tượng tiêm trong đợt này là lực lượng tuyến đầu chống dịch bao gồm những người làm việc trong các cơ sở y tế; thành viên Ban Chỉ đạo phòng, chống dịch cấp huyện, xã; người làm việc ở các khu cách ly, làm nhiệm vụ truy vết, điều tra dịch tễ, tổ Covid cộng đồng, lực lượng Bộ đội Biên phòng, Công an, hàng không, phóng viên báo, đài. Ngoài ra, 1.883 người đã tiêm mũi 1 trong đợt 1 sẽ tiếp tục được tiêm mũi 2 khi đủ thời gian 4 tuần trở lên.
+Bạc Liêu: Một trường hợp F1 của BN2910 âm tính lần 1 với SARS-CoV-2
+Khi xuống sân bay Tân Sơn Nhất, anh D. được người bạn đón và ở nhà bạn 2 ngày tại quận Gò Vấp (TP.HCM).
+Đến 11h ngày 29/4, từ bến xe miền Tây, anh D. đi xe khách mang BKS 94B-006... về tỉnh Bạc Liêu. Trên xe có 36 hành khách, một tài xế và một phụ xe.
+Khoảng 21h30 ngày 29/4, xe về đến bến xe Bạc Liêu. Lúc này, anh D. được người nhà thông báo là mình có đi chung chuyến bay với người bị mắc Covid-19 (BN2910), nên anh D. đến Trung tâm Y tế phường 7 (TP Bạc Liêu) khai báo y tế và được đưa đi cách ly.
+Sau đó, cơ quan chức năng đã lấy mẫu gửi Viện Pasteur TP.HCM xét nghiệm và cho kết quả âm tính lần 1 với SARS-CoV-2.
+Lực lượng chức năng Bạc Liêu cũng xác minh được 36 trường hợp F2 đi cùng chuyến xe với anh D. về Bạc Liêu và tiến hành cách ly tại nhà.
+Bạc Liêu: Một trường hợp F1 của BN2910 âm tính lần 1 với SARS-CoV-2
+Theo đó, trường hợp F1 là anh L.D.D. (SN 1993, có địa chỉ TP Hà Nội). Qua điều tra dịch tễ của Trung tâm kiểm soát bệnh tật tỉnh Bạc Liêu, trưa ngày 27/4, anh D. đi từ Hà Nội vào TP.HCM trên chuyến bay VJ133, ngồi số ghế 18B (BN2910 ngồi ghế 20B).
+Khi xuống sân bay Tân Sơn Nhất, anh D. được người bạn đón và ở nhà bạn 2 ngày tại quận Gò Vấp (TP.HCM).
+Đến 11h ngày 29/4, từ bến xe miền Tây, anh D. đi xe khách mang BKS 94B-006... về tỉnh Bạc Liêu. Trên xe có 36 hành khách, một tài xế và một phụ xe.
+Khoảng 21h30 ngày 29/4, xe về đến bến xe Bạc Liêu. Lúc này, anh D. được người nhà thông báo là mình có đi chung chuyến bay với người bị mắc Covid-19 (BN2910), nên anh D. đến Trung tâm Y tế phường 7 (TP Bạc Liêu) khai báo y tế và được đưa đi cách ly.
+Sau đó, cơ quan chức năng đã lấy mẫu gửi Viện Pasteur TP.HCM xét nghiệm và cho kết quả âm tính lần 1 với SARS-CoV-2.
+Lực lượng chức năng Bạc Liêu cũng xác minh được 36 trường hợp F2 đi cùng chuyến xe với anh D. về Bạc Liêu và tiến hành cách ly tại nhà.
+Phạm Hoàng - Huỳnh Hải

@@ -1,14 +1,20 @@
 # doc_id = news_health_158
-# url = https://dantri.com.vn/suc-khoe/ly-do-bat-ngo-khien-nguoi-dan-ong-bi-cuong-duong-suot-4-ngay-20210427141703123.htm
-# date = 20210427
-Bệnh nhân cho biết trước đó 3 ngày, anh có đi ăn cỗ ở nhà bạn, và uống nhiều rượu. Bệnh nhân đã quan hệ tình dục nhưng trong lúc "hành sự", vô tình dương vật bị đâm trượt ra ngoài va vào vùng mu của vợ, khiến dương vật bị đau.
-Sau đó, dương vật cương cứng không xuống. Đến ngày thứ 2, tình trạng này không có gì thay đổi. Anh thử làm "chuyện ấy" một lần nữa, nhưng dương vật vẫn không có dấu hiệu xìu xuống. Lúc này anh bắt đầu thấy hoang mang nên đến khám tại Bệnh viện Đa khoa tỉnh Lạng sơn.
-Sau khi thăm khám, các bác sĩ tại Bệnh viện Đa Khoa tỉnh Lạng Sơn đã hội chẩn từ xa với khoa Nam học & Y học giới tính, Bệnh viện Đại học Y Hà Nội. Bệnh nhân được chuyển tuyến đến Bệnh viện Đại học Y Hà Nội cùng ngày.
-Tại Bệnh viện Đại học Y Hà Nội, bệnh nhân được chẩn đoán cương đau dương vật kéo dài thể động mạch (thể không thiếu máu) do chấn thương khi quan hệ tình dục. Đây là một thể bệnh rất hiếm chỉ chiếm 3-5% các trường hợp cương đau dương vật kéo dài. Bệnh thường xảy ra sau chấn thương do tai nạn sinh hoạt, tai nạn lao động hay tai nạn giao thông, nguyên nhân chấn thương do quan hệ tình dục lại cực kỳ hiếm.
-Sau chấn thương động mạch nuôi dưỡng dương vật thường bị rách làm thông thương giữa động mạch dương vật và các tĩnh mạch thể hang. Từ đó máu về thể hang nhiều quá mà không rút ra kịp nên gây tình trạng cương đau kéo dài. Trước tình hình như vậy, các Bác sĩ Nam học đã hội chẩn với các Bác sĩ điện quang can thiệp mạch, quyết định tiến hành tiến hành chụp mạch dương vật và nút lỗ rò động mạch hang.
-Sau can thiệp, tình trạng bệnh nhân dần ổn định và dương vật của bệnh nhân trở lại bình thường 70-80%. Bệnh nhân đã được xuất viện.
-Theo TS.BS Nguyễn Hoài Bắc, Trưởng Khoa Nam học và Y học giới tính, Bệnh viện Đại học Y Hà Nội, cương đau dương vật là một rối loạn chức năng cương dương của nam giới. Bệnh tương đối hiếm, theo ước tính cứ khoảng 100 ngàn nam giới thì có khoảng 1-2 người bị bệnh. Cương dương vật kéo dài thường được chia làm ba thể. Thể thiếu máu, thể không thiếu máu và thể tái diễn. Trong đó, cương dương vật kéo dài thể thiếu máu là thể thường gặp nhất, chiếm khoảng 95% các trường hợp. Còn lại cương dương vật kéo dài thể không thiếu máu rất hiếm gặp, chiếm tỉ lệ 3-5% các trường hợp cương dương vật kéo dài.
-Nguyên nhân chủ yếu của cương cứng dương vật kéo dài thể không thiếu máu là do chấn thương dương vật hoặc chấn thương, bầm dập vùng tầng sinh môn. Chấn thương dẫn tới sự xé rách động mạch vật hang dẫn tới hình thành một lỗ rò giữa động mạch hang và xoang hang, dẫn tới máu được bơm liên tục vào thể hang, làm dương vật luôn ở trạng thái cương cứng.
-Cương dương vật kéo dài thể không thiếu máu thường dương vật không cương cứng tối đa, bệnh nhân không đau tức nhiều, kèm theo tâm lý ngại ngùng nên bệnh nhân thường tới viện rất muộn. Đây không phải là tình trạng cần cấp cứu ngay. Tuy nhiên, nếu tới viện chậm trễ, không can thiệp cấp cứu kịp thời trong vòng 6-24h đầu có thể làm cho vật hang dương vật bị thiếu máu kéo dài, dẫn tới vật hang dương vật bị xơ hóa, hậu quả là bệnh nhân sẽ vĩnh viễn không thể cương dương vật được, TS Bắc cho biết.
-Để tránh tai nạn như trên, bác sĩ khuyên thực hiện an toàn tình dục. Cuộc yêu nên được thực hiện nhẹ nhàng và an toàn. Nam giới khi nhận thấy dương vật có hiện tượng cương cứng bất thường trong thời gian dài trên 1 giờ đồng hồ mà không liên quan đến các kích thích tình dục thì nên đến viện khám càng sớm càng tốt.
-Hà An
+# url = https://dantri.com.vn/suc-khoe/mui-tiem-vac-xin-phong-covid-19-dau-tien-cho-luc-luong-y-te-bac-lieu-20210422161213728.htm
+# date = 20210422
+Ghi nhận của phóng viên Dân trí, chiều ngày 22/4, hàng chục cán bộ, y, bác sĩ, điều dưỡng, hộ lý, nhân viên của Bệnh viện đa khoa tỉnh Bạc Liêu chính thức được tiêm vắc xin AstraZeneca phòng dịch Covid-19.
+Ông Mã Quốc Thiện, Giám đốc bệnh viện, là người có mặt và "xung phong" tiêm mũi đầu tiên theo đúng quy trình: Ghi thông tin cá nhân, đo huyết áp, khám sàng lọc, tiêm và theo dõi sau tiêm.
+Ông Mã Quốc Thiện, Giám đốc Bệnh viện đa khoa Bạc Liêu, tiêm mũi vắc xin phòng dịch Covid-19 đầu tiên.
+Tiếp đó, nhiều cán bộ, trưởng, phó khoa, đội ngũ y, bác sĩ của các phòng, khoa của Bệnh viện đa khoa Bạc Liêu đã tiến hành tiêm vắc xin theo quy trình đã đưa ra.
+Lãnh đạo Bệnh viện Bạc Liêu cho biết, trong đợt tiêm vắc xin đầu tiên này (đợt 1) có khoảng 100 người được tiêm. Sau tiêm cho thấy, chưa thấy trường hợp nào có phản ứng bất thường.
+Bệnh viện đa khoa Bạc Liêu là đơn vị đầu tiên của tỉnh Bạc Liêu được tiêm vắc xin phòng dịch Covid-19 ngay tại tỉnh này. Theo kế hoạch, bệnh viện có hơn 1.000 người, được chia ra nhiều lần tiêm, từ ngày 22 - 28/4.
+Giám đốc Bệnh viện đa khoa Bạc Liêu Mã Quốc Thiện cho biết, sau khi tiêm, ngoài theo dõi ít nhất 30 phút tại chỗ, thì đối tượng tiêm chủng còn được hướng dẫn tự theo dõi tại nhà trong vòng 24 giờ và tiếp tục theo dõi trong vòng 7 ngày về các dấu hiệu: Tinh thần, ăn, ngủ, thở, phát ban, thông báo cho nhân viên y tế nếu có dấu hiệu bất thường.
+"Liên hệ với bệnh viện hoặc các cơ sở y tế nếu sau tiêm chủng có một trong các dấu hiệu như sốt cao từ 39 độ C trở lên, tím tái, khó thở...", ông Thiện thông tin.
+Một số hình ảnh tiêm vắc xin đầu tiên được PV Dân trí ghi nhận:
+Nhân viên y tế Bệnh viện Bạc Liêu ghi thông tin cá nhân tại buổi tiêm vắc xin.
+Đo huyết áp...
+... và tiến hành khám sàng lọc trước khi tiêm.
+Một nữ nhân viên được tiêm mũi vắc xin đầu tiên.
+Ghi chép, xác nhận thông tin trường hợp đã tiêm vắc xin.
+Sau khi tiêm, các trường hợp được theo dõi trong khoảng 30 phút tại chỗ.
+Theo Sở Y tế tỉnh Bạc Liêu, toàn tỉnh có 5.988 đối tượng được tiêm vắc xin phòng dịch Covid-19 đợt 1, gồm: Lực lượng nhân viên y tế, Ban chỉ đạo phòng chống dịch Covid-19 các cấp, lực lượng bảo vệ, chăm lo người ở khu cách ly…
+Huỳnh Hải

@@ -1,21 +1,21 @@
 # doc_id = news_society_151
-# url = https://dantri.com.vn/xa-hoi/hang-tram-cay-go-tai-cong-truong-go-lau-bi-dot-tau-tan-duoi-long-ho-20210426202217985.htm
-# date = 20210426
-Ngày 25/4, bên trong hồ thủy điện Sê San 4, hàng loạt cột khói bốc lên ngùn ngụt từ các ốc đảo. Nhiều khúc gỗ to bị cháy sém nằm la liệt trên mặt đất. Còn những thân gỗ có giá trị kinh tế thì bị đẩy xuống nước. Toàn bộ công cụ dùng để xẻ gỗ, kéo gỗ tại các "công trường" đều biến mất.
-Dù lực lượng chức năng đã vào bảo vệ hiện trường nhưng bãi tập kết gỗ khủng vẫn bị đốt và tẩu tán.
-Trên những ốc đảo trong lòng hồ Sê San, cách đây hơn 2 ngày, PV Dân trí vẫn còn phát hiện "công trường" tập kết gỗ tròn và gỗ xẻ hộp trái phép. Thời điểm đó, Hạt Kiểm lâm huyện Ia Grai và Đồn biên phòng Ia O (xã Ia O, huyện Ia Grai, Gia Lai) đã cử lực lượng đến kiểm tra. Sau đó, lực lượng chức năng đã đưa hơn 200 khúc gỗ xẻ hộp từ các đảo về đất liền.
-Phát hiện sự việc, Hạt Kiểm lâm huyện Ia Grai và Đồn biên phòng Ia O còn cắt cử người ở lại để bảo vệ gỗ tại hiện trường. Tuy nhiên, một điều lạ, cũng trong thời gian này, hàng trăm thân gỗ to đã bị đốt hoặc đẩy xuống mặt nước.
-Trước sự việc trên, chúng tôi liên hệ với Đại tá Trần Thanh Bình - Phó Chỉ huy trưởng Bộ đội biên phòng tỉnh Gia Lai thì nhận được câu trả lời rằng, đơn vị này đã cử lực lượng bảo vệ nghiêm hiện trường để tránh việc tẩu tán gỗ.
-"Đến giờ này, báo chí phản ánh tình trạng đốt, tẩu tán tang vật thì chúng tôi mới biết. Việc này, tôi sẽ kiểm tra lại và thông tin sau", Đại tá Trần Thanh Bình nói.
-Đại tá Bình cho biết, trên vùng biên giới ở Sê San 4 có hơn 10 ốc đảo lớn nhỏ. Với việc chậm trễ phát hiện bãi tập kết, khai thác gỗ trái phép, đơn vị này xin nhận trách nhiệm. Tuy nhiên, theo Đại tá Bình cũng có lý do khách quan dẫn tới sự việc là do phương tiện, thiết bị tuần tra bằng đường thủy của đơn vị còn thiếu nên lực lượng ít tuần tra.
-"Chúng tôi đang thực hiện nhiệm vụ kép trên biên giới nên lực lượng bị phân tán. Trước những thông tin như vậy, chúng tôi sẽ điều tra, xử lý và làm rõ trách nhiệm của lực lượng có liên quan với phương châm không có vùng cấm", Đại tá Bình nói.
-Tiếp nhận thông tin gỗ ở các "công trường" trái phép giữa lòng hồ bị đốt, tẩu tán, ông Siu Nghiệp - Chủ tịch UBND xã Ia O cho biết, sáng 26/4, đơn vị này đã đi kiểm tra nhưng chỉ phát hiện được một số bìa gỗ, vụn cưa, chứ không thấy thân gỗ tại hiện trường.
-"Với những khúc gỗ theo phản ánh đã bị tẩu tán dưới lòng sông, anh em chúng tôi không có điều kiện lặn xuống để kiểm tra. Đối với việc quản lý lâm sản, chính quyền chỉ phối hợp, còn nhiệm vụ chính vẫn là kiểm lâm, biên phòng", ông Siu Nghiệp nói thêm.
-Dưới đây là một số hình ảnh tại "công trường" gỗ trái phép:
-Hình ảnh "công trường" tập kết gỗ lậu khi mới phát hiện và sau đó bị đốt, tẩu tán.
-Hàng trăm khúc gỗ bị đốt cháy và đẩy xuống sông chỉ sau một đêm.
-Rất nhiều thân gỗ lớn bị đốt cháy.
-Khúc gỗ khủng bị xẻ làm nhiều mảnh.
-Một khúc gỗ được giấu dưới lòng hồ.
-Tất cả các điểm tập kết gỗ trái phép trên các đảo đều bị đốt, dọn sạch chỉ sau một ngày đêm.
-Nhóm phóng viên
+# url = https://dantri.com.vn/xa-hoi/hanh-trang-mang-theo-20210429191508441.htm
+# date = 20210429
+Đi, mang cả quê hương
+Trước khi xuất kích, Trung úy Nguyễn Thị Loan kịp nói với tôi: "Em đã sẵn sàng". Đây là lần đầu tiên cô gái thuộc biên chế Bệnh viện Quân y 175 (BV175) tham gia Bệnh viện Dã chiến. Loan đã trải qua nhiều tháng huấn luyện chuyên môn và học thêm tiếng Anh theo tiêu chuẩn của Liên Hợp Quốc.
+Không riêng gì Loan, đó là hai điều bắt buộc mà các thành viên của BVDC 2.3 phải có. Có điều, BVDC 2.3 lần này phải trải qua khóa huấn luyện trong bối cảnh dịch Covid ba lần bùng phát. "Có nhiều cái khó hơn so với hai lần trước, nhưng được các anh chị đi trước chia sẻ kinh nghiệm, em cũng dần vượt qua các thử thách", Thượng úy Đinh Văn Hồng bày tỏ.
+Năm 2017, Hồng sang Úc huấn luyện cấp cứu đường không rồi trở về tham gia Đội Cấp cứu đường không BV175. Là Đội trưởng Đội Cấp cứu đường không BVDC 2.3, anh luôn tự tin với kinh nghiệm nhiều năm công tác của mình tại BV175.
+"Anh đã chuẩn bị sẵn cho mình một tâm thế?", tôi hỏi. Thượng tá Hồng đáp lời ngay: "Đúng vậy. Đó là tâm thế của người lính, sẵn sàng phát huy hết khả năng của mình. Bởi đến Nam Sudan, chúng tôi là bộ mặt của Việt Nam, nên phải mang theo cả niềm tự hào dân tộc để góp phần gìn giữ hòa bình (GGHB) thế giới".
+Trở lại Nam Sudan
+"Nếu có cơ hội sống và làm việc ở một nước nào đó, khi mang quá nhiều tiền về làm kỷ niệm, có thể bạn sẽ trở lại chính nơi đó để tiêu nốt số tiền ấy", dòng trạng thái này được cô gái Phan Thị Vân Huyền đăng tải vài giờ trước Lễ Xuất quân BVDC 2.3. Kèm theo đó là một số tờ bảng Nam Sudan mà Huyền "tích cóp" khi công tác tại BVDC 2.1 - BVDC đầu tiên của Việt Nam tại Nam Sudan. Bây giờ, cô một lần nữa sang tận Đông Phi làm thiên sứ hòa bình.
+Ba năm trước, nhận quyết định tham gia BVDC 2.1, Huyền nghĩ về bố mẹ. Rồi những trở trăn ấy được xoa dịu khi cô tỏ bày và được bố mẹ đồng ý. "Bố mẹ em cũng lo lắng vì em là con gái, Nam Sudan lại đang bất ổn", Huyền nhớ lại. Lần ấy, cô Kỹ thuật viên Phục hồi chức năng của BV175 đi 13 tháng, làm nhiệm vụ phục hồi chức năng cho bệnh nhân.
+Nhớ lại giây phút mới đặt chân tới mảnh đất này, Huyền kể: "Em chợt nghĩ, sao bạn mình ở nhà xúng xính ăn diện còn mình lại chọn qua đây. Rồi cười, quan sát những điều lạ lẫm tại đây, bắt tay vào công việc. Có những đêm nằm ngủ, nghe tiếng súng mà giật mình. Rồi đến trại tị nạn, đập vào mắt em là hình ảnh tiều tụy của người dân Nam Sudan, của những đứa trẻ cả người chi chít vết thương".
+Điều "khổ sở" nhất của Huyền và hầu hết mọi người, là rất khó tiếp cận internet. Vài tháng sau đó, họ mới được cấp 2GB data mỗi tháng để gọi điện về nhà. Khi ấy, nỗi nhớ nhà mới vơi đi ít nhiều. Vậy mà sau 13 tháng gian nan ấy, Huyền lần nữa trở lại nơi này.
+"Chúng tôi sẽ trở về"
+Tại sân bay Tân Sơn Nhất, Trung tá Trịnh Mỹ Hòa luôn trong dáng vẻ tất bật, có lẽ vì anh đang mang một trọng trách lớn: Giám đốc BVDC 2.3. Vài ngày trước đó, anh được Bộ Quốc phòng thăng quân hàm trước niên hạn, từ thiếu tá lên trung tá. Hôm sau gặp tôi, anh cười: "Tất cả đã chuẩn bị xong hết rồi".
+Vị bác sĩ chuyên khoa Nội Thần kinh BV175 nói rất nhẹ nhàng. Mà hình như đó là tâm thế chung của những cán bộ chiến sĩ của BV175, sẵn sàng cống hiến cho Tổ quốc, cho hòa bình thế giới.
+"Anh sẽ đi bao lâu?", tôi hỏi. Anh bảo: "Chắc là lâu hơn dự kiến, vì dịch bệnh. Nhưng chúng tôi đã sẵn sàng cho điều đó". Rồi anh tiếp tục: "Có một câu chuyện thế này, lẽ ra các chuyên gia nước ngoài sẽ thực hiện chương trình huấn luyện, nhưng họ không sang được vì dịch Covid-19. Vì thế những người giàu kinh nghiệm của BVDC 2.1 mà phần lớn đang thuộc biên chế của BV175 đã huấn luyện chúng tôi, tất nhiên là theo tiêu chuẩn của Liên Hợp Quốc và chúng tôi đã hoàn thành thử thách ấy".
+Câu chuyện ấy truyền đi một thông điệp mạnh mẽ, chúng ta có thể làm những điều lớn lao. Đó chính là tinh thần anh luôn hun đúc cho đồng đội trong quá trình tập luyện, cũng như trong những tháng ngày sắp tới bên Nam Sudan. Nhưng cũng không quên mệnh lệnh từ cấp trên của mình là Thiếu tướng Nguyễn Hồng Sơn - Giám đốc BV175: "Đi đủ thì về phải đủ quân số!".
+Dáng chào hiên ngang của Trung tá Hòa nơi cửa máy bay như nhắn gửi rằng sẽ hoàn thành tốt nhiệm vụ và trở về cùng niềm tự hào dân tộc!
+Bài: Lê Xuân Thọ - Trường Thịnh
+Ảnh: NAG Nguyễn Á, Minh Chính, Vân Huyền, Lê Xuân Thọ

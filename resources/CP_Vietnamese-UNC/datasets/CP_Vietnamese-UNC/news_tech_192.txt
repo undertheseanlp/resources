@@ -1,14 +1,13 @@
 # doc_id = news_tech_192
-# url = https://dantri.com.vn/suc-manh-so/quan-doi-phap-om-mong-so-hoa-chien-truong-voi-sieu-khuyen-robot-20210412091635843.htm
-# date = 20210412
-Từng nổi tiếng với các màn nhảy múa, đi lại vượt địa hình, mang vác vật nặng ,... robot Spot của Boston Dynamics lại xuất hiện trên mặt báo, nhưng lần này là tại chiến trường, nơi chúng sẽ được ứng dụng để thực hiện một số nhiệm vụ đặc biệt.
-Trong loạt ảnh mới được đăng tải bởi Học viện quân sự Saint-Cyr, Pháp cho thấy robot Spot được binh lính sử dụng trong những màn tập trận.
-Đơn vị nêu trên cho biết một khóa học mới mang tên "robot hóa chiến trường" đang được họ phổ cập tới sinh viên, nhằm nâng cao nhận thức về những thử thách trong kỷ nguyên số. Và robot Spot sẽ đặc biệt thích hợp để sử dụng trong các tình huống này.
-Những robot được trang bị cảm biến laser, có thể lập bản đồ môi trường xung quanh, bất kể là trong nhà hay ngoài trời. Ngoài ra, mặc dù không thể chạy với tốc độ quá nhanh, nhưng Spot có thể tránh chướng ngại vật, leo cầu thang, thậm chí là mở cửa.
-Điều này cho phép nó có thể đảm nhận các nhiệm vụ nguy hiểm trong nhiều môi trường khắc nghiệt như nhà máy hạt nhân, mỏ dầu ngoài khơi và các công trường xây dựng.
-Hiện tại, Spot được quân đội Pháp sử dụng trong 3 kịch bản huấn luyện, gồm đánh chiếm một ngã tư, phòng thủ tại một ngôi nhà, và chiến đấu trong khu vực có dân sự.
-Robot Spot có cơ chế chuyển động linh hoạt, và hệ thống tích hợp giúp nó thực hiện được nhiều nhiệm vụ thay thế con người.
-Yếu tố an toàn là sự khác biệt giữa việc sử dụng Spot với không sử dụng robot này. Theo Julien, một trung úy của đơn vị cho biết hầu hết nhiệm vụ sẽ dễ dàng hơn nếu như robot đã đi qua hiện trường để đánh dấu lại bản đồ. Nhưng đồng thời sẽ mất nhiều thời gian hơn trước đây.
-CEO Robert Playter của Boston Dynamics cho biết công ty đã bán được khoảng 400 robot Spot tính đến tháng 2/2021. Trong đó, đối tượng khách hàng mà Spot hướng đến chủ yếu là các doanh nghiệp sở hữu hệ thống nhà máy, nhà kho rộng lớn, đang có nhu cầu "robot hóa" để thay thế con người.
-Đầu năm 2021, Boston Dynamics cũng đã hé lộ hai phiên bản mới cho Spot, bao gồm khả năng tự sạc được gọi là Enterprise Spot, và phiên bản có thêm một cánh tay cần cẩu, gọi là Spot Arm.
-Nguyễn Nguyễn
+# url = https://dantri.com.vn/suc-manh-so/quang-cao-lo-de-tran-lan-tren-facebook-20210407163912440.htm
+# date = 20210407
+"Những ngày gần đây, khi sử dụng Facebook, tôi liên tục nhìn thấy video quảng cáo mời chào tham gia vào các hội nhóm lô đề, cờ bạc. Bản thân tôi không có nhu cầu tìm hiểu về lô đề cũng chưa từng tìm kiếm về chúng nhưng không hiểu sao vẫn gặp phải những nội dung quảng cáo này", chị Thanh Trà, một nhân viên văn phòng tại Ba Đình, Hà Nội cho biết.
+Thời gian qua, nhiều người dùng Facebook cho biết rằng họ thường xuyên bắt gặp những đoạn quảng cáo liên quan đến các hội nhóm tư vấn chơi lô đề, nhất là khi xem video trên nền tảng này.
+Theo đó, nội dung của những đoạn video này chỉ xoay quanh việc kêu gọi người xem tham gia vào các hội nhóm kín để họ có thể tư vấn lô đề.
+"Vào đúng nhóm - Theo đúng người - Chọn đúng bạn - Về bờ đúng cách", slogan của một video quảng cáo mời chào tham gia vào các hội nhóm tư vấn lô đề trên Facebook.
+Trao đổi với Dân trí, đại diện Công ty Luật TNHH DTLAW cho biết những đoạn video quảng cáo như trên đã vi phạm nghiêm trọng khoản 1, điều 7 Luật Quảng cáo 2012, cấm quảng cáo "hàng hóa, dịch vụ bị cấm kinh doanh theo quy định pháp luật".
+"Quảng cáo nào dành cho việc chơi game và đánh bạc online mà trong đó bắt buộc chơi bằng vật phẩm có giá trị tiền tệ (bao gồm tiền mặt hoặc tiền kỹ thuật số/tiền ảo, ví dụ như bitcoin) và một phần giải thưởng là vật phẩm có giá trị tiền tệ thì chỉ được cho phép khi có sự đồng ý trước bằng văn bản của chúng tôi", chính sách quảng cáo về chơi game và đánh bạc online của Facebook viết.
+Theo chia sẻ từ một số chuyên gia, những loại quảng cáo trên vi phạm nghiêm trọng chính sách của Facebook. Tuy nhiên, bằng một số thủ thuật đặc biệt, những người này vẫn có thể "lách luật" và chạy quảng cáo trên Facebook một cách bình thường.
+"Cũng giống như các quảng cáo thuốc đông y, những người này thường có thói quen làm việc theo kiểu ăn xổi, đánh nhanh rút gọn. Vì thế, họ sẽ spam quảng cáo trong một khoảng thời gian ngắn để thu hút được một lượng người quan tâm. Sau khi đạt được mục đích, họ có thể bỏ luôn tài khoản Facebook Ads đó", ông Nguyễn Nhật Anh, một chuyên gia hoạt động trong lĩnh vực Digital Marketing chia sẻ.
+Dân trí đã liên hệ với Facebook để trao đổi về tình trạng trên. Hiện tại, mạng xã hội này chưa đưa ra phản hồi.
+Thế Anh

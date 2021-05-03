@@ -1,22 +1,38 @@
 # doc_id = news_entertainment_160
-# url = https://dantri.com.vn/giai-tri/me-man-ngam-tao-hinh-my-nhan-dieu-thuyen-cua-co-luc-na-trat-20210416112033683.htm
-# date = 20210416
-Bộ phim điện ảnh Chân Tam Quốc Vô song được thực hiện từ năm 2017 với nhiều cảnh quay tại New Zealand, hứa hẹn là siêu phẩm điện ảnh mới khi ra mắt trong năm 2021. Phim tái hiện lại trận chiến thời Tam Quốc, với dàn diễn viên đình đám như Cổ Thiên Lạc vào vai Lữ Bố, Cổ Lực Na Trát vào vai Điêu Thuyền, Vương Khải vào vai Tào Tháo, Hàn Canh vào vai Quan Vũ.
-Cổ Lực Na Trát vào vai Điêu Thuyền trong bom tấn được chờ đợi "Chân Tam Quốc Vô Song"
-Tháng 3 vừa rồi, phim đã ra mắt trailer và khiến khán giả xôn xao. Với ngoại cảnh được đầu tư hoành tráng, phim hứa hẹn là một bom tấn của điện ảnh Hoa ngữ trong năm nay. Phim dự kiến ra mắt vào ngày 30/4 tới. Đáng chú ý là sự tham gia của nữ diễn viên trẻ Cổ Lực Na Trát vào vai mỹ nhân Điêu Thuyền.
-Cổ Lực Na Trát ra mắt công chúng vào năm 2012 với vai diễn Tiểu Tuyết trong tác phẩm ăn khách Hiên Viên Kiếm cùng Hồ Ca, Lưu Thi Thi, Đường Yên. Gương mặt đẹp và cuốn hút của Cổ Lực Na Trát được xem như một cô "búp bê sống" trên các tạp chí thời trang. Mỹ nhân sinh năm 1992 sở hữu tỉ lệ cơ thể cân đối, chiều cao 172cm cùng đôi chân dài miên man.
-Cổ Lực Na Trát là một trong những mỹ nhân Tân Cương nổi tiếng của màn ảnh Hoa ngữ hiện nay.
-Mỹ nhân sinh năm 1992 sở hữu gương mặt xinh đẹp và chiều cao 172cm.
-Nhờ vẻ đẹp ngoại hình, Cổ Lực Na Trát gặp thuận lợi trong công việc khi có cơ hội hợp tác với những ngôi sao lớn của màn ảnh nhỏ Hoa ngữ. trong nhiều dự án như Võ Thần Triệu Tử Long, Truyền Thuyết Thanh Khâu Hồ, Trạch Thiên Ký, Trả Lại Thế Giới Cho Em…
-Tuy nhiên, gương mặt xinh đẹp nhưng diễn xuất không đặc sắc khiến mỹ nhân sinh năm 1992 không được giới chuyên môn đánh giá cao dù cô đã có hơn 8 năm hoạt động nghệ thuật. Nhiều người nhận định, Cổ Lực Na Trát chỉ hợp làm người mẫu ảnh, không phù hợp làm diễn viên.
-Mới đây, tạo hình Điêu Thuyền của Cổ Lực Na Trát được tiết lộ và khiến công chúng xôn xao vì quá xinh đẹp. Gương mặt xinh đẹp, sống mũi cao, ánh mắt dịu dàng và góc nghiêng "thần thánh" của Cổ Lực Na Trát được đánh giá hoàn toàn phù hợp với đại mỹ nhân Điêu Thuyền. Với tạo hình xuất sắc này, Cổ Lực Na Trát đang là diễn viên được chờ đợi nhất trong Chân Tam Quốc vô song.
-Cổ Lực Na Trát kết đôi cùng Cổ Thiên Lạc (vai Lữ Bố) trong "Chân Tam Quốc vô song"
-Tạo hình Điêu Thuyền của Cổ Lực Na Trát được khen ngợi.
-Vai diễn của Cổ Lực Na Trát trong "Chân Tam Quốc vô song" được chờ đợi
-Về ngoại hình, Cổ Lực Na Trát được khen rất phù hợp với Điêu Thuyền nhưng khán giả vẫn chờ đợi diễn xuất của cô.
-Kết đôi với Cổ Lực Na Trát trong Chân Tam Quốc vô song là Cổ Thiên Lạc với vai Lữ Bố. Hai nghệ sĩ chênh nhau 22 tuổi và bị cho rằng khá lệch khi vào một cặp tình nhân. Chuyện tình của họ bị đánh giá giống với phim thần tượng cổ trang.
-Sau khi tạo hình của các diễn viên trong Chân Tam Quốc vô song được hé lộ, nhiều khán giả đánh giá sự lựa chọn diễn viên của đoàn phim chưa phù hợp. Vai diễn Tào Tháo được giao cho Vương Khải. Tuy nhiên, theo đánh giá của khán giả, Vương Khả quá đẹp trai, thư sinh, không phù hợp vào vai một vị tướng lĩnh đại tài nhưng gian hùng.
-Tương tự như vậy, nhân vật Quan Vân Trường của Hàn Canh cũng bị đánh giá không toát hết được thần thái của một võ tướng bởi dáng vóc gầy gò. Lưu Bị của Dương Hựu Ninh lại bị đánh giá quá phóng khoáng so với một nhà chính trị, nhà quân sự, thủ lĩnh quân phiệt.
-Vương Khải vào vai Tào Tháo trong "Chân Tam Quốc vô song"
+# url = https://dantri.com.vn/giai-tri/moi-quan-he-ky-la-giua-luu-diec-phi-va-nguoi-cha-nuoi-ty-phu-20210409102517433.htm
+# date = 20210409
+Lưu Diệc Phi chính thức bước chân vào làng giải trí khi mới 15 tuổi. Cô thi đậu vào khoa Biểu Diễn của Học viện Điện ảnh Bắc Kinh và trở thành sinh viên trẻ nhất trường thời điểm đó. Ngay sau khi trở thành sinh viên, cô may mắn có cơ hội tham gia những bộ phim truyền hình ăn khách như Thiên Long Bát Bộ, Thần Điêu Đại Hiệp.
+Lưu Diệc Phi bước chân vào làng giải trí năm 15 tuổi và thành công nhanh chóng.
+Vị thế của Lưu Diệc Phi nhờ vậy cải thiện nhanh chóng trong làng giải trí dù cô không được đánh giá quá cao về diễn xuất. Ưu điểm của Lưu Diệc Phi chính là gương mặt xinh đẹp hoàn hảo cùng khí chất "thần tiên" rất phù hợp với những vai diễn cổ trang.
+Gia nhập làng giải trí từ khi còn trẻ và có sự nghiệp phát triển thuận lợi, Lưu Diệc Phi phải đối mặt với nhiều tin đồn thị phi. Năm 2010, truyền thông Trung Quốc xôn xao trước thông tin Lưu Diệc Phi mang thai khi mới 15 tuổi nhưng nữ diễn viên nổi tiếng đã nhanh chóng phủ nhận thông tin này.
+Mẹ Lưu Diệc Phi cho rằng, đây là tin đồn thất thiệt nhằm hạ bệ uy tín của con gái bà. Vụ việc cũng chìm xuống sau đó nhưng thông tin thất thiệt này cũng ảnh hưởng không nhỏ tới danh tiếng của Lưu Diệc Phi.
+Ngoài ngoại hình xinh đẹp và cuốn hút, Lưu Diệc Phi được cho rằng có "bệ đỡ" vô cùng chắc chắn và quyền lực.
+Sự thăng hạng nhanh của Lưu Diệc Phi trong thời gian ngắn cũng khiến cô dính tin đồn có "bệ đỡ" hoành tráng. Dù bị chê bai diễn xuất dở, cứng đơ, biểu cảm hạn chế nhưng Lưu Diệc Phi vẫn luôn nhận được sự ưu ái của các đạo diễn. Trong những năm mới gia nhập làng giải trí, Lưu Diệc Phi thường xuyên xuất hiện bên người cha nuôi, tỷ phú Trần Kim Phi.
+Ông từng xếp thứ 23 trong số những người giàu nhất Trung Quốc và có quan hệ mạnh mẽ với giới nghệ sĩ, thâu tóm nhiều công ty giải trí lớn tại Trung Quốc. Tài sản ước tính của ông gần 8,5 tỷ USD. Nhiều người cho rằng, chính nhờ sự hỗ trợ của cha nuôi quyền lực, sự nghiệp của Lưu Diệc Phi mới phát triển thuận lợi và cô nhanh chóng gia nhập dàn sao hạng A của màn ảnh Hoa ngữ.
+Tỷ phú Trần Kim Phi rất cưng chiều cô con gái nuôi khi từng bỏ hơn 6 tỷ đồng tổ chức tiệc sinh nhật lần thứ 18 cho cô. Ông cũng thường xuyên tháp tùng con gái nuôi tới các bữa tiệc nổi tiếng. Ông đưa con gái đi mua sắm và không ít lần bị bắt gặp có hành động thân thiết với nữ diễn viên 8x. Sự thân mật của Lưu Diệc Phi và tỷ phú Trần Kim Phi khiến nhiều người đồn đại, nữ diễn viên xinh đẹp là tình nhân của tỷ phú Trung Quốc.
+Lưu Diệc Phi và người cha nuôi nổi tiếng, giàu có - tỷ phú Trần Kim Phi
+Trần Kim Phi nhiều lần xuất hiện bên cô con gái nuôi nổi tiếng
+Ông không chỉ tháp tùng con gái nuôi đi dự sự kiện mà còn chăm sóc cô rất chu đáo.
+Những đồn đại này bắt đầu giảm bớt khi Lưu Diệc Phi công khai mối quan hệ với nam diễn viên Hàn Quốc - Song Seung Heon vào năm 2015 sau khi bộ phim Tình yêu thứ ba mà họ hợp tác lên sóng. Trong suốt thời gian hẹn hò, Song Seung Heon nhiều lần bay qua bay lại giữa Trung Quốc và Hàn Quốc để thăm người yêu.
+Lưu Diệc Phi cũng tranh thủ qua Hàn Quốc để gặp gỡ gia đình bạn trai. Dù bận rộn nhưng cả hai luôn dành thời gian để đón sinh nhật cùng nhau. Chuyện tình của Lưu Diệc Phi và Song Seung Heon kéo dài 3 năm và tới năm 2018, cặp đôi xác nhận chia tay vì khoảng cách địa lý và văn hóa.
+Sau khi cặp sao Hàn - Trung chia tay, người hâm mộ đã bày tỏ sự tiếc nuối cho một chuyện tình đẹp. Có thông tin cho rằng, mỹ nhân 8x cảm thấy ngột ngạt với sự cuồng nhiệt của bạn trai cũ nên muốn chia tay. Cô cũng không muốn hi sinh sự nghiệp để lập gia đình sớm. Lý do "quá bận để hò hẹn" được cô đưa ra để giải thích cho quyết định kết thúc chuyện tình với Song Seung Heon.
+Hành động thân mật của Trần Kim Phi và con gái nuôi - Lưu Diệc Phi từng bị giới săn tin chụp lại.
+Sự thân mật giữa hai người khiến Lưu Diệc Phi và Trần Kim Phi dính tin đồn hò hẹn.
+Cũng vào thời điểm Lưu Diệc Phi công khai tình cảm với bạn trai người Hàn Quốc, tỷ phú Trần Kim Phi chia sẻ việc hò hẹn với một nữ diễn viên kém ông tới 30 tuổi, Dương Thái Ngọc.Với sự hậu thuẫn về tài chính cùng mối quan hệ của tỷ phú Trần Kim Phi, sự nghiệp của Dương Thái Ngọc khá thuận lợi trong những năm qua. Dù không được đánh giá cao về khả năng diễn xuất nhưng cô lại được nhiều nhãn hàng ưu ái, góp mặt trong nhiều bộ phim nổi tiếng và xuất hiện thường xuyên trên các phương tiện truyền thông.
+Ngay từ khi Dương Thái Ngọc công khai mối quan hệ với tỷ phú đáng tuổi bố mình, cô đã phải hứng chịu nhiều áp lực từ dư luận. Cô bị chỉ trích là ham tiền và danh vọng khi yêu một người hơn mình tới 30 tuổi. Cô cũng thường xuyên bị đem ra so sánh với nữ diễn viên Lưu Diệc Phi, người được xem là con gái nuôi của tỷ phú họ Trần. Nhiều người còn nhận xét, vẻ đẹp của Dương Thái Ngọc khá giống với Lưu Diệc Phi và chính vì việc sở hữu ngoại hình hao hao"thần tiên tỷ tỷ" nên cô mới có cơ hội lọt vào mắt xanh của tỷ phú họ Trần.
+Năm 2015, Lưu Diệc Phi công khai hò hẹn với nam diễn viên người Hàn Quốc - Song Seung Heon.
+Cũng trong năm 2015, tỷ phú Trần Kim Phi công khai hò hẹn với nữ diễn viên sinh năm 1992- Dương Thái Ngọc.
+Dương Thái Ngọc không ít lần bị đặt lên "bàn cân" so sánh với...
+... thần tiên tỷ tỷ Lưu Diệc Phi.
+Sau 5 năm bên nhau, tỷ phú sở hữu khối tài sản ước tính gần 8,5 tỷ USD không còn xuất hiện bên bạn gái trẻ tuổi. Tin đồn về mối quan hệ rạn nứt giữa hai người âm ỉ từ cuối năm ngoái và cặp đôi được dự đoán đã không còn bên nhau nhưng chưa sẵn sàng công bố. Nhiều người cho rằng, Trần Kim Phi đã bỏ rơi tình trẻ vì cô con gái nuôi nổi tiếng của mình.
+Kể từ khi chia tay với Song Seung Heon, Lưu Diệc Phi hoàn toàn tập trung cho sự nghiệp. Cô không công khai hò hẹn với bất kỳ ai dù từng dính tin đồn kết hôn bí mật với nam diễn viên Hồ Ca. Năm ngoái, bom tấn Hoa Mộc Lan do Lưu Diệc Phi đảm nhiệm vai nữ chính đã chính thức ra mắt khán giả.
+Với ngân sách hơn 200 triệu USD, Hoa Mộc Lan từng được kỳ vọng là dự án điện ảnh đắt giá nhất năm 2020. Song, do ảnh hưởng của dịch Covid-19, phim không thể ra rạp như dự kiến và phải phát sóng trên nền tảng kỹ thuật số. Dù được truyền thông ngợi ca là bom tấn nhưng bộ phim lại bị khán giả chê bai thảm hại. Đặc biệt, diễn xuất của Lưu Diệc Phi bị chê là thiếu tự nhiên và đơ cứng.
+Lưu Diệc Phi tham gia "Hoa Mộc Lan" (năm 2020)
+Sau Hoa Mộc Lan, Lưu Diệc Phi dành thời gian nghỉ ngơi và mới trở về Trung Quốc vào đầu năm 2021. Cô nhận lời tham gia bộ phim truyền hình cổ trang Mộng hoa lục, đây là dự án phim truyền hình mới nhất mà "thần tiên tỷ tỷ" góp mặt trong mấy năm qua.
+Mới đây, hình ảnh hậu trường của phim được hé lộ với công chúng và khiến fan của Lưu Diệc Phi xôn xao. Dù tạo hình đơn giản nhưng nữ diễn viên sinh năm 1987 vẫn được khán giả hết lời khen ngợi.
+Dự án truyền hình Mộng hoa lục xoay quanh câu chuyện về Triệu Phán Nhi (Lưu Diệc Phi thủ vai) - chủ một quán trà tại Hàng Châu và hành trình gây dựng sự nghiệp của nàng thời nhà Tống. Nàng bị hôn phu Âu Dương Húc từ hôn nên quyết tâm lên kinh thành đòi lại công bằng cho bản thân. Bạn diễn của Lưu Diệc Phi trong phim là mỹ nam Trần Hiểu.
+Lưu Diệc Phi kết đôi cùng Trần Hiểu trong "Mộng hoa lục"
+Tạo hình xinh đẹp, chuẩn khí chất "thần tiên" của Lưu Diệc Phi trong "Mộng hoa lục"
+"Mộng hoa lục" với sự tham gia của Lưu Diệc Phi sẽ ra mắt khán giả trong năm nay.
 Mi Vân
-Theo Sina
+Theo QQ/Sina

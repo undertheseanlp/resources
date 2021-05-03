@@ -1,11 +1,17 @@
 # doc_id = news_society_160
-# url = https://dantri.com.vn/xa-hoi/hung-yen-phong-toa-thon-co-2-ca-mac-covid-19-20210430080628718.htm
+# url = https://dantri.com.vn/xa-hoi/ket-xe-kinh-hoang-keo-dai-hon-2-km-tuyen-duong-pha-cat-lai-nhon-trach-20210430114434577.htm
 # date = 20210430
-Sáng 30/4, ông Nguyễn Hồng Chuyên - Phó Chủ tịch UBND huyện Phù Cừ - cho biết, vào 21h tối 29/4, huyện đã lập tức tiến hành phong tỏa, phun khử khuẩn toàn bộ thôn Hoàng Xá để phòng, chống dịch bệnh Covid-19.
-"Ngay đêm qua, lực lượng chức năng xác định được 32 trường hợp F1 đã đưa đi cách ly tập trung và đợi kết quả xét nghiệm. Tiếp tục truy vết&nbspxác định có 166 trường hợp F2 và 230 trường hợp F3. Ban Chỉ đạo phòng, chống Covid-19 huyện đang lên phương án về nhu yếu phẩm và các vấn đề khác để đảm bảo đời sống, sinh hoạt cho người dân" - ông Chuyên thông tin thêm.
-Thôn Hoàng Xá có dân số hơn 1.200 người. Nơi đây vừa xuất hiện 2 ca mắc Covid-19, là 2 người liên quan đến trường hợp F0 của tỉnh Hà Nam.
-Theo Bộ Y tế, 2 ca mắc Covid-19 ở Hưng Yên là 2 bà cháu. Cụ thể, ca bệnh 2912 (BN2912) ghi nhận tại xã Tiên Tiến là bệnh nhân nữ, 2 tuổi; là F1 của BN2899 (ở Hà Nam).
-BN2912 có tiếp xúc gần với BN2899 ngày 22/4 tại xã Đạo Lý (huyện Lý Nhân, tỉnh Hà Nam). Ngày 29/4, bệnh nhân có kết quả dương tính với SARS-CoV-2.
-Ca mắc Covid-19 thứ 2 ở Hưng Yên là ca bệnh 2913 (BN2913), là nữ, 58 tuổi; là bà nội của BN2912. Bệnh nhân này thường xuyên tiếp xúc gần với BN2912. Ngày 29/4, bệnh nhân có kết quả dương tính với SARS-CoV-2.
-Hiện cả 2 bệnh nhân ở Hưng Yên đang được cách ly điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh (Hà Nội).
-Nguyễn Trường
+Hàng nghìn người đứng "chôn chân" trên đường vào phà Cát Lái
+Hàng nghìn người đi xe máy, ô tô và xe container nhích từng mét trên đoạn đường từ Quận 2 dẫn vào phà Cát Lái để đi sang Đồng Nai, hướng ra Vũng Tàu trong ngày lễ 30/4.
+Trong ngày lễ 30/4, hàng nghìn phương tiện nối đuôi nhau từ vòng xoay Mỹ Thủy hướng về phà Cát Lái.
+Lượng khách gia tăng đột biến vào kỳ nghỉ lễ 30/4 và 1/5 là nguyên nhân khiến tuyến đường này rơi vào tình trạng quá tải.
+Cảnh kẹt xe kéo dài hơn 2km, dòng người đứng "chôn chân" trong nắng nóng gay gắt.
+Kẹt xe bắt đầu từ sáng sớm, lượng người xe từ các khu vực đổ đến để qua phà về các tỉnh Đồng Nai, Bà Rịa - Vũng Tàu…tăng cao và càng về trưa. Anh Trần Hữu Hùng (40 tuổi, tài xế xe container) cho biết, "tôi đưa hàng vào cảng Cát Lái nhưng phải tắt máy xe ngồi chờ gần 1 tiếng vẫn chưa nhích được thêm đoạn nào".
+Nhiều người điều khiển xe máy leo lên vỉa hè để di chuyển tránh kẹt xe.
+Dòng người vật vã chờ đợi hàng giờ để thoát khỏi cảnh kẹt xe giữa trưa.
+Ông Nguyễn Thanh Tuấn, Phó giám đốc Xí nghiệp quản lý phà Thanh niên xung phong - bến Cát Lái, ước tính trong ngày đầu kỳ nghỉ lễ có hàng trăm nghìn lượt người, xe qua phà. Đến 11h trưa nay 30/4, tại bến phà Cát Lái (phía bờ quận 2, TPHCM), lực lượng CSGT, bảo vệ khu phố địa phương… vẫn đang phối hợp cùng nhân viên phà Cát Lái nỗ lực điều tiết, phân luồng, giải tỏa phương tiện tăng đột biến qua phà hướng từ TPHCM về huyện Nhơn Trạch, tỉnh Đồng Nai.
+Người phụ nữ bế con nhỏ tìm chỗ tránh nóng khi phải chờ đợi quá lâu.
+Các nhân viên bán vé phà Cát Lái phải di chuyển cách phà gần 1km để phục vụ hành khách nhằm giảm tải áp lực.
+Nhiều người chờ đợi quá lâu lựa chọn quay đầu xe khiến tình trạng kẹt xe càng trở nên nghiêm trọng hơn.
+Đến 12h trưa, tình trạng kẹt xe trên trục đường Phà Cát Lái hướng qua Nhơn Trạch - Đồng Nai, vẫn chưa có dấu hiệu giảm.
+Nguyễn Quang

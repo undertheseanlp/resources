@@ -1,18 +1,11 @@
 # doc_id = news_health_120
-# url = https://dantri.com.vn/suc-khoe/ha-nam-bo-y-te-yeu-cau-lay-mau-xet-nghiem-toan-bo-nguoi-dan-thon-quan-nhan-20210429220816933.htm
-# date = 20210429
-Chiều 29/4, Bộ trưởng Bộ Y tế Nguyễn Thanh Long đã đến kiểm tra và chỉ đạo công tác phòng chống dịch Covid-19 tại Hà Nam. Bộ trưởng Bộ Y tế và đoàn công tác của Bộ y tế đã đi kiểm tra thực tế việc triển khai các biện pháp khoanh vùng, dập dịch tại thôn Quan Nhân xã Đạo Lý, huyện Lý Nhân, nơi 5 ca bệnh dương tính với Covid-19 sinh sống. Hiện toàn thôn gồm 320 hộ với 1.068 nhân khẩu đang tạm thời phong tỏa, cách ly.
-Bộ trưởng Bộ Y tế và đoàn công tác của Bộ y tế đã đi kiểm tra thực tế việc triển khai các biện pháp khoanh vùng, dập dịch tại thôn Quan Nhân xã Đạo Lý, huyện Lý Nhân, nơi 5 ca bệnh dương tính với Covid-19 sinh sống.
-Tính đến 16h ngày 29/4, qua điều tra dịch tễ, Hà Nam đã rà soát được hơn 100 trường hợp F1 và hơn 300 trường hợp F2. Các trường hợp F1 đã được cách ly tập trung tại Trung tâm Y tế huyện Lý Nhân và trường cao đẳng y tế Hà Nam; các F2 được hướng dẫn cách ly tại nhà.
-Các thành viên trong đoàn công tác đã đề xuất với tỉnh Hà Nam nhiều giải pháp để phòng chống dịch hiệu quả như: tổ chức phong tỏa nơi sinh sống của các bệnh nhân Covid-19 phải đảm bảo "nội bất xuất, ngoại bất nhập", người cách ly với người, nhà cách ly với nhà.
-Huy động hết lực lượng khẩn trương lấy mẫu xét nghiệm toàn bộ nhân khẩu của thôn Quan Nhân - nơi sinh sống của các bệnh nhân; giám sát có hệ thống những đối tượng có biểu hiện sốt ho, sốt trên địa bàn tỉnh để lấy mẫu xét nghiệm.
-Thành lập ngay tổ phòng, chống Covid-19 cộng đồng tại thôn Quan Nhân, mỗi tổ phụ trách từ 20-50 gia đình để nắm được diễn biến từng nhà; huy động các nguồn nhân lực khẩn trương tổ chức lấy mẫu xét nghiệm; khu cách ly cần bảo đảm điều kiện tránh tình trạng lây chéo…
-Toàn bộ thôn Quan Nhân được phun thuốc khử khuẩn.
-Phát biểu tại buổi làm việc, Bộ Trưởng Bộ Y tế Nguyễn Thanh Long cho rằng, hiện tại Hà Nam đang ở mức độ chùm lây nhiễm, nên kiểm soát nhanh bao nhiêu, dịch được khoanh vùng, dập dịch sớm bấy nhiêu.
-Bộ trưởng Bộ Y tế yêu cầu Hà Nam cần thực hiện giãn cách xã hội ngay tại xã Đạo Lý. Riêng thôn Quan Nhân xã Đạo Lý phải tiến hành khoanh vùng dập dịch đạt 2 mục tiêu: "Nội bất xuất, ngoại bất nhập" và dập dịch triệt để ngay từ bên trong để dập tắt, triệt tiêu ngay nguồn lây.
-Đồng thời, cần truy vết tất cả các trường hợp tiếp xúc gần với bệnh nhân và tiếp xúc gần với F1 (tức F2) để cách ly tại nhà để đề phòng khi F1 trở thành F0 sẽ cách ly tập trung ngay. Ngay trong đêm 29/4 tỉnh phải lấy mẫu xét nghiệm toàn bộ người dân thôn Quan Nhân.
-Bộ trưởng Bộ Y tế Nguyễn Thanh Long chỉ đạo công tác phòng chống dịch tại buổi làm việc với Ban chỉ đạo phòng chống dịch Covid-19 tỉnh Hà Nam
-Các trường hợp F1 lấy mẫu đơn, còn lại lấy mẫu chùm, địa phương phải huy động lực lượng lấy mẫu. Trường hợp cần thiết Bộ sẽ trưng tập nơi xét nghiệm tại bệnh viện Bạch Mai ở Hà Nam. Bộ Y tế sẽ hỗ trợ Hà Nam về tăng cường năng lực xét nghiệm và các máy móc, thiết bị phòng chống dịch cần thiết.
-Đối với cơ sở cách ly phải sớm có kịch bản ứng phó kịp thời, tuyệt đối không để lây nhiễm chéo trong khu cách ly. Chủ yếu khoanh vùng, cách ly dập dịch ngay tại thôn Quan Nhân với mục tiêu tiến hành các giải pháp phòng chống dịch càng nhanh, dập dịch càng hiệu quả.
-Tỉnh Hà Nam cũng phải dừng tất cả các lễ hội, kiểm soát chặt chẽ nơi tập trung đông người, các nhà máy, đơn vị sản xuất, thực hiện nghiêm quy định 5K, bắt buộc toàn bộ người dân phải đeo khẩu trang khi đi ra khỏi nhà, phải xử phạt hành chính đối với những trường hợp cố tình vi phạm.
+# url = https://dantri.com.vn/suc-khoe/ha-nam-them-2-ca-duong-tinh-lan-1-voi-sars-co-v-2-20210502074529020.htm
+# date = 20210502
+Sáng ngày 5/2, thông tin từ Trung tâm Kiểm soát bệnh tỉnh Hà Nam cho biết, kết quả xét nghiệm tính đến 21h ngày 1/5, đã có 2 mẫu bệnh phẩm có kết quả xét nghiệm dương tính lần 1 với SARS-CoV-2. Hai trường hợp dương tính với SARS-CoV-2 1 trường hợp ở xã Bắc Lý và 1 trường hợp ở xã Chân Lý, đều thuộc huyện Lý Nhân, tỉnh Hà Nam.
+Tính đến 21h ngày 1/5, đã có 2 mẫu bệnh phẩm có kết quả xét nghiệm dương tính lần 1 với SARS-CoV-2.
+Như vậy, đến thời điểm này, tổng số ca bệnh xác định được cộng đồng trên địa bàn tỉnh Hà Nam có liên quan đến ổ dịch tại thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân 12 trường hợp. Hiện 2 trường hợp vừa có kết quả lần 1 dương tính với SARS-CoV-2 đã được đưa đi cách ly điều trị.
+Hà Nam đã thiết lập vùng cách ly y tế đối với thôn 5 Đồng Yên, xã Chân Lý và thôn Nội Đọ, xã Bắc Lý, huyện Lý Nhân.
+Ban chỉ đạo phòng, chống dịch Covid-19 tỉnh Hà Nam cũng ban hành quyết định về việc thiết lập vùng cách ly y tế đối với thôn 5 Đồng Yên, xã Chân Lý và thôn Nội Đọ, xã Bắc Lý, huyện Lý Nhân phòng, chống dịch bệnh Covid-19.
+Theo đó, phạm vi vùng cách ly bao gồm toàn bộ thôn 5 Đồng Yên, xã Chân Lý, huyện Lý Nhân, tỉnh Hà Nam, với tổng số 320 hộ tương ứng 2.200 nhân khẩu và toàn bộ thôn Nội Đọ, xã Bắc Lý, huyện Lý Nhân gồm 169 hộ, tương ứng 537 nhân khẩu.
+Thời gian cách ly: Tối thiểu 14 ngày, kể từ 17h ngày 01/5/2021.
 Đức Văn

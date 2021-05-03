@@ -1,15 +1,14 @@
 # doc_id = news_health_123
-# url = https://dantri.com.vn/suc-khoe/ha-nam-nhan-vien-y-te-nghi-nhiem-covid-19-co-ket-qua-am-tinh-20210430210844317.htm
-# date = 20210430
-Thông tin từ Trung tâm Kiểm soát bệnh tật tỉnh (CDC) Hà Nam cho biết, chiều ngày 30/4, ca nghi nhiễm Covid-19 là cán bộ Trung tâm y tế huyện Lý Nhân đã cho kết quả âm tính với virus SARS-Cov-2.
-Các trường hợp tiếp xúc gần với các ca nhiễm Covid-19 tại Hà Nam được đưa đi cách ly.
-Trước đó, chị H.T.H (SN 1983) là cán bộ y tế làm việc tại bộ phận cấp phát thuốc của Trung tâm Y tế huyện Lý Nhân có kết quả xét nghiệm sàng lọc Covid-19 lần 1 vào ngày 29/4 cho kết quả dương tính với virus SARS-Cov-2.
-Qua điều tra dịch tễ ban đầu cho thấy, cán bộ y tế này có mặt làm việc tại Trung tâm Y tế huyện vào thời điểm bệnh nhân N.V.V (bố đẻ của bệnh nhân N.V.Đ) ở thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân đến khám bệnh trong chiều ngày 27/4. Tuy nhiên, chị H.T.H không tiếp xúc trực tiếp với bệnh nhân N.V.V.
-Theo báo cáo của Sở Y tế Hà Nam, đến 14h chiều ngày 30/4, toàn tỉnh Hà Nam có 7 trường hợp dương tính với SARS-CoV-2 liên quan đến ổ dịch Đạo Lý. Cơ quan chức năng đã điều tra được 359 trường hợp F1 (Lý Nhân 337, Bình Lục 15, Thanh Liêm 2, Phủ Lý 5). Số trường hợp F2 đã điều tra được là 1.128 trường hợp, hiện đang cách ly tại nhà. Tổng số mẫu xét nghiệm đã lấy 991 mẫu, trong đó 7 mẫu dương tính của 7 ca bệnh đã ghi nhận, 180 mẫu âm tính, 806 mẫu đang chờ kết quả.
-Hiện, các bệnh nhân mắc Covid-19 đang được theo dõi, điều trị tại Bệnh viện Đa khoa tỉnh Hà Nam.
-Quảng Nam: 8 ca F1 có kết quả xét nghiệm âm tính
-Tối 30/4, trao đổi với phóng viên, bác sĩ Mai Văn Mười - Giám đốc Sở Y tế Quảng Nam - cho biết, 8 người dân địa phương liên quan đến bệnh nhân 2899 (tỉnh Hà Nam), vừa có kết quả âm tính lần 1 với SARS-CoV-2.
-8 người đi cùng xe với bệnh nhân 2899 có kết quả xét nghiệm âm tính lần 1. (Ảnh minh họa).
-Theo bác sĩ Mười, 7/8 trường hợp thuộc diện F1 đi cùng xe với bệnh nhân 2899. Trường hợp còn lại đi cùng chuyến bay từ Nhật về và ở cùng khách sạn với bệnh nhân. Hiện các trường hợp này vẫn đang được cách ly, theo dõi cho đủ 14 ngày theo quy định và ngành y tế địa phương sẽ tiếp tục lấy mẫu xét nghiệm.
-Liên quan đến tình hình phòng chống dịch Covid-19, sau lễ 30/4-1/5, Sở Y tế Quảng Nam sẽ chỉ đạo Trung tâm Kiểm soát Bệnh tật tỉnh Quảng Nam (CDC Quảng Nam) lấy mẫu xét nghiệm SARS-CoV-2 ngẫu nhiên tại các cơ sở y tế, các khu du lịch, khu công nghiệp, chợ, siêu thị, nhà ga, bến tàu, sân bay, nơi tụ tập đông người... để kịp thời ngăn chặn, kiểm soát tốt dịch bệnh Covid-19 trên địa bàn tỉnh.
-Đức Văn - Công Bính
+# url = https://dantri.com.vn/suc-khoe/ha-nam-them-4-ca-duong-tinh-voi-sars-co-v-2-la-f-1-cua-benh-nhan-20210429164605163.htm
+# date = 20210429
+Thông tin từ Sở Y tế tỉnh Hà Nam cho biết, liên quan đến bệnh nhân N.V.Đ., nhà ở thôn Quan Nhân, Đạo Lý, Lý Nhân, được xác nhận dương tính lần 1 với SARS-CoV-2, sau khi cách ly tập trung 2 tuần từ Đà Nẵng, ngành y tế Hà Nam đã xác nhận bước đầu có 32 F1.
+Toàn bộ thôn Quan Nhân được phun thuốc khử khuẩn.
+Qua xét nghiệm đã xác định có 4 trường hợp dương tính với SARS-CoV-2 gồm: ông N.V.V. (SN 1963) là bố đẻ bệnh nhân; N.T.Th., (SN 1965) là mẹ đẻ bệnh nhân; N.T.A. (SN 1996) là vợ bệnh nhân và N.T.Q.C. (SN 2020) là con bệnh nhân Đ.
+Hiện tại lực lượng chức năng đã lập 5 chốt và tạm thời cách ly toàn bộ thôn Quan Nhân nơi gia đình 5 bệnh nhân sinh sống với 320 hộ, 1068 nhân khẩu.
+Đến thời điểm này đã xác định được 32 trường hợp F1, 210 trường hợp F2. Các trường hợp F1 được cách ly tập trung tại Trung tâm Y tế huyện Lý Nhân, các trường hợp F2 được hướng dẫn cách ly tại nhà.
+Chiều ngày 29/4 Ban chỉ đạo phòng, chống dịch Covid-19 tỉnh Hà Nam đang tổ chức họp khẩn để triển khai các biện pháp cấp bách phòng, chống dịch.
+Hiện tại lực lượng chức năng đã lập 5 chốt và tạm thời cách ly toàn bộ thôn Quan Nhân nơi gia đình 5 bệnh nhân sinh sống với 320 hộ, 1068 nhân khẩu.
+Trước đó, bệnh nhân N.V.Đ. nhập cảnh từ Nhật về, cách ly đủ 14 ngày tại Đà Nẵng và đã có 3 lần xét nghiệm âm tính với SARS-CoV-2 trong đó lần xét nghiệm cuối cùng là ngày 21/4.
+Đến ngày 22/4 bệnh nhân đi xe khách từ Đà Nẵng về Liêm Tuyền và bắt taxi từ Liêm Tuyền về nhà ở thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân, tỉnh Hà Nam. Sáng 24/4, bố bệnh nhân này ra trạm y tế xã khai báo do thấy con trai có biểu hiện ho sốt, đau họng. Sau đó cơ quan chức năng đã đến lấy mẫu, điều tra dịch tễ. Chiều ngày 27/4 xét nghiệm, xác nhận dương tính lần 1 với SARS-CoV-2.
+Hiện bệnh nhân được cách ly điều trị tại BVĐK Hà Nam.
+Đức Văn

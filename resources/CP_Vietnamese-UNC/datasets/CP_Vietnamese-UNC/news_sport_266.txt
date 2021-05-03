@@ -1,16 +1,9 @@
 # doc_id = news_sport_266
-# url = https://dantri.com.vn/the-thao/vua-thai-cuc-quyen-rut-lui-de-tu-dai-chien-voi-de-nhat-thieu-lam-20210420203807774.htm
-# date = 20210420
-Theo nguồn tin từ tờ Sohu, nhiều khả năng võ sư Vương Chiêm Hải, người được mệnh danh là "Vua Thái Cực Quyền" sẽ không thượng đài với "Đệ nhất Thiếu Lâm", Nhất Long. Thay vào đó, đệ tử của Vương Chiêm Hải là Hàn Phi Long sẽ thay sư phụ làm điều đó.
-Hàn Phi Long sẽ thay sư phụ Vương Chiêm Hải thượng đài với Nhất Long.
-Tờ báo Trung Quốc cho hay, trận đấu giữa Hàn Phi Long và Nhất Long sẽ không diễn ra trong thời gian gần. Bởi lẽ, Hàn Phi Long đang bận chuẩn bị cho giải đấu sự kiện Wulin Feng với một võ sĩ Thái Lan.
-Một võ sư Thái Cực Quyền khác là Vương Chiến Quân sẽ nằm trong ban huấn luyện của Hàn Phi Long ở giải đấu sắp tới.
-Sau trận đấu này, Hàn Phi Long sẽ thay sư phụ Vương Chiêm Hải "dạy dỗ" Nhất Long một bài học.
-Hàn Phi Long là võ sĩ khá nổi tiếng ở Trung Quốc. Anh là một trong những võ sĩ kickboxing hay nhất Trung Quốc thời điểm này. Trước đó, Hàn Phi Long từng có nhiều năm tập luyện Thái Cực Quyền dưới sự huấn luyện của hai võ sư Vương Chiêm Hải và Vương Chiến Quân. Do đó, biệt danh của Hàn Phi Long là "Đệ nhất Thái Cực".
-Trong lối đánh của Hàn Phi Long có nhiều nét bay bổng của Thái Cực Quyền và sức mạnh của võ sĩ kickboxing.
-Trước đó, Nhất Long và Vương Chiêm Hải đã có những tranh cãi gay gắt. Nhất Long được cho là đã chê bai kungfu của Vương Chiêm Hải và cho rằng Thiếu Lâm Quyền mạnh hơn Thái Cực Quyền.
-Hàn Phi Long được mệnh danh là "Đệ nhất Thái Cực"
-Ở chiều ngược lại, Vương Chiêm Hải cho rằng Thái Cực Quyền mới chứa đựng tinh hoa của võ thuật Trung Quốc, với nhiều triết lý ẩn sâu. Đó là lý do mà Trung Quốc đang đẩy mạnh chiến dịch quảng bá, để đưa Thái Cực Quyền vào Olympic.
-Hai bên từng ước hẹn sẽ phân tài cao thấp vào ngày 17/4. Mặc dù vậy, cuối cùng trận đấu này đã không diễn ra như dự kiến.
-Nhất Long từng là võ sĩ gây tiếng vang ở Trung Quốc khi tham dự nhiều giải đấu đỉnh cao. Dù vậy, ở thời điểm này, anh không còn trên đỉnh cao sự nghiệp. Trong những năm gần đây, "Đệ Nhất Thiếu Lâm" đã mắc chứng nghiện rượu và tăng cân một cách chóng mặt. Do đó, anh gần như không thể thi đấu đỉnh cao. Những đối thủ của Nhất Long trong khoảng 1 năm gần đây như Lưu Nhị Cẩu hay Lợi Ca đều là những người không biết võ thuật.
-H.Long
+# url = https://dantri.com.vn/the-thao/xuat-hien-vo-si-chan-cung-hon-sat-doi-thu-da-vao-gay-ong-dong-20210425165307504.htm
+# date = 20210425
+Người hâm mộ MMA (võ tổng hợp tự do) đã có một phen khiếp sợ khi chứng kiến võ sĩ hạng trung Chris Weidman bị gãy chân kinh hoàng trong trận đấu UFC 261 với đối thủ Uriah Hall diễn ra vào hôm qua (24/4).
+Đây là trận đấu mà người hâm mộ lần đầu tiên được phép vào sân cổ vũ tại sàn đấu Veterans Memorial Arena ở Jacksonville, bang Florida (Mỹ) để rồi chứng kiến Weidman bị gãy chân chỉ sau 17 giây của hiệp đấu đầu tiên.
+Weidman, nhà cựu vô địch hạng bán trung đã quằn quại trong đau đớn sau khi anh đá chân phải trúng chân của Uriah Hall. Rất ngạc nhiên Uriah Hall không hề hấn gì, còn Weidman thì gãy đôi "ống đồng" và trọng tài đã công nhận một chiến thắng knock-out cho Hall.
+Weidman đã được đưa lên cáng để chuyển vào bệnh viện cấp cứu ngay sau đó. Đáng chú ý là vào năm 2013, Weidman cũng từng bị gãy chân kinh hoàng không kém khi đối đầu với võ sĩ người Brazil Anderson Silva, chỉ khác Silva mới là người ra đòn đá khiến Weidman gãy chân.
+"Tôi cảm thấy thật tệ cho anh ấy. Tôi hy vọng anh ấy không sao. Tôi cầu chúc cho gia đình anh ấy tốt đẹp nếu phải theo dõi trận đấu này", Uriah Hall phát biểu sau trận đấu. "Tôi hy vọng anh ấy sớm bình phục, nếu anh ấy khỏe lại, tôi nợ anh ấy trận đấu này, tôi hy vọng anh ấy sẽ trở lại sau chấn thương. Anh ấy vẫn là một võ sĩ tuyệt vời", Uriah Hall nói thêm.
+Sông Lam

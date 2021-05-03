@@ -1,9 +1,10 @@
 # doc_id = news_world_067
-# url = https://dantri.com.vn/the-gioi/can-canh-benh-vien-dieu-tri-covid-19-bi-thieu-rui-82-nguoi-chet-o-iraq-20210425205504821.htm
-# date = 20210425
-Vụ hỏa hoạn xảy ra ở khoa hồi sức cấp cứu của bệnh viện Ibn Khatib tại thủ đô Baghdad của Iraq tối 24/4 (Ảnh: Reuters).
-Người nhà của bệnh nhân cũng vật lộn để bảo vệ người thân khỏi đám cháy. Ahmed Zaki, một nhân chứng có mặt tại bệnh viện, cho hay anh đã nhìn thấy nhiều người nhảy ra khỏi cửa sổ để tránh ngọn lửa (Ảnh: AP).
-Toàn bộ bệnh nhân trong bệnh viện đã được sơ tán (Ảnh: Reuters).
-Theo Bộ Nội vụ Iraq, tính đến hiện tại, ít nhất 82 người thiệt mạng, 110 người bị thương. Con số này có thể còn tăng tiếp do nhiều người bị bỏng nặng (Ảnh: EPA).
-Theo giới chức dân phòng địa phương, bệnh viện này không có hệ thống phòng cháy và trần giả khiến ngọn lửa cháy lan sang các vật liệu dễ cháy khác (Ảnh: EPA).
-Minh PhươngTheo Dailymail
+# url = https://dantri.com.vn/the-gioi/can-canh-man-phong-ten-lua-uy-luc-cua-tau-chien-nga-20210430143831260.htm
+# date = 20210430
+Hạm đội Biển Đen của Nga ngày 30/4 thông báo tàu tuần dương Moskva của hạm đội đã phóng thử tên lửa hành trình chống hạm Vulkan ở Biển Đen lần đầu tiên.
+"Tàu tuần dương tên lửa Moskva của Hạm đội Biển Đen đã phóng tên lửa Vulkan từ hệ thống tên lửa chính của tàu lần đầu tiên trong lịch sử hiện đại", Hạm đội Biển Đen cho biết.
+Theo Hạm đội Biển Đen, tên lửa từ tàu Moskva đã bắn trúng mục tiêu ở khoảng cách 30 km.
+Tàu tuần dương mang tên lửa dẫn đường Moskva cũng là "soái hạm" của Hạm đội Biển Đen Nga.
+Để đảm bảo an ninh cho cuộc tập trận, Hạm đội Biển Đen đã đóng cửa một phần Biển Đen và triển khai hơn 20 tàu quân sự để phong tỏa khu vực tập trận.
+Thành Đạt
+Theo Sputnik

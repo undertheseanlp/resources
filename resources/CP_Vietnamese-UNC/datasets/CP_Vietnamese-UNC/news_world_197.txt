@@ -1,14 +1,17 @@
 # doc_id = news_world_197
-# url = https://dantri.com.vn/the-gioi/ong-thaksin-dua-de-nghi-bat-ngo-giua-luc-thai-lan-cang-minh-chong-covid-19-20210428222749564.htm
-# date = 20210428
-Thông qua ứng dụng mạng xã hội Clubhouse, tuần trước, cựu thủ tướng Thái Lan Thaksin Shinawatra, người đang sống lưu vong, nói rằng nếu chính phủ Thái Lan cần ông giúp đỡ để mua vắc xin, trong đó có vắc xin Sputnik V từ Nga, ông sẵn sàng giúp đàm phán.
-"Các vị có muốn tôi nói chuyện với Tổng thống Putin để chúng ta có thể đưa vắc xin Sputnik V về nước hay không? Hãy nói với tôi, chúng ta có thể giúp đỡ nhau, nhưng chính phủ cũng phải đảm bảo rằng việc phân phối phải được tiến hành một cách rộng rãi, nhanh chóng, chứ không chỉ tập trung vào một số cụm dịch", ông Thaksin bình luận trên Clubhouse.
-Ông Thaksin cũng gợi ý, chính phủ Thái Lan nên đề nghị chủ các doanh nghiệp lớn của nước này hỗ trợ mua vắc xin cho người dân.
-Đề nghị của ông Thaksin gây chú ý trong bối cảnh Thái Lan đang "căng mình" đối phó với đợt bùng phát dịch Covid-19 nghiêm trọng nhất từ trước đến nay giữa lúc rục rịch kế hoạch mở cửa ngành du lịch trở lại để vực dậy kinh tế.
-Chỉ trong vòng 25 ngày của tháng 4, Thái Lan đã ghi nhận hơn 26.000 ca mắc mới, so với chưa đầy 7.000 ca trong cả năm 2020. Chỉ riêng trong ngày 28/4, Thái Lan có thêm hơn 2.000 người mắc Covid-19 và 15 người tử vong, số người tử vong cao nhất kể từ khi dịch bùng phát ở quốc gia Đông Nam Á này.
-Số ca nhiễm tăng nhanh bắt đầu khiến nhiều bệnh viện ở thủ đô rơi vào tình trạng thiếu giường bệnh. Ước tính, nếu dịch bệnh không được kiểm soát, các bệnh viện ở Bangkok sẽ không còn giường trống. Để đề phòng kịch bản này, Thái Lan đã lập ra các bệnh viện dã chiến ở Bangkok và một số tỉnh lân cận.
-Chính phủ của Thủ tướng Prayut Chan-o-cha bị chỉ trích vì chậm trễ triển khai chương trình sản xuất, phân phối và tiêm chủng vắc xin ngừa Covid-19. Sau những chỉ trích này chính phủ Thái Lan tuần trước cho biết, họ đang cố gắng mua thêm vắc xin của 3 nhà sản xuất gồm Sinovac, AstraZeneca và Pfizer, thay vì 2 nhà sản xuất như trước kia. Đến nay, Thái Lan đã đặt mua gần 2,2 triệu liều vắc xin, khoảng 530.000 người đã được tiêm mũi đầu tiên tính đến tuần trước.
-Trong tuần này, Thái Lan cũng lập ra một khu tiêm chủng vắc xin Covid-19 ngay tại sân bay Suvarnabhumi nhằm đẩy nhanh tốc độ chương trình tiêm chủng. Cùng với việc đẩy nhanh tiêm chủng vắc xin, Thái Lan cũng siết chặt các biện pháp phòng dịch như đeo khẩu trang bắt buộc ở nơi công cộng. Thủ đô Bangkok cũng đóng cửa hàng loạt trung tâm giải trí và các cơ sở kinh doanh không thiết yếu.
-Khi được hỏi về đề nghị của ông Thaksin, Thủ tướng Chan-o-cha đã thẳng thừng từ chối.
-Cựu thủ tướng Thaksin bị lật đổ trong một cuộc đảo chính năm 2006. Sau đó ông đã phải sống lưu vong ở nước ngoài để tránh bị kết tội tham nhũng. Ngay cả khi sống lưu vong, ông và em gái là cựu thủ tướng Yingluck được cho là vẫn có sức ảnh hưởng đáng kể thông qua các đồng minh cũng như người thân.
-Minh PhươngTheo Bangkok Post, SCMP
+# url = https://dantri.com.vn/the-gioi/ong-trump-tuyen-bo-hon-ca-nghiem-tuc-ve-y-dinh-tranh-cu-nam-2024-20210420170012976.htm
+# date = 20210420
+Ông Trump trong cuộc phỏng vấn với Fox News ngày 19/4 (Ảnh: Fox News).
+Ngày 19/4, ông Trump đã có cuộc trả lời phỏng vấn lần đầu phát sóng trên truyền hình với đài Fox News kể từ khi rời Nhà Trắng. Cựu Tổng thống Mỹ thẳng thắn tuyên bố ông đang xem xét ý định ra tranh cử lần 2 vào năm 2024.
+"Tôi đang cân nhắc nó rất nghiêm túc. Hơn cả nghiêm túc", ông Trump tuyên bố.
+Ông Trump tin rằng, tỉ lệ ủng hộ cao mà ông đạt được trong các cuộc khảo sát gần đây là do cử tri "thất vọng với sự lãnh đạo của ông Biden".
+Ông Trump cho biết, điều tự hào nhất ông làm được là "giúp đỡ" người dân Mỹ như giảm thuế, giảm chi phí các loại thuốc kê đơn, thành lập lực lượng vũ trụ Mỹ và xây một phần tường biên giới với Mexico.
+Tuy nhiên, ông Trump cho biết, ông chưa sẵn sàng để chính thức công bố kế hoạch ra tranh cử cho 3 năm tới.
+Chia sẻ với người dẫn chương trình Sean Hannity, ông Trump cũng chỉ trích người kế nhiệm Joe Biden vì cách mà Tổng thống Mỹ đương nhiệm xử lý vấn đề người nhập cư ở biên giới phía nam.
+Ông Trump cho rằng, chính sách nhập cư của ông hiệu quả nhưng việc ông Biden không áp dụng chính sách này đã tạo ra những hậu quả "thảm khốc".
+"Tất cả những gì mà ông ấy làm là bỏ mặc nó", ông Trump nói về việc hàng chục nghìn người nhập cư vẫn đang đổ về biên giới Mỹ mỗi ngày,cáo buộc họ là "tội phạm và kẻ buôn bán ma túy".
+"Tình hình hiện này thật tồi tệ. Điều đó có thể phá hủy nước Mỹ. Mọi người đang đổ xô vào nước Mỹ", ông Trump nhận định.
+Động thái chỉ trích ông Biden của ông Trump khác với "luật bất thành văn" của các cựu tổng thống: Hạn chế đưa ra bình luận về công việc của người kế nhiệm để thể hiện sự tôn trọng. Trên thực tế, ông Trump nhiều lần phát đi thông cáo báo chí và trả lời các cuộc phỏng vấn có nội dung chỉ trích chương trình nghị sự của ông Biden.
+Ông Trump tuyên bố rằng ông sẽ hỗ trợ vận động tranh cử cho một số ứng viên đảng Cộng hòa trong cuộc bầu cử giữa kỳ năm sau và nhấn mạnh rằng những người này nên đi theo chính sách của ông "nếu họ muốn thắng cử".
+Đức Hoàng
+Theo Dailymail

@@ -47,7 +47,13 @@ def update_dataset(crawl_folder):
         with open(join(crawl_folder, file)) as f:
             content = f.read()
             lines = content.splitlines()
+            lines = [_.strip() for _ in lines]
+            lines = [_ for _ in lines if len(_) > 0]
+            content = "\n".join(lines)
             url = lines[0][8:]
+            if len(lines) <= 5:
+                print(f"File should has more than 3 lines ({url})")
+                continue
             if url in DOC_URLS:
                 print(f"URL is existed. ({url})")
                 continue

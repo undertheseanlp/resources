@@ -1,18 +1,39 @@
 # doc_id = news_society_186
-# url = https://dantri.com.vn/xa-hoi/nang-canh-bao-nguy-co-bung-phat-dich-tai-ha-noi-len-muc-do-cao-20210426190012013.htm
-# date = 20210426
-Hà Nội nhận định nguy cơ dịch bệnh Covid-19 sẽ cao hơn vào dịp nghỉ lễ 30/4 - 1/5 (Ảnh: Nguyễn Trường).
-Nguy cơ dịch bệnh cao vào dịp nghỉ lễ 30/4
-Chiều 26/4, tại buổi họp về công tác phòng, chống dịch Covid-19, ông Hoàng Đức Hạnh - Phó Giám đốc Sở Y tế Hà Nội - cho biết, tình hình dịch bệnh trên thế giới vẫn diễnbiến phức tạp, đặc biệt là tại Ấn Độ và các nước trong khu vực Đông Nam Á như: Thái Lan, Campuchia và tại Lào. Cộng dồn cho đến nay, thế giới ghi nhận hơn 147 triệu ca mắc và hơn 3 triệu người tử vong.
-Theo ông Hạnh, tại Việt Nam, từ ngày 19/4 - 25/4 ghi nhận 52 ca mắc mới đều là người nhập cảnh. Hiện nước ta ghi nhận 2.833 ca mắc, 35 ca tử vong và đã 32 ngày không ghi nhận ca mắc mới do lây nhiễm trong nước.
-Cũng trong khoảng thời gian này, tại Hà Nội ghi nhận 3 ca mắc mới là người từ nước ngoài về được cách ly ngay sau khi nhập cảnh. Đặc biệt trong tuần qua, phát sinh 3 trường hợp nhập cảnh trái phép từ Campuchia về qua sân bay Nội Bài rồi bắt taxi đi thẳng về Thái Nguyên và Bắc Ninh. Hiện 3 trường hợp đã được cách ly y tế, xét nghiệm cho kết quả âm tính lần 1.
-Sau khi thông tin về cách hoạt động phòng, chống dịch đã triển khai trong thời gian qua, ông Hạnh nhận định mặc dù dịch bệnh trên địa bàn Hà Nội cũng như đã được kiểm soát tuy nhiên nguy cơ vẫn ở mức cao.
-"Do dịch bệnh được khống chế dẫn đến một số nơi có biểu hiện chủ quan, lơ là trong công tác phòng, chống dịch. Đặc biệt trong dịp nghỉ lễ 30/4 và 1/5 sắp tới, dự báo lượng người du lịch đi lại nhiều hơn, tình trạng tập trung đông người sẽ gia tăng như vậy nguy cơ dịch bệnh sẽ cao hơn…" - ông Hạnh nhận định.
-Phó Chủ tịch UBND thành phố, Trưởng Ban Chỉ đạo phòng, chống dịch Covid-19 thành phố Hà Nội Chử Xuân Dũng tại cuộc họp chiều 26/4 (Ảnh: Nguyễn Trường).
-Hậu quả rất lớn nếu có 1 ca dương tính trên địa bàn thành phố
-Kết luận tại phiên họp, Phó Chủ tịch UBND thành phố, Trưởng Ban Chỉ đạo phòng, chống dịch Covid-19 thành phố Hà Nội Chử Xuân Dũng đề nghị các Sở, ngành, địa phương tiếp tục thực hiện nghiêm, siết chặt công tác phòng chống, dịch và sẵn sàng ứng phó với dịch Covid-19.
-"Nâng mức cảnh báo nguy cơ bùng phát dịch tại Hà Nội lên mức độ cao. Tăng cường công tác kiểm tra, xử phạt. Các đoàn kiểm tra của TP tăng cường kiểm tra, xử phạt việc tuân thủ các biện pháp phòng chống dịch, chuẩn bị sẵn sàng ứng phó khi có ca dương tính, sẵn sàng ở mức độ cao nhất ứng phó với dịch bệnh…" - ông Dũng nhấn mạnh.
-Phó Chủ tịch UBND TP Chử Xuân Dũng tiếp tục yêu cầu các đơn vị chủ động trong công tác phòng, chống dịch. Theo đó, chuẩn bị sẵn sàng mọi điều kiện cơ sở vật chất, trang thiết bị; khi phát hiện ca bệnh phải khoanh vùng, cách ly ngay, không để lây lan diện rộng và tránh ảnh hưởng đến sinh hoạt của người dân.
-Thành phố hạn chế tổ chức các sự kiện, hoạt động đông người; tiếp tục triển khai tiêm vắc xin đợt 2 bảo đảm an toàn, hiệu quả; tăng cường giám sát về nhập cảnh, nhất là các điều kiện trước khi nhập cảnh; đảm bảo an toàn tại các cơ sở cách ly…
-"Phải ngăn chặn rủi ro, tránh ý thức chủ quan của các ban chỉ đạo, các đoàn kiểm tra thực hiện không nghiêm túc, người dân chủ quan lơ là dẫn đến hậu quả rất lớn khi mà có 1 ca dương tính trên địa bàn thành phố" - ông Dũng nhấn mạnh.
-Nguyễn Trường
+# url = https://dantri.com.vn/xa-hoi/ngam-tuyen-metro-dau-tien-cua-tphcm-sau-gan-10-nam-cho-doi-20210501134745643.htm
+# date = 20210501
+Ngắm tuyến metro đầu tiên của TPHCM sau gần 10 năm chờ đợi
+Dự án metro số 1 (Bến Thành - Suối Tiên) có tổng vốn đầu tư hơn 47.300 tỷ đồng, được khởi công từ năm 2012. Đến nay, dự án đang tăng tốc về đích và dự kiến vận hành sau năm 2021.
+Những ngày tháng 4 nắng nóng, các kỹ sư, công nhân trên khắp các công trường tuyến metro Bến Thành - Suối Tiên vẫn hăng say làm việc để sớm vận hành tuyến đường sắt đô thị đầu tiên của TPHCM. Dự án có ý nghĩa quan trọng đối với hệ thống giao thông đô thị, góp phần phát triển kinh tế, xã hội, nâng cao chất lượng sống người dân.
+Tuyến metro này dài 19,7km (gồm 2,6km đi ngầm và 17,1km đi trên cao) với 14 nhà ga, trong đó có 3 ga ngầm và 11 ga trên cao.Tuyến bắt đầu từ ga trung tâm Bến Thành và kết thúc tại Depot Long Bình, TP Thủ Đức, rộng 20ha. Tuyến được định hướng kéo dài từ ga Suối Tiên đến Bình Dương và đến TP Biên Hòa, tỉnh Đồng Nai trong tương lai.
+Dự án metro số 1 có 4 gói thầu chính và hiện khối lượng thi công đạt hơn 84%. Trong đó, gói số 1 là xây dựng đoạn đi ngầm gồm 2 gói thầu. Gói thầu 1a (từ ga trung tâm Bến Thành - ga Nhà hát TP) bao gồm nhà ga ngầm Bến Thành và đoạn hầm metro dài gần 520m.
+Được khởi công từ tháng 11/2016, hình hài ga Bến Thành gần như đã hoàn chỉnh với 4 tầng hầm như thiết kế. Phần kết cấu công trình đã hoàn thành và đang thi công phần cơ điện. Đến nay, khối lượng thi công đạt khoảng 87% và dự kiến hoàn thành cuối năm nay.
+Nhà ga nằm ngầm sâu dưới lòng đất ngay khu vực công trường Quách Thị Trang, ngay cổng chính chợ Bến Thành. Ga Bến Thành dàiđến236m, rộng từ 55-60m, sâu 31m, với 4 tầng ngầm.
+Trong đó, tầng B1 là khu vực phục vụ hành khách với 10 máy bán vé tự động, 2 cổng kiểm soát vé tự động, mỗi cổng có 6 lối đi… Tầng B2 là khu vực đón, trả hành khách lên xuống tàu.
+Hành khách có thể vào nhà ga Bến Thành bằng 6 lối, trong đó có lối số 4 và 5 là lối ngầm từ trung tâm thương mại, lối số 3 từ chợ Bến Thành.
+Điểm khác biệt của nhà ga Bến Thành so với2 ga ngầm còn lại là có"giếng trời" lấy ánh sáng tự nhiên. Đường kính giếng rộng 20m, thông qua tầng hầm B1 có chiều cao 7m. Giếng trời khổng lồ đang được gấp rút thi công, từ trên cao nhìn xuống, hành khách có thể thấy rõquang cảnh sảnh nhàga ngầm này.
+Trong tương lai, nhà ganày không chỉ là ga trung tâm của tuyến metro số 1 mà còn là trung tâm kết nối hệ thống metro của toàn TPHCM. Các tuyếnmetro số 2 (Bến Thành - Tham Lương), metro 3A (Bến Thành - Tân Kiên), metro số 4 (Thạnh Xuân - Khu đô thị Hiệp Phước) cũng sẽ xuất phát từ ga này.
+Gói thầu 1b (từ ga Nhà hát TP - ga Ba Son) gồm 2 nhà ga ngầm và đoạn hầm metro dài 1.315m. Được khởi công từ tháng 8/2014, đến nay khối lượng thi công đạt hơn 95%, dự kiến hoàn thành vào tháng 6 này.
+Ga Nhà hát có 4 tầng ngầm, được thiết kế với chiều dài 190m, rộng trung bình 26m và độ sâu là 33m.
+Nhà ga có 5 lối lên xuống cho hành khách mua vé đi metro. Ngoài ra, hành khách có thể vào ga Nhà hát bằng lối kết nối với trung tâm thương mại gần cửa số 4. Trong nhà ga có hệ thống thang bộ, thang cuốn... để hành khách có thể chọn lựa sử dụng khi di chuyển.
+Tầng 1 sẽ là khu vực phục vụ hành khách với 14 máy bán vé tự động, được chia đều ở 2 đầu nhà ga. Ngoài ra, hành khách cũng có thể mua vé theo cách truyền thống tại phòng vé.
+Tầng B2 và B4 là nơi đón, trả khách, còn tầng B3 là nơi đặt máy móc, thiết bị. Các tầng đã cơ bản xong phần xây dựng kết cấu và đang thi công phần cơ điện.
+Khu vực ga ngầm thuộc Nhà ga Ba Son được thiết kế dài 240m, bề rộng trung bình khoảng 35m với 2 tầng ngầm, sâu 17m.
+Tầng 1 gồm các trang thiết bị phục vụ hành kháchnhư:sảnh đợi, máy bán vé, cổng thu phí tự động,phòng hướng dẫn thông tin cho hành khách.Tầng 2 là sân ga, nơi tàu dừng, đỗ để đón và trả khách.
+Các tầng bên dưới mặt đất của nhà ga Ba Son vẫn đang khẩn trương gấp rút thi công hoàn thiện phần kiến trúc nội thất và cơ điện.
+Nhà ga Ba Son có 8 máy bán vé tự động, với 5 cửa lên xuống.Bên cạnh đó, nhà ga còn có 2 lối ngầm kết nối với các trung tâm thương mại. Theo đó, hành khách có thể đến nhà ga thông qua lối này.
+Ga Nhà hát nối với ga Ba Son bằng 2 đoạn ngầm dài 781m, được thi công bằng máy khoan đào TBM, lần đầu tiên áp dụng khi thi công dự án đô thị Việt Nam.
+Ở trên mặt đất, chiều 28/4, hàng rào tôn dài gần 150m hai bên đường Lê Lợi (đoạn từ Nguyễn Huệ đến Pasteur) được tháo dỡ sau 7 năm rào chắn thi công ga Nhà hát TP để tổ chức cho xe lưu thông 2 chiều.
+Hàng rào tôn án ngữ phía trước được tháo dỡ mang lại niềm phấn khởi cho người dân hai bên đường Lê Lợi, bởi nhiều năm qua, việc kinh doanh gặp khó khăn, trì trệ.
+"Bảy năm qua bị rào chắn nên không kinh doanh gì được. Bây giờ, mình thấy vui, phấn khởi và sẽ mở rộng kinh doanh, buôn bán tại nhà", chị Trần Thị Thúy Oanh chia sẻ khi đường Lê Lợi được trả lại mặt bằng, cho xe lưu thông.
+Còn ông Mai Thanh Bình hy vọng đường Lê Lợi thông thoáng, cảnh quan đẹp sẽ giúp việc kinh doanh suôn sẻ, tốt đẹp hơn.
+Trước đó, dịp lễ 30/4 năm 2020, mặt bằng phía trước Nhà hát TP cũng được hoàn trả, thiết lập mảng xanh, hoa cảnh. Hoàn chỉnh đường lưu thông từ Nguyễn Huệ đến Đồng Khởi, tạo điều kiện thuận lợi cho người dân tham gia giao thông.
+Gói thầu số 2 là xây dựng đoạn đi trên cao và depot dài 17,1km từ ga Ba Son đến địa bàn Bình Dương. Được khởi công từ tháng 8/2012, đến nay khối lượng thi công đạt hơn 92%.
+Đoạn trên cao gồm có 5 cây cầu đặc biệt là Văn Thánh, Điện Biên Phủ, Sài Gòn, Rạch Chiếc và cầu vượt xa lộ Hà Nội (vượt qua xa lộ vào depot Long Bình), khối lượng thi công đạt hơn 96%. Gọi là cầu đặc biệt vì không thi công lắp ghép theo hệ đà giáo di động mà theo công nghệ đúc hẫng cân bằng - đúc tại chỗ.
+Khối lượng thi công phần cơ điện các nhà ga đạt hơn 83%, xây tường các nhà ga đạt hơn 98%, trạm biến áp đạt hơn 92%, kết cấu thép nhà ga hơn 99%, depot đạt hơn 58%.
+Gói số 3 là mua thiết bị cơ điện, đường ray, toa xe và bảo dưỡng. Khối lượng công việc đạt hơn 68%. Toàn tuyến metro số 1 có 17 đoàn tàu (mỗi tàu 3 toa). Tốc độ tối đa thiết kế là 110km/h (đoạn trên cao) và 80km/h (đoạn hầm). Đoàn tàu 3 toa xe có thể chở 930 khách, trong đó ngồi 147 khách và đứng là 783 khách.
+Tháng 10/2020, sau hải trình hơn 1 tuần, 3 toa tàu đầu tiên của metro số 1 cập cảng Khánh Hội. Sau đó được xe siêu trường vận chuyển về Depot Long Bình.
+Ngày 1/5, hai đoàn tàu 3 toa xuất phát từ nhà máy Kasado Works (Nhật Bản) và cập cảng TPHCM sau 9 ngày trên biển. Sau khi hạ tải và thông quan, hai đoàn tàu sẽ được đưa về Depot Long Bình.
+Tháng 2/2021, chủ đầu tư và nhà thầu đã triển khai thi công hạng mục hệ thống cấp điện trên toàn tuyến metro số 1 với mục tiêu kết nối nguồn điện từ 2 trạm điện 110kV Bình Thái và Tân Cảng để cấp nguồn cho các trạm điện nhà ga. Sự kiện đánh dấu bước chuyển giai đoạn mạnh mẽ của dự án từ thi công kết cấu hạ tầng sang bước chuẩn bị cho giai đoạn vận hành thử nghiệm các thiết bị và chạy thử.
+Gói thầu số 4 là hệ thốngcông nghệ thông tin cho Văn phòngCông ty Khai thác vận hành.Tháng 11/2020, Ban Quản lý Đường sắt đô thị TPHCM (chủ đầu tư) và Trung tâm công nghệ và truyền thông TPHCM đã ký kết hợp đồng gói thầu "tư vấn thẩm tra thiết kế và dự toán gói thầu số 4". Hiện nay chủ đầu tư đang chuẩn bị các bước lập hồ sơ mời thầu.
+Dự kiến, thời điểm đưa vào khai thác là quý IV/2021. Tuy nhiên, thời gian qua, tuyến metro số 1 gặp một số vướng mắc và những hệ lụy phát sinh từ dịch Covid-19 nên ảnh hưởng đến tiến độ dự án.Dođó, dự kiến trong quý IV/2021 chỉmớivận hành thử đoạn trên cao Long Bình - Bình Thái.
+Quốc Anh - Nguyễn Quang

@@ -1,26 +1,14 @@
 # doc_id = news_health_166
-# url = https://dantri.com.vn/suc-khoe/neu-co-nhung-dau-hieu-nay-ban-chac-chan-bi-sa-sut-tri-tue-20210426082432180.htm
-# date = 20210426
-Nó không phải là một bệnh cụ thể, mà nhiều bệnh khác nhau có thể gây ra sa sút trí tuệ. Đó là lý do tại sao việc phát hiện ra nguyên nhân là rất quan trọng.
-1. Bệnh Alzheimer là gì?
-Theo CDC, Alzheimer dạng sa sút trí tuệ phổ biến nhất, là nguyên nhân gây tử vong đứng hàng thứ sáu đối với người trưởng thành ở Mỹ và ảnh hưởng đến hơn một triệu người. Và không giống như các bệnh khác, chẳng hạn như ung thư và bệnh tim, tỷ lệ tử vong do Alzheimer đang tăng lên theo thời gian. Không có cách chữa khỏi bệnh Alzheimer và bệnh trí nhớ đang tiến triển. Vì nó liên quan đến phần não kiểm soát tư duy, ký ức và ngôn ngữ, nó có thể bắt đầu nhẹ và cuối cùng khiến một người mất khả năng thực hiện các hoạt động hàng ngày.
-2. Nguyên nhân nào gây ra bệnh Alzheimer
-Có rất nhiều điều chưa biết về nguyên nhân gây ra bệnh Alzheimer. Chúng ta biết rằng bệnh nhân Alzheimer bị tích tụ protein amyloid trong não và hầu hết bệnh nhân cũng tích tụ quá mức protein thứ hai, được gọi là tau. Cả hai loại protein này đều có thể gây độc cho tế bào não.
-Vậy nguyên nhân gây ra bệnh Alzheimer, nói ngắn gọn là cái chết của tế bào não.
-3. Những dấu hiệu nào cho thấy bạn bị sa sút trí tuệ
-Các triệu chứng của bệnh Alzheimer thường bắt đầu sau tuổi 60. Có nhiều triệu chứng của bệnh cần chú ý, hầu hết chúng liên quan đến trí nhớ.
-Ai cũng có lúc quên thứ này thứ khác, nhưng nếu bạn hoặc người thân liên tục quên cuộc hẹn, mất những đồ đạc quan trọng như ví hoặc điện thoại, khó giữ đúng lịch hoặc thời gian trong ngày hoặc lặp đi lặp lại cùng một câu hỏi hoặc câu chuyện thì đó là dấu hiệu báo động. Các triệu chứng khác có thể bao gồm khó tìm đường đi, ngay cả khi đang trên hành trình quen thuộc, khó theo dõi các công việc phức tạp mà bạn đã từng quản lý một cách dễ dàngnhư nấu nhiều món cùng một lúc cho bữa tối hoặc theo dõi các hóa đơn và quản lý sổ sách, và trở nên ít quan tâm hơn đến các hoạt động xã hội, lo lắng hơn hoặc trầm cảm hơn.
-4. Làm thế nào để xác định nguy cơ?
-Mặc dù đã có rất nhiều nghiên cứu nhưng các nhà khoa học vẫn chưa biết chính xác nguyên nhân gây ra bệnh Alzheimer. Tuy nhiên, có một số yếu tố nguy cơ của bệnh Alzheimer mà mọi người cần lưu ý:
-• Tuổi: Hầu hết bệnh nhân được chẩn đoán mắc bệnh sau 60 tuổi, tuy nhiên, bệnh cũng có thể xảy ra ở những người trẻ hơn. Theo CDC, số người mắc bệnh tăng gấp đôi sau mỗi 5 năm kể từ tuổi 65.
-• Giới tính: Gần 2/3 số người mắc bệnh Alzheimer là phụ nữ, theo Hiệp hội bệnh Alzheimer (AA).
-• Chủng tộc: AA cũng chỉ ra rằng chủng tộc cũng đóng vai trò. Người Mỹ gốc Phi lớn tuổi có nguy cơ mắc bệnh này cao gấp đôi so với người da trắng lớn tuổi, trong khi người gốc Tây-Bồ có nguy cơ mắc bệnh cao gấp rưỡi.
-• Tiền sử gia đình: Nếu có tiền sử gia đình mắc bệnh Alzheimer, các nhà nghiên cứu tin rằng nó có thể làm tăng cơ hội phát triển bệnh này.
-• Thay đổi não: Theo các nhà nghiên cứu, những thay đổi trong não có thể bắt đầu nhiều năm trước khi các triệu chứng đầu tiên xuất hiện.
-• Huyết áp cao và cholesterol cao: Các nhà khoa học tin rằng bệnh tim và các yếu tố nguy cơ đột quỵ cũng có thể dự đoán bệnh Alzheimer's. Chúng bao gồm huyết áp cao và cholesterol cao.
-Các yếu tố nguy cơ có thể có khác có thể bao gồm giáo dục, chế độ ăn uống và môi trường. Tuy nhiên, cần nghiên cứu thêm để xác định mối liên quan chính xác.
-5. Làm thế nào để giảm thiểu nguy cơ?
-Mặc dù các nhà khoa học vẫn chưa biết chính xác lý do tại sao một số người phát triển bệnh Alzheimer và những người khác thì không, nhưng bạn không hoàn toàn bất lực trước nguy cơ mắc bệnh Alzheimer. Theo các chuyên gia, khoảng một phần ba nguy cơ - nghĩa là rất nhiều - nằm trong tầm kiểm soát của bạn.
-Một số lựa chọn lối sống - chẳng hạn như hoạt động thể chất và chế độ ăn - có thể giúp hỗ trợ sức khỏe não bộ và ngăn ngừa bệnh Alzheimer. Ngày càng có nhiều bằng chứng cho thấy các hoạt động tinh thần và xã hội cũng có thể giúp giảm nguy cơ mắc bệnh.
-Bệnh mạch máu - do những nguyên nhân như hút thuốc lá, huyết áp cao, cholesterol cao và bệnh tiểu đường - có thể làm tăng sự tích tụ amyloid và tăng nguy cơ mắc bệnh Alzheimer. Do đó, ăn uống lành mạnh và giữ huyết áp trong tầm kiểm soát cũng có thể giúp phòng ngừa bệnh.
-Cẩm Tú
+# url = https://dantri.com.vn/suc-khoe/nghe-an-phat-hien-ca-duong-tinh-sars-co-v-2-trong-khu-cach-ly-20210429095420459.htm
+# date = 20210429
+Ngày 29/4, ông Nguyễn Văn Định - Giám đốc Trung tâm Kiểm soát bệnh tật tỉnh Nghệ An cho PV Dân trí biết, sáng cùng ngày đơn vị này vừa có kết quả xét nghiệm dương tính với SARS-CoV-2 của một bệnh nhân đang được cách ly tại khu cách ly tập trung của tỉnh. Đây là ca nhiễm thứ 4 trên địa bàn tỉnh này.
+Theo ông Định, ca nhiễm thứ 4 này nằm trong đoàn trở về từ Nhật Bản vào hôm 14/4 và ở cùng phòng với ca nhiễm thứ 3 trước đó.
+"Sau khi cách ly đoàn công dân trở về từ nước ngoài này thì xét nghiệm có 2 ca nhiễm Covid-19. Ít ngày sau, có thêm 1 ca nhiễm thứ 3 trong đoàn này.
+Cơ quan chức năng chuyển ca nhiễm thứ 3 vào bệnh viện điều trị. Người ở cùng phòng trở thành F1 và được chuyển cách ly riêng nghiêm ngặt. Hôm nay, trường hợp F1 này đã có kết quả dương tính với SARS-CoV-2 nâng lên thành 4 ca nhiễm", ông Định nói.
+Khách sạn Mường Thanh Con Cuông nơi cách ly tập trung cho đoàn công dân trở về từ nước ngoài và có 4 ca nhiễm Covid-19.
+Hiện ca nhiễm thứ 4 này đã được chuyển vào Bệnh viện đa khoa khu vực Tây Nam để tiếp tục điều trị.
+Được biết, trước đó tỉnh Nghệ An liên tiếp đón hai chuyến bay giải cứu công dân từ Nhật Bản và Hàn Quốc về nước thông qua Cảng hàng không Quốc tế Vinh. Tổng số công dân hai chuyến bay này lên tới gần 500 người bao gồm chuyến bay ngày 14/4 có 224 người và chuyến bay ngày 17/4 với số người là 248. Những công dân này sau khi xuống sân bay đều được đo thân nhiệt, thực hiện đầy đủ quy trình và biện pháp dịch tễ.
+Sau đó, các công dân này được di chuyển về các khu cách ly đã được bố trí sẵn, lấy mẫu xét nghiệm, theo dõi sức khỏe chặt chẽ và kịp thời phát hiện để đưa vào cơ sở y tế điều trị khi ghi nhận nhiễm SARS-CoV-2.
+Công tác phòng chống dịch bệnh tại tỉnh Nghệ An hiện đang được triển khai hết sức cẩn trọng. Nhân lực, vật lực cho việc phòng và điều trị đều đã được sắp xếp, tăng cường đầy đủ đảm bảo tối đa nhất tại các cơ sở cách ly và cơ sở y tế.
+Hiện tỉnh Nghệ An đã triển khai việc tiêm phòng vắc xin đối với các đối tượng tuyến đầu chống dịch, các y bác sĩ tại bệnh viện tuyến tỉnh, những nhân viên y tế làm nhiệm vụ liên quan trực tiếp, phải tiếp xúc với nhiều mối đe dọa liên quan dịch bệnh Covid-19.
+Nguyễn Duy

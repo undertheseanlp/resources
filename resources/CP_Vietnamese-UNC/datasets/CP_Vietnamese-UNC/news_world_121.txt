@@ -1,14 +1,14 @@
 # doc_id = news_world_121
-# url = https://dantri.com.vn/the-gioi/indonesia-cap-toc-tim-tau-ngam-cho-53-nguoi-mat-tich-bi-an-20210421181501016.htm
-# date = 20210421
-Tàu ngầm Indonesia KRI Nanggala 402 (Ảnh: Facebook/Pusat Penerangan TNI).
-Reuters đưa tin, hải quân Indonesia hôm nay, 21/4, thông báo họ đang tìm kiếm một tàu ngầm bị mất tích cùng 53 người, đồng thời kêu gọi Australia và Singapore giúp đỡ.
-Theo đó, tàu ngầm KRI Nanggala-402 biến mất bí ẩn khi nó đang thực hiện một cuộc tập trận ngư lôi ở phía bắc đảo Bali vào ngày 21/4.
-Báo Kompas dẫn lời Tư lệnh lực lượng vũ trang quốc gia Indonesia Hadi Tjahjanto cho hay, tàu ngầm biến mất ở vùng biển cách đảo Bali khoảng 95 km vào lúc 4h30 giờ sáng nay (giờ địa phương).
-"Ngay khi tàu ngầm được cho phép lặn, liên lạc đã ngay lập tức bị đứt đoạn", ông Tjahjanto cho hay.
-Con tàu mất tích được đóng ở Đông Đức vào năm 1979 và là 1 trong số 5 tàu ngầm của Indonesia.
-Phía bộ quốc phòng Australia và Singapore chưa đưa ra bình luận khi hãng tin Reuters đề nghị.
-Trước đó, tàu ngầm có trọng lượng 1.395 tấn đã được tân trang lại trong 2 năm tại Hàn Quốc và nhiệm vụ này hoàn thành vào năm 2012. Hiện Indonesia có 2 tàu ngầm Type 209 do Đức đóng (bao gồm cả chiếc mất tích) và 3 tàu ngầm mới hơn do Hàn Quốc đóng.
-Theo Reuters, Indonesia vẫn đang nỗ lực trong việc nâng cao năng lực quốc phòng trong bối cảnh nhiều khí tài quân sự vẫn đang phục vụ trong biên chế của nước này đã cũ và chúng từng liên quan tới một số vụ tai nạn chết người trong những năm gần đây.
-Đức Hoàng
-Theo Reuters, DW
+# url = https://dantri.com.vn/the-gioi/indonesia-phat-hien-manh-moi-moi-ve-nguyen-nhan-khien-tau-ngam-bi-dam-20210428055835557.htm
+# date = 20210428
+Straits Times dẫn lời hai quan chức cấp cao của Hải quân Indonesia ngày 27/4 cho biết, chuyển động mạnh của sóng ngầm ở khu vực tàu ngầm KRI Nanggala 402 diễn tập sáng 21/4 có thể đã khiến con tàu bị chìm.
+Ảnh chụp từ vệ tinh thời tiết Himawari-8 của Nhật Bản và châu Âu xác nhận sự hiện diện của sóng ngầm này gần vị trí của KRI Nanggala 402 trùng thời điểm con tàu mất tích.
+Chuẩn Đô đốc Hải quân Indonesia Iwan Isnurwanto giải thích, có một sự chênh lệch lớn về khối lượng riêng của nước ở eo biển Lombok và nước biển phía bắc Bali, nơi xác tàu ngầm KRI Nanggala 402 được tìm thấy.
+"Chúng ta thử hình dung khoảng 2 triệu đến 4 triệu m3 khối nước đổ ập vào, liệu ai có thể chống cự được. Tàu KRI Nanggala 402 lặn xuống độ sâu 13m và gặp phải sóng ngầm này", Chuẩn Đô đốc Iwan nói. Ông cho biết thêm: "Chúng tôi vẫn tiếp tục điều tra, và sẽ mất một thời gian. Chúng tôi sẽ mời các chuyên gia về tàu ngầm cả trong nước và quốc tế tham gia".
+Tàu ngầm KRI Nanggala 402 của Hải quân Indonesia gặp nạn sáng 21/4 khi đang diễn tập phóng ngư lôi ngoài khơi Bali. Sau nỗ lực tìm kiếm quy mô lớn với sự hỗ trợ của quốc tế, Indonesia phát hiện xác con tàu hôm 25/4 ở độ sâu 838m, ở vị trí không xa nơi con tàu đã lặn xuống. Toàn bộ 53 thủy thủ trên tàu đều được xác nhận đã thiệt mạng.
+Hình ảnh được cho là xác tàu ngầm KRI Nanggala 402 được tàu cứu hộ ghi lại ở độ sâu hơn 800m (Ảnh: Guardian).
+Giới chức hải quân Indonesia loại trừ giả thuyết con tàu gặp nạn do lỗi con người, đồng thời bác bỏ ý kiến cho rằng thảm kịch là do sai sót trong quá trình nâng cấp.
+Họ cho rằng, con tàu có thể đã gặp sự cố mất điện và chìm xuống độ sâu khoảng 600m - 700m, vượt quá giới hạn tối đa 500m mà con tàu có thể chống chịu, do vậy con tàu bị nứt vỡ làm nhiều mảnh do áp suất của nước. Lực lượng tìm kiếm đã vớt được một mảnh vỡ được cho là từ bệ phóng ngư lôi của tàu ngầm cùng một số vật dụng cá nhân, một mảnh áo thoát hiểm. Theo giới chức Indonesia, áo thoát hiểm này vốn được cất trong "hộp khẩn cấp", rất có thể thủy thủ trên tàu đã lấy nó ra khi con tàu gặp nạn nhưng không kịp mặc.
+Một số ý kiến cho rằng, con tàu 44 tuổi này gặp nạn do đã quá cũ và chở quá số người quy định tối đa 38 người. Tuy nhiên, tất cả chỉ dừng lại ở phán đoán.
+Trong thời gian tới, Indonesia muốn trục vớt con tàu và thủy thủ đoàn với sự hỗ trợ của cộng đồng quốc tế nhằm phục vụ quá trình điều tra làm sáng tỏ vụ tai nạn. Các chuyên gia cho rằng, việc trục vớt con tàu ở độ sâu hơn 800m là khả thi nhưng là một thách thức không dễ dàng đòi hỏi nỗ lực hậu cần rất lớn. Hơn nữa, nhiệm vụ này có thể tiêu tốn nhiều thời gian và tài chính.
+Minh PhươngTheo Straits Times

@@ -1,14 +1,16 @@
 # doc_id = news_world_123
-# url = https://dantri.com.vn/the-gioi/indonesia-phat-hien-manh-moi-quan-trong-vu-tau-ngam-cho-53-nguoi-mat-tich-20210421204841533.htm
-# date = 20210421
-Tàu ngầmKRI Nanggala 402 (Ảnh: Getty).
-Reuters đưa tin, Bộ Quốc phòng Indonesia cho hay nỗ lực tìm kiếm từ trên không tàu ngầm KRI Nanggala-402 đã phát hiện ra một vết tràn dầu ở gần nơi con tàu chìm xuống trước đó.
-"Đội tìm kiếm trên trực thăng đã phát hiện vết tràn dầu ở nơi tàu ngầm chìm xuống", quân đội Indonesia thông báo.
-Sáng sớm ngày 21/4, KRI Nanggala-402 biến mất bí ẩn khi nó đang thực hiện một cuộc tập trận ngư lôi ở phía bắc đảo Bali. Vị trí mất tích cách Bali 95 km.
-Đại diện phía lực lượng vũ trang quốc gia Indonesia cho hay, khi tàu được cho phép lặn xuống, liên lạc đã bị đứt đoạn ngay lập tức.
-Ngoài tìm kiếm bằng trực thăng, quân đội Indonesia đã cấp tập điều 2 tàu hải quân với khả năng sử dụng sóng âm phản xạ để tìm kiếm tàu mất tích. Trong các tàu này, có một tàu khảo sát thủy văn. Ngoài ra, Indonesia cũng đề nghị Singapore và Australia hỗ trợ vì những nước này sở hữu tàu cứu hộ tàu ngầm.
-Tàu ngầm mất tích nằm trong số 5 tàu của Indonesia đang hoạt động trong biên chế, gồm 2 chiếc do Đức đóng hàng chục năm trước (bao gồm KRI Nanggala-402), cùng 3 tàu ngầm mới hơn do Hàn Quốc đóng.
-Truyền thông địa phương đưa cho biết, hải quân Indonesia cho rằng tàu ngầm mất tích đã chìm xuống khu vực ở độ sâu 700 mét.
-Con tàu mất tích được Đông Đức đóng năm 1979 và vào biên chế Indonesia năm 1981.
+# url = https://dantri.com.vn/the-gioi/indonesia-phong-doan-nguyen-nhan-tau-ngam-cho-53-nguoi-mat-tich-bi-an-20210422063552651.htm
+# date = 20210422
+Tàu ngầm KRI Nanggala tham gia một cuộc tập trận năm 2017 (Ảnh: AP).
+Sáng sớm ngày 21/4, tàu ngầm KRI Nanggala 402 chở theo thủy thủ đoàn 53 người biến mất bí ẩn khi tham gia một cuộc tập trận ngư lôi ở phía bắc đảo Bali.
+Con tàu được cho đã mất tích ở khu vực cách Bali 95 km ngay sau khi nó được phía chỉ huy tập trận cho phép lặn xuống.
+Hải quân Indonesia cho biết, sự cố về điện có thể đã xảy ra trong lúc tàu làm nhiệm vụ, khiến nó bị mất kiểm soát và không thể thực hiện các thao tác và quy trình khẩn cấp để nó có thể nổi lại lên mặt nước. Lực lượng trên ban đầu cho rằng tàu ngầm bị chìm ở độ sâu 500 mét dưới mực nước biển, nhưng sau đó cho rằng có thể là 700 mét.
+"Hãy cầu nguyện cho họ để họ có thể vượt qua được sự cố này", Phát ngôn viên Hải quân Indonesia Julius Widjojono nói.
+Tuy nhiên, Phó đô đốc hải quân Pháp Antoine Beaussant nói với AFP rằng, các tàu ngầm thường có độ lặn sâu an toàn là 250 mét, và "nếu nó chìm xuống ở độ sâu 700 mét thì có khả năng là tàu có thể sẽ bị vỡ".
+Đồ họa cho thấy vị trí tàu ngầm mất tích (Đồ họa: BBC).
+Hải quân Indonesia đã triển khai nhiều tàu tìm kiếm tới khu vực, và đồng thời để nghị các nước có tàu giải cứu tàu ngầm như Singapore và Australia hỗ trợ.
+Hiện cuộc tìm kiếm phát hiện ra một vết dầu loang ở gần nơi con tàu lặn xuống và biến mất.
+KRI Nanggala 402 là tàu ngầm tấn công chạy bằng diesel - điện do Đông Đức đóng và vào biên chế Indonesia từ năm 1981. Nó hiện là 1 trong 5 tàu ngầm vẫn đang phục vụ trong hải quân của quốc gia này.
+Trong quá trình hoạt động, con tàu đã được nâng cấp vài lần trong các năm 1989 ở Đức và 2012 ở Hàn Quốc.
 Đức Hoàng
-Theo Reuters
+Theo Guardian

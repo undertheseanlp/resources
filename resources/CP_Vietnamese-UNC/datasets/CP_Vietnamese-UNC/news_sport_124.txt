@@ -1,27 +1,14 @@
 # doc_id = news_sport_124
-# url = https://dantri.com.vn/the-thao/hlv-kiatisuk-thang-clb-ha-noi-ha-gia-lai-da-co-trang-su-moi-20210418194342601.htm
-# date = 20210418
-PV: Xin ông cho biết vì sao Xuân Trường khóc sau trận đấu?
-HLV Kiatisuk: Sau thời gian tập luyện nhiều, Xuân Trường ghi bàn đẹp nên xúc động.
-Cảm xúc của ông thế nào khi thắng CLB Hà Nội?
-HA Gia Lai có sự chuẩn bị và hiểu CLB Hà Nội. Thực sự chúng tôi muốn có sự chuẩn bị tốt nhất để xóa hình ảnh thua, viết nên trang sử mới, mở màn chương mới cho đội bóng.
-Chúng tôi tôn trọng đối thủ. Vấn đề là chúng tôi khóa các cầu thủ chủ chốt của Hà Nội như Quang Hải, Văn Quyết… không cho họ có cơ hội, khoảng trống để tấn công.
-HLV Kiatisuk tự hào sau khi HA Gia Lai đánh bại CLB Hà Nội.
-Sau trận thắng này ông đã nghĩ tới ngôi vô địch V-League chưa?
-Chúng tôi chưa suy nghĩ nhiều tới ngôi vô địch khi giai đoạn 1 LS V-League 2021 chưa kết thúc. Sắp tới HA Gia Lai chạm trán nhiều đối thủ mạnh. Chúng tôi tập trung từng trận đấu một. Nếu chủ quan, CLB Viettel áp sát ngay. Đó là lý do chúng tôi phải thi đấu tập trung.
-Ông làm thế nào để duy trì thể lực cho các cầu thủ của mình?
-HA Gia Lai có 26 cầu thủ. Tôi luôn nhắc nhở các bạn phải hiểu được chiến thuật, để thực hiện được ngay. Chúng tôi chia sẻ được cho nhau về mật độ thi đấu, thể lực. Rất may các ca chấn thương hồi phục.
-Ông có hài lòng về sự cống hiến của cả hai đội?
-Trận hôm nay giống như một trận đấu đội tuyển Việt Nam thu nhỏ. Chúng tôi cống hiến một trận đấu hay, hấp dẫn, không chỉ để dành cho khán giả Việt Nam mà còn với khán giả khu vực Đông Nam Á.
-Thông tin HA Gia Lai muốn tấn công đấu trường châu lục cụ thể là thế nào, thưa ông?
-Tôi muốn HA Gia Lai chơi ở AFC Cup chứ không phải AFC Champions League. Không nên gây áp lực cho các cầu thủ.
-HA Gia Lai dường như rút ra được nhiều bài học sau trận thắng vất vả trước Nam Định?
-Thực sự chúng tôi có bài học quý giá khi đấu với Nam Định. Việc chủ quan suýt nữa phải trả giá. Rất may HA Gia Lai đã thắng. Tôi đã nhắc nhở, giúp cầu thủ cân bằng.
-Không có bầu Đức trên sân, ông có cảm thấy HAGL dễ đá hơn không?
-Bầu Đức có đến sân hay không không quan trọng, chúng tôi chỉ tập trung cho trận đấu thôi.
-Lối chơi của HA Gia Lai hiện tại có cần cải thiện, đặc biệt là sơ đồ chiến thuật?
-Khi đã làm đội tuyển Thái Lan tôi đã xây dựng nhiều sơ đồ chiến thuật, nhưng với HA Gia Lai cần nhuần nhuyễn sơ đồ hiện tại. Đây là trách nhiệm của HLV, phải giúp cầu thủ hiểu được hết các sơ đồ chiến thuật.
-Ông đánh giá thế nào về ba trận đấu sắp tới?
-Ba trận cuối của giai đoạn 1 V-League đội bóng nào cũng muốn đánh bại HA Gia Lai nên chúng tôi phải thận trọng.
-Xin cảm ơn ông!
-Thùy Linh
+# url = https://dantri.com.vn/the-thao/hlv-koeman-noi-gi-sau-khi-nhan-the-do-trong-tran-thua-soc-cua-barcelona-20210430091145146.htm
+# date = 20210430
+HLV Koeman đã phải nhận thẻ đỏ đồng thời chứng kiến đội nhà thua cay đắng trước đối thủ Granada với tỷ số 1-2 ở vòng 33 La Liga diễn ra vào tối qua (29/4).
+HLV Koeman tranh cãi với trọng tài khi Barcelona để Granada gỡ hòa 1-1
+Chiến lược gia người Hà Lan phải nhận thẻ đỏ và lên khán đài ngồi xem các học trò thi đấu
+HLV Koeman buộc phải lên khán đài ngồi ngay sau bàn gỡ hòa 1-1 của Granada. Chiến lược gia người Hà Lan được cho là xúc phạm trọng tài thứ tư và trọng tài chính sau khi tham khảo ý kiến từ đồng nghiệp đã không ngần ngại tước quyền chỉ đạo của Koeman. Tấm thẻ đỏ sẽ khiến HLVKoeman không được phép chỉ đạo trong trận đấu với Valencia vào cuối tuần này.
+Khi được hỏi về việc mất quyền chỉ đạo ở trận đấu tiếp theo được đánh giá là rất quan trọng khi La Liga chỉ còn 5 vòng đấu nữa, HLV Koeman cho biết: 'Tôi không biết liệu tôi mất quyền chỉ đạo có ảnh hưởng đến đội bóng không nhưng chắc chắn sẽ ảnh hưởng đến tôi. Nếu tôi đã dùng những lời lẽ xấu xa xúc phạm trọng tài thì tôi sẽ chịu hình phạt nhưng mọi chuyện thực tế không hề như vậy".
+Chiến lược gia người Hà Lan nói thêm: "Thật thiếu tôn trọng. Đây là một sự xúc phạm. Tôi chưa từng một lần dùng lời lẽ thô tục với ông ấy. Nếu họ thêu dệt nên những điều mà tôi không hề nói, tôi chắc chắn sẽ phải làm điều gì đó".
+Barcelona bỏ lỡ cơ hội giành ngôi đầu bảng khi để thua sốc trước Granada
+"Barcelona phải chấp nhận trận thua hôm nay. Điều đó thực sự khó khăn bởi chúng tôi đã có cơ hội giành chiến thắng. Bàn thua đến chủ yếu do hàng thủ chơi thiếu tập trung. Đây là kết quả đáng thất vọng, bởi chúng tôi đã nắm trong tay vận mệnh của mình. Tất nhiên, Barcelona vẫn còn 5 trận đấu nữa, đặc biệt chúng tôi đặt mục tiêu chiến thắng trước Valencia vào cuối tuần này", HLV Koeman khẳng định.
+Ngày 3/5, chiến lược gia người Hà Lan và các học trò sẽ đối đầu Valencia trước khi chạm trán Atletico Madrid vào ngày 8/5. Trận đấu tại sân Wanda Metropolitano được xem là cuộc đối đầu quyết định ngôi vô địch La Liga mùa này.
+Hiện tại Barcelona đang xếp thứ ba sau Real Madrid mặc dù bằng điểm với đối thủ (71 điểm) nhưng thua về chỉ số đối đầu. Trong khi đó Atletico dẫn đầu bảng với 73 điểm. La Liga chỉ còn đúng 5 vòng đấu để phân định ngôi vô địch, và cả 4 đội dẫn đầu gồm Atletico, Real Madrid, Barcelona và Sevilla đều có cơ hội giành ngôi vương.
+Sông Lam

@@ -1,29 +1,27 @@
 # doc_id = news_tech_182
-# url = https://dantri.com.vn/suc-manh-so/nhung-thu-thuat-giup-tiet-kiem-dung-luong-bo-nho-tren-smartphone-20210325125732046.htm
-# date = 20210325
-Phần lớn smartphone ngày nay đều được trang bị bộ nhớ dung lượng lớn; tuy nhiên, ngày càng nhiều smartphone không còn hỗ trợ khe cắm thẻ nhớ ngoài. Bên cạnh đó, quay video chất lượng 4K hoặc chụp ảnh với độ phân giải lớn sẽ chiếm rất nhiều không gian lưu trữ trên smartphone.
-Bài viết dưới đây sẽ giới thiệu một vài cách thức đơn giản để thu hồi dung lượng lưu trữ bị lãng phí trên smartphone hoặc giải phóng bộ nhớ, giúp có thêm không gian lưu trữ những dữ liệu quan trọng trên thiết bị.
-Gỡ bỏ những ứng dụng không cần thiết khỏi smartphone
-Nhiều người cài đặt các ứng dụng lên smartphone của mình, nhưng sau đó rất ít hoặc hầu như không dùng đến. Gỡ bỏ những ứng dụng không cần thiết và ít khi sử dụng đến là biện pháp đơn giản nhưng hiệu quả nhất để tiết kiệm dung lượng lưu trữ trên smartphone.
-Không chỉ giúp tiết kiệm dung lượng lưu trữ, việc gỡ bỏ các ứng dụng không cần thiết còn làm phần nào cải thiện hiệu suất hoạt động của smartphone, do một số ứng dụng có tiến trình chạy ngầm, có thể làm smartphone hoạt động ì ạch hơn.
-Để dễ dàng quản lý và gỡ bỏ các ứng dụng trên Android, người dùng có thể nhờ đến sự trợ giúp của ứng dụng Smart App Manager. Đây là ứng dụng miễn phí, giúp quản lý chi tiết danh sách các ứng dụng đã cài đặt trên thiết bị, nắm bắt các thông tin về thời điểm đã cài đặt ứng dụng, lần sử dụng gần đây nhất của mỗi ứng dụng... Dựa vào các thông tin này, bạn sẽ biết ứng dụng nào từ lâu mình không còn dùng đến để gỡ bỏ.
-Smart App Manager chỉ có phiên bản dành cho Android, bạn đọc có thể tìm và tải ứng dụng trên CH Play dành cho Android, hoặc download trực tiếp tại đây hoặc tại đây (tương thích Android 4.1 trở lên).
-Sử dụng các dịch vụ đám mây để lưu trữ file ảnh/video
-Hầu hết smartphone ngày nay đều hỗ trợ chụp ảnh và quay video với độ phân giải lớn, đặc biệt với những video chuẩn 4K hoặc thậm chí 8K sẽ chiếm một dung lượng lưu trữ rất lớn trên smartphone.
-Nếu thường xuyên sử dụng smartphone để chụp ảnh hoặc quay video, chắc chắn nhiều người sẽ lâm vào tình cảnh không còn nhiều dung lượng để sử dụng. Sao lưu ảnh và video trên thiết bị sang một vị trí khác là giải pháp thích hợp để giải phóng dung lượng lưu trữ trên smartphone.
-Bạn có thể sao lưu các hình ảnh/video của mình trên smartphone lên các dịch vụ lưu trữ đám mây. Hiện tại các dịch vụ lưu trữ trực tuyến đều cung cấp cho người dùng một dung lượng miễn phí để sử dụng (Google Drive có 15GB dung lượng miễn phí, OneDrive có 5GB dung lượng lưu trữ…). Các hãng smartphone cũng sẽ có những ưu đãi riêng cho khách hàng của mình đối với dịch vụ lưu trữ đám mây.
-Sau khi upload hình ảnh và video lên các dịch vụ lưu trữ đám mây, người dùng có thể xóa ảnh lưu trên smartphone để tiết kiệm dung lượng bộ nhớ, sau đó có thể xem lại ảnh và video thông qua các ứng dụng của dịch vụ lưu trữ đám mây.
-Việc lưu trữ file ảnh/video trên các dịch vụ lưu trữ cũng đảm bảo sự an toàn cho các file ảnh và video, tránh trường hợp smartphone bị hư hỏng hoặc mất cắp, khiến hình ảnh hoặc video lưu trên đó bị biến mất hoàn toàn.
-Ngoài ra, bạn cũng có thể sao lưu hình ảnh hoặc video trên smartphone vào máy tính, sau đó xóa các hình ảnh/video này để tiết kiệm dung lượng lưu trữ của smartphone. Tuy nhiên, bạn vẫn nên giữ lại những file ảnh/video thú vị nhất trên smartphone để có thể khoe với bạn bè ở bất kỳ đâu.
-Xóa các file rác, file đệm không cần thiết trên smartphone
-Sau một thời gian dài sử dụng, các ứng dụng trên Android sẽ sinh ra những file rác để phục vụ cho quá trình hoạt động của mình. Nhiều file rác vẫn còn tồn tại sau khi ứng dụng đã không còn cần đến, điều này khiến dung lượng lưu trữ trên thiết bị bị chiếm dụng một cách lãng phí.
-Files by Google (gọi tắt là Files) là ứng dụng miễn phí do Google phát triển, cho phép người dùng Android có thể dọn dẹp file rác, file đệm không cần thiết để thu hồi dung lượng lưu trữ của smartphone. Ứng dụng cũng đưa ra gợi ý những file có thể xóa bỏ trước khi bộ nhớ smartphone bị đầy, bao gồm những ứng dụng từ lâu đã không còn dùng đến, những file có dung lượng lớn chiếm dụng nhiều bộ nhớ...
-Files không chỉ là ứng dụng giúp người dùng dọn dẹp file rác và tiết kiệm dung lượng hiệu quả, mà còn là một ứng dụng quản lý file hữu ích và nên có trên mọi smartphone. Ứng dụng cho phép người dùng quản lý file dễ dàng trên smartphone bằng cách chia dữ liệu ra thành từng nhóm riêng biệt, như file video, file ảnh, file tài liệu... giúp tìm kiếm dữ liệu cần thiết một cách nhanh chóng.
-Đây là ứng dụng do chính Google phát triển cho nền tảng Android của mình nên người dùng hoàn toàn có thể yên tâm về chất lượng và độ hiệu quả. Download ứng dụng miễn phí tại đây hoặc tại đây (tương thích Android 5.0 trở lên).
-Tìm và xóa các file trùng lặp trên smartphone
-Trong quá trình sử dụng smartphone, đôi khi bạn download một file nào đó từ Internet nhiều lần về thiết bị của mình mà không nhớ, hoặc bạn nhận được những file giống nhau được chia sẻ từ bạn bè của mình qua các ứng dụng tin nhắn.
-Ngoài ra, nhiều ứng dụng trên Android sẽ tự động tạo ra các bản sao lưu hoặc các file giống nhau trên smartphone hoặc vì một lỗi nào đó khiến bạn nhận nhiều lần một file được chia sẻ qua Bluetooth... điều này sẽ tạo ra các file với nội dung giống nhau trên smartphone khiến dung lượng ổ cứng của smartphone bị chiếm dụng một cách lãng phí.
-Duplicates Cleaner là ứng dụng miễn phí, cho phép người dùng quét, tìm và xóa các file trùng lặp đang có trên smartphone của mình, từ đó thu hồi lại dung lượng ổ cứng bị chiếm dụng một cách lãng phí.
-Ưu điểm của ứng dụng là tự động tìm và lọc ra các file trùng lặp dựa vào nội dung của file, chứ không chỉ đơn thuần dựa vào tên file, do vậy, Duplicates Cleaner có thể hoạt động hiệu quả và lọc ra chính xác các file có nội dung trùng lặp đang tồn tại trên smartphone.
-Ứng dụng chỉ có phiên bản dành cho Android, bạn đọc có thể tìm và tải từ CH Play, hoặc download ứng dụng miễn phí tại đây hoặc tại đây (tương thích Android 5.0 trở lên).
-Quang Huy
+# url = https://dantri.com.vn/suc-manh-so/nokia-ra-mat-6-smartphone-moi-dinh-hinh-3-phan-khuc-gia-tu-2-8-trieu-20210409052646584.htm
+# date = 20210409
+Tối 8/4, Nokia chính thức ra mắt tổng cộng 6 smartphone thuộc 3 dòng C, G và X series tại một sự kiện được tổ chức trực tuyến.
+Trong đó, series X cao cấp nhất phô diễn sức mạnh phần cứng và mang đến những trải nghiệm tốt nhất cho người dùng, series G có hiệu năng đủ đáp ứng nhu cầu cơ bản đi kèm thời lượng pin cao nhất, còn series C là smartphone cơ bản, với giá rẻ, hướng đến đối tượng người mới làm quen.
+Nokia X10 | X20 5G
+Cả hai chiếc smartphone ở phân khúc cao cấp của Nokia đều sở hữu cấu hình bên trong và thiết kế gần như tương đồng. Khác biệt đáng kể nhất giữa hai mẫu máy chủ yếu đến từ camera.
+Cụ thể, X20 có camera chính 64MP đi kèm bộ chỉnh sửa màu chuyên nghiệp. Ba camera còn lại lần lượt là camera góc siêu rộng 5MP, camera macro 2MP và camera đo độ sâu 2MP. Camera trước với sở hữu ống kính tiêu cự cố định 32MP.
+Trong khi đó, Nokia X10 có camera chính phía sau độ phân giải chỉ 48MP còn các camera phụ giống như X20. Ở phía trước, camera selfie của X10 cũng giảm xuống còn 8MP, thay vì là ống kính tiêu cự cố định 32MP như trên X20.
+Về thiết kế, cả hai máy đều sở hữu màn hình đục lỗ 6.67 inch, độ phân giải Full HD+. 4 camera sau của X10 và X20 được đặt trong một module tròn.
+Về cấu hình, Nokia X10 và X20 cùng được trang bị chip Snapdragon 480 5G (tiến trình 8nm) với hai lõi Kryo 460 Gold lõi (A76) và sáu lõi nhỏ đi kèm cùng với GPU đồ họa Adreno 619.
+Cả hai mẫu smartphone cao cấp của Nokia đều sử dụng pin 4470 mAh, có hỗ trợ sạc nhanh 18W.
+Giá khởi điểm của X10, X20 lần lượt là 309 euro (8,5 triệu VNĐ) và 349 euro (9,6 triệu VNĐ). Dự kiến, Nokia X20 sẽ có mặt trên thị trường vào tháng 5 trong khi X10 sẽ lên kệ muộn hơn vào tháng 6.
+Nokia G10 | G20
+Bộ đôi smartphone tầm trung của Nokia nổi bật với thời lượng pin lớn 5050 mAh, hỗ trợ sạc nhanh 10W.
+Về mặt thiết kế, bộ đôi này có ngoại hình giống hệt nhau, với màn hình tai thỏ 6.5 inch, độ phân giải HD+.
+Sự khác biệt của 2 mẫu máy nằm ở camera, khi G10 chỉ có 3 camera với ống kính chính 13MP, ống kính macro 2MP và ống kính chiều sâu 2MP, thì G20 trang bị cụm 4 camera với ống kính chính 48MP, ống kính góc siêu rộng 5MP, ống kính macro 2MP và ống kính chiều sâu 2MP.
+Một khác biệt nữa nằm ở phần cứng của 2 mẫu máy, khi Nokia G10 chạy chip Helio G25, Nokia G20 chạy chip Helio G35.
+Giá quy đổi của Nokia G10 và G20 lần lượt là 4 triệu VNĐ, và 4.5 triệu VNĐ.
+Nokia C10 | C20
+Bộ đôi này được thiết kế để hướng tới phân khúc khách hàng lần đầu sử dụng smartphone. Do đó cấu hình của máy chỉ đi kèm bản Android 11 Go, được lược bỏ bớt một số tính năng để đổi lấy trải nghiệm mượt mà.
+Cả hai đều có màn hình LCD 6,52 inch, độ phân giải HD+ cùng thiết kế tai thỏ.
+Về mặt phần cứng, Nokia C20 được trang bị chip Unisoc SC9863a tốc độ 1.6 GHz. Trong khi C10 sử dụng chip Unisoc SC7331e tốc độ 1,3 GHz. Cả hai sẽ đều bắt đầu với RAM từ 1GB nhưng có tùy chọn nâng cấp lên 2GB.
+Nokia C10 và C20 có pin 3.000 mAh với khả năng sạc 5W qua cổng microUSB.
+Về kết nối, chỉ có Nokia C20 được trang bị 4G, tức Nokia C10 chỉ có kết nối 3G.
+Mức giá quy đổi được Nokia công bố lần lượt là 2,1 triệu VNĐ đối với C10, và 2,5 triệu VNĐ đối với C20.
+Nguyễn Nguyễn

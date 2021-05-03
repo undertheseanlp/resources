@@ -1,14 +1,15 @@
 # doc_id = news_world_103
-# url = https://dantri.com.vn/the-gioi/giao-tranh-du-doi-gan-bien-gioi-myanmar-thai-lan-20210427142118634.htm
-# date = 20210427
-Khói lửa bốc lên từ một căn cứ quân sự của Myanmar nhìn từ phía biên giới Thái Lan (Ảnh: AFP).
-Reuters dẫn lời ông Padoh Saw Taw, một đại diện của nhóm vũ trang thiểu số Liên đoàn Quốc gia Karen (KNU) ở Myanmar, cho biết lực lượng này đã chiếm được và phá hủy một tiền đồn của quân đội ở khu vực gần biên giới Thái Lan. Hiện lực lượng này vẫn đang xác minh con số thương vong.
-Các nhân chứng ở Thái Lan cho hay, giao tranh dữ dội đã nổ ra ở một tiền đồn của quân đội Myanmar ở khu vực do KNU nắm phần lớn quyền kiểm soát gần biên giới phía đông với Thái Lan.
-Nhân chứng đã nghe thấy các loạt súng vang lên, trong khi các video đăng tải trên mạng xã hội cho thấy khói và lửa bốc lên từ khu vực gần biên giới Myanmar - Thái Lan.
-"Giao tranh dữ dội đã nổ ra ở một tiền đồn của quân đội Myanmar đối diện vùng Mae Sam Laep. Giới chức an ninh của chúng tôi đang đánh giá tình hình nhưng hiện chưa có thông tin về các tác động đến phía Thái Lan", một quan chức địa phương ở thị trấn biên giới Thái Lan cho biết.
-Quân đội Myanmar hiện chưa bình luận về thông tin trên.
-Sau nhiều năm lắng xuống, các cuộc giao tranh giữa quân đội Myanmar và các nhóm vũ trang thiểu số đã bùng phát trở lại kể từ sau binh biến ngày 1/2 khi những lực lượng này ủng hộ làn sóng biểu tình phản đối chính quyền quân sự.
-Myanmar tiếp tục chìm vào khủng hoảng với các cuộc biểu tình phản đối binh biến. Thống tướng Min Aung Hlaing - người đứng đầu chính quyền quân sự Myanmar - cuối tuần qua đã dự Hội nghị cấp cao ASEAN tại Indonesia trong chuyến công du đầu tiên kể từ sau binh biến. Tại hội nghị, các lãnh đạo ASEAN đã kêu gọi chính quyền quân sự Myanmar chấm dứt bạo lực nhằm vào dân thường, thúc đẩy các cuộc đối thoại giữa các bên đối đầu.
-Trong thông cáo phát đi hôm nay, chính quyền quân sự Myanmar cho biết sẽ "tích cực" cân nhắc các gợi ý từ lãnh đạo ASEAN nhằm chấm dứt cuộc khủng hoảng hiện nay ở nước này.
-Minh Phương
-Theo Reuters
+# url = https://dantri.com.vn/the-gioi/giao-vien-hon-nguc-vo-ngay-trong-gio-hoc-truc-tuyen-20210429091519683.htm
+# date = 20210429
+Thầy giáo bị lộ ảnh nhạy cảm (Ảnh: ATV).
+Theo hãng tin RT, thầy giáo Ruben Dario Parra Zuleta đã hôn vào ngực vợ mình trong một buổi học vật lý được giảng dạy tại Cơ sở giáo dục San Vicente ở thành phố Palmira của Colombia.
+Hành động phản cảm của nam giáo viên đã được một nữ sinh ghi lại và chia sẻ trên mạng xã hội.
+Nhà trường thừa nhận thầy giáo Zuleta đã cư xử không đúng mực trước mặt học sinh của mình và Sở giáo dục Palmira đã mở một cuộc điều tra về vụ việc.
+Thầy giáo đã lên tiếng xin lỗi vì hành động của mình. Zuleta thừa nhận mắc "một sai lầm nghiêm trọng" vì không nhận ra camera vẫn đang hoạt động vào thời điểm đó.
+Zuleta khẳng định anh không cố tình chiếu những khoảnh khắc riêng tư với vợ mình cho lớp học xem.
+Theo tạp chí tin tức Semana, Zuleta được đào tạo về kỹ thuật hóa học và có bằng thạc sĩ về quản lý công nghệ giáo dục, chuyên về sư phạm và đạo đức.
+Sử dụng phần mềm Zoom trong việc giảng dạy và họp trực tuyến khi dịch Covid-19 bùng phát đã dẫn đến nhiều tình huống "dở khóc dở cười".
+Năm ngoái, một chính trị gia Argentina đã phải từ chức sau khi bị bắt quả tang đang hôn ngực phụ nữ trong một phiên họp trực tuyến của quốc hội.
+Cũng trong năm 2020, một công chức đã hành vi "mây mưa" trong một cuộc họp qua Zoom ở Philippines và một vụ việc tương tự xảy ra giữa cuộc họp trực tuyến của hội đồng thành phố Rio de Janeiro ở Brazil.
+Thành Đạt
+Theo RT

@@ -1,14 +1,14 @@
 # doc_id = news_sport_130
-# url = https://dantri.com.vn/the-thao/hlv-mourinho-bi-tottenham-sa-thai-vi-phan-doi-european-super-league-20210419175338451.htm
-# date = 20210419
-Các tờ báo uy tín ở Anh đồng loạt đưa tin xác nhận HLV Mourinho chính thức bị Tottenham Hotspur sa thải vào chiều nay (19/4). Như vậy chiến lược gia người Bồ Đào Nha đã phải rời "ghế nóng" sau 17 tháng dẫn dắt "Gà trống".
-Tottenham Hotspur quyết định sa thải HLV Mourinho được cho là nhanh hơn dự kiến ban đầu. Trước đó, "Gà trống" dự kiến sẽ xem xét thành tích cuối mùa của Tottenham ở mùa giải này, trước khi đưa ra quyết định cuối cùng về tương lai của HLV người Bồ Đào Nha. Theo đó, ông chỉ bị sa thải nếu như không thể giúp Spurs lọt vào top 4 Premier League.
-HLV Mourinho chia tay Tottenham sau 17 tháng dẫn dắt
-Mặc dù vậy, trận hòa 2-2 trước Everton mới đây đã khiến cho những nỗi thất vọng ở Tottenham dâng cao. Hiện tại, Spurs đang xếp thứ vị trí thứ 7 trên bảng xếp hạng với 50 điểm sau 32 trận, kém vị trí thứ 4 của West Ham 5 điểm (chưa tính việc Chelsea đang hơn Tottenham 4 điểm nhưng thi đấu ít hơn 1 trận).
-Theo nguồn tin từ tờ Daily Mail, trước mắt hai trợ lý Ryan Mason và Chris Powell sẽ tạm thay thế HLV Mourinho dẫn dắt Tottenham trong phần còn lại của mùa giải này, trong đó có trận chung kết League Cup gặp Man City vào ngày 25/4.
-Thế nhưng, nhiều nguồn tin cho rằng, thành tích nghèo nàn của Tottenham chỉ là một phần nguyên nhân khiến Jose Mourinho mất việc. Theo đó, nhà cầm quân người Bồ Đào Nha được cho là đã công khai phản đối việc Tottenham tham dự European Super League, đồng thời ông đã từ chối cho các cầu thủ thực hiện buổi tập vào rạng sáng ngày 18/4 (giờ địa phương) để chống lại quyết định của BLĐ.
-Bên cạnh đó, một số nguồn tin cũng tiết lộ rằng, BLĐ Tottenham không hài lòng với cách làm việc của Mourinho khi ông công khai chỉ trích các cầu thủ trước truyền thông.
-Nhiều nguồn tin cho rằng việc Mourinho công khai phản đối Tottenham tham gia vào European Super League là một trong những nguyên nhân khiến ông bị sa thải sớm hơn dự kiến
-Cách đây ít phút, CLB Tottenham Hotspur cũng phát đi thông báo ngắn gọn trên trang chủ của mình việc sa thải HLV Mourinho: "CLB xin chính thức đưa ra thông báo rằng HLV Jose Mourinho cùng các cộng sự Joao Sacramento, Nuno Santos, Carlos Lalin và Giovanni Cerra sẽ kết thúc nhiệm vụ của mình kể từ ngày hôm nay".
-Trong khi đó, chủ tịch CLB Tottenham Daniel Levy cho biết: "Jose và ban huấn luyện của anh ấy đã đồng hành cùng chúng tôi trong những khoảng thời gian thử thách nhất của CLB này.
-Jose là một chuyên gia thực sự đã thể hiện khả năng phục hồi to lớn trong đại dịch. Ở cấp độ cá nhân, tôi rất thích làm việc cùng anh ấy nhưng rất tiếc rằng mọi thứ đã không diễn ra như cả hai chúng tôi đã dự tính. Anh ấy sẽ luôn được chào đón ở đây và chúng tôi nên cảm ơn anh ấy và ban huấn luyện vì những đóng góp của họ".
+# url = https://dantri.com.vn/the-thao/hlv-mourinho-tim-duoc-cong-viec-moi-sau-khi-bi-tottenham-sa-thai-20210430194450696.htm
+# date = 20210430
+Như đã biết, mới đây, HLV Mourinho đã chính thức bị sa thải khỏi Tottenham sau khi CLB thi đấu vô cùng bết bát. Chiến lược gia người Bồ Đào Nha được cho là đã nhận được khoản tiền bồi thường lên tới 30 triệu bảng.
+Và chỉ hơn 10 ngày sau khi bị sa thải, "Người đặc biệt" đã tìm được công việc mới tạm thời. Theo đó, ông sẽ là bình luận viên của đài talkSPORT ở kỳ Euro 2020 (diễn ra vào tháng 6/2021).
+Đích thân chiến lược gia người Bồ Đào Nha đã lên tiếng xác nhận: "Là một người yêu thích bóng đá, tôi luôn tìm kiếm công việc liên quan tới môn thể thao này. Tôi nóng lòng đón nhận những thứ mới mẻ và phi thường.
+Ở thời điểm này, tôi đã rời xa công việc huấn luyện trong hơn 1 tuần và tôi rất nhớ công việc của mình. Trước mắt, tôi đã nhận việc bình luận bóng đá cho đài talkSPORT. Đó có thể là nhà ga để tôi chờ đợi công việc tiếp theo của mình.
+Euro 2020 là giải đấu tuyệt vời và talkSPORT sẽ mang tới những thông tin mới mẻ cho những người hâm mộ. Tôi rất hào hứng để tham gia công việc này".
+Theo báo giới Anh, ngoài công việc bình luận ở talkSPORT, HLV Mourinho sẽ đóng vai trò viết bình luận cho tờ The Sun liên quan tới bóng đá.
+Erik ten Hag là ứng cử viên mới nhất từ chối Tottenham.
+Trong khi đó, ở diễn biến khác, Tottenham tiếp tục hụt thêm ứng cử viên khác sau khi không thể đưa Julian Nagelsmann. HLV Erik ten Hag đã từ chối tới Spurs để ký hợp đồng mới với Ajax.
+Ajax chính thức thông tin trên trang chủ: "Ajax đã đạt thỏa thuận với HLV Erik ten Hag về việc gia hạn hợp đồng mới. Nó sẽ bắt đầu có hiệu lực kể từ ngày 1/7/2021 và sẽ có thời hạn tới năm 2023".
+Trước mắt, HLV Ryan Mason sẽ tạm thời dẫn dắt Tottenham tới cuối mùa giải, trước khi Ban lãnh đạo tìm kiếm phương án mới.
+H.Long

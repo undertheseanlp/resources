@@ -1,20 +1,16 @@
 # doc_id = news_travel_049
-# url = https://dantri.com.vn/du-lich/bong-ma-covid-19-co-nguy-co-bien-noc-nha-the-gioi-thanh-o-lay-nhiem-20210423164753708.htm
-# date = 20210423
-Khi Nepal đón các nhà leo núi nước ngoài đến với đỉnh Everest trong đợt leo núi mùa xuân năm nay, nhiều người lo ngại chuyện Covid-19 có mặt ở đỉnh núi cao nhất thế giới chỉ còn là vấn đề thời gian.
-Ngày 21/4/2021, tạp chí Inside đưa tin, một người leo núi ở trạm nghỉ được đưa đi cấp cứu bằng trực thăng có kết quả xét nghiệm dương tính với Covid-19 tại bệnh viện Kathmandu, Nepal.
-Tờ New York Times còn cho hay, trên thực tế có nhiều người leo núi dương tính với Covid-19 sau khi được đưa ra khỏi trạm nghỉ. Hiện, chưa rõ chính xác có bao nhiêu người leo lên đỉnh Everest dương tính với Covid-19, Bộ Du lịch Nepal cũng không đưa ra bình luận nào về vấn đề này.
-Những người leo lên đỉnh Everest (Ảnh chụp năm 2018).
-Adrian Ballinger, người sáng lập Alpenglow Expeditions cho biết, công ty đã hủy tour leo núi Everest mùa xuân năm nay. Với tình trạng số ca nhiễm ở Nepal tăng lên giữa bối cảnh nước láng giềng Ấn Độ đang vật lộn trong đợt bùng phát mạnh, các trạm nghỉ đông đúc và đội ngũ nhân viên khuân vác đồ... có thể lây lan dịch bệnh.
-Lý do Alpenglow Expedition đưa ra quyết định hủy chuyến leo núi do đoàn có 300 người leo núi đồng nghĩa cần 500 người Nepal hỗ trợ để khuân vác đồ và phụ giúp, tiếp tế đồ ăn... "Chúng tôi không thể cách ly hoàn toàn những nhân viên đó", Adrian Ballinger cho hay.
-Điều đáng lo ngại là nhiều biểu hiện của người nhiễm Covid-19 gần giống với triệu chứng say độ cao và "cơn ho Khumbu" hay gặp với những người leo núi có độ cao lớn. Trong khi các công ty tổ chức tour cao cấp đã hủy bỏ chuyến leo núi mùa xuân lên Everest thì một số công ty cung cấp tour giá rẻ vẫn thực hiện hành trình.
-Tính đến thứ Tư (21/4/2021), cơ quan du lịch của Nepal cấp phép cho 377 người leo lên Everest trong năm nay tương đương với con số được cấp phép năm 2019.
-Là một trong những quốc gia nghèo nhất châu Á, Nepal phụ thuộc nhiều vào khách du lịch nước ngoài.
-Chính phủ nước này thu được hơn 3,8 triệu USD tiền phí nhờ cấp giấy phép cho người leo núi trong năm nay. Năm 2020, nguồn thu này không có khi dịch Covid-19 bùng phát, Nepal đóng cửa biên giới và hủy bỏ tất cả các cuộc leo núi lên Everest.
-Sau 1 năm khó khăn do đại dịch, Nepal đã mở cửa cho những người leo núi trở lại dù dịch Covid-19 chưa chấm dứt. Đến nay, khả năng bùng phát Covid-19 tại các trạm nghỉ không khiến cho kế hoạch của những người leo núi thay đổi.
-Chhang Dawa Sherpa, người sáng lập Apex Nepal Treks & Tours cho biết: "Ở đây, tất cả đều tốt". Người này còn nói thêm, không có ai nhiễm Covid-19 trong số khách đang chinh phục Everest.
-Còn công ty Furtenbach Expeditions (California, Mỹ) có một đoàn đã đến trạm nghỉ đầu tiên, trong khi một đoàn khác đang trên đường tới đó cũng không có ý định quay lại. Để phòng dịch, công ty yêu cầu những người leo núi phải thực hiện xét nghiệm đều đặn và cấm người trong đoàn giao tiếp với bất kỳ khách nào ở đoàn khác.
-Nepal cũng đang dần nới lỏng các hạn chế với khách leo núi Everest. Trước đây, nước này yêu cầu khách phải mua bảo hiểm bổ sung để chi trả chi phí điều trị Covid-19, hiện đã nới lỏng yêu cầu này.
-Cuối tháng 3, Chính phủ Nepal còn thông báo không bắt buộc cách ly 7 ngày, miễn có kết quả xét nghiệm Covid-19 lần 2 âm tính.
-Phương Hà
-Theo Washington Post
+# url = https://dantri.com.vn/du-lich/can-biet-thu-co-cua-dai-gia-lang-mien-nuc-tieng-mot-thoi-o-ha-noi-20210422102724524.htm
+# date = 20210422
+Làng Cự Đà thuộc xã Cự Khê (huyện Thanh Oai), cách trung tâm Hà Nội chừng 15km về phía Tây Nam có lịch sử phát triển gần một nghìn năm. Tuy nhiên, trước áp lực của đô thị hóa, những ngôi nhà cổ tại làng Cự Đà đang mất dần và thay thế bằng nhà bê tông hiện đại.
+Căn biệt thự Pháp cổ số 191 được nhiều người đánh giá đẹp và sang trọng nhất nhì trong làng Cự Đà.
+Mặt tiền của biệt thự nằm bên trong, nối với khoảng sân nhỏ. Công trình này mang đậm chất kiến trúc Đông Dương, tường nhà rất dày, được kết hợp các họa tiết truyền thống của Việt Nam.
+So với nhiều công trình Pháp còn lại ở Hà Nội, căn biệt thự số 191 làng Cự Đà có kết cấu lạ với mặt tiền công trình quay vào trong, phía ngoài chỉ có một chiếc cổng nhỏ để làm lối đi vào.
+Chủ nhân căn biệt thự 191 cho biết, làng Cự Đà đã từng rất nổi tiếng với 2 nghề truyền thống là làm miến và làm tương. Trong những năm 1920 - 1930, rất nhiều gia đình tại đây trở nên giàu có bằng 2 nghề này.
+Khi trở thành "đại gia", nhiều gia đình đã cho xây dựng nhà cửa theo phong cách châu Âu, sang trọng và đẹp mắt. Vào thời kỳ này, kiến trúc biệt thự Pháp rất được ưa chuộng.
+Cầu thang trong ngôi nhà được làm hoàn toàn bằng gỗ quý.
+Sau hơn 100 năm sử dụng, căn biệt thự số 191 đã xuống cấp, tường đã bị ố vàng, bong tróc.
+Đá lát nền cũng là loại gạch bông của Pháp, gạch hoa này được nhiều địa chủ ngày xưa sử dụng. Sau cả trăm năm, phần gạch đến nay vẫn còn khá nguyên vẹn.
+Điểm đặc biệt nhất của căn biệt thự 191 nằm ở 8 bức tượng phúc thần cỡ nhỏ đặt phía trước cửa.
+Chủ của căn nhà cho biết: "Hiện tại có 3 thế hệ sống trong căn nhà này, dù một số chỗ trong nhà bị hư hỏng xuống cấp nhưng tôi chưa bao giờ có ý định thay đổi cái gì nếu không quá cần thiết".
+Theo chủ căn nhà cổ này, căn nhà đã chứng kiến rất nhiều thăng trầm, lưu giữ những kỷ niệm trân quý của cả gia đình qua nhiều thế hệ.
+Toàn Vũ

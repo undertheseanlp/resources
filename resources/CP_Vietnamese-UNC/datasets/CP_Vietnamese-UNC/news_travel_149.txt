@@ -1,24 +1,13 @@
 # doc_id = news_travel_149
-# url = https://dantri.com.vn/du-lich/la-lung-bo-toc-song-o-noi-khac-nghiet-voi-tuc-le-doi-vo-cho-nhau-20210425130213409.htm
-# date = 20210425
-Thường sinh sống ở những nơi có khí hậu khắc nghiệt như Chukotka (một khu tự trị thuộc Liên Bang Nga) hay Alaska (Mỹ), bộ tộc người Eskimo tới nay vẫn duy trì tập tục cho vợ mình ngủ chung với khách lạ để bày tỏ lòng hiếu khách.
-Tuy nhiên, điều này không chứng minh phụ nữ thuộc tầng lớp yếu thế trong xã hội và bị sử dụng như một món hàng, trái lại, những người phụ nữ Eskimo cũng có quyền lợi và tiếng nói như những người đàn ông khác trong gia đình.
-Người Eskimo sống hàng thế kỷ trong điều kiện rất khó khăn, phải chiến đấu để sinh tồn từng ngày.
-Điều này đã tác động đến thái độ của các dân tộc này đối với phụ nữ. Những người phụ nữ thường phải làm cả những công việc chăm sóc con cái lẫn tham gia việc đi săn. Họ cũng rất được coi trọng và có tiếng nói trong gia đình.
-Người phụ nữ Eskimo thường là người phụ trách những công việc trong nông trại do đó, thường được cho là khỏe hơn những người đàn ông khác trong gia đình.
-Từ xa xưa, người Eskimo vẫn tồn tại tục lệ cho thuê vợ ngắn hạn. Do đó, đổi vợ cũng chỉ là một bước tiến xa hơn của tục "thuê" vợ, đối với họ đây thực sự là một việc bình thường như những chuyện thường nhật khác.
-Phong tục "thuê" vợ cụ thể là người đàn ông khi đi săn bắn được phép "thuê" vợ của một ai đó trong bộ tộc theo thỏa thuận trước đó. Trong suốt thời gian được "thuê" người phụ nữ cần đáp ứng tất cả các nhu cầu của người "thuê" mình.
-Do thời tiết quá lạnh sợ bị dính môi lại với nhau, người Eskimo thể hiện tình cảm bằng cử chỉ cọ mũi.
-Tục lệ này có ý nghĩa người đàn ông muốn chia sẻ điều tuyệt vời nhất họ được ban tặng là người phụ nữ với khách. Nếu đối phương từ chối, người đàn ông sẽ xem đó là hành vi thiếu tôn trọng người phụ nữ và gia đình.
-Những em bé người Eskimo.
-Nhiều nhà nghiên cứu cho rằng nguyên nhân của việc đổi vợ bắt nguồn từ hi vọng của người dân về việc sẽ có nhiều đứa trẻ khỏe mạnh được sinh ra.
-Nơi đây do những mối quan hệ cận huyết nhiều đứa trẻ sinh thường ốm yếu và chết yểu. Ngoài ra, điều kiện thời tiết khắc nghiệt với nhiệt độ đôi khi còn -30 độ đến -40 độ, chế độ dinh dưỡng thiếu thốn khiến việc nuôi dưỡng một đứa trẻ trở nên khó khăn.
-Vì thế, việc người phụ nữ sinh được nhiều con sẽ trở thành niềm vui chung của cả cộng đồng.
-Quần áo thường thấy của người Eskimo để chống lại thời tiết khắc nghiệt: áo choàng dài được lót lông bên trong và cả bên ngoài, có mũ chùm dày và ấm.
-Ngày nay, do sự nóng lên toàn cầu, nơi ở của người Eskimo đang có nguy cơ biến mất dần và tộc người này đang phải đối mặt với một chuyến di cư để tìm ra nơi ở mới.
-Họ phải di chuyển tới những vùng có khí hậu khác ấm hơn và phải tập làm quen cũng như hòa nhập với một số những điều kiện của thế giới hiện đại.
-Một số người trẻ Eskimo được đi học và đã nhận thức được vấn đề trong những phong tục được lưu truyền từ xa xưa.
-Họ nhận ra quan hệ tình dục với quá nhiều người khác nhau có thể gây ra những bệnh lây qua đường tình dục, ngoài ra chính những mối quan hệ cận huyết khiến cho dân số người Eskimo ngày càng thu hẹp.
-Những người trẻ đã ra ngoài thế giới, hòa nhập và lấy vợ, lấy chồng sinh con, hiện tại còn rất ít người giữ tư tưởng "đổi vợ" và hầu hết đó chỉ là những người già hoặc trung niên.
-Hằng Đoàn
-Theo NG/The Metro
+# url = https://dantri.com.vn/du-lich/la-lung-nhung-mon-an-cang-moc-cang-dat-tien-khach-xep-hang-mua-20210430152100457.htm
+# date = 20210430
+Nấm mốc là những loại nấm rất nhỏ, gây ra sự phân hủy các vật chất tự nhiên. Đặc biệt, với những thực phẩm bị hư hỏng bởi nấm mốc, nếu không may sử dụng phải có thể dẫn đến các vấn đề về sức khỏe.
+Tuy nhiên, có những món ăn mốc meo, bị bỏ không lâu ngày lại trở thành đặc sản đắt tiền và "hút" khách tìm mua.
+Thịt lợn hun khói
+Một trong những loại đồ ăn mốc meo nổi tiếng trên thế giới chính là thịt lợn hun khói ở thị trấn Bàn, tỉnh Quý Châu (Trung Quốc).
+Món đùi lợn hun khói có thể được treo trong vài năm, thậm chí cả trăm năm mới đem ra sử dụng mà vẫn ăn được với phần thịt săn chắc, mùi vị đặc biệt.
+Phô mai mốc
+Ngô mốc
+Người dân ở Mexico trồng ngô nhưng rất thích ngô mốc. Những bắp ngô mọc nấm được dân địa phương gọi là huitlacoche.
+Thế nhưng loại nấm mốc này lại là nguyên liệu làm nên nhiều món ăn ngon nổi tiếng ở Mexico. Người dân nơi đây nhận xét rằng, huitlacoche có mùi ngai ngái của đất xen lẫn mùi ngô (Ảnh: Atlasobscura).
+Thảo Trinh

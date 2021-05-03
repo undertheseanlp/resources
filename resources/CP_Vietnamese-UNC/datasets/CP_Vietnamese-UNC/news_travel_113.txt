@@ -1,16 +1,15 @@
 # doc_id = news_travel_113
-# url = https://dantri.com.vn/du-lich/hang-banh-bao-chanh-ngay-chi-lam-dung-200-chiec-ai-khong-cho-duoc-cu-ve-20210412114304107.htm
-# date = 20210412
-Ngày đầu tuần cũng như cuối tuần, ngày đông cũng như ngày hè, từ sáng tới chiều, hễ cứ khi nào quán bánh bao Bà Mậu (nay đổi tên thành Bánh bao Phát Đạt) mở cửa là khách lại xếp hàng chờ đợi.
-Chỉ sau độ 5 - 10 phút "ra lò" là mẻ bánh đã hết veo. Người thì mua đôi ba chiếc, người thì mua cả chục chiếc cho "bõ công chờ đợi". Tới chậm chút là khách xác định đợi thêm 15 - 20 phút nữa mới có mẻ bánh mới.
-Nhiều người gọi đây là "bánh bao chảnh" bởi muốn ăn thì phải "căn giờ", mà căn được giờ rồi thì vẫn phải chờ, mà đôi khi chờ 2 - 3 hôm mới mua được. Mỗi chiếc bánh cũng có giá không rẻ so với nhiều hàng quán khác - 18.000 đồng/chiếc.
-"Bánh bao bà Mậu" đã có từ khoảng 30 năm về trước. Hồi đó, bà Mậu làm bánh bao rồi gánh ra chợ Hàng Bè - "khu chợ nhà giàu". Gánh hàng rong ấy được yêu thích lắm, đủ để bà có tiền trang trải cuộc sống, nuôi mấy người con nhưng rồi tuổi cao, bà không đi nắng mưa được nữa. Từ đó, bà mở cửa hàng bánh bao tại nhà tại số 8 ngõ Nguyễn Hữu Huân.
-Sau bao năm, những mẻ bánh bao theo công thức riêng của bà Mậu vẫn níu chân thực khách, "chiều lòng" cả những người khó tính nhất. Bánh bao bà Mậu có vỏ dày, đặc ruột, hơi dai dai và phả lên mùi thơm từ bột rất rõ.
-Chiếc bánh to cỡ cả cái bát ô tô với nhân đầy đặn, nào mộc nhĩ, miến, nấm hương, thịt lợn, trứng... hòa lẫn rất đậm vị, vừa ăn.
-Hiện giờ, quán bánh được duy trì bởi con trai út của bà là anh Nguyễn Thế Hoạt, cùng vợ là chị Tống Thị Kim Thanh. Hàng ngày, anh chị đều đặn mở bán 2 lần từ 7h30 sáng đến buổi trưa và từ 15h chiều đến 19h.
-"Khách hàng bảo chúng tôi chảnh, cứ để khách chờ mà lắm khi không mua được. Nhưng thực tế, vợ chồng làm từ sáng tới đêm, ngày cũng chỉ được cỡ 200 chiếc. Để giữ hương vị chiếc bánh bao gia truyền, chúng tôi không thể làm ẩu được", vợ chồng anh Hoạt, chị Thanh chia sẻ.
-Để ra đời một chiếc bánh bao cần rất nhiều thời gian, từ khâu trộn bột, men sao cho bánh trắng, dẻo, đặc ruột; chọn nguyên liệu nào mộc nhĩ, thịt, trứng, nấm hương đều phải tươi, ngon.
-"Nhiều người đến hỏi mua số lượng lớn để mang về bán lại nhưng vợ chồng tôi đều từ chối. Đó cũng là tâm niệm của mẹ tôi. Bà muốn thứ bánh gia truyền này phải luôn ngon nhất, chất lượng nhất khi đến tay thực khách chứ không vì kinh tế mà làm số lượng lớn nhưng cẩu thả", anh Hoạt chia sẻ.
-"Nhiều khách nói quán tôi chảnh, không chiều khách nhưng thật lòng tôi muốn khách ăn bánh ngon nhất chứ không vì khách giận mà mang tới những chiếc bánh nhạt nhẽo, chưa chất lượng. Còn vợ chồng tôi lúc nào cũng vui vẻ với khách", anh Hoạt cho hay.
-Nhiều năm trôi qua, quán bánh bao "chảnh" vẫn cứ đông, vẫn cứ níu chân những người yêu ẩm thực.
-Toàn Vũ
+# url = https://dantri.com.vn/du-lich/hang-van-nguoi-du-khai-mac-nam-du-lich-quoc-gia-bat-buoc-phai-khai-bao-y-te-20210419152217812.htm
+# date = 20210419
+Lễ Khai mạc Năm Du lịch Quốc gia năm 2021 - Lễ hội Hoa Lư sẽ diễn ra vào tối ngày 20/4 tại Khu di tích Quốc gia đặc biệt Cố đô Hoa Lư (xã Trường Yên, huyện Hoa Lư).
+Theo Ban tổ chức, dự kiến sẽ có hàng vạn đại biểu, người dân và du khách tham dự sự kiện này.
+Để đảm bảo công tác vệ sinh môi trường khu vực tổ chức Lễ Khai mạc, phòng chống, không để dịch Covid-19 xảy ra, Ban tổ chức sẽ bố trí 5 máy quét thân nhiệt tự động tại 3 cổng vào khu vực tổ chức Lễ Khai mạc: Cổng phía Đông (2 máy), Cổng phía Bắc (2 máy), Cổng phía Nam, hướng đi thôn Chi Phong (1 máy); ngoài ra còn sử dụng thêm các nhiệt kế hồng ngoại cầm tay để thực hiện kiểm tra thân nhiệt cho 100% đại biểu và người dân tham dự.
+Tất cả đại biểu, người dân và du khách đến tham dự Lễ khai mạc Năm Du lịch Quốc gia 2021 và Lễ hội Hoa Lư vào tối 20/4 tới, bắt buộc phải khai báo y tế, đeo khẩu trang... đảm bảo phòng chống dịch Covid-19.
+Đại biểu và người dân bắt buộcphải hoàn thành 4 bước khi dự sự kiện: Sát khuẩn tay, đeo khẩu trang, đo thân nhiệt và khai báo y tế mới được vào tham dự lễ khai mạc. Việc khai báo y tế được thực hiện bằng 2 hình thức: dùng điện thoại thông minh quét mã QR-Code hoặc ghi tờ khai y tế.
+Tất cả các trường hợp bị ho, sốt, khó thở… nghi nhiễm SARS-CoV-2 phải đưa về nhà bạt cách ly tạm thời, lấy mẫu xét nghiệm và chuyển đến cách ly tại Trạm Y tế xã Trường Yên hoặc Trạm Y tế xã Ninh Hòa.
+Bà Lê Thị Bích Thục, Phó Giám đốc Trung tâm bảo tồn di tích lịch sử - văn hóa Cố đô Hoa Lư cho biết, để chuẩn bị cho đêm khai mạc, trước đó, Trung tâm đã phối hợp với ngành Y tế phun khử khuẩn toàn bộ khu di tích. Đồng thời tuyên truyền, khuyến cáo người dân và du khách đến tham quan, chiêm bái tại khu di tích thực hiện nghiêm túc các quy định về phòng, chống dịch bệnh Covid-19.
+Theo ông Trần Văn Doanh, Giám đốc Trung tâm Y tế huyện Hoa Lư, mặc dù từ đầu năm đến nay, trên địa bàn tỉnh chưa có ca bệnh COVID-19 trong cộng đồng, các biện pháp phòng chống dịch được thực hiện nghiêm túc. Tuy nhiên, nguy cơ dịch bệnh luôn thường trực, đòi hỏi mỗi người dân, du khách khi đến nơi đông người cần thực hiện nghiêm các quy định về phòng dịch của Bộ Y tế.
+Ngành Y tế cũng đã xây dựng phương án cụ thể, bố trí máy đo nhiệt độ tự động, chuẩn bị dung dịch sát khuẩn, khẩu trang tại 2 cổng vào sân lễ hội. Đồng thời, hướng dẫn du khách khai báo y tế bằng MÃ QR-CODE, thành lập tổ cấp cứu, theo dõi và nắm bắt các trường hợp có dấu hiệu ho, sốt, khó thở, kiên quyết thực hiện cách ly theo đúng quy định.
+Ban chỉ đạo Phòng, chống dịch Covid-19 tỉnh Ninh Bình cho hay, để chủ động phòng chống dịch Covid-19 tại Lễ Khai mạc Năm du lịch Quốc gia và Lễ hội Hoa Lư năm 2021, Ban chỉ đạo yêu cầu các đại biểu, khách mời và toàn bộ người dân tham gia Lễ khai mạc thực hiện nghiêm túc các biện pháp như sau:
+Thực hiện triệt để việc kiểm tra thân nhiệt, đeo khẩu trang thường xuyên và sát khuẩn tay nhanh tại khu vực ra vào đối với 100% đại biểu, khách mời và người dân tham dự lễkhai mạc. Toàn bộ người dân thực hiện "Khai báo y tế" trong quá trình ĐI VÀ ĐẾN hay còn gọi là "CHECK-IN/CHECK-OUT" Y TẾ bằng 02 hình thức tại các địa điểm tổ chức lễ khai mạc.
+Thái Bá

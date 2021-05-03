@@ -1,27 +1,11 @@
 # doc_id = news_health_122
-# url = https://dantri.com.vn/suc-khoe/ha-nam-lay-920-mau-benh-pham-lien-quan-den-cac-ca-benh-covid-19-20210430152234022.htm
-# date = 20210430
-Thông tin từ Trung tâm Kiểm soát bệnh tật (CDC) Hà Nam, cho biết, đến trưa ngày 30/4 toàn tỉnh Hà Nam đã lấy được 920 mẫu bệnh phẩm, bao gồm các trường hợp có tiếp xúc với các ca bệnh Covid-19 liên quan đến ổ dịch xã Đạo Lý; toàn bộ 1.068 người của 320 hộ gia đình ở thôn Quan Nhân, xã Đạo Lý và tất cả cán bộ, nhân viên Trung tâm Y tế huyện Lý Nhân, là nơi có 1 trường hợp nghi ngờ và những trường hợp có nguy cơ khác.
-Cán bộ CDC Hà Nam lấy mẫu bệnh phẩm làm xét nghiệm SARS-Cov-2 (ảnh: CDC Hà Nam).
-Hiện nay, CDC Hà Nam đã xét nghiệm được 165 mẫu. Để hoàn thành số lượng lớn mẫu xét nghiệm này trung tâm đã chuyển mẫu lên Viện Vệ sinh dịch tễ Trung ương đề nghị hỗ trợ.
-Đến trưa ngày 30/4, CDC Hà Nam đã xác định được hơn 300 trường hợp F1. Hiện tất cả các trường hợp F1 được phát hiện đều đã được cách ly tại trung tâm y tế các đơn vị: Bình Lục, Thanh Liêm, Duy Tiên và Trường Cao đẳng Y tế Hà Nam.
-Liên quan đến 2 ca dương tính và 1 ca nghi ngờ mới phát hiện sáng 30/4, cơ quan chức năng đã tạm thời cách ly các nhóm dân cư ở gần nhà 3 trường hợp này thuộc các xã: Bắc Lý, Chân Lý, Đức Lý, đều thuộc huyện Lý Nhân.
-Việc khoanh vùng cách ly phong tỏa tại thôn Quan Nhân xã Đạo Lý phải đáp ứng được hai yêu cầu: một là "nội bất xuất, ngoại bất nhập", hai là phải dập dịch ngay tại chỗ trong địa bàn đang có dịch.
-Trước đó, UBND tỉnh Hà Nam vừa có quyết định số 669/QĐ-UBND ngày 29/4, về việc thiết lập vùng cách ly y tế đối với thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân để phòng chống dịch bệnh Covid-19.
-Theo đó, phạm vi vùng cách ly bao gồm toàn bộ thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân, tỉnh Hà Nam, với tổng số 320 hộ tương ứng 1068 nhân khẩu. Việc tổ chức thực hiện cách ly y tế phải đảm bảo an ninh trật tự, an toàn và an sinh xã hội trong vùng cách ly, nhằm ngăn chặn sự lây lan của dịch bệnh Covid-19 do virus SARS-CoV-2 gây ra.
-Thời gian cách ly là 28 ngày, kể từ 17h ngày 29/4.
-Ninh Bình: Các F1, F2 liên quan ca bệnh Hà Nam đều âm tính với SARS-CoV-2
-Ngày 30/4, UBND tỉnh tổ chức hội nghị Ban Chỉ đạo phòng, chống dịch Covid-19 của tỉnh để rà soát các công việc đã triển khai và triển khai một số nhiệm vụ trong tâm trong công tác phòng chống dịch bệnh trên địa bàn tỉnh. Ông Phạm Quang Ngọc, Chủ tịch UBND tỉnh, Trưởng Ban chỉ đạo chủ trì hội nghị.
-Hội nghị Ban chỉ đạo phòng chống dịch Covid-19 tỉnh Ninh Bình họp ngày 30/4.
-Đến nay, Ninh Bình đã cách ly giám sát, theo dõi trên 300 trường hợp liên quan đến ca bệnh này.
-Trong đó, có 1 trường hợp F1 tại xã Gia Hưng (huyện Gia Viễn), 2 trường hợp F1 là vợ chồng tại Yên Mô và thành phố Tam Điệp (hiện đã trở lại Đà Nẵng từ ngày 25/4, được CDC thành phố Đà Nẵng lấy mẫu xét nghiệm lần 1) đều đã có kết quả xét nghiệm âm tính lần 1.
-Ngoài ra, trong tỉnh còn có 2 trường hợp tại huyện Kim Sơn và Yên Khánh ở cùng đợt cách ly với bệnh nhân F0 người Hà Nam, hiện được cách ly tại nhà và kết quả xét nghiệm lần 1 đã âm tính.
-Lực lượng chức năng tỉnh Ninh Bình kiểm tra công tác phòng chống dịch Covid-19 tại các khu, điểm du lịch.
-Ngành Y tế Ninh Bình cũng giám sát phân loại được gần 70 trường hợp F2, đã lấy mẫu xét nghiệm cho một số trường hợp F2 và gần 150 trường hợp F3. Tất cả các trường hợp F1, F2, F3 đều được phân loại, cách ly y tế tại cơ sở y tế, cách ly y tế tại nhà và nơi lưu trú, được theo dõi, giám sát chặt chẽ của nhân viên y tế.
-Tại hội nghị, ông Phạm Quang Ngọc, Chủ tịch UBND tỉnh, Trưởng Ban chỉ đạo phòng chống dịch bệnh Covid-19 khẳng định, dịch bệnh trên thế giới hiện rất phức tạp, nguy hiểm, tại Việt Nam nguy cơ bùng phát dịch cũng rất cao, có thể xảy ra dịch ở bất cứ đâu, địa phương nào.
-Ông Phạm Quang Ngọc, Chủ tịch UBND tỉnh Ninh Bình chỉ đạo các ngành, các cấp thực hiện nghiêm công tác phòng chống dịch Covid-19.
-Ninh Bình là tỉnh giáp ranh với Hà Nam - nơi đang có ổ dịch nguy hiểm, lại là địa phương có nhiều khu, điểm du lịch, thu hút nhiều người dân đến tham quan, chiêm bái, nguy cơ xảy ra dịch bệnh rất cao... Do đó, nhiệm vụ phòng chống dịch bệnh COVID-19 cần được quan tâm thực hiện tốt song song với các nhiệm vụ chính trị, phát triển kinh tế -xã hội của tỉnh.
-Chủ tịch UBND tỉnh Ninh Bình yêu cầu các cấp, các ngành tập trung vào một số nhiệm vụ trọng tâm như: Tiếp tục truy vết các trường hợp F1, F2, F3 và có các biện pháp xử lý phù hợp, kịp thời. Tăng cường tuyên truyền cho nhân dân thực hiện 5K (khẩu trang, khoảng cách, khử khuẩn, không tụ tập và khai báo y tế).
-Tăng cường phối hợp kiểm tra liên ngành, chuyên ngành, có hình thức xử phạt nghiêm các trường hợp vi phạm. BCĐ tỉnh, huyện, các cấp, các ngành, địa phương, đơn vị kích hoạt lại các phương án phòng chống dịch, chuẩn bị sẵn sàng các nguồn lực và khu cách ly tập trung để sử dụng khi cần thiết. Có kế hoạch xét nghiệm các trường hợp, đối tượng có nguy cơ.
-Tiếp tục triển khai kế hoạch tiêm chủng vắc xin phòng Covid-19. Đẩy mạnh tiến độ chuẩn bị cho công tác đảm bảo y tế và phòng chống dịch phục vụ bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026...
-Đức Văn - Thái Bá
+# url = https://dantri.com.vn/suc-khoe/ha-nam-them-3-ca-duong-tinh-voi-sars-co-v-2-20210501140139170.htm
+# date = 20210501
+Thông tin từ Trung tâm Kiểm soát bệnh tật (CDC) Hà Nam, với sự hỗ trợ từ Viện Vệ sinh dịch tễ Trung ương, đến sáng ngày 1/5 Hà Nam đã hoàn thành 1.295 mẫu xét nghiệm đã lấy trước đó, xác nhận có thêm 3 mẫu dương tính.
+Các trường hợp tiếp xúc gần với các ca nhiễm Covid-19 tại Hà Nam được đưa đi cách ly.
+3 trường hợp này, 1 người là nam, tiếp xúc gần với bệnh nhân 2899. 2 người còn lại là ông nội và vợ của người tiếp xúc gần với bệnh nhân 2899, (được tính là F2). Cả 3 cùng trú tại thôn Thọ Lão, xã Đạo Lý, huyện Lý Nhân, Hà Nam.
+Sau khi ghi nhận 3 mẫu bệnh phẩm dương tính với SARS-CoV-2, lực lượng chức năng đã khẩn trương lấy mẫu xét nghiệm toàn bộ người dân thôn Thọ Lão, gồm 352 hộ dân với 1.166 nhân khẩu, phấn đấu đầu giờ chiều ngày 1/5 sẽ hoàn thành.
+Lực lượng chức năng cũng đã lập 4 chốt phòng dịch ở thôn Thọ Lão và mở rộng, lập thêm 4 chốt ở thôn Quan Nhân, vì thôn Quan Nhân nằm sát cạnh thôn Thọ Lão.
+Đồng thời, lực lượng chức năng cũng đã lập 4 chốt phòng dịch ở thôn Thọ Lão và mở rộng, lập thêm 4 chốt ở thôn Quan Nhân, vì thôn Quan Nhân nằm sát cạnh thôn Thọ Lão.
+Như vậy tính đến thời điểm hiện nay, Hà Nam có 10 ca dương tính với SARS-CoV-2.
+Đức Văn

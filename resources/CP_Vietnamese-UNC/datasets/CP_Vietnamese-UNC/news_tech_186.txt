@@ -1,9 +1,12 @@
 # doc_id = news_tech_186
-# url = https://dantri.com.vn/suc-manh-so/oppo-a-54-ra-mat-pin-5000-m-ah-gia-47-trieu-dong-20210417005605389.htm
-# date = 20210417
-Oppo vừa giới thiệu một mẫu smartphone thuộc phân khúc tầm trung tại thị trường Việt Nam với tên gọi A54. Điểm ấn tượng nhất trên mẫu máy này nằm ở viên pin dung lượng lớn 5.000 mAh, tích hợp công nghệ sạc nhanh 18 W.
-Máy được trang bị màn hình đục lỗ với kích thước 6,51 inch, tuy nhiên độ phân giải chỉ đạt mức HD+. Bù lại, màn hình này được trang bị tính năng bảo vệ mắt cho người dùng.
-Oppo A54 được trang bị bộ xử lý Mediatek Helio P35, dung lượng RAM 4 GB cùng bộ nhớ trong 128 GB. Cấu hình này có thể đáp ứng tốt những tác vụ cơ bản của người dùng.
-Hệ thống camera chính của máy bao gồm ống kính chính 13 MP, ống kính macro 2 MP và ống kính 2 MP hỗ trợ chụp ảnh xóa phông. Camera selfie có độ phân giải 16 MP, tích hợp AI cùng nhiều chế độ làm đẹp khác nhau.
-Oppo A54 được bán ra tại Việt Nam với mức giá 4,7 triệu đồng. Máy sẽ cạnh tranh trực tiếp với một số đối thủ trong cùng phân khúc giá như Realme C25, Xiaomi Redmi Note 10 hay Samsung Galaxy A21s.
-Thế Anh
+# url = https://dantri.com.vn/suc-manh-so/oppo-band-ra-mat-tai-viet-nam-ho-tro-do-chi-so-sp-o-2-lien-tuc-20210410165830345.htm
+# date = 20210410
+Sau đồng hồ thông minh Oppo Watch, Oppo vừa cho ra mắt mẫu thiết bị theo dõi sức khỏe thứ 2 mang tên Oppo Band. Điểm nổi bật của sản phẩm này là chức năng theo dõi chỉ số SpO2 (độ bão hòa oxy trong máu) liên tục, ngay cả trong giấc ngủ.
+Chỉ số SpO2 được xem là một trong 5 chỉ số sinh tồn của con người. Việc theo dõi chỉ số này giúp bạn nắm rõ lượng oxy trong máu, biết được khi nào cần thêm oxy cho cơ thể hoặc có thể đưa ra những xử lý kịp thời trong tình huống nguy hiểm.
+Điểm nổi bật của sản phẩm này là chức năng theo dõi chỉ số SpO2 (độ bão hòa oxy trong máu) liên tục, ngay cả trong giấc ngủ.
+Theo Oppo, Band sẽ đo chỉ số SpO2 liên tục khoảng 28.800 lần trong một chu kỳ ngủ kéo dài 8h. Kết hợp với tính năng theo dõi giấc ngủ và đo nhịp tim, thiết bị này có thể cung cấp dữ liệu phân tích về chất lượng giấc ngủ của người dùng.
+Về tính năng đo nhịp tim, Band sử dụng một cảm biến nhịp tim quang học để theo dõi nhịp tim của người dùng. Nếu nhịp tim tăng cao, thiết bị sẽ rung để cảnh báo người dùng về chỉ số bất thường.
+Ngoài ra, thiết bị này cũng tích hợp sẵn 12 chế độ luyện tập gồm chạy bộ, đi bộ, đạp xe, bơi lội, yoga,… đồng thời lưu lại dữ liệu, giúp bạn theo dõi quá trình luyện tập mỗi ngày bằng ứng dụng riêng.
+Oppo Band có ngoại hình khá giống với nhiều mẫu vòng đeo tay thông minh phổ biến hiện nay với một phần "lõi" thiết kế như một đồng hồ hình thoi với màn hình AMOLED độ phân giải 126 x 294 pixel và các loại cảm biến. Trong khi đó, phần dây và vòng tay bọc ngoài có 2 màu sắc là đen và tím.
+Oppo Band sử dụng bộ xử lý Apollo 3 với bộ nhớ trong 16 MB, hỗ trợ kết nối Bluetooth 5.0. Thiết bị sử dụng pin 100 mAh, có thể sạc đầy trong 1,5 giờ, sử dụng trung bình 12 ngày. Oppo Band có khả năng chống nước ở độ sâu 50 m, kết nối với điện thoại (cả Android và iOS) để báo tin nhắn, hiển thị cuộc gọi, điều khiển nhạc, tìm điện thoại vv…
+Oppo Band được bán ra thị trường với mức giá 799.000 đồng. Thiết bị này sẽ cạnh tranh trực tiếp với chiếc Xiaomi Mi Band 6.

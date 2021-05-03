@@ -1,13 +1,19 @@
 # doc_id = news_sport_111
-# url = https://dantri.com.vn/the-thao/ha-gia-lai-chinh-thuc-tru-hang-o-v-league-2021-20210419125742263.htm
-# date = 20210419
-Vào chiều tối qua (18/4), HA Gia Lai đã giành chiến thắng 1-0 trước Hà Nội tại Pleiku trong khuôn khổ vòng 10 V-League. Bàn thắng duy nhất của trận đấu tới từ cú sút xa của Xuân Trường ở phút 34, đó là bàn thắng đầu tiên của Xuân Trường tại sân nhà kể từ năm 2018.
-Sau vòng 10, HA Gia Lai đang đứng đầu bảng xếp hạng với 25 điểm, hơn đội nhì bảng Viettel ba điểm và đội đứng thứ 7 Thanh Hóa 11 điểm. Điều đó đồng nghĩa, đội bóng của huấn luyện viên Kiatisuk trở thành đội bóng đầu tiên… trụ hạng thành công tại V-League 2021.
-Xuân Trường (trái) ghi bàn thắng duy nhất giúp HA Gia Lai đánh bại Hà Nội.
-V-League 2021 được chia làm hai giai đoạn. Trong giai đoạn đầu tiên các đội bóng sẽ thi đấu vòng tròn một lượt, tính điểm để phân định thứ hạng để chia nhóm tiến vào giai đoạn hai. Sáu đội đầu bảng ở giai đoạn một được chia thành nhóm A và sẽ thi đấu vòng tròn một lượt trong giai đoạn hai để tìm ra đội vô địch. Tám đội ở nửa cuối bảng xếp hạng vào nhóm B, cũng thi đấu với thể thức tương tự để xác định đội bóng phải xuống hạng.
-Với khoảng cách điểm giữa HA Gia Lai và đội xếp thứ 7 Thanh Hóa đang là 11 điểm, trong khi giai đoạn một chỉ còn ba lượt đấu nữa khép lại. Vì vậy, HA Gia Lai là đội bóng đầu tiên chính thức sẽ kết thúc giai đoạn một trong Top 6, đồng nghĩa họ không có khả năng xuống hạng.
-Tất nhiên việc HA Gia Lai trở thành đội bóng đầu tiên tại V-League 2021 trụ hạng chỉ là một thống kê.. vui. Trên thực tế đoàn quân của huấn luyện viên Kiatisuk đang thi đấu thăng hoa mạnh mẽ và họ hướng tới ngôi vô địch giải đấu, cũng như nhiều kỷ lục khác.
-HA Gia Lai (áo trắng) đang sở hữu chuỗi 6 trận thắng liên tiếp.
-Một trong những kỷ lục đang rất gần với đội bóng phố Núi là chuỗi trận thắng liên tiếp. Hiện tại HA Gia Lai đang có chuỗi 9 trận bất bại liên tiếp, trong đó thắng tới sáu chiến thắng liên tiếp gần đây. Kỷ lục thắng liên tiếp ở V-League đang thuộc về Nam Định và Sông Lam Nghệ An, với chuỗi 8 trận thắng.Điều đó có nghĩa, thầy trò HLV Kiatisuk có thể trở thành nhà vô địch lượt đi cùng một chuỗi kỷ lục chiến thắng mới. 
-HA Gia Lai cũng đang sở hữu hai chân sút dẫn đầu danh sách ghi bàn, với Văn Toàn (6 bàn), Công Phượng (5 bàn). Đội bóng phố Núi cũng đang thống trị các giải thưởng cá nhân dành cho cầu thủ và huấn luyện viên xuất sắc nhất tháng, từ đầu mùa giải 2021.
-Hạo Minh
+# url = https://dantri.com.vn/the-thao/ha-gia-lai-lo-them-tu-huyet-trong-cuoc-dua-vo-dich-v-league-20210424094648469.htm
+# date = 20210424
+Trong trận mở màn Cúp Quốc gia 2021, không khó hiểu khi HLV Kiatisuk đã sử dụng đội hình hai khi tiếp đối thủ An Giang. Những gương mặt như Văn Trường, Kiên Quyết, Đông Triều, Đức Lễ, Văn Việt, Quang Nho, Hữu Tuấn, Ngọc Quang, Việt Hưng, Đức Lương, Bảo Toàn, hầu hết đều xa lạ ở mùa giải này, khi chủ yếu ngồi trên băng ghế dự bị.
+Có lợi thế sân nhà, trong khi CLB An Giang đang thi đấu ở giải hạng Nhất, lại đứng đội sổ, việc HA Gia Lai có chiến thắng dễ dàng được nhiều người dự đoán.
+HA Gia Lai đang có khoảng cách lớn ở đội hình chính thức và dự bị.
+Thế nhưng, với đội hình gồm nhiều cầu thủ lần đầu được ra sân ở mùa giải năm nay, HA Gia Lai đã chơi thiếu nét và bế tắc. Trong suốt hiệp 1, đội chủ sân Pleiku gần như không thể làm gì được trước lối chơi chắc chắn, phòng thủ có tổ chức của đối thủ.
+Thậm chí ở giữa hiệp 2, lưới của HA Gia Lai đã bị rung lên. Các CĐV có mặt trên sân Pleiku như chết lặng khi đội nhà phải vào lưới nhặt bóng trước đối thủ không được đánh giá cao.
+Trong trận đấu, HLV Kiatisuk cũng nhiều lần phải bật cười vì những pha dứt điểm vô duyên của học trò. HA Gia Lai có cơ hội, nhưng không ai có thể ghi bàn vào lưới đội bóng hạng Nhất.
+Phải sau khi bị thủng lưới, trước nguy cơ thất bại, HLV Kiatisuk mới tung vào sân hàng loạt trụ cột, và đã tạo nên sự khác biệt. Tiền đạo vào sân thay người Nguyễn Văn Toàn đột phá vào vòng cấm của An Giang và khiến Nguyễn Phan Thế Lam lóng ngóng phạm lỗi với mình để mang về quả penalty cho đội chủ nhà. Chỉ 1 phút sau, Vũ Văn Thanh đá phạt đền chính xác gỡ hòa cho đoàn quân của HLV Kiatisuk.
+Đúng phút 90, pha xâm nhập khu cấm địa của Văn Toàn đã vô tình đưa bóng đến đúng chân của Nguyễn Trung Đại Dương và cầu thủ người Việt gốc Nigeria đã không bỏ lỡ thời cơ ấn định thắng lợi ngược dòng 2-1 cho HA Gia Lai để giúp họ đi tiếp tại cúp Quốc gia năm nay.
+Có thể nói, HA Gia Lai đã thắng một trận thót tim và có phần may mắn. Nếu không tung nửa đội hình trụ cột vào sân, có thể HLV Kiatisuk và đội bóng phố Núi phải nhận trái đắng.
+Nhiều thách thức đang đón chờ HLV Kiatisuk ở giai đoạn V-League sắp tới.
+Đi tiếp, nhưng trận thắng nhọc trước CLB An Giang của HA Gia Lai để lại nhiều vấn đề về lực lượng. Từ đầu mùa giải, đội bóng của bầu Đức thường "đóng khung" với những gương mặt quen thuộc như Xuân Trường, Văn Thanh, Công Phượng, Văn Toàn, Tuấn Linh… Những cầu thủ này đã vận hành rất tốt lối chơi của HLV Kiatisuk đưa ra.
+Tuy nhiên, khi tất cả ngồi trên băng ghế dự bị, HA Gia Lai ngay lập tức chơi như gà mắc tóc, dù đối thủ của họ chỉ là đội xếp đội sổ ở giải hạng Nhất.
+Sau trận đấu, HLV Kiatisuk cho biết ông không chủ quan khi tiếp An Giang, mà muốn trao cơ hội vào sân cho các cầu thủ ít được thi đấu. Theo chiến lược gia người Thái Lan, ở HA Gia Lai luôn có sự cạnh tranh công bằng, ai cũng được thể hiện mình để khẳng định năng lực.
+Dù không chỉ ra hạn chế của đội hình hai, nhưng có thể thấy HLV Kiatisuk có lý do để lo lắng với chất lượng "kép phụ". Với lịch thi đấu LS V-League 2021 dày đặc, chưa kể bước vào giai đoạn 2 với cuộc đua vô địch khốc liệt hơn rất nhiều, thì khoảng cách lớn giữa các cầu thủ đá chính và dự bị của HA Gia Lai chính là một "tử huyệt".
+Những đội bóng lớn ngay cả như CLB Hà Nội cũng lâm vào cảnh khó khi hàng loạt trụ cột dính chấn thương. HA Gia Lai may mắn hơn khi vẫn bảo toàn được lực lượng, nhưng trong bóng đá không thể nói trước được điều gì.
+Hoàng Quốc

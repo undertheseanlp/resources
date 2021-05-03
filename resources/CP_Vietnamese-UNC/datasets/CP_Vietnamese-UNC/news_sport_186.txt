@@ -1,16 +1,13 @@
 # doc_id = news_sport_186
-# url = https://dantri.com.vn/the-thao/ngoi-sao-man-city-lon-tieng-chi-trich-uefa-tan-bao-20210423125100945.htm
-# date = 20210423
-Man City là CLB đầu tiên "quay đầu" xin rút lui khỏi European Super League. Điều đó dẫn tới hiệu ứng domino khi 8 CLB tiếp theo là Man Utd, Chelsea, Tottenham, Arsenal, Liverpool, Inter, AC Milan, Atletico Madrid đều lần lượt tháo chạy.
-Gundogan cho rằng thể thức thi đấu mới ở Champions League cũng tệ không kém European Super League.
-Điều đó khiến cho dự án tổ chức siêu giải đấu có nguy cơ sụp đổ bởi chỉ còn 3 CLB góp mặt là Juventus, Real Madrid và Barcelona. Trước tình hình đó, những người đứng đầu European Super League đã thông báo rằng giải đấu tạm ngừng.
-Để đáp lại European Super League, UEFA cũng công bố thể thức thi đấu mới của Champions League, bắt đầu vào năm 2024. Theo đó, số đội tham dự giải đấu sẽ được tăng từ 32 lên 36 đội.
-Theo đó, mỗi bảng đấu sẽ có 6 đội, chia đều 6 bảng. Các CLB phải thi đấu 10 trận vòng bảng thay vì 6 trận đấu như cũ. 36 đội bóng sẽ thi đấu sẽ theo thể thức như giải vô địch quốc gia, 8 đội đứng đầu sẽ giành quyền đi tiếp.
-16 đội đứng ở vị trí tiếp theo sẽ chia cặp đá play-off để chọn ra 8 đội cuối cùng giành vé dự vòng knock-out. UEFA cũng cân nhắc sẽ đưa ra thêm thay đổi ở Europa League tùy theo tình hình.
-Theo tính toán, với thể thức mới này, Champions League sẽ có thêm khoảng 100 trận đấu nữa. Đó là con số không nhỏ trong bối cảnh các cầu thủ đã phải cày ải với mật độ dày đặc trong suốt mùa giải.
-Thể thức thi đấu mới khiến Champions League sẽ tăng khoảng 100 trận so với trước.
-Trước tình hình đó, ngôi sao Ilkay Gundogan của Man City đã lớn tiếng chỉ trích UEFA. Trên trang Twitter cá nhân, cầu thủ người Đức cho biết: "Với những diễn biến hiện tại của European Super League, chúng ta có nên bàn bạc về thể thức thi đấu mới ở Champions League hay không?
-Càng ngày, chúng tôi càng phải thi đấu thêm nhiều trận. Liệu những bên đấu đá nhau có nghĩ cho lợi ích của các cầu thủ? Thể thức thi đấu mới của Champions League chỉ là thứ ít tồi tệ hơn European Super League. Cả hai đều là những thứ ma quỷ.
-Theo tôi thì thể thức thi đấu hiện tại của Champions League đang hoạt động hiệu quả. Đó là lý do vì sao đây là giải đấu số 1 thế giới, với cả các cầu thủ và người hâm mộ nữa".
-Trước đó, Chủ tịch Florentino Perez của Real Madrid cho rằng thể thức mới của Champions League chỉ càng tạo thêm những trận đấu vô bổ, mà khán giả không cần quan tâm.
-H.Long
+# url = https://dantri.com.vn/the-thao/nguoi-dep-lang-golf-buon-kho-vi-cao-buoc-phan-biet-chung-toc-20210419212347810.htm
+# date = 20210419
+Mới đây, người đẹp nổi tiếng của làng golf thế giới, Paige Spiranac đã bất ngờ bị "ném đá" chỉ vì chia sẻ về chiến thắng của Hideki Matsuyama tại giải The Masters 2021.
+"Thực đơn buổi tối cho nhà vô địch chắc chắn sẽ bùng cháy thực sự vào năm sau", Paige Spiranac từng chia sẻ một cách vô tư.
+Chẳng ngờ, nhiều ý kiến lại cho rằng Paige Spiranac có ý "phân biệt chủng tộc" chỉ vì Hideki Matsuyama là tay golf nam người Nhật Bản đầu tiên vô địch tại một giải Major của hệ thống PGA Tour.
+Điều này khiến cho Paige Spiranac cảm thấy vô cùng bức xúc. Người đẹp sinh năm 1993 đã phải ngay lập tức lên tiếng phân bua trên mạng xã hội: "Tôi có một lời bình luận về việc thực đơn năm sau sẽ tuyệt vời như thế nào, chỉ bởi vì tôi yêu thích đồ ăn Nhật Bản mà thôi".
+"Phần lớn những người chiến thắng đều tạo ra một thực đơn để vinh danh quê hương của họ và tôi trông đợi rằng Kideki cũng sẽ làm điều tương tự", Paige Spiranac chia sẻ một cách thành thật.
+Paige Spiranac cũng khẳng định bản thân không bao giờ phân biệt chủng tộc và người đẹp 9x đang hết sức "khó chịu" vì bị cáo buộc một cách vô lý.
+Trên thực tế, không chỉ mình Paige Spiranac mà đông đảo các tín đồ làng golf đều hân hoan chúc mừng chiến tích lẫy lừng của Hideki Matsuyama.
+Cách đây ít ngày, tay golf sinh năm 1992 vừa xuất sắc vô địch giải The Masters 2021 diễn ra tại Augusta National, Mỹ với thành tích 278 gậy (tức 10 gậy dưới par), hơn người thứ nhì Will Zalatoris đúng 1 gậy.
+Dung Nhi
+Theo TS

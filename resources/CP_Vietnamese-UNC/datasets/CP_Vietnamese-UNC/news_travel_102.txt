@@ -1,20 +1,13 @@
 # doc_id = news_travel_102
-# url = https://dantri.com.vn/du-lich/du-khach-khong-deo-khau-trang-khi-den-phu-quoc-dip-304-se-bi-xu-phat-20210429083115579.htm
-# date = 20210429
-Ông Huỳnh Quang Hưng - Chủ tịch UBND TP Phú Quốc (tỉnh Kiên Giang) cho biết, dịp lễ 30/4 và 1/5 Phú Quốc đón một lượng lớn khách du lịch từ khắp nơi đổ về vui chơi giải trí trong những ngày nghỉ lễ. 
-Mặc dù đến thời điểm hiện tại, Phú Quốc kiểm soát tốt tình hình dịch bệnh, tuy nhiên dịch bệnh ở các nước láng giềng với Việt Nam đang bùng phát mạnh.
-Chính vì điều này, UBND tỉnh Kiên Giang đã có nhiều công văn chỉ đạo các cấp, các ngành siết chặt công tác phòng, chống dịch Covid-19; siết chặt đường biên giới trên bộ, trên biển và đường sông; tuyên truyền cho người dân, du khách thực hiện nghiêm khuyến cáo "5K" của Bộ Y tế.
-Lãnh đạo TP Phú Quốc cho biết, hiện các lực lượng siết chặt ngăn người nhập cảnh trái phép từ Campuchia về. Đồng thời đối với du khách đến Phú Quốc du lịch buộc đeo khẩu trang, giữ khoảng cách...
-Đối với TP Phú Quốc, nhiều lực lượng chốt chặt trên bờ, thường xuyên tuần tra trên biển; đồng thời tuyên truyền cho ngư dân cùng chung tay chống người nhập cảnh trái phép với lực lượng chức năng. 
-Ngoài ra, tất cả tàu cá ra vào biển Phú Quốc phải được lực lượng Biên phòng kiểm tra chặt chẽ.
-Riêng các điểm du lịch trên đảo Phú Quốc, UBNDtỉnh cũng như UBND TP. Phú Quốc đã có những văn bản yêu cầu thực hiện nghiêm biện pháp phòng, chống dịch. Như khử khuẩn khuôn viên nhà hàng, khách sạn, du khách đến buộc đeo khẩu trang, giữ khoảng cách, không tập trung đông người...
-Tại khu vui chơi giải trí Grand World "Thành phố không ngủ" cũng phải tuân thủ nghiêm việc đeo khẩu trang và tránh tập trung đông người, đảm bảo công tác phòng, chống dịch bệnh.
-Tất cả du khách khi đến vui chơi tại các điểm tham quan du lịch, phải đeo khẩu trang.
-Tại Đồng Tháp, ông Đoàn Tấn Bửu - Phó Chủ tịch UBND tỉnh Đồng Tháp cho biết, dịp lễ 30/4 và 1/5 này các sự kiện tập trung đông người đều phải giảm quy mô (nếu có diễn ra). Tất cả du khách khi đến các điểm tham quan du lịch ở Đồng Tháp buộc phải đeo khẩu trang, giữ khoảng cách...
-Ngoài ra, ông Bửu còn cho biết, UBND tỉnh sẽ ban hành công văn cụ thể về công tác phòng, chống dịch Covid-19 theo chỉ thị mới của Thủ tướng Chính phủ, trong đó, tất cả các cơ quan nhà nước, cán bộ và người dân khi đến làm việc đều phải mang khẩu trang.
-Lãnh đạo TP Châu Đốc cho biết, khách vào viếng Bà Chúa xứ núi Sam buộc đeo khẩu trang y tế. (ảnh Phú Lộc)
-Còn tại TP. Châu Đốc, tỉnh An Giang hiện đang vào mùa Lễ hội vía Bà Chúa Xứ núi Sam nên thường ngày có cả nghìn lượt khách đến viếng Bà, tham quan du lịch. Để đảm bảo công tác phòng, chống dịch, UBND tỉnh An Giang ban hành nhiều văn bản chỉ đạo các cấp, ngành và yêu cầu người dân thực hiện nghiêm khuyến cáo "5K" của Bộ Y tế.
-Ông Trần Quốc Tuấn - Phó Chủ tịch UBND TP. Châu Đốc cho biết, tại khu du lịch và trước cổng Miếu Bà Chúa Xứ núi Sam đều có nhân viên yêu cầu du khách đeo khẩu trang.
-"Đây là điều tiên quyết, nếu du khách không mang khẩu trang thì không cho vào. Ngoài ra, còn có nhiều lực lượng kiểm tra, nhắc nhở du khách đến viếng Bà phải đeo khẩu trang; tránh tụ tập đông người. 
-Các đoàn đến cúng viếng trật tự, theo từng đoàn, đảm bảo phòng, chống dịch cho bản thân và những người xung quanh". Ông Trần Quốc Tuấn - Phó Chủ tịch UBND TP. Châu Đốc, chia sẻ.
-Nguyễn Hành
+# url = https://dantri.com.vn/du-lich/du-khach-thuong-lam-mua-hoa-sua-vang-ruc-ben-song-tam-ky-20210414204315134.htm
+# date = 20210414
+Tháng Tư hàng năm, người dân làng Hương Trà nói riêng và phường Hòa Hương, thành phố Tam Kỳ (Quảng Nam) nói chung đều rất bồi hồi và tự hào về mùa hoa sưa vàng nở rộ trên con đường dài khoảng 3km chạy bên bờ sông Tam Kỳ thơ mộng.
+Theo Phòng Văn hóa Thông tin thành phố Tam Kỳ cho hay, lễ hội hoa sưa diễn ra từ ngày 3-17/4 năm nay dự kiến sẽ đón khoảng 8.000 du khách về đây để thưởng lãm và vui chơi.
+Đến thưởng lãm mùa hoa sưa năm nay, ngoài được đắm mình với sắc vàng rực rỡ, huyền ảo, du khách còn tham dự các hoạt động ý nghĩa và sinh động ở đây.
+Chị em phụ nữ xúng xính trong tà áo dài chụp hình ở Vườn Cừa, làng Hương Trà, phường Hòa Hương, thành phố Tam Kỳ - nơi tổ chức lễ hội hoa sưa hàng năm. Theo thống kê của UBND phường Hòa Hương, hiện nay, trên con đường này có khoảng 180 cây sưa các loại có tuổi đời từ 40-500 năm tuổi.
+Những bức ảnh chụp với hoa sưa ở Vườn Cừa trong dịp lễ hội hoa sưa năm nay là món ăn tinh thần của chị em phụ nữ.
+Năm nay, do ảnh hưởng của dịch Covid-19, thành phố Tam Kỳ không tổ chức lễ hội mà chỉ triển khai một số hoạt động thiết thực để phục vụ người dân khi đến thưởng lãm hoa sưa, qua đó góp phần thúc đẩy hoạt động du lịch của thành phố và làng sinh thái Hương Trà trở thành điểm đến của du lịch Quảng Nam.
+Những tán hoa sưa vàng rực cả một góc trời ở thành phố Tam Kỳ, tô điểm thêm cho sắc màu của thành phố yên bình trong những ngày đầu tháng Tư này.
+Vào thời gian này, khắp mọi ngả đường ở thành phố Tam Kỳ vàng ruộm sắc hoa sưa cùng hương thơm dịu dàng, quyến rũ làm say đắm lòng người. Mỗi khi trời có gió, hoa sưa bay khắp không gian trong thành phố, vương lên tóc, quần áo của du khách.
+Công Bính
+Ảnh: Dũng TK

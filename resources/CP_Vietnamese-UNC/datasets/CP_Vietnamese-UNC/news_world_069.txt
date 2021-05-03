@@ -1,15 +1,14 @@
 # doc_id = news_world_069
-# url = https://dantri.com.vn/the-gioi/can-canh-may-bay-van-tai-my-chuyen-hang-cuu-an-do-thoat-bao-covid-19-20210430213019736.htm
-# date = 20210430
-C-5M Super Galaxy, một trong những máy bay vận tải chiến lược lớn nhất của Không quân Mỹ, đã hạ cánh xuống sân bay quốc tế Indira Gandhi ở thủ đô New Delhi sáng nay 30/4, chuyển lô hàng cứu trợ Covid-19 khẩn cấp của Mỹ cho Ấn Độ.
-Máy bay vận tải Mỹ chở theo 440 bình ôxy và bộ điều chỉnh, 960.000 bộ xét nghiệm Covid-19 nhanh, 100.000 khẩu trang N95, cùng nhiều loại thiết bị y tế khác.
-Máy bay C-5M Super Galaxy cất cánh từ căn cứ quân sự Travis ở bang California, Mỹ và hạ cánh xuống New Delhi.
-"Chuyến hàng đầu tiên trong số những chuyến hàng cứu trợ Covid-19 khẩn cấp từ Mỹ đã tới Ấn Độ! Trên cơ sở 70 năm hợp tác, Mỹ sẽ sát cánh bên cạnh Ấn Độ khi chúng ta cùng nhau chiến đấu chống lại đại dịch Covid-19", Đại sứ quán Mỹ tại Ấn Độ viết trên Twitter ngày 30/4.
-Người phát ngôn Bộ Ngoại giao Mỹ Ned Price ngày 29/4 cho biết Washington sẽ cung cấp gói viện trợ trị giá hơn 100 triệu USD trong những ngày tới để cứu trợ khẩn cấp cho Ấn Độ.
-Sau lô hàng sáng nay, một máy bay quân sự khác của Mỹ chở một lượng lớn thiết bị y tế và các vật tư khác dự kiến sẽ hạ cánh xuống thủ đô New Delhi vào cuối ngày hôm nay.
-Ngoài Mỹ, hàng loạt quốc gia cũng đang gửi viện trợ cho Ấn Độ gồm Nga, Pháp, Đức, Australia, Ireland, Bỉ, Romania, Luxembourg, Singapore, Bồ Đào Nha, Thụy Điển, New Zealand, Kuwait và Mauritius.
-Chính quyền Tổng thống Mỹ Joe Biden cho biết sẽ vận chuyển đến Ấn Độ các vật tư để sản xuất hơn 20 triệu liều vắc xin Covishield, một phiên bản giá rẻ của vắc xin AstraZeneca được phát triển tại Ấn Độ.
-Mỹ cũng đang đàm phán với Ấn Độ về việc xác định cách thức mở rộng "chuỗi cung ứng ôxy", bao gồm phát triển các công nghệ chuyển đổi ôxy công nghiệp thành ôxy sử dụng trong y tế, đồng thời cải thiện các phương thức vận chuyển ôxy khắp đất nước.
-Ấn Độ hiện là vùng dịch lớn thứ 2 thế giới, chỉ sau Mỹ. Cho đến nay, Ấn Độ ghi nhận hơn 18,7 triệu ca nhiễm và hơn 208.000 ca tử vong vì Covid-19.
-Thành Đạt
-Ảnh: Reuters
+# url = https://dantri.com.vn/the-gioi/can-cu-co-quan-my-o-iraq-rung-chuyen-vi-bi-doi-rocket-20210423070808139.htm
+# date = 20210423
+Bệ phóng rocket được tìm thấy ở quận Al-Jihad sau vụ tấn công (Ảnh: Twiter).
+Sputnik đưa tin, vụ việc xảy ra vào ngày 22/4 khi một số quả rocket rơi gần sân bay quốc tế Baghdad ở Iraq. Theo Sky News, có 3 quả rocket đã rơi xuống khu vực này.
+Reuters dẫn nguồn tin từ các quan chức an ninh cho biết, các rocket đã rơi xuống khu vực của sân bay, nơi quân Mỹ đang đồn trú. Hiện chưa có thông tin về thiệt hại hay thương vong.
+Một nguồn tin từ cơ quan an ninh nói với đài al-Sumaria rằng, mục tiêu chính của vụ tấn công là căn cứ quân sự Victory của Mỹ. Căn cứ Victory là một phần của khu phức hợp quân sự Mỹ nằm quanh sân bay Baghdad.
+Trong khi đó, nhiều người dùng mạng xã hội đăng tải hình ảnh, video được xem là ghi lại vụ tấn công.
+Chưa có thông tin liên quan tới bên thực hiện vụ tấn công nhưng các nhóm vũ trang bị nghi do Iran hậu thuẫn trước đó từng thực hiện các vụ việc tương tự trong quá khứ nhằm vào các khu vực có sự hiện diện của người Mỹ, như căn cứ quân sự hay Đại sứ quán Mỹ ở Baghdad.
+Kể từ khi Tổng thống Mỹ Joe Biden lên nhậm chức hôm 20/1, đã có hơn 20 vụ tấn công bằng bom và rocket chống lại các lợi ích của Mỹ ở Iraq.
+Mỹ rút quân khỏi Iraq vào năm 2011 nhưng trở lại vào năm 2014 khi được chính phủ Baghdad đề nghị giúp đỡ chống lại nhóm khủng bố khét tiếng Nhà nước Hồi giáo tự xưng IS.
+Tính đến cuối năm 2020, Mỹ còn 2.500 quân nhân ở Iraq sau một số vụ rút bớt quân về nước theo lệnh của cựu Tổng thống Mỹ Donald Trump.
+Đức Hoàng
+Theo Sputnik

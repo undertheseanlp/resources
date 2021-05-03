@@ -1,8 +1,14 @@
 # doc_id = news_health_055
-# url = https://dantri.com.vn/suc-khoe/benh-nhan-ung-thu-co-duoc-an-dau-phu-uong-sua-dau-nanh-20210417164705771.htm
-# date = 20210417
-Trong 100g đậu nành cung cấp 400 kcal năng lượng, 34g chất đạm, 18,4g chất béo và các vi chất khác như canxi, magie, photpho, kẽm và một số vitamin nhóm B. Tuy nhiên, hiện nay nhiều người thắc mắc bệnh nhân ung thư vú hoặctuyến tiền liệt có được dùng đậu nành không?
-Băn khoăn trên của người bệnh ung thư là do giả thiết các chất phytoestrogen trong đậu nành sẽ làm phát triển các tế bào ung thư nhạy cảm với hormone. Theo bác sĩ Bệnh viện K Trung ương, cho đến nay, các nghiên cứu trên những người bệnh sau điều trị ung thư vú và ung thư tuyến tiền liệt cho thấy không có tác dụng có hại nào từ đậu nành đối với sự phát triển khối u và nguy cơ tái phát ung thư.
-Đậu nành được xem như một loại thực phẩm có lợi trong khẩu phần của chế độ ăn uống lành mạnh. Từ đậu nành có thể chế biến ra các món ăn ngon miệng, bổ dưỡng gần gũi với văn hóa và đời sống của người Việt Nam.
-Do đó, không có lý do gì để tránh hoặc kiêng đậu nành, đừng để những lầm tưởng về đậu nành ngăn bạn thưởng thức chúng như một phần của chế độ ăn uống lành mạnh. Khuyến nghị đậu nành cho bệnh nhân ung thư hiện nay là 1- 2 đơn vị/ngày tương đương với 1-2 bìa đậu phụ, 1-2 cốc sữa đậu nành, 30-60g hạt đậu nành.
-Hà An
+# url = https://dantri.com.vn/suc-khoe/benh-vien-dau-tien-cua-viet-nam-la-trung-tam-dao-tao-ngoai-khoa-toan-cau-20210420170305052.htm
+# date = 20210420
+Chiều 20/4, BV Việt Đức đã tổ chức lễcông bố Bệnh viện hạng đặc biệt lần thứ 2 và nhận chứng chỉ toàn cầu của Hiệp hội Phẫu thuật Hoàng gia Anh, công nhận BV Việt Đức là trung tâm đào tạo ngoại khoa đầu tiên tại Việt Nam đạt chất lượng toàn cầu.
+Bệnh viện Việt Đức là bệnh viện đầu tiên trong cả nước được công nhận là trung tâm đào tạo ngoại khoa đạt chất lượng toàn cầu.
+GS.TS Trần Bình Giang, Giám đốc BV Việt Đức cho biết, cho đến nay, Việt Đức là bệnh viện ngoại khoa duy nhất đạt hạng bệnh viện đặc biệt. Đây là lần thứ 2 liên tiếp Bệnh viện được Bộ Nội vụ công nhận là Bệnh viện hạng đặc biệt.
+Bệnh viện là đơn vị đầu tiên thuộc Bộ Y tế được công nhận lại Bệnh viện đặc biệt trong năm 2021.Tại BV, mỗi năm thực hiện trên 70.000 ca phẫu thuật, chủ yếu là những ca bệnh nặng, phức tạp. Bệnh viện là cơ sở đi đầu trong cả nước thực hiện thành công ghép đa tạng, ghép gan, ghép tim, ghép thận, ghép phổi…. và đã triển khai nhiều dịch vụ y tế nhằm nâng cao chất lượng phục vụ, hướng đến sự hài lòng của người bệnh như dịch vụ khám sức khỏe, khám yêu cầu, bảo hiểm bảo lãnh....
+GS.TS Trần Bình Giang (phải) thay mặt BV đón nhận danh hiệu Trung tâm đào tạo ngoại khoa đạt chất lượng toàn cầu.
+Trước đó, ngày3/2/2021, Bệnh viện Hữu nghị Việt Đức chính thức được Hiệp hội phẫu thuật Hoàng gia Anh (The Royal College of Surgeons of England) công nhận là trung tâm đào tạo ngoại khoa đầu tiên tại Việt Nam đạt chất lượng toàn cầu.
+GS Giang cho biết, Hiệp hội Phẫu thuật Hoàng gia Anh (RCS) là cơ quan độc lập có nhiều hoạt động, trong đó có chức năng đánh giá và xếp hạng ngoại khoa và cấp chứng chỉ toàn cầu theo những tiêu chí chặt chẽ. Các cơ sở đào tạo liên quan ngoại khoa không chỉ tại Anh mà nhiều các nước cũng mong muốn được cấp chứng chỉ của RCS để thăng hạng và uy tín về đào tạo và chất lượng phẫu thuật viên của mình, không chỉ trong nước mà tiêu chuẩn quốc tế.
+Với sự công nhận này, Bệnh viện sẽ thu hút được nhiều sự quan tâm của các bệnh viện, cơ sở y tế lớn trên toàn cầu cũng như các chuyên gia nước ngoài có những buổi giảng dạy, chia sẻ kinh nghiệm chuyên môn để nâng cao trình độ cho nhân viên của bệnh viện cũng như tiếp đón các sinh viên, học viên nước ngoài đến học tập và thực hành theo chuẩn quốc tế.
+Cũng trong buổi lễ này, Bệnh viện Hữu nghị Việt Đức chính thức khai trương hệ thống Hỗ trợ y học từ xa (Telemedicine) thuộc dự án Y tế tuyến tỉnh tại Bệnh viện Hữu nghị Việt Đức và một số bệnh viện địa phương được hỗ trợ bởi nguồn vốn ODA của Chính phủ Đức.
+Dự án Telemedicine ra đời với mục đích chính là có thể giúp đỡ những hoàn cảnh khó khăn ở vùng sâu vùng xa, miền núi có thể tiếp cận với dịch vụ chăm sóc y tế hiện đại mà không cần phải di chuyển đến những bệnh viện lớn thuộc tuyến trung ương, góp phần tiết kiệm chi phí của người bệnh và giảm quá tải bệnh viện.
+Tú Anh

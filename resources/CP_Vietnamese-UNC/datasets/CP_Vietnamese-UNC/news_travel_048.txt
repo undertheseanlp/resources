@@ -1,21 +1,20 @@
 # doc_id = news_travel_048
-# url = https://dantri.com.vn/du-lich/bo-nha-hang-tay-vo-chong-dau-bep-mo-xe-bap-nuong-doc-ngay-ban-200-trai-20210419185148356.htm
-# date = 20210419
-Chiếc xe bắp nướng đơn giản nằm trong một con hẻm trên đường Bùi Hữu Nghĩa, quận Bình Thạnh, thành phố Hồ Chí Minh của anh Lâm - chị Linh là địa điểm quen thuộc của nhiều bạn trẻ Sài Gòn.
-Tầm cuối giờ chiều, quán lúc nào cũng chật cứng thực khách và shipper. "Đặc sản" của xe bắp này là món bắp nướng ăn cùng nước mắm pha kẹo có "1 - 0 - 2".
-Bắp nướng vốn là món ăn bình dân được yêu thích tại Sài Gòn. Phiên bản phổ biến nhất là bắp nướng mỡ hành xuất hiện ở khắp các ngõ, hẻm, tuyến phố Sài Gòn.
-Nhưng bắp nướng ăn cùng nước mắm pha kẹo lại là món ăn mới lạ, "hiếm có khó tìm". Món ăn này mới chỉ ra đời hơn 2 tháng nay từ xe bắp của vợ chồng anh Lâm - chị Linh nhưng đã nhanh chóng tạo ra "cơn sốt".
-Món bắp nướng mỡ hành "gây sốt" của anh Lâm, chị Linh.
-"Món ăn này là sự kết hợp của tất cả những món mình đang bán, như cơm cháy và da heo chiên giòn. Ban đầu mình thử để ăn kèm cùng mỡ hành nhưng thấy không hợp. Từ đó mình quyết sáng tạo ra món nước mắm kẹo để ăn cùng", anh Lâm chủ quán cho biết.
-Theo anh chị, nước mắm kẹo này được nấu trên bếp nhiều giờ để có độ đậm đà đặc trưng. "Mình phải có kinh nghiệm thì mắm mới không bị cháy, khét mà lại đậm đà. Đây chính là phần quan trọng tạo nên sức hấp dẫn của món ăn", anh Lâm cho biết.
-Khách đến quán thường gọi món ăn của anh Lâm là "bắp xúc", bởi khi ăn món này thực khách cần phải xúc một muỗng thật nhiều với đầy đủ các món ăn kèm thì mới cảm nhận hết được vị ngon.
-Ngoài hai nguyên liệu là bắp nướng thơm lừng, nước mắm kẹo vừa miệng, sền sệt thì món ăn còn giòn rôm rốp với phần cơm cháy bóp nhuyễn, da heo chiên giòn, tóp mỡ, ruốc…
-Da heo được chiên xù đẹp mắt, giòn rôm rốp. Toàn bộ những nguyên liệu này đều do anh Lâm, chị Linh tự tay làm.
-"Mỗi suất có giá 25.000 đồng mà thường 2 người ăn mới hết. Mức giá này nhiều khách hàng thắc mắc là rẻ quá. Nhưng mình cốt lấy công làm lãi", chị Linh cho biết.
-Phần da heo chiên giòn được anh Lâm chị Linh tự chế biến sao cho vừa giòn, vừa có màu vàng và độ xù đẹp mắt.
-Mỗi ngày, anh chị nhận được cả trăm đơn đặt hàng từ thực khách khắp thành phố qua các ứng dụng giao hàng.
-Vợ chồng chủ quán vốn là đầu bếp chuyên món Âu tại các nhà hàng. Hơn 6 năm trước, khi sinh bé thứ 2, để có thời gian chăm sóc con, anh chị đã quyết định nghỉ việc, về mở xe bắp vỉa hè tự kinh doanh. "Ban đầu quán vắng nên thu nhập có chút khó khăn. Bây giờ thì vợ chồng mình đạt doanh thu ổn rồi", chị Linh tâm sự.
-Tuy bán món bắp nướng quen thuộc nhưng anh Lâm luôn cố gắng tìm tòi để tạo ra những mùi vị mới cho món ăn. Trung bình mỗi ngày anh chị bán 150 - 200 trái bắp, hơn 10kg da heo chiên giòn...
-"Món này ăn vừa quen vừa lạ. Nước mắm kẹo vừa miệng lắm luôn. Một suất 25000 đồng mà mình ăn no căng bụng", tài khoản Minh Phương Vũ chia sẻ về món ăn.
-"Quán nhìn bình thường mà món ăn thì "không bình thường" chút nào đâu. Mình ăn da heo chiên, tóp mỡ ở đây từ lâu. Khi có món bắp xúc này thì mê mẩn luôn", HoàiThu bình luận.
-Khôi Vũ
+# url = https://dantri.com.vn/du-lich/bong-ma-covid-19-co-nguy-co-bien-noc-nha-the-gioi-thanh-o-lay-nhiem-20210423164753708.htm
+# date = 20210423
+Khi Nepal đón các nhà leo núi nước ngoài đến với đỉnh Everest trong đợt leo núi mùa xuân năm nay, nhiều người lo ngại chuyện Covid-19 có mặt ở đỉnh núi cao nhất thế giới chỉ còn là vấn đề thời gian.
+Ngày 21/4/2021, tạp chí Inside đưa tin, một người leo núi ở trạm nghỉ được đưa đi cấp cứu bằng trực thăng có kết quả xét nghiệm dương tính với Covid-19 tại bệnh viện Kathmandu, Nepal.
+Tờ New York Times còn cho hay, trên thực tế có nhiều người leo núi dương tính với Covid-19 sau khi được đưa ra khỏi trạm nghỉ. Hiện, chưa rõ chính xác có bao nhiêu người leo lên đỉnh Everest dương tính với Covid-19, Bộ Du lịch Nepal cũng không đưa ra bình luận nào về vấn đề này.
+Những người leo lên đỉnh Everest (Ảnh chụp năm 2018).
+Adrian Ballinger, người sáng lập Alpenglow Expeditions cho biết, công ty đã hủy tour leo núi Everest mùa xuân năm nay. Với tình trạng số ca nhiễm ở Nepal tăng lên giữa bối cảnh nước láng giềng Ấn Độ đang vật lộn trong đợt bùng phát mạnh, các trạm nghỉ đông đúc và đội ngũ nhân viên khuân vác đồ... có thể lây lan dịch bệnh.
+Lý do Alpenglow Expedition đưa ra quyết định hủy chuyến leo núi do đoàn có 300 người leo núi đồng nghĩa cần 500 người Nepal hỗ trợ để khuân vác đồ và phụ giúp, tiếp tế đồ ăn... "Chúng tôi không thể cách ly hoàn toàn những nhân viên đó", Adrian Ballinger cho hay.
+Điều đáng lo ngại là nhiều biểu hiện của người nhiễm Covid-19 gần giống với triệu chứng say độ cao và "cơn ho Khumbu" hay gặp với những người leo núi có độ cao lớn. Trong khi các công ty tổ chức tour cao cấp đã hủy bỏ chuyến leo núi mùa xuân lên Everest thì một số công ty cung cấp tour giá rẻ vẫn thực hiện hành trình.
+Tính đến thứ Tư (21/4/2021), cơ quan du lịch của Nepal cấp phép cho 377 người leo lên Everest trong năm nay tương đương với con số được cấp phép năm 2019.
+Là một trong những quốc gia nghèo nhất châu Á, Nepal phụ thuộc nhiều vào khách du lịch nước ngoài.
+Chính phủ nước này thu được hơn 3,8 triệu USD tiền phí nhờ cấp giấy phép cho người leo núi trong năm nay. Năm 2020, nguồn thu này không có khi dịch Covid-19 bùng phát, Nepal đóng cửa biên giới và hủy bỏ tất cả các cuộc leo núi lên Everest.
+Sau 1 năm khó khăn do đại dịch, Nepal đã mở cửa cho những người leo núi trở lại dù dịch Covid-19 chưa chấm dứt. Đến nay, khả năng bùng phát Covid-19 tại các trạm nghỉ không khiến cho kế hoạch của những người leo núi thay đổi.
+Chhang Dawa Sherpa, người sáng lập Apex Nepal Treks & Tours cho biết: "Ở đây, tất cả đều tốt". Người này còn nói thêm, không có ai nhiễm Covid-19 trong số khách đang chinh phục Everest.
+Còn công ty Furtenbach Expeditions (California, Mỹ) có một đoàn đã đến trạm nghỉ đầu tiên, trong khi một đoàn khác đang trên đường tới đó cũng không có ý định quay lại. Để phòng dịch, công ty yêu cầu những người leo núi phải thực hiện xét nghiệm đều đặn và cấm người trong đoàn giao tiếp với bất kỳ khách nào ở đoàn khác.
+Nepal cũng đang dần nới lỏng các hạn chế với khách leo núi Everest. Trước đây, nước này yêu cầu khách phải mua bảo hiểm bổ sung để chi trả chi phí điều trị Covid-19, hiện đã nới lỏng yêu cầu này.
+Cuối tháng 3, Chính phủ Nepal còn thông báo không bắt buộc cách ly 7 ngày, miễn có kết quả xét nghiệm Covid-19 lần 2 âm tính.
+Phương Hà
+Theo Washington Post

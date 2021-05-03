@@ -1,11 +1,9 @@
 # doc_id = news_travel_101
-# url = https://dantri.com.vn/du-lich/du-khach-do-ve-hoi-an-nghi-le-qua-dong-20210430210949604.htm
-# date = 20210430
-Ngày 30/4, ngày đầu tiên của kỳ nghỉ lễ 4 ngày, rất đông du khách đã đổ về Hội An vui chơi, tham quan, các tuyến đường đều chật kín du khách.
-Sau khi có yêu cầu bắt buộc đeo khẩu trang nơi công cộng của UBND tỉnh Quảng Nam, hầu hết du khách khi tham quan phố cổ đều chấp hành nghiêm túc.
-Do lượng khách đổ về rất đông trong dịp nghỉ lễ này, thành phố Hội An cũng đã triển khai lực lượng an ninh nhằm nhắc nhở du khách tuân thủ đeo khẩu trang khi tham quan phố cổ, các điểm du lịch trên địa bàn thành phố.
-UBND TP Hội An cho biết, dịp lễ 30/4-1/5 được nghỉ dài ngày nên lượng du khách đến tham quan đảo Cù Lao Chàm tăng vọt, thành phố cũng đã chỉ đạo đồn biên phòng, UBND phường Cửa Đại, UBND xã Tân Hiệp tăng cường công tác kiểm tra, kiểm soát phòng chống dịch Covid-19.
-Ông Nguyễn Văn Lanh - Phó Chủ tịch TP Hội An cho hay: "Thành phố đã đề nghị công an chỉ đạo triển khai ngay lực lượng phối hợp với phường Minh An quyết liệt xử lý các trường hợp du khách không đeo khẩu trang khu phố cổ, điểm tham quan. Với những du khách không chấp hành sẽ xử phạt hành chính". Ngoài gác tại điểm cố định, lực lượng an ninh cũng đạp xe quanh phố cổ nhắc nhở du khách.
-Du khách thích thú check-in Hội An khi tham quan phố cổ.
-Trước đó, TP Hội An cũng quyết định tạm hoãn các chương trình, sự kiện tập trung đông người trong dịp lễ 30/4-1/5. Cần thực hiện thường xuyên việc kiểm tra, giám sát, nhắc nhở du khách mang khẩu trang, hạn chế tập trung đông người, tuân thủ 5K của Bộ Y tế.
-Công Bính - Ngô Linh
+# url = https://dantri.com.vn/du-lich/du-khach-thang-tay-nem-hon-18-trieu-dong-qua-cua-so-khach-san-20210330183500571.htm
+# date = 20210330
+Theo nguồn tin từ sở cảnh sát ở Yongin Dongbu thuộc tỉnh Gyeonggi, Hàn Quốc, một du khách nam khoảng 60 tuổi quốc tịch Nhật Bản đã ném xấp tiền giấy với nhiều mệnh giá 50.000 won, 10.000 won, 5.000 won và 3 tờ mệnh giá 10.000 yen qua cửa sổ khách sạn cách ly vì bức xúc với nhân viên. Tổng số tiền bị ném xuống trị giá khoảng 900.000 won (hơn 18 triệu đồng).
+Được biết, vụ việc xảy ra khoảng 10h40 sáng ngày 27/3 tại tầng 13 của khách sạn. Đây là nơi được chính quyền địa phương chỉ định dành cho du khách nước ngoài nhập cảnh khi vào Hàn Quốc.
+Vụ tranh cãi nổ ra sau khi nhân viên khách sạn tới phòng vị khách rồi yêu cầu thanh toán 1,6 triệu won (hơn 32,5 triệu đồng) cho chi phí cách ly ở đây. Vì nóng giận, du khách đã ném tiền xuống dưới.
+Theo các cảnh sát, họ đã thu lại hầu hết số tiền mặt rơi xuống đường phố và trả lại cho nhân viên khách sạn. Người đàn ông sẽ nhận lại tiền sau khi trả phòng.
+Huy Hoàng
+Theo Koreatimes

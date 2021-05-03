@@ -1,22 +1,23 @@
 # doc_id = news_health_095
-# url = https://dantri.com.vn/suc-khoe/da-nang-28-truong-hop-f-1-cua-ca-mac-covid-19-o-ha-nam-da-am-tinh-20210430123644693.htm
-# date = 20210430
-Ngày 30/4, Trung tâm Kiểm soát bệnh tật (CDC) TP Đà Nẵng cho biết liên quan đến ca bệnh 2899 ở Hà Nam, Đà Nẵng đã rà soát và lấy mẫu xét nghiệm đối với 29 F1.
-Trong đó, CDC TP Đà Nẵng thực hiện lấy mẫu cho 28 trường hợp, 1 người còn lại được Bệnh viện 199 - Bộ Công an lấy mẫu.
-Mẫu xét nghiệm của 28 F1 do CDC Đà Nẵng thực hiện đã có kết quả âm tính với SARS-CoV-2. Còn mẫu xét nghiệm của 1 F1 tại Bệnh viện 199 hiện chưa có kết quả.
-Ngành y tế Đà Nẵng đã lấy mẫu xét nghiệm 29 trường hợp F1 của ca mắc Covid-19 ở Hà Nam, kết quả đã có 28 trường hợp âm tính với SARS-CoV-2, trường hợp còn lại chưa có kết quả.
-Hiện Trung tâm Kiểm soát bệnh tật TP Đà Nẵng đang tiếp tục rà soát, điều tra các trường hợp tiếp xúc gần với bệnh nhân mắc Covid-19 tại Hà Nam để áp dụng các biện pháp can thiệp y tế phù hợp.
-Trước đó, bệnh nhân N.V.Đ (SN 1993, trú tỉnh Hà Nam) từ Nhật Bản nhập cảnh đến Đà Nẵng ngày 7/4 và cách ly tập trung 14 ngày tại khách sạn Alisia. Kết quả xét nghiệm 3 lần vào các ngày 8, 12 và 21/4 của anh Đ. đều âm tính.
-Ngày 22/4, bệnh nhân trở về Hà Nam bằng xe ô tô. Đến ngày 24/4, bệnh nhân xuất hiện ho sốt, đau họng, được cơ quan chức năng đến lấy mẫu, điều tra dịch tễ.
-Kết quả xét nghiệm khẳng định bệnh nhân dương tính với SARS-CoV-2.
-Phú Quốc chuẩn bị tiêm vắc xin phòng Covid-19 cho gần 1.500 người
-Theo kế hoạch,đợt đầu tiên Kiên Giang sẽ có 1.489 người được tiêm vắc xin phòng Covid-19 tại 12 điểm tiêm, bắt đầu từ ngày 2/5 đến ngày 5/5. Riêng tại điểm tiêm tại đại đội pháo 37 sẽ tổ chức tiêm trong 2 ngày 4 và 5/5.
-Những người được tiêm đợt này thuộc lực lượng tuyến đầu phòng dịch làm việc trong các cơ sở y tế; nhân viên, cán bộ hải quan, cán bộ làm công tác xuất nhập cảnh, sân bay; thành viên ban chỉ đạo phòng chống dịch các cấp, làm việc ở các khu cách ly, tình nguyện viên, phóng viên,giáo viên, người làm việc tại các cơ sở giáo dục, người làm việc tại các cơ quan thường xuyên tiếp xúc với nhiều người.
-Theo kế hoạch từ 2/5-5/5, Phú Quốc sẽ tiêm vắc xin phòng Covid-9 cho gần 1.500 người.
-Riêng với đối tượng là giáo viên, sẽ tổ chức tiêm vắc xin phòng Covid-19 cho 3 trường THPT trên địa bàn và giáo viên các trường THCS Dương Đông 1 và THCS Dương Đông 2. Ngoài ra, đối với các trường THCS An Thới 1, TH-THCS An Thới 2 sẽ tiêm dự phòng nếu còn vắc xin.
-Cũng theo kế hoạch, Phú Quốc sẽ bố trí 12 điểm tiêm, bắt đầu từ 2/5 - 5/5. Riêng điểm tiêm tại đại đội pháo 37 sẽ tổ chức tiêm trong 2 ngày (4-5/5).
-Do Phú Quốc là điểm đến lí tưởng của du khách trong và ngoài nước nên UBND tỉnh Kiên Giang có tờ trình xin Chính phủ hỗ trợ để Kiên Giang mua vắc xin tiêm phòng cho tất cả cư dân trên đảo Phú Quốc.
-Theo bác sĩ Lê Công Lĩnh, Giám đốc Trung tâm Y tế TP. Phú Quốc cho biết, trước khi tiêm ngừa vắc xin phòng Covid-19, các trường hợp được tiêm sẽ được nhân viên y tế tổ chức thăm khám. Người nào đủ tiêu chuẩn sẽ được tiêm ngừa, sau đó sẽ được theo dõi khoảng 30 phút. Nếu tình hình sức khỏe ổn định sẽ cho về nhà và tiếp tục theo dõi trong vòng 24 giờ. Sau khi tiêm ngừa khoảng 4 đến 12 tuần sẽ tiếp tục tiêm mũi thứ 2.
-Trước đó, UBND tỉnh Kiên Giang đã có tờ trình gửi Thủ tướng Chính phủ, các bộ, ngành liên quan hỗ trợ Kiên Giang mua vắc xin phòng Covid-19 để tiêm ngừa cho tất cả cư dân trên đảo Phú Quốc.
-Lý do, Kiên Giang có đề xuất này là vì TP. Phú Quốc là trung tâm du lịch của cả nước, là điểm đến lý tưởng của khách quốc tế. Do đó, khi cư dân Phú Quốc được tiêm vắc xin phòng Covid-19 sẽ sẵn sàng đón khách du lịch theo tour khép kín.
-Khánh Hồng - Nguyễn Hành
+# url = https://dantri.com.vn/suc-khoe/da-nang-len-tieng-ve-truong-hop-mac-covid-19-sau-khi-hoan-thanh-cach-ly-20210429204755403.htm
+# date = 20210429
+&nbspTối 29/4, Sở Y tế TP Đà Nẵng đã thông tin về trường hợp ở Hà Nam vừa được công bố mắc Covid-19 (BN2899) sau khi hoàn thành cách y tế.
+Theo đó, anh N.V.Đ (sinh năm 1993, trú thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân, tỉnh Hà Nam) từ Nhật Bản về Việt Nam trên chuyến bay VJ3613 hạ cánh tại sân bay Quốc tế Đà Nẵng lúc 16h20 ngày 7/4; có 222 khách nhập cảnh được kiểm tra, giám sát, kiểm dịch y tế và vận chuyển cách ly y tế tập trung tại 2 khách sạn trên địa bàn quận Sơn Trà.
+Anh N.V.Đ. được cách ly tại Khách sạn Alisia (19 Hoàng Sa, quận Sơn Trà, Đà Nẵng).
+Tất cả phi hành đoàn và đội ngũ cán bộ, nhân viên làm nhiệm vụ tại cửa khẩu sân bay đều được trang bị trang phục bảo hộ và toàn bộ đã được xét nghiệm âm tính với SARS-CoV-2.
+Đà Nẵng đã lấy mẫu xét nghiệm các trường hợp tiếp xúc với ca dương tính với SARS-CoV-2 ở Hà Nam.
+Ngày 8/4, kết quả xét nghiệm lần 1 ngay sau khi cách ly của 222 khách nói trên: 218 trường hợp âm tính và 4 trường hợp dương tính với SARS-CoV-2 (các bệnh nhân 2676, 2677, 2679 ở khách sạn Alisia và bệnh nhân 2680 ở khách sạn Paracel).
+Bệnh nhân N.V.Đ được lấy mẫu xét nghiệm lần 1 ngày 8/4, kết quả xét nghiệm âm tính. Tuy nhiên, bệnh nhân N.V.Đ là F1 của bệnh nhân 2677 (ngồi gần trên chuyến bay VJ3613 nêu trên) nên được chuyển sang cách ly tại phòng 1203 cùng phòng với N.V.D (cũng là F1 của bệnh nhân 2677) và được lấy mẫu lần 2 vào ngày 12/4, kết quả xét nghiệm âm tính với SARS-CoV-2.
+Kết quả theo dõi hàng ngày qua hệ thống camera và kết quả trích xuất camera từ ngày 7-21/4, cho thấy bệnh nhân tuân thủ nội quy quy định, không bước ra khỏi phòng, không giao tiếp với ai trong quá trình cách ly tại khách sạn Alisia.
+Bệnh nhân N.V.Đ được lấy mẫu xét nghiệm lần 3 vào ngày 14 trước khi hoàn thành cách ly, kết quả xét nghiệm âm tính với SARS-CoV-2. Bệnh nhân được hoàn thành cách ly và rời khỏi khách sạn lúc 18h40 ngày 21/4.
+Trung tâm Kiểm soát bệnh tật Đà Nẵng đã có thông báo về danh sách các trường hợp dự kiến hoàn thành cách ly tập trung và trở về địa phương gửi cho Trung tâm Kiểm soát bệnh tật các tỉnh, thành phố có liên quan (trong đó có Trung tâm Kiểm soát bệnh tật tỉnh Hà Nam).
+Trước khi hoàn thành cách ly, bệnh nhân đăng ký với Trung tâm Y tế quận Sơn Trà sẽ đi về Hà Nam bằng xe ô tô, biển số xe đưa bệnh nhân từ khách sạn ra Bến xe Trung tâm Đà Nẵng: 43A - 40907.
+Tại Bến xe Trung tâm Đà Nẵng, bệnh nhân đi xe khách Tân Kim Chi, biển số xe 43B - 048.78, xuất phát từ Đà Nẵng lúc 20h30 ngày 21/4 đến Hà Nam lúc 7h30 ngày 22/4.
+Theo Sở Y tế Đà Nẵng, qua điều tra dịch tễ, kết quả rà soát, kết quả xét nghiệm, đánh giá quá trình cách ly tại khách sạn cho thấy anh N.V.Đ đủ điều kiện hoàn thành cách ly y tế.
+"Có khả năng bệnh nhân mắc Covid-19 do nhiễm biến chủng virus mới có thời gian ủ bệnh kéo dài hơn 14 ngày hoặc bệnh nhân có thể mắc Covid-19 trong quá trình di chuyển và sinh hoạt sau khi hoàn thành cách ly y tế tại Đà Nẵng", Sở Y tế Đà Nẵng nhận định.
+Ngay sau khi nhận được thông tin từ Trung tâm Kiểm soát bệnh tật tỉnh Hà Nam vào sáng ngày 29/4, ngành y tế thành phố Đà Nẵng đã triển khai điều tra, cách ly y tế, xét nghiệm các trường hợp tiếp xúc gần với bệnh nhân.
+Theo đó, có 12 trường hợp là F1 ở quận Sơn Trà, gồm 11 người làm nhiệm vụ tại khách sạn Alisia, 1 lái xe (từ khách sạn ra bến xe): đã lấy mẫu xét nghiệm và chuyển cách ly y tế tập trung tại khách sạn khác. Tối cùng ngày, 12 trường hợp F1 này đã có kết quả âm tính lần 1 với SARS-CoV-2.
+Ngành y tế Đà Nẵng cũng đã lập danh sách, điện thoại liên lạc trực tiếp toàn bộ người trên xe khách Tân Kim Chi từ Đà Nẵng đi Hà Nam gồm 34 hành khách, 2 lái xe, 1 phụ xe và thông báo hành khách và các địa phương liên quan để cách ly y tế, lấy mẫu xét nghiệm.
+Trong đó, đã truy vết, cách ly y tế tập trung và lấy mẫu xét nghiệm 10 người tại Đà Nẵng; đang tiếp tục thực hiện công tác truy vết, thông báo cho hành khách và các địa phương liên quan.
+4 hành khách là người Đà Nẵng đi cùng chuyến bay VJ3613 nhập cảnh từ Nhật Bản ngày 7/4 với bệnh nhân, hoàn thành cách ly y tế ngày 21/4, đã được lấy mẫu xét nghiệm và tiếp tục theo dõi sức khỏe.
+Khánh Hồng

@@ -1,22 +1,21 @@
 # doc_id = news_world_223
-# url = https://dantri.com.vn/the-gioi/tat-hy-vong-tim-thay-thuy-thu-song-sot-tren-tau-ngam-indonesia-20210425074634331.htm
-# date = 20210425
-Quân đội Indonesia công bố những vật dụng được tìm thấy tại khu vực tàu ngầm mất tích trong cuộc họp báo ngày 24/4 (Ảnh: Reuters).
-Tham mưu trưởng Hải quân Indonesia Yudo Margono ngày 24/4 cho biết các nhà chức trách dự kiến sẽ tiến hành quá trình sơ tán để trục vớt tàu ngầm KRI Nanggala 402 và thủy thủ đoàn sau khi xác định tàu chìm xuống độ sâu 850 mét ở vùng biển Bali.
-Thông tin trên được đưa ra khi những hy vọng về cơ hội sống sót đối với 53 thành viên thủy thủ đoàn, những người được cho là đã hết ôxy dự trữ từ sáng sớm ngày 24/4, tắt dần. Theo ông Yudo, cho đến nay, chưa có dấu hiệu nào của thủy thủ đoàn và cũng chưa thi thể nào được tìm thấy.
-Một số tàu chiến đã được triển khai đến vùng biển Bali, nơi tàu ngầm được liên lạc lần cuối hôm 21/4. Ông Yudo cho biết các tàu này sẽ hỗ trợ tìm kiếm tàu ngầm mất tích bằng cách phát hiện các vật thể kim loại hoặc từ tính chìm dưới biển.
-Tham mưu trưởng Hải quân Indonesia cho rằng tàu ngầm có thể không gặp một vụ nổ, nhưng áp lực lên thân tàu có thể tạo ra một vết nứt khiến một số vật dụng thoát ra ngoài.
-Theo Reuters, 6 mảnh vỡ được cho là của tàu ngầm Nanggala đã được công bố tại cuộc họp báo ngày 24/4. Các vật dụng này được tìm thấy gần nơi tàu ngầm bắt đầu lặn xuống trước khi mất tích, bao gồm một chai dầu mỡ bôi trơn, một phần của ống phóng ngư lôi, một phần của ống kim loại, thảm cầu nguyện và nhiên liệu.
-Ông Yudo nói rằng,các mảnh vỡ được tìm thấy trôi nổi ở vị trí có độ sâu 850 mét, điều này sẽ khiến việc trục vớt tàu ngầm trở nên rất "khó khăn". Trước đó, các nhà chức trách Indonesia cho biết tàu ngầm Nanggala không thể sống sót ở độ sâu hơn 500 mét.
-Tàu ngầm KRI Nanggala 402 (Ảnh: Reuters).
-Những người từng làm nhiệm vụ trước đó trên tàu ngầm KRI Nanggala 402 xác nhận một số mảnh vỡ được tìm thấy thuộc về con tàu này. Chai dầu mỡ được cho là thứ mà thủy thủ đoàn sẽ dùng để bôi trơn kính tiềm vọng của tàu ngầm.
-Tư lệnh quân đội Indonesia Hadi Tjahjanto cho biết ông "quan ngại sâu sắc" về số phận của 53 thành viên thủy thủ đoàn trên tàu ngầm.
-"Tất cả chúng ta đang trải qua mất mát lớn vì điều này", ông Hadi nói, khi kêu gọi "những lời cầu nguyện của tất cả người dân Indonesia".
-Các đội tìm kiếm của Indonesia ngày 23/4 cho biết họ đã xác định được khu vực có thể tìm thấy tàu ngầm.
-Theo Thiếu tướng Achmad Riad, người đứng đầu đơn vị thông tin trung tâm của quân đội Indonesia, khu vực tìm kiếm cách phía bắc đảo Bali khoảng 40 km, nơi vệt dầu loang đã được phát hiện trên mặt biển gần vị trí tàu ngầm lặn xuống.
-Tàu hải quân đã phát hiện một vật thể có "từ tính cao" ở độ sâu từ 50 đến 100 mét và tàu chiến Rigel của Indonesia đã tiếp cận khu vực này. Tàu Rigel được trang bị công nghệ sonar, sử dụng sóng âm để xác định vị trí vật thể, và hải quân Indonesia hy vọng có thể tìm thấy tàu ngầm.
-Tham mưu trưởng Hải quân Indonesia Yudo Margono cho biết các đội cứu hộ từ Indonesia và các nước sẽ tiếp tục nỗ lực giải cứu tàu ngầm mất tích.
-Máy bay trinh sát P-8 Poseidon của Mỹ đã tới Indonesia hôm 24/4 và được chuẩn bị để tham gia cuộc tìm kiếm, cùng với 20 tàu Indonesia, một tàu chiến Australia được trang bị công nghệ sonar và 4 máy bay Indonesia. Tàu cứu hộ của Singapore dự kiến đến Bali vào ngày 24/4, trong khi tàu cứu hộ của Malaysia sẽ đến vào ngày 25/4 để hỗ trợ cuộc săn tìm dưới nước.
-Theo AP, các thành viên trong gia đình thủy thủ đoàn vẫn hy vọng cơ hội cho những người sống sót, nhưng hiện tại không có dấu hiệu của sự sống từ tàu ngầm.
+# url = https://dantri.com.vn/the-gioi/tau-ngam-indonesia-chim-o-do-sau-850-met-20210424161227084.htm
+# date = 20210424
+Tàu ngầm KRI Nanggala 402 của hải quân Indonesia (Ảnh: Reuters).
+Tham mưu trưởng hải quân Indonesia Yudo Margono hôm nay 24/4 cho biết tàu ngầm KRI Nanggala 402 đã chìm ở độ sâu 850 mét dưới vùng biển ngoài khơi đảo Bali.
+"Hải quân đã tìm thấy vệt dầu và các bộ phận của các vật thể là bằng chứng cho thấy tàu KRI Nanggala đã bị chìm", Tham mưu trưởngquân đội Indonesia, tướngHadi Tjahjanto, cho biết trong cuộc họp báo chiều nay.
+"Trong vài ngày qua, chúng tôi đã trục vớt được các mảnh vỡ và các vật dụng từ vị trí cuối cùng mà tàu ngầm lặn. Các vật dụng này sẽ không thể thoát ra ngoài tàu ngầm nếu không có áp lực bên ngoài hoặc hỏng bệ phóng ngư lôi", Tham mưu trưởng hải quân Indonesia Yudo Margono cho biết thêm.
+Theo ông Margono, với những bằng chứng xác thực được cho là từ tàu ngầm, hải quân Indonesia đã chuyển từ giai đoạn tìm kiếm "tàu ngầm mất tích" sang giai đoạn "tàu ngầm chìm".
+Đô đốc Margono cho biết mọi nỗ lực đang được chuẩn bị để giải cứu tàu ngầm từ độ sâu 850 mét.
+"Tàu ngầm có thể bắt đầu nứt ở một số phần khi đi xuống độ sâu từ 400 mét đến 500 mét", ông Margono cho biết.
+Theo Đô đốc Margono, cho đến nay vẫn chưa có dấu hiệu nào về thi thể hoặc người sống sót bên trong tàu ngầm mất tích.
+Tại cuộc họp báo, Đô đốc Margono đã cho các phóng viên xem một số vật dụng được trục vớt từ vị trí tàu ngầm mất tích, bao gồm một mảnh ngư lôi.
+Ông nói rằng một máy quét đã phát hiện tàu ngầm ở độ sâu 850 mét, trong khi tàu chỉ được chế tạo để chịu được độ sâu lên đến 500 mét.
+"Bởi vì tàu ngầm ở độ sâu 850 mét, rất rủi ro và rất khó để một thiết bị có thể nâng nó lên", tham mưu trưởng hải quân Indonesia nhận định.
+Tàu ngầm KRI Nanggala 402 do Đức sản xuất mất tích vào ngày 21/4 khi đang tham gia cuộc diễn tập ở ngoài khơi đảo Bali, Indonesia. Tàu liên lạc lần cuối với sở chỉ huy vào lúc 3 giờ sáng để xin phép lặn xuống biển, trước khi mất liên lạc hoàn toàn.
+Trước khi phát hiện vị trí của tàu ngầm, hải quân Indonesia nhận định tàu Nanggala có thể đã chìm xuống độ sâu 600-700 mét, lớn hơn nhiều so với độ sâu tối đa cho phép hoạt động của tàu. Vào thời điểm mất tích, tàu chở 53 thành viên thủy thủ đoàn.
+Hải quân Indonesia cho rằng sự cố về điện có thể đã xảy ra trong lúc tàu Nanggala làm nhiệm vụ, khiến tàu bị mất kiểm soát và không thể thực hiện các thao tác và quy trình khẩn cấp để có thể nổi lại trên mặt nước.
+Theo hải quân Indonesia, tàu ngầm KRI Nanggala chỉ có đủ dưỡng khí đến 3 giờ sáng 24/4, bởi lượng ôxy dự trữ chỉ đủ dùng cho 72 giờ sau khi tàu bị mất điện. Hiện tại đã qua hạn chót này và hy vọng giải cứu 53 người trên tàu ngầm KRI Nanggala gần như không còn.
+Trước đó, Indonesia phát hiện một vật thể có từ tính cao ở độ sâu 50-100 mét, song vẫn chưa thể khẳng định đó là tàu ngầm. Lực lượng cứu hộ cũng phát hiện vết dầu loang ở vị trí tàu ngầm Nanggala mất tích. Hải quân Indonesia nhận định đây có thể là dấu hiệu cho thấy thân tàu bị hư hại, hoặc là tín hiệu từ thủy thủ đoàn.
 Thành Đạt
-Tổng hợp
+Theo Sputnik

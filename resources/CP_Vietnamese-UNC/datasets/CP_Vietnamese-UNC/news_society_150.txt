@@ -1,9 +1,13 @@
 # doc_id = news_society_150
-# url = https://dantri.com.vn/xa-hoi/hai-tau-ca-boc-chay-khi-dang-neo-dau-20210425104542769.htm
-# date = 20210425
-Thông tin từ UBND xã Ngư Lộc, huyện Hậu Lộc (Thanh Hóa) xác nhận trên địa bàn xã vừa xảy ra vụ hỏa hoạn làm 2 tàu cá của ngư dân bị thiêu rụi.
-Theo đó, vào khoảng 2h50' ngày 25/4, tàu cá mang số hiệu TH-90850TS có công suất 230CV của gia đình ông Đặng Trường Giang, trú xã Ngư Lộc và tàu cá mang số hiệu TH-90840TS có công suất 125CV của gia đình ông Nguyễn Văn Thành, trú xã Ngư Lộc, đều ở huyện Hậu Lộc đang neo đậu ngoài bến Ngư Lộc, cách bờ khoảng 160m, bất ngờ bốc cháy.
-Nhận được tin báo, chính quyền địa phương cùng người dân đã nhanh chóng có mặt tại hiện trường tổ chức chữa cháy, đồng thời gọi báo lực lượng phòng cháy chữa cháy.
-Tuy nhiên, vị trí tàu đậu cách xa bờ, trên tàu còn nhiều dầu và một số vật dụng dễ cháy nên ngọn lửa đã nhanh chóng thiêu rụi 2 con tàu. Ước tính ban đầu thiệt hại từ vụ cháy khoảng 3,2 tỷ đồng. Chính quyền địa phương cũng đã đến thăm hỏi, động viên các gia đình có tàu bị cháy.
-Nguyên nhân vụ cháy đang được cơ quan chức năng điều tra, làm rõ.
-Trần Lê
+# url = https://dantri.com.vn/xa-hoi/hanh-khach-cau-cuu-csgt-vi-xe-o-to-38-cho-nhoi-gan-100-nguoi-20210430092305976.htm
+# date = 20210430
+Xe khách 38 chỗ nhưng nhồi nhét 95 người bị lực lượng CSGT xử lý (Ảnh: Tiến Nguyên).
+Từ thông tin của người dân, rạng sáng ngày 30/4, Đội TTKS đường bộ cao tốc số 3, Phòng Hướng dẫn TTKS giao thông đường bộ, Cục CSGT (Đội 3) đã phát hiện và xử lý xe khách không có giấy chứng nhận đăng kiểm, chở quá 57 người và lái xe không có Giấy phép lái xe khi đang lưu thông trên cao tốc Pháp Vân - Cầu Giẽ - Ninh Bình.
+Cụ thể, vào 0h ngày 30/4, cơ quan chức năng nhận được tin nhắn "kêu cứu" của người dân bị nhồi nhét tới mức "nghẹt thở" trên xe khách mang BKS 37B 027.XX đi Nghệ An.
+Sau khi tiếp nhận thông tin, Tổ CSGT làm nhiệm vụ tại km230, nút giao thông Liêm Tuyền đã phát hiện được xe khách nêu trên.
+Ở thời điểm kiểm tra, lái xe Trương Anh T. (trú tại Bồng Khê, Con Cuông, Nghệ An) không có Giấy phép lái xe; xe khách không có giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường (do đã bị Thanh tra giao thông tỉnh Nghệ An tạm giữ từ ngày 5/3/2021).
+Ở thời điểm kiểm tra hành chính, tài xế T. không có Giấy phép lái xe (Ảnh: Tiến Nguyên).
+Đặc biệt, trên xe khách đang chở 95 người, quá 57 người so với quy định. Lực lượng CSGT Đội 3 đã tiến hành lập biên bản vi phạm hành chính đối với lái xe T. với các lỗi vi phạm không có Giấy phép lái xe; phương tiện không có chứng nhận an toàn kỹ thuật và bảo vệ môi trường; điều khiển ô tô chở khách chạy tuyến có cự ly lớn hơn 300 km chở quá từ 5 người trở lên đối với xe trên 30 chỗ.
+Đồng thời, tiến hành tạm giữ xe khách và bố trí phương tiện tiếp tục chở hành khách tới bến xe ở Nghệ An theo lộ trình. Ngoài ra, lực lượng chức năng còn tiến hành lập biên bản đối với chủ xe là Công ty TNHH TT (trụ sở tại Tương Dương, Nghệ An) với các lỗi vi phạm liên quan.
+Với những vi phạm này, theo quy định tại Nghị định 100, lái xe T. có thể bị phạt số tiền lên tới 50 triệu đồng và Công ty TNHH TT có thể bị phạt gần 97 triệu đồng.
+Tiến Nguyên

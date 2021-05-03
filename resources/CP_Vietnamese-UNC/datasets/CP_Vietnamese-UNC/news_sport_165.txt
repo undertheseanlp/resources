@@ -1,17 +1,22 @@
 # doc_id = news_sport_165
-# url = https://dantri.com.vn/the-thao/loi-nguoc-dong-truoc-doi-hang-nhat-hlv-kiatisuk-noi-gi-20210423212433419.htm
-# date = 20210423
-Đang hướng tới chức vô địch V-League, HA Gia Lai cũng không bỏ qua sân chơi cúp Quốc gia 2021 - giải đấu mà đội bóng phố Núi thường sớm rời cuộc chơi ở những mùa giải vừa qua.
-Gặp đối thủ yếu đang đứng cuối bảng xếp hạng tại giải hạng Nhất, HLV Kiatisuk chỉ sử dụng đội hình 2 để các trụ cột dưỡng sức, chuẩn bị cho vòng 11 LS V-League 2021. Tuy nhiên, sự chủ quan của HA Gia Lai suýt chút nữa khiến họ bị trả giá đắt.
-Sau hiệp 1 chơi bế tắc, đội chủ nhà bất ngờ nhận bàn thua ở phút 72. Đến lúc này, HLV Kiatisuk buộc phải tung vào sân một loạt các trụ cột, mới có bàn gỡ hòa ở phút 86 (Văn Thanh) và bàn ấn định tỷ số 2-1 ở phút bù giờ của trận đấu của Đại Dương.
-HLV Kiatisuk thở phào khi HA Gia Lai vượt qua vòng 1 Cúp Quốc gia.
-Phát biểu sau trận thắng thót tim, HLV Kiatisuk nói: "Trận này tôi tạo điều kiện cho các cầu thủ ít được thi đấu. An Giang đã thi đấu tốt và họ đã ghi bàn trước, đó cũng là kinh nghiệm cho các cầu thủ, không có trận đấu nào là dễ dàng, từ V-League đến Cúp Quốc gia.
-Thực sự tất cả các trận đấu chúng tôi đều hướng đến chiến thắng. Trong bóng đá, thua cũng là một phần của cuộc chơi. Tôi tin rằng, đối với 11 người xuất phát như hôm nay chúng tôi hy vọng sẽ thắng được.
-Chúng tôi muốn sau trận đấu như thế này dù có gì xảy ra, các bạn sẽ có được bài học rất tốt. Tôi nghĩ fan HA Gia Lai hiểu với một đội hình như thế sẽ thấy rằng ban huấn luyện công bằng, tạo điều kiện cho tất cả các cầu thủ được thi đấu để cùng tiến bộ.
-Cuối cùng, HLV Kiatisuk lý giải không dùng Công Phượng và khẳng định đội hình chính không có sự chênh lệch với đội hình phụ".
-"Tôi không sử dụng Công Phượng, bởi vì cậu ấy cũng đã rất mệt mỏi, thi đấu liên tục ở V-League, nếu cần thiết thì mới đưa vào. Tôi không thấy sự chênh lệch, tôi không cần thiết phải nhắc đến, qua trận đấu này các cầu thủ sẽ tự cảm nhận được phong độ của mình và tự cải thiện trong thời gian tới", HLV Kiatisuk nói.
-Trong khi đó, HLV An Giang Trịnh Văn Hậu đã rất tiếc nuối khi đội nhà dẫn trước nhưng không thể bảo toàn kết quả tới những phút cuối cùng ở vòng 1 Cúp Quốc gia Bamboo Airways 2021. HLV đội khách cũng phải thừa nhận HA Gia Lai quá mạnh khi sử dụng các cầu thủ ở đội 1.
-"Tôi tiếc vì không giữ được tỷ số. HA Gia Lai quá mạnh, xin được chúc mừng đội chủ nhà đã giành chiến thắng. Chúng tôi đã không kiểm soát được 15 phút cuối khi HA Gia Lai tung nhiều cầu thủ chính vào sân. Từ lúc này HA Gia Lai tạo nên sự chênh lệch rõ rệt. Cầu thủ An Giang không kiểm soát được bóng và để HA Gia Lai tổ chức tấn công".
-HLV An Giang không cho rằng HA Gia Lai đã chủ quan: "Tôi biết họ sẽ chuẩn bị cho trận gặp Thanh Hóa ở V-League nên thay đổi đội hình. Đội hình một hay đội hình hai của HA Gia Lai không chênh lệch.
-An Giang phải rút kinh nghiệm. Trận đấu này là cú hích tinh thần cho các cầu thủ trở lại ở giải hạng Nhất. Hôm nay, An Giang đã chơi tốt, tận dụng tuyệt đối cơ hội ghi bàn".
-Tiến Đạt
+# url = https://dantri.com.vn/the-thao/man-loi-nguoc-dong-an-tuong-cua-man-city-truoc-psg-20210429073944895.htm
+# date = 20210429
+HLV Pep Guardiola tái ngộ HLV Pochettino, hai người đã có nhiều lần giáp mặt nhau ở Premier League. Man City nhập cuộc tự tin trên sân của PSG, đội khách lấn lướt trong những phút đầu.
+Tuy nhiên, PSG nhanh chóng đẩy lùi đội khách và uy hiếp khung thành của Ederson. Phút 15, Marquinhos đánh đầu tung lưới Man City từ quả phạt góc mở tỉ số.
+Sau khi có bàn thắng mở tỉ số, các cầu thủ PSG chơi rất hay, họ vượt trội hơn hẳn Man City về số lần dứt điểm, đáng tiếc các chân sút của đội chủ nhà không thể gia tăng tỉ số.
+Đoàn quân của Guardiola chỉ có một cơ hội ghi bàn tốt trong hiệp 1. Tình huống diễn ra ở phút 42, Foden khá thoải mái dứt điểm ở đầu vòng cấm địa, anh lại sút bóng thẳng vào vị trí của Navas.
+Phút 64, xuất phát từ quả treo bóng sâu của De Bruyne, vô tình bóng đi vào lưới (có phần lỗi của thủ thành Navas) giúp Man City gỡ hòa 1-1.
+6 phút sau, Man City vượt lên dẫn 2-1 với bàn thắng cũng rất may mắn khi hai cầu thủ chủ nhà làm hàng rào đã làm lộ khoảng trống để Mahrez sút bóng xuyên qua đó.
+Thủ môn Keylor Navas bất lực nhìn bóng bay vào lưới, PSG cay đắng nhận thất bại 1-2 ngay trên sân Công viên các hoàng tử.
+Niềm vui của Mahrez, bàn thắng nâng tỷ số lên 2-1 của anh đến ở thời điểm quan trọng nhất của trận đấu.
+Man City đã cho thấy bản lĩnh lớn sau khi bị dẫn bàn. Bị Man City dẫn bàn, các cầu thủ PSG mất kiểm soát, nổi nóng thể hiện thông qua những pha vào bóng chặt chém.
+Gueye nhận thẻ đỏ trực tiếp ở phút 77 sau pha chơi bóng thô bạo nhằm vào Gundogan. Chơi thiếu người PSG không thể vùng lên, họ ngậm ngùi nhận thất bại 1-2 trên sân nhà.
+Niềm vui của cầu thủ Man City, họ đứng trước cơ hội lần đầu tiên góp mặt ở chung kết Champions League lần đầu tiên trong lịch sử.
+Thua 1-2 ngay trên sân nhà ở lượt đi, PSG đối diện nhiều khó khăn khi làm khách trên sân Etihad ở bán kết lượt về UEFA Champions League trên sân Etihad vào giữa tuần sau.
+Đội hình thi đấu
+Paris Saint Germain(4-3-3): Navas, Florenzi, Marquinhos, Kimpembe, Bakker, Gueye, Parades (Herrera 83), Veratti, Di Maria (Danilo 80), Mbappe, Neymar
+Bàn thắng: Marquinhos 15
+Thẻ đỏ: Gueye 77
+Manchester City (4-3-3): Ederson, Cancelo (Zinchenko 61 ), Dias, Stones, Walker, Gundogan, Rodri, Bernardo, Mahrez, De Bruyne, Foden
+Bàn thắng: De Bruyne 64, Mahrez 71
+Thùy Anh

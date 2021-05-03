@@ -1,17 +1,16 @@
 # doc_id = news_world_054
-# url = https://dantri.com.vn/the-gioi/bien-chung-covid-19-nguy-hiem-o-an-do-xuat-hien-o-it-nhat-17-nuoc-20210428075818668.htm
-# date = 20210428
-Biến chủng SARS-CoV-2 được cho là có khả năng lây lan nhanh hơn đã xuất hiện ở nhiều nước trên thế giới (Ảnh minh họa: Reuters).
-AFP dẫn thông tin từ WHO cho biết, tính đến ngày 27/4, biến chủng SARS-CoV-2 có tên gọi B.1.617 phát hiện lần đầu tại Ấn Độ đã được tìm thấy trong hơn 1.200 trình tự gen thu thập ở "ít nhất 17 quốc gia khác". "Phần lớn các trình tự gen được thu thập từ Ấn Độ, Anh, Mỹ và Singapore", WHO cho biết.
-Mới đây WHO đã đưa biến chủng B.1.617 vào diện "biến chủng đáng chú ý" nhưng chưa xếp vào diện "biến chủng đáng lo ngại" hay biến chủng nguy hiểm hơn chủng ban đầu vì khả năng lây nhiễm cao hơn, tỷ lệ gây tử vong cao hơn, kháng vắc xin mạnh hơn.
-Biến chủng B.1.167 đang lây lan tại Ấn Độ chứa "đột biến kép" L452R (từng xuất hiện trong biến thể ở Mỹ) và E484Q (giống với loại xuất hiện ở Nam Phi và Brazil). Bên cạnh 2 đột biến này, biến chủng B.1.617 có khoảng 11 đột biến khác.
-B.1.167 có khả năng lây lan nhanh chóng. Biến chủng này được cho có thể là một phần nguyên nhân khiến Ấn Độ rơi vào cuộc khủng hoảng Covid-19 nghiêm trọng nhất kể từ khi đại dịch bùng phát ở đất nước tỷ dân này.
-Tâm lý chủ quan, lơ là phòng dịch
-Một bệnh nhân Covid-19 đang được chuyển vào bệnh viện Guru Teg Bahadur ở New Delhi, Ấn Độ (Ảnh: Reuters).
-Tuy vậy, WHO cũng nhấn mạnh rằng, đợt bùng phát Covid-19 hiện nay ở Ấn Độ không hoàn toàn là do sự xuất hiện của biến chủng mới mà còn do nhiều yếu tố khác như sự lơ là phòng dịch.
-"Hiện chưa rõ mức độ tác động của biến chủng này đến đà lây lan Covid-19 nhanh chóng ở Ấn Độ, còn nhiều yếu tố khác có thể dẫn đến tình trạng này như các sự kiện tập trung đông người. Chúng ta cần phải điều tra nghiên cứu sâu hơn để tìm hiểu mức độ tác động của các yếu tố đó", báo cáo của WHO nêu rõ.
-Ngoài ra, WHO cũng cho rằng, việc người dân Ấn Độ hoảng loạn đổ xô đến các bệnh viện ngay cả khi họ có thể tự cách ly và hồi phục tại nhà đang gây ra sức ép không đáng có cho hệ thống y tế của nước này. Người phát ngôn WHO Tarik Jasarevic cho rằng, chỉ khoảng 15% bệnh nhân Covid-19 ở Ấn Độ cần điều trị tại bệnh viện.
-Hệ thống y tế của Ấn Độ đang có nguy cơ sụp đổ do số bệnh nhân Covid-19 tăng quá nhanh. Hầu hết các bệnh viện của Ấn Độ, đặc biệt ở New Delhi, rơi vào tình trạng quá tải, thiếu giường bệnh, thiếu ôxy, thiếu vật tư y tế và thuốc men.
-Hôm 26/4, Ấn Độ đã điều động các lực lượng vũ trang tới hỗ trợ các bệnh viện. Tổng tham mưu trưởng quân đội Bipin Rawat cho biết sẽ gửi ôxy từ nguồn dự trữ của quân đội cho các bệnh viện.
-Nhiều nước trên thế giới, trong đó có Mỹ, Singapore và các nước châu Âu, cũng bắt đầu hỗ trợ khẩn cấp ôxy và các vật tư y tế khác như máy thở, máy tạo ôxy giúp Ấn Độ đối phó dịch. Mỹ đã nới lỏng lệnh cấm xuất khẩu nguyên liệu thô sản xuất vắc xin Covid-19 để cung cấp cho Ấn Độ.
-Minh PhươngTheo AFP, WSJ
+# url = https://dantri.com.vn/the-gioi/bien-den-day-song-anh-sap-dua-tau-chien-toi-san-nha-cua-nga-20210420000451958.htm
+# date = 20210420
+Tàu khu trục Dragon của Hải quân Anh (Ảnh: Tass).
+"Chúng tôi đã nhận được thông báo từ Anh về việc tàu chiến của họ đi qua eo biển Bosphorus, dự kiến vào tuần đầu tiên của tháng 5", hãng tin Sputnik (Nga) dẫn nguồn tin ngoại giao từ Thổ Nhĩ Kỳ ngày 19/4 cho biết.
+Tuần trước, các hãng truyền thông đưa tin tàu khu trục và tàu hộ vệ chống ngầm của Hải quân Hoàng gia Anh sẽ tiến vào Biển Đen vào đầu tháng 5. Động thái này được xem là dấu hiệu thể hiện sự đoàn kết của Anh với Ukraine trong bối cảnh tình hình căng thẳng ở biên giới Nga - Ukraine leo thang.
+Một phát ngôn viên của Bộ Quốc phòng Anh nói với báo Sunday Times rằng Anh và các đồng minh "kiên quyết ủng hộ chủ quyền và toàn vẹn lãnh thổ của Ukraine", đồng thời kêu gọi Nga hạ nhiệt căng thẳng.
+Thông tin trên được đưa ra trong bối cảnh Nga ngày 14/4 thông báo lập vùng cấm tàu nước ngoài tại một khu vực ở Biển Đen để tập trận cho đến tháng 10. Vùng cấm này nằm gần eo biển Kerch nối Biển Đen với Biển Azov.
+Tình hình Biển Đen tiếp tục nóng lên trong thời gian qua. Nga đã đưa 17 tàu chiến tới khu vực này, bao gồm 15 tàu thực hiện nhiệm vụ tập trận ở khu vực, trong khi Moscow cáo buộc NATO triển khai khoảng 40.000 binh sĩ và 15.000 khí tài đến gần biên giới Nga, chủ yếu ở Biển Đen và khu vực Baltic.
+Mỹ tuần trước đã thông báo với Thổ Nhĩ Kỳ về việc hủy kế hoạch đưa 2 tàu chiến qua eo biển Bosphorus, dù trước đó Washington cho biết sẽ đưa hai tàu khu trục đến Biển Đen bắt đầu từ ngày 14/4 và triển khai ở đó đến ngày 4/5. Mỹ vẫn định kỳ triển khai tàu chiến đến Biển Đen để hỗ trợ Ukraine khi chiến sự ở miền Đông Ukraine nổ ra từ năm 2014 giữa quân đội Ukraine với lực lượng ly khai nghi do Nga hậu thuẫn.
+Theo Công ước Montreux năm 1936, Mỹ phải thông báo trước cho Thổ Nhĩ Kỳ ít nhất 15 ngày khi đưa tàu chiến qua eo biển Bosphorus và Dardanelles. Đây là công ước cho phép các tàu chiến nước ngoài triển khai ở Biển Đen trong vòng 21 ngày.
+Nga và phương Tây leo thang căng thẳng gần đây sau khi Mỹ và các đồng minh bày tỏ quan ngại việc Moscow tăng cường lực lượng gần biên giới với Ukraine. Tuy nhiên, Điện Kremlin khẳng định việc triển khai lực lượng trong phạm vi lãnh thổ của Nga là hoàn toàn bình thường, không nhằm vào bất cứ một quốc gia nào.
+Bình luận về việc Anh đưa tàu chiến tới Biển Đen, nghị sĩ Aleksey Pushkov, giáo sư về quan hệ quốc tế và là cựu chủ tịch ủy ban vấn đề đối ngoại thuộc hạ viện Nga, nhận định: "Người Anh vẫn hoài nghi về những nỗ lực của Thủ tướng Boris Johnson trong việc hỗ trợ Ukraine chống lại Nga".
+"Hầu hết người Anh đều nhớ rằng các cuộc can thiệp quân sự trước đây đã khiến đất nước phải trả giá rất nhiều sinh mạng và tiền bạc. Vì vậy, tốt hơn hết Thủ tướng Johnson nên hạn chế việc đưa hai tàu chiến đến Biển Đen để hỗ trợ Ukraine. Việc này là vô ích", ông Pushkov nói thêm.
+Thành Đạt
+Theo Sputnik, The Sun

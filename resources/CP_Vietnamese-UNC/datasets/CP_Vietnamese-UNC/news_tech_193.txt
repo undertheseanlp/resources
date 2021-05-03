@@ -1,13 +1,16 @@
 # doc_id = news_tech_193
-# url = https://dantri.com.vn/suc-manh-so/quang-cao-lo-de-tran-lan-tren-facebook-20210407163912440.htm
-# date = 20210407
-"Những ngày gần đây, khi sử dụng Facebook, tôi liên tục nhìn thấy video quảng cáo mời chào tham gia vào các hội nhóm lô đề, cờ bạc. Bản thân tôi không có nhu cầu tìm hiểu về lô đề cũng chưa từng tìm kiếm về chúng nhưng không hiểu sao vẫn gặp phải những nội dung quảng cáo này", chị Thanh Trà, một nhân viên văn phòng tại Ba Đình, Hà Nội cho biết.
-Thời gian qua, nhiều người dùng Facebook cho biết rằng họ thường xuyên bắt gặp những đoạn quảng cáo liên quan đến các hội nhóm tư vấn chơi lô đề, nhất là khi xem video trên nền tảng này.
-Theo đó, nội dung của những đoạn video này chỉ xoay quanh việc kêu gọi người xem tham gia vào các hội nhóm kín để họ có thể tư vấn lô đề.
-"Vào đúng nhóm - Theo đúng người - Chọn đúng bạn - Về bờ đúng cách", slogan của một video quảng cáo mời chào tham gia vào các hội nhóm tư vấn lô đề trên Facebook.
-Trao đổi với Dân trí, đại diện Công ty Luật TNHH DTLAW cho biết những đoạn video quảng cáo như trên đã vi phạm nghiêm trọng khoản 1, điều 7 Luật Quảng cáo 2012, cấm quảng cáo "hàng hóa, dịch vụ bị cấm kinh doanh theo quy định pháp luật".
-"Quảng cáo nào dành cho việc chơi game và đánh bạc online mà trong đó bắt buộc chơi bằng vật phẩm có giá trị tiền tệ (bao gồm tiền mặt hoặc tiền kỹ thuật số/tiền ảo, ví dụ như bitcoin) và một phần giải thưởng là vật phẩm có giá trị tiền tệ thì chỉ được cho phép khi có sự đồng ý trước bằng văn bản của chúng tôi", chính sách quảng cáo về chơi game và đánh bạc online của Facebook viết.
-Theo chia sẻ từ một số chuyên gia, những loại quảng cáo trên vi phạm nghiêm trọng chính sách của Facebook. Tuy nhiên, bằng một số thủ thuật đặc biệt, những người này vẫn có thể "lách luật" và chạy quảng cáo trên Facebook một cách bình thường.
-"Cũng giống như các quảng cáo thuốc đông y, những người này thường có thói quen làm việc theo kiểu ăn xổi, đánh nhanh rút gọn. Vì thế, họ sẽ spam quảng cáo trong một khoảng thời gian ngắn để thu hút được một lượng người quan tâm. Sau khi đạt được mục đích, họ có thể bỏ luôn tài khoản Facebook Ads đó", ông Nguyễn Nhật Anh, một chuyên gia hoạt động trong lĩnh vực Digital Marketing chia sẻ.
-Dân trí đã liên hệ với Facebook để trao đổi về tình trạng trên. Hiện tại, mạng xã hội này chưa đưa ra phản hồi.
+# url = https://dantri.com.vn/suc-manh-so/quang-cao-thuoc-kich-duc-xuat-hien-o-video-ca-nhac-thieu-nhi-tren-you-tube-20210421234922900.htm
+# date = 20210421
+"Mấy ngày nay, mỗi khi mở video ca nhạc trên YouTube cho các con xem, hàng loạt quảng cáo thuốc kích dục với những lời mời chào thô tục, nhạy cảm lại hiện ra. Chúng thậm chí xuất hiện ngay trên những video ca nhạc dành cho thiếu nhi", anh Hữu Thiện, một nhân viên văn phòng sống tại Hà Đông, Hà Nội chia sẻ.
+Anh Thiện cũng cho biết thêm rằng anh đã chuyển qua sử dụng nền tảng YouTube Kids khi muốn cho các con xem video. Đồng thời, anh và gia đình cũng phải để mắt đến các con nhiều hơn, tránh trường hợp chúng bị "tấn công" bởi những quảng cáo không phù hợp như trên.
+Quảng cáo thuốc kích dục xuất hiện trên video ca nhạc dành cho thiếu nhi.
+Nửa tháng sau "cơn bão" quảng cáo thuốc trị xương khớp, một số người dùng YouTube tại Việt Nam bắt đầu than phiền rằng họ lại bị "tấn công" bởi những video quảng cáo liên quan đến thuốc kích dục. Tương tự với những quảng cáo thuốc xương khớp, quảng cáo thuốc kích dục cũng xuất hiện trên mọi nền tảng từ smartphone, máy tính cho đến TV.
+"Những đoạn quảng cáo này chứa hình ảnh cùng với từ ngữ nhạy cảm, không phù hợp. Đôi khi, cả gia đình tôi đang xem video thì chúng lại hiện ra khiến mọi người đều cảm thấy bối rối", chị Hoài Linh, 27 tuổi, sống tại Cầu Giấy, Hà Nội cho biết.
+Trên thực tế, những loại quảng cáo thuốc kích dục này vi phạm nghiêm trọng chính sách của chính Google. Theo chính sách về chăm sóc sức khỏe và thuốc trên trang web của Google, thuốc là mặt hàng cấm chạy quảng cáo tại Việt Nam.
+"Chúng tôi cam kết tuân thủ các quy định quảng cáo về chăm sóc sức khỏe và thuốc, do đó chúng tôi hy vọng rằng quảng cáo và đích đến tuân theo các luật và tiêu chuẩn ngành phù hợp. Một số nội dung liên quan đến chăm sóc sức khỏe hoàn toàn không được phép quảng cáo, trong khi các nội dung khác chỉ được quảng cáo nếu nhà quảng cáo được chứng nhận với Google và chỉ nhắm mục tiêu đến các quốc gia được chấp thuận", chính sách Google cho biết.
+Tháng trước, người dùng YouTube tại Việt Nam cũng liên tục bị "tra tấn" bởi các video quảng cáo thuốc trị xương khớp. Chúng xuất hiện với tần suất dày đặc khiến người xem cảm thấy ám ảnh và khó chịu.
+Quảng cáo thuốc trị xương khớp từng khiến nhiều người dùng YouTube ám ảnh vào tháng trước.
+Theo báo cáo An toàn quảng cáo năm 2020 được Google công bố cách đây không lâu, lượng vi phạm về quảng cáo đã tăng mạnh trong năm vừa qua. Google cho biết công ty đã xóa 3,1 tỷ nội dung vi phạm chính sách, đồng thời hạn chế hiển thị với 6,4 tỷ nội dung khác.
+Trong các quảng cáo bị xóa, có 867 triệu nội dung "lạm dụng hệ thống quảng cáo để đánh lừa người dùng click chuột". Thuốc và các dịch vụ chăm sóc sức khỏe là lĩnh vực đứng thứ hai về số lượt vi phạm.
+Cũng theo Google, các lỗi vi phạm đối với chính sách chăm sóc sức khỏe và thuốc là rất nghiêm trọng. Tuy nhiên, thực tế cho thấy những quảng cáo vi phạm chính sách của công ty vẫn xuất hiện tràn lan trên YouTube.
 Thế Anh

@@ -1,20 +1,8 @@
 # doc_id = news_travel_192
-# url = https://dantri.com.vn/du-lich/nhung-bai-bien-cho-phep-du-khach-khoa-than-noi-tieng-the-gioi-20210416112735494.htm
-# date = 20210416
-Spiaggia di Guvano, Italia
-Bãi biển này không rộng lớn và cũng không đông đúc du khách như nhiều bãi biển khác ở Italia. Tuy nhiên, nơi đây được ví như "viên ngọc ẩn", bạn có thể thoải mái tận hưởng không gian yên tĩnh, biệt lập, trong lành.
-Little, Hawaill, Mỹ
-Mặc dù khỏa thân nơi công cộng là bất hợp pháp ở Hawaii, Mỹ nhưng làm điều này ở bãi biển Litte sẽ là trải nghiệm đáng nhớ.
-Bãi biển Little nằm trong công viên quốc gia Makena. Với cảnh quan thiên nhiên hoang sơ, bạn có thể lướt sóng, đắm mình trong cảnh sắc tuyệt đẹp và tham gia các điệu nhảy sôi động vào chiều chủ nhật. Vào tối chủ nhật, du khách còn được thưởng thức màn múa lửa ấn tượng của các vũ công.
-Paradise, Hy Lạp
-Paradise (Thiên Đường) là hòn đảo có bãi biển nổi tiếng với những bữa tiệc sôi động. Đây là bãi biển khỏa thân đầu tiên của đảo và thu hút rất nhiều du khách.
-Maslin, Australia
-Lady Bay ở Sydney được xem là bãi biển khỏa thân lâu đời nhất ở Australia, nhưng Maslin là bãi biển khỏa thân đầu tiên được công nhận vào năm 1975. Khu vực cho phép khỏa thân hoàn toàn kéo dài khoảng 1,5km ở đoạn cuối phía nam.
-Khu vực cho phép khỏa thân hoàn toàn kéo dài khoảng 1,5km.
-Cát sạch, làn nước trong xanh, nắng vàng là điểm thu hút du khách. Hàng năm tại đây còn diễn ra Nude Olympic - một sự kiện thể thao được tổ chức vào tháng 1. Tuy nhiên, khi Ủy ban Olympic quốc tế phàn nàn về tên này, sự kiện được đổi tên thành Maslin Beach Nude Olympics, sau đó đổi sang Maslin Beach Nude Games.
-Black's Beach, La Jolla, California, Mỹ
-Bãi biển này nằm ở khu vực hẻo lánh, dưới những những vách núi ở Torrey Pines. Black's Beach là một trong những bãi biển khỏa thân lớn nhất ở Mỹ và được hợp pháp hóa thành bãi tắm tiên hồi những năm 1970.
-Wreck, Canada
-Nằm trong công viên Pacific Spirit Regional, bãi biển Wreck là địa điểm mọi người có thể đến nếu muốn khỏa thân tắm nắng. Toàn bộ bãi biển dài gần 8km đồng thời là bãi biển khỏa thân lớn nhất khu vực Bắc Mỹ.
-Phương Hà
-Tổng hợp
+# url = https://dantri.com.vn/du-lich/pho-tay-ha-noi-dong-nghet-nguoi-nhu-chua-he-co-covid-19-20210404075829158.htm
+# date = 20210404
+Các quán Karaoke, vũ trường tại Hà Nội được phép hoạt động trở lại (từ ngày 23/3), tối qua nhiều người dân đã lên phố Tạ Hiện để ăn uống, vui chơi.
+Chị Huyền Lê (một chủ quán bia ở Tạ Hiện) cho biết: "Từ khi được mở cửa trở lại, đây là tuần đông khách nhất, cơ bản dịch bệnh đã được kiểm soát tốt nên nhiều người cũng yên tâm khi đến đây ăn uống và vui chơi".
+Nhân viên của một nhà hàng mỏi tay ghi thực đơn do khách yêu cầu. Việc mở cửa quán bar, vũ trường trở lại khiến không khí tại phố Tạ Hiện nhộn nhịp.
+Anh Huệ (khách hàng) cho biết: "Thỉnh thoảng vào ngày cuối tuần tôi cũng cùng bạn bè lên đây để nghe nhạc, ăn uống cho thoải mái tinh thần. Hy vọng dịch sớm hết hẳn để xã hội ổn định trở lại".
+Phi Hùng

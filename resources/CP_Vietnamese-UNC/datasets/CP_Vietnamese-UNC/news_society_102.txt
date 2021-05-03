@@ -1,14 +1,10 @@
 # doc_id = news_society_102
-# url = https://dantri.com.vn/xa-hoi/dien-mao-nut-giao-thong-chang-chit-nhu-nom-hoa-giai-un-tac-tai-quoc-lo-18-20210423202654336.htm
-# date = 20210423
-Diện mạo nút giao thông chằng chịt như "nơm" hóa giải ùn tắc giao thông tại Quốc lộ 18
-Nút giao thông phía Tây Nam thành phố Bắc Ninh gồm hầm chính và các tuyến nhánh từ QL1 vào hầm, từ hầm ra QL18 đã thông xe kỹ thuật và đưa vào sử dụng.
-Dự án đầu tư xây dựng nút giao thông phía tây nam TP Bắc Ninh do Ban quản lý dự án xây dựng TP Bắc Ninh làm chủ đầu tư. Dự án được phê duyệt triển khai giai đoạn 1 (đảo tròn nút giao đồng mức, cải tạo kênh Kim Đôi và dịch chuyển đường điện 35 KV) từ tháng 10/2016 và đầu tư bổ sung hoàn chỉnh (giai đoạn 2: hầm chính và các tuyến nhánh từ cao tốc Hà Nội - Bắc Giang vào hầm, từ hầm ra QL18) từ tháng 4/2018 với tổng mức đầu tư hơn 416 tỷ đồng.
-Nút giao Tây Nam TP Bắc Ninh là một trong những nút giao lớn nhất kết nối cao tốc Hà Nội - Bắc Giang và quốc lộ 18, cao tốc Nội Bài - Hạ Long vừa được khánh thành.
-Đây được coi là công trình giao thông trọng điểm của tỉnh Bắc Ninh, chào mừng đại hội Đảng toàn Quốc lần thứ XIII và 15 năm thành lập TP Bắc Ninh.
-Điểm nhấn của nút giao này là hệ thống đảo vòng xuyến kết hợp hầm chui đầu tiên ở Bắc Ninh.
-Quan sát từ trên cao, các làn xe đan xen nhau dày đặc như nơm khiến nhiều người liên tưởng đây là hình ảnh đường giao thông tại các nước phát triển.
-Hầm có chiều dài 202,61m và có kinh phí xây dựng khoảng hơn 100 tỷ đồng cũng đã hoàn thành và đưa vào sử dụng. Phần hầm chui phục vụ các phương tiện từ cao tốc Hà Nội - Bắc Giang đi quốc lộ 18 và ngược lại.
-Nút giao giúp kết nốiQL18 với QL1A hướng về cầu Thanh Trì thuận tiện hơn so với trước đây.
-Nút giao thông Tây Nam là nút giao huyết mạch kỳ vọng trong tương lai giúp Bắc Ninh phát triển đô thị và kinh tế xã hội.
-Quân Đỗ - Bá Đoàn
+# url = https://dantri.com.vn/xa-hoi/dieu-tra-vu-chay-khien-doi-nam-nu-thuong-vong-20210425205344817.htm
+# date = 20210425
+Ngày 25/4, thông tin từ Công an tỉnh Thái Bình cho biết, khoảng 23h50 ngày 23/4, tại nhà bà Trần Thị Nhung (SN 1955) ở xã Tây Tiến, huyện Tiền Hải xảy ra vụ cháy.
+Ngay sau khi nhận được tin báo từ quần chúng nhân dân, Công an tỉnh Thái Bình đã chỉ đạo lực lượng Cảnh sát Phòng cháy, chữa cháy và Cứu nạn, cứu hộ phối hợp Công an huyện Tiền Hải và nhân dân tổ chức chữa cháy, cấp cứu người bị nạn.
+Hiện trường nơi xảy ra sự việc.
+Đến 0h50 ngày 24/4, đám cháy được dập tắt hoàn toàn. Tuy nhiên, vụ cháy khiến anh Nguyễn Sỹ Á (SN 1983) là con trai bà Nhung và chị Nguyễn Thị Hồng Nhung (SN 1993), trú tại phường Kỳ Bá, thành phố Thái Bình (là bạn gái của anh Á) bị bỏng nặng.
+Đến 20h40 ngày 24/4, do vết bỏng quá nặng, chị Nhung đã tử vong. Riêng anh Á vẫn đang được cấp cứu trong bệnh viện.
+Công an tỉnh Thái Bình đang chỉ đạo các phòng chức năng, Công an huyện Tiền Hải phối hợp Viện Kiểm sát nhân dân huyện Tiền Hải tập trung điều tra, làm rõ nguyên nhân vụ cháy.
+Đức Văn

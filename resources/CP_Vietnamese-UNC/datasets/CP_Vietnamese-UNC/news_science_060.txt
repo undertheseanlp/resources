@@ -1,7 +1,8 @@
 # doc_id = news_science_060
 # url = https://dantri.com.vn/khoa-hoc-cong-nghe/chuyen-bay-lich-su-keo-dai-40-giay-danh-dau-buoc-ngoat-cua-nhan-loai-20210419223741772.htm
 # date = 20210419
-Trực thăng NASA lập kỳ tích với chuyến bay lịch sử trên sao Hỏa. Video: Telegraph
+Trực thăng NASA lập kỳ tích với chuyến bay lịch sử trên sao Hỏa.
+Video: Telegraph
 Tối 19/4 theo giờ Việt Nam, chiếc trực thăng mang mã danh "Ingenuity" do NASA phái tới sao Hỏa đã đi vào lịch sử của nhân loại, khi lần đầu tiên thực hiện thành công một chuyến bay có điều khiển trên sao Hỏa.Nói cách khác, sự kiện đã đánh dấu cột mốc loài người lần đầu tiên lái được một chiếc trực thăng trên hành tinh khác.
 Theo thông tin từ NASA, chiếc trực thăng tí hon đã cất cánh, bay lơ lửng trên không ở độ cao khoảng 3 mét, duy trì ổn định trước khi hạ xuống và trở lại bề mặt sao Hỏa. Tổng thời lượng chuyến bay khoảng gần 40 giây.
 Dữ liệu từ chuyến bay này được gửi về Trái Đất vài giờ sau khi chiếc trực thăng vận hành thành công, cụ thể là lúc 6 giờ 46 phút sáng (theo giờ Mỹ).

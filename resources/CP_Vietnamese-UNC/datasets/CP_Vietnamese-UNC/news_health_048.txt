@@ -1,15 +1,29 @@
 # doc_id = news_health_048
-# url = https://dantri.com.vn/suc-khoe/an-giang-phat-hien-mot-nguoi-nhap-canh-trai-phep-duong-tinh-sars-co-v-2-20210423155650293.htm
-# date = 20210423
-Theo đó, vào lúc 8h, ngày 20/4, Đồn Biên phòng cửa khẩu Long Bình (Bộ đội Biên phòng tỉnh An Giang) phát hiện 3 trường hợp nhập cảnh trái phép vào Việt Nam, sau đó đưa đi cách ly tập trung tại khu cách ly tập trung của huyện An Phú, tỉnh An Giang.
-Cả 3 trường hợp này được lấy mẫu xét nghiệm SARS-CoV-2 tại Phòng xét nghiệm của Bệnh viện Đa khoa trung tâm An Giang. Kết quả cho thấy, có một trường hợp dương tính với SARS-CoV-2 là nam giới (23 tuổi), 2 trường hợp còn lại có kết quả âm tính lần 1.
-Phó Chủ tịch UBND tỉnh An Giang Lê Văn Phước báo cáo với Ban chỉ đạo phòng chống dịch Covid-19 về trường hợp nhập cảnh trái phép dương tính với virus SARS-CoV-2.
-Ngay sau đó, Ban chỉ đạo phòng, chống dịch Covid-19 tỉnh An Giang đã gửi mẫu xét nghiệm về Viện Pasteur Thành phố Hồ Chí Minh để xét nghiệm khẳng định. Sáng 23/4, Viện Pasteur Thành phố Hồ Chí Minh trả lời, mẫu xét nghiệm trên dương tính với SARS-CoV-2.
-Như vậy, đây là trường hợp mắc Covid-19 thứ 3 được ghi nhận trên địa bàn tỉnh An Giang, tất cả đều được cách ly ngay khi nhập cảnh vào Việt Nam.
-Trước đó, ngày 13/4, BN2746 và BN 2747 từ nước ngoài nhập cảnh trái phép qua cửa khẩu Long Bình và được cách ly ngay sau khi nhập cảnh tại khu cách ly của huyện An Phú, tỉnh An Giang.Hiện, các bệnh nhân được cách ly, điều trị tại Trung tâm Y tế huyện An Phú.
-Chủ tịch UBND tỉnh An Giang, ông Nguyễn Thanh Bình chỉ đạo Bộ đội Biên phòng cùng các lực lượng siết chặt biên giới ngăn xuất, nhập cảnh trái phép.
-Theo Phó Chủ tịch UBND tỉnh An Giang ông Lê Văn Phước, ngay khi có kết quả xét nghiệm của Bệnh viện Đa khoa trung tâm An Giang, UBND tỉnh đã chỉ đạo ngành chức năng khẩn trương rà soát các trường hợp tiếp xúc gần (có 2 trường hợp F1, trong đó 1 người là em trai cùng nhập cảnh trái phép, 1 người khác nhập cảnh trái phép ở khu vực gần đó nhưng đi chung xe ô tô về nơi cách ly) đã được cách ly tập trung tại khu cách ly tập trung của huyện An Phú (An Giang). Các trường hợp có liên quan khác đã được áp dụng các biện pháp phòng chống dịch theo quy định.
-Bên cạnh đó, ngành y tế tỉnh An Giang đã tiến hành làm sạch môi trường ở các khu vực phát hiện 3 trường hợp nhập cảnh trái phép này. Đồng thời, yêu cầu các địa phương phải nắm chắc, theo dõi sát các trường hợp về từ vùng dịch, các trường hợp đã hoàn thành cách ly tập trung về địa phương tiếp tục cách ly tại nhà, có giải pháp theo dõi, cách ly phù hợp và đúng quy định. Các cơ quan chức năng phối hợp với chính quyền địa phương kiểm soát chặt chẽ tại địa phương tại các nhà trọ, cơ sở lưu trú, tăng cường lực lượng thường xuyên kiểm tra tuyến biên giới không để xảy ra tình trạng nhập cảnh trái phép. 
-Bên cạnh đó, cần tuyên truyền cho người dân nâng cao ý thức về phòng chống dịch bệnh và phát hiện, tố giác các đối tượng vượt biên và vận chuyển người vượt biên trái phép, đồng thời khuyến cáo người dân thực hiện 5K theo hướng dẫn của Bộ Y tế.
-UBND tỉnh An Giang cũng yêu cầu các khu cách ly tập trung cần tăng cường kiểm soát, không để xảy ra tình trạng người trốn khỏi khu cách ly và lây nhiễm chéo tại các khu cách ly. Các cơ sở y tế tăng cường công tác phân luồng cách ly, thực hiện nghiêm túc các quy định phòng, chống dịch Covid-19 tại đơn vị, sẵn sàng ứng phó với dịch bệnh.
-Minh Anh
+# url = https://dantri.com.vn/suc-khoe/an-them-3-thu-giam-2-thu-de-gan-luon-khoe-20210422172527954.htm
+# date = 20210422
+Một số chức năng quan trọng của gan phải kể tới:
+- Chuyển hóa chất dinh dưỡng: Gan có vai trò trung tâm trong các quá trình trao đổi chất của cơ thể, vai trò tổng hợp và chuyển hóa các chất dinh dưỡng quan trọng như: chất béo, carbohydrate và protein.
+- Thanh lọc và đào thải độc tố: Trong cơ thể, máu từ các cơ quan tiêu hóa tới gan thường mang theo chất dinh dưỡng, thuốc và các chất độc hại. Gan phát huy chức năng giải độc bằng cách xử lý, chuyển đổi các chất độc hại thành chất ít độc hại hơn nhiều sau đó vận chuyển tới thận và thải ra ngoài.
+- Lưu trữ năng lượng: Bên cạnh việc tích lũy và giải phóng năng lượng, gan lưu trữ các vitamin, khoáng chất khác và giải phóng, đẩy chúng lại máu khi cần thiết để nuôi dưỡng cơ thể.
+Một khi gan mắc bệnh sẽ kéo theo các cơ quan khác của hệ thống và khiến cơ thể suy yếu.
+Sức khỏe lá gan có quan hệ mật thiết đến chế độ ăn uống và sinh hoạt. Để gan hoạt động tốt hãy ăn thêm 3 loại thực phẩm này:
+Bưởi
+Bưởi có chứa hoạt chất hesperidin,vitaminvà các chất dinh dưỡng khác. Những dưỡng chất này có hiệu quả đáng kể trong việc ngăn ngừa viêm nhiễm.
+Bên cạnh đó, bưởi giàuchất chống oxy hóa, hoạt độngnhư một chất bảo vệ tự nhiên của gan, giúp gan thải độc tố, làm chậm quá trình lão hóa.
+Ăn bưởi thường xuyên cũng được chứng minh có thể đốt cháy lượng mỡ thừa trong gan, đồng thời có tác dụng điều tiết khí huyết của gan, là thực phẩm bảo vệ gan rất tốt, thích hợp để bồi bổ sức khỏe hàng ngày.
+Nho
+Nho có chứa resveratrol, anthocyanins và các thành phần khác, có vai trò rất tốt trong việc thanh nhiệt, giải độc và làm chậm quá trình lão hóa của gan. Thường xuyên ăn nho, đặc biệt là nho màu tím sẽ là cách bồi bổ và làm lành vết thương hiệu quả cho lá gan.
+Nghiên cứu chứng minh nho có tác dụng đào thải độc tố và mỡ trong gan ra ngoài. Bên cạnh đó, nho còn có tác dụng cải thiện chức năng gan giảm gánh nặng cho gan từ đó giúp gan ngày càng khỏe mạnh.
+Quả việt quất
+Quả việt quất có chứa nhiều chất dinh dưỡng khác nhau như anthocyanin, vitamin và khoáng chất, có vai trò rất hiệu quả đối với sự phát triển của tế bào gan. Thường xuyên ăn một lượng vừa đủ quả việt quất có thể giảm nóng gan, tăng cường tế bào miễn dịch và ngăn ngừa mỡ gan, đào thải các chất độc tích tụ lâu ngày trong gan ra ngoài.
+Đồng thời, nghiên cứu chứng minh việt quất hỗ trợ rất tốt trong việc làm chậm quá trình lão hóa, giúp cải thiện chức năng gan, rất thích hợp để duy trì sức khỏe hàng ngày.
+Để gan không gặp vấn đề có 2 loại thực phẩm chúng ta nên ăn ít hơn:
+Thực phẩm hun khói
+Các loại thực phẩm hun khói, do có sự tiếp xúc gián tiếp giữa thực phẩm và lửa than nên chứa nhiều các chất độc hại, gây áp lực cho quá trình giải độc của gan.
+Trong trường hợp không thể loại bỏ chất độc kịp thời ra ngoài sẽ khiến chúng bị tích tụ trong gan, từ đó ảnh hưởng sức khỏe và khả năng vận hành của lá gan.
+Các chuyên gia khuyến cáo nếu thường xuyên ăn đồ hun khói thì chức năng gan sẽ bị tổn thương do gan phải chịu nhiều áp lực hơn, dẫn đến viêm nhiễm và các triệu chứng bất lợi khác.
+Thực phẩm giàuchất béo
+Ăn những thực phẩm chứa chất béo một cách thích hợp có thể cung cấp năng lượng và góp phần duy trì các chức năng sống của cơ thể con người. Tuy nhiên nếu lạm dụng nhóm thực phẩm này dễ gây áp lực cho gan.
+Khi lượng chất béo nạp vào không được chuyển hóa hết sẽ gây hiện tượng tích tụ mỡ trong gan dẫn đến gan nhiễm mỡ. Căn bệnh này là tiền đề cho nhiều bệnh gan nguy hiểm khác như viêm gan, xơ gan và thậm chí là ung thư gan.
+Minh Nhật
+Tổng hợp

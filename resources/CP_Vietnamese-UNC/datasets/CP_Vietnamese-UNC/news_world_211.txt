@@ -1,9 +1,14 @@
 # doc_id = news_world_211
-# url = https://dantri.com.vn/the-gioi/phuong-tay-con-hoai-nghi-nga-tung-video-rut-quan-gan-bien-gioi-ukraine-20210424101951968.htm
-# date = 20210424
-Nga bắt đầu rút bớt quân khỏi Crimea hôm 23/4 (Ảnh: TASS).
-Bộ Quốc phòng Nga ngày 23/4 công bố một đoạn video cho thấy, binh sĩ của nước này cùng với các xe thiết giáp đang di chuyển lên các tàu đổ bộ để trở về căn cứ sau khi tham gia các cuộc diễn tập ở Crimea. Trong một cảnh quay khác, các binh sĩ Nga được nhìn thấy đang chất đồ lên các xe bọc thép để chở đi.
-Trước đó, hôm 22/4, Bộ trưởng Quốc phòng Nga Sergei Shoigu thông báo rút các đơn vị quân sự được điều động ở phía tây và phía nam của đất nước sau khi đã hoàn tất đợt diễn tập kiểm tra năng lực sẵn sàng tác chiến của quân đội.
-Đợt rút quân bắt đầu từ ngày 23/4 và phải hoàn tất trước ngày 1/5. Tuy nhiên, Nga vẫn giữ lại các khí tài ở đây để phục vụ cho các cuộc diễn tập vào cuối năm.Quyết định rút quân được đưa ra sau khi Nga bất ngờ tăng cường lực lượng quân sự ở bán đảo Crimea và các khu vực giáp biên giới phía đông của Ukraine. Động thái tăng cường lực lượng của Moscow khiến phương Tây lo ngại nguy cơ một cuộc xung đột quân sự.
-Nga khẳng định việc điều động lực lượng trong lãnh thổ nước này là hoàn toàn bình thường, không nhằm vào nước nào khác và Moscow quyết định rút quân khi đã đạt được mục tiêu kiểm tra năng lực tác chiến của quân đội. Mặc dù vậy, nhiều nước phương Tây, trong đó có Mỹ, vẫn hoài nghi về quyết định rút quân của Nga.
-Minh PhươngTheo RT
+# url = https://dantri.com.vn/the-gioi/quan-chuc-eu-mot-dom-lua-cung-thoi-bung-xung-dot-nga-ukraine-20210420063922336.htm
+# date = 20210420
+Biên giới Nga - Ukraine căng thẳng chưa từng có
+Phát biểu tại một cuộc họp trực tuyến của các ngoại trưởng EU ngày 19/4, Cao ủy Đối ngoại EU Josep Borrell cho rằng việc Nga tăng cường lực lượng ở biên giới với Ukraine, trong đó có việc xây dựng các bệnh viện dã chiến, là "vấn đề đáng lo ngại".
+"Nga đã điều động hơn 150.000 binh sĩ đến biên giới với Ukraine và bán đảo Crimea. Nguy cơ leo thang căng thẳng rất rõ ràng. Đây là đợt triển khai quân sự lớn nhất của Nga ở khu vực giáp biên giới Ukraine từ trước đến nay. Đây là điều đáng lo ngại. Một đốm lửa nhỏ có thể bùng lên ở đây hoặc ở kia", ông Borell nói. Nhà ngoại giao EU sau đó đính chính số binh sĩ Nga triển khai xuống hơn 100.000 người.
+Ông Borell nói, EU đánh giá cao những phản ứng có chừng mực của Ukraine, trong khi đó hối thúc Nga giảm căng thẳng ở biên giới. "Mối quan hệ với Nga không những không cải thiện, ngược lại, căng thẳng đang leo thang trên nhiều mặt trận khác nhau. Chúng tôi kêu gọi Nga rút quân", ông Borell nói.
+EU chưa trừng phạt bổ sung với Nga
+Cùng ngày, Ngoại trưởng Ukraine Dmytro Kuleba kêu gọi EU áp đặt các lệnh trừng phạt mới với Nga. Tuy nhiên, ông Borell nhấn mạnh, hiện tại EU chưa có kế hoạch áp các lệnh trừng phạt kinh tế mới hay trục xuất nhà ngoại giao Nga liên quan đến vấn đề căng thẳng ở biên giới với Ukraine.
+Ông Borell cũng bác bỏ cáo buộc cho rằng EU hành động tập thể trong việc trục xuất giới ngoại giao Nga giữa lúc Séc - một thành viên của EU - và Nga "ăn miếng, trả miếng" với lệnh trục xuất nhà ngoại giao của nhau.
+Phương Tây bày tỏ quan ngại và chỉ trích động thái tăng cường lực lượng gần đây của Nga ở biên giới với Ukraine giữa lúc chiến sự ở miền Đông Ukraine giữa quân đội và lực lượng ly khai nóng trở lại. Tuy nhiên, Moscow đã bác bỏ những chỉ trích này và khẳng định việc triển khai lực lượng trong lãnh thổ Nga là hoàn toàn bình thường, không nhằm vào bất cứ quốc gia nào.
+Về phần mình, Tổng thống Ukraine Volodymyr Zelensky kêu gọi phương Tây hỗ trợ thêm, hối thúc NATO nhanh chóng phê duyệt kết nạp Ukraine làm thành viên.Tổng thống Pháp Emmanuel Macron và Thủ tướng Đức Angela Merkel cuối tuần trước đã họp trực tuyến với nhà lãnh đạo Ukraine, cả hai nhà lãnh đạo Pháp và Đức đều kêu gọi Nga rút quân khỏi biên giới với Ukraine và hạ nhiệt căng thẳng. Trả lời phỏng vấn sau đó, Tổng thống Macron thậm chí kêu gọi các nước phương Tây vạch rõ "lằn ranh đỏ" với Nga mà áp lệnh trừng phạt là một phần trong đó.
+Đức và Pháp là hai quốc gia đã hỗ trợ đàm phán thỏa thuận hòa bình ở miền Đông Ukraine, giúp các bên đạt được thỏa thuận Minsk vào năm 2015. Kể từ đó, Pháp và Đức đóng vai trò trung gian hòa giải xung đột ở miền đông Ukraine giữa quân đội và lực lượng ly khai mà phương Tây cho rằng có sự hậu thuẫn của Nga.
+Minh PhươngTheo AP

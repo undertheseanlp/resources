@@ -1,16 +1,14 @@
 # doc_id = news_health_110
-# url = https://dantri.com.vn/suc-khoe/dip-nghi-le-304-15-co-han-che-du-lich-20210429071848195.htm
-# date = 20210429
-Cơ quan chức năng đã phát hiện các trường hợp mắc bệnh là người nhập cảnh trái phép.Theo Bộ Y tế, dịch có nguy cơ bùng phát trở lại. 
-Sắp tới có thể có đông người nhập cảnh trái phép về Việt Nam, vì vậy Bộ Y tế mong muốn mọi người dân, đặc biệt tại các địa phương giáp biên giới với Campuchia, Lào khi phát hiện người lạ nghi ngờ cần thông báo ngay với chính quyền. Điều này cũng cần được truyền thông rộng rãi tại các khu vực vận chuyển, bến xe, bến bãi, bến cảng, các tụ điểm xe ôm..
-Thứ trưởng Y tế Nguyễn Trường Sơn cho biết các địa phương cần tăng cường các biện pháp phòng chống dịch Covid-19 ở mức rất cao, đặc biệt tại các tỉnh biên giới Tây Nam.
-Theo Thứ trưởng hiện Việt Nam vẫn đang kiểm soát được tình hình dịch nên chưa có khuyến cáo hạn chế người dân du lịch trong dịp nghỉ lễ. Tuy nhiên trong tình hình hiện nay, người dân cần phải có biện pháp bảo vệ mình và bảo vệ cộng đồng bằng 5K. Đây là điều vô cùng cần thiết.
-PGS.TS Trần Đắc Phu, nguyên Cục trưởng Cục Y tế Dự phòng, Cố vấn cao cấp Trung tâm Đáp ứng Sự kiện y tế công cộng Bộ Y tế cũng khuyến cáo người dân cần tuân thủ thực hiện nguyên tắc 5K của Bộ Y tế; ban quản lý các khu du lịch, chính quyền cũng cần nhắc nhở người đến tuân thủ các biện pháp phòng chống dịch, nhất là trong dịp nghỉ lễ 4 ngày sắp tới.
-"Trong dịp nghỉ lễ, nhiều người đi lại, tiếp xúc người lạ mà không biết ai mang nguy cơ, khi có ca bệnh sẽ rất khó truy vết. Thậm chí, khi để lọt mầm bệnh, dịch không bùng phát ngay mà thời gian sau mới xuất hiện", ông Phu nói.
-"Chúng ta phải nêu cao cảnh giác, không được chủ quan lơ là bất cứ lúc nào trong phòng chống dịch. Biết đâu một ca bệnh nhập cảnh trái phép xuất hiện, sẽ tiềm ẩn nhiều nguy cơ lây lan dịch trong cộng đồng", Bộ trưởng Y tế Nguyễn Thanh Long nhấn mạnh tại nhiều buổi làm việc với các địa phương.
-Khuyến cáo phòng chống dịch dịp nghỉ lễ 30/4, 1/5
-Bên cạnh việc tuyên truyền, khuyến cáo người dân tuân thủ phòng chống dịch, kiên trì thực hiện khuyến cáo 5K của Bộ Y tế, các tỉnh cũng nên có biện pháp xử phạt người không tuân thủ đeo khẩu trang ở nơi công cộng.
-Để phòng chống dịch Covid-19, Bộ Y tế kêu gọi người dân hạn chế đến nơi công cộng, tụ tập đông người không cần thiết. Đồng thời, không được chủ quan, lơ là; luôn đề cao cảnh giác phòng chống dịch, khi phát hiện các trường hợp nghi ngờ nhập cảnh trái phép cần lập tức thông báo ngay cho chính quyền địa phương để tổ chức cách ly, xử lý kịp thời.
-Mỗi người cũng cần thực hiện tốt khuyến cáo 5K: Khẩu trang-Khử khuẩn-Khoảng cách-Không tụ tập-Khai báo y tế. Để được tư vấn khi cần thiết có thể liên hệ với đường dây nóng Bộ Y tế: 1900.9095.
-Virus SARS-CoV-2 lây trực tiếp từ người sang người chủ yếu qua giọt bắn đường hô hấp và qua đường tiếp xúc. Virus cũng có khả năng lây truyền qua đường khí dung (aerosol), đặc biệt tại các cơ sở y tế và những nơi đông người và ở không gian kín. Bên cạnh đó, virus cũng liên tục biến đổi tạo ra hàng ngàn biến thể khác nhau trên toàn thế giới làm cho khả năng lây lan mạnh hơn và khó kiểm soát hơn.
-Nam Phương
+# url = https://dantri.com.vn/suc-khoe/duy-tri-thoi-quen-nay-co-the-giup-tang-7-nam-tuoi-tho-20210423152920065.htm
+# date = 20210423
+Gan là nơi đầu tiên "đương đầu" với các độc tố, nguy cơ bệnh tật từ thức ăn, môi trường sống, virus, vi khuẩn…Ngược lại, bệnh từ nhiều cơ quan và bộ phận khác cũng có thể lan sang gan, gây nguy hại cho gan một cách dễ dàng. Chính vì thế, cơ quan này cần được giữ gìn khỏe mạnh bằng cách "làm sạch" định kỳ để làm tốt vai trò của mình.
+Trong nghiên cứu của Tiến sĩ Rockford Yapp thuộc Hiệp hội Gan Hoa Kỳ (American Liver Foundation) cùng các cộng sự thống kê trong hơn 20 năm (từ năm 1989 đến năm 2009) về ảnh hưởng của việc làm sạch lá gan tới tuổi thọ con người đã khẳng định vấn đề này. Nghiên cứu cho thấy: Tuổi thọ của nhóm người thường xuyên quan tâm và sử dụng các phương pháp giải độc cho gan cao hơn từ 3-5 năm so với nhóm còn lại. Đặc biệt, nhóm định kỳ áp dụng phương pháp làm sạch gan bằng thảo dược, thực phẩm chức năng 2 năm mỗi lần có tuổi thọ cao hơn nhóm đối chứng tới 7,05 năm.
+Đáng lưu ý hơn, vào mùa dịch bệnh nguy hiểm: cúm mùa hay Covid-19 như hiện nay, sức khỏe lá gan càng cần được quan tâm hàng đầu khi các con số thống kê cho thấy, 8,1% người bị bệnh gan mạn tính tử vong khi mắc Covid-19.
+Chính vì vậy, việc giải độc gan, tăng cường chức năng gan, tăng miễn dịch nội sinh cơ thể trở thành yếu tố quan trọng giúp tạo nên chốt chặn cuối cùng phòng chống dịch bệnh và nâng cao tuổi thọ con người.
+Nhiều người cho rằng, để thanh lọc gan, làm sạch "nhà máy" của cơ thể là việc làm khó khăn, phức tạp. Thực tế, nó đơn giản hơn chúng ta nghĩ.
+Những nguyên tắc chúng ta cần tuân thủ để làm sạch gan bao gồm:
+Tuân thủ chế độ ăn khoa học, giàu dinh dưỡng, lành mạnh và sạch sẽ: Tránh xa bia rượu, chất kích thích, nội tạng động vật, thay vào đó là nhiều rau xanh, thực phẩm lành mạnh sẽ giúp gan làm việc hiệu quả hơn, "sạch" và khỏe hơn.
+Tập thể dục gắng sức hiểu đơn giản là tập đủ để bạn thở dốc, mồ hôi thoát ra khỏi cơ thể và nhịp tim tăng cao. Nhiều nghiên cứu đã chỉ ra, tế bào lympho (đại diện cho sự có mặt của hệ miễn dịch) được sản sinh mạnh mẽ ở những người thường xuyên vận động gắng sức hàng ngày. Người bệnh gan tùy vào thể trạng có thể chọn hình thức vận động phù hợp, đảm bảo yếu tố này như: đạp xe, chạy bộ, đánh cầu lông…
+Đặc biệt, phải tìm cách làm sạch lá gan, tăng cường miễn dịch nội sinh, tăng cường chức năng gan định kỳ 2 lần mỗi năm, giúp gan khỏe mạnh.
+Minh Nhật
+Tổng hợp
