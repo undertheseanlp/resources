@@ -28,7 +28,7 @@ Open Vietnamese Natural Language Processing Resources
 
 Underthesea News Corpus
 
-`task:corpus` `domain:news` `version:1.0-alpha` `year:2020`
+`task:corpus` `domain:news` `version:1.0` `year:2021`
 
 🐟 [CP_Vietnamese-VLC](resources/CP_Vietnamese-VLC)
 
