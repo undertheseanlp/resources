@@ -14,6 +14,7 @@ def warn(file, line_number, message, type=None):
     total_erros += 1
 
 
+total_documents = 0
 total_sentences = 0
 MIN_SENTENCES_PER_TOPICS = 300
 MIN_SENTENCES_PER_FILE = 3
@@ -32,6 +33,8 @@ def validate():
     def validate_file(file):
         global topics_sentences
         global total_sentences
+        global total_documents
+        total_documents += 1
         try:
             # file should has doc_id, url and date
             lines = open(file).read().splitlines()
@@ -88,7 +91,9 @@ def stats():
     print("\n# CORPUS STATISTICS")
     global topics
     global total_sentences
+    global total_documents
     print("Number of topics    :", len(topics))
+    print("Number of documents :", total_documents)
     print("Number of sentences :", total_sentences)
 
 
