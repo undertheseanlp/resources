@@ -16,6 +16,24 @@ Number of documents : 200
 Number of sentences : 4613 
 ```
 
+Older Version
+
+<table>
+<tr>
+  <th>Version</th>
+  <th>Year</th>
+  <th>Number of topics</th>
+  <th>Number of documents</th>
+  <th>Number of sentences</th>
+</tr>
+<tr>
+  <td>1.0</td>
+  <td>2021</td>
+  <td>10</td>
+  <td>200</td>
+  <td>4613</td>
+</tr>
+</table>
 ### Sample
 
 ``` 
