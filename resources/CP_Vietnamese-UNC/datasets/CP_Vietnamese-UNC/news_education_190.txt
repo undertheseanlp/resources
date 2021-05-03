@@ -1,0 +1,11 @@
+# doc_id = news_education_190
+# url = https://dantri.com.vn/giao-duc-huong-nghiep/on-thi-tot-nghiep-thpt-mon-toan-huong-dan-lam-tot-cac-bai-toan-tich-hop-20210427134840685.htm
+# date = 20210427
+Đó là chia sẻ của thầy Lê Bá Trần Phương, giáo viên bộ môn Toán tại Hệ thống Giáo dục HOCMAI.
+Theo đó, các bài toán tích hợp là các bài toán có tính móc xích, dây chuyền giữa kiến thức giải tích với giải tích, giữa giải tích với hình học.
+Thầy Phương cho biết, muốn làm tốt dạng bài này, đầu tiên, các em cần nắm vững lý thuyết giải tích. Ví dụ, với phương trình g(x)=0 thì số nghiệm của phương trình này chính là số giao điểm của đồ thị y=g(x) với trục hoành.
+Bên cạnh đó, thí sinh nên luyện đề thường xuyên, đặc biệt là làm quen với các dạng bài toán tích hợp. Từ đó, tìm ra phương pháp giải bài toán nhanh nhất, đơn giản nhất và chính xác nhất.
+Theo thầy Phương, qua mỗi bài tập tích hợp, thí sinh sẽ rèn luyện được khả năng tư duy để làm các dạng bài tương tự.
+Trong bài giảng dưới đây, thầy Lê Bá Trần Phương sẽ hướng dẫn các em cách giải chi tiết và những điều cần lưu ý khi làm một số dạng toán tích hợp.
+Hướng dẫn làm tốt các bài toán tích hợp thi tốt nghiệp THPT 2021
+Nhật Hồng

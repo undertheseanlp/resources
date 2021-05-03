@@ -1,0 +1,6 @@
+# doc_id = news_science_204
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/su-tu-pho-dien-chien-thuat-di-san-theo-nhom-de-ha-guc-con-moi-lon-20210408110736823.htm
+# date = 20210408
+Video: Sư tử "phô diễn" chiến thuật đi săn theo nhóm để hạ gục con mồi lớn.
+Minh Khôi
+Nguồn video: National Geographic Wild

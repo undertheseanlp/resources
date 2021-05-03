@@ -1,0 +1,22 @@
+# doc_id = news_tech_161
+# url = https://dantri.com.vn/suc-manh-so/meo-hay-bien-guong-mat-cua-chinh-ban-thanh-sticker-hai-huoc-tren-smartphone-20210402123608610.htm
+# date = 20210402
+Nhãn dán (Sticker) là những biểu tượng hoặc ảnh động thường được sử dụng để biểu lộ cảm xúc khi chat trên các ứng dụng nhắn tin hoặc khi bình luận trên mạng xã hội như Facebook, WhatsApp, Zalo... Sticker trên các ứng dụng thường được cung cấp sẵn và giống nhau.
+Sẽ thật thú vị và ấn tượng nếu bạn tự biến gương mặt của chính mình hoặc của bạn bè, người thân, thành các nhãn dán độc đáo, "không đụng hàng" để sử dụng khi nhắn tin hoặc bình luận trên mạng xã hội.
+Mirror: emoji meme maker (gọi tắt là Mirror) là ứng dụng cho phép người dùng tạo ra các sticker hài hước và độc đáo từ gương mặt của chính mình. Ứng dụng sẽ cho phép người dùng chụp một bức ảnh selfie hoặc chọn một hình ảnh sẵn có trên smartphone, sau đó tự động nhận diện gương mặt có trong ảnh và ghép gương mặt đó vào những sticker cực hài hước. Bạn cũng có thể tùy biến để thay đổi màu da, kiểu tóc... sao cho phù hợp nhất, nhưng nét mặt vẫn được giữ nguyên như của chính bạn.
+Ứng dụng có cả phiên bản dành cho Android lẫn iOS, bạn đọc có thể tìm và tải Mirror từ CH Play và App Store, hoặc download ứng dụng trực tiếp tại đây hoặc tại đây (tương thích Android 5.0 trở lên) hoặc phiên bản dành cho iOS tại đây (tương thích iOS 11.0 trở lên).
+Ứng dụng có giao diện hoàn toàn bằng tiếng Việt nên rất dễ dàng và thuận tiện khi sử dụng.
+Trong lần đầu dùng ứng dụng, một hộp thoại hiện ra yêu cầu người dùng đồng ý với các điều khoản sử dụng, bao gồm cả điều khoản cho phép Mirror có thể phân tích gương mặt của người dùng để xử lý và tạo các nhãn dán. Bạn nhấn vào tùy chọn đồng ý và nhấn nút "Tiếp tục", sau đó nhấn "Cho phép" từ các hộp thoại hiện ra để cấp quyền cho ứng dụng.
+Giao diện chính của Mirror là giao diện chụp ảnh để người dùng tự chụp lại gương mặt của chính mình hoặc gương mặt của bất kỳ ai mà bạn muốn biến đổi thành nhãn dán động. Bạn nên di chuyển sao cho gương mặt của mình khớp với khung hình gương mặt có trên giao diện ứng dụng rồi nhấn nút chụp để ứng dụng nhận diện gương mặt được chính xác hơn.
+Trong trường hợp bạn muốn sử dụng một hình ảnh có sẵn trên thiết bị của mình, nhấn vào biểu tượng ở góc dưới bên trái giao diện ứng dụng, sau đó chọn hình ảnh có trên thiết bị để sử dụng.
+Bạn nên chụp hoặc chọn những hình ảnh với gương mặt có góc nhìn thẳng, giúp ứng dụng dễ dàng nhận diện gương mặt có trên ảnh.
+Sau khi chụp hoặc chọn hình ảnh muốn xử lý, ứng dụng sẽ tự động nhận diện gương mặt có trên ảnh để biến đổi gương mặt đó thành hình vẽ sử dụng trên nhãn dán.
+Bước tiếp theo, ứng dụng sẽ cho phép người dùng tùy chọn phong cách, tùy biến gương mặt sử dụng trên nhãn dán, như kiểu tóc, mắt, mũi, miệng, màu da, các phụ kiện đi kèm như kính mắt, mũ… sao cho ưng ý và giống với phong cách của bạn ở ngoài đời.
+Sau khi đã hoàn tất việc xử lý gương mặt và cảm thấy ưng ý, nhấn nút "Nhận nhãn dán" ở bên dưới để tiếp tục. Nhấn nút "Bỏ qua" tại hai giao diện tiếp theo để bỏ qua các nội dung giới thiệu về ứng dụng.
+Bước tiếp theo ứng dụng sẽ tự động ghép gương mặt mà bạn đã thiết kế ở trên vào những hình ảnh động dạng nhãn dán (Sticker), bạn có thể chọn kiểu nhãn dán mà mình cảm thấy yêu thích và phù hợp nhất từ danh sách hiện ra.
+Ứng dụng phân chia các loại nhãn ra thành từng chủ đề, như các sticker về ngày kỷ niệm, sticker để thể hiện cảm xúc, thể hiện tình yêu…
+Lưu ý: với những nhãn dán động có gắn chữ "Cao cấp", nghĩa là bạn phải mua phiên bản chuyên nghiệp của ứng dụng mới được phép sử dụng các nhãn dán này.
+Sau khi chọn được kiểu sticker yêu thích, bạn có thể gửi các sticker này đến người khác thông qua Facebook, Instagram, ứng dụng nhắn tin Facebook Messenger, Viber, Zalo, Snapchat... hoặc có thể nhấn vào nút "Lưu" để lưu các nhãn dán này về thiết bị di động của mình.
+Với Mirror, người dùng có thể tạo ra những sticker hài hước và thú vị từ gương mặt của chính mình hoặc của một người nào đó, để biểu thị cảm xúc mỗi khi nhắn tin với một ai đó, hoặc để chèn vào những bình luận trên mạng xã hội… Bạn nên tải những nhãn dán yêu thích về smartphone của mình để có được một bộ sưu tập sticker, có thể sử dụng bất cứ lúc nào mình muốn.
+Một vài sticker động hài hước được tạo ra bởi Mirror:
+Quang Huy

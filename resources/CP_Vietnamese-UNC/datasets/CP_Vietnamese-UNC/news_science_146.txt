@@ -1,0 +1,13 @@
+# doc_id = news_science_146
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/nasa-lan-dau-tien-khai-thac-thanh-cong-oxy-tu-bau-khi-quyen-sao-hoa-20210424052249673.htm
+# date = 20210424
+Nó đặc biệt quan trọng vì đã mở đường cho việc sản xuất không khí với các sứ mệnh có người lái trong tương lai và giúp sản xuất nhiên liệu tên lửa tại chỗ cho chuyến trở về Trái đất.
+Sau khi được kích hoạt, thiết bị được gọi là Thí nghiệm sử dụng tài nguyên ôxy tại chỗ trên Sao Hỏa (MOXIE) được gắn trên tàu thăm dò Perseverance, đã tạo ra 5 gam ôxy từ carbon dioxide trong khí quyển của hành tinh Đỏ thông qua quá trình điện phân.
+Trudy Kortes, một nhân sự cấp cao của NASA, cho biết: "MOXIE không chỉ là công cụ đầu tiên sản xuất ôxy ở một hành tinh khác. Những công nghệ như vậy có thể sẽ giúp con người sống được trong các sứ mệnh khám phá trong tương lai".
+Trước mắt, công nghệ mới này một ngày nào đó có thể giúp cung cấp ôxy cho sứ mệnh quay trở lại Sao Hỏa có người lái.
+NASA ước tính việc đưa 4 phi hành gia dời khỏi Sao Hỏa sẽ cần tới 7 tấn nhiên liệu tên lửa kết hợp với 25 tấn ôxy.
+Trước thực tế này, Michael Hecht từ Viện Công nghệ Massachusetts (MIT) cho rằng việc vận chuyển một máy chuyển hóa ôxy nặng một tấn tới hành tinh Đỏ sẽ thiết thực hơn là vận chuyển một lượng lớn ôxy như vậy từ Trái đất.
+MOXIE được thiết kế để tạo ra tới 10 gam ôxy mỗi giờ và các nhà khoa học hiện dự định chạy thiết bị này ít nhất 9 lần nữa trong các điều kiện và tốc độ khác nhau trong vòng hai năm tới.
+Vào ngày 19/2, tàu Perseverance đã xuyên qua bầu khí quyển Sao Hỏa với tốc độ lên đến 19.000 km/h và đáp xuống Hõm chảo Jezero. Tàu Perseverance đã gửi về những hình ảnh đen trắng đầu tiên từ bề mặt Sao Hỏa, trong đó một bức cho thấy bóng của con tàu đổ trên bãi đá hoang vắng mà nó đáp xuống.
+Việc hạ cánh của tàu Perseverance nhận được sự quan tâm đặc biệt vì nó nằm trong một dự án khổng lồ kéo dài 2 năm trị giá 2,7 tỷ USD. Dự án này nhằm tìm kiếm dấu hiệu sự sống có thể của những vi khuẩn đã tồn tại cách đây 3 tỷ năm trên hành tinh Đỏ.
+Trang Phạm

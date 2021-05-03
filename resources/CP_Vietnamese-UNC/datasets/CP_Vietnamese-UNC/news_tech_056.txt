@@ -1,0 +1,11 @@
+# doc_id = news_tech_056
+# url = https://dantri.com.vn/suc-manh-so/canh-bao-ma-doc-nguy-hiem-co-kha-nang-theo-doi-nguoi-dung-qua-smartphone-20210329161221564.htm
+# date = 20210329
+Mã độc tạo ra hộp thoại thông báo nâng cấp hệ thống giả mạo để chiếm các quyền điều khiển trên smartphone.
+Theo hãng nghiên cứu bảo mật Zimperium zLabs (Mỹ), một dạng phần mềm độc hại mới vừa được phát hiện trên nền tảng Android, sẽ ngụy trang dưới dạng bản cập nhật của hệ thống trên thiết bị.
+Mã độc sẽ xuất hiện hộp thoại thông báo có bản nâng cấp hệ thống mới, nhưng khi người dùng nhấn đồng ý để download bản cập nhật về thiết bị, phần mềm sẽ lợi dụng điều này để chiếm lấy một số quyền hạn trên smartphone nhằm phục vụ cho mục đích gián điệp, chẳng hạn như ghi âm cuộc gọi, chụp ảnh từ smartphone, xem lén tin nhắn (ngay cả các ứng dụng tin nhắn như WhatsApp), xác định vị trí của người dùng thông qua GPS trên smartphone hay thậm chí có thể tìm và lấy cắp các loại file trên smartphone…
+Các dữ liệu, thông tin do mã độc thu thập sẽ được gửi về máy chủ bên ngoài cho hacker chiếm giữ. Quá trình hoạt động của mã độc hoàn toàn bí mật và âm thầm, khiến người dùng không hay biết rằng mình đang bị kẻ xấu theo dõi.
+Các chuyên gia bảo mật của zLabs nhận định mã độc này là một phần trong chiến dịch gián điệp tinh vi và phức tạp. Kẻ xấu có thể cài mã độc lên smartphone của người dùng bằng nhiều cách, bao gồm lừa họ cài đặt một ứng dụng mới, gửi email hoặc tin nhắn có đính kèm đường link tải ứng dụng chứa mã độc….
+Các chuyên gia cảnh báo người dùng không nên cài đặt ứng dụng từ những nguồn gốc không rõ ràng để tránh bị nhiễm mã độc, đặc biệt tuyệt đối không cài các ứng dụng do người lạ gửi đến thông qua tin nhắn hoặc email. Trong trường hợp trên smartphone xuất hiện hộp thoại thông báo cập nhật hệ thống, cần phải kiểm tra kỹ đó có đúng là thông báo từ smartphone hay không, hay đó là hộp thoại thông báo nâng cấp giả mạo do mã độc tạo ra để lấy cắp thông tin người dùng.
+Bạn đọc có thể thực hiện theo hướng dẫn của Dân trí tại đây để có thể nhận ra những dấu hiệu cho thấy smartphone đã bị nhiễm mã độc và thực hiện theo hướng dẫn tại đây để tránh lây nhiễm mã độc trên smartphone.
+T.ThủyTheo zLabs

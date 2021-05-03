@@ -1,0 +1,20 @@
+# doc_id = news_science_054
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/chiec-hop-bi-an-duoc-gan-tren-tau-tham-do-perseverance-kham-pha-sao-hoa-20210318061904753.htm
+# date = 20210318
+Các kỹ thuật viên cẩn thận hạ thiết bị Thí nghiệm sử dụng nguồn oxy tại chỗ trên Sao Hỏa (MOXIE) vào phần bụng của tàu thăm dò Perseverance.
+Sau khi hạ cánh an toàn trên Sao Hỏa vào ngày 18 tháng 2, chiếc tàu thám hiểm mới nhất của NASA, Perseverance, đang bắt đầu cuộc khám phá khoa học về hành tinh Đỏ. Bên cạnh việc thám hiểm, Perseverance còn có một sứ mệnh tiếp theo đó là sẽ giúp mở đường cho con người trong tương lai có thể đến được hành tinh này nhờ một công cụ nhỏ được gọi là Thí nghiệm sử dụng tài nguyên ôxy tại chỗ trên Sao Hỏa (MOXIE).
+MOXIE, thứ sẽ sớm hút ôxy quý giá ra khỏi bầu khí quyển độc hại của Sao Hỏa, có màu vàng kim và chỉ có kích thước bằng một hộp bánh mì. Nó nằm gọn trong khung gầm của Perseverance, nơi nó sẽ tiến hành cuộc thử nghiệm đầu tiên trên một hành tinh khác về thứ được gọi là sử dụng tài nguyên tại chỗ (ISRU), nghĩa là sử dụng tài nguyên của Sao Hỏa để thăm dò thay vì mang tất cả các vật liệu cần thiết từ Trái đất.
+NASA từ lâu đã quan tâm đến ISRU và đưa ra lời kêu gọi về một thí nghiệm tạo ra ôxy, Eric Daniel Hinterman, một nghiên cứu sinh tiến sĩ kỹ thuật hàng không tại Viện Công nghệ Massachusetts và là thành viên của nhóm MOXIE, cho biết.
+Trong khi ôxy rất hữu ích cho việc thở của các phi hành gia, Hinterman nói rằng nó thậm chí còn quan trọng hơn trong việc sử dụng để tạo ra chất đẩy phóng tên lửa. Khi kết hợp với hydro, ôxy sẽ bùng cháy thành một vụ nổ mạnh được sử dụng để nâng nhiều tên lửa hiện đại ra khỏi bệ phóng.
+Ngoài chất đẩy cần thiết để rời khỏi Trái đất và bay đến Sao Hỏa, một tàu vũ trụ đưa con người lên hành tinh Đỏ sẽ cần từ 30.000 và 45.000 kg ôxy để trở về nhà.
+Hinterman cho biết: "Chúng tôi có thể gửi lượng ôxy đó từ Trái đất đến sao Hỏa, nhưng nếu có thể tạo ra nó ngay trực tiếp tại chỗ có thể tiết kiệm được rất nhiều chi phí".
+Bất kỳ ôxy bổ sung nào được tạo ra thông qua công nghệ ISRU đều có thể đi vào các hệ thống hỗ trợ sự sống cho các phi hành gia khi ở trên bề mặt Sao Hỏa.
+Trước đó, để đến được mặt đất của Sao Hỏa, Perseverance đã phải trải qua một cuộc hạ cánh được mô tả là "bảy phút kinh hoàng" nổi tiếng. Một vài ngày sau khi hạ cánh, nhóm MOXIE đã phải kiểm tra rất kỹ thiết bị này để đảm bảo nó hoạt động bình thường.
+"Chúng tôi đã phải bật lên và gửi một số dữ liệu thử để xác nhận rằng nó sống sót", Hinterman nói.
+Mặc dù lần chạy sản xuất ôxy đầu tiên của MOXIE vẫn chưa được lên lịch, nhưng nó dự kiến sẽ diễn ra vào khoảng thời gian ngắn sắp tới. Thiết bị này sẽ sử dụng một công nghệ được gọi là điện phân ôxy rắn.
+Quá trình liên quan đến việc thu nhận một mẫu nhỏ của bầu khí quyển Sao Hỏa, gần như hoàn toàn là carbon dioxide, một phân tử chứa một nguyên tử carbon và hai nguyên tử ôxy. MOXIE sẽ làm nóng không khí lên đến gần 1500 độ F (800 độ C) và đặt một điện áp lên nó. Điều đó sẽ tách carbon dioxide ra, tạo ra carbon monoxide và một nguyên tử ôxy.
+MOXIE sẽ không lưu trữ bất kỳ ôxy nào mà nó tạo ra vì nó chỉ đơn giản xác minh rằng nguyên tố đã được tạo thành công và sau đó giải phóng trở lại bầu khí quyển. Nó chỉ là một nguyên mẫu nhỏ nhỏ hơn khoảng 200 lần so với một cỗ máy tương tự sẽ được sử dụng cho nhiệm vụ của con người trong tương lai.
+Thử nghiệm dự kiến sẽ chạy nhiều lần trong suốt một năm trên Sao Hỏa. Đó là bởi phiên bản MOXIE được mở rộng quy mô sẽ là cơ sở hạ tầng quan trọng đối với sứ mệnh của con người.
+Các nhà khoa học cho biết, mặc dù công nghệ này hoạt động trên Trái đất, nhưng để thực sự tự tin vào thứ mà con người sẽ dựa vào để sinh tồn thì điều quan trọng là phải thử nghiệm công nghệ đó trực tiếp trên Sao Hỏa.
+Trang Phạm
+Theo Live Science

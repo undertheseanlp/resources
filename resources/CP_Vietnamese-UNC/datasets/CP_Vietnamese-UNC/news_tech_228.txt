@@ -1,0 +1,23 @@
+# doc_id = news_tech_228
+# url = https://dantri.com.vn/suc-manh-so/thu-thuat-giup-sao-luu-va-phuc-hoi-toan-bo-tin-nhan-tren-smartphone-20210331125945760.htm
+# date = 20210331
+Sau một thời gian dài sử dụng, chắc chắn trên smartphone của bạn sẽ có những tin nhắn với nội dung quan trọng mà bạn luôn muốn lưu để xem lại khi cần. Nếu muốn đổi sang smartphone mới, hoặc để đề phòng trường hợp điện thoại bị mất cắp, hư hỏng, thì bạn sẽ có nhu cầu tạo một bản sao lưu toàn bộ nội dung tin nhắn hiện có trên smartphone.
+SMS Backup là ứng dụng miễn phí cho phép người dùng dễ dàng sao lưu và phục hồi toàn bộ tin nhắn SMS trên smartphone hiện có. Với sự trợ giúp của SMS Backup, người dùng có thể tạo bản sao các tin nhắn quan trọng đang có trên smartphone, hoặc có thể dễ dàng chuyển đổi tin nhắn smartphone cũ sang smartphone mới khi cần.
+Ứng dụng hiện chỉ có phiên bản dành cho Android, bạn đọc có thể tìm và tải từ CH Play, hoặc download SMS Backup trực tiếp tại đây hoặc tại đây (tương thích Android 5.0 trở lên).
+Trong lần đầu tiên khởi chạy ứng dụng sau khi cài đặt, bạn nhấn nút "Cho phép" từ các hộp thoại hiện ra để cấp quyền, giúp ứng dụng có thể sao lưu và phục hồi tin nhắn trên smartphone.
+Chờ trong giây lát, ứng dụng sẽ liệt kê toàn bộ các tin nhắn hiện có trên smartphone. Người dùng có thể đánh dấu tùy chọn những tin nhắn nào mình muốn sao lưu. Bạn nên để nguyên mặc định và tiến hành sao lưu toàn bộ tin nhắn có trên smartphone của mình.
+Nhấn nút "Back up" để sao lưu toàn bộ tin nhắn. Nhấn nút "Yes" từ hộp thoại hiện ra nếu muốn sao lưu cả những file media có trong các tin nhắn đã nhận.
+Sau khi quá trình sao lưu nội dung tin nhắn hoàn tất, một hộp thoại hiện ra, hỏi người dùng có muốn gửi file sao lưu tin nhắn vào email hoặc upload lên dịch vụ lưu trữ Google Drive hay không. Bạn nên lưu trữ file sao lưu của tin nhắn trên email để đề phòng trường hợp smartphone bị hư hỏng hoặc bị mất, bạn vẫn có thể phục hồi lại tin nhắn của mình ở một smartphone khác.
+Bạn nhấn "Yes" vào hộp thoại hiện ra, ứng dụng sẽ nén nội dung các tin nhắn đã được sao lưu thành một file định dạng .zip và cho phép người dùng chia sẻ file này thông qua email hoặc tin nhắn…
+Ngoài việc gửi file sao lưu tin nhắn qua email, bạn cũng có thể lưu một file sao lưu nội dung tin nhắn này trên máy tính của mình để phục hồi lại nội dung tin nhắn trên smartphone khi cần.
+Như vậy, bạn đã hoàn tất quá trình sao lưu nội dung tin nhắn trên smartphone bằng ứng dụng SMS Backup.
+Phục hồi tin nhắn đã sao lưu bằng SMS Backup
+Trong nhiều trường hợp, chẳng hạn bạn đổi sang một smartphone mới, hoặc phải phục hồi lại smartphone khiến toàn bộ dữ liệu trên đó bị mất… bạn muốn phục hồi lại toàn bộ tin nhắn cũ trước đây, thì việc đầu tiên, bạn cần cài đặt ứng dụng SMS Backup lên smartphone.
+Tiếp theo, bạn download file chứa dữ liệu sao lưu tin nhắn đã được tạo ra bởi ứng dụng SMS Backup từ trước (như đã hướng dẫn ở trên) về smartphone của mình.
+Từ giao diện chính của SMS Backup, bạn nhấn vào biểu tượng cài đặt ở góc trên bên phải (biểu tượng 3 chấm), chọn "Restore" từ menu hiện ra. Tại giao diện tiếp theo, nhấn vào nút "Add Backup", rồi tìm file chứa dữ liệu sao lưu tin nhắn mà bạn đã tải về ở trên để đưa file này vào trong ứng dụng.
+Bây giờ, bạn sẽ thấy nội dung của file hiển thị trên tab "Restorable" của ứng dụng, bạn nhấn vào file này và nhấn nút "Yes" tại hộp thoại hiện ra.
+Một điều cần lưu ý, để SMS Backup có thể phục hồi lại các tin nhắn trên smartphone, đòi hỏi người dùng phải chuyển SMS Backup thành ứng dụng nhắn tin mặc định trên smartphone. Để thực hiện điều này, sau khi nhấn vào nút "Yes" từ hộp thoại hiện ra ở trên, bạn chọn "SMS Backup" từ danh sách hiện ra, rồi nhấn nút "Đặt làm mặc định".
+Sau khi thay đổi thiết lập, SMS Backup sẽ lập tức thực hiện quá trình phục hồi tin nhắn.
+Một khi đã hoàn tất quá trình phục hồi tin nhắn, để thay đổi lại ứng dụng tin nhắn mặc định, bạn kích hoạt ứng dụng nhắn tin trên smartphone, một hộp thoại hiện ra hỏi bạn có muốn dùng ứng dụng này làm mặc định hay không, bạn nhấn "Có" (hoặc "OK") để quay về dùng ứng dụng nhắn tin cũ, thay vì dùng SMS Backup làm ứng dụng nhắn tin trên smartphone.
+Như vậy, với sự giúp đỡ của SMS Backup, người dùng sẽ có một công cụ hữu ích để sao lưu và phục hồi tin nhắn khi đổi sang sử dụng smartphone mới hoặc trong trường hợp không may smartphone bị mất, hư hỏng.
+Quang Huy

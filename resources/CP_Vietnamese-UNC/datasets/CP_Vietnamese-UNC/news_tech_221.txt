@@ -1,0 +1,34 @@
+# doc_id = news_tech_221
+# url = https://dantri.com.vn/suc-manh-so/thach-thuc-cong-nghe-so-viet-nam-va-nhung-bai-toan-can-loi-giai-20210409202452387.htm
+# date = 20210409
+Diễn đàn Thách thức công nghệ số Việt Nam là diện mạo mới của loạt sự kiện "Ngày thứ Sáu công nghệ", do Bộ TT&TT giới thiệu và chủ trì.
+Ngày 9/4, Bộ Thông tin và Truyền thông (TT&TT) tổ chức số đầu tiên của chuỗi sự kiện diễn đàn "Thách thức công nghệ số Việt Nam". Đây là diện mạo mới của loạt sự kiện "Ngày thứ Sáu công nghệ", từng được Bộ TT&TT tổ chức rất thành công trong năm 2020.
+Tính đến nay, đã có tổng cộng 38 nền tảng chuyển đổi số "Make in Việt Nam" được Bộ TT&TT ra mắt tại chuỗi sự kiện, như một lời khẳng định cho nỗ lực chia sẻ các nền tảng đến với người dân trong nước đúng theo slogan "người Việt giải bài toán Việt".
+Khác với phiên bản cũ của "Ngày thứ Sáu công nghệ" trong năm 2020, diễn đàn "Thách thức công nghệ số Việt Nam" không phải để phô diễn về công nghệ, mà là sự trình bày một lời giải cho một vấn đề từ góc nhìn của một doanh nghiệp.
+Trong đó, mọi diễn giả bên cạnh việc trình bày các giải pháp, còn phải đứng ra để phản biện trước các câu hỏi hóc búa từ báo chí, doanh nghiệp, và những người theo dõi sự kiện trực tuyến.
+"Thách thức công nghệ số Việt Nam" và những bài toán cần lời giải
+Thứ trưởng Nguyễn Huy Dũng giới thiệu những nét mới của diễn đàn "Thách thức công nghệ số Việt Nam". Ảnh: Nguyễn Nguyễn
+Tại sự kiện, Thứ trưởng Bộ TT&TT Nguyễn Huy Dũng nhận định: "Sự tương tác với các quan điểm phản biện đa chiều từ khán giả, từ báo chí truyền thông sẽ là la bàn định hướng cho những giải pháp công nghệ tìm đến được đúng, được trúng "nỗi đau" vẫn đang hiện hữu trong xã hội".
+Thế nhưng để tìm thấy nỗi đau ấy, thường là việc không dễ dàng. "Đối với Chính phủ, doanh nghiệp, đôi khi cách dễ nhất để tìm ra nỗi đau đúng chỉ nằm ở 2 chữ "đồng cảm", Thứ trưởng Nguyễn Huy Dũng gợi ý.
+Trong đó, đồng cảm là nhìn thấy nỗi đau của chính bản thân, của gia đình mình từ nỗi đau của người khác, đồng cảm là thấy nỗi đau của cả xã hội từ nỗi đau của một số cá nhân yếu thế, đồng cảm để đi giải những nỗi đau của người khác, của xã hội như giải chính nỗi đau của mình.
+Đây cũng chính là lý do mà An Vui - một nền tảng quản lý nhà xe thông minh đã được Bộ TT&TT lựa chọn để giới thiệu trong số đầu tiên của chuỗi sự kiện diễn đàn "Thách thức công nghệ số Việt Nam".
+Startup tiên phong "giải nỗi đau" cho cộng đồng
+CEO Phan Bá Mạnh tại diễn đàn "Thách thức công nghệ số Việt Nam" số đầu tiên. Ảnh: Nguyễn Nguyễn
+Giải pháp quản lý nhà xe thông minh An Vui là nền tảng công nghệ với mục tiêu góp phần số hóa ngành vận tải hành khách đường dài.
+Từ đó, nền tảng giúp các doanh nghiệp vận tải hành khách chuyển đổi số, quản trị khoa học, tối ưu hóa giúp giảm bớt lãng phí xã hội và nâng cao năng lực cạnh tranh của các doanh nghiệp vận tải trước cuộc cách mạng công nghệ.
+Hiện An Vui đang liên kết với trên 150 hãng vận tải, với số lượng khoảng 4.000 xe khách luôn sẵn sàng để đáp ứng nhu cầu từ thị trường.
+An Vui cũng là sản phẩm đã giành giải Khuyến khích, lọt top 10 đội thi xuất sắc tại Nhân tài Đất Việt 2017 trong lĩnh vực công nghệ thông tin.
+Xét trên khía cạnh xã hội, An Vui đã và đang giải được bài toán cho hàng trăm ngàn sinh viên, hàng triệu lao động xa nhà, thường xuyên không thể về quê ăn Tết, để thăm người thân, do bị trễ vé, không kịp đúng chuyến xe,…
+Trong đợt dịch Covid-19, nền tảng của An Vui cũng đã hỗ trợ đắc lực cho cục Tin học hóa (thuộc Bộ TT&TT) để truy vết nhanh các bệnh nhân đi xe khách dựa trên dữ liệu của hệ thống.
+Còn những người ngồi chung chuyến xe với F0, F1 thì được gửi tin nhắn cảnh báo để có biện pháp tới các cơ sở y tế gần nhất, hoặc tự cách ly, tránh lây nhiễm ra cộng đồng.
+Theo chia sẻ của ông Phan Bá Mạnh - CEO An Vui, công ty bắt đầu được phát triển từ năm 2015, đến nay đã giúp nhà xe số hóa được hầu hết hoạt động từ khâu bán vé, tài xế, khách hàng, hàng hóa, xăng dầu và tài chính cũng như xây dựng thương hiệu,…
+Bên cạnh đó, An Vui còn cung cấp dịch vụ tổng đài AI, hệ thống định vị GPS, vé và hợp đồng điện tử. Theo thống kê, các nhà xe tiết kiệm được 30% chi phí nhân lực, 60% chi phí giao tiếp và tăng 30% doanh thu bán vé nhờ sử dụng nền tảng.
+Tính đến nay, An Vui ghi nhận hiệu suất xử lý trung bình khoảng 2 triệu lượt vé mỗi tháng cho người dân trên cả nước.
+Các nhà xe tăng 30% doanh thu bán vé nhờ sử dụng nền tảng của An Vui.
+Để đạt được con số trên là điều không dễ, đặc biệt là trong một lĩnh vực mà người làm nền tảng cần đi thuyết phục, và làm thay đổi thói quen của rất nhiều thành phần trong xã hội.
+CEO Phan Bá Mạnh cho biết thách thức lớn nhất mà An Vui gặp phải chính là làm thế nào để thay đổi hành vi của người đi xe, khi "yêu cầu" họ chuyển từ phương pháp gọi xe truyền thống, sang việc đặt vé trên app.
+Bên cạnh đó, việc thuyết phục các nhà xe sử dụng nền tảng của mình để chuyển đổi số cũng là điều không hề đơn giản.CEO 40 tuổi thừa nhận mình đã lựa chọn ngành có quá nhiều rào cản, về tư duy, về pháp lý. Tuy nhiên theo anh, những khó khăn sẽ chỉ tạo nên động lực, và thôi thúc "con thuyền" đi về phía trước.
+Tại sự kiện, CEO Phan Bá Mạnh cũng đã trực tiếp trao đổi, giải đáp những vấn đề các nhà báo, người sử dụng quan tâm liên quan đến nền tảng quản lý nhà xe thông minh An Vui.
+Nhiều câu hỏi hóc búa đã được đặt ra như "Làm sao để An Vui cạnh tranh với các giải pháp khác?", "Khâu bảo mật thông tin của khách hàng thế nào?" , "Làm thế nào thuyết phục chủ xe sử dụng giải pháp của mình?"…. đã được CEO Phan Bá Mạnh trả lời đầy thuyết phục.
+Kết quả sau phiên hỏi đáp, phản biện, các bên tham gia sự kiện đã bình chọn công khai cho giải pháp quản lý nhà xe thông minh An Vui, với 70% số bình chọn cho rằng đây là một giải pháp hữu ích.
+Nguyễn Nguyễn

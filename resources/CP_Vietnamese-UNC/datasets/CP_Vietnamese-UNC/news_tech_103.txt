@@ -1,0 +1,13 @@
+# doc_id = news_tech_103
+# url = https://dantri.com.vn/suc-manh-so/ga-khong-lo-cong-nghe-google-pham-sai-lam-ngo-ngan-den-kho-tin-20210501145852240.htm
+# date = 20210501
+Nicolas Kurona, người đã mua được tên miền của Google với giá rẻ đến khó tin.
+Mọi chuyện xảy ra khi Nicolas Kurona, một nhà phát triển web sống tại thủ đô Buenos Aires (Argentina) trong khi đang làm việc thì nhận được tin nhắn từ một khách hàng, thông báo về việc trang web của Google phiên bản Argentina không thể truy cập được.
+Khi Kurona kiểm tra lại thì quả nhiên trang web của Google tại Argentina báo lỗi và không truy cập được.
+Kurona tiếp tục truy cập vào trang web của Trung tâm Thông tin mạng Argentina (NIC), tổ chức chịu trách nhiệm vận hành các tên miền mang mã quốc gia của Argentina (tên miền với phần mở rộng .ar) thì phát hiện ra tên miền www.google.com.ar (tên miền của Google chi nhánh tại Argentina) đã hết hạn và dường như Google đã quên gia hạn để tiếp tục sử dụng.
+Kurona không tin rằng Google lại mắc phải một sai lầm ngớ ngẩn và sơ đẳng đến như vậy, nên đã thử đăng ký để đặt mua tên miền www.google.com.ar và quả nhiên, anh đã mua được tên miền này với giá 2,9 USD, một cái giá "rẻ như cho" với một tên miền có giá trị như của Google.
+"Tôi đã thử đặt mua tên miền của Google và rất bất ngờ khi nhận được thông báo xác nhận đã hoàn tất giao dịch", Nicolas Kurona cho biết.
+Sau khi giao dịch thành công, Kurona đã thử truy cập vào trang web www.google.com.ar và hết sức bất ngờ khi thông tin cá nhân của anh đã hiện ra, thay vì trang web của Google như trước đây. Đến lúc này, Kurona mới tin rằng anh đã thực sự có được quyền sở hữu của Google. Hàng triệu người dùng Internet tại Argentina khi truy cập vào trang Google của quốc gia mình để tìm kiếm thông tin cũng đã rất bất ngờ khi trang web hiện ra thông tin của một người xa lạ nào đó.
+Bản thân Kurona cũng không tin được mình lại có được quyền sở hữu tên miền của trang web lớn và danh tiếng như Google với một mức giá rẻ đến như vậy. Tuy nhiên, quyền sở hữu của Kurona không kéo dài được lâu, khi Google sau đó cùng với sự trợ giúp của NIC đã lấy lại được tên miền của mình tại Argentina.
+Hiện vẫn chưa rõ lý do tại sao tên miền của Google tại Argentina lại hết hạn và cho phép người khác mua lại tên miền này với một mức giá rẻ đến như vậy. Google cho biết sẽ tiến hành điều tra nguyên nhân của vụ việc.
+T.ThủyTheo SoMag

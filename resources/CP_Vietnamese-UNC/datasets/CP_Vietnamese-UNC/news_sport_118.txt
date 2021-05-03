@@ -1,0 +1,5 @@
+# doc_id = news_sport_118
+# url = https://dantri.com.vn/the-thao/hinh-anh-day-quyen-ru-cua-cac-bong-hong-lang-quan-vot-20210420224503881.htm
+# date = 20210420
+Dung Nhi
+Theo TS

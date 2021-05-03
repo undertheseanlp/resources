@@ -1,0 +1,4 @@
+# doc_id = news_health_111
+# url = https://dantri.com.vn/suc-khoe/dong-tac-sieu-don-gian-giup-mong-san-chac-20210417164612203.htm
+# date = 20210417
+Thư Quỳnh - Nguyễn Quang

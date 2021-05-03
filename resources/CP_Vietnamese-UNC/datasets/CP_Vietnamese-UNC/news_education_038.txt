@@ -1,0 +1,25 @@
+# doc_id = news_education_038
+# url = https://dantri.com.vn/giao-duc-huong-nghiep/bi-quyet-on-thi-vao-lop-10-mon-toan-nhung-loi-thi-sinh-de-mat-diem-oan-20210414073131911.htm
+# date = 20210414
+Theo đó, thầy Hồng Trí Quang, giáo viên bộ môn Toán tại Hệ thống Giáo dục HOCMAI đã chia sẻ những nội dung quan trọng mà học sinh cần nắm vững để ôn tập môn Toán hiệu quả, phục vụ cho kỳ thi tuyển sinh vào 10 tới đây.
+Theo thầy Quang, để hoàn thành tốt bài thi môn Toán, học sinh cần chuẩn bị đầy đủ các vật dụng cần thiết khi bước vào phòng thi nhằm giữ tâm lý ổn định.
+Khi nhận đề thi, thí sinh nên đọc kỹ toàn bộ đề, xác định các dạng bài trước khi làm và xác định câu nào dễ làm trước, câu nào khó làm sau. Trong quá trình làm bài, để chắc chắn làm đúng các câu, thí sinh làm xong câu ( hoặc ý) nào thì nên kiểm tra lại bằng cách thử lại đáp án, soát lại đề và các bước giải, chắc chắn đúng mới chuyển sang câu (hoặc ý) kế tiếp.
+Những lỗi sai thí sinh hay mắc phải khi làm bài thi dẫn đến mất điểm "oan" là tính nhẩm sai, chép sai hoặc nhầm đề và vẽ hình sai.
+"Bài hình học tuyệt đối không được vẽ hình sai. Một bài hình thông thường chiếm tới 3 điểm. Nếu các bạn vẽ hình sai thì dù cách giải đúng, các bạn vẫn phải nhận 0 điểm cho bài hình đó. Và lưu ý rằng, khi vẽ hình, ngoại trừ hình tròn, tuyệt đối không sử dụng bút chì cho bất cứ hình nào.", thầy Quang nhắn nhủ các thí sinh.
+Những kiến thức trọng tâm cần lưu ý
+Qua phân tích cấu trúc đề thi của Hà Nội cũng như các tỉnh, thành phố khác trong những năm gần đây, thầy Quang đánh giá: Kiến thức trọng tâm trong các đề thi môn Toán vào 10 chủ yếu nằm trong chương trình lớp 9. Những kiến thức của các năm lớp 6, 7 và 8 là nền tảng để học sinh vận dụng các kiến thức lớp 9 vào trong bài thi.
+Theo đó, các kiến thức trọng tâm mà học sinh cần phải lưu ý là: căn thức và bài toán liên quan, phương trình và hệ phương trình, giải bài toán bằng cách lập phương trình hoặc hệ phương trình, tam thức bậc hai và đồ thị hàm số bậc 1, bậc 2, các bài toán hình học, bất đẳng thức hoặc phương trình vô tỉ.
+"Những năm gần đây, nhiều tỉnh, thành đã tổ chức thi môn Toán vào lớp 10 theo hình thức trắc nghiệm kết hợp tự luận. Thậm chí, tại một số địa phương, số điểm phần trắc nghiệm còn chiếm tới 75-100%.
+Trong khi đó, một số tỉnh, thành khác lại có xu hướng khai thác các bài toán thực tế liên quan đến hình học, tỉ số lượng giác, hệ thức lượng, góc trong đường tròn, hình không gian, hàm số, phương trình hoặc hệ phương trình, tính lãi suất, tính tuổi, tính tiền điện và tính thuế…
+Để làm được những bài toán này, thí sinh nên tham khảo các dạng bài toán thực tế hoặc những đề thi có chứa bài toán thực tế.", thầy Quang nhấn mạnh.
+Theo đó, dạng bài toán về căn thức thường chiếm 2 điểm; tam thức bậc hai và đồ thị hàm số, giải toán bằng cách lập phương trình, hệ phương trình thường chiếm từ 1,5 - 2 điểm.
+Phần hình học gồm có bài toán về đường tròn - tứ giác nội tiếp và hình không gian thường chiếm từ 3 - 3,5. Từ 0,5 - 1 điểm là cho các dạng toán liên quan đến thực tế hoặc các dạng toán nâng cao như bất đẳng thức, phương trình vô tỉ.
+Phương pháp ôn thi hiệu quả
+Thầy Quang cho biết, mỗi tỉnh, thành phố khác nhau sẽ có cách phân bổ kiến thức trong đề thi khác nhau. Do đó, thí sinh nên tham khảo cấu trúc đề thi vào lớp 10 tại địa phương trong 3 năm gần nhất. Cấu trúc đề thi giữa các năm tại cùng một địa phương thường giống nhau từ 80 - 90%.
+Căn cứ vào đó, thí sinh có thể xác định được kiến thức trọng tâm và mức độ khó của đề nằm ở phần nào, từ đó dành khoảng 90% thời gian ôn tập để ôn luyện các dạng bài cơ bản trước (chiếm đến 9 điểm), còn những câu phân loại (lấy điểm 10) thì ôn luyện sau.
+Bên cạnh đó, thí sinh nên lựa chọn cách học "cuốn chiếu". Nghĩa là vừa học kiến thức mới, vừa ôn tập lại các kiến thức cũ. Ví dụ khi học đến đồ thị hàm số bậc 2 thì thí sinh có thể ôn luôn tới phần tam thức bậc hai...
+Ngoài ra, việc luyện đủ số lượng đề thi cũng rất quan trọng. Thầy Quang chia sẻ: "Thí sinh nên tìm kiếm và lựa chọn những bộ đề sát với cấu trúc đề thi vào lớp 10 của địa phương mình. Số lượng đề tối thiểu cần luyện là 15 đề. Rất nhiều bạn nói là học tài thi phận nhưng tôi không nghĩ vậy.
+Có những bạn bình thường học rất tốt nhưng khi vận dụng kiến thức vào một đề hoàn chỉnh, gồm các chuyên đề khác nhau, có cách trình bày khác nhau thì các bạn lại trở nên lúng túng. Tôi nghĩ đó là do các bạn chưa chú trọng đến việc luyện đề."
+Thực tế, việc luyện đề có thể giúp thí sinh rèn luyện thói quen trình bày bài làm một cách khoa học. Ngoài ra, trong quá trình luyện tập, thí sinh còn có thể "lấp đầy" những "lỗ hổng" kiến thức, biết mình sai ở đâu và rút kinh nghiệm cho lần thi thật sẽ diễn ra trong tháng 6 tới đây.
+Xem đầy đủ chương trình Tư vấn ôn thi môn Toán vào 10 năm 2021 tại đây.
+Nhật Hồng

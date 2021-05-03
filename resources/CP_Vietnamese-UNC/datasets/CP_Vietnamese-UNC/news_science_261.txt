@@ -1,0 +1,26 @@
+# doc_id = news_science_261
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/viet-nam-tung-bien-che-phien-ban-mi-g-21-bis-manh-ngang-f-16-20210419112022017.htm
+# date = 20210419
+Tiêm kích MiG-21Bis bắt đầu gia nhập Không quân Nhân dân Việt Nam từ năm 1979. Đó có thể là phiên bản MiG-21bBs 75A dành cho khối xã hội chủ nghĩa. Hiện nay, toàn bộ MiG-21Bis đã bị loại biên do hết niên hạn sử dụng.
+Việt Nam từng biên chế số lượng lớn MiG-21Bis, đây là phiên bản cuối cùng của dòng tiêm kích hạng nhẹ nổi tiếng MiG-21 do Liên Xô sản xuất.
+Năng lực tác chiến của MiG-21Bis tương đương với chiến đấu cơ hạng nhẹ F-16A/B của Mỹ.
+Sự ra đời của MiG-21Bis được Liên Xô thai ngén vào cuối thập niên 1960. Nhằm tiếp tục nâng cao tính năng của máy bay tiêm kích MiG-21 và Su-15, mùa Đông năm 1971 chính phủ Liên Xô ra nghị quyết yêu cầu Phòng thiết kế chế tạo máy MKB Soyuz ở Ufa chế tạo mới động cơ turbojet R-25-300 có sức đẩy cất cánh 7.100 kg còn khi bay thấp với tốc độ âm thanh là 9.900 kg.
+Trên cơ sở động cơ mới, dự án nâng cấp tiêm kích MiG-21 chính thức bắt đầu, phiên bản này được định danh là MiG-21Bis.
+Việc sản xuất MiG-21Bis được triển khai ngay trong năm đó (1971) tại nhà máy ở thành phố Gorkiy.
+Ngoài động cơ tuốc bin phản lực có tăng tốc TRDF dành cho tiêm kích MiG-21Bis, người ta đã hoàn thiện hệ thống nhiên liệu, các điểm dự trữ đã được tìm ra (chủ yếu nhờ thùng dầu phụ) đã cho phép tăng dung tích hệ thống nhiên liệu thêm gần 239 lít, do đó bù trừ được phần mất tầm bay xa do tiêu hao nhiên liệu đã tăng lên.
+Phải ghi nhận công sức của các nhà sản xuất động cơ MKB Soyuz, họ đã hoàn thành nhiệm vụ. R25-300 đã tạo ra lực đẩy ở chế độ khẩn cấp 7.100 KG, còn khi tăng tốc cấp một- 6.850 KG.
+Vẫn giữ nguyên kích thước của mẫu động cơ trước đó, trọng lượng khô của động cơ tăng không đáng kể và đã không vượt quá 1.215kg.
+Thực tế tính năng lực đẩy của động cơ R25-300 đã vượt quá yêu cầu ban đầu đưa ra, vì thế giúp cho máy bay có sức cơ động tốt hơn.
+Rất tiếc là khung thân của máy bay MiG-21Bis đã được tận dụng hết khoảng trống, kể cả các khoang bên trong thân đã cạn kiệt, nếu không sức mạnh của MiG-21Bis còn mạnh hơn nhiều.
+Radar trang bị cho MiG-21Bis tuy có kích thước không lớn nhưng cũng đã mở rộng khả năng bắt bám mục tiêu của máy bay lên đáng kể.
+Máy bay được trang bị tadar RP-21; máy ngắm quang học ASP-PFD-21; tổ hợp dẫn đường - lái PNK Polyot-OI giúp cho MiG-21Bis trở thành đối thủ cực kỳ lợi hại trên không khi đó.
+MiG-21Bis vẫn giữ lại kênh thông tin liên lạc chống nhiễu Lazur, kênh này đảm bảo liên lạc với hệ thống chỉ huy tự động trên mặt đất Vozdukh-1.
+Phi công được trang bị ghế phóng dù KM-1 hoặc KM-1M, thiết bị thu áp suất không khí PVD-18.
+Với việc trang bị này giúp cho phi công có thể thoát thân an toàn trong trường hợp máy bay bị bắn cháy.
+Khả năng cơ động của máy bay gần bằng các tính năng tương ứng của máy bay tiêm kích thế hệ bốn F-15, F-16 và Mirage 2000. Diện tích tán xạ radar (RCS) của máy bay này gần bằng tính năng của máy bay tiêm kích F-16.
+So với các biến thể trước của MiG-21, máy bay tiêm kích MiG-21Bis được cải tiến cánh, thiết bị trên máy bay được hoàn thiện thêm, tăng đáng kể danh sách vũ khí.
+Tải trọng vũ khí của tiêm kích MiG-21Bis khoảng 1,3 tấn cho phép triển khai đến 4 tên lửa không đối không tầm nhiệt K-13M, RS-2US, R-3S, R-3R, R-60 và R-60M; hoặc có thể mang rocket cỡ 57 và 240mm hoặc các loại bom rơi tự do cỡ 500kg.
+4 giá treo có thể cho phép mang "pháo thuyền" (gun pod), máy ảnh hàng không các phương tiện trinh sát vô tuyến điện tử. Trong thân máy bay được bố trí một khẩu pháo hàng không GSh-23L cỡ 23mm với kho đạn 200 viên.
+Năm 1972 nhà máy hàng không ở thành phố Gorkiy đã chế tạo 35 chiếc tiêm kích đánh chặn MiG-21bis đầu tiên, và ngay trong năm đó máy bay được đưa vào trang bị.
+Từ năm 1972 đến năm 1985 Liên Xô đã chế tạo 2.013 chiếc MiG-21Bis với ba cấu hình chủ yếu: sản phẩm "75" cho Không quân của bộ đội Phòng không của Liên Xô (PVO); "75A" cho các nước xã hội chủ nghĩa và "75B" cho các nước tư bản chủ nghĩa và đang phát triển.
+Theo ANTĐ

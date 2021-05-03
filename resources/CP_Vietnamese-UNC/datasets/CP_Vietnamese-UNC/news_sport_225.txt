@@ -1,0 +1,5 @@
+# doc_id = news_sport_225
+# url = https://dantri.com.vn/the-thao/soc-voi-nhung-my-nhan-so-huu-co-bap-cuon-cuon-san-chac-20210427213548635.htm
+# date = 20210427
+Dung Nhi
+Theo TS

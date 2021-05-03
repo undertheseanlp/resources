@@ -1,0 +1,10 @@
+# doc_id = news_world_227
+# url = https://dantri.com.vn/the-gioi/thai-lan-trai-qua-ngay-chet-choc-nhat-vi-covid-19-20210426080310793.htm
+# date = 20210426
+Theo số liệu của Bộ Y tế Thái Lan, trong ngày 25/4, nước này ghi nhận gần 2.500 ca mắc mới và 11 ca tử vong do Covid-19. Đây là ngày thứ hai liên tiếp Thái Lan ghi nhận số ca tử vong do Covid-19 kỷ lục. Đến nay, nước này ghi nhận hơn 55.000 ca mắc, trong đó 140 trường hợp đã tử vong.
+Mặc dù năm ngoái Thái Lan đã khá thành công trong việc hạn chế đà lây lan của Covid-19, nhưng sự xuất hiện của biến chủng virus mới có tên gọi B.1.1.7 khiến Thái Lan ghi nhận khoảng 27.000 ca mắc, 46 ca tử vong chỉ trong vòng 25 ngày qua.
+B.1.1.7 là biến chủng mới của virus SARS-CoV-2 được phát hiện lần đầu tiên tại Anh vào cuối năm ngoái. Biến chủng này được cho là dễ lây lan hơn nhiều so với biến chủng cũ. B.1.1.7 hiện đã xuất hiện ở nhiều quốc gia trên thế giới, khiến nhiều quốc gia "vỡ trận", trong đó có Ấn Độ.
+Làn sóng Covid-19 mới bùng phát ở Thái Lan khi nước này đang dần mở cửa kinh tế trở lại, khôi phục ngành du lịch vốn bị ảnh hưởng nặng nề bởi các làn sóng trước.
+Để đối phó với làn sóng lây lan mới, Thái Lan sẽ làm chậm tốc độ cấp thị thực cho công dân nước ngoài đến từ Ấn Độ. Ngoài ra, thời gian cách ly với du khách sẽ kéo dài từ 10 ngày lên 14 ngày cho đến khi tình hình cải thiện, Reuters dẫn lời một quan chức Bộ Y tế Thái Lan cho hay.
+Các biện pháp khác được Thái Lan áp dụng trong tuần qua gồm đóng cửa các cơ sở thể thao, giải trí từ ngày 26/4 đến 9/5. Bangkok cũng đưa ra án phạt tới 20.000 Baht với người vi phạm quy định đeo khẩu trang bắt buộc ở nơi công cộng. Các trung tâm thương mại vẫn được mở cửa nhưng bị giới hạn giờ mở cửa ở Bangkok và 17 tỉnh thành khác.
+Minh PhươngTheo Reuters

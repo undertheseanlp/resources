@@ -1,0 +1,42 @@
+# doc_id = news_tech_082
+# url = https://dantri.com.vn/suc-manh-so/con-khat-chip-dien-tu-trong-mot-the-gioi-doi-cong-nghe-20210408000943469.htm
+# date = 20210408
+Ảnh minh họa (Nguồn: AP)
+Khi nền kinh tế Hoa Kỳ vừa bắt đầu hồi phục sau đại dịch COVID-19, một nguồn cung quan trọng đang bị thiếu hụt: các chip máy tính cung cấp năng lượng cho nhiều loại sản phẩm điện tử quan trọng cho con người trong một thế giới ngày càng phụ thuộc vào công nghệ.
+Sự thiếu hụt chip điện tử đã lan rộng trên thị trường kể từ mùa hè năm ngoái. Vấn đề này không chỉ gây ra sự khó khăn trong việc cung cấp laptop trong bối cảnh số lượng lớn học sinh buộc phải học ở nhà mà còn trì hoãn việc phát hành các sản phẩm như iPhone 12, hay tạo ra những cuộc tranh giành nhằm sở hữu máy trò chơi điện tử mới nhất như PlayStation 5.
+Nhưng mọi thứ thậm chí còn trở nên tồi tệ hơn trong những tuần gần đây, đặc biệt là trong ngành công nghiệp ôtô - nơi các nhà máy đóng cửa vì không có đủ chip để hoàn thiện việc chế tạo phương tiện.
+Vấn đề càng thêm phức tạp bởi sự cố kênh đào Suez, khiến cho việc vận chuyển chip từ châu Á sang châu Âu bị trì hoãn trong vòng 1 tuần.
+Những vấn đề này có thể khiến người tiêu dùng thất vọng. Họ không thể tìm thấy chiếc xe họ muốn và đôi khi phải lựa chọn một mẫu xe với phiên bản thấp hơn. Thiếu hụt chip điện tử có nguy cơ để lại một vết lõm lớn trong doanh thu của ngành công nghiệp ôtô, ước tính lên tới 60 tỷ USD trong nửa đầu năm nay.
+Nhà phân tích công nghệ ông Ted Mortonson của công ty dịch vụ tài chính Mỹ Baird cho biết ông chưa bao giờ thấy sự thiếu hụt nghiêm trọng như vậy trong gần 30 năm làm trong ngành công nghiệp chip điện tử.
+Liệu có lỗi thuộc về đại dịch COVID-19?
+Có thể nói là vậy. Đại dịch đã khiến các nhà máy sản xuất chip đóng cửa vào đầu năm ngoái, đặc biệt là ở các cơ sở sản xuất nước ngoài, nơi phần lớn các bộ vi xử lý được tạo ra. Vào thời điểm bắt đầu mở cửa trở lại, các nhà sản xuất cần lấp đầy một số lượng lớn đơn hàng còn tồn đọng.
+Tuy vậy, điều đó sẽ không gây ra thách thức nếu các nhà sản xuất chip không bị sốc bởi các nhu cầu không lường trước được.
+Ví dụ, không nhà sản xuất nào ngờ rằng vào năm 2020, doanh số bán máy tính cá nhân lại tăng vọt sau gần một thập kỷ suy giảm đều đặn. Nhưng điều đó đã xảy ra khi các quốc gia buộc phải thực hiện lệnh đóng cửa khiến hàng triệu nhân viên văn phòng phải làm việc tại nhà và sinh viên, học sinh phải học từ xa.
+Còn yếu tố nào gây nên vấn đề này?
+Thời gian này, cả Sony và Microsoft đã phát hành PlayStation và Xbox cùng một lúc. Đây đều là bảng điều khiển trò chơi điện tử thế hệ mới rất được mong đợi, và hai thương hiệu này đòi hỏi những con chip phức tạp hơn bao giờ hết.
+Không chỉ có vậy, các nhà cung cấp mạng không dây cũng đang đòi hỏi các loại chip điện tử nhằm cung cấp cho các dịch vụ 5G trên khắp thế giới.
+Ngoài ra, cuộc chiến thương mại Mỹ - Trung cũng làm phức tạp thêm tình hình. Một số nhà phân tích tin rằng việc chính quyền cựu Tổng thống Donald Trump đưa Huawei Technologies vào danh sách đen đã thúc đẩy hãng điện thoại này xây dựng một kho dự trữ chip khổng lồ nhằm đối phó với lệnh trừng phạt của phía Mỹ.
+Tại sao ngành công nghiệp ôtô lại hứng chịu nhiều tổn thất nhất?
+Lệnh đóng cửa đã thúc đẩy doanh số bán hàng điện tử tiêu dùng tăng vọt, ép các nhà cung cấp phụ tùng ôtô sử dụng chip máy tính cho bàn đạp ga, hộp số và màn hình cảm ứng.
+Các nhà sản xuất chip đã thay đổi tình hình bằng cách sắp xếp lại các dây chuyền nhà máy để phục vụ thị trường điện tử tiêu dùng, điều vốn tạo ra doanh thu cho họ nhiều hơn so với thị trường ôtô.
+Sau tám tuần ngừng hoạt động do đại dịch COVID-19 gây ra vào mùa xuân, các nhà sản xuất ôtô bắt đầu mở cửa trở lại các nhà máy sớm hơn dự kiến. Nhưng sau đó, họ nhận được một tin bất ngờ: các nhà sản xuất chip không thể tạo ra các loại bộ vi xử lý cần thiết cho ôtô.
+Ảnh minh họa (Nguồn: Reuters)
+Nhà sản xuất ôtô đối mặt thế nào với sự thiếu hụt này?
+Họ buộc phải hủy ca làm việc và tạm thời đóng cửa các nhà máy. Các tập đoàn xe hơi lớn như Ford, General Motors, Fiat Chrysler (nay là Stellantis), Volkswagen và Honda dường như bị ảnh hưởng nặng nề nhất. Những hãng xe hơi khác, đặc biệt là Toyota, không bị ảnh hưởng đáng kể.
+Nhà phân tích của Bank of America Securities ông Vivek Arya lý giải rằng có lẽ là do Toyota đã chuẩn bị phương án dự phòng từ bài học của trận động đất và sóng thần năm 2011, sự kiện làm gián đoạn chuỗi cung ứng của Nhật Bản.
+Các nhà sản xuất ôtô bị ảnh hưởng nặng nề đã chuyển chip từ những mẫu xe bán chậm sang những mẫu xe có nhu cầu cao, chẳng hạn như xe bán tải và xe SUV cỡ lớn. Ford, General Motors và Stellantis đã bắt đầu chế tạo xe mà không cần đến một số hệ thống công nghệ điện tử.
+General Motors dự kiến sự thiếu hụt chip sẽ khiến công ty này thiệt hại lên đến 2 tỷ USD lợi nhuận trước thuế. Ford có thể sẽ gặp phải thiệt hại tương tự. Các nhà sản xuất chip có thể sẽ không bắt kịp nhu cầu của ngành công nghiệp ôtô cho đến tháng 7.
+Những người muốn mua xe mới sẽ bị ảnh hưởng như thế nào?
+Họ có thể sẽ phải trả giá cao hơn. Nguồn cung của nhiều mô hình xe đã khan hiếm ngay cả trước khi chip điện tử bị thiếu hụt do các nhà sản xuất ôtô gặp khó khăn trong việc bù đắp số lượng sản xuất bị mất vì đại dịch COVID-19.
+IHS Markit ước tính rằng từ tháng 1 đến tháng 3, tình trạng thiếu chip đã làm giảm sản lượng ô tô ở Bắc Mỹ khoảng 100.000 xe. Vào tháng 1 năm ngoái, trước khi xảy ra đại dịch COVID-19, ngành công nghiệp ôtô Hoa Kỳ có đủ xe để cung cấp cho nhu cầu của người tiêu dùng trong 77 ngày nếu dừng sản xuất. Đến tháng 2 năm 2021, số liệu đã giảm gần 30%, xuống còn 55 ngày.
+Các sản phẩm khác có bị ảnh hưởng không?
+Samsung Electronics, một trong những nhà sản xuất chip lớn nhất thế giới, gần đây đã cảnh báo rằng dòng sản phẩm điện tử tiêu dùng khổng lồ của họ có thể bị ảnh hưởng bởi vấn đề này.
+Giám đốc điều hành Samsung ông Koh Dong-jin không nói rõ sản phẩm nào có thể bị ảnh hưởng, nhưng ông cho biết "sự mất cân bằng nghiêm trọng" giữa cung và cầu về chip có thể ảnh hưởng đến doanh số bán hàng từ tháng 4 đến tháng 6 năm nay.
+Cần làm gì để ngăn chặn vấn đề này?
+Không có cách ngăn chặn nhanh chóng nào, nhưng các nhà sản xuất chip dường như đang chuẩn bị sẵn sàng để đáp ứng những thách thức trong tương lai.
+Intel, công ty trong nhiều thập kỷ đã thống trị thị trường chip PC, gần đây đã làm dậy sóng cộng đồng công nghệ khi công bố kế hoạch đầu tư 20 tỷ USD vào hai nhà máy mới ở Arizona.
+Thậm chí quan trọng hơn, Intel tiết lộ rằng một bộ phận mới sẽ ký kết các hợp đồng để sản xuất chip được thiết kế riêng cho các công ty khác ngoài bộ vi xử lý trước đó. Đó là một sự khởi đầu lớn đối với Intel.
+Mô hình này gần giống với mô hình của công ty TSMC (Công ty TNHH Sản xuất chế tạo chất bán dẫn Đài Loan) - công ty này cũng đã xây dựng một nhà máy ở Arizona. Bên cạnh đó, TSMC cũng đã cam kết chi 100 tỷ USD trong ba năm tới để mở rộng năng lực sản xuất chip trên toàn thế giới.
+Không chỉ vậy, nỗ lực giải quyết vấn đề cũng thể hiện trong kế hoạch trị giá 2 nghìn tỷ đô la của Tổng thống Joe Biden nhằm cải thiện cơ sở hạ tầng công nghệ của Hoa Kỳ, bao gồm khoản ước tính 50 tỷ đô la để giảm sự phụ thuộc vào chip sản xuất ở nước ngoài của Mỹ.
+Thị phần của Hoa Kỳ trên thị trường sản xuất chip trên toàn thế giới đã giảm từ 37% vào năm 1990 xuống còn 12%, theo Hiệp hội Công nghiệp Bán dẫn Hoa Kỳ.
+Theo Vietnam+

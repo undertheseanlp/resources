@@ -1,0 +1,6 @@
+# doc_id = news_travel_127
+# url = https://dantri.com.vn/du-lich/khach-chen-chan-dat-ban-de-duoc-robot-chien-khoai-nau-mi-phuc-vu-tan-ban-20210410153356990.htm
+# date = 20210410
+Trải nghiệm robot chiên khoai, nấu mì, phục vụ tận bàn cho thực khách
+Toàn Vũ
+Theo SCMP

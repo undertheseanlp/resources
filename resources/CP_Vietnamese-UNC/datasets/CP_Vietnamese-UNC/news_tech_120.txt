@@ -1,0 +1,11 @@
+# doc_id = news_tech_120
+# url = https://dantri.com.vn/suc-manh-so/huawei-band-6-ra-mat-tai-viet-nam-gia-15-trieu-dong-20210415152319168.htm
+# date = 20210415
+Ngày 15/4, Huawei đã ra mắt vòng đeo tay thông minh mới nhất với tên gọi Huawei Band 6. Thiết bị được tích hợp hệ thống phát hiện chỉ số SpO2 nhờ các mô-đun phần cứng được tối ưu dựa trên Huawei TruSeenTM 4.0 và thuật toán tiết kiệm điện thông minh mới; có khả năng theo dõi SpO2 liên tục 24/7.
+Huawei Band 6 là vòng đeo tay thông minh đầu tiên của Huawei sở hữu màn hình AMOLED tràn viền Fullview với kích thước 1,47 inch, lớn hơn 148% so với thế hệ tiền nhiệm Huawei Band 4. Màn hình này có độ phân giải 194 x 368, mật độ điểm ảnh 282 PPI.
+Huawei Band 6 được bán ra tại Việt Nam với 3 phiên bản màu sắc gồm đen bóng đêm, hồng anh đào và xanh rừng sâu.
+Phần dây đeo được làm từ chất liệu silicone đã qua xử lý tia UV, có trọng lượng siêu nhẹ và thoải mái chống bụi bẩn. Thiết bị cung cấp hơn 100 tùy chọn thiết kế mặt đồng hồ khác nhau. Ngoài ra, người dùng có thể cá nhân hóa mặt đồng hồ bằng bất kỳ bức ảnh nào từ album được đồng bộ hóa từ thiết bị di động.
+Huawei cho biết Band 6 cung cấp thời lượng sử dụng pin trong 14 ngày khi sử dụng bình thường và 10 ngày khi sử dụng thường xuyên. Thiết bị cũng hỗ trợ sạc nhanh, một lần sạc 5 phút có thể sử dụng trong 2 ngày.
+Huawei Band 6 cũng hỗ trợ 11 chế độ tập luyện chuyên nghiệp khác nhau bao gồm chạy bộ, đạp xe, bơi lội và 85 chế độ tùy chỉnh như thể lực, nhảy,…. Thiết bị cũng được trang bị đầy đủ các tính năng như giám sát nhịp tim, theo dõi giấc ngủ, hỗ trợ thông báo tin nhắn, cuộc gọi.
+Huawei Band 6 được bán ra tại Việt Nam với mức giá 1,5 triệu đồng. Thiết bị sẽ cạnh tranh với một số đối thủ như Xiaomi Mi Band 6, Samsung Galaxy Fit2.
+Thế Anh

@@ -1,0 +1,17 @@
+# doc_id = news_health_022
+# url = https://dantri.com.vn/suc-khoe/100-nguoi-tiem-vac-xin-covid-19-viet-nam-sinh-mien-dich-tot-20210426090321708.htm
+# date = 20210426
+Cụ thể, sau khi tiến hành tiêm thử nghiệm trên 554 tình nguyện viên ở cả 2 địa điểm nghiên cứu là Học viện Quân y (Hà Nội) và huyện Bến Lức (Long An), vắc xin Covid-19 "made in Vietnam" đã đảm bảo tính an toàn đối với cả 3 mức liều. Các tình nguyện viên, kể cả người cao tuổi, đều chỉ phản ứng nhẹ sau tiêm như: sốt nhẹ, đau nhức vùng tiêm, mỏi cơ.
+Tiêm thử nghiệm vắc xin Nanocovax cho tình nguyện viên.
+Đáng chú ý, kết quả xét nghiệm kháng thể trong máu tình nguyện viên cho thấy 100% người tiêm đã sinh miễn dịch ở các mức độ khác nhau.
+Chỉ số kháng thể trung hòa virus SARS-CoV-2 ghi nhận ở mốc thời gian 2 tuần sau khi tiêm mũi thứ hai cao nhất ở nhóm liều 25mcg, với kết quả trên 90%. 2 nhóm liều 50mcg và 75mcg có kết quả thấp hơn nhưng không đáng kể.
+Bên cạnh đó, vắc xin Nanocovax cũng có hiệu quả với biến thể virus SARS-CoV-2 ở Anh.
+Theo kế hoạch, nhóm nghiên cứu sẽ báo cáo kết quả thử nghiệm giai đoạn 2 lên Hội Đồng đạo đức trong lĩnh vực y sinh học của Bộ Y tế để cho kết luận cuối cùng, cũng như thống nhất liều tối ưu để sử dụng cho thử nghiệm lâm sàng giai đoạn 3.
+Dự kiến, nếu được Bộ Y tế thông qua, giai đoạn 3 sẽ được bắt đầu từ ngày 5/5. Thử nghiệm được tiến hành trên 10.000 - 15.000 người. Nếu diễn biến thuận lợi, khả năng rất cao vào tháng 9, Việt Nam sẽ có sản phẩm thương mại vắc xin Covid-19 đầu tiên.
+Nhóm nghiên cứu cũng khẳng định, mặc dù rút ngắn tối đa thời gian nghiên cứu vắc xin Covid-19 nhưng vẫn đảm bảo tính khoa học và tính an toàn. Cần nhấn mạnh rằng, trong nghiên cứu thử nghiệm vắc xin, theo quy định của thế giới, điều quan trọng nhất là phải đánh giá hiệu quả của vắc xin trong việc bảo vệ người dân không bị lây nhiễm trong môi trường có thể đã tồn tại lây nhiễm trong cộng đồng.
+Vắc xin Nanocovax do Công ty Nanogen phát triển.
+Vắc xin Nanocovax do Công ty Nanogen phát triển làvắc xin Covid-19"made in Vietnam" đầu tiên bước vào giai đoạn thử nghiệm lâm sàng.
+Công ty Nanogen đã sử dụng công nghệ protein tái tổ hợp để sản xuất vắc xin Nanocovax.
+Theo TS Đỗ Minh Sĩ, Giám đốc nghiên cứu phát triển, Công ty Nanogen, Nanogen tạo ra các gai protein y hệt như của virus SARS-CoV-2. Để sản xuất ra gai protein cần qua 2 giai đoạn, đầu tiên là nuôi cấy sau đó là tinh chế để tạo ra kháng nguyên tinh sạch.
+Nhược điểm lớn nhất của công nghệ protein tái tổ hợp là đòi hỏi nhiều thời gian để phát triển. Đổi lại, ưu điểm lớn nhất của vắc xin protein tái tổ hợp là tạo được đáp ứng miễn dịch tốt, độ an toàn cao, ít tác dụng phụ và có điều kiện bảo quản thuận lợi hơn so với các loại vắc xin khác (bảo quản 2-8 độ C).
+Minh Nhật

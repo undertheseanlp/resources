@@ -1,0 +1,39 @@
+# doc_id = news_education_170
+# url = https://dantri.com.vn/giao-duc-huong-nghiep/nganh-su-pham-tiep-tuc-khong-tuyen-thi-sinh-bi-di-hinh-noi-ngong-noi-lap-20210416082156456.htm
+# date = 20210416
+Năm 2021, trường ĐH Sư phạm Hà Nội tuyển sinh trong cả nước với thí sinh đã tốt nghiệp THPT và có hạnh kiểm tất cả các học kỳ ở bậc THPT đạt loại khá trở lên.
+Thí sinh lo lắng khi dự thi tốt nghiệp (Ảnh minh họa)
+Tuyển sinh theo 4 phương thức
+Phương thức tuyển sinh của Trường Đại học Sư phạm Hà Nội là:  Thi tuyển, xét tuyển, kết hợp thi tuyển và xét tuyển.
+Nhà trường xét tuyển thẳng các thí sinh thuộc đối tượng được theo quy định tại khoản 2, điều 7 của Quy chế tuyển sinh trình độ đại học; tuyển sinh trình độ cao đẳng ngành Giáo dục Mầm non của Bộ Giáo dục và Đào tạo (gọi tắt là đối tượng XTT1). (Thí sinh phải nộp hồ sơ qua Sở Giáo dục và Đào tạo theo qui định của Bộ Giáo dục và Đào tạo).
+Ưu tiên cộng điểm hoặc xét tuyển thẳng nếu thí sinh có viết bài luận đạt kết quả tốt.
+Phương thức xét tuyển 1 (PT1): Sử dụng kết quả thi tốt nghiệp THPT năm 2021 để xét tuyển. Xét tuyển theo từng ngành. Xét tuyển từ cao xuống thấp cho đến khi đủ chỉ tiêu dựa theo tổng điểm thi 3 môn (bao gồm cả môn thi chính nhân hệ số 2 (nếu có) của tổ hợp đăng ký xét tuyển và điểm ưu tiên (nếu có)).
+Nếu xét tuyển theo phương thức 2 hoặc phương thức 3 còn thừa chỉ tiêu thì sẽ chuyển chỉ tiêu sang phương thức 1 hoặc phương thức 4 tùy theo ngành đào tạo.
+Ngưỡng đảm bảo chất lượng đầu vào: Đối với các ngành thuộc nhóm ngành Khoa học giáo dục và đào tạo giáo viên: Theo qui định của Bộ Giáo dục và Đào tạo. Đối với các ngành ngoài sư phạm: Tổng điểm xét tuyển theo tổ hợp đạt từ 15.0 điểm trở lên (đã cộng điểm ưu tiên đối tượng và ưu tiên khu vực nếu có).
+Phương thức xét tuyển 2 (PT2): (gọi tắt là đối tượng XTT2)
+Điều kiện đăng ký xét tuyển: Thí sinh đã tốt nghiệp THPT năm 2021 có hạnh kiểm tất cả các học kỳ đạt loại Tốt, có học lực giỏi cả 3 năm ở bậc THPT và phải thỏa mãn một trong các điều kiện qui định dưới đây:
+- Thí sinh là học sinh đội tuyển cấp tỉnh/thành phố hoặc đội tuyển của trường THPT chuyên trực thuộc các trường đại học được tham dự kỳ thi học sinh giỏi quốc gia.
+- Thí sinh là học sinh đạt giải nhất, nhì, ba trong các kỳ thi học sinh giỏi cấp tỉnh/thành phố ở bậc THPT.
+- Thí sinh là học sinh trường THPT chuyên hoặc các trường THPT trực thuộc trường ĐHSP Hà Nội, trường ĐHSP TP Hồ Chí Minh.
+- Thí sinh có các chứng chỉ Tiếng Anh Quốc tế IELTS hoặc TOEFL iBT hoặc TOEIC. chứng chỉ Tiếng Pháp DELF hoặc TCF, chứng chỉ Tin học Quốc tế MOS. Qui định cụ thể theo từng ngành xem tại mục 1.6. (Thời hạn 2 năm tính đến ngày công bố kết quả xét tuyển thẳng của trường).
+Phương thức xét tuyển 3 (PT3): Xét học bạ THPT (gọi tắt là đối tượng XTT3).
++ Đối với các ngành thuộc nhóm ngành khoa học giáo dục và đào tạo giáo viên: Thí sinh là học sinh tốt nghiệp THPT năm 2021 có hạnh kiểm tất cả các học kỳ ở bậc THPT đạt loại tốt và 3 năm học lực giỏi. Riêng đối với ngành sư phạm (SP) tiếng Pháp, nếu thí sinh là học sinh hệ song ngữ tiếng Pháp điều kiện về học lực là lớp 12 đạt loại giỏi; đối với ngành SP Công nghệ điều kiện về học lực lớp 12 đạt loại giỏi;
++ Đối với các ngành ngoài sư phạm: Thí sinh là học sinh tốt nghiệp THPT năm 2021 có hạnh kiểm tất cả các học kỳ và học lực 3 năm ở bậc THPT đạt từ khá trở lên.
+- Nguyên tắc xét tuyển: Xét TĐTBCCN lớp 10, 11, 12 của môn học hoặc tổ hợp các môn học theo qui định của mỗi ngành tại mục 1.6 (đã cộng điểm ưu tiên đối tượng và ưu tiên khu vực nếu có). Trước hết xét các thí sinh thuộc đối tượng XTT2 theo nguyên tắc xét tuyển của PT2, sau đó xét đến các thí sinh đối tượng XTT3.
+Phương thức xét tuyển 4 (PT4): Kết hợp sử dụng kết quả thi tốt nghiệp THPT năm 2021 với kết quả thi năng khiếu tại trường Đại học Sư phạm Hà Nội đối với thí sinh đăng ký xét tuyển vào các ngành SP Âm nhạc, SP Mỹ thuật, Giáo dục thể chất, Giáo dục Mầm non và Giáo dục Mầm non - SP Tiếng Anh.
+- Điều kiện đăng kí xét tuyển: Thí sinh đã tốt nghiệp THPT và có hạnh kiểm tất cả các học kỳ ở bậc THPT đạt loại khá trở lên.
+Ngưỡng đảm bảo chất lượng đầu vào, điều kiện nhận hồ sơ ĐKXT: Đối với các ngành Khoa học giáo dục và Đào tạo giáo viên (nhóm ngành I): Theo qui định của Bộ Giáo dục và Đào tạo. Đối với các ngành ngoài sư phạm (nhóm ngành IV,V,VII): 15.00 điểm.
+Thi năng khiếu, lấy kết quả thi của các trường khác để xét tuyển
+Với các ngành có tổ chức thi năng khiếu, ngoài điều kiện về hạnh kiểm ở trên, thí sinh cần điều kiện: có học lực lớp 12 xếp loại từ khá trở lên hoặc điểm xét tốt nghiệp THPT từ 6,5 trở lên;
+Đối với ngành giáo dục thể chất, các thí sinh là vận động viên cấp 1, kiện tướng, vận động viên đã từng đoạt huy chương tại Hội khỏe Phù Đổng, các giải trẻ quốc gia và quốc tế hoặc giải vô địch quốc gia, quốc tế hoặc có điểm thi năng khiếu do trường tổ chức đạt loại xuất sắc (từ 9,0 trở lên theo thang điểm 10,0) thì chỉ cần yêu cầu thí sinh tốt nghiệp THPT. Đối với các ngành Sư phạm Âm nhạc, Sư phạm Mỹ thuật các thí sinh có điểm thi năng khiếu do trường tổ chức đạt loại xuất sắc (từ 9,0 trở lên theo thang điểm 10,0) thì chỉ cần yêu cầu thí sinh tốt nghiệp THPT.
++ Thí sinh dự thi vào ngành Giáo dục Thể chất phải đạt tiêu chuẩn chiều cao và cân nặng như sau: đối với nam cao 1,60m và nặng 45kg trở lên; đối với nữ cao 1,55m và nặng 40kg trở lên.
+Điều kiện xét tuyển: Tổng điểm thi (đã nhân hệ số và cộng điểm ưu tiên đối tượng và ưu tiên khu vực, nếu có) đạt từ 16,5 điểm trở lên.
+Sau khi xét tuyển các thí sinh dự thi tại trường Đại học Sư phạm Hà Nội năm 2021, nếu còn chỉ tiêu, trường sẽ tiếp tục xét tuyển đối với những thí sinh dự thi tại các trường khác như sau:
++ Ngành SP Âm nhạc: Thí sinh dự thi các môn năng khiếu năm 2021 ngành Âm nhạc và đạt tổng điểm phần thi năng khiếu từ 16,5 điểm trở lên (đã nhân hệ số theo qui định của tổ hợp xét tuyển) tại 04 trường sau được tham gia xét tuyển: Học viện Âm nhạc quốc gia Việt Nam; Nhạc viện thành phố Hồ Chí Minh; Trường Đại học Văn hóa Nghệ thuật Quân đội; Trường Đại học Sư phạm Nghệ thuật Trung Ương.
++ Ngành SP Mỹ thuật: Thí sinh dự thi các môn năng khiếu năm 2021 ngành Mỹ thuật và đạt tổng điểm phần thi năng khiếu từ 16,5 điểm trở lên (đã nhân hệ số theo qui định của tổ hợp xét tuyển) tại 04 trường sau được tham gia xét tuyển: Trường Đại học Mỹ thuật Việt Nam; Trường Đại học Mỹ thuật thành phố Hồ Chí Minh; Trường Đại học Mỹ thuật công nghiệp Hà Nội; Trường Đại học Sư phạm Nghệ thuật Trung Ương.
++ Ngành Giáo dục Thể chất: Thí sinh dự thi các môn năng khiếu năm 2021 ngành Giáo dục thể chất và đạt tổng điểm phần thi năng khiếu từ 16,5 điểm trở lên (đã nhân hệ số theo qui định của tổ hợp xét tuyển) tại 05 trường sau được tham gia xét tuyển: Đại học Thể dục Thể thao Bắc Ninh; Đại học Sư phạm Thể dục Thể thao Hà Nội; Đại học Thể dục Thể thao Đà Nẵng; Đại học Sư phạm Thể dục Thể thao Thành phố Hồ Chí Minh; Đại học Thể dục Thể thao Thành phố Hồ Chí Minh.
+Các thí sinh có nguyện vọng xét tuyển vào các ngành Giáo dục Mầm non, Giáo dục Mầm non - SP Tiếng Anh của trường Đại học Sư phạm Hà Nội năm 2021, ngoài việc dự thi các môn văn hóa trong kì thi tốt nghiệp THPT năm 2021 sẽ phải đăng ký thi và dự thi thêm các môn năng khiếu tổ chức tại trường Đại học Sư phạm Hà Nội để lấy điểm xét tuyển.
+Đặc biệt, nhà trường tiếp tục lưu ý: Các ngành sư phạm không tuyển những thí sinh bị dị hình, dị tật, nói ngọng, nói lắp như đã công bố trong tuyển sinh các năm trước đây.
+Các thí sinh trúng tuyển các ngành SP Tin học, SP Sinh học sau khi nhập học có thể đăng ký để nhà trường xét tuyển vào học các ngành SP Tin học (dạy Tin bằng tiếng Anh), SP Sinh học (dạy Sinh bằng tiếng Anh).
+Thí sinh dự thi vào ngành Giáo dục Quốc phòng và An ninh phải có sức khỏe tốt, thí sinh mắc tật khúc xạ cận hoặc viễn thị không quá 3dp; không có dị tật bẩm sinh, hình xăm phản cảm. Nam cao từ 1,60m trở lên; nữ cao từ 1,55m trở lên.
+Nhật Hồng

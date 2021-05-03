@@ -1,0 +1,27 @@
+# doc_id = news_tech_183
+# url = https://dantri.com.vn/suc-manh-so/nokia-ra-mat-6-smartphone-moi-dinh-hinh-3-phan-khuc-gia-tu-2-8-trieu-20210409052646584.htm
+# date = 20210409
+Tối 8/4, Nokia chính thức ra mắt tổng cộng 6 smartphone thuộc 3 dòng C, G và X series tại một sự kiện được tổ chức trực tuyến.
+Trong đó, series X cao cấp nhất phô diễn sức mạnh phần cứng và mang đến những trải nghiệm tốt nhất cho người dùng, series G có hiệu năng đủ đáp ứng nhu cầu cơ bản đi kèm thời lượng pin cao nhất, còn series C là smartphone cơ bản, với giá rẻ, hướng đến đối tượng người mới làm quen.
+Nokia X10 | X20 5G
+Cả hai chiếc smartphone ở phân khúc cao cấp của Nokia đều sở hữu cấu hình bên trong và thiết kế gần như tương đồng. Khác biệt đáng kể nhất giữa hai mẫu máy chủ yếu đến từ camera.
+Cụ thể, X20 có camera chính 64MP đi kèm bộ chỉnh sửa màu chuyên nghiệp. Ba camera còn lại lần lượt là camera góc siêu rộng 5MP, camera macro 2MP và camera đo độ sâu 2MP. Camera trước với sở hữu ống kính tiêu cự cố định 32MP.
+Trong khi đó, Nokia X10 có camera chính phía sau độ phân giải chỉ 48MP còn các camera phụ giống như X20. Ở phía trước, camera selfie của X10 cũng giảm xuống còn 8MP, thay vì là ống kính tiêu cự cố định 32MP như trên X20.
+Về thiết kế, cả hai máy đều sở hữu màn hình đục lỗ 6.67 inch, độ phân giải Full HD+. 4 camera sau của X10 và X20 được đặt trong một module tròn.
+Về cấu hình, Nokia X10 và X20 cùng được trang bị chip Snapdragon 480 5G (tiến trình 8nm) với hai lõi Kryo 460 Gold lõi (A76) và sáu lõi nhỏ đi kèm cùng với GPU đồ họa Adreno 619.
+Cả hai mẫu smartphone cao cấp của Nokia đều sử dụng pin 4470 mAh, có hỗ trợ sạc nhanh 18W.
+Giá khởi điểm của X10, X20 lần lượt là 309 euro (8,5 triệu VNĐ) và 349 euro (9,6 triệu VNĐ). Dự kiến, Nokia X20 sẽ có mặt trên thị trường vào tháng 5 trong khi X10 sẽ lên kệ muộn hơn vào tháng 6.
+Nokia G10 | G20
+Bộ đôi smartphone tầm trung của Nokia nổi bật với thời lượng pin lớn 5050 mAh, hỗ trợ sạc nhanh 10W.
+Về mặt thiết kế, bộ đôi này có ngoại hình giống hệt nhau, với màn hình tai thỏ 6.5 inch, độ phân giải HD+.
+Sự khác biệt của 2 mẫu máy nằm ở camera, khi G10 chỉ có 3 camera với ống kính chính 13MP, ống kính macro 2MP và ống kính chiều sâu 2MP, thì G20 trang bị cụm 4 camera với ống kính chính 48MP, ống kính góc siêu rộng 5MP, ống kính macro 2MP và ống kính chiều sâu 2MP.
+Một khác biệt nữa nằm ở phần cứng của 2 mẫu máy, khi Nokia G10 chạy chip Helio G25, Nokia G20 chạy chip Helio G35.
+Giá quy đổi của Nokia G10 và G20 lần lượt là 4 triệu VNĐ, và 4.5 triệu VNĐ.
+Nokia C10 | C20
+Bộ đôi này được thiết kế để hướng tới phân khúc khách hàng lần đầu sử dụng smartphone. Do đó cấu hình của máy chỉ đi kèm bản Android 11 Go, được lược bỏ bớt một số tính năng để đổi lấy trải nghiệm mượt mà.
+Cả hai đều có màn hình LCD 6,52 inch, độ phân giải HD+ cùng thiết kế tai thỏ.
+Về mặt phần cứng, Nokia C20 được trang bị chip Unisoc SC9863a tốc độ 1.6 GHz. Trong khi C10 sử dụng chip Unisoc SC7331e tốc độ 1,3 GHz. Cả hai sẽ đều bắt đầu với RAM từ 1GB nhưng có tùy chọn nâng cấp lên 2GB.
+Nokia C10 và C20 có pin 3.000 mAh với khả năng sạc 5W qua cổng microUSB.
+Về kết nối, chỉ có Nokia C20 được trang bị 4G, tức Nokia C10 chỉ có kết nối 3G.
+Mức giá quy đổi được Nokia công bố lần lượt là 2,1 triệu VNĐ đối với C10, và 2,5 triệu VNĐ đối với C20.
+Nguyễn Nguyễn

@@ -1,0 +1,18 @@
+# doc_id = news_tech_131
+# url = https://dantri.com.vn/suc-manh-so/i-phone-12-duoc-mo-mang-5-g-lam-soi-dong-thi-truong-20210429095952258.htm
+# date = 20210429
+Mạng 5G trên iPhone12. Ảnh: Đinh Ngọc Dũng.
+Thuê bao các nhà mạng lớn đều có thể sử dụng 5G trên iPhone 12
+Ngày 27/4, Apple đã phát hành phiên bản iOS 14.5 chính thức cùng hàng loạt tính năng mới được bổ sung. 3 nhà mạng lớn gồm Viettel, Vinaphone, MobiFone đều thông báo về việc được Apple chính thức mở mạng 5G trên iPhone 12. Người dùng iPhone 12 hiện đã có thêm lựa chọn 5G trong mục Dữ liệu mạng (Cellular Data).
+Mới nhất, chiều qua 28/4, mạng di động VinaPhone cho biết, Apple vừa bổ sung thêm một số tính năng mới trong đó nổi bật là mở dịch vụ 5G và dịch vụ VoLTE cho thuê bao mạng VinaPhone.
+Theo đó, thuê bao VinaPhone có thể trải nghiệm công nghệ VinaPhone 5G trên các loại điện thoại iPhone 12 (bao gồm iPhone 12 mini, 12, 12 Pro, 12 Pro Max) tại các vùng phủ sóng 5G của VinaPhone gồm Hà Nội, Tp.HCM, Bình Phước.
+Để sử dụng 5G người dùng iPhone cần nâng cấp phần mềm lên phiên bản iOS 14.5 (truy cập cài đặt > cài đặt chung > cập nhật phần mềm để nâng cấp lên phiên bản 14.5). Nhà mạng sẽ mở tự động dịch vụ VinaPhone 5G cho toàn bộ thuê bao sử dụng điện thoại iPhone 12 và sẽ nhắn tin thông báo tới thuê bao.
+Với các nhà mạng còn lại, người dùng cũng thực hiện thao tác tương tự trên iPhone 12 để có thể trải nghiệm mạng 5G. Mạng Viettel, để kích hoạt 5G trên iPhone 12, người dùng sẽ cần truy cập vào mục Cài đặt -> Di động -> Gói cước di động đang sử dụng -> Thoại và dữ liệu -> 5G Tự động/5G Bật. Tính năng này xuất hiện trên cả 4 chiếc iPhone thế hệ mới bao gồm iPhone 12, iPhone 12 Mini, iPhone 12 Pro và iPhone 12 Pro Max.
+MobiFone thông báo, người dùng iPhone 12 đã có thể chính thức "lướt" sóng mạng tương lai tại TPHCM, trải nghiệm tốc độ download "không tưởng" lên đến 1,7 Gbps, upload 95 Mbps, sử dụng các dịch vụ như Video 4K, 8K, các Game thực tế ảo AR/VR - AI learning, IoT service… ở những khu vực nhà mạng này phủ sóng 5G.
+Sôi động thị trường di động
+Cùng việc phát hành iOS 14.5, Apple cũng mở mạng 5G cho các nhà mạng tại Việt Nam.
+5G đã bắt đầu được các nhà mạng thử nghiệm thương mại từ cuối tháng 11/2020 ở một số khu vực tại Hà Nội và TPHCM. Để sử dụng mạng 5G, người dùng không cần phải đổi thẻ SIM mới. Các số thuê bao trong vùng phủ sóng sẽ được hệ thống tự quét, nhận diện điều kiện và đăng ký mạng 5G.
+"5G được xem là giải pháp của tương lai khi người dùng đều có thể làm mọi thứ trên điện thoại. Đây cũng là một trong những tính năng đáng chú ý nhất trên iPhone 12 Series, smartphone cao cấp và được yêu thích bậc nhất hiện nay tại thị trường Việt Nam", ông Nguyễn Thế Kha, Giám đốc khối Viễn thông Di động Hệ thống FPT Shop nhận định.
+Việc iPhone 12 được mở mạng 5G sẽ làm thị trường trở nên sôi động hơn. Hiện tại, cả 4 chiếc iPhone 12 đang được các hệ thống đồng loạt giảm giá, cũng như các ưu đãi từ từng nhà mạng. Mức giảm dao động khoảng 2-4 triệu đồng tùy theo phiên bản cũng như dung lượng bộ nhớ của thiết bị. Chưa dừng lại ở đó, đại lý còn tặng miễn phí cho người dùng dung lượng 5G để có thể trải nghiệm tính năng mới này.
+Với việc được mở khóa 5G tại thị trường Việt Nam, iPhone 12 series đã có thể cạnh tranh một cách sòng phẳng với các đối thủ Android như Samsung Galaxy Z Fold 2, S21, S21+ S21 Ultra 5G, A32, A52… cũng như các đối thủ Trung Quốc như Xiaomi Mi 11 5G, Huawei (P40, P40 Pro 5G…); Nokia (8.3 5G); OnePlus (OnePlus 8T, OnePlus Nord 10) và Vivo (X60 Pro, Y72 5G...) hứa hẹn làm thị trường di động viễn thông trở nên sôi động hơn trong thời gian tới.
+Bảo Khánh

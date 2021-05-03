@@ -1,0 +1,15 @@
+# doc_id = news_tech_066
+# url = https://dantri.com.vn/suc-manh-so/chiec-webcam-ki-di-co-thiet-ke-giong-mat-nguoi-biet-chop-mat-liec-nhin-20210412130831132.htm
+# date = 20210412
+Eyecam là chiếc webcam có thiết kế giống như mắt người.
+Trong bối cảnh dịch bệnh bùng phát trên toàn cầu khiến nhiều quốc gia phải áp dụng các chính sách giãn cách xã hội, webcam đã trở thành một trong những thiết bị công nghệ được người dùng mua nhiều nhất để đáp ứng nhu cầu học và làm việc tại nhà.
+Dường như quá nhàm chán với những chiếc webcam có kiểu dáng thông thường, Marc Teyssier, một nhà thiết kế và nghiên cứu công nghệ tương tác, cùng các cộng sự của mình tại Phòng thí nghiệm Tương tác Máy tính - Con người (thuộc Đại học Saarland, Đức) đã tạo ra Eyecam, một chiếc webcam với kiểu dáng thiết kế giống hệt mắt người.
+Eycam được thiết kế một cách tỉ mỉ và có thể liếc nhìn để theo dõi chuyển động của người dùng.
+Eyecam sở hữu kích thước nhỏ gọn như một chiếc webcam thông thường.
+Eyecam được bao phủ bởi một lớp da nhân tạo; phần camera có thiết kế giống như nhãn cầu của con người. Không dừng lại ở đó, Marc Teyssier còn khiến cho sản phẩm của mình thêm phần chân thật bằng cách bổ sung các chi tiết nhỏ như mí mắt, lông mi, lông mày và các nếp nhăn xung quanh…
+Không chỉ giống mắt người ở phần thiết kế, Eyecam còn được trang bị các tính năng để mô phỏng chuyển động của mắt người, như chớp mắt, liếc nhìn để theo dõi chuyển động của người dùng hoặc thậm chí có thể biểu lộ cảm xúc…
+Mục đích của Marc Teyssier và các cộng sự là đưa công nghệ đến gần hơn với bản chất của con người và tìm hiểu xem con người sẽ tương tác với các thiết bị công nghệ của mình như thế nào nếu chúng trông giống như con người? Đồng thời, Marc Teyssier muốn tìm hiểu xem hành vi của người dùng sẽ thay đổi thế nào nếu sự giám sát trở nên hữu hình hơn, khiến họ có cảm giác như ánh mắt của ai đó đang nhìn chằm chằm vào mình mỗi khi ngồi trước máy tính.
+Eyecam có thể khiến người dùng có cảm giác đang bị giám sát, giúp họ tập trung hơn vào công việc.
+Nhiều cư dân mạng cho biết họ cảm thấy rùng mình khi thấy chiếc webcam Eyecam; tuy nhiên, nhiều người lại hài hước cho rằng Eyecam là một thiết bị thú vị, giúp họ có cảm giác như đang bị sếp giám sát nên sẽ tập trung hơn vào công việc.
+Cận cảnh Eyecam, chiếc webcam có thiết kế giống hệt mắt người.
+T.ThủyTheo M.T

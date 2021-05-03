@@ -1,0 +1,20 @@
+# doc_id = news_tech_096
+# url = https://dantri.com.vn/suc-manh-so/dung-thu-dich-vu-internet-ve-tinh-toc-do-nhanh-khong-ngo-20210403063337252.htm
+# date = 20210403
+John Kim thiết lập hệ thống Internet Starlink tại nhà.
+Tháng 10/2020, SpaceX bắt đầu đi vào thử nghiệm phiên bản beta của dịch vụ băng thông rộng vệ tinh "Better Than Nothing". Đây là gói dịch vụ Internet hoạt động dựa trên hệ thống hàng nghìn vệ tinh Starlink đã được công ty phóng lên quỹ đạo thấp của Trái Đất (LEO) mà cần không thông qua các trạm phát sóng mặt đất.
+John Kim, biên tập viên của tạp chí CNET đã nhanh chóng đăng ký tham gia thử nghiệm công nghệ mới này, và chia sẻ cảm nhận của anh trong một bài viết mới đây.
+Theo Kim, bộ dụng cụ lắp đặt của gói dịch vụ gồm một chảo ăng-ten Starlink, một Wi-Fi router, một bộ nguồn, cáp nối và giá 3 chân.
+Bên trong một bộ dụng cụ Starlink. Ảnh: CNET
+Toàn bộ chi phí cho bộ trang bị này bao gồm thuế, phí vận chuyển, và một tháng dịch vụ là khoảng 594.3 USD (tương đương 13,7 triệu đồng). Theo cảm nhận của Kim, hộp thiết bị mặc dù khá to và cồng kềnh. Tuy nhiên chúng có thiết kế hiện đại và đẹp mắt.
+Cách để thiết lập hệ thống cũng khá dễ dàng. Bên cạnh việc cắm dây và ổ theo đúng hướng dẫn, người dùng không cần làm gì nhiều. Tuy nhiên, điểm mấu chốt là bạn phải dành đủ không gian cho ăng-ten hướng lên bầu trời. Khi ấy, đĩa sẽ tự động căn chỉnh để kết nối với các vệ tinh ngoài không gian.
+Để có kết nối tốt, người dùng dịch vụ buộc phải di chuyển tới không gian thoáng đãng, trống trải. Lý do là bởi vật thể như cây cối, mái nhà có thể cản trở đáng kể khả năng bắt tín hiệu vệ tinh.
+Đặt chảo thu tại đất trống, không có vật cản, là cách tốt nhất để thu sóng Internet.
+Kim bất ngờ trước tốc độ tương đối cao và ổn định của dịch vụ Internet Starlink.
+Với giá cước99 USD/tháng (tương đương 2,28 triệu đồng), John Kim đo được tốc độ truyền dữ liệu của gói dịch vụ dao động trong khoảng từ 50-150 Mbps, độ trễ khoảng 20-40 ms, một con số ấn tượng.
+Để so sánh, cước trung bình của 1 tháng dịch vụ Internet tại Việt Nam dao động từ 200.000 - 450.000 đồng, tương ứng với tốc độ đường truyền từ 40 Mbps tới 150 Mbps. Trong khi đó, gói dịch vụ 4G tốc độ cao tại Việt Nam có tốc độ trung bình từ 50 - 100 Mbps tùy vào từng khu vực.
+Cần lưu ý rằng sóng Internet của dịch vụ được phát từ các vệ tinh có khoảng cách từ 500 - 600 km so với bề mặt Trái Đất. Do đó, chúng sẽ không đạt được tốc độ cao như một số dịch vụ dưới mặt đất. Bù lại, ưu điểm về độ phủ của dịch vụ này là không thể bàn cãi.
+Với những tính chất đặc thù, dịch vụ Internet vệ tinh Starlink chủ yếu có nhiệm vụ phủ sóng Internet tốc độ cao đến những cộng đồng dân cư khu vực vùng sâu vùng xa hoặc nông thôn. Còn đối với những người sống trong đô thị lớn, chắc chắn người dùng sẽ ưu tiên sử dụng mạng từ những nhà cung cấp dịch vụ mặt đất.
+Theo một thông tin mới đây được chia sẻ bởi Elon Musk - CEO SpaceX, tốc độ dữ liệu của Starlink dự kiến sẽ tăng gấp đôi vào cuối năm 2021. Tính đến tháng 3, Space đã phóng 1.300 vệ tinh trong tổng số 12.000 vệ tinh theo kế hoạch ban đầu.
+Nguyễn Nguyễn
+Tham khảo: CNET

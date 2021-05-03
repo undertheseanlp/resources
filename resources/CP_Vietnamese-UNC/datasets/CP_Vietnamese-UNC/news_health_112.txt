@@ -1,0 +1,4 @@
+# doc_id = news_health_112
+# url = https://dantri.com.vn/suc-khoe/dong-tac-squat-dung-cach-de-co-vong-3-cang-tron-quyen-ru-20210417162523490.htm
+# date = 20210417
+Thư Quỳnh - Nguyễn Quang

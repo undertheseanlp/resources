@@ -1,0 +1,12 @@
+# doc_id = news_science_199
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/space-x-phong-them-60-ve-tinh-vao-quy-dao-chum-starlink-da-co-1443-ve-tinh-20210412071743701.htm
+# date = 20210412
+SpaceX tiếp tục phóng thành công thêm 60 vệ tinh
+Việc đẩy nhanh tốc độ đưa chùm vệ tinh Starlink vào không gian của SpaceX nhằm đạt được mục tiêu mà công ty đưa ra là sẽ phóng tổng cộng 1.500 vệ tinh Starlink trong năm 2021.
+Trước đó, SpaceX cũng đã thực hiện bốn sứ mệnh Starlink khác, bao gồm một chuyến bay chung trong sứ mệnh chia sẻ chuyên dụng đầu tiên của SpaceX để mang vệ tinh cho các khách hàng khác.
+Tổng cộng, đến nay SpaceX đã phóng 1.443 vệ tinh cho chùm vệ tinh Starlink. Tuy nhiên, điều đó không phản ánh thực chất tổng số vệ tinh có mặt trên quỹ đạo, vì một số ít các vệ tinh trước đó đã không đi vào đúng quỹ đạo như kế hoạch. Hiện tại, Ủy ban Truyền thông liên bang Hoa Kỳ (FCC) đã phê duyệt cho chùm vệ tinh Starlink của SpaceX là 42.000 vệ tinh.
+SpaceX gần đây đã ký một thỏa thuận mới với Trung tâm vũ trụ NASA trong đó đưa ra các biện pháp để tránh cho việc các vệ tinh của hai tổ chức này tiếp cận gần hoặc va chạm với nhau.
+Mặc dù, NASA đã đưa ra các biện pháp yêu cầu tất cả các bệ phóng tuân theo để tránh những sự cố va chạm, nhưng do quy mô và tần suất lớn của các sứ mệnh Starlink của SpaceX nên đòi hỏi phải có một thỏa thuận chi tiết và nghiêm ngặt hơn.
+Lần phóng chùm 60 vệ tinh mới nhất này của SpaceX cũng sử dụng tên lửa đẩy Falcon 9, và đây cũng là lần thứ 7, tên lửa này thực hiện sứ mệnh của mình.
+Phần động cơ đẩy của tên lửa đã hạ cánh như dự định trên bệ hạ cánh nổi của SpaceX ở Đại Tây Dương và sẽ được tân trang lại để có thể tái sử dụng trong các sứ mệnh không gian khác. Bên cạnh đó, nhằm tiết kiệm chi phí SpaceX cũng sẽ tìm cách khôi phục lại hai tấm chắn bảo vệ bao bọc các vệ tinh trong quá trình cất cánh.
+Theo Vietnamnet

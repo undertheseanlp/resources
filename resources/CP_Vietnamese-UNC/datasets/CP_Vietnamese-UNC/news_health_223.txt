@@ -1,0 +1,11 @@
+# doc_id = news_health_223
+# url = https://dantri.com.vn/suc-khoe/thanh-hoa-co-11-f-1-lien-quan-den-ca-benh-covid-19-ha-nam-20210430095234926.htm
+# date = 20210430
+Sáng 30/4, thông tin từ Trung tâm Kiểm soát bệnh tật tỉnh Thanh Hóa (CDC Thanh Hóa) cho biết, ngay sau khi có thông tin về bệnh nhân 2899 ở Hà Nam, đơn vị này cùng với Ban Chỉ đạo phòng, chống dịch Covid-19 phối hợp với các địa phương khẩn trương triển khai rà soát, truy vết.
+Kết quả đã truy vết và phát hiện có tổng cộng 11 người địa phương là F1 liên quan đến bệnh nhân 2899 ở Hà Nam. Trong đó, có 8 người ở cùng khu cách ly với bệnh nhân 2899 (ở cùng khu cách ly tại Đà Nẵng), 3 người đi cùng chuyến xe (Đà Nẵng - Hà Nội), trên chuyến xe này có bệnh nhân 2899.
+Trong số 8 người là F1 ở cùng khu cách ly với bệnh nhân 2899 sau khi về Thanh Hóa, có 3 người đã quay trở lại thành phố Đà Nẵng, còn 5 người đã được đưa đi cách ly tập trung.
+Ngoài ra, còn 3 người khác là F1 đi cùng chuyến xe khách tuyến Đà Nẵng - Hà Nội với bệnh nhân 2899 cũng đã được cách ly.
+Cơ quan chức năng đã tiến hành lấy mẫu xét nghiệm 8 trường hợp F1 đang có mặt ở Thanh Hóa, kết quả 7 người âm tính lần 1 với SARS-CoV-2, còn 1 trường hợp đang chờ kết quả.
+Các trường hợp F1 là người Thanh Hóa được phát hiện có địa chỉ tại các huyện như: Thành phố Thanh Hóa, Thọ Xuân, Như Xuân, Quảng Xương, Hoằng Hóa, thị xã Nghi Sơn.
+Hiện CDC Thanh Hóa đang tiếp tục rà soát các trường hợp F2, yêu cầu cách ly tại nhà và lấy mẫu xét nghiệm.
+Trần Lê

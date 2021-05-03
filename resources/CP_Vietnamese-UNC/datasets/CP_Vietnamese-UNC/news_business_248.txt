@@ -1,0 +1,14 @@
+# doc_id = news_business_248
+# url = https://dantri.com.vn/kinh-doanh/vu-mat-20-ty-usd-chi-trong-2-ngay-ngan-hang-cung-bi-roi-10-ty-usd-20210427220237411.htm
+# date = 20210427
+Các ngân hàng lớn ghi nhận tổng thiệt hại hơn 10 tỷ USD vì bê bối của Archegos (Ảnh: Financial Times).
+Nomura ghi nhận khoản lỗ khoảng 245,7 tỷ yên (2,3 tỷ USD) trong 3 tháng đầu năm nay. Đây cũng là quý lỗ nặng nhất kể từ năm 2009 của ngân hàng này, Bloomberg đưa tin. Nomura bị thiệt hại (bởi sự sụp đổ của Archegos) lớn thứ 2 sau Credit Suisse với khoản lỗ khoảng 5,5 tỷ USD.
+Đứng thứ 3 là Morgan Stanley với việc bất ngờ báo cáo mức thiệt hại 911 triệu USD do tác động của bê bối Archegos. UBS, ngân hàng trước đó chưa từng đề cập đến mối liên quan với Archegos, cho biết tổng thiệt hại trong 2 quý đầu năm nay vào khoảng 861 triệu USD và là ngân hàng bị thiệt hại lớn thứ 4.
+Cả Morgan Stanley và UBS đều cho rằng mức thiệt hại liên quan tới Archegos không đủ lớn để hai bên phải ra thông cáo trước khi công bố kết quả kinh doanh quý I.
+(Nguồn: Bloomberg).
+Ngoài ra, JPMorgan Chase & Co. và Citigroup là những ngân hàng đã cố xoay xở để hạn chế thiệt hại hoặc thoát khỏi bê bối này.
+Goldman Sachs và Wells Fargo hoàn toàn tránh được việc thua lỗ, trong khi Deutsche Bank dự kiến công bố kết quả kinh doanh trong tuần này.
+Hồi cuối tháng 3, Deutsche Bank cho biết, ngân hàng này đang tập trung đẩy mạnh các phân khúc khách hàng còn lại và dự báo không ghi nhận khoản lỗ nào.
+Vụ sụp đổ của Archegos khiến các cơ quan quản lý, nhà lập pháp và những người ủng hộ cho phía nhà đầu tư đang kêu gọi các văn phòng gia đình công khai hoạt động nội bộ. Văn phòng gia đình vốn là mô hình quỹ quản lý tài sản được tổ chức kín đáo và bị quản lý với cơ chế thoải mái dù đây là nhóm nắm giữ khối tài sản khoảng 6.000 tỷ USD của giới siêu giàu trên toàn cầu.
+Cơ quan quản lý tại Mỹ đang xem xét áp dụng các quy định khắt khe hơn trong việc công bố thông tin. Ủy ban Chứng khoán và Giao dịch Mỹ cũng tìm cách để tăng tính minh bạch đối với những giao dịch liên quan tới sản phẩm phái sinh, thứ đã nhấn chìm Archegos.
+Kim DungTheo Bloomberg

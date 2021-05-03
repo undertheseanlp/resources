@@ -1,0 +1,22 @@
+# doc_id = news_tech_027
+# url = https://dantri.com.vn/suc-manh-so/7-nam-trung-thanh-voi-android-lan-dau-toi-dung-i-phone-va-day-la-cam-nhan-20210410014933368.htm
+# date = 20210410
+*Bài viết được Dân trí lược dịch theo cảm nhận của tác giả Shubham Agarwal từ trang Laptopmag.
+Trong 7 năm qua, tôi đã sử dụng rất nhiều smartphone Android khác nhau, từ các sản phẩm của OnePlus cho đến những chiếc Google Pixel. Tuy nhiên, tháng trước, khi muốn nâng cấp một chiếc điện thoại mới, tôi đã quyết định chọn mua iPhone 12 Mini.
+Tôi từng là một người dùng khá trung thành với hệ điều hành Android. Những thiết bị này sở hữu nhiều điểm mạnh về cả phần cứng cũng như phần mềm phù hợp với nhu cầu sử dụng của tôi. Một lý do khác khiến tôi chưa từng dùng một chiếc iPhone nằm ở hệ thống thông báo của nền tảng iOS.
+Tuy nhiên, thế hệ iPhone mới nhất đã có một bước nhảy vọt so với các đối thủ Android. Công nghệ camera trên iPhone đã bắt kịp sức mạnh xử lý hình ảnh bằng AI của Google. Hệ điều hành iOS cũng được tích hợp thêm nhiều tính năng mới tiện dụng hơn như khả năng thay đổi trình duyệt mặc định và bổ sung các tiện ích trên màn hình chính.
+Bên cạnh đó, Apple cũng hỗ trợ rất tốt việc cập nhật hệ điều hành iOS cho những chiếc iPhone. Điều này giúp người dùng có thể gắn bó với một mẫu điện thoại trong thời gian dài hơn khoảng 3-4 năm.
+Ứng dụng là thứ đầu tiên khiến tôi cảm nhận được rõ ràng nhất sự khác biệt của iOS so với Android. Các ứng dụng trên iOS được tối ưu tốt hơn so với Android, thậm chí bao gồm cả chính các ứng dụng từ Google. Giao diện và thiết kế của chúng cũng đồng nhất và hoạt động mượt mà hơn.
+Điển hình như Instagram, ứng dụng này hoạt động tương đối thiếu ổn định trên Android. Trong khi đó, trên nền tảng iOS, nó lại có độ phản hồi nhanh hơn và khả năng khai thác phần cứng tốt hơn.
+Điều này có được đến từ chính sách kiểm duyệt nghiêm ngặt của Apple. Thêm vào đó, đa số iPhone đều đang chạy phiên bản iOS mới nhất. Vì thế, các ứng dụng đều được tối ưu để có thể hoạt động một cách ổn định nhất.
+Ngoài ra, Apple cũng rất tập trung vào quyền riêng tư của người dùng. Trong vài năm qua, Google cũng đang cố gắng thực hiện điều tương tự nhưng tôi nhận thấy những chiếc smartphone Android vẫn chưa thể mang lại sự tin cậy so với iPhone.
+Trước khi bắt đầu sử dụng ứng dụng trên iOS, người dùng sẽ có quyền cấp phép chia sẻ dữ liệu đối với các ứng dụng yêu cầu. Ngay cả khi từ chối cấp quyền, ứng dụng đó vẫn có thể hoạt động mà gần như không gặp sự cố như trên nền tảng Android.
+Trước đây, Apple luôn tìm cách trói buộc người dùng một cách chặt chẽ hơn vào hệ sinh thái của công ty. Hãng khuyến khích người dùng sử dụng các ứng dụng của Apple để có được trải nghiệm làm việc đồng bộ nhất.
+Dẫu vậy, mọi thứ dần thay đổi trong những phiên bản iOS gần đây khi công ty đã bắt đầu nới lỏng hơn các chính sách của mình. Theo đó, người dùng có thể thay đổi các ứng dụng mặc định của Apple bằng những ứng dụng của bên thứ ba mà họ đã quen sử dụng. Điều này khiến cho người dùng không còn bị bó buộc như trước.
+Những chiếc iPhone mang lại trải nghiệm liền mạch về cả phần cứng lẫn phần mềm.
+Lý do lớn nhất giúp iPhone chiếm ưu thế trên thị trường smartphone cao cấp nằm ở sự đồng nhất giữa phần cứng và phần mềm. Apple kiểm soát rất tốt cả 2 yếu tố này. Điều đó giúp người dùng iPhone có được trải nghiệm liền mạch hơn so với điện thoại Android.
+Sự liền mạch và tinh tế của hãng nằm ngay ở một số tính năng cơ bản nhất như tinh chỉnh độ sáng tự động hay Haptic Touch (động tác chạm và giữ để hiển thị menu phụ). Chúng đều hoạt động ổn định, đáp ứng đúng nhu cầu trong quá trình sử dụng thường ngày.
+Bên cạnh đó, các phụ kiện bên thứ ba dành cho iPhone cũng đa dạng và có chất lượng tương đối tốt. Có được điều này là do các nhà sản xuất phụ kiện thường ưu tiên iPhone vì chúng ít mẫu mã nhưng lại có doanh số lớn.
+Trên thực tế, iPhone vẫn còn nhiều điểm khiến tôi chưa hài lòng khi so với điện thoại Android. Điển hình là trợ lý ảo Siri chưa có độ chính xác cao. iPhone cũng không hỗ trợ tính năng đa nhiệm như chia màn hình. Trên hết, tính năng thông báo vẫn còn nhiều điểm cần cải thiện.
+Bên cạnh đó, khi chuẩn USB-C trở nên phổ biến, việc Apple tiếp tục giữ nguyên cổng Lightning có thể gây ra bất tiện vì người dùng phải mang thêm một dây sạc thứ hai. Nhìn chung, Apple sẽ còn rất nhiều việc phải làm để khiến cho iOS thân thiện hơn với người dùng.
+Thế Anh

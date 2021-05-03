@@ -1,0 +1,24 @@
+# doc_id = news_health_073
+# url = https://dantri.com.vn/suc-khoe/ca-covid-19-sieu-lay-nhiem-o-ha-nam-da-lay-cho-8-benh-nhan-nhu-the-nao-20210429232653356.htm
+# date = 20210429
+Từ ca Hà Nam, 3 tỉnh có bệnh nhân lây nhiễm
+Đến nay, chùm ca bệnh liên quan đến BN2899 - ca F0 ở Hà Nam - được xác định có 8 trường hợp. BN2899từ Nhật Bản trên chuyến bay VJ3613 nhập cảnh Sân bay Đà Nẵng ngày 07/4/2021, được cách ly tập trung ngay, lấy mẫu xét nghiệm tại Đà Nẵng. Ngày 22/4 bệnh nhân hoàn thành cách ly, có kết quả xét nghiệm 3 lần âm tính, được về cách ly tại địa phương.
+Ngay khi trở về nhà, ngày 24/4, bệnh nhân có biểu hiện triệu chứng ho, sốt, đau họng được Trung tâm Kiểm soát bệnh tật tỉnh Hà Nam lấy mẫu xét nghiệm. Kết quả bệnh nhân dương tính với SARS-CoV-2.
+Hà Nam đã phong tỏa thôn có 5 ca Covid-19.
+Tất cả 4 người trong gia đình gồm: bố đẻ bệnh nhân; mẹ đẻ bệnh nhân; vợ bệnh nhân và con bệnh nhân đều bị lây nhiễm, là các bệnh nhân BN2901, BN2903, BN2908-BN2909.
+BN2899 cũng lây cho một trường hợp F1 ở Đông Anh, Hà Nội. Ca F1 này đã ăn liên hoan cùng BN2899 từ 20 giờ đến 22 giờ tại quán ăn ở thị trấn Vĩnh Trụ, Lý Nhân, Hà Nam.
+Với ca F1 Hà Nam là người Đông Anh đã dương tính với Sars-Cov-2. Từ 0h00 đêm 30/4, Hà Nội quyết định dừng hoạt động đối với các nhà hàng Karaoke và quán bar.
+BN2899 cũng đã lây cho 2 mẹ con ở Hưng Yên, khi hai mẹ con này về Hà Nam thăm người nhà, có tiếp xúc với BN2899 - là hàng xóm.
+Hai trường hợp này sống tại xã Tiên Tiến, huyện Phù Cừ, Hưng Yên. Bà S. đưa con về thôn Quan Nhân, xã Đạo Lý, huyện Lý Nhân, Hà Nam thăm mẹ ruột. Tại đây hai mẹ con tiếp xúc gần với bệnh nhân 2899, là hàng xóm. Sau khi Hà Nam báo cáo các trường hợp liên quan, Hưng Yên đã truy vết, đưa mẹ con bà S. đi cách ly tập trung và lấy mẫu xét nghiệm.
+Tại TP. Hồ Chí Minh cũng xác định 1 ca F1 với BN ở Hà Nam dương tính với SARS-CoV-2.
+Lây nhiễm nhanh, tấn công nhanh
+Đánh giá về ca Covid-19 ở Hà Nam, Bộ trưởng Y tế Nguyễn Thanh Long cho rằng tốc độ lây nhiễm nhanh, mức độ tấn công nhanh.
+"Bộ Y tế sẽ tiến hành đánh giá và phân tích giải trình tự gen", Bộ trưởng Y tế nói.
+Người đứng đầu ngành y tế cũng bày tỏ quan điểm việc chống dịch phải nhanh chóng, thầntốc vì nếu chúng ta chậm 1-2 ngày thì dịch sẽ bước sang chu kỳ lây nhiễm mới và công cuộc chống dịch càng khó khăn. Do đó điều quan trọng là phải dập bằng được ổ dịch Hà Nam.
+Bộ trưởng Y tế đánh giá ca F0 ở Hà Nam có tốc độ lây nhiễm nhanh, tấn công nhanh, với 8 ca F1 tiếp xúc với bệnh nhân đã dương tính với SARS-CoV-2.
+Theo Bộ trưởng, hiện ổ dịch này đã liên quan đến nhiều tỉnh thành khác, vì bệnh nhân đã đi taxi, xe khách, đã có người tiếp xúc bay vào TP Hồ Chí Minh, do đó yêu cầu các địa phương có người đi chung chuyến bay ở Nhật về Đà Nẵng hôm 7/4; đi chung xe khách từ Đà Nẵng về Hà Nam và cách ly chung với bệnh nhân tại khách sạn ở TP Đà Nẵng phải cách ly tập trung ngay, lấy mẫu xét nghiệm. 121 người cách ly cùng bệnh nhân tại khách sạn Alisia Bench ở Đà Nẵng chúng tôi đánh giá rất nhiều nguy cơ.
+"Những trường hợp còn lại cách ly tại các khách sạn khác phải lấy mẫu xét nghiệm ngay. Tất cả các hành khách đi cùng chuyến xe với bệnh nhân phải cách ly ngay, đồng thời truy vết ngay những người tiếp xúc với người đi cùng xe, để khi những trường hợp F1 thành F0, chúng ta đã có danh sách sẵn để quản lý"- Bộ trưởng Nguyễn Thanh Long yêu cầu.
+Báo cáo của UBND tỉnh Hà Nam cho biết, đến nay đã truy vết 113 trường hợp F1, số F2 khoảng hơn 200 người và hiện đang tiếp tục điều tra, truy vết.
+Bộ Y tế yêu cầuHà Nam phải tổ chức giám sát tất cả các trường hợp sốt, ho, đau họng. Tất cả những trường hợp này phải cách ly tại nhà, lấy mẫu xét nghiệm ngay. Đây là những trường hợp có dấu hiệu chỉ điểm, đặc biệt là tại khu vực lân cận bệnh nhân sinh sống, giao lưu.
+Đồng thời, Hà Nam phải thành lập ngay các tổ phòng chống Covid-19 cộng đồng ngay trong thôn Quan Nhân đêm nay, và toàn xã vào ngày mai. 2 người 1 tổ phụ trách 30-50 người để đi từng ngõ, gõ từng nhà, theo dõi chặt từng trường hợp, nếu ho, sốt thì báo cáo lấy mẫu xét nghiệm ngay. Bên cạnh đó, tỉnh phải huy động toàn bộ sinh viên trường Y để tập huấn về công tác lấy mẫu xét nghiệm, chuẩn bị sẵn tình huống chống dịch khi cần.
+Hồng Hải

@@ -1,0 +1,13 @@
+# doc_id = news_education_027
+# url = https://dantri.com.vn/giao-duc-huong-nghiep/5-nguoi-viet-lot-top-100-nha-khoa-hoc-xuat-sac-nhat-chau-a-20210427152447911.htm
+# date = 20210427
+Danh sách này nhằm tôn vinh các nhà khoa học, các nhà lãnh đạo có những nghiên cứu góp phần giải quyết các vấn đề nóng trên thế giới, trong đó có phòng chống dịch Covid-19.
+Người được vinh danh trong danh sách này phải có giải thưởng quốc gia hoặc quốc tế trong năm 2020. Ngoài ra, người được vinh danh phải có thành tích đáng kể trong phát hiện khoa học hoặc là người dẫn đầu trong giới học thuật/ lĩnh vực.
+5 nhà khoa học Việt Nam vào top 100 nhà khoa học xuất sắc nhất Châu Á năm nay là PGS.TS Trần Thị Thu Hà (ĐH Thái Nguyên); PGS.TS.BS Vương Thị Ngọc Lan (Trường ĐH Y Dược TP.HCM); PGS.TS Lê Thị Quỳnh Mai (Viện Vệ sinh Dịch tễ Trung ương); PGS.TS Phạm Tiến Sơn (Trường ĐH Đà Lạt); TS Nguyễn Trương Thanh Hiếu (Trường ĐH Tôn Đức Thắng).
+PGS.TS Trần Thị Thu Hà được vinh danh ở lĩnh vực Nông nghiệp. Năm 2019, bà được trao giải thưởng Kovalevskaia nhờ công trình nghiên cứu nhân giống và thâm canh lâm sản và dược liệu, trong đó có đóng góp vào việc phát triển các loại cây thuốc địa phương.
+PGS.TS.BS Vương Thị Ngọc Lan được vinh danh ở lĩnh vực Khoa học Y sinh. Bà là một trong ba nhà khoa học Việt Nam được trao giải thưởng Tạ Quang Bửu năm 2020 nhờ những đóng góp trong nghiên cứu so sánh giữa chuyển phôi tươi và đông lạnh để thụ tinh ống nghiệm.
+PGS.TS Lê Thị Quỳnh Mai là người đứng đầu nhóm khoa học thực hiện phân lập thành công chủ SARS-CoV-2 mới, giúp Việt Nam trở thành một trong bốn quốc gia đầu tiên thành công thực hiện điều này. Nhóm nghiên cứu của PGS.TS Mai đã trải qua hai thập kỷ nghiên cứu để tìm ra phương pháp chống lại những căn bệnh chết người như SARS, cúm gia cầm A/H5N1 và H1N1. Năm 2019, nhóm nghiên cứu của bà được trao giải thưởng Kovalevskaia.
+PGS.TS Phạm Tiến Sơn được vinh danh ở lĩnh vực Toán học nhờ công trình nghiên cứu về các tính chất tổng quát của quy hoạch nửa đại số. Ông cũng là một trong ba nhà khoa học được trao giải thưởng Tạ Quang Bửu năm 2020.
+TS Nguyễn Trương Thanh Hiếu cũng là gương mặt được trao giải thưởng Tạ Quang Bửu năm 2020. Ở lĩnh vực Vật lý, ông được Asian Scientist vinh danh nhờ công trình nghiên cứu mang tên: Quãng đường tự do trung bình của điện tử năng lượng thấp trong vật liệu. Sản phẩm của TS Hiếu được đăng trên Tạp chí Applied Physics Letters (SCI, Q1, 5-year IF: 3.352, H-index: 401, ISSN: 0003-6951).
+Đây là năm thứ 6 liên tiếp Tạp chí Asian Scientist vinh danh các nhà nghiên cứu xuất sắc nhất Châu Á, bao gồm: Trung Quốc, Ấn Độ, Malaysia, Singapore, Nhật Bản, Hàn Quốc, Philippines, Bangladesh, Hong Kong, Sri Lanka, Indonesia, Thái Lan và Việt Nam.
+Lệ Thu

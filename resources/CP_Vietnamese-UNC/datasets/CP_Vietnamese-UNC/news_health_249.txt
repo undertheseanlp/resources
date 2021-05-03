@@ -1,0 +1,14 @@
+# doc_id = news_health_249
+# url = https://dantri.com.vn/suc-khoe/tphcm-ghi-nhan-1-truong-hop-nghi-nhiem-covid-19-20210429202022511.htm
+# date = 20210429
+Sau khi có thông tin về trường hợp có tiếp xúc gần với ca dương tính tại tỉnh Hà Nam, cơ quan chức năng TPHCM lập tức triển khai các biện pháp phòng chống dịch. Ngay sau đó, ca nghi nhiễm này được chuyển đến nơi cách ly tập trung, lấy mẫu xét nghiệm khẩn, chiều ngày 29/4 cho kết quả nghi nhiễm SASR-CoV-2.
+Trường hợp này là nam giới, sinh năm 1993 có địa chỉ thường trú tại tỉnh Hà Nam, đang ở nhà người thân tại khu phố 2, phường Bình Hưng Hòa, quận Bình Tân.
+Lịch trình di chuyển của trường hợp nghi nhiễm như sau:
+Ngày 22/4/2021, đi ăn uống với ca dương tính tại tỉnh Hà Nam.
+Từ ngày 22-27/4 ở nhà tại Hà Nam.
+Ngày 27/4/2021, đi chuyến bay số hiệu VJ133, số ghế 20B từ sân bay Nội Bài đến sân bay Tân Sơn Nhất. Sau đó đi taxi về nhà người thân tại khu phố 2, phường Bình Hưng Hòa, quận Bình Tân.
+Ngày 29/4/2021, đến Trạm Y tế phường Bình Hưng Hòa khai báo y tế sau khi biết thông tin về ca dương tính tại Hà Nam.
+Theo kết quả điều tra, có 5 trường hợp tiếp xúc với trường hợp nghi nhiễm tại Bình Tân. Các trường hợp tiếp xúc đã được cách ly tập trung, lấy mẫu chờ kết quả xét nghiệm. Thành phố vẫn đang tiếp tục thực hiện điều tra, truy vết, khoanh vùng theo quy định.
+HCDC đề nghị Hành khách đi trên chuyến bay VJ133 khởi hành từ Hà Nội đến TPHCM ngày 27/4/2021 thực hiện khai báo y tế tại địa phương để được hỗ trợ và hướng dẫn phòng bệnh.
+Bên cạnh đó, HCDC cũng đề nghị người dân thành phố nâng cao cảnh giác, thực hiện các biện pháp phòng bệnh theo khuyến cáo của ngành y tế vì nguy cơ dịch bệnh bùng phát luôn hiện hữu.
+Thư Quỳnh

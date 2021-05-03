@@ -1,0 +1,15 @@
+# doc_id = news_tech_045
+# url = https://dantri.com.vn/suc-manh-so/bi-canh-sat-bat-oan-vi-nham-lan-cua-cong-nghe-nhan-dien-guong-mat-20210414122351059.htm
+# date = 20210414
+Robert Julian-Borchek Williams bị giam giữ và thẩm vấn trong 30 giờ vì nhầm lẫn của công nghệ nhận diện gương mặt.
+Năm 2019, camera giám sát đã ghi lại được một vụ cướp tại siêu thị ở thành phố Detroit (bang Michigan, Mỹ). Cảnh sát sau đó đã sử dụng công nghệ nhận diện gương mặt để phân tích đoạn video từ camera giám sát và xác định nghi phạm tham gia vụ trộm, đó là người đàn ông da màu có tên Robert Julian-Borchek Williams.
+Tuy nhiên, chất lượng từ đoạn video do camera giám sát ghi lại được là rất thấp, do vậy cảnh sát đã rất vất vả để có thể phân tích và xác định được gương mặt của nghi phạm. Việc nhận dạng này đã giúp cảnh sát bắt giữ Williams trong khi ông đang trên đường lái xe về nhà.
+Williams sau đó đã tạm giam và thẩm vấn trong 30 tiếng liên tục. Tuy nhiên, trong một buổi thẩm vấn với cảnh sát, khi so sánh hình ảnh gương mặt của nghi phạm do camera giám sát ghi lại và gương mặt thật của Williams, các thám tử đã nhận ra rằng công nghệ nhận diện gương mặt đã có sai sót.
+Mặc dù cáo buộc nhằm vào Williams đã được bãi bỏ sau 2 tuần, tuy nhiên, mẫu ADN, ảnh chụp, dấu vân tay của Williams vẫn bị phía cảnh sát thành phố Detroit lưu trữ trong hồ sơ tội phạm.
+Mới đây, Liên đoàn Tự do Dân sự Hoa Kỳ (ACLU) đã thay mặt Williams, đệ đơn khiếu nại nhằm vào cảnh sát thành phố Detroit vì đã bắt oan anh này do sự nhầm lẫn của hệ thống nhận diện gương mặt. ACLU đã kêu gọi bãi bỏ hoàn toàn mọi liên hệ giữa Williams và vụ án, đồng thời xóa bỏ các thông tin của Williams ra khỏi cơ sở dữ liệu tội phạm của cảnh sát Detroit.
+ACLU cáo buộc cảnh sát thành phố Detroit đã sử dụng công nghệ nhận diện gương mặt trong những trường hợp mà họ biết sẽ tạo ra những kết quả không đáng tin cậy, như trong trường hợp của Williams, khi hình ảnh do camera ghi có chất lượng rất thấp.
+Đơn khiếu nại của ACLU sau đó đã được chấp thuận và hồ sơ của Williams đã được xóa bỏ khỏi cơ sở dữ liệu của cảnh sát. Đại diện sở cảnh sát Detroit sau đó cho biết sẽ chỉ sử dụng công nghệ nhận diện gương mặt trong những vụ án đặc biệt nghiêm trọng.
+Williams là trường hợp đầu tiên bị bắt oan vì những sai sót của công nghệ nhận diện gương mặt. Nhưng sau Williams, đã có thêm những trường hợp người da màu khác cũng đã bị bắt oan vì nhầm lẫn của công nghệ nhận diện gương mặt.
+Việc các cơ quan thực thi pháp luật sử dụng công nghệ nhận diện gương mặt trong các vụ án đã gây ra nhiều tranh cãi tại Mỹ trong thời gian qua. Đã có những cáo buộc cho rằng có sự phân biệt về chủng tộc trong hệ thống nhận diện gương mặt, khi người da đen thường có xu hướng bị nhận diện nhầm lẫn hơn so với người da trắng.
+Hiện chính quyền nhiều thành phố tại Mỹ đã cấm sử dụng công nghệ nhận diện gương mặt để điều tra vụ án. Một số "ông lớn công nghệ" như IBM, Microsoft hay Amazon cũng đã cho biết sẽ không cung cấp công nghệ nhận diện gương mặt cho lực lượng cảnh sát.
+T.ThủyTheo The Verge/NYT

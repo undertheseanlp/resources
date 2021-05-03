@@ -1,0 +1,23 @@
+# doc_id = news_tech_163
+# url = https://dantri.com.vn/suc-manh-so/meo-truy-cap-internet-tren-smartphone-nhanh-va-an-toan-hon-noi-bat-tuan-qua-20210425024915673.htm
+# date = 20210425
+Thủ thuật giúp truy cập Internet trên smartphone nhanh và an toàn hơn
+Hệ thống tên miền (DNS - Domain Name System) về cơ bản là một hệ thống giúp chuyển đổi tên miền của các trang web mà chúng ta vẫn sử dụng hàng ngày (chẳng hạn trang web dantri.com.vn) sang địa chỉ IP vật lý (dạng số, ví dụ 42.113.206.26) tương ứng với tên miền đó.
+Có thể xem DNS như một cuốn danh bạ điện thoại, có khả năng tìm và dịch tên miền sang địa chỉ IP, để trình duyệt web truy cập được vào đúng trang web người dùng muốn. Điều này sẽ giúp người dùng truy cập vào các trang web thông qua tên miền dễ nhớ, thay vì phải ghi nhớ dãy số IP dài và phức tạp.
+Việc thay đổi DNS trên smartphone, máy tính bảng, máy tính… thay vì sử dụng DNS mặc định do hệ thống cung cấp sẽ góp phần giúp cải thiện tốc độ và khả năng bảo mật khi kết nối Internet.
+Hiện hệ thống DNS của Cloudflare (hãng bảo mật và dịch vụ Internet của Mỹ) được đánh giá là có mức độ bảo mật cao nhất và phù hợp với người dùng tại Việt Nam nhất. Để thay đổi DNS mặc định trên smartphone và máy tính bảng sang DNS của Cloudflare, người dùng có thể nhờ đến ứng dụng với tên gọi 1.1.1.1 (là dãy số DNS mà CloudFlare đang sử dụng).
+Trải nghiệm thực tế cũng cho thấy ứng dụng này hoạt động tốt trên cả smartphone chạy Android lẫn iPhone trong khả năng cải thiện tốc độ kết nối.
+Hiện ứng dụng có cả phiên bản dành cho Android lẫn iOS, người dùng có thể tìm và tải từ kho ứng dụng CH Play và App Store, hoặc download ứng dụng trực tiếp tại đây hoặc tại đây (tương thích Android 5.0 trở lên) hoặc phiên bản dành cho iOS tại đây (tương thích iOS 11.0 trở lên). Xem hướng dẫn cách dùng ứng dụng đã được Dân trí giới thiệu tại đây.
+Ứng dụng giúp gọi lực lượng cứu hỏa, cứu nạn nhanh chóng khi có hỏa hoạn
+Tai nạn là điều không ai mong muốn, nhưng tai nạn, đặc biệt các vụ hỏa hoạn có thể gây thiệt hại nghiêm trọng cả về người và tài sản và xảy đến bất cứ khi nào. Vậy làm thế nào để nhanh chóng gọi điện và tìm kiếm sự giúp đỡ từ lực lượng cứu hỏa hoặc gọi điện đến người thân để nhờ sự trợ giúp kịp thời?
+Ứng dụng với tên gọi Help 114 sẽ rất hữu ích và cần thiết cho bạn trong cuộc sống hàng ngày. Ứng dụng là sản phẩm của Đề tài nghiên cứu khoa học "Nghiên cứu ứng dụng công nghệ Định vị và Livestream phục vụ chỉ huy chữa cháy và cứu nạn cứu hộ" của Cảnh sát phòng cháy chữa cháy Thành phố Hồ Chí Minh.
+Ứng dụng này cho phép người dùng nhanh chóng gọi điện đến tổng đài 114 của lực lượng cứu hỏa và cứu nạn tại các tỉnh thành nơi mình đang sinh sống. Ngoài ra, ứng dụng còn cho phép chia sẻ hình ảnh, video, định vị… nơi đang xảy ra hỏa hoạn hoặc tai nạn đến lực lượng cứu hỏa, giúp công tác cứu hỏa, cứu nạn được diễn ra một cách kịp thời.
+Một ưu điểm khác của Help 114 đó là cho phép tạo danh sách những người thân hoặc bạn bè để người dùng có thể gửi tin nhắn cầu cứu, tìm kiếm sự giúp đỡ trong trường hợp họ gặp hỏa hoạn hoặc tai nạn mà không thể gọi điện cho tổng đài 114.
+Ứng dụng có cả phiên bản dành cho Android lẫn iOS, người dùng có thể tìm và tải trên kho ứng dụng CH Play, App Store, hoặc download trực tiếp phiên bản dành cho Android tại đây hoặc tại đây (tương thích Android 5.0 trở lên), download phiên bản dành cho iOS tại đây (tương thích iOS 10.0 trở lên). Xem hướng dẫn cách dùng ứng dụng đã được Dân trí giới thiệu tại đây.
+Thủ thuật giúp khôi phục dữ liệu quan trọng bị xóa nhầm trên máy tính
+Trong quá trình sử dụng máy tính, đôi khi chúng ta vô tình xóa đi những dữ liệu quan trọng mà không hay biết. Tình trạng xóa dữ liệu này thường gặp phải trên những máy tính sử dụng chung, khi người này vô tình xóa nhầm dữ liệu của người kia… rồi đến khi cần sử dụng đến những dữ liệu này, bạn mới phát hiện ra chúng không còn tồn tại trên ổ cứng của mình.
+Một phần mềm với chức năng khôi phục dữ liệu đã bị xóa sẽ là vị "cứu tinh" cho bạn trong trường hợp này.
+Recuva là phần mềm nhỏ gọn và miễn phí, cho phép tìm và khôi phục lại các dữ liệu đã bị xóa khỏi ổ cứng, thậm chí là các dữ liệu bị xóa đi khỏi thẻ nhớ, USB hoặc ổ cứng gắn ngoài. Bạn đọc có thể download phần mềm miễn phí tại đây. Xem hướng dẫn cách dùng phần mềm đã được Dân trí giới thiệu tại đây.
+5 mẹo giúp điều hòa mát "siêu tốc" trong ngày nắng nóng
+Điều hòa là thiết bị ngày càng trở nên phổ biến và không thể thiếu trong những ngày hè. Trong những ngày thời tiết nắng nóng, hẳn ai cũng muốn điều hòa có thể làm lạnh nhanh chóng căn phòng, giúp cơ thể bạn "hạ nhiệt". Bài viết được Dân trí giới thiệu tại đây sẽ giúp tối ưu và tăng tốc độ làm mát của điều hòa.
+Quang Huy

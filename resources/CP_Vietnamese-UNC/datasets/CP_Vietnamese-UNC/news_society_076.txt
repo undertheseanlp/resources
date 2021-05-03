@@ -1,0 +1,5 @@
+# doc_id = news_society_076
+# url = https://dantri.com.vn/xa-hoi/co-cau-868-ung-vien-de-bau-dai-bieu-quoc-hoi-khoa-moi-20210429132019178.htm
+# date = 20210429
+Bài: Phương Thảo
+Thiết kế: Khương Hiền - Nguyễn Hồng

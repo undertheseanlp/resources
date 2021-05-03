@@ -1,0 +1,22 @@
+# doc_id = news_tech_231
+# url = https://dantri.com.vn/suc-manh-so/thu-thuat-khai-thac-hieu-qua-mang-wi-fi-tren-smartphone-noi-bat-tuan-qua-20210418031628898.htm
+# date = 20210418
+Những công cụ hữu ích giúp khai thác tối đa mạng WiFi trên smartphone
+Mạng WiFi và smartphone đã trở thành những phần không thể thiếu trong cuộc sống hiện đại ngày nay, nhưng bạn đã biết cách để khai thác mạng WiFi một cách tối ưu nhất từ chiếc smartphone?
+Những ứng dụng miễn phí được Dân trí giới thiệu tại đây sẽ cung cấp những chức năng hữu ích khác nhau, giúp bạn có thể kiểm tra xem mạng WiFi có đang bị "câu trộm" hay không, giúp sử dụng mạng WiFi miễn phí ở bất kỳ đâu và giúp kiểm tra mức độ ổn định của tín hiệu mạng WiFi.
+Thủ thuật tiết kiệm dung lượng bộ nhớ smartphone theo cách ít ai nghĩ đến
+Xóa file rác, chuyển file sang dịch vụ lưu trữ đám mây… là những giải pháp nhiều người lựa chọn để giúp tiết kiệm dung lượng bộ nhớ trên smartphone. Tuy nhiên, có một cách ít ai nghĩ đến, đó là nén và thu nhỏ kích thước file ảnh cũng sẽ giúp tiết kiệm đáng kể dung lượng của bộ nhớ smartphone.
+Hầu hết smartphone ngày nay đều trang bị camera với độ phân giải cao, cho phép chụp được những bức ảnh sắc nét và chất lượng cao, nhưng dung lượng của các file ảnh vì thế cũng tăng lên đáng kể, khiến cho việc lưu trữ hình ảnh chiếm nhiều dung lượng bộ nhớ smartphone, cũng như việc chia sẻ hình ảnh qua Internet trở nên mất nhiều thời gian và tốn nhiều kinh phí hơn (đối với người sử dụng mạng di động 4G).
+Puma Image Compressor là ứng dụng miễn phí, sẽ thực hiện chức năng thu nhỏ kích thước của file ảnh để giảm dung lượng lưu trữ, nhưng vẫn đảm bảo giữ được chất lượng ảnh so với ban đầu.
+Bên cạnh mục đích thu nhỏ kích thước ảnh để tiết kiệm dung lượng lưu trữ trên bộ nhớ smartphone, việc thu nhỏ hình ảnh còn giúp quá trình chia sẻ hình ảnh qua Bluetooth hay upload lên mạng xã hội qua Internet trở nên nhanh chóng và dễ dàng hơn. Đặc biệt, nếu sử dụng mạng 4G, các hình ảnh có kích 4G hơn khi chia sẻ chúng lên Internet.
+Hiện ứng dụng chỉ có phiên bản dành cho Android, người dùng có thể tìm và tải Puma Image Compressor từ CH Play, hoặc download ứng dụng trực tiếp tại đây hoặc tại đây (tương thích Android 4.4 trở lên). Xem hướng dẫn cách dùng của ứng dụng đã được Dân trí giới thiệu tại đây.
+Thủ thuật tạo cuộc gọi ảo để rút lui khỏi các tình huống khó xử
+Trong cuộc sống, chắc hẳn có không ít trường hợp bạn rơi vào tình huống khó xử, như phải ngồi nói chuyện với một người mà mình không thích, bị ép buộc tham gia một buổi nhậu… Trong những tình huống này, một cuộc gọi điện thoại đến từ người thân như vợ, hoặc bố, mẹ… sẽ giúp bạn có được lý do để rút lui một cách êm thấm.
+Vậy làm cách nào để người thân của bạn biết và gọi điện đúng lúc, khi bạn đang rơi vào một tình huống khó xử? Không cần phải làm phiền người thân của mình, bạn có thể tự tạo ra cuộc gọi ngay trên smartphone của mình nhờ vào ứng dụng Do It Later.
+Đây là ứng dụng miễn phí, cho phép người dùng hẹn giờ để tạo ra các cuộc gọi điện thoại ảo đến smartphone của mình. Người dùng có thể thiết lập thông tin người gọi, như tên, số điện thoại và hẹn giờ trên Do It Later, đến thời điểm đã thiết lập, một cuộc gọi do Do It Later tạo ra, với giao diện và chuông báo giống hệt một cuộc gọi thông thường, sẽ xuất hiện trên smartphone của người dùng. Lúc này, người dùng có thể giả vờ nghe điện thoại, sau đó viện ra một lý do phù hợp để rút lui khỏi tình huống khó xử mà mình đang phải đối mặt.
+Ứng dụng hiện chỉ có phiên bản dành cho Android, bạn đọc có thể tìm và tải Do It Later trên CH Play, hoặc download ứng dụng trực tiếp tại đây hoặc tại đây (tương thích Android 4.4 trở lên). Xem hướng dẫn cách dùng ứng dụng đã được Dân trí giới thiệu tại đây.
+Hướng dẫn vệ sinh quạt hộp để đảm bảo sức khỏe khi sử dụng
+Vệ sinh, làm sạch quạt điện mang đến nhiều lợi ích, trong đó quan trọng nhất là tăng hiệu năng. Một chiếc quạt bám bụi sẽ giảm hiệu quả làm mát kém và tốn điện hơn. Việc vệ sinh thường xuyên còn giúp tăng độ bền của quạt, giúp chúng phục vụ bạn được lâu hơn.
+Cũng đừng quên rằng quạt bám bụi bẩn không chỉ ảnh hưởng đến các bộ phận bên trong máy, mà còn gây hại cho sức khỏe người dùng.
+Vậy làm thế nào để vệ sinh một chiếc quạt hộp hiệu quả nhất? Bài viết được Dân trí giới thiệu tại đây sẽ cho bạn câu trả lời.
+Quang Huy

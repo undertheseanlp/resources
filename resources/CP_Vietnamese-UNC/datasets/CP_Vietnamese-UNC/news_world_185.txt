@@ -1,0 +1,19 @@
+# doc_id = news_world_185
+# url = https://dantri.com.vn/the-gioi/nhung-dau-hieu-bat-thuong-trong-bao-covid-19-hoanh-hanh-o-an-do-20210429113313602.htm
+# date = 20210429
+Ấn Độ đang trải qua làn sóng Covid-19 thứ hai nghiêm trọng chưa từng có (Ảnh: Reuters).
+Làn sóng mới khác hẳn trước đây
+Tại Sir Ganga Ram, bệnh viện lớn ở giữa thủ đô New Delhi của Ấn Độ, 37 bác sĩ dù đã tiêm đủ hai liều vắc xin nhưng vẫn mắc Covid-19 vào đầu tháng này. Hầu hết họ chỉ có triệu chứng nhẹ, song thực tế này làm dấy lên lo ngại rằng virus phía sau làn sóng Covid-19 khủng khiếp hiện nay ở Ấn Độ không giống trước kia. Đó có thể là một biến chủng dễ lây lan hơn, dễ qua mặt hệ thống miễn dịch hơn.
+"Làn sóng Covid-19 hiện tại có tác động lâm sàng rất khác. Nó ảnh hưởng đến những người trẻ, lây lan cho cả gia đình, cả trẻ em hai tháng tuổi. Mọi thứ đều rất khác", Sujay Shad, chuyên gia tim mạch tại bệnh viện Sir Ganga Ram, cho biết.
+Các bác sĩ Ấn Độ cũng cho hay, họ nhận thấy trẻ em có các triệu chứng bệnh nặng hơn. "Đây là điều rất khác với những gì mà chúng tôi thấy năm ngoái", Soonu Udani, người đứng đầu khoa hồi sức tích cực tại Bệnh viện Nhi Mumbai, nói.
+Quá ít dữ liệu
+Mối quan tâm của giới y khoa và công chúng Ấn Độ xoay quanh biến chủng có tên gọi B.1.617, một chủng virus mang "đột biến kép" và được đánh giá là dễ lây lan hơn so với chủng cũ.
+Tuy nhiên, các nhà khoa học nước ngoài cho rằng, đến nay chưa có đủ bằng chứng để khẳng định điều này. "Gần như chắc chắn là chủng B.1.617 cũng là nguyên nhân, nhưng hiện chưa rõ mức tác động của nó đến làn sóng Covid-19 hiện nay so với các chủng khác", Kristian Andersen, một chuyên gia tại Viện nghiên cứu Scripps (Mỹ), nhận định.
+Ngoài các biến chủng, giới khoa học tin rằng các yếu tố khác cũng là "đồng phạm" gây ra làn sóng Covid-19 thứ hai ở Ấn Độ, như người dân đã lơ là phòng dịch. Sự xuất hiện của các biến chủng mới là yếu tố làm phức tạp hóa các nỗ lực ứng phó đại dịch.
+Ông Jeffrey Barrett, chuyên gia về Covid-19 tại Viện Wellcome Sanger của Anh, nhấn mạnh: "Các biến chủng hiện tại dễ lây lan hơn những biến chủng mà chúng ta đối mặt cách đây 1 năm. Mọi thứ có thể thay đổi rất nhanh chóng, nếu một quốc gia không phản ứng nhanh chóng, tình hình sẽ từ tệ nhanh chóng chuyển sang rất tệ".
+Các nhà khoa học đang cố gắng xác định vai trò của các biến chủng mới đến làn sóng bùng phát Covid-19 ở Ấn Độ. Tuy nhiên, họ lại có rất ít dữ liệu để làm điều này bởi Ấn Độ giống như nhiều quốc gia khác vẫn chưa xây dựng một hệ thống quy mô lớn để theo dõi virus.
+Các bằng chứng ban đầu cho thấy, B.1.617 vẫn phản ứng với vắc xin mặc dù có giảm so với các chủng khác. "Hiện tại, vắc xin vẫn hiệu quả, nhưng có xu hướng giảm hiệu quả", Tiến sĩ Céline Gounder, chuyên gia dịch tễ tại Bệnh viện Bellevue, ở New York, cho biết.
+Các nhà nghiên cứu nói rằng, các yếu tố khác có thể dẫn đến việc nhiều người trẻ nhiễm Covid-19 ở Ấn Độ hơn như các trường học bắt đầu mở cửa trở lại những tháng gần đây sau làn sóng Covid-19 đầu tiên.
+Họ cũng chỉ ra, mỗi khu vực ở Ấn Độ có một loại biến chủng chiếm ưu thế hơn so với các biến chủng khác. Ví dụ, B.1.617 phát hiện nhiều trong các mẫu bệnh phẩm thu thập từ bang Maharashtra. Trong khi B.1.1.7 xuất hiện nhiều ở New Delhi mặc dù B.1.617 cũng lây lan ở đây.
+Tuy nhiên, dữ liệu thu thập được ở Ấn Độ vẫn còn quá ít để phân tích chính xác sự phân bổ của các biến chủng. Mặc dù hiện tại mỗi ngày Ấn Độ ghi nhận hàng trăm nghìn ca mắc mới, nhưng Ấn Độ mới phân tích rất ít mẫu bệnh phẩm. Tháng 12/2020, chính phủ Ấn Độ chọn ra 10 phòng thí nghiệm với mục tiêu phân tích 5% số mẫu bệnh phẩm toàn quốc mỗi tháng, nhưng hiện tại mới chưa đầy 1% số mẫu bệnh phẩm được phân tích.
+Minh PhươngTheo NYTimes

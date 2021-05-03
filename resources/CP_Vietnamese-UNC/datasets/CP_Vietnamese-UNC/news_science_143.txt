@@ -1,0 +1,30 @@
+# doc_id = news_science_143
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/nang-gat-o-tphcm-chi-so-uv-vuot-tren-10-co-y-nghia-gi-nguy-hiem-ra-sao-20210412163423876.htm
+# date = 20210412
+Ngày 12/4, Đài Khí tượng Thủy văn Quốc gia cho biết tia cực tím (UV) tại TP.HCM trong ngày đã đạt mức rất cao. Cụ thể, mức đạt ngưỡng nguy hiểm bắt đầu từ 10 giờ và kéo dài đến 15 giờ. Đặc biệt, lúc 12 giờ UV lên đến 10.1, cao nhất từ đầu năm đến nay.
+Đây là lượng tia UV cực kỳ cao, có khả năng bị bỏng da nếu tiếp xúc trực tiếp với ánh nắng hơn 10 phút mà không có đồ bảo vệ da.
+Thế nhưng tia UV thực chất là gì, có tác hại thế nào, cách phòng chống ra sao?
+Nguồn gốc của tia UV
+Tia UV (Ultraviolet) hay còn gọi là tia tử ngoại, tia cực tím là sóng điện từ có bước sóng ngắn hơn bước sóng của ánh sáng nhìn thấy nhưng dài hơn bước sóng của tia X.
+Phổ của tia cực tím có thể chia ra thành 2 vùng tia: vùng tử ngoại gần (có bước sóng từ 380 - 200 nm) và vùng tử ngoại xạ hay còn gọi là vùng tử ngoại chân không (có bước sóng từ 200 - 10 nm).
+Tuy nhiên khi quan tâm đến ảnh hưởng của tia UV đến sức khỏe con người và môi trường, tia tử ngoại chủ yếu được chia làm 3 loại, gồm có:
+- Tia UVA (bước sóng từ 380 - 315 nm) còn được gọi là sóng dài hay ánh sáng đen. Bởi vì sự hấp thụ của tầng ozone, 95% tia cực tím đến được mặt đất thuộc dạng tia UVA.
+- Tia UVB (bước sóng 315 - 280 nm) còn được gọi là sóng trung. Đây là sóng cũng xuất hiện quanh năm nhưng cường độ sẽ thay đổi tùy theo vị trí địa lý, mùa trong năm và thời gian trong ngày.
+- Tia UVC (bước sóng ngắn hơn 280 nm) còn gọi là sóng ngắn hay sóng có tính tiệt trùng.
+Đáng lưu ý, Mặt Trời lúc nào cũng tỏa ra cả 3 loại tia cực tím: UVA, UVB và UVC. Tức là có ánh sáng mặt trời nghĩa là đã có tia cực tím, chứ không phải chỉ mỗi khi nắng gắt. Đây là lầm tưởng mà nhiều người mắc phải, nên đa số chỉ đội mũ và bảo vệ da khi trời nắng gắt.
+Sự khác nhau giữa tia UVB và UVA
+Cả hai loại tia UVB và UVA đều có hại cho da nhưng mức độ khác nhau. Theo đó, tia UVA sẽ chiếu sâu vào da, gây ra sự tàn phá ở mọi lớp của da. Mặc dù không gây đau đớn nhưng tia UVA là thủ phạm gây sạm da.
+Vì vậy, tia UVA được coi là "kẻ giết người thầm lặng" vì chúng ta không cảm nhận được tác hại của tia UVA đối với làn da.
+Trong khi đó, tia UVB do có bước sóng ngắn hơn, nên khi tiếp xúc với da sẽ gây ra các biểu hiện rõ ràng như cháy nắng, đổi màu da mà cơ thể có thể cảm nhận được.
+Giữa 2 loại này, tia UVA nguy hiểm hơn, vì nó thâm nhập sâu hơn vào da, phá hủy dần các chất quan trọng trong da làm mất đi sự săn chắc và đàn hồi.
+Tia UVA cũng là một trong những nguyên nhân chính gây nếp nhăn và là nguyên nhân, hoặc là tác nhân chính gây ra mọi loại ung thư da. Tia UVA thậm chí có thể đi xuyên qua thủy tinh, trong khi tia UVB thì không.
+Các chỉ số UV và những ảnh hưởng đối với sức khỏe
+Vậy còn chỉ số UV > 10 đo được tại TP. HCM sáng 12/4 có ý nghĩa ra sao? Theo lý giải của khoa học, chỉ số tử ngoại hay chỉ số UV là một chỉ số đo lường theo tiêu chuẩn quốc tế về cường độ của bức xạ tử ngoại từ mặt trời tại một địa điểm cụ thể vào một ngày cụ thể.
+Mục đích của chỉ số này là để giúp mọi người bảo vệ mình khỏi tia cực tím, vì việc tiếp xúc quá nhiều với ánh sáng mặt trời sẽ gây bỏng nắng, tổn thương mắt như đục thủy tinh thể, lão hóa da, ức chế miễn dịch và ung thư da.
+Các tổ chức y tế công cộng khuyến cáo người dân tự bảo vệ mình (ví dụ, bằng cách thoa kem chống nắng cho da và đội mũ) khi chỉ số tử ngoại đạt 3 hoặc cao hơn. Cụ thể như sau:
+Chỉ số UV <2: Chỉ số này cho thấy lượng bức xạ Mặt Trời ở mức thấp, ít gây tác hại đến con người. Tuy nhiên vẫn có thể gây ra bỏng da nếu tiếp xúc trực tiếp với ánh nắng từ 60 phút trở nên mà không có đồ bảo vệ da. Chỉ số này thường vào những lúc sáng sớm hoặc những ngày mát mẻ nhiều mây.
+Chỉ số UV từ 3-5: Lượng bức xạ UV ở mức trung bình, nguy cơ gây tổn hại da thấp. Tuy nhiên nếu tiếp xúc trực tiếp với ánh nắng từ 40 phút trở lên mà không có quần áo che chắn bảo vệ da vẫn có thể bị bỏng da.
+Chỉ số UV từ 6-7: Lượng bức xạ Mặt Trời ở mức khá cao, có khả năng gây bỏng da sau 30 phút nếu tiếp xúc trực tiếp với ánh nắng mà không bảo vệ da. Khung giờ từ 10h sáng đến 16h là khoảng thời gian cường độ UV mạnh nhất trong ngày, bạn nên hạn chế ra khỏi nhà. Nếu phải đi ra ngoài, nên trang bị đồ chống nắng, kính râm và bôi kem chống nắng.
+Chỉ số UV từ 8-10: Lượng tia UV rất cao, nếu tiếp xúc trực tiếp với ánh nắng hơn 25 phút mà không có đồ bảo vệ, da sẽ bị bỏng. Mắt sẽ bị rối loạn thị giác (giảm thị lực, chảy nước mắt, sợ ánh sáng…) nếu phơi nắng liên tục từ 6 giờ trở lên mà không đeo kính râm.
+Chỉ số UV >10: Lượng tia UV cực kỳ cao, có khả năng bị bỏng da nếu tiếp xúc trực tiếp với ánh nắng hơn 10 phút mà không có đồ bảo vệ da. Tốt nhất bạn nên ở nhà, tránh ra đường khi chỉ số UV ngoài trời cao như vậy.
+Minh Khôi

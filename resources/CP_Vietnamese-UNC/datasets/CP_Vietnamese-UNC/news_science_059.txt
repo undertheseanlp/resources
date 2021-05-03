@@ -1,0 +1,22 @@
+# doc_id = news_science_059
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/chung-ta-co-the-lam-cham-qua-trinh-lao-hoa-khong-va-den-muc-do-nao-20210405060841100.htm
+# date = 20210405
+Lão hóa thường được coi là một phần tất yếu của cuộc sống, nhưng có cách nào để làm chậm lại không, có thể kéo dài những năm tháng trẻ trung, khỏe mạnh được không?
+Lão hóa là gì?
+Tất cả mọi sinh vật sống đều có cấu tạo từ các tế bào. Các nhà khoa học thường nuôi cấy tế bào trong phòng thí nghiệm để nghiên cứu. Năm 1961, nhà nghiên cứu người Mỹ, Giáo sư Leonard Hayflick nhận thấy rằng tế bào con người chỉ có thể phân chia trung bình 50 lần, sau đó sẽ chuyển sang quá trình già yếu. Việc tích tụ ngày càng nhiều tế bào già yếu có thể làm tổn thương các tế bào khác và đóng vai trò chính trong sự lão hóa của toàn cơ thể.
+Có nhiều nguyên nhân gây ra lão hóa và sự già yếu ở mức độ tế bào. Đó là quá trình oxy hóa, sự tích tụ các lỗi nhỏ trong DNA, và các telomere (đầu mút nhiễm sắc thể) ngắn lại. Một điều vô cùng quan trọng là các bộ phận khác nhau của thế bào đều trải qua quá trình hao mòn trong suốt thời gian tồn tại của tế bào. Ở một thời điểm nào đó, sự tổn thương, hao mòn này khiến cho tế bào không còn khả năng hoạt động đúng chức năng vốn có.
+Chúng ta có thể làm chậm quá trình lão hóa của các tế bào không?
+Mặc dù các tế bào bình thường đều có tuổi thọ hữu hạn, nhưng một số tế bào vẫn có thể nhân lên vô hạn. Thông thường, đây là những tế bào ung thư hoặc được can thiệp chỉnh sửa di truyền. Bằng cách thay đổi một số mã di truyền của tế bào, ví dụ như cách chúng nhân chia hoặc duy trì độ dài telomere, chúng ta có thể kiềm chế được quá trình lão hóa thông thường.
+Như vậy có thể nói là việc làm chậm quá trình lão hóa là hoàn toàn có thể, và trong công tác nghiên cứu, các nhà khoa học thường tiến hành việc này. Tuy nhiên, điều quan trọng là các thí nghiệm nghiên cứu trên các tế bào không giống với các tế bào mạnh khỏe trong cơ thể người.
+Có thể làm chậm lão hóa ở các loài động vật khác không?
+Can thiệp di truyền không chỉ làm chậm quá trình lão hóa của các tế bào mà còn của cả cơ thể một động vật (vật mẫu). Các thí nghiệm làm chậm lão hóa đã được tiến hành đầu tiên đối với giun tròn, tên khoa học là C.elegans. Do đây là loài vật dễ tiến hành thí nghiệm, nên các nhà khoa học đã sử dụng chúng làm vật mẫu và tìm ra được một loạt các cách làm chậm lão hóa.
+Điều thú vị là một trong các cách đó chính là thông qua chế độ ăn và trao đổi chất. Một số chế độ ăn nghiêm ngặt có thể làm chậm quá trình lão hóa ở tất cả các loài vật, từ ruồi đến khỉ và chó. Lượng calo được nạp vào hạn chế có thể khiến tế bào trong cơ thể chuyển sang chế độ "bảo vệ", từ đó làm chậm quá trình lão hóa.
+Chuyên gia về làm chậm lão hóa, Tiến sĩ Gerardo Ferbeyre của Trường đại học Montreal, Canada, cho biết mặc dù không phải cách nào có tác dụng đối với các vật mẫu cũng sẽ có tác dụng với người, nhưng một số ý tưởng rút ra từ nghiên cứu lão hóa có thể góp phần tìm ra các phương pháp chống lại lão hóa.
+Vậy có thể làm chậm quá trình lão hóa ở người không?
+Giáo sư Janet Thornton, chuyên gia về chống lão hóa ở Viện Thông tin sinh học châu Âu, nhấn mạnh rằng đối với con người, việc can thiệp để tiến hành đột biến là việc làm phi đạo đức, và có rất nhiều yếu tố mâu thuẫn làm cho việc đánh giá tác động của chế độ ăn nghiêm ngặt là rất khó tiến hành. 
+Trong phòng thí nghiệm, một con giun có thể kéo dài tuổi thọ gấp 10 lần, ruồi và chuột có thể sống lâu hơn 1,5 lần, nhưng chưa có đánh giá đối với cơ thể con người. Khả năng là hệ thống cơ thể người là một hệ thống phức tạp, nên rất khó để đánh giá được mức độ làm chậm lão hóa và kéo dài tuổi thọ.
+Mặc dù vậy, có một số loại thuốc đang được thử nghiệm lâm sàng để xem chúng có thực sự làm chậm lão hóa ở người hay không. Cho đến nay, chưa có kết quả nào được công bố.
+Theo Tiến sĩ Marco Demaria của Trường đại học Groningen, Hà Lan, thay đổi một số cách sinh hoạt, lối sống thực sự có ảnh hưởng đến quá trình lão hóa (chế độ ăn uống và tập thể dục thể thao là những cách tốt nhất). Nhiều chuyên gia cũng khuyên mọi người nên cải thiện chế độ ăn uống và tập luyện để làm chậm lão hóa. Những người thường xuyên tập thể dục và có lối sống lành mạnh thường năng động hơn và có cuộc sống vui vẻ, khỏe mạnh hơn khi về già.
+Tóm lại, mặc dù lão hóa là điều tất yếu đối với mọi sinh vật sống, nhưng vẫn có thể làm chậm lão hóa ở các tế bào và động vật được thí nghiệm. Đối với con người, cách tốt nhất để làm chậm lão hóa là ăn uống điều độ và tập thể dục thường xuyên.
+Phạm Hường
+Theo Science Alert

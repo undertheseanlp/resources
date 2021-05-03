@@ -1,0 +1,40 @@
+# doc_id = news_science_083
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/dien-tich-nho-hep-tau-ngam-cung-cap-duong-khi-cho-hang-chuc-nguoi-the-nao-20210423085719922.htm
+# date = 20210423
+Cả thế giới đang hướng về chiếc tàu ngầm mang mã danh KRI Nanggala-402 của hải quân Indonesia bị mất tích sáng 21/4.
+Được biết, hàng chục đơn vị cứu hộ đã được huy động, cùng nhiều phương tiện dò tìm dưới nước. Tuy nhiên, hiện vẫn chưa thể tìm thấy chiếc tàu xấu số này, cũng như 53 thủy thủ trên tàu.
+Một trong những hy vọng về sự sống sót của thủy thủ đoàn là tàu KRI Nanggala-402 có đủ dưỡng khí tới ngày 24/4, tức khoảng 3 ngày sau khi xảy ra sự cố mất tích.
+Tuy nhiên nếu như động cơ vẫn hoạt động, tàu ngầm có thể lặn sâu dưới nước trong nhiều tuần hoặc thậm chí vài tháng tại một thời điểm.
+Vậy câu hỏi tại sao một chiếc tàu ngầm có diện tích nhỏ hẹp, bị lạc dưới lòng đại dương không chút dưỡng khí, lại có thể "sống sót" lâu như vậy?
+Nguyên lý hoạt động của tàu ngầm
+Tàu ngầm là một loại tàu đặc biệt có thể hoạt động dưới nước. Bên cạnh mục đích về quân sự, tàu ngầm còn được sử dụng cho vận chuyển hàng hải và nghiên cứu khoa học ở đại dương vì giúp đạt tới độ sâu vượt quá khả năng lặn của con người.
+Nguyên lý hoạt động của tàu ngầm dựa vào hai định luật cơ bản của Vật lý, là định luật Ac-si-mét (Archimedes) và Pascal.
+Theo định luật Ac-si-mét, với bất cứ một vật nào chìm trong nước, đều chịu một lực đẩy, thẳng đứng, hướng lên trên và có độ lớn đúng bằng phần chất lỏng mà vật đang chiếm chỗ.
+Còn định luật Pascal chỉ ra rằng áp suất mà một bề mặt phải chịu tỉ lệ thuận cùng lực tác dụng lên bề mặt, tỉ lệ nghịch với diện tích bề mặt đó.
+Đối với một tàu ngầm thông thường sẽ có hai lớp vỏ: Vỏ ngoài dày ít nhất 700mm, vỏ trong dày khoảng 800mm. Giữa hai lớp vỏ là khoang trống có chứa các giàn ép nước.
+Kết cấu cơ bản bên trong một tàu ngầm của Hà Lan.
+Thông thường khi tàu nổi thì khoang giữa hai lớp vỏ này trống. Khi muốn tàu lặn thì có một van phía trên sẽ mở, nước tràn vào khe giữa hai vỏ làm khối lượng tàu tăng lên, và tàu chìm xuống.
+Ngược lại, các giàn ép phía trong khoang giữa hai vỏ này có nhiệm vụ dồn không khí, đẩy nước ra bên ngoài để tàu nổi lên.
+Duy trì dưỡng khí
+Hệ thống Sonar dò tìm mục tiêu của tàu ngầm quân sự. Ảnh: Wikipedia
+Có 3 điều ảnh hưởng đến dưỡng khí bên trong chiếc tàu ngầm, đó là lượng oxy được bổ sung, lượng oxy tiêu thụ của thủy thủ đoàn, và lượng Carbon dioxide (CO2) mà họ thở ra.
+Nếu tỷ lệ oxy trong không khí giảm quá thấp, hoặc lượng CO2 quá cao, thủy thủ sẽ bị ngộp thở. Ngoài ra, độ ẩm từ hơi thở của chúng ta cũng phải được loại bỏ.
+Trên tàu ngầm, oxy được cung cấp chủ yếu từ bồn áp lực. Đây là một máy tạo oxy cho phép tạo oxy từ phản ứng điện phân nước.
+Trong trường hợp động cơ gặp trục trặc, giống như điều mà người ta cho rằng đã xảy ra với tàu KRI Nanggala-402, thủy thủ đoàn sẽ sống dựa trên lượng oxy còn lưu lại trong các "ống đựng".
+Nước uống
+Thủy quân Indonesia đứng trên boong tàu ngầm quân sự KRI Nanggala-402 năm 2013. Ảnh: Reuters
+Bên cạnh oxy, những người bị nạn sẽ còn đối mặt với nhiều nguy hiểm khác trong lòng đại dương, mà điển hình trong đó là nước uống.
+Được biết, hầu hết tàu ngầm có một bộ máy chưng cất có thể chuyển hóa nước biển thành nước ngọt, dựa trên quá trình đun nóng nước biển để tạo hơi nước, sau đó loại bỏ cát, muối, và làm mát hơi nước để thu về nước sạch.
+Nhà máy chưng cất trên một số tàu ngầm có thể sản xuất từ 38.000 - 150.000 lít nước ngọt mỗi ngày.
+Lượng nước này chủ yếu được sử dụng để làm mát thiết bị điện tử (như máy tính, thiết bị dẫn đường) và hỗ trợ cho các thuyền viên (uống, nấu ăn và vệ sinh cá nhân).
+Tuy nhiên khi động cơ bị hỏng và không còn đủ lượng điện để duy trì bộ máy chưng cất nước, các thủy thủ sẽ phải sống dựa trên lượng nước còn lưu lại trong bồn.
+Độ sâu
+Trong nhiều giả thuyết được đặt ra, người ta quá tập trung vào lượng oxy, lượng nước giúp duy trì sinh mạng cho các thủy thủ đoàn, nhưng lại quên mất một yếu tố khác cũng rất quan trọng, đó là độ sâu.
+Trong một động thái mới nhất, hải quân Indonesia tin rằng tàu ngầm KRI Nanggala-402 có thể bị chìm ở độ sâu 2.000-2.300 feet (khoảng 700 mét) - sâu hơn nhiều so với độ sâu giới hạn của nó được ước tính là 656 feet (khoảng 200 mét) bởi một công ty đã trang bị lại tàu vào năm 2009-2012.
+Ahn Guk-hyeon, một quan chức thuộc Cơ quan Đóng tàu và Hàng hải Daewoo của Hàn Quốc, cho biết tàu ngầm sẽ bị bóp méo nếu xuống sâu hơn mức giới hạn do áp lực nước. Ông cho biết công ty của ông đã nâng cấp nhiều cấu trúc và hệ thống bên trong của tàu ngầm Indonesia, nhưng họ chưa rõ những thông tin mới nhất về KRI Nanggala-402.
+Hình vẽtàu ngầm quân sự loại Ohiođang phóng tên lửaTrident ICBM.
+Frank Owen, thư ký của Viện tàu ngầm Australia, thì đặt ra giả thuyết cho rằng ngay cả khi tàu ngầm KRI Nanggala-402 có thể vẫn đủ lượng điện để duy trì hoạt động cơ bản như máy tạo oxy, tạo nước, nhưng việc nó chìm ở quá sâu khiến hoạt động cứu hộ không thể diễn ra.
+"Hầu hết các hệ thống cứu hộ chỉ hoạt động trong khoảng 600 mét từ mực nước biển. Những người bị nạn có thể vẫn sống sót khi họ bị chìm xuống sâu hơn mức giới hạn, vì luôn có một biên độ an toàn được tích hợp trong thiết kế. Nhưng sẽ không thể di chuyển nếu như có trục trặc ở phần động cơ", Owen nói.
+Vào tháng 11/2017, một tàu ngầm Argentina cùng với 44 thành viên thủy thủ đoàn mất tích ở Nam Đại Tây Dương. Phải gần một năm sau, xác tàu mới được tìm thấy ở độ sâu 800 mét. Vào năm 2019, một vụ hỏa hoạn đã xảy ra trên một trong những tàu lặn nghiên cứu biển sâu của hải quân Nga, khiến 14 thủy thủ thiệt mạng.
+Minh Khôi
+Tổng hợp

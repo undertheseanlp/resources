@@ -1,0 +1,17 @@
+# doc_id = news_tech_072
+# url = https://dantri.com.vn/suc-manh-so/chuyen-doi-so-chi-co-the-thanh-cong-khi-doanh-nghiep-chu-dong-san-sang-20210501230129100.htm
+# date = 20210501
+Sẵn sàng thay đổi
+Các chuyên gia đều nhận định, thay đổi là chìa khóa giúp doanh nghiệp mở cánh cửa trong kỷ nguyên 4.0 và Việt Nam không chậm so với thế giới trong nhận thức về vấn đề này. "Chuyển đổi số", "đổi mới sáng tạo" là cụm từ được nhắc nhiều những năm gần đây, song nó đòi hỏi hành động quyết liệt của mỗi doanh nghiệp.
+Chuyển đổi số là chìa khóa giúp doanh nghiệp Việt cất cánh.
+Theo Phó Tổng Giám đốc Công ty Cổ phần Viễn thông Hà Nội (Hanoi Telecom) Nguyễn Hiền Phương, đổi mới sáng tạo tại Hanoi Telecom không phải là đích đến mà là một quá trình xuyên suốt. Chuyển đổi số chỉ có thể thành công khi doanh nghiệp chủ động sẵn sàng, có sự đầu tư, chuẩn bị kỹ lưỡng cho quá trình này.
+Liên quan đến đổi mới, chuyển đổi số của doanh nghiệp Việt hiện nay không còn nằm ở yếu tố nhận thức, mà đã chuyển sang yếu tố hành động và nhận thức về điểm bắt đầu. Một ví dụ là để Trung tâm dữ liệu đầu tiên tại Việt Nam đạt chuẩn Uptime Tier III thì Hanoi Telecom đã có sự chuẩn bị dài hơi từ nhiều năm trước.
+Nói về bước chuyển mình, bà Hiền Phương cho biết trước đây công ty tập trung cung cấp các dịch vụ mạng viễn thông cố định, di động, Internet, VOIP, điện thoại đường dài trong nước và quốc tế. Tuy nhiên 5 năm trở lại, Hanoi Telecom hướng sang đầu tư, phát triển trung tâm dữ liệu xanh để đón đầu nhu cầu lưu trữ thông tin điện toán đám mây của các đơn vị trong nước.
+Xây dựng đội ngũ chất lượng
+Con người vẫn là yếu tố quan trọng đối với doanh nghiệp, bất kể trong giai đoạn nào.
+Câu chuyện về các doanh nghiệp kỷ nguyên 4.0 được nhắc đến nhiều thời gian gần đây. Bản chất là dựa trên nền tảng công nghệ số và tích hợp các công nghệ thông minh nhằm tối ưu hóa quy trình và phương thức sản xuất. 
+Cuộc cách mạng này sẽ tạo nên các nhà máy thông minh và con người khi ấy chỉ tham gia giám sát, điều hành hệ thống sản xuất và các hoạt động đòi hỏi các kỹ năng cũng như kiến thức mà máy móc không thể thay thế được.
+Dù thời đại nào, con người vẫn là tài sản không thể thay thế được của doanh nghiệp. Nguồn lực này không bị giới hạn như các nguồn lực khác mà luôn tạo ra giá trị gia tăng. Sử dụng nhân lực hiệu quả còn cho phép doanh nghiệp giảm các chi phí đầu vào, chi phí quản lý,… từ đó trực tiếp nâng cao hiệu suất, hiệu quả kinh doanh. Bên cạnh đó, doanh nghiệp cần tạo điều kiện, môi trường tốt cho đổi mới sáng tạo.
+Doanh nghiệp có quy mô lớn hay nhỏ thì công nghệ vẫn mang đến những lợi thiết thực, giúp tạo ra lợi nhuận cũng như đáp ứng được các yêu cầu của khách hàng. Cơ sở hạ tầng công nghệ ảnh hưởng đến hiệu quả công việc, văn hóa và các mối quan hệ của một doanh nghiệp. Điều này cũng ảnh hưởng đến vấn đề bảo mật thông tin và các lợi thế trong giao dịch.
+Uptime Tier III là bậc thứ 3 trong thang 4 bậc của Uptime Institute về xếp hạng trung tâm dữ liệu. Để đạt được tiêu chuẩn này, một hệ thống phải đảm bảo thời gian vận hành (uptime) 99,982% trở lên và thời gian ngừng hoạt động (downtime) không quá 1,6 giờ mỗi năm. Bên cạnh đó, trung tâm dữ liệu phải có khả năng dự phòng để có thể hoạt động nếu bị mất điện tới 72 giờ liên tục.
+Gia An

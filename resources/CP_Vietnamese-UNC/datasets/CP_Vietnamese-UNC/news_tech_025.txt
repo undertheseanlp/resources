@@ -1,0 +1,16 @@
+# doc_id = news_tech_025
+# url = https://dantri.com.vn/suc-manh-so/533-trieu-nguoi-dung-facebook-lo-thong-tin-ca-nhan-ban-co-nam-trong-so-do-20210406150223526.htm
+# date = 20210406
+Thông tin cá nhân của 533 triệu người dùng, bao gồm cả CEO Facebook, bị đăng tải công khai trên Internet.
+Như Dân trí đã đưa tin, 533 triệu người dùng Facebook, bao gồm cả CEO Mark Zuckerberg của mạng xã hội này, đã bị đăng tải công khai lên một diễn đàn dành cho tin tặc.
+Mặc dù Facebook cho rằng đây là những dữ liệu đã cũ, bị lấy cắp thông qua một lỗ hổng bảo mật của mạng xã hội này từ năm 2019, nhưng nhiều trang báo lớn đã kiểm tra và xác định các thông tin cá nhân như họ tên, số điện thoại, địa chỉ email… vẫn còn chính xác ở thời điểm hiện tại.
+Chuyên gia bảo mật Israel Alon Gal là người đầu tiên phát hiện ra việc thông tin cá nhân của người dùng Facebook bị đăng tải công khai lên mạng Internet. Gal cho biết những thông tin cá nhân này có thể bị tội phạm mạng lợi dụng để mạo danh, cho các mục đích lừa đảo hoặc cho các chiến dịch spam email, tin nhắn…
+"Một cơ sở dữ liệu có kích thước lớn, chứa nhiều thông tin cá nhân như số điện thoại của rất nhiều người dùng Facebook, chắc chắn sẽ dẫn đến việc những kẻ xấu lợi dụng để thực hiện các cuộc tấn công kỹ thuật số hoặc các nỗ lực hack khác", Alon Gal nhận định.
+Kiểm tra tài khoản Facebook của bạn đã bị hacker lấy cắp thông tin hay chưa
+Trong trường hợp lo ngại rằng tài khoản Facebook của mình nằm trong số 533 người dùng bị hacker lấy cắp thông tin cá nhân, người dùng có thể truy cập vào trang web https://haveibeenpwned.com/, điền địa chỉ email đăng nhập của tài khoản Facebook, sau đó nhấn nút "Pwned?". Trang web sẽ kiểm tra địa chỉ email này xem có nằm trong danh sách những email bị đánh cắp mà hacker đã từng công bố hay chưa.
+Thông báo cho thấy tài khoản email đã từng bị hacker đánh cắp thông tin đăng nhập.
+https://haveibeenpwned.com/ là trang web chuyên cập nhật cơ sở dữ liệu về những vụ tấn công mạng quy mô lớn trên toàn cầu. Nhờ vào trang web này, người dùng có thể biết được địa chỉ email của mình đã từng xuất hiện trong cơ sở dữ liệu của các vụ tấn công mạng mà hacker đã công bố hay không.
+Trang web này mới đây cũng đã cập nhật cơ sở dữ liệu về 533 triệu người dùng Facebook chịu ảnh hưởng trong vụ rò rỉ thông tin mới đây, do vậy bạn có thể kiểm tra xem liệu tài khoản Facebook của mình có nằm trong số đó hay không.
+Ngoài tài khoản Facebook, bạn cũng có thể kiểm tra các tài khoản email mình đang sử dụng đã từng bị lộ thông tin trong các vụ tấn công mạng trước đây hay chưa.
+Nếu tài khoản Facebook và email của bạn đã từng bị lộ thông tin, việc đầu tiên cần làm đó là thay đổi ngay mật khẩu của các tài khoản, sau đó kích hoạt tính năng bảo mật 2 lớp cho tài khoản Facebook và email để đảm bảo an toàn. Ngoài ra, người dùng cũng nên có thói quen thường xuyên đổi mới mật khẩu Facebook/email 6 tháng một lần và không nên sử dụng chung mật khẩu cho các tài khoản trực tuyến của mình.
+Quang Huy

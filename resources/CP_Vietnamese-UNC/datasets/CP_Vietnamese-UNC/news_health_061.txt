@@ -1,0 +1,12 @@
+# doc_id = news_health_061
+# url = https://dantri.com.vn/suc-khoe/binh-duong-cach-ly-4-nguoi-lien-quan-den-chum-ca-benh-covid-19-tinh-ha-nam-20210501053727060.htm
+# date = 20210501
+Ngành Y tế tỉnh Bình Dương đang thực hiện nghiêm công tác phòng, chống Covid-19.
+Ngày 1/5, theo thông tin từ Sở Y tế tỉnh Bình Dương, thực hiện thông báo khẩn của Bộ Y tế về các trường hợp liên quan đến chùm ca bệnh Covid-19 tại tỉnh Hà Nam, đơn vị này đã gấp rút chỉ đạo Trung tâm Kiểm soát bệnh tật tỉnh và các địa phương khẩn trương xác minh, truy tìm và phát hiện 4 trường hợp liên quan.
+Trong 4 trường hợp này có 2 người liên quan đến chuyến bay VJ133 chở bệnh nhân (BN) 2910 và 2 người liên quan đến khu cách ly cùng với BN2899.
+Cụ thể, 2 trường hợp liên quan đến chuyến bay VJ133 chở BN2910 có 1 trường hợp ở huyện Phú Giáo và 1 trường hợp ở TP Thủ Dầu Một, hiện cả 2 đang được cách ly theo dõi. Những người tiếp xúc gần với 2 trường hợp này đã được ngành y tế hướng dẫn theo dõi sức khỏe tại nhà, nơi cư trú.
+Về trường hợp liên quan tới BN2899 ở khu cách ly tập trung Khách sạn Alisia, TP. Đà Nẵng, qua rà soát, ngành y tế tỉnh xác định được 2 trường hợp (1 người ở thị xã Tân Uyên và 1 người ở huyện Phú Giáo). Cả 2 trường hợp này đã được lấy mẫu xét nghiệm và đang theo dõi cách ly tại nhà.
+Theo lãnh đạo Sở Y tế tỉnh Bình Dương, những ngày tới, ngành y tế tiếp tục điều tra, xác minh các trường hợp có liên quan đến chùm ca bệnh tại Hà Nam, người dân cần tiếp tục thực hiện nghiêm các biện pháp phòng, chống dịch theo thông điệp 5K của Bộ Y tế, không chủ quan, lơ là, nâng cao cảnh giác trước diễn biến còn phức tạp của dịch Covid-19.
+BN2910 ở phường Bình Hưng Hòa (quận Bình Tân, TP.HCM). Qua điều tra dịch tễ cho thấy, ngày 22/4, BN2910 có đi uống bia với BN2899 tại tỉnh Hà Nam, sau đó về nhà.
+Ngày 27/4, BN2910 đi chuyến bay số hiệu VJ133 số ghế 20B từ Sân bay Nội Bài đến sân bay Tân Sơn Nhất. Sau đó bệnh nhân đi taxi về nhà của người thân tại khu phố 2 (phường Bình Hưng Hòa, quận Bình Tân).
+Trung Kiên

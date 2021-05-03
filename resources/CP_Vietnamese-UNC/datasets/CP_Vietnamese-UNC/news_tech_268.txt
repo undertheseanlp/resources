@@ -1,0 +1,13 @@
+# doc_id = news_tech_268
+# url = https://dantri.com.vn/suc-manh-so/xiaomi-ra-mat-smartphone-man-hinh-gap-dau-tien-cua-hang-mi-mix-fold-20210331012139780.htm
+# date = 20210331
+Mi Mix Fold có thiết kế gập kiểu cánh bướm, tương tự nhiều mẫu smartphone màn hình gập khác đã có trên thị trường.
+Sau nhiều lần "úp mở" về mẫu smartphone màn hình gập của riêng mình, Xiaomi đã chính thức ra mắt sản phẩm thực tế, với tên gọi Mi Mix Fold. Chiếc smartphone mới của Xiaomi sở hữu thiết kế màn hình gập cánh bướm, tương tự như các mẫu smartphone màn hình gập khác đã có trên thị trường như Z Fold của Samsung hay Mate X của Huawei.
+Mi Mix Fold sở hữu 2 màn hình, với phần màn hình ngoài có kích thước 6,52-inch độ phân giải 2520x840, sử dụng công nghệ AMOLED với tần số làm tươi 90Hz. Màn hình này sẽ có chế độ luôn hiển thị, cho phép người dùng xem giờ, xem các cập nhật hay thông báo đến trên smartphone mà không cần phải mở màn hình ở bên trong. Khi mở rộng màn hình bên trong, Mi Mix Fold 2 sẽ trở thành một chiếc máy tính bảng cỡ nhỏ với màn hình 8,1-inch, độ phân giải 2480x1860, sử dụng công nghệ OLED, nhưng chỉ có tần số làm tươi 60Hz.
+Xiaomi cho biết màn hình của sản phẩm có thể chịu được tối thiểu 200.000 lần gập, tương đương với ít nhất 5 năm sử dụng.
+Mi Mix Fold với màn hình phụ ở ngoài và màn hình cỡ lớn khi được mở rộng.
+Về cấu hình bên trong, Mi Mix Fold được trang bị chip xử lý Snapdragon 888 cao cấp nhất của Qualcomm, tùy chọn bộ nhớ RAM 12 hoặc 16GB, đi kèm bộ nhớ lưu trữ 256GB hoặc 512GB, không hỗ trợ khe cắm thẻ nhớ ngoài. Sản phẩm có pin dung lượng 5.020mAh, hỗ trợ sạc nhanh 67W, cho phép sạc đầy chỉ sau 37 phút cắm sạc.
+Xiaomi Mi Mix Fold được trang bị cụm 3 camera, bao gồm camera chính 108 megapixel, camera góc rộng 13 megapixel và camera tele 8 megapixel, hỗ trợ zoom quang học 3x. Đáng chú ý, Mi Mix Fold là chiếc smartphone đầu tiên được trang bị công nghệ ống kính lỏng, sử dụng cho camera tele trên sản phẩm, mà theo Xiaomi công nghệ này sẽ cho phép camera tele lấy nét gần ở khoảng cách 3cm, hoặc zoom quang học 3x và zoom lai kỹ thuật số 30x.
+Cụm camera ở mặt lưng sản phẩm.
+Mi Mix Fold sẽ được bán ra đầu tiên tại thị trường Trung Quốc vào ngày 16/4 tới đây, với mức giá 9.999 tệ (tương đương 1.521 USD) cho tùy chọn bộ nhớ 12GB/256GB và mức giá 12.999 tệ (tương đương 1.978 USD) cho tùy chọn bộ nhớ 16GB/512GB. Hiện chưa rõ sản phẩm có được bán ra tại thị trường quốc tế hay không.
+T.ThủyTheo The Verge

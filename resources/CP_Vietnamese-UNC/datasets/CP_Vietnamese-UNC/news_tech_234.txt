@@ -1,0 +1,23 @@
+# doc_id = news_tech_234
+# url = https://dantri.com.vn/suc-manh-so/thu-thuat-toi-uu-bo-nho-ram-giup-may-tinh-hoat-dong-muot-ma-hon-20210407234518398.htm
+# date = 20210407
+Sau một thời gian dài sử dụng, máy tính thường rơi vào tình trạng ì ạch, nhất là khi chạy cùng lúc quá nhiều phần mềm hoặc chạy các phần mềm nặng (như phần mềm đồ họa xử lý ảnh, video…). Tình trạng thường gặp phải với những máy có cấu hình yếu, bộ nhớ RAM khiêm tốn.
+Nếu máy tính hoạt động quá tải trong một thời gian dài có thể dẫn đến tình trạng treo máy hoặc có thể bị khởi động lại, gây mất mát dữ liệu của người dùng.
+Trong trường hợp máy tính của bạn hoạt động ì ạch và thường xuyên gặp phải tình trạng quá tải, phần mềm với tên gọi Memory Cleaner sẽ là một giải pháp để xử lý vấn đề.
+Memory Cleaner là phần mềm nhỏ gọn và miễn phí, sẽ tự động tối ưu và giải phóng dung lượng bộ nhớ RAM trên máy tính, giúp máy tính hoạt động mượt mà và nhẹ nhàng hơn, ngay cả khi đang chạy các phần mềm nặng hay chạy đồng thời nhiều phần mềm khác nhau.
+Trong quá trình thử nghiệm thực tế cho thấy Memory Cleaner hoạt động rất hiệu quả, nhất là với những máy tính có bộ nhớ RAM khiêm tốn (từ 8GB trở xuống). Phần mềm sẽ thực sự phát huy hiệu quả và tác dụng của mình khi bộ nhớ RAM bị chiếm dụng nhiều hơn 80% tổng dung lượng.
+Ưu điểm lớn nhất của Memory Cleaner đó là rất nhỏ gọn và hoạt động nhẹ nhàng, chiếm dụng ít tài nguyên hệ thống, do vậy hoàn toàn không làm ảnh hưởng đến hiệu suất của máy tính khi cài đặt và sử dụng phần mềm này.
+Phần mềm hỗ trợ mọi phiên bản của hệ điều hành Windows, download miễn phí tại đây.
+Sau khi cài đặt, giao diện chính của Memory Cleaner sẽ tự động bật mở, cùng với đó biểu tượng của phần mềm cũng sẽ xuất hiện trên khay hệ thống của Windows.
+Giao diện chính của phần mềm khá đơn giản, trên đó hiển thị các thông tin chi tiết liên quan đến bộ nhớ RAM của máy tính, như tổng dung lượng bộ nhớ RAM, tỉ lệ RAM đang được sử dụng (so với tổng dung lượng RAM), dung lượng chiếm dụng cao nhất, thấp nhất và dung lượng RAM trung bình trong quá trình sử dụng máy tính…
+Dựa vào các thông tin do phần mềm cung cấp, người dùng sẽ biết được máy tính mình đang sử dụng có thường xuyên bị rơi vào tình trạng bộ nhớ RAM bị quá tải hay không.
+Trong trường hợp máy tính trở nên ì ạch vì các tiến trình phần mềm chiếm dụng quá nhiều RAM hoặc một phần mềm nặng đang chạy trên máy tính, khiến tỉ lệ sử dụng RAM bị tăng lên cao (hơn 80% tổng dung lượng), bạn có thể nhấn vào 1 trong 2 nút bấm chức năng mà Memory Cleaner cung cấp:
+- Trim Processes' Working Set: tính năng này sẽ tự động tối ưu để hạ mức dung lượng RAM mà các tiến trình phần mềm đang chạy trên Windows chiếm dụng, điều này sẽ giúp Windows lấy lại đủ dung lượng bộ nhớ cần thiết để hoạt động mượt mà, tránh trường hợp hệ thống bị ì ạch hoặc bị treo.
+- Clear System Cache: với chức năng này phần mềm sẽ tự động giải phóng bộ nhớ đệm của hệ thống, rồi từ đó sử dụng bộ nhớ đệm này để giảm tải cho dung lượng RAM, giúp "hạ nhiệt" bộ nhớ của hệ thống để giúp Windows bớt ì ạch hơn.
+Bạn có thể sử dụng lần lượt một trong 2 chức năng để kiểm tra độ hiệu quả của từng chức năng, hoặc có thể sử dụng đồng thời cả 2 chức năng này để có được hiệu quả cao nhất.
+Đặc biệt, phần mềm còn cung cấp chức năng cho phép thực hiện quá trình tối ưu bộ nhớ RAM một cách tự động mỗi khi dung lượng RAM bị chiếm dụng quá nhiều, khiến Windows trở nên quá tải. Để kích hoạt chức năng tối ưu tự động, bạn chọn tab Options trên giao diện chính của phần mềm.
+Tại đây, bạn đánh dấu vào 2 tùy chọn đầu tiên để phần mềm tự động tối ưu và giải phóng bộ nhớ RAM trong trường hợp bộ nhớ bị chiếm dụng lớn hơn 80% so với tổng dung lượng RAM hiện có trên máy tính.
+Trong trường hợp bạn muốn thực hiện quá trình giải phóng RAM cứ mỗi 5 phút/lần thì đánh dấu vào 2 tùy chọn giữa, tuy nhiên chức năng này không thực sự cần thiết.
+Trong trường hợp bạn muốn Memory Cleaner khởi động cùng Windows và luôn thực hiện chức năng tối ưu bộ nhớ RAM của mình, bạn đánh dấu vào tùy chọn "Start Memory Cleaner with Windows".
+Nhìn chung, Memory Cleaner hoạt động thực sự hiệu quả, đặc biệt trên các máy tính có cấu hình yếu và bộ nhớ RAM khiêm tốn (dung lượng bộ nhớ RAM từ 8GB trở xuống).
+Quang Huy

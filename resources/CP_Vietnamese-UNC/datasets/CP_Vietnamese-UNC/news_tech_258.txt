@@ -1,0 +1,9 @@
+# doc_id = news_tech_258
+# url = https://dantri.com.vn/suc-manh-so/viettel-la-mang-di-dong-co-toc-do-vuot-troi-tai-cac-khu-vuc-do-kiem-20210406142421453.htm
+# date = 20210406
+Cụ thể, trong quý 1/2021, tốc độ 4G của Viettel đạt 62,92 Mbps tại Thái Nguyên và 52,35 Mbps tại Bắc Ninh, vượt trội so với các nhà mạng khác. Đối với mạng 3G đo kiểm tại 2 tỉnh Tây Ninh và Bình Phước, Viettel đạt tốc độ trung bình 20,51 Mbps, cao hơn các mạng khác. 
+Ở các chỉ tiêu khác như độ sẵn sàng của mạng vô tuyến, thời gian trễ trung bình truy nhập dịch vụ, tỷ lệ truyền tải bị rơi, tỷ lệ cuộc gọi được thiết lập thành công,… Viettel cũng được đạt kết quả chất lượng tốt hơn yêu cầu của Bộ TT&TT.
+Trong quý 1/2021, Viettel tiếp tục ghi nhận sự tăng trưởng về nhu cầu sử dụng data trên toàn quốc. Đặc biệt, lưu lượng data 4G tăng gần 10% so với quý 4/2020 và cao hơn quý 1/2020 tới 40%.
+Để đảm bảo chất lượng phục vụ khách hàng, Viettel đã tăng cường hạ tầng mạng lưới với hơn 800 trạm BTS mới và áp dụng nhiều giải pháp mới như tự động hóa giám sát, tối ưu trải nghiệm đến từng khách hàng; thử nghiệm công nghệ 4G TDD trên băng tần 2300MHz, tích hợp và truyền dữ liệu đồng thời trên nhiều tần số để mở rộng năng lực cho các trạm ở khu vực đông người, giúp tăng tốc độ cho khách hàng Viettel.
+Viettel hiện là mạng 4G lớn nhất Việt Nam với gần 42.000 trạm BTS và 33 triệu thuê bao. Năm 2021, Viettel sẽ đầu tư thêm khoảng 4.600 trạm 4G mới. Bên cạnh phát triển mạng 5G và IoT, Viettel vẫn coi 4G là công nghệ chủ đạo trong vòng 3 năm tới.
+Thế Anh

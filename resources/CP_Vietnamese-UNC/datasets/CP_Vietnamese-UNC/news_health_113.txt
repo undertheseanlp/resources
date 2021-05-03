@@ -1,0 +1,4 @@
+# doc_id = news_health_113
+# url = https://dantri.com.vn/suc-khoe/dung-de-viem-nao-nhat-ban-can-tro-su-phat-trien-cua-con-20210427200944917.htm
+# date = 20210427
+Trường Thịnh

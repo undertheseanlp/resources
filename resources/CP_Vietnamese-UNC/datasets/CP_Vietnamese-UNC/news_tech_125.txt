@@ -1,0 +1,19 @@
+# doc_id = news_tech_125
+# url = https://dantri.com.vn/suc-manh-so/huawei-neu-9-thach-thuc-cong-nghe-the-gioi-phai-doi-mat-20210413100302031.htm
+# date = 20210413
+ Hội nghị thượng đỉnh năm nay với chủ đề "Xây dựng một thế giới thông minh, được kết nối đầy đủ", diễn ra từ ngày 12-14/4, với một số phiên họp đột phá, nơi các chuyên gia trong ngành từ khắp nơi trên thế giới có thể chia sẻ những hiểu biết độc đáo của họ và thảo luận về các xu hướng trong tương lai.
+Eric Xu, Chủ tịch luân phiên của Huawei, đã chia sẻ về kết quả hoạt động kinh doanh của công ty trong năm 2020 cũng như 5 sáng kiến chiến lược trong tương lai.
+Theo ông Xu, các sáng kiến chiến lược của Huawei bao gồm: Tối ưu hóa danh mục đầu tư để tăng khả năng phục hồi kinh doanh; Tối đa hóa giá trị 5G và xác định 5.5G với các công ty cùng ngành để thúc đẩy sự phát triển của truyền thông di động; Cung cấp trải nghiệm liền mạch, lấy người dùng làm trung tâm và trải nghiệm thông minh trên tất cả các tình huống của người dùng; Đổi mới để giảm tiêu thụ năng lượng vì một thế giới carbon thấp và giải quyết các thách thức về tính liên tục của nguồn cung cấp.
+Trong bài phát biểu, Giám đốc Hội đồng quản trị kiêm Chủ tịch Viện Nghiên cứu Chiến lược của Huawei, William Xu chia sẻ về những thách thức sẽ ảnh hưởng đến phúc lợi xã hội trong thập kỷ tới, bao gồm cả dân số già và mức tiêu thụ năng lượng ngày càng cao. Ông đã theo đuổi triển vọng của Huawei về thế giới thông minh năm 2030, bao gồm 9 thách thức công nghệ và các hướng đề xuất cho các nỗ lực nghiên cứu. Bao gồm:
+- Định nghĩa 5.5G để hỗ trợ hàng trăm tỷ loại kết nối khác nhau.
+- Phát triển quang học kích thước nano để tăng khả năng sợi quang theo cấp số nhân.
+- Tối ưu hóa các giao thức mạng để kết nối mọi thứ.
+- Cung cấp sức mạnh tính toán tiên tiến đủ mạnh để hỗ trợ thế giới thông minh.
+- Trích xuất kiến thức từ một lượng lớn dữ liệu để thúc đẩy những đột phá trong AI công nghiệp.
+- Vượt xa kiến trúc von Neumann cho các hệ thống lưu trữ dày đặc hơn 100 lần.
+- Kết hợp tính toán và cảm biến để có trải nghiệm siêu thực tế, đa phương thức.
+- Giúp mọi người chủ động hơn trong việc quản lý sức khỏe của mình thông qua việc tự theo dõi liên tục các dấu hiệu sinh tồn của cá nhân.
+- Xây dựng một Internet Năng lượng thông minh để tạo ra, lưu trữ và tiêu thụ điện xanh hơn.
+"Để thúc đẩy những nỗ lực này, chúng tôi hy vọng sẽ hợp tác với các ngành, học viện, viện nghiên cứu và các nhà phát triển ứng dụng khác nhau để giải quyết những thách thức mà nhân loại phải đối mặt. Với tầm nhìn chung, tất cả chúng ta đều có vai trò trong việc khám phá cách làm cho các kết nối mạnh mẽ hơn, tính toán nhanh hơn và năng lượng xanh hơn. Cùng nhau, chúng ta hãy tiến tới một Thế giới Thông minh vào năm 2030", William Xu nói.
+Hội nghị thượng đỉnh các nhà phân tích toàn cầu của Huawei lần đầu tiên diễn ra vào năm 2004 và đã được tổ chức thường niên kể từ đó.
+Thế Anh

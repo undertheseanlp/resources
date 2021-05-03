@@ -1,0 +1,13 @@
+# doc_id = news_tech_207
+# url = https://dantri.com.vn/suc-manh-so/smartphone-tam-trung-sap-duoc-so-huu-loat-tinh-nang-nhu-san-pham-cao-cap-20210326121904052.htm
+# date = 20210326
+Chip Snapdragon 780G hứa hẹn sẽ mang nhiều tính năng cao cấp lên các mẫu smartphone tầm trung.
+Qualcomm vừa bổ sung thêm thành viên mới cho dòng chip Snapdragon 7 Series của hãng, vốn dành cho các mẫu smartphone tầm trung và cận cao cấp. Phiên bản Snapdragon 780G được xem là bản nâng cấp của Snapdragon 765G được ra mắt vào năm ngoái, mà Qualcomm cam kết sẽ giúp mang đến smartphone phân khúc tầm trung nhiều tính năng mới và nổi bật như trên các mẫu sản phẩm cao cấp.
+Một trong những tính năng mới và nổi bật của chip Snapdragon 780G đó là cho phép hỗ trợ đồng thời 3 bộ xử lý tín hiệu hình ảnh, đồng nghĩa với việc có thể sử dụng 3 camera trên smartphone cùng một lúc, cho phép trang bị các tính năng như hỗ trợ zoom tốt hơn hoặc chụp ảnh cùng lúc bằng nhiều camera để có được một hình ảnh độc đáo… đây là tính năng mà Qualcomm giới thiệu lần đầu tiên trên thế hệ chip Snapdragon 888 cao cấp ra mắt cách đây không lâu.
+Cũng giống chip Snapdragon 888, Snapdragon 780G được tích hợp engine AI thế hệ thứ 6 của Qualcomm, chạy trên bộ xử lý Hexagon 7770 mới, có thể thực hiện 12 nghìn tỷ phép tính động mỗi giây, gấp đôi so với phiên bản tiền nhiệm. Điều này giúp cải thiện khả năng xử lý các tính năng đòi hỏi trí tuệ nhân tạo trên smartphone.
+Chip Snapdragon 780G cũng sẽ hỗ trợ các chuẩn kết nối mới, bao gồm Bluetooth 5.2 và WiFi 6, tích hợp modem X53 5G để hỗ trợ kết nối mạng 5G, cho tốc độ kết nối tối đa 3,3Gbps.
+Về mặt cấu hình, chip Snapdragon 780G được trang bị lõi Kryo 670 với xung nhịp tối đa 2.4GHz, vi xử lý đồ họa Adreno 642 và hỗ trợ bộ nhớ RAM tối đa 16GB, chuẩn DDR4. Smartphone trang bị chip Snapdragon 780G sẽ hỗ trợ màn hình độ phân giải tối đa Full HD+, với tần số làm tươi tối đa 144Hz.
+Qualcomm cho biết hiệu suất của chip Snapdragon 780G sẽ nhanh hơn 40% và khả năng xử lý đồ họa sẽ nhanh hơn 50% so với thế hệ chip Snapdragon 765G trước đây.
+Mang mã "G", chip Snapdragon 780G sẽ được tối ưu hóa, giúp tăng khả năng xử lý khi chơi game, ngoài ra còn được tích hợp tính năng Snapdragon Elite Gaming, giúp giảm độ trễ, cải thiện màu sắc, chi tiết đồ họa và mang lại trải nghiệm tốt hơn cho game thủ.
+Qualcomm cho biết những mẫu smartphone đầu tiên sử dụng chip Snapdragon 780G sẽ có mặt trên thị trường vào nửa cuối năm nay, với mức giá "mềm" và có thể chấp nhận được.
+T.ThủyTheo The Verge

@@ -1,0 +1,9 @@
+# doc_id = news_tech_133
+# url = https://dantri.com.vn/suc-manh-so/i-phone-14-se-co-camera-48-mp-quay-video-8-k-20210415001353263.htm
+# date = 20210415
+Dẫn nguồn tin từ nhà phân tích Ming-Chi Kuo, trang MacRumors cho biết Apple sẽ có nhiều nâng cấp về hệ thống camera trên thế hệ iPhone 2022 (tạm gọi là iPhone 14). Theo đó, các phiên bản Pro sẽ được trang bị camera chính với độ phân giải 48 MP.
+Theo Kuo, Apple sẽ sử dụng cảm biến 1/1,3 inch và có kích thước điểm ảnh 1,25 μm. Con số này nhỏ hơn kích thước 1,7 μm trên mẫu iPhone 12 Pro Max. Ngoài ra, với độ phân giải cao hơn, những chiếc iPhone mới này cũng được kỳ vọng sẽ hỗ trợ quay video độ phân giải 8K.
+Một thông tin khác mà Kuo tiết lộ là Apple sẽ sớm "khai tử" dòng sản phẩm iPhone Mini. Trang The Verge nhận định rằng doanh số iPhone 12 Mini không đạt được kỳ vọng của Apple. Hiện tại, gã khổng lồ công nghệ Mỹ đã buộc phải cắt giảm đơn hàng sản xuất của mẫu máy này và chuyển qua sản xuất phiên bản Pro.
+Chính vì thế, Apple sẽ loại bỏ phiên bản Mini trong năm tới. 4 mẫu iPhone 2022 sẽ bao gồm 2 phiên bản với màn hình kích thước 6,1 inch và 2 phiên bản màn hình 6,7 inch.
+Chưa dừng lại ở đó, Ming-Chi Kuo cũng cho biết thêm rằng iPhone 2023 sẽ được trang bị hệ thống Face ID ẩn dưới màn hình. Trước đó, Kuo từng tiết lộ Apple sẽ thay thế phần khuyết đỉnh bằng camera đục lỗ trên một số mẫu iPhone vào năm tới. Ngoài ra, cảm biến quét vân tay dưới màn hình cũng sẽ xuất hiện trên thế hệ iPhone 2023.
+Thế Anh

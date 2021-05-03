@@ -1,0 +1,29 @@
+# doc_id = news_tech_269
+# url = https://dantri.com.vn/suc-manh-so/xiaomi-ra-mat-smartphone-voi-thiet-ke-2-man-hinh-doc-dao-mi-11-ultra-20210330112417715.htm
+# date = 20210330
+Sau khi ra mắt Mi 11 hồi tháng 1 vừa qua, Xiaomi vừa tiếp tục trình làng thêm một biến thể mới của sản phẩm, với tên gọi Mi 11 Ultra. Điểm nhấn đáng chú ý nhất của sản phẩm đó là sự xuất hiện của màn hình phụ, được tích hợp ngay cạnh camera ở lưng máy, cho phép người dùng có thể sử dụng camera sau để chụp ảnh selfie, thay vì phải dùng camera ở mặt trước.
+Mi 11 Ultra nổi bật với màn hình phụ ở lưng máy.
+Màn hình phụ này có kích thước 1,1 inch, sử dụng công nghệ OLED với độ phân giải 294 x 126. Màn hình có tính năng tiết kiệm năng lượng để không làm ảnh hưởng đến thời lượng sử dụng pin trên sản phẩm. Ngoài ra, Xiaomi cho biết màn hình sẽ có chế độ luôn hiển thị (always-on), để người dùng xem giờ, các thông báo đến, thông tin cập nhật… ngay cả khi úp mặt smartphone xuống bàn.
+Ngoài điểm nhấn về thiết kế 2 màn hình, Xiaomi 11 Ultra còn được trang bị một cấu hình mạnh mẽ, với màn hình 6,8 inch độ phân giải 2K+, sử dụng công nghệ OLED, tần số làm tươi 120Hz. Bên trong sản phẩm là bộ vi xử lý Snapdragon 888 cao cấp nhất của Qualcomm, tùy chọn bộ nhớ RAM 8/12GB, đi kèm bộ nhớ lưu trữ 256/512GB, không hỗ trợ khe cắm thẻ nhớ ngoài.
+Mặt sau của sản phẩm được trang bị cụm 3 camera, bao gồm camera chính 50 megapixel, camera góc rộng 48 megapixel và camera tele 48 megapixel, hỗ trợ zoom quang học 5x. Mặt trước là camera 20 megapixel, được thiết kế dạng "đục lỗ" đặt ngay trong màn hình.
+Màn hình phụ có thể dùng để xem thông tin hoặc sử dụng để chụp ảnh selfie bằng camera sau.
+Xiaomi Mi 11 Ultra được trang bị thỏi pin dung lượng 5.000mAh, hỗ trợ sạc có dây và không dây đều 67W, giúp sạc đầy pin chỉ sau 39 phút. Sản phẩm hỗ trợ kết nối mạng 5G. Khác với phiên bản Mi 11, Mi 11 Ultra đã được Xiaomi trang bị tính năng chống nước và bụi theo chuẩn IP68, cho phép ngâm nước ở độ sâu 1,5m trong thời gian 30 phút.
+Mi 11 Ultra sẽ được bán ra đầu tiên tại thị trường Trung Quốc với mức giá khởi điểm 5.999 tệ (tương đương 900 USD) và tại châu Âu giá 1.199 Euro. Hiện chưa rõ thời điểm sản phẩm sẽ bán ra tại các thị trường khác.
+Xiaomi Mi 11i
+Ngoài Mi 11 Ultra, Xiaomi cũng giới thiệu thêm một phiên bản Mi 11i giá rẻ.
+Về cấu hình cơ bản, Mi 11i không kém nhiều so với Mi 11 Ultra, cũng được trang bị chip Snapdragon 888 cao cấp của Qualcomm, nhưng chỉ có bộ nhớ RAM 8GB (không có tùy chọn 12GB), đi kèm bộ nhớ lưu trữ 128GB và 256GB.
+Sản phẩm được trang bị màn hình 6,67 inch độ phân giải Full HD+ (2400x1080), sử dụng công nghệ AMOLED với tần số làm tươi 120Hz. Mặt sau cũng là cụm 3 camera, với camera chính 108 megapixel, camera góc rộng 8 megapixel và camera 5 megapixel để chụp ảnh macro. Mặt trước là camera 20 megapixel.
+Mi 11i dùng thỏi pin dung lượng 4.520mAh, hỗ trợ sạc nhanh 30W. Sản phẩm được trang bị cảm biến vân tay ở cạnh bên, tích hợp vào nút nguồn, thay vì được đặt vào màn hình.
+Điểm nhấn đáng chú ý nhất của Mi 11i là mức giá "mềm" so với cấu hình, khi sản phẩm sẽ được bán ra đầu tiên tại thị trường châu Âu với mức giá 649 Euro.
+Xiaomi Mi 11 Lite
+Xiaomi Mi 11 Lite cũng là một phiên bản giá rẻ thuộc dòng smartphone Mi 11. So với các phiên bản khác, Mi 11 Lite có cấu hình thấp hơn, sử dụng chip xử lý Snapdragon 780G (đối với phiên bản hỗ trợ mạng 5G) hoặc Snapdragon 732 (đối với phiên bản chỉ hỗ trợ mạng 4G), bộ nhớ RAM 8GB, đi kèm tùy chọn lưu trữ 128GB hoặc 256GB (phiên bản mạng 4G có thêm tùy chọn bộ nhớ 6/64GB).
+Sản phẩm có màn hình 6,55 inch độ phân giải Full HD+, sử dụng công nghệ AMOLED với tần số làm tươi 90Hz.
+Mặt lưng là cụm 3 camera, bao gồm camera chính 64 megapixel, camera góc rộng 8 megapixel và camera 5 megapixel để chụp ảnh macro. Mặt trước là camera 20 megapixel dạng đục lỗ.
+Mi 11 Lite được trang bị thỏi pin dung lượng 4.250mAh, hỗ trợ sạc nhanh 33W. Sản phẩm sẽ bán ra đầu tiên tại thị trường Trung Quốc vào ngày 4/4 tới đây, với mức giá khởi điểm 2.299 tệ (tương đương 350 USD) cho tùy chọn bộ nhớ 8/128GB. Phiên bản Mi11 Lite (4G) với bộ nhớ 6/64GB sẽ được bán ra với giá 299 Euro tại thị trường châu Âu.
+Vòng đeo tay thông minh Mi Band 6
+Ngoài loạt smartphone Mi 11, Xiaomi cũng đã ra mắt vòng đeo tay thông minh Mi Band 6 mới nhất của hãng, với nhiều thay đổi cả về thiết kế lẫn tính năng.
+So với phiên bản Mi Band 5 ra mắt vào năm ngoái, Mi Band 6 được thiết kế với màn hình tràn viền, bo tròn cả ở 4 cạnh, với kích thước 1,56 inch, sử dụng công nghệ AMOLED. Sản phẩm được trang bị tính năng theo dõi nhịp tim suốt 24 giờ và quản lý mức Oxy trong máu SpO2, giúp quản lý chất lượng giấc ngủ tốt hơn.
+Mi Band 6 có 30 chế độ theo dõi hoạt động khác nhau và tự động phát hiện 6 hoạt động tập thể dục khác nhau để theo dõi quá trình vận động của người dùng. Sản phẩm được trang bị tính năng chống nước với độ sâu lên đến 50m, giúp người dùng thoải mái mang sản phẩm để bơi lội hoặc vận động dưới nước.
+Về pin, Mi Band 6 cho thời lượng pin sử dụng 14 ngày, nhiều hơn thời lượng pin sử dụng 10 ngày của Mi Band 5.
+Sản phẩm sẽ được bán ra đầu tiên tại thị trường Trung Quốc, với mức giá chưa được tiết lộ.
+T.ThủyTheo PA/GSMArena

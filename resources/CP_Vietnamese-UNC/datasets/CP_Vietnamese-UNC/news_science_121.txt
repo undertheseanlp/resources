@@ -1,0 +1,15 @@
+# doc_id = news_science_121
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/kim-cuong-luc-giac-nhan-tao-co-the-cung-hon-kim-cuong-tu-nhien-20210402060612968.htm
+# date = 20210402
+Các nhà khoa học từ Đại học Bang Washington đã tạo ra những viên kim cương lục giác đủ lớn để đo độ cứng của chúng bằng sóng âm.
+"Kim cương là một vật liệu rất độc đáo. Nó không chỉ là loại mạnh nhất mà còn có đặc tính quang học tuyệt đẹp và độ dẫn nhiệt rất cao. Mới đây, chúng tôi đã tạo ra kim cương nhân tạo dạng lục giác có đặc điểm cứng hơn và mạnh hơn đáng kể so với kim cương thông thường", tác giả nghiên cứu Yogendra Gupta thuộc Đại học Bang Washington cho biết.
+Các nhà nghiên cứu từ lâu đã muốn tạo ra một loại vật liệu mạnh hơn kim cương tự nhiên, có thể có nhiều ứng dụng khác nhau trong công nghiệp. Trong khi nhiều người đưa ra giả thuyết rằng kim cương lục giác sẽ mạnh hơn, nghiên cứu của Đại học Bang Washington đã cung cấp bằng chứng thực nghiệm đầu tiên cho thấy quan điểm này hoàn toàn có thể thực hiện được.
+Tác giả chính Travis Volz là người đã thực hiện nghiên cứu của mình tại Đại học Bang Washington để tạo ra kim cương lục giác từ than chì.
+Travis Volz và Gupta sử dụng thuốc súng và khí nén để đẩy đĩa graphite nhỏ về kích thước của một đồng xu với tốc độ khoảng hơn 24.000 km/giờ vào một vật liệu trong suốt. Sự va chạm đã tạo ra sóng xung kích trong đĩa và rất nhanh chóng biến chúng thành những viên kim cương lục giác.
+Ngay sau khi va chạm, các nhà nghiên cứu đã tạo ra một sóng âm thanh nhỏ và sử dụng tia laser để đo chuyển động của nó qua viên kim cương. Âm thanh di chuyển nhanh hơn qua vật liệu cứng hơn. Trong các viên kim cương lục giác do phòng thí nghiệm tạo ra, nó cũng di chuyển nhanh hơn.
+Mỗi quá trình xảy ra trong vài phần tỷ giây hoặc nano giây, nhưng các nhà nghiên cứu đã có thể thực hiện các phép đo độ cứng trước khi va chạm vận tốc cao phá hủy viên kim cương.
+Nếu khoa học tiến bộ đến mức có thể tạo ra và phục hồi những viên kim cương lục giác trong phòng thí nghiệm, chúng có thể có nhiều ứng dụng.
+Ví dụ, kim cương sẽ được sử dụng trong một thời gian dài trong các mũi khoan. Vì phát hiện ra rằng kim cương lục giác có thể cứng hơn kim cương khối trong tự nhiên nên nó có thể là một lựa chọn thay thế vượt trội cho gia công, khoan hoặc bất kỳ loại ứng dụng nào mà kim cương được sử dụng.
+Mặc dù những lợi thế công nghiệp là rõ ràng, Gupta cho biết một ngày nào đó kim cương lục giác trong phòng thí nghiệm tạo ra vẫn có thể được sử dụng trên nhẫn đính hôn. Hiện tại, kim cương được chế tạo trong phòng thí nghiệm có giá trị thấp hơn so với các loại kim cương tự nhiên nhưng kim cương lục giác có thể sẽ mới lạ hơn.
+Trang Phạm
+Theo Phys

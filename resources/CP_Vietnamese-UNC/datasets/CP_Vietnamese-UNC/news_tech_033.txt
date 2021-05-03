@@ -1,0 +1,13 @@
+# doc_id = news_tech_033
+# url = https://dantri.com.vn/suc-manh-so/apple-bi-kien-vi-i-pad-phat-no-gay-chay-nha-20210329113602779.htm
+# date = 20210329
+Một chiếc iPad bị phát nổ do lỗi pin vào năm 2019 (không liên quan đến vụ kiện trong bài viết).
+Vụ hỏa hoạn xảy ra với căn hộ của Michael Macaluso, sống tại thị trấn Milford (bang Pennsylvania, Mỹ) vào năm ngoái. Sau đó, Allstate Insurance, công ty mà Macaluso mua bảo hiểm cho tài sản của mình, đã phải trả cho ông này 142.000 USD để khắc phục những thiệt hại của vụ cháy.
+Allstate Insurance cũng đã tiến hành điều tra nguyên nhân gây ra vụ cháy và xác định chiếc iPad của Macaluso là "thủ phạm" của vụ việc, khi chiếc máy tính bảng đã phát nổ và dẫn đến hỏa hoạn cho cả căn nhà.
+Mới đây, công ty bảo hiểm này đã nộp đơn kiện Apple lên tòa án quận Philadelphia (bang Pennsylvania), với cáo buộc Apple bán máy tính bảng bị lỗi. Trong đơn kiện, Allstate Insurance khẳng định ông Michael Macaluso không hề thay đổi linh kiện hoặc sử dụng iPad sai cách, nên cho rằng nguyên nhân khiến chiếc iPad phát nổ bắt nguồn từ phía nhà sản xuất.
+Allstate Insurance yêu cầu Apple phải bồi thường toàn bộ số tiền mà công ty này đã phải chi trả cho khách hàng của mình sau vụ hỏa hoạn.
+Hiện Apple vẫn chưa đưa ra bình luận gì về vụ kiện nhằm vào mình.
+Vụ kiện xuất hiện chỉ ít ngày sau khi một thiếu nữ 17 tuổi người Anh đã bị bỏng mặt vì chiếc iPhone đang cắm sạc bất ngờ phát nổ và bốc cháy. May mắn ngọn lửa đã kịp thời được dập tắt trước khi bùng lên thành một trận hỏa hoạn.
+Trước đó, vào năm 2019, Apple đối mặt với một vụ kiện khác, khi một chiếc iPad phát nổ vào tháng 2/2017, gây ra vụ hỏa hoạn khiến cho Julia Meo, một cư dân sống tại bang New Jersey, thiệt mạng. Hiện vụ kiện này vẫn chưa được giải quyết.
+Trên thực tế, việc các thiết bị di động sử dụng pin lithium-ion cháy, nổ đã từng nhiều lần được ghi nhận. Pin lithium-ion bị đánh giá là kém ổn định và dễ cháy nếu bị hư hại hoặc bị rò rỉ. Hiện các hãng công nghệ đang nghiên cứu những loại pin mới để thay thế cho pin lithium-ion trong tương lai.
+T.ThủyTheo T.R

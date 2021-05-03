@@ -1,0 +1,13 @@
+# doc_id = news_science_156
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/nguy-co-tiem-an-khi-su-dung-nha-ve-sinh-cong-cong-20210423064710987.htm
+# date = 20210423
+Mầm bệnh có thể ẩn náu trong nước đọng, nước tiểu, phân và chất nôn. Đây là những "cư dân" thường trú ở những nơi như nhà vệ sinh công cộng. Các mô hình nghiên cứu trước đây đã chỉ ra rằng việc xả nước có thể đưa vi trùng vào không khí xung quanh vài mét dễ dàng hơn.
+Các nhà nghiên cứu cho rằng trong các mối nguy cơ có thể bao gồm Ebola, norovirus gây ngộ độc thực phẩm và thậm chí cả COVID-19.
+Nhóm nghiên cứu đã thiết lập một máy đếm hạt được đặt ở nhiều độ cao khác nhau bên cạnh nhà vệ sinh và bồn tiểu trong một nhà vệ sinh công cộng. Mức độ phân tán khí xung quanh sẽ được đo trước và sau khi thí nghiệm.
+"Sau khoảng 3 giờ thử nghiệm với hơn 100 lần xả, chúng tôi nhận thấy mức độ aerosol đo được trong môi trường xung quanh tăng lên đáng kể với tổng số giọt được tạo ra trong mỗi lần thử nghiệm xả lên đến hàng chục nghìn", Siddhartha Verma, giáo sư kỹ thuật cơ khí từ Đại học Florida Atlantic cho biết.
+Aerosol có thể bắn lên cao 109 cm so với bồn cầu, cao tới 69 cm so với bồn tiểu trong suốt quá trình thí nghiệm và có thể tồn tại trong khoảng thời gian 20 giây.
+Các nhà nghiên cứu cũng phát hiện có sự gia tăng 69,5% đối với các hạt có kích thước từ 0,3 đến 0,5 micromet, tăng 209% đối với các hạt có kích thước 0,5 đến 1 micromet và tăng 50% đối với các hạt có kích thước từ 1 đến 3 micromet sau khi xả nước.
+Áp lực nước hay thiết kế của bồn cầu liên quan đến việc xả nước đều có thể có ảnh hưởng. Các nhà nghiên cứu cho biết, việc đóng nắp bồn cầu (nếu có) có thể giúp ích, mặc dù không nhiều vì aerosol vẫn có thể thoát ra ngoài qua các khe hở.
+Verma cho biết: "Cả bồn cầu và bồn tiểu đều tạo ra một lượng lớn các giọt có kích thước nhỏ hơn 3 micromet, gây ra nguy cơ lây truyền đáng kể nếu chúng chứa các vi sinh vật lây nhiễm. Cũng bởi do có kích thước nhỏ, những giọt nước này có thể lơ lửng trong một thời gian dài trong không khí".
+Trong thời điểm đại dịch Covid-19 vẫn đang hoành hành, tiềm ẩn nhiều nguy cơ, một nguyên nhân đặc biệt đáng lo ngại nữa đó là các phòng vệ sinh công cộng thường nhỏ, thông gió kém và có quá nhiều người sử dụng. Sự kết hợp mà chúng ta biết sẽ làm tăng nguy cơ lây truyền SARS-CoV-2. Mặc dù chưa có trường hợp nào được xác nhận lây nhiễm COVID-19 bị bắt từ nhà vệ sinh, nhưng nguy cơ về mặt lý thuyết là có.
+Trang Phạm

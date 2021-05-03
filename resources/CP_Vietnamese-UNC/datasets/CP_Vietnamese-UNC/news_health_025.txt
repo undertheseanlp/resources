@@ -1,0 +1,20 @@
+# doc_id = news_health_025
+# url = https://dantri.com.vn/suc-khoe/2-ba-chau-mac-covid-19-bo-y-te-de-nghi-hung-yen-truy-vet-than-toc-f-1-f-2-20210501054152374.htm
+# date = 20210501
+Chiều 30/4, Thứ trưởng Bộ Y tế Đỗ Xuân Tuyên đã có buổi làm việc với UBND tỉnh Hưng Yên. Đến nay tỉnh này ghi nhận 2 ca Covid-19 (BN2912 và BN2913), là F1 của bệnh nhân ở Hà Nam. Đây là hai bà cháu, ở xã Tiên Tiến, huyện Phù Cừ, tỉnh Hưng Yên. Huyện Phù Cừ đã lập tức tiến hành phong tỏa, phun khử khuẩn toàn bộ thôn Hoàng Xá.
+Bà Nguyễn Thị Anh, Giám đốc Sở Y tế tỉnh Hưng Yên cho biết, hiện tỉnh tiếp tục truy vết các trường hợp F1, F2 liên quan đến 2 ca bệnh. Đến nay đã truy vết được 34 F1, đã lấy mẫu xét nghiệm toàn bộ (trong đó có 2 ca dương tính đã công bố, 15 mẫu âm tính lần 1, còn lại đang chờ kết quả) và 145 trường hợp F2.
+Tất cả các F1 đã được chuyển cách ly tại cơ sở cách ly tập trung của huyện Phù Cừ (Trường mầm non xã Quang Hưng), các trường hợp F2 cách ly tại nhà.
+Cũng theo Giám đốc Sở Y tế, hiện tại, Hưng Yên có 4 cơ sở xét nghiệm SARS-CoV-2, năng lực xét nghiệm khoảng 600 mẫu/ngày. Toàn tỉnh có 30 khu cách ly, khả năng thu dung khoảng 5.000 người.
+Thứ trưởng Bộ Y tế Đỗ xuân Tuyên làm việc với UBND tỉnh Hưng Yên chiều 30/4.
+Phát biểu chỉ đạo tại buổi làm việc, Thứ trưởng Bộ Y tế nhấn mạnh, tình hình dịch bệnh Covid-19 hiện đang diễn biến phức tạp, nguy cơ bùng phát dịch cao. Trong nước đã ghi nhận các ca bệnh lây nhiễm và đều có liên quan đến bệnh nhân Covid-19 ở Hà Nam (BN2899).
+Vì thế, Thứ trưởng đề nghị tỉnh cần tiếp tục khoanh vùng nhanh chóng, truy vết, xét nghiệm thần tốc. Tất cả các F1 thực hiện xét nghiệm đơn mẫu.
+"Hưng Yên phải tiếp tục truy vết, xét nghiệm thần tốc để nhanh chóng khoanh vùng, cách ly những trường hợp liên quan đến bệnh nhân Covid-19, không để dịch lan rộng...", Thứ trưởng Tuyên nhấn mạnh.
+Về điều trị, tỉnh cần thực hiện theo phương châm 4 tại chỗ, Hưng Yên phải đảm bảo năng lực điều trị cho ít nhất 300 bệnh nhân Covid-19. Trên các cơ sở hiện có, tỉnh nghiên cứu thành lập bệnh viện dã chiến để đáp ứng việc thu dung, điều trị bệnh nhân.
+Hưng Yên đã phong tỏa thôn Hoàng Xá, nơi có 2 ca mắc Covid-19.
+Thứ trưởng cũng lưu ý tỉnh phát động phong trào toàn dân cảnh giác phát hiện các trường hợp nhập cảnh trái phép; giám sát chặt chẽ các gia đình có người thân đi học tập, làm việc tại nước ngoài, nghiêm túc thực hiện các biện pháp phòng chống dịch. Bên cạnh đó rà soát việc thực hiện các biện pháp phòng chống dịch trong cộng đồng, đặc biệt trong bối cảnh sắp diễn ra bầu cử sắp tới; các kỳ thi tốt nghiệp, các hoạt động văn hóa thể thao du lịch, lễ hội...
+Sáng 1/5, Việt Nam không thêm ca Covid-19, dịch vẫn nóng tại châu Á
+Đến cuối giờ chiều ngày 30/4, thế giới ghi nhận hơn 151,2 triệu ca nhiễm, trong đó có hơn 3,1 triệu trường hợp tử vong.
+Tại Ấn Độ, trong ngày 29/4, nước này ghi nhận thêm 386.888 ca mắc và 3.501 ca tử vong do Covid-19, cao hơn tất cả những ngày trước đó và là ngày thứ chín liên tiếp có số ca mắc theo ngày vượt ngưỡng 300 nghìn ca.
+Tại Nhật Bản, dịch bệnh đang diễn biến phức tạp khi tổng số ca mắc mới tại nước này ở mức cao nhất trong ba tháng, với 5.795 ca. Riêng Thủ đô Tokyo ghi nhận tới 1.027 ca mắc mới, mức cao nhất trong ba tháng qua. Từ đầu tuần này, Thủ đô Tokyo và ba tỉnh phía tây của Nhật Bản đã ban bố tình trạng khẩn cấp lần thứ ba để ngăn chặn dịch bệnh lây lan. Trung bình số ca mắc mới tại Tokyo trong bảy ngày qua đã tăng lên mức 782,1 ca, tăng 14,3% so với giai đoạn bảy ngày trước đó.
+Tại Thái Lan, ghi nhận thêm 1.583 ca mắc và 15 ca tử vong, nâng tổng số ca mắc là hơn 65 nghìn ca, 203 ca tử vong. Tại Lào, ghi nhận 68 ca mắc mới tại 8 tỉnh/thành phố trên cả nước. Tại Campuchia, ghi nhận thêm 880 ca mắc mới, đây là ngày thứ hai liên tiếp số ca mắc mới của nước này ở mức cao nhất từ trước đến nay.
+Nam Phương

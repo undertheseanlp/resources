@@ -1,0 +1,18 @@
+# doc_id = news_tech_112
+# url = https://dantri.com.vn/suc-manh-so/hai-nam-chiu-ap-luc-tu-my-huawei-van-song-sot-20210401012229541.htm
+# date = 20210401
+Đây là phát biểu của ông Ken Hu, Chủ tịch luân phiên củaHuawei trong sự kiện công bố Báo cáo thường niên năm 2020.
+Số liệu thống kê cho thấy hãng viễn thông Trung Quốc vẫn tăng trưởng đều ở cả doanh thu và lợi nhuận. Trong đó, tính riêng doanh thu ở mảng bán hàng của Huawei trong năm 2020 đạt 891,4 tỷ CNY (136,7 tỷ USD), tăng 3,8% so với cùng kỳ năm ngoái, trong khi lợi nhuận ròng đạt 64,6 tỷ CNY (9,9 tỷ USD), tăng 3,2%.
+Dẫu vậy, có thể thấy đà tăng của Huawei đã chậm lại đáng kể. Tại thời điểm trước khi Mỹ đưa ra lệnh cấm, Huawei từng có mức tăng trưởng 2 con số, thậm chí có giai đoạn lên tới 30%.
+Tới nay, chỉ có Trung Quốc là thị trường còn ghi nhận mức tăng doanh thu lên tới 2 con số (15,4%). Đây cũng là khu vực chiếm gần 2/3 tổng doanh thu bán thiết bị của Huawei, trong bối cảnh những khu vực khác đều "đảo chiều".
+Nói về vấn đề này, ông Ken Hu cũng thẳng thắn thừa nhận những khó khăn mà Huawei đã gặp phải trong suốt gần 2 năm qua, vốn chủ yếu do tình trạng khan hiếm nguồn cung, dẫn tới doanh số mảng di động bị sụt giảm nghiêm trọng.
+Tuy nhiên, đây cũng là vấn đề chung của chuỗi cung ứng toàn cầu, nơi "nạn nhân" không chỉ riêng Huawei, mà còn là các tập đoàn quốc tế bị ảnh hưởng bởi yếu tố chính trị, lệnh cấm.
+"Tôi không biết ai sẽ được hưởng lợi từ sự việc này. Những công ty trong ngành công nghệ đều là nạn nhân của sự đứt gãy, thiếu hụt chuỗi cung ứng", ông Ken Hu nhận xét. "Nếu một quyết định chính trị gây ra nhiều thiệt hại cho các bên, thì tôi nghĩ rằng nó cần được xem xét và điều chỉnh lại".
+Nhằm đối phó với tình trạng này, Huawei đã đưa ra các biện pháp nhằm đa dạng hóa chuỗi cung ứng, và lấy người dùng làm trung tâm, từ đó hướng tới mục tiêu cung cấp một trải nghiệm tốt nhất có thể.
+Ông Ken Hu cho rằng việc ra mắt các dòng smartphone flagship của Huawei, như P series và Mate series, vẫn sẽ đóng một vai trò quan trọng trong định hướng của công ty, nhưng không phải là duy nhất.
+Theo đó, 5 lĩnh vực công nghệ được Huawei hướng đến trong năm 2021 bao gồm: kết nối, đám mây, trí tuệ nhân tạo, điện toán và các ứng dụng chuyên ngành để tạo ra những cơ hội mới.
+Hồi tháng 9/2020, thậm chí Huawei từng đặt mục tiêu trở thành một trong 5 nhà cung cấp dịch vụ đám mây lớn nhất thế giới khi năm 2020 khép lại.
+Một phần quan trọng khác trong kế hoạch này nằm ở hệ điều hành HarmonyOS. Nó được Huawei lần đầu giới thiệu vào tháng 8/2019, 3 tháng sau lệnh cấm của Mỹ ngăn Huawei sử dụng các dịch vụ từ Google, trong đó có hệ điều hành Android.
+Đến tháng 9/2020, Huawei thông báo tất cả smartphone ra mắt trong năm 2021 của hãng sẽ sử dụng nền tảng HarmonyOS thay cho Android. HarmonyOS không chỉ được thiết kế cho smartphone. Nó còn có thể được tích hợp trên nhiều loại thiết bị khác như máy tính bảng, máy tính và TV thông minh - tất cả đều do Huawei sản xuất.
+Ngoài ra, Huawei còn muốn cung cấp thiết bị liên lạc và phần mềm đi kèm cho các phương tiện thông minh. Họ thậm chí đã tạo ra nền tảng xe thông minh mang tên Huawei HI, vận hành trên HarmonyOS.
+Nguyễn Nguyễn

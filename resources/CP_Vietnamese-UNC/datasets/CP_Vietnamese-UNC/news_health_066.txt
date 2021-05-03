@@ -1,0 +1,20 @@
+# doc_id = news_health_066
+# url = https://dantri.com.vn/suc-khoe/bo-y-te-cong-bo-phac-do-dieu-tri-covid-19-moi-nhat-20210428201328126.htm
+# date = 20210428
+Virus SARS-CoV-2 biến đổi liên tục
+Tại hội nghị trực tuyến về an toàn tiêm chủng diễn ra tại Hà Nội ngày 28/4, PGS.TS Lương Ngọc Khuê, Cục trưởng Cục Quản lý Khám, chữa bệnh, Bộ Y tế cho biết nhiều nước trên thế giới đang đối mặt với làn sóng mới của dịch Covid-19, nguy cơ dịch xâm nhập vào Việt Nam rất lớn. Trong dịp nghỉ 30/4 và 1/5 sắp tới, các thành phố lớn đã hủy các hoạt động tập trung đông người, dừng hoạt động bắn pháo hoa để đảm bảo giãn cách.
+Xung quanh Việt Nam, Lào đã đóng cửa TP Viêng Chăn, Campuchia cũng đóng cửa thủ đô và một số tỉnh khác. Tại Thái Lan, Philippines, Singapore, dịch diễn biến rất nặng nề. Hay như Ấn Độ, hệ thống y tế hiện không đáp ứng được với sự bùng phát của dịch bệnh. Điều đó cho thấy sự ghê gớm của dịch bệnh.
+"Nếu lơ là để dịch bùng phát thì chúng ta sẽ cũng sẽ rất khó khăn. Vì thế, Chính phủ, Ban chỉ đạo quốc gia phòng chống dịch hết sức chủ động, yêu cầu các địa phương thực hiện nghiêm túc các biện pháp phòng chống dịch", PGS Khuê nói.
+Theo Bộ Y tế, virus SARS-CoV-2 lây trực tiếp từ người sang người chủ yếu qua giọt bắn đường hô hấp và qua đường tiếp xúc. Virus cũng có khả năng lây truyền qua đường khí dung (aerosol), đặc biệt tại các cơ sở y tế và những nơi đông người và ở không gian kín. Bên cạnh đó, virus cũng liên tục biến đổi tạo ra hàng ngàn biến thể khác nhau trên toàn thế giới làm cho khả năng lây lan mạnh hơn và khó kiểm soát hơn.
+Nhiều điểm mới trong phác đồ điều trị Covid-19 mới nhất
+Theo PGS Khuê, đến nay nước ta ghi nhận gần 3.000 bệnh nhân Covid-19, so với Campuchia thì đây là con số rất khiêm tốn. Trong đó phần lớn bệnh nhân đã khỏi bệnh, chỉ còn gần 300 trường hợp còn đang điều trị. Tỷ lệ tử vong là 1,23% với 35 người tử vong. Trong số này có những bệnh nhân nặng, rất nặng.
+Trong bối cảnh các nghiên cứu về virus ngày một rõ ràng hơn, WHO, CDC Mỹ, châu Âu cập nhật nhiều hướng dẫn mới, Việt Nam đã xây dựng lại phác đồ điều trị SARS-CoV-2. Đây là lần cập nhật thứ 5.
+So với các đợt dịch trước, số bệnh nhân diễn biến nặng thời gian qua tăng lên 20%. Tỷ lệ này trong phác đồ cũ công bố cuối tháng 2 vừa qua là 16%.
+Theo Bộ Y tế, 80% bệnh nhân chỉ sốt nhẹ, ho, mệt mỏi, không bị viêm phổi và thường tự hồi phục sau khoảng 1 tuần. Thậm chí, nhiều trường hợp không có biểu hiện triệu chứng. Tử vong xảy ra nhiều hơn ở nhóm người cao tuổi, người suy giảm miễn dịch và mắc các bệnh mạn tính kèm theo.
+GS Nguyễn Văn Kính, Chủ tịch hội Truyền nhiễm Việt Nam cho biết trong phác đồ lần 5, điều trị phải đi trước một bước, không đợi bệnh nhân nặng mới xử lý. Vì vậy, việc theo dõi sát bệnh nhân được đặt lên hàng đầu. Hầu hết bệnh nhân viêm phổi đều nặng lên ở ngày thứ 5-8.
+Cụ thể, khi xét nghiệm cận lâm sàng có rối loạn đông máu, rối loạn điện giải trên nền bệnh nhân có sốt, bệnh nhân cần được bù dịch sớm, tránh trường hợp bệnh nhân nặng phải lọc máu. Trong quá trình điều trị, nhân viên y tế phải giúp bệnh nhân có tâm lý thoải mái, tích cực nâng cao thể trạng, đảm bảo dinh dưỡng.
+Để giảm tỷ lệ các ca bệnh nặng, Bộ Y tế đề nghị, ngay khi nồng độ oxy trong máu của bệnh nhân xuống dưới 92%, cần cân nhắc chỉ định thở oxy dòng cao qua gọng mũi sớm hoặc thở máy không xâm nhập.
+Khi bệnh nhân viêm phổi nặng, thở máy vài giờ không chuyển biến sẽ phải chuyển sang can thiệp ECMO ngay. Khi nghi ngờ có cơn bão cytokine phải lọc thận ngay.
+GS Kính đặc biệt lưu ý các cơ sở y tế phải lưu ý dự trữ oxy, tránh tình trạng như tại Ấn Độ.
+Về tiêu chuẩn ra viện, phác đồ điều trị trước đó yêu cầu bệnh nhân cần có 3 lần xét nghiệm âm tính liên tiếp, mỗi lần cách nhau ít nhất 24 giờ. Tuy nhiên trong phác đồ mới nhất, bệnh nhân đủ điều kiện xuất viện khi điều trị ít nhất 14 ngày, có 2 lần xét nghiệm âm tính, mỗi lần cách nhau 48-72 giờ và thời gian lấy mẫu lần cuối cùng cách thời điểm ra viện không quá 24 giờ.
+Nam Phương

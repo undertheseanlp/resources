@@ -1,0 +1,27 @@
+# doc_id = news_tech_250
+# url = https://dantri.com.vn/suc-manh-so/ung-dung-tich-hop-tri-tue-nhan-tao-giup-chup-anh-dep-hon-tren-smartphone-20210326180758263.htm
+# date = 20210326
+Nhiều người thường có thói quen dùng các ứng dụng xử lý ảnh để thêm các bộ lọc màu sắc (filter) lên các hình ảnh được chụp bằng smartphone, giúp tạo ra những bức ảnh với chất lượng đẹp mắt và tông màu mà mình yêu thích, chẳng hạn những bức ảnh với tông màu lạnh, tông màu ấm hoặc màu dịu…
+Tuy nhiên, không ít trường hợp người dùng phải "đau đầu" để lựa chọn một bộ lọc màu sắc phù hợp với hình ảnh mà mình vừa chụp, giúp cho bức ảnh trở nên đẹp mắt và mang tính nghệ thuật hơn.
+Picai là ứng dụng được ra đời để giúp người dùng giải quyết vấn đề "đau đầu" này. Picai là ứng dụng chụp ảnh, được tích hợp trí tuệ nhân tạo, sẽ tự động nhận diện đối tượng và khung cảnh mà camera đang hướng đến, từ đó đưa ra các gợi ý về bộ lọc màu sắc phù hợp nhất với khung cảnh để người dùng lựa chọn.
+Đặc biệt, trí tuệ nhân tạo của Picai còn có thể ghi nhớ được tông màu sắc yêu thích của người dùng khi chụp ảnh để đưa ra các gợi ý về bộ lọc màu sắc phù hợp với sở thích của người dùng.
+Với Picai, người dùng sẽ không còn mất nhiều thời gian xử lý và lựa chọn bộ lọc hiệu ứng màu sắc sau khi chụp ảnh, bởi lẽ ứng dụng này sẽ tự động xử lý giúp người dùng.
+Ứng dụng có cả phiên bản dành cho Android lẫn iOS, người dùng có thể tìm và tải Picai trên CH Play hoặc App Store, hoặc có thể download ứng dụng trực tiếp tại đây hoặc tại đây (tương thích Android 6.0 trở lên) hoặc tại đây (tương thích iOS 10.0 trở lên).
+Giao diện của ứng dụng hoàn toàn bằng tiếng Việt nên rất dễ dàng và thuận tiện khi sử dụng.
+Trong lần đầu sử dụng, Picai sẽ giới thiệu sơ qua về cách sử dụng của ứng dụng. Bạn có thể xem các hình ảnh động được cung cấp để phần nào nắm được cách dùng của ứng dụng này. Nhấn nút "Bắt đầu" sau khi đã xem xong phần hướng dẫn để bắt đầu sử dụng Picai.
+Để giúp trí tuệ nhân tạo trên Picai có thể hiểu được sở thích về màu sắc khi chụp ảnh của người dùng, ứng dụng sẽ đưa ra một vài câu hỏi để người dùng lựa chọn về tông màu sắc mà mình yêu thích khi thêm bộ lọc trên hình ảnh, chẳng hạn tông màu lạnh (cool) hoặc ấm (warm), màu dịu (calm) hoặc màu chói (vivid)… bạn nhấn tay vào một trong 2 sự lựa chọn được ứng dụng cung cấp trên giao diện hiện ra.
+Tiếp theo, Picai sẽ xin cấp các quyền để ứng dụng có thể hoạt động trên smartphone, bao gồm quyền chụp ảnh (do đây là ứng dụng chụp ảnh), và quyền truy cập vào bộ nhớ để lưu lại các hình ảnh sau khi chụp. Bạn nhấn vào nút "Cho phép" từ các hộp thoại hiện ra.
+Sau khi đã hoàn tất bước thiết lập đầu tiên, giao diện chụp ảnh của Picai sẽ được hiện ra.
+Trong lần đầu sử dụng Picai để chụp ảnh, một hộp thoại hiện ra để hướng dẫn người dùng cách chụp ảnh bằng ứng dụng này. Bạn nhấn vào nút "Bắt đầu". Chức năng hướng dẫn này sẽ chỉ hiện ra trong lần đầu sử dụng Picai để người dùng làm quen với ứng dụng.
+Tại giao diện hướng dẫn, bạn thực hiện theo chỉ dẫn của ứng dụng, như việc lướt ngón tay lên phía trên màn hình để thay đổi bộ lọc hình ảnh, lướt tay qua phải để lựa chọn bộ lọc yêu thích và cuối cùng nhấn nút "Chụp ảnh" để chụp ảnh với bộ lọc tốt nhất mà Picai đã lựa chọn cho bạn.
+Sau khi đã hoàn tất các bước hướng dẫn, lướt tay trên màn hình từ phải qua trái để quay trở lại giao diện ban đầu của Picai và bắt đầu dùng ứng dụng để chụp ảnh.
+Để sử dụng Picai, bạn hướng camera của smartphone về phía đối tượng cần chụp, trí tuệ nhân tạo của Picai sẽ tự động nhận diện được khung cảnh và đối tượng chụp, từ đó đưa ra bộ lọc phù hợp nhất với bức ảnh.
+Ứng dụng Picai nhận diện được đối tượng cần chụp là cây (plant), từ đó đưa các bộ lọc phù hợp nhất.
+Giao diện chính của Picai sẽ đưa ra 2 bộ lọc với 2 kiểu tông màu khác nhau mà trí tuệ nhân tạo của ứng dụng cho là phù hợp nhất với khung cảnh của bức ảnh. Bạn có thể nhấn vào dấu mũi tên (hoặc lướt tay từ dưới lên trên) ở 2 nửa màn hình để thay đổi kiểu bộ lọc màu sắc mà ứng dụng cung cấp, cho đến khi cảm thấy ưng ý nhất. Bạn có thể lướt tay từ trái qua phải để chọn bộ lọc màu sắc bên trái, hoặc lướt tay từ phải qua trái để chọn bộ lọc màu sắc bên phải.
+Cuối cùng nhấn nút "Chụp ảnh" để chụp ảnh với bộ lọc màu sắc mà bạn đã chọn. Trước khi chụp, bạn có thể điều khiển con lăn ở thanh trượt bên dưới để điều chỉnh mức độ bộ lọc màu sắc được áp dụng lên hình ảnh, sao cho cảm thấy ưng ý nhất.
+Sau khi chụp, bạn nhấn vào biểu tượng mũi tên chỉ xuống để lưu hình ảnh đã chụp vào smartphone, hoặc nhấn vào nút "Share" để chia sẻ hình ảnh đã chọn lên mạng xã hội, qua ứng dụng tin nhắn hay Bluetooth...
+Hướng dẫn xóa logo Picai trên hình ảnh đã chụp
+Mặc định, những hình ảnh khi chụp bằng ứng dụng Picai sẽ tự động gắn thêm logo của ứng dụng lên ảnh. Trong trường hợp muốn xóa đi logo này để không làm ảnh hưởng đến chất lượng ảnh, tại giao diện chuẩn bị chụp ảnh của Picai (giao diện hiện ra sau khi bạn đã chọn bộ lọc ưng ý), nhấn vào biểu tượng "…" ở phía trên, sau đó chọn "Settings" từ menu hiện ra. Tại giao diện hiện ra tiếp theo, đánh dấu bỏ đi tùy chọn "Picai Mark".
+Như vậy, các bức ảnh được chụp bằng Picai sẽ không còn bị đóng dấu bản quyền của ứng dụng lên hình ảnh.
+Nhìn chung, với sự giúp đỡ của Picai, bạn có thể chụp được cho mình những bức ảnh và dễ dàng chọn được những bộ lọc về màu sắc ưng ý nhất do ứng dụng gợi ý bằng trí tuệ nhân tạo, thay vì phải mất nhiều thời gian để lựa chọn các bộ lọc màu sắc cho ảnh như trước đây.
+Quang Huy

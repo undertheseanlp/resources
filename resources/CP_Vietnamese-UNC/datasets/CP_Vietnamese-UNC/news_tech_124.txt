@@ -1,0 +1,20 @@
+# doc_id = news_tech_124
+# url = https://dantri.com.vn/suc-manh-so/huawei-my-da-gay-thiet-hai-lon-cho-nganh-cong-nghiep-ban-dan-toan-cau-20210413142902212.htm
+# date = 20210413
+Chất bán dẫn là bộ phận rất phức tạp, đóng vai trò quan trọng trong khâu thiết kế và sản xuất. Chúng cũng đòi hỏi sự đầu tư lớn vào R&D và chi tiêu vốn. Tuy nhiên, thế giới lại đang trải qua một trong những đợt khủng hoảng thiếu hụt chip bán dẫn lớn nhất trong lịch sử. 
+Theo nhận định mới nhất ông Eric Xu - Chủ tịch luân phiên của Huawei tại Hội nghị thượng đỉnh các nhà phân tích toàn cầu lần thứ 18 (18th Global Analyst Summit), Mỹ chính là quốc gia phải chịu trách nhiệm về việc này.
+"Mỹ đã áp đặt ba vòng trừng phạt đối với Huawei trong 2 năm qua và điều này gây thiệt hại đáng kể cho hoạt động kinh doanh của chúng tôi. Hơn thế, nó đã gây ra thiệt hại lớn hơn cho ngành công nghiệp bán dẫn toàn cầu", ông Xu nhấn mạnh.
+Đại diện của Huawei cho rằng các lệnh cấm của Mỹ đã phá vỡ niềm tin trong toàn bộ chuỗi cung ứng toàn cầu của ngành, buộc nhiều quốc gia và khu vực phải suy nghĩ kỹ về an ninh chuỗi cung ứng.
+Ông cũng dự đoán chi phí sản xuất cao hơn, khiến giá chip tăng lên, cuối cùng sẽ dẫn đến nguy cơ "đội giá" của tất cả các sản phẩm điện tử tiêu dùng trong tương lai gần.
+Chip bán dẫn khan hiếm sẽ là nguyên nhân dẫn tới tăng giá của nhiều thiết bị gia dụng trong tương lai gần.
+Theo một báo cáo của Hiệp hội Công nghiệp Bán dẫn (SIA), trong kỷ nguyên số, việc xây dựng khả năng tự cung cấp chất bán dẫn trong khu vực sẽ cần thêm một khoản đầu tư trả trước lên tới 1 nghìn tỷ USD
+Điều này cũng được kỳ vọng sẽ dẫn đến mức tăng tổng thể từ 35% đến 65% trong giá bán dẫn. Những chi phí tăng thêm này cuối cùng sẽ được chuyển sang người tiêu dùng.
+Chỉ vài giờ trước khi diễn ra Hội nghị thượng đỉnh các nhà phân tích toàn cầu lần thứ 18, Nhà Trắng đã tổ chức hội nghị để giải quyết tình trạng thiếu chip, trong đó tập trung đến tác động của nó đối với ngành công nghiệp ô tô.
+Trong hội nghị này, giới chức Mỹ cũng đã thừa nhận rằng trong ngắn hạn, khó có thể giải quyết tình trạng thiếu chip.
+Ông Eric Xu - Chủ tịch luân phiên của Huawei đổ lỗi cho Mỹ trước tình trạng thiếu hụt chip bán dẫn toàn cầu.
+"Nguồn cung toàn cầu bị gián đoạn. Sự thiếu hụt toàn cầu này là kết quả trực tiếp của các hành động của Mỹ chống lại Huawei, và nó đã dẫn đến việc mua bán hoảng loạn trên toàn thế giới", ông Xu khẳng định.
+"Không chỉ vậy, các hành động của Mỹ chống lại Huawei và các công ty khác cũng bắt đầu gây ra tình trạng thiếu hụt nguồn cung trong các ngành công nghiệp khác nhau trên thế giới, có thể dẫn đến những cuộc khủng hoảng kinh tế bất ngờ", ông dự đoán.
+Về những biện pháp khắc phục khó khăn trước lệnh cấm, ông Xu khẳng định Huawei không kỳ vọng về việc chính quyền Tổng thống Biden sẽ gỡ bỏ các biện pháp hạn chế với Huawei.
+Cụ thể, hãng viễn thông Trung Quốc sẽ lên các chiến lược giả định vẫn nằm trong danh sách đen của Mỹ, với ưu tiên tập trung vào kỹ thuật phần mềm trong 5 năm tới, và hy vọng thúc đẩy khả năng phục hồi và làm cho các sản phẩm trở nên cạnh tranh hơn.
+Tại buổi tọa đàm, Huawei cũng đã trình bày bản báo cáo về Triển vọng đến năm 2030 trong thế giới thông minh, bao gồm 9 thách thức công nghệ, cũng như các hướng đề xuất cho các nỗ lực nghiên cứu toàn cầu.
+Nguyễn Nguyễn

@@ -1,0 +1,34 @@
+# doc_id = news_health_243
+# url = https://dantri.com.vn/suc-khoe/toi-254-viet-nam-them-10-ca-mac-covid-19-20210425180538696.htm
+# date = 20210425
+Tính từ 6h đến 18h ngày 25/4, nước ta có 10 ca mắc mới Covid-19 (BN2384-2843) được cách ly ngay sau khi nhập cảnh tại Hà Nội (1), Khánh Hòa (6), Đà Nẵng (3).
+Cụ thể:
+- CA BỆNH 2834 (BN2834) ghi nhận tại Thành phố Hà Nội: Bệnh nhân nam, 23 tuổi, công dân Việt Nam, địa chỉ tại tỉnh Bắc Ninh.
+Ngày 23/4, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Nội Bài trên chuyến bay JL751 và được cách ly ngay sau khi nhập cảnh tại Thành phố Hà Nội. Kết quả xét nghiệm ngày 24/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh.
+- CA BỆNH 2835 (BN2835) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nữ, 54 tuổi, công dân Việt Nam, địa chỉ tại huyện Củ Chi, TP HCM.
+Ngày 19/4, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Cam Ranh trên chuyến bay VJ5139 và được cách ly ngay sau khi nhập cảnh tại tỉnh Khánh Hòa. Kết quả xét nghiệm lần 2 ngày 24/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Lao và Bệnh phổi tỉnh Khánh Hòa.
+- CA BỆNH 2836 (BN2836) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nữ, 19 tuổi, công dân Việt Nam, địa chỉ tại quận Đống Đa, Thành phố Hà Nội.
+Ngày 10/4, bệnh nhân từ Đức nhập cảnh Sân bay Cam Ranh trên chuyến bay VN30 và được cách ly ngay sau khi nhập cảnh tại tỉnh Khánh Hòa. Kết quả xét nghiệm lần 2 ngày 24/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Lao và Bệnh phổi tỉnh Khánh Hòa.
+- CA BỆNH 2837 (BN2837) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nam, 25 tuổi, công dân Việt Nam, địa chỉ tại huyện Thủy Nguyên, Thành phố Hải Phòng.
+- CA BỆNH 2838 (BN2838) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nam, 22 tuổi, công dân Việt Nam, địa chỉ tại huyện Thường Xuân, tỉnh Thanh Hóa.
+- CA BỆNH 2839 (BN2839) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nam, 25 tuổi, công dân Việt Nam, địa chỉ tại thị xã Bỉm Sơn, tỉnh Thanh Hóa.
+- CA BỆNH 2840 (BN2840) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nam, 22 tuổi, công dân Việt Nam, địa chỉ tại huyện Thanh Chương, tỉnh Nghệ An.
+Ngày 22/4, BN2837-2840 từ Nhật Bản nhập cảnh Sân bay Cam Ranh trên chuyến bay QH9413 và được cách ly ngay sau khi nhập cảnh tại tỉnh Khánh Hòa. Kết quả xét nghiệm ngày 24/4 dương tính với SARS-CoV-2. Hiện các bệnh nhân được cách ly, điều trị tại Bệnh viện Lao và Bệnh phổi tỉnh Khánh Hòa.
+- CA BỆNH 2841 (BN2841) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nam, 25 tuổi, công dân Việt Nam, địa chỉ tại huyện Nam Đàn, tỉnh Nghệ An.
+Ngày 23/4, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Quốc tế Đà Nẵng trên chuyến bay VJ3613 và được cách ly ngay sau khi nhập cảnh tại Thành phố Đà Nẵng. Kết quả xét nghiệm ngày 24/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Phổi Đà Nẵng.
+- CA BỆNH 2842 (BN2842) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nam, 26 tuổi, công dân Việt Nam, địa chỉ tại huyện Mỹ Đức, Thành phố Hà Nội.
+Ngày 23/4, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Quốc tế Đà Nẵng trên chuyến bay VJ8859 và được cách ly ngay sau khi nhập cảnh tại Thành phố Đà Nẵng. Kết quả xét nghiệm ngày 24/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Phổi Đà Nẵng.
+- CA BỆNH 2843 (BN2843) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nữ, 24 tuổi, công dân Việt Nam, địa chỉ tại quận Bắc Từ Liêm, Thành phố Hà Nội.
+Ngày 21/4, bệnh nhân từ Nga nhập cảnh Sân bay Quốc tế Đà Nẵng trên chuyến bay VN5062 và được cách ly ngay sau khi nhập cảnh tại Thành phố Đà Nẵng. Kết quả xét nghiệm ngày 24/4 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Phổi Đà Nẵng.
+Tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 40.846, trong đó:
+- Cách ly tập trung tại bệnh viện: 514
+- Cách ly tập trung tại cơ sở khác: 25.360
+- Cách ly tại nhà, nơi lưu trú: 14.972
+Về tình hình điều trị, theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế:
+- Số ca âm tính với SARS-CoV-2:
++ Lần 1: 13
++ Lần 2: 15
++ Lần 3: 20
+- Số ca tử vong: 35 ca.
+- Số ca điều trị khỏi: 2.516 ca.
+Nam Phương

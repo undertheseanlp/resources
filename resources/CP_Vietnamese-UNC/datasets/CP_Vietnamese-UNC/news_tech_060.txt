@@ -1,0 +1,17 @@
+# doc_id = news_tech_060
+# url = https://dantri.com.vn/suc-manh-so/ceo-bkav-5-g-khong-danh-cho-dtdd-nhung-bkav-van-san-xuat-smartphone-5-g-20210414082723291.htm
+# date = 20210414
+CEO Bkav Nguyễn Tử Quảng.
+Trong một bài đăng của của mình trên Facebook cá nhân, CEO Bkav Nguyễn Tử Quảng có động thái thu hút sự chú ý của dư luận khi phủ nhận công nghệ 5G là dành cho smartphone.
+"Phần lớn mọi người nghĩ mạng 5G là để nâng cấp cho điện thoại di động đang ở 3G, 4G trở nên tốt hơn. Đây là một sự hiểu lầm rất lớn", ông Quảng viết.
+Theo lý giải của CEO này, tốc độ của 4G như hiện nay là đã quá đủ cho các loại hình dịch vụ mà chúng ta sử dụng hàng ngày, từ xem phim, nghe nhạc online đến học tập hay họp từ xa.
+Mục đích của 5G, theo đó, là chủ yếu phục vụ cho một thế giới kết nối vạn vật IoT trong tương lai, các dịch vụ mang tính thời gian thực với độ trễ thấp.
+Lý do là bởi 5G không chỉ có tốc độ cao, mà còn có độ trễ thấp và khả năng kết nối số lượng lớn các thiết bị IoT.
+Quả thực, xét thấy những điểm yếu của 5G như bước sóng thấp, chi phí lắp đặt cao, cũng khiến cho việc triển khai diện rộng như mạng 4G là điều không dễ dàng.
+"Hiện nay khi nghe nói tới 5G, chúng ta thường được biết với khả năng download một bộ phim chỉ trong vài giây. Tuy nhiên, ít khi chúng ta phải dùng tới năng lực này, vì đã có thể xem online với chất lượng tốt", ông Quảng giải thích.
+Cũng vì sự ngộ nhận nêu trên, Hàn Quốc - quốc gia đầu tiên trên thế giới triển khai 5G cách đây 2 năm, gần đây đã thừa nhận những thiếu sót trong việc triển khai 5G.
+Ông Cho Kyeong sik, Thứ trưởng Bộ KH&CNTT Hàn Quốc cho biết tại một cuộc họp rằng: "Dịch vụ 5G không đạt mức chấp nhận đối với công chúng".
+Dẫu vậy ở cuối bài đăng của mình, CEO Bkav khiến người xem bất ngờ, khi vẫn thừa nhận smartphone 5G là một trào lưu không thể tránh khỏi, và Bkav cũng sẽ không nằm ngoài xu thế này.
+"Dù smartphone không phải là đối tượng chủ yếu của 5G, nhưng chúng tôi sẽ sản xuất smartphone 5G", CEO Bkav khẳng định.
+Nếu như tuyên bố này trở thành hiện thực, Bkav sẽ là hãng smartphone thứ 2 tại Việt Nam thành công chế tạo smartphone 5G, sau Vsmart.
+Nguyễn Nguyễn

@@ -1,0 +1,14 @@
+# doc_id = news_health_199
+# url = https://dantri.com.vn/suc-khoe/quang-ninh-truy-vet-cach-ly-18-nguoi-co-lien-quan-den-ca-benh-o-ha-nam-20210501070639459.htm
+# date = 20210501
+Cơ quan y tế lấy mẫu xét nghiệm những người có liên quan đến ca bệnh ở Hà Nam.
+Theo đó, F1 được xác định là ông T.T.T. (SN 1973, quê ở Hà Nam), là thuyền viên thuộc một công ty có địa chỉ tại TP Cẩm Phả, tỉnh Quảng Ninh. Ông T. được xác định đã tiếp xúc gần với ca bệnh 2889 khi nghỉ phép về quê ở Hà Nam vào ngày 21/4.
+Theo lịch trình, ngày 25/4 ông T. đi xe khách từ quê ra TP Hạ Long, tỉnh Quảng Ninh rồi thuê thuyền máy chở ra nơi tàu ông T. đang làm việc neo đậu.
+Từ 25/ 4 đến 27/4, ông T. không đi đâu, ăn nghỉ tại tàu và tiếp xúc gần với 13 người.
+Từ ngày 27/4 đến ngày 29/4, tàu của ông T. làm việc di chuyển đến Cẩm Phả (neo đậu tại khu vực Con Ong- Hòn Nét). Tại đây ông T. có tiếp xúc gần với khoảng 10 người làm việc tại một số tàu khác thuộc công ty (không nhớ cụ thể).
+Ngày 29/4, ông T. biết thông tin về ca bệnh 2899.
+Sáng ngày 30/4, ông T. từ tàu vào khai báo y tế tại Bệnh viện Đa khoa Cẩm Phả và đề nghị được xét nghiệm Covid-19. Tại đây ông T. được nhân viên ở vị trị đón tiếp bệnh nhân hướng dẫn đến Bệnh viện Đa khoa tỉnh khai báo để được xét nghiệm.
+Khoảng 8h sáng cùng ngày 30/4, ông T. lên xe buýt tuyến Mông Dương- Bãi Cháy đến Bệnh viện Đa khoa tỉnh để xét nghiệm Covid-19 (trên xe buýt có nhiều người không biết tên, các hành khách có thực hiện đeo khẩu trang).
+Tiếp nhận thông tin vụ việc, UBND TP Cẩm Phả đã tổ chức khoanh vùng, truy vết khẩn cấp các trường hợp có liên quan.
+Hiện 17 trường hợp F2 đã được đưa đi cách ly. Về phía ông T., kết quả xét nghiệm cho thấy âm tính lần 1 với SaRS-CoV-2.
+An Nhiên

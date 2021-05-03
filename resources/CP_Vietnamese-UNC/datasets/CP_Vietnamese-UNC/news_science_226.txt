@@ -1,0 +1,13 @@
+# doc_id = news_science_226
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/thu-nghiem-thanh-cong-ve-tinh-viet-nam-san-sang-len-vu-tru-20210413101649740.htm
+# date = 20210413
+Vệ tinh NanoDragon trong buồng thử nghiệm Nhiệt chân không. Ảnh: Trung tâm Vũ trụ Việt Nam cung cấp.
+Vệ tinh NanoDragon (NDG) là vệ tinh dạng cubesat lớp nano nặng khoảng 4 kg với kích thước 3U, được Trung tâm Vũ trụ Việt Nam (TTVTVN) thuộc Viện Hàn lâm Khoa học và Công nghệ Việt Nam phát triển.
+Theo TS Lê Xuân Huy, Phó Tổng giám đốc TTVTVN, sau khi hoàn thành quá trình chế tạo, tích hợp và thử nghiệm chức năng, từ 9/3 đến 9/4/2021 vệ tinh đã được gửi sang Trung tâm thử nghiệm Vệ tinh nhỏ, Học viện Công nghệ Kyushu (KIT), Nhật Bản để thử nghiệm môi trường trước phóng.
+NanoDragon đã trải qua hàng loạt thử nghiệm gồm thử nghiệm vệ tinh làm việc trong môi trường nhiệt, chân không trong vũ trụ. Kiểm tra độ chính xác kích thước chế tạo vệ tinh với hệ thống phóng, kiểm tra độ cứng, vững chắc của vệ tinh đồng thời kiểm thử vệ tinh trong môi trường rung động và sốc.
+Toàn bộ quá trình thử nghiệm đã hoàn thành vào ngày 7/4, kết thúc thử nghiệm, Vệ tinh NanoDragon đạt mọi chỉ tiêu theo yêu cầu của nhà phóng và yêu cầu thiết kế, vệ tinh hoạt động hoàn toàn bình thường sau thử nghiệm. Hiện vệ tinh đang được chuyển về Việt Nam chờ ngày phóng lên quỹ đạo, dự kiến vệ tinh sẽ được phóng trong năm tài khóa 2021 của Nhật Bản (đến tháng 3 năm 2022).
+NanoDragon là sản phẩm của Đề tài "Nghiên cứu, thiết kế, chế tạo, phóng và vận hành thử nghiệm vệ tinh siêu nhỏ cỡ nano" thuộc "Chương trình khoa học và công nghệ cấp quốc gia về công nghệ vũ trụ giai đoạn 2016 - 2020". Quá trình nghiên cứu, thiết kế, tích hợp, thử nghiệm chức năng vệ tinh hoàn toàn được thực hiện tại Việt Nam, bởi các cán bộ nghiên cứu của Trung tâm Vũ trụ Việt Nam. Ngoài ra toàn bộ cấu trúc cơ khí và mạch phân phối nguồn và một số mạch phụ trợ khác của vệ tinh cũng được tự chế tạo tại Việt Nam.
+Vệ tinh NanoDragon được phát triển với mục đích chứng minh có thể dùng công nghệ chùm vệ tinh cỡ siêu nhỏ để thu tín hiệu nhận dạng tự động tàu thủy (Automatic Identification System - AIS) phục vụ cho mục đích theo dõi, giám sát phương tiện trên biển. Vệ tinh dự kiến sẽ hoạt động ở quỹ đạo đồng bộ mặt trời ở độ cao khoảng 560 km.
+NanoDragon là vệ tinh tiếp theo do đội ngũ kỹ sư Việt Nam thiết kế, chế tạo. Trong lộ trình tiến tới làm chủ công nghệ vệ tinh, các kỹ sư của Trung tâm Vũ trụ Việt Nam đã lần lượt chế tạo vệ tinh PicoDragon, MicroDragon dưới sự giúp đỡ, hướng dẫn của GS Nhật Bản. Đến nay, Việt Nam đã làm chủ được việc thiết kế, chế tạo vệ tinh có trọng lượng 50kg.
+Theo TS Lê Xuân Huy, TTVTVN đang đặt mục tiêu tiến tới làm chủ công nghệ thiết kế, chế tạo vệ tinh có trọng lượng 180kg.
+Theo Tiền phong

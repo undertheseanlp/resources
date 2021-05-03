@@ -1,0 +1,10 @@
+# doc_id = news_tech_098
+# url = https://dantri.com.vn/suc-manh-so/facebook-cho-phep-nguoi-dung-khoi-phuc-anh-da-xoa-20210329063703576.htm
+# date = 20210329
+Facebook và Instagram vừa có bản cập nhật giống nhau về việc xóa và khôi phục bài đăng, cũng như các hình ảnh đã đăng trong album.
+Theo đó, người dùng giờ đây nếu xóa bài đăng hay story trên Instagram hoặc Facebook nhưng muốn khôi phục lại, có thể tìm chúng trong thùng rác, tại mục "đã xóa" trong thời gian tối đa 30 ngày.
+Để thực hiện thao tác này, người dùng vào phần Cài đặt > Tài khoản > Mới xóa trong 30 ngày qua. Sau khoảng thời gian đó, bài viết/hình ảnh sẽ bị xóa vĩnh viễn.
+Đây được đánh giá là một thao tác thuận tiện hơn so với việc gỡ bỏ hoàn toàn status, dòng trạng thái như trước đây, giúp người dùng có được sự chủ động về bài đăng trên Facebook, mà không cần phải đăng lại một status mới.
+Điều đặc biệt là những bài đăng đã xóa khi được khôi phục vẫn giữ nguyên lượt like và bình luận.
+Hiện tính năng này tuy chưa được nhiều người biết tới nhưng vẫn đang được người dùng Facebook đánh giá cao vì độ tiện dụng của nó.
+Nguyễn Nguyễn

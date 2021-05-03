@@ -1,0 +1,30 @@
+# doc_id = news_health_206
+# url = https://dantri.com.vn/suc-khoe/sang-224-viet-nam-them-6-ca-covid-19-dich-van-nong-tai-campuchia-20210422060638946.htm
+# date = 20210422
+Tính từ 18h ngày 21/4 đến 6h ngày 22/4, nước ta có 6 ca mắc mới Covid-19 (BN2807-2812) được cách ly ngay sau khi nhập cảnh tại Thái Bình (4), Yên Bái (2).
+Cụ thể:
+- CA BỆNH 2807 (BN2807) ghi nhận tại tỉnh Thái Bình: Bệnh nhân nam, 27 tuổi, công dân Việt Nam, địa chỉ tại huyện Yên Dũng, tỉnh Bắc Giang.
+- CA BỆNH 2808 (BN2808) ghi nhận tại tỉnh Thái Bình: Bệnh nhân nam, 31 tuổi, công dân Việt Nam, địa chỉ tại huyện Hưng Nguyên, tỉnh Nghệ An.
+- CA BỆNH 2809 (BN2809) ghi nhận tại tỉnh Thái Bình: Bệnh nhân nam, 29 tuổi, công dân Việt Nam, địa chỉ tại huyện Thiệu Sơn, tỉnh Thanh Hóa.
+- CA BỆNH 2810 (BN2810) ghi nhận tại tỉnh Thái Bình: Bệnh nhân nữ, 21 tuổi, công dân Việt Nam, địa chỉ tại huyện Hoa Lư, tỉnh Ninh Bình.
+BN2807-2810 từ Nhật Bản nhập cảnh Sân bay Vân Đồn ngày 20/4 và được cách ly ngay sau khi nhập cảnh tại tỉnh Thái Bình. Kết quả xét nghiệm ngày 21/4 dương tính với SARS-CoV-2. Hiện các bệnh nhân được cách ly, điều trị tại Bệnh viện Đa khoa tỉnh Thái Bình.
+- CA BỆNH 2811 (BN2811) ghi nhận tại tỉnh Yên Bái: Bệnh nhân nam, 40 tuổi, quốc tịch Ấn Độ, là chuyên gia.
+- CA BỆNH 2812 (BN2812) ghi nhận tại tỉnh Yên Bái: Bệnh nhân nam, 58 tuổi, quốc tịch Ấn Độ, là chuyên gia.
+BN2811-2812 từ Ấn Độ quá cảnh Dubai, sau đó nhập cảnh Sân bay Nội Bài và được cách ly ngay sau khi nhập cảnh tại tỉnh Yên Bái ngày 18/4. Kết quả xét nghiệm lần 2 ngày 21/4 dương tính với SARS-CoV-2. Hiện các bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh.
+Tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 39.191, trong đó:
+- Cách ly tập trung tại bệnh viện: 518
+- Cách ly tập trung tại cơ sở khác: 23.688
+- Cách ly tại nhà, nơi lưu trú: 14.985.
+Về tình hình điều trị, theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế:
+- Số ca âm tính với SARS-CoV-2:
++ Lần 1: 12
++ Lần 2: 11
++ Lần 3: 17
+- Số ca tử vong: 35 ca.
+- Số ca điều trị khỏi: 2.490 ca.
+Trong ngày 21/4, có thêm gần 2.000 người được tiêm chủng vắc xin phòng Covid-19. Như vậy, đến 16h ngày 21/4, tổng cộng đã thực hiện tiêm vắc xin đợt 1 và 2 tại 27 tỉnh/TP cho 108.897 người.
+Campuchia: Số ca dương tính tăng theo ngày
+Đến ngày 21/4, thế giới ghi nhận hơn 143 triệu ca nhiễm, trong đó hơn 3 triệu ca tử vong. 3 nước có số ca mắc cao nhất thế giới là Mỹ, Ấn Độ và Brazil.
+Tại Châu Âu, Pháp đã trở thành quốc gia đầu tiên thử nghiệm hệ thống chứng nhận tiêm chủng vắc xin Covid-19 dạng kỹ thuật số. Trong đợt thử nghiệm này, người dân sẽ được đăng ký khi họ đi các chuyến bay tới Corsica và các khu vực hải ngoại của Pháp. Bắt đầu từ ngày 29/4, hệ thống thử nghiệm có thể được dùng để xác nhận xem người dùng đã được tiêm vaccine hay chưa. Hệ thống sẽ là một phần trong hệ thống toàn châu Âu.
+Tại Campuchia, ngày 20/4 ghi nhận 624 ca mắc mới, nâng tổng số ca nhiễm lên 7.747 ca (54 ca tử vong). Dịch bệnh diễn biến nghiêm trọng tại Thủ đô Phnom Penh, trước đó chính quyền thủ đô Phnom Penh đã tuyên bố "Vùng Đỏ" ở 3 quận, nghiêm cấm người dân rời khỏi nhà, các chợ, cửa hàng tạp hóa, cơ sở kinh doanh trong Vùng Đỏ đều ngừng hoạt động; số ca dương tính theo ngày vẫn tăng tại thủ đô Phnom Penh, đa số đều có mối liên hệ với các ca bệnh tại các chợ, các nhà máy. Thành phố Takhmao thuộc tỉnh Kandal, giáp với Việt Nam, đặt trong tình trạng phong tỏa từ ngày 15/4.
+Nam Phương

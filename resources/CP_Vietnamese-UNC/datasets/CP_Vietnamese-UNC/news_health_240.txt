@@ -1,0 +1,18 @@
+# doc_id = news_health_240
+# url = https://dantri.com.vn/suc-khoe/toi-214-them-5-ca-mac-moi-covid-19-20210421174757601.htm
+# date = 20210421
+5 ca mắc mới (BN2802-2806) được cách ly ngay sau khi nhập cảnh tại Khánh Hòa (2), Đà Nẵng (3). Cụ thể:
+- CA BỆNH 2802 (BN2802) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nữ, 33 tuổi, công dân Việt Nam, địa chỉ tại huyện Hoằng Hóa, tỉnh Thanh Hóa.
+- CA BỆNH 2803 (BN2803) ghi nhận tại tỉnh Khánh Hòa: Bệnh nhân nữ, 37 tuổi, công dân Việt Nam, địa chỉ tại huyện An Lão, Thành phố Hải Phòng.
+BN2802-2803 từ Nga nhập cảnh Sân bay Cam Ranh ngày 18/4/2021 và được cách ly ngay sau khi nhập cảnh tại tỉnh Khánh Hòa. Kết quả xét nghiệm ngày 20/4/2021 dương tính với SARS-CoV-2. Hiện các bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới tỉnh Khánh Hòa.
+- CA BỆNH 2804 (BN2804) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nam, 48 tuổi, công dân Việt Nam, địa chỉ tại thành phố Hạ Long, tỉnh Quảng Ninh.
+- CA BỆNH 2805 (BN2805) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nam, 27 tuổi, công dân Việt Nam, địa chỉ tại Quận 5, Thành phố Hồ Chí Minh.
+- CA BỆNH 2806 (BN2806) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nam, 30 tuổi, công dân Việt Nam, địa chỉ tại huyện Nghĩa Lộ, tỉnh Yên Bái.
+BN2804-2806 từ Nhật Bản nhập cảnh Sân bay Quốc tế Đà Nẵng ngày 07/04/2021 và được cách ly ngay sau khi nhập cảnh tại Thành phố Đà Nẵng. Kết quả xét nghiệm lần 2 ngày 20/4/2021 dương tính với SARS-CoV-2. Hiện các bệnh nhân được cách ly, điều trị tại Bệnh viện Phổi Đà Nẵng.
+Tính đến 18h ngày 21/4, Việt Nam có tổng cộng 2.806 ca mắc Covid-19, trong đó có 1.570 ca do lây nhiễm trong nước. Số lượng ca mắc mới tính từ ngày 27/1 đến nay là 910 ca.
+Tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 39.385, trong đó:
+- Cách ly tập trung tại bệnh viện: 514
+- Cách ly tập trung tại cơ sở khác: 23.870
+- Cách ly tại nhà, nơi lưu trú: 14.991.
+Về tình hình điều trị, theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế, Việt Nam đã chữa khỏi 2.490 ca mắc Covid-19, 35 ca tử vong. Trong số bệnh nhân đang điều trị đã có 40 trường hợp âm tính từ 1-3 lần với SARS-CoV-2.
+Hồng Hải

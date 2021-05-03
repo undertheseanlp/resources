@@ -1,0 +1,15 @@
+# doc_id = news_health_241
+# url = https://dantri.com.vn/suc-khoe/toi-224-them-4-ca-mac-moi-covid-19-tai-ha-noi-da-nang-phu-yen-20210422180429677.htm
+# date = 20210422
+4 ca mắc mới (BN2813-2816) được cách ly ngay sau khi nhập cảnh tại Hà Nội (1), Đà Nẵng (2), Phú Yên (1). Cụ thể:
+- CA BỆNH 2813 (BN2813) ghi nhận tại Thành phố Hà Nội: Bệnh nhân nam, 23 tuổi, công dân Việt Nam, địa chỉ tại quận Ninh Kiều, thành phố Cần Thơ. Ngày 17/04/2021, bệnh nhân từ Singapore nhập cảnh Sân bay Nội Bài trên chuyến bay BL116 và được cách ly ngay sau khi nhập cảnh tại Thành phố Hà Nội. Kết quả xét nghiệm lần 2 ngày 21/4/2021 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh.
+- CA BỆNH 2814 (BN2814) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nữ, 56 tuổi, công dân Việt Nam, địa chỉ tại thành phố Thái Bình, tỉnh Thái Bình.
+- CA BỆNH 2815 (BN2815) ghi nhận tại Thành phố Đà Nẵng: Bệnh nhân nam, 37 tuổi, công dân Việt Nam, địa chỉ tại huyện Yên Định, tỉnh Thanh Hóa.
+Ngày 21/04/2021, BN2814-2815 từ Nga nhập cảnh Sân bay Quốc tế Đà Nẵng trên chuyến bay VN5062 và được cách ly ngay sau khi nhập cảnh tại Thành phố Đà Nẵng. Kết quả xét nghiệm ngày 21/4/2021 dương tính với SARS-CoV-2. Hiện các bệnh nhân được cách ly, điều trị tại Bệnh viện Phổi Đà Nẵng.
+- CA BỆNH 2816 (BN2816) ghi nhận tại tỉnh Phú Yên: Bệnh nhân nam, 27 tuổi, công dân Việt Nam, địa chỉ tại huyện Thạch Thất, Thành phố Hà Nội. Ngày 16/04/2021, bệnh nhân từ Nhật Bản nhập cảnh Sân bay Quốc tế Cam Ranh trên chuyến bay VN5313 và được cách ly ngay sau khi nhập cảnh tại tỉnh Phú Yên. Kết quả xét nghiệm lần 2 ngày 22/4/2021 dương tính với SARS-CoV-2. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Đa khoa tỉnh Phú Yên.
+Như vậy đến nay, Việt Nam ghi nhận 2.816 ca mắc mới Covid-19, với 1.570 ca do lây nhiễm trong nước. Số lượng ca mắc mới tính từ ngày 27/1 đến nay là 910 ca.
+Đến nay, tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 39.191, trong đó:
+- Cách ly tập trung tại bệnh viện: 518
+- Cách ly tập trung tại cơ sở khác: 23.688
+- Cách ly tại nhà, nơi lưu trú: 14.985.
+Về tình hình điều trị, theo báo cáo của Cục Quản lý Khám chữa bệnh - Bộ Y tế, Việt Nam đã chữa khỏi 2.490 ca bệnh, 35 trường hợp tử vong. Hiện trong số các bệnh nhân đang điều trị có 40 trường hợp đã âm tính từ 1-3 lần vớiSARS-CoV-2.

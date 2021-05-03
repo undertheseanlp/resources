@@ -1,0 +1,15 @@
+# doc_id = news_tech_063
+# url = https://dantri.com.vn/suc-manh-so/che-quat-on-thanh-nien-lam-han-tan-nhiet-bang-nuoc-cho-mac-book-pro-20210405015910522.htm
+# date = 20210405
+Đó là sáng kiến được đăng bởi tài khoản "theodric" trên diễn đàn MacRumors, thu hút sự chú ý của cộng đồng mạng.
+Giải thích rằng tiếng ồn của MacBook Pro quá lớn, thậm chí khiến một số cuộc họp online bị gián đoạn, anh chàng này đã quyết tâm lắp hẳn một hệ thống làm mát bằng nước cho chiếc máy tính của mình.
+Điều thú vị là "theodric" đã sử dụng các linh kiện rẻ tiền được anh đặt mua trên mạng, như khối máy khai thác Bitcoin ASIC, máy bơm Aquastream XT Ultra, bộ tản nhiệt và bình chứa từ năm 2005 để tạo ra hệ thống.
+Trong đó, các tấm tản nhiệt có khả năng truyền dẫn nhiệt cao đã được anh thêm vào giữa vỏ case và các thành phần bo mạch chủ để hệ thống hoạt động hiệu quả.
+Một số chi tiết như tấm chắn nhiệt từ phần dưới cùng của vỏ máy, cũng như chân máy, được gỡ bỏ để đảm bảo linh kiện tiếp xúc hoàn toàn với các tấm tản nhiệt.
+Máy bơm nước - vốn cần có phần mềm Windows để hoạt động - vận hành thông qua một máy trạm ảo và một máy Raspberry Pi giám sát.
+Hệ thống tản nhiệt nước tự chế gồm máy bơm, két làm mát, và các tấm tản nhiệt.
+"Theodric" cho biết anh hầu như không nghe thấy tiếng động kể từ khi bắt đầu chạy hệ thống, nhưng vẫn tìm cách để hoàn thiện nó.
+Mặc dù sáng kiến của "Theodric" được đánh giá là một dự án đầy sáng tạo và thách thức, nhưng trên thực tế, nó không mang lại hiệu quả cao do sự ra đời của con chip M1 tới từ Apple.
+Những thử nghiệm thực tế cho thấy con chip mới có thể hoạt động với nhiệt độ mát hơn rất nhiều so với chip Intel đời cũ, khiến cho hệ thống tản nhiệt nước trở nên dư thừa.
+Thế hệ MacBook Pro 14 inch sắp tới của Apple dự kiến sẽ dùng bộ tản nhiệt cải tiến từ dòng MacBook Pro 16 inch hiện tại, với ống dẫn nhiệt có kích thước lớn hơn 35%, cùng với nhiều tấm tản nhiệt, để máy có thể chạy ở nhiệt độ mát hơn.
+Nguyễn Nguyễn

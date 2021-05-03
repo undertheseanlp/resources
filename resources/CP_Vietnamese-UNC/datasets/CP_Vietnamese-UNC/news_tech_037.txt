@@ -1,0 +1,15 @@
+# doc_id = news_tech_037
+# url = https://dantri.com.vn/suc-manh-so/apple-that-chat-an-ninh-de-tranh-ro-ri-thong-tin-ve-loat-i-phone-moi-20210325120647510.htm
+# date = 20210325
+Apple đang tìm mọi cách để ngăn chặn thông tin các sản phẩm sắp ra mắt bị rò rỉ trên Internet (Ảnh bản dựng ý tưởng về iPhone 13).
+Các mẫu smartphone cao cấp sắp ra mắt luôn là mối quan tâm hàng đầu của giới công nghệ, nên thông tin bị rò rỉ về các sản phẩm này liên tục xuất hiện trên Internet trước sự kiện ra mắt chính thức.
+Nhiều hãng smartphone tìm cách "ngó lơ" các thông tin bị rò rỉ này, như một cách để "hâm nóng" giới công nghệ trước khi giới thiệu sản phẩm của mình. Nhưng cũng có không ít hãng công nghệ lại không hài lòng vì thông tin sản phẩm bị rò rỉ quá nhiều, nên đã áp dụng các biện pháp khác nhau nhằm ngăn chặn. Một trong số đó là Apple.
+Tờ The Information trích dẫn các nguồn tin thân cận từ Apple cho biết, "quả táo" sẽ áp dụng nhiều biện pháp an ninh nghiêm ngặt để ngăn chặn thông tin của loạt iPhone mới bị rò rỉ, đặc biệt từ nội bộ công ty và từ các nhà máy lắp ráp sản phẩm.
+Theo The Information, Apple gần đây đã yêu cầu các đối tác lắp ráp iPhone của mình, như Foxconn và Wistron, phải tiến hành kiểm tra lý lịch tư pháp một cách kỹ càng đối với tất cả các công nhân trong dây chuyền lắp ráp iPhone. Những công nhân có tiền án, tiền sự sẽ bị cấm tiếp cận các khu vực phát triển và lắp ráp sản phẩm mới chưa ra mắt của Apple, trong đó có mẫu iPhone 13.
+Cùng với đó, tất cả người ngoài đến liên hệ hoặc làm việc tại các nhà máy lắp ráp iPhone sẽ phải cung cấp giấy tờ tùy thân có hiệu lực pháp lý trước khi được vào các cơ sở sản xuất. Bảo vệ tại các nhà máy cũng phải lưu hồ sơ chi tiết về quá trình di chuyển của nhân viên đang sở hữu sản phẩm mẫu chưa ra mắt hoặc các linh kiện nhạy cảm, đề phòng trường hợp những người này cố tình tung thông tin của sản phẩm lên mạng Internet.
+Thậm chí, Apple sẽ theo dõi quá trình vận chuyển của các bộ phận, linh kiện sản phẩm giữa các khu vực sản xuất. Nếu quá trình vận chuyển các mặt hàng nhạy cảm bị kẹt lại tại một khu vực sản xuất nào đó quá lâu một cách bất thường, cảnh báo an ninh sẽ tự động được kích hoạt để ban quản lý nhà máy can thiệp kịp thời.
+Apple cũng đề ra những quy tắc về cách hoạt động của camera an ninh bên trong nhà máy lắp ráp sản phẩm mới. Hệ thống camera giám sát sẽ được lắp đặt sao cho không có điểm mù bên trong nhà máy lắp ráp.
+Có vẻ như sau hàng loạt vụ rò rỉ thông tin sản phẩm sắp ra mắt, Apple đang rất quyết tâm giữ bí mật về sản phẩm của mình đến phút cuối, cho đến khi sản phẩm được chính Apple giới thiệu.
+Trước đó, Apple cũng đã từng áp dụng nhiều biện pháp mạnh nhằm ngăn chặn rò rỉ thông tin sản phẩm, bao gồm việc cấm những người thường xuyên đăng tải các thông tin bị rò rỉ của iPhone đến dự các sự kiện ra mắt sản phẩm, hoặc thậm chí đe dọa sẽ bỏ tù những người này.
+Dù áp dụng nhiều biện pháp cứng rắn, thông tin các sản phẩm mới sắp ra mắt của Apple vẫn liên tục bị rò rỉ trên Internet và dường như đã trở thành một phần không thể thiếu trong các câu chuyện của giới công nghệ.
+T.ThủyTheo The Information/DTrends

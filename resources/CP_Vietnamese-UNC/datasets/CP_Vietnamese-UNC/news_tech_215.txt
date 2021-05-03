@@ -1,0 +1,14 @@
+# doc_id = news_tech_215
+# url = https://dantri.com.vn/suc-manh-so/su-dung-fanpage-gia-mao-de-chiem-doat-tai-khoan-vi-mo-mo-20210324215547254.htm
+# date = 20210324
+"Tối 16/3, tôi có nhận được đường link báo trúng thưởng gửi từ trang Facebook có tên Ví MoMo. Sau đó, có số điện thoại gọi đến tự xưng là nhân viên tổng đài MoMo và hướng dẫn tôi đăng nhập đường link đó để xem danh sách trúng thưởng. Tôi tin tưởng đăng nhập theo yêu cầu và cung cấp OTP. Sau đó, tài khoản của tôi đã bị chiếm đoạt", chị Thạch Thảo, sống tại TP.HCM chia sẻ với Dân trí.
+Qua tìm hiểu của Dân trí, trang Facebook gửi tin nhắn đến chị Thảo là trang giả mạo, không phải fanpage chính thức của Ví MoMo.
+Chị Thảo cho biết thêm sau khi chiếm đoạt được tài khoản Ví MoMo, kẻ gian đã thực hiện nạp tiền từ tài khoản ngân hàng liên kết sang ví và đồng thời chuyển sang ví khác. Điều này khiến cho chị bị thất thoát số tiền gần 3,5 triệu đồng.
+Trao đổi với Dân trí, đại diện Ví MoMo khẳng định không có bất cứ nhân viên nào từ công ty yêu cầu người dùng cung cấp OTP.
+"Chúng tôi xin khẳng định sẽ không có bất cứ nhân viên nào từ Ví MoMo yêu cầu người dùng cung cấp mật khẩu hay mã xác thực (OTP) dưới bất kỳ hình thức nào (gọi điện, chat hay yêu cầu gửi hình ảnh). Bất kỳ ai yêu cầu cung cấp 2 thông tin này chắc chắn là lừa đảo. Mật khẩu và mã xác thực (OTP) phải được xem như tài sản. Người dùng tuyệt đối không cung cấp cho bất kỳ ai", ông Nguyễn Bá Diệp Phó Chủ tịch kiêm đồng sáng lập Ví MoMo chia sẻ với Dân trí.
+Trên thực tế, thủ đoạn lừa đảo trên đã xuất hiện từ khá lâu. Theo đó, kẻ gian sẽ tạo ra các trang web giả mạo để lừa người dùng nhằm đánh cắp các thông tin có giá trị, từ đó chiếm đoạt tài khoản.
+Vài năm gần đây, hình thức này ngày càng trở nên phổ biến. Thậm chí, một số nhóm lừa đảo còn đóng giả là người Việt Nam đang ở nước ngoài, đặt mua hàng và đề nghị chuyển tiền trả trước cho người bán thông qua dịch vụ chuyển tiền quốc tế Western Union.
+Đường link lừa đảo yêu cầu người dùng cung cấp các thông tin về tài khoản, mật khẩu cũng như mã xác thực (OTP).
+Nhóm lừa đảo có thể làm giả hóa đơn, chứng từ tiếp nhận tiền của dịch vụ chuyển tiền quốc tế Western Union; chụp ảnh hóa đơn, chứng từ gửi cho bị hại làm nạn nhân nghĩ là bên mua hàng đã thực hiện lệnh chuyển tiền. Đồng thời, những kẻ lừa đảo sẽ chuyển đường link giả mạo website của dịch vụ chuyển tiền quốc tế Western Union qua các ứng dụng Zalo, Facebook... rồi hướng dẫn bị hại đăng nhập vào đường link này.
+Sau khi có được thông tin, nhóm lừa đảo sẽ chuyển tiền từ tài khoản của bị hại vào tài khoản của họ. Để hoàn tất việc trộm tiền trong tài khoản, nhóm lừa đảo sẽ gửi tin nhắn yêu cầu nạn nhân cung cấp mã OTP trên trang web giả. Khi nạn nhân điền mã OTP này để hoàn tất thủ tục nhận tiền trên website giả mạo, việc chiếm đoạt tiền của nhóm lừa đảo cũng đã xong.
+Thế Anh

@@ -1,0 +1,14 @@
+# doc_id = news_science_043
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/cac-nha-khoa-hoc-tim-ra-cach-co-the-giup-con-nguoi-moc-lai-rang-20210401061632054.htm
+# date = 20210401
+Theo một nghiên cứu mới, bằng cách ức chế hoạt động của gene có tên USAG-1 được cho có thể giúp con người phát triển một nhóm răng mới.
+Các nhà nghiên cứu đã mô tả cách họ biến đổi gene những con chuột mắc chứng lão hóa răng, một số răng không phát triển được. Tuy nhiên, việc tiêm cho những con chuột đang mang thai từ dòng kháng thể USAG-1 đã dẫn đến sự phát triển răng bình thường ở con cái của chúng. Hơn nữa, chỉ một lần sử dụng kháng thể đã gây ra sự phát triển của một chiếc răng hoàn toàn mới ở những con chuột bình thường.
+Với kết quả có được, nhóm nghiên cứu quyết định nhắm vào gene USAG-1 vì nó được biết là có khả năng ức chế hai phân tử truyền tín hiệu là BMP và Wnt, cả hai đều có liên quan đến sự phát triển của răng.
+Tuy nhiên, vì những hợp chất này cũng kiểm soát sự phát triển của một loạt các cơ quan khác nên việc can thiệp vào chúng có thể tạo ra một loạt các tác dụng phụ nghiêm trọng.
+Trong các thí nghiệm của mình, nhóm đã thử nghiệm một số kháng thể đơn dòng khác nhau làm thay đổi khả năng tương tác của USAG-1 với BMP và Wnt. Mặc dù một số trong số này gây ra dị tật bẩm sinh nghiêm trọng. Tuy nhiên, họ nhắm vào một kháng thể cụ thể ngăn cản gene liên kết với BMP, nhưng không có tác động đến Wnt. Khi làm như vậy, chúng có thể kích thích mọc răng mà không tạo ra bất kỳ tác dụng không mong muốn nào khác.
+Dựa trên phát hiện này, các tác giả kết luận USAG-1 ngăn chặn sự phát triển của răng bằng cách liên kết với BMP, do đó làm giảm hoạt động của nó.
+Trong khi kỹ thuật này chưa sẵn sàng để thử nghiệm trên người, các nhà nghiên cứu đã thử nghiệm kháng thể trên chồn sương. Những loài động vật này có các kiểu răng tương tự như con người. Giống như chúng ta, chúng có bộ răng khôn, nghĩa là chúng có một bộ răng sữa sau này được thay thế bằng răng trưởng thành.
+Kết quả chỉ ra rằng phương pháp điều trị cũng có hiệu quả đối với chồn sương, chỉ với một liều kháng thể duy nhất sẽ tạo ra một chiếc răng nguyên vẹn. Kết quả cho thấy kỹ thuật này cũng có thể hoạt động đối với con người, mặc dù một số lo ngại về an toàn sẽ cần được khắc phục trước khi điều này có thể được thử nghiệm.
+Hiện tại, các nhà nghiên cứu cho biết họ đang có kế hoạch lặp lại thí nghiệm trên các loài động vật có vú khác như lợn và chó trước khi nghĩ đến việc thử nghiệm trên người trong tương lai gần.
+Trang Phạm
+Theo IFL Science

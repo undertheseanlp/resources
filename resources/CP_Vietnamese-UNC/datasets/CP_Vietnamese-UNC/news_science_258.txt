@@ -1,0 +1,15 @@
+# doc_id = news_science_258
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/vi-sao-rang-e-buot-khi-an-uong-do-lanh-20210330164125945.htm
+# date = 20210330
+Một nghiên cứu mới đây cho thấy rất có thể protein TRPC5 chính là chìa khóa giải mã.
+Protein này có trong các tế bào tạo ngà bên trong răng. Đây là các tế bào hình thành nên lớp ngà nằm dưới lớp men răng. Mới đây các nhà nghiên cứu đã phát hiện ra các tế bào tạo ngà cũng chính là những cảm biến độ lạnh. Chúng cảm nhận được nhiệt độ bởi vì TRPC5 là một kênh ion, được coi như một cổng tiếp nhận các hóa chất truyền tín hiệu, như là calcium chẳng hạn, qua các màng tế bào trong những điều kiện nhất định, mà trong trường hợp này là khi tiếp xúc với đồ lạnh.
+Nhờ phát hiện này, các nhà khoa học có thể đưa ra các cách điều trị cho chứng đau hoặc siêu nhạy cảm ở răng, có thể dưới dạng kẹo cao su hoặc miếng dán trực tiếp lên ngà răng.
+Trước đó, các nhà nghiên cứu ở bệnh viện đa khoa Massachusetts, Mỹ, đã xác định được TRPC5 chính là một cảm biến nhiệt độ. Từ đó, họ tiến hành thí nghiệm trên chuột và nhận thấy những con chuột không có gene quy định mã cho TRPC5 thì không có phản ứng khi răng tiếp xúc với thức ăn lạnh. Ở những con có gene này, nếu dùng hóa chất để vô hiệu hóa các kênh ion protein này thì cũng có tác dụng mất cảm giác với thức ăn lạnh.
+Phân tích cụ thể trên những chiếc răng người đã được nhổ cũng cho thấy các kênh TRPC5 như vậy ở các tế bào tạo ngà. Điều này cho thấy răng người cũng có cùng cơ chế cảm biến.
+Protein TRPC5 còn có trong các bộ phận khác trong cơ thể, và đã từng được biết là có phản ứng với độ lạnh và gây ra một số phản ứng sinh học nhất định. Ngày nay chúng ta còn biết rằng chúng cũng có vai trò cảm biến tương tự ở các tế bào ngà răng. Như vậy là khoảng 2,4 tỷ người trên thế giới đang chung sống với những chiếc răng nhạy cảm sẽ có cơ hội được chữa trị.
+Nhưng trên hết, nghiên cứu mới này còn giúp chúng ta hiểu được vì sao nhiều thế kỷ qua, dầu đinh hương được dùng để điều trị đau răng. Đó là vì dầu đinh hương chứa hoạt chất eugenol có tác dụng vô hiệu hóa TRPC5.
+Răng trở nên nhạy cảm với nhiệt độ thấp có thể do bị sâu răng, do tụt lợi khi có tuổi, và nhiều nguyên nhân khác, một tác dụng phụ của điều trị răng bằng hóa chất.
+Các nhà nghiên cứu cho rằng nhạy cảm với độ lạnh có thể là một dấu hiệu để cơ thể đề phòng những tác động có hại hơn nữa cho chiếc răng đó. Các tế bào tạo ngà hoạt động mạnh hơn trong điều kiện lạnh có nghĩa là chiếc răng đang gặp môi trường có hại.
+Nghiên cứu răng người là một lĩnh vực rất khó. Tiến sĩ Jochen Lennerz, thành viên nhóm nghiên cứu cho biết "răng người không đơn giản là chỉ cần chụp cắt lớp mà tìm hiểu được". Nhóm của ông đã tiến hành nghiên cứu nói trên hơn mười năm qua mới có kết luận và sẽ còn tiếp tục tìm hiểu sâu hơn nữa.
+Phạm Hường 
+Theo Science Alert

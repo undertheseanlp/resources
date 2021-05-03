@@ -1,0 +1,12 @@
+# doc_id = news_tech_058
+# url = https://dantri.com.vn/suc-manh-so/canon-eos-r-3-se-ra-mat-cuoi-nam-nay-20210419161009734.htm
+# date = 20210419
+Ngày 19/4, Canon thông báo đang phát triển máy ảnh không gương lật full-frame EOS R3 có cảm biến CMOS 35 mm full-frame mới, chiếu sáng phía sau (backlit), và chip xử lý hình ảnh DIGIC X.
+EOS R3 đang được phát triển dựa trên ý tưởng tốc độ cao, độ nhạy sáng cao và độ ổn định cao. EOS R3 sẽ gia nhập dòng máy Canon dành cho giới chuyên nghiệp và đam mê nhiếp ảnh, cùng với chiếc máy DSLR EOS-1D X Mark III (ra mắt vào tháng 2/2020) và dòng EOS 5 series, bao gồm máy ảnh không gương lật full-frame EOS R5 (ra mắt tháng 7/2020). 
+EOS R3 hướng đến chất lượng ở cấp độ chuyên nghiệp cho cả ảnh tĩnh và phim quay, ngay cả với chủ thể đang di chuyển.
+EOS R3 là chiếc máy ảnh đầu tiên thuộc dòng EOS có trang bị cảm biến CMOS 35 mm full-frame mới, dạng xếp chồng.
+EOS R3 là chiếc máy ảnh đầu tiên thuộc dòng EOS có trang bị cảm biến CMOS 35 mm full-frame mới, dạng xếp chồng, chiếu sáng phía sau với khả năng hoạt động tốc độ cao. Máy ảnh cũng có chip DIGIC X giúp xử lý hình ảnh tốc độ cao, tốc độ chụp ảnh liên tục lên đến 30 khung hình/giây (FPS) với AF/AE khi dùng màn trập điện tử.
+Ngoài ra, máy ảnh cũng làm giảm đáng kể hiện tượng ảnh bị cong, một vấn đề phổ biến với màn trập điện tử, và có khả năng chụp chủ thể đang di chuyển với độ noise giảm trong môi trường ánh sáng yếu như trong nhà, hoặc cảnh đêm.
+Cùng với công nghệ Dual Pixel CMOS AF, EOS R3 sẽ dùng thuật toán sử dụng công nghệ deep learning cải thiện hoạt động dò phần đầu và mắt chủ thể người cũng như khả năng dò phần thân của chủ thể.
+Thêm vào đó, EOS R3 là chiếc máy ảnh kỹ thuật số đầu tiên của Canon có chức năng Eye Control AF. Tính năng mới này giúp khung AF điều chỉnh theo chuyển động mắt người chụp mà máy dò được, nên hoạt động chụp sẽ mượt hơn, lấy nét nhanh khi thay đổi từ chủ thể này qua chủ thể khác.
+Thế Anh

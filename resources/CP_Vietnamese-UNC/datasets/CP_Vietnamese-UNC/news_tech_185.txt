@@ -1,0 +1,20 @@
+# doc_id = news_tech_185
+# url = https://dantri.com.vn/suc-manh-so/nua-ty-nguoi-dung-facebook-lo-tai-khoan-ca-nhan-co-ca-ceo-mark-zuckerberg-20210405020535503.htm
+# date = 20210405
+Người dùng Facebook tại 106 quốc gia bị lộ dữ liệu
+Thông tin cá nhân của 533 triệu người dùng Facebook, sống tại 106 quốc gia khác nhau, đã bị đăng tải lên một diễn đàn về hacker. Dữ liệu này được chia sẻ một cách công khai, nghĩa là bất kỳ ai cũng có thể download về để xem nội dung.
+Trong số dữ liệu người dùng bị đăng tải, có khoảng 32 triệu thông tin của người dùng Facebook tại Mỹ, 11 triệu người dùng tại Anh, 6 triệu người dùng tại Ấn Độ… Theo tìm hiểu của phóng viên Dân trí, không có thông tin của người dùng Facebook tại Việt Nam trong số 533 triệu người dùng bị ảnh hưởng.
+Một phát ngôn viên của Facebook cho biết những dữ liệu bị rò rỉ đã được khai thác thông qua một lỗ hổng bảo mật mà mạng xã hội này đã vá lại từ năm 2019, do vậy, nhiều khả năng đây là những thông tin đã cũ. Tuy nhiên, trang tin Insider đã kiểm tra một số dữ liệu bị rò rỉ và xác nhận thông tin cá nhân của nhiều người dùng Facebook bị hacker đăng tải là chính xác, bao gồm họ tên, địa chỉ email và số điện thoại của những người này.
+Chuyên gia bảo mật Israel Alon Gal là người đầu tiên phát hiện ra việc thông tin cá nhân của người dùng Facebook bị đăng tải công khai lên mạng Internet. Gal cho biết những thông tin cá nhân này có thể bị tội phạm mạng lợi dụng để mạo danh, cho các mục đích lừa đảo hoặc cho các chiến dịch spam email, tin nhắn…
+"Một cơ sở dữ liệu có kích thước lớn, chứa nhiều thông tin cá nhân như số điện thoại của rất nhiều người dùng Facebook, chắc chắn sẽ dẫn đến việc những kẻ xấu lợi dụng để thực hiện các cuộc tấn công kỹ thuật số hoặc các nỗ lực hack khác", Alon Gal nhận định.
+Nhiều hệ lụy khi bị mất dữ liệu cá nhân
+Đây không phải là lần đầu tiên một lượng lớn thông tin cá nhân của người dùng Facebook bị rò rỉ.
+Trước đó, vào tháng 9/2019, một lỗ hổng bảo mật trên Facebook đã giúp cho tin tặc lấy được thông tin cá nhân của hơn 419 triệu người dùng trên toàn cầu, trong đó có thông tin của hơn 50 triệu người dùng Facebook tại Việt Nam. Đến tháng 12/2019, tiếp tục một vụ rò rỉ thông tin quy mô lớn khác được phát hiện, khi thông tin của 267 người dùng Facebook đã bị lấy cắp và phát tán trên Internet.
+Tới tháng 12/2020, một vụ việc tương tự cũng tái diễn, với khoảng một triệu tài khoản được chia sẻ miễn phí.
+2020 cũng không phải năm đầu tiên Facebook vướng vào bê bối lộ dữ liệu. Có thể nhắc tới một trong những bê bối lớn nhất lịch sử mang tên Cambridge Analytica được ghi nhận năm 2018, với hơn 80 triệu tài khoản bị thu thập thông tin cho cuộc tranh cử tổng thống Mỹ.
+Giám đốc công nghệ của công ty an ninh mạng Hudson Rock Alon Galm khuyến nghị người dùng nên sử dụng các biện pháp sau để bảo vệ tài khoản Facebook:
+1. Kích hoạt "Xác thực 2 yếu tố".2. Thêm email liên hệ vào số điện thoại.3. Thêm liên hệ tin cậy.4. Cảnh báo đăng nhập.5. Thiết lập mật khẩu đủ mạnh.
+Ngoài ra, người dùng cũng nên thường xuyên đổi mật khẩu Facebook, và cảnh giác khi xảy ra những hiện tượng lạ như: xuất hiện các tin nhắn từ người lạ, xuất hiện các bài đăng từ hội/nhóm lạ, nhận được cảnh báo đăng nhập không xác định,...
+Sự việc lần này một lần nữa khiến nhiều người cảm thấy lo ngại về khả năng bảo vệ thông tin cá nhân người dùng của Facebook, khi mà ngày càng nhiều người dùng tin tưởng mạng xã hội này và chia sẻ gần như đầy đủ các thông tin riêng tư của mình với Facebook.
+"Các cá nhân đăng ký sử dụng dịch vụ của một công ty có uy tín như Facebook, nghĩa là đang tin tưởng và cung cấp dữ liệu của họ cho Facebook. Facebook cần phải xử lý dữ liệu của họ với sự tôn trọng tối đa", Alon Gal bình luận. "Việc để thông tin cá nhân của người dùng bị rò rỉ là một sự vi phạm lòng tin rất lớn và cần được xử lý phù hợp".
+T.Thủy- Nguyễn NguyễnTheo BI/TechCrunch

@@ -1,0 +1,23 @@
+# doc_id = news_science_200
+# url = https://dantri.com.vn/khoa-hoc-cong-nghe/su-dung-lai-chai-nhua-dung-nuoc-co-an-toan-khong-20210322062430572.htm
+# date = 20210322
+Hiện nay, nhiều người sử dụng lại những chiếc chai này để đựng nước hoặc đồ uống khác để tiết kiệm tiền và giảm lượng rác thải nhựa.
+Tuy nhiên, đây là những chiếc chai được thiết kế để sử dụng một lần, vì vậy một số người lo lắng không biết có an toàn hay không khi sử dụng lại.
+Chai nhựa đựng nước được làm bằng gì?
+Chai nhựa đựng nước được làm từ nhiều nguyên liệu khác nhau, nhưng phần lớn là từ nhựa polyethylene terephthalate (PET). PET trong suốt, nhẹ, được dùng làm bao bì đựng nhiều thực phẩm và đồ uống. Mỹ và Liên minh châu Âu cho rằng PET an toàn khi tiếp xúc với thực phẩm và đồ uống.
+Các hóa chất trong chai nhựa hòa tan ra có gây ung thư không?
+Nhiều bài báo trên mạng cho rằng tái sử dụng chai đựng nước có thể gây ung thư do một số hóa chất trong nhựa tan ra. Một trong những hóa chất đó là bisphenol A (BPA).
+ BPA có thể tác động xấu đến hệ nội tiết, cụ thể là ảnh hưởng đến chức năng sinh sản và chuyển hóa. BPA không được sử dụng để sản xuất chai nhựa PET nhưng có thể có trong các loại nhựa khác bền hơn, ví dụ như nhựa polycarbonate.
+Một hóa chất khác là antimony được sử dụng làm chất xúc tác trong sản xuất PET. Hóa chất này không bị coi là tác nhân gây ung thư nhưng có thể gây nôn ói và tiêu chảy. Nghiên cứu cho thấy antimony hòa tan dần ra khỏi chai từ 0,195 ppb lên đến 0,226 ppb sau 3 tháng ở nhiệt độ 22 0C nhưng ít hơn nhiều so với mức được coi là nguy hiểm (6 ppb).
+Ngoài antimony, các nhà nghiên cứu còn tìm hiểu về rất nhiều hóa chất trong chai nhựa đựng nước, từ các chất hóa dẻo đến các kim loại. Họ nhận thấy một số hóa chất cũng hòa tan ra nước. Tuy nhiên, cho đến nay chưa có bằng chứng rõ rệt là chúng nguy hiểm đối với sức khỏe con người.
+Để chai nhựa đựng nước dưới ánh nắng mặt trời có an toàn không?
+Một số người lo ngại rằng các hóa chất độc hại nói trên sẽ tan vào nước nhiều hơn ở nhiệt độ cao, tức là để chai nước trong ô tô hoặc vào những ngày nắng nóng có thể gây nguy hiểm.
+Nghiên cứu về antimony cho thấy ở nhiệt độ cao hơn thì hóa chất này hòa tan ra nhiều hơn. Khi chai nước ở trong môi trường 60 0C thì 176 ngày sau, nồng độ hóa chất này vượt quá mức nguy hiểm 6 ppb, còn ở nhiệt độ 80 0C thì chỉ cần 1,3 ngày là vượt mức nguy hiểm. Các mức nhiệt này là rất cao, hiếm khi xảy ra trong cuộc sống thường ngày.
+Thế còn vi nhựa thì sao?
+Vi nhựa là những mẩu nhựa rất nhỏ. Chúng có mặt ở hầu hết mọi nơi, kể cả trong nước uống. Trên thực tế, nghiên cứu phát hiện ra rằng 93% chai nhựa đựng nước ngay sau khi mở cũng đã chứa vi nhựa.
+Tổ chức Y tế thế giới đã quan tâm đến những nguy hiểm tiềm tàng của vi nhựa, nhưng dựa trên những dữ liệu hiện có thì "chai nhựa mới sử dụng có thể chứa nhiều vi nhựa hơn là chai nhựa tái sử dụng" - Tiến sĩ Umar Abdulmutalib của Trường đại học Surrey, Anh, cho biết. Tiến sĩ Marek của Viện Nghiên cứu Hải dương, Na Uy cũng cho rằng "uống nước trong chai nhựa tái sử dụng an toàn hơn nước trong chai mới".
+Còn nguy cơ nào khác không?
+Có một nguy cơ mà nhiều người vẫn chấp nhận khi sử dụng lại các chai đựng nước, không phải hóa chất mà là nhiễm khuẩn. Các chai nước này rất dễ bị xước, nứt hoặc vỡ và các vết này có thể là nơi trú ngụ cho vi khuẩn, nhất là bên trong chai ẩm ướt. Vi khuẩn phát triển rất nhanh trong nước đóng chai, gấp 38.000 lần trong 1 ml nước sau 48 giờ khi nước ở nhiệt độ 37 0C.
+Các nghiên cứu về hóa chất hòa tan và vi nhựa trong nước đóng chai cho thấy những nguy cơ này rất thấp và gần như không gây nguy hiểm gì cho sức khỏe, trừ khi chai liên tục tiếp xúc với nhiệt độ rất cao. Nguy hiểm hơn chính là việc chai bị nhiễm khuẩn, vì thế nếu bạn sử dụng lại, hãy nhớ rửa chai thường xuyên.
+Phạm Hường
+Theo Science Alert

@@ -1,0 +1,4 @@
+# doc_id = news_health_037
+# url = https://dantri.com.vn/suc-khoe/5-dieu-can-biet-ve-viem-mang-nao-do-nao-mo-cau-20210423163401104.htm
+# date = 20210423
+Trường Thịnh

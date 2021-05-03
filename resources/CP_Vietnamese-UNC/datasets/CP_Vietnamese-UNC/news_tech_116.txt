@@ -1,0 +1,17 @@
+# doc_id = news_tech_116
+# url = https://dantri.com.vn/suc-manh-so/ho-chieu-vac-xin-covid-19-gia-ban-tran-lan-tren-mang-internet-20210420110640431.htm
+# date = 20210420
+Các loại hộ chiếu vắc xin Covid-19 giả có thể mua được trên mạng Internet.
+Kể từ thời điểm vắc xin Covid-19 bắt đầu được triển khai trên toàn cầu, một thuật ngữ mới được xuất hiện: Hộ chiếu vắc xin Covid-19.
+Nhiều quốc gia trên thế giới đã bắt đầu cấp hộ chiếu vắc xin Covid-19 cho những công dân đã tiêm đủ mũi vắc xin ngừa Covid-19, cho phép họ có thể di chuyển dễ dàng hơn và vượt qua các hạn chế về nhập cảnh tại những quốc gia công nhận loại hộ chiếu này. Một số hãng hàng không yêu cầu hành khách phải có hộ chiếu vắc xin Covid-19 mới được phép lên máy bay.
+Tuy nhiên, một vấn đề đặt ra sau khi hộ chiếu vắc xin Covid-19 được ra đời và được công nhận trên toàn cầu, đó là các loại hộ chiếu vắc xin Covid-19 giả cũng đã xuất hiện và bán tràn lan trên mạng.
+Các chuyên gia của hãng nghiên cứu bảo mật Check Point cho biết đã phát hiện thấy những quảng cáo rao bán hộ chiếu vắc xin và giấy xét nghiệm âm tính giả trên các trang web ngầm (những trang web không thể tìm thấy bằng những công cụ tìm kiếm như Google, mà phải truy cập thông qua các công cụ trình duyệt đặc biệt) từ hồi tháng 1 vừa qua và số lượng rao bán ngày càng tăng. Người bán chủ yếu đến từ Mỹ, Anh, Tây Ban Nha, Đức, Pháp và Nga.
+Các nhà nghiên cứu bảo mật cho biết, hộ chiếu vắc xin Covid-19 có thể được mua dễ dàng với mức giá từ 150 USD đến 750 USD, tùy thuộc vào loại vắc xin được in trên hộ chiếu. Chẳng hạn với hộ chiếu xác nhận đã tiêm vắc xin ngừa Covid-19 của AstraZeneca, có thể được mua với giá 500 USD, hộ chiếu vắc xin của Sputnik có giá 600 USD hay loại hộ chiếu vắc xin Sinopharm được bán với giá 750 USD…
+Ngoài hộ chiếu vắc xin Covid-19, các loại giấy xét nghiệm âm tính giả hay giấy xác nhận đã tiêm vắc xin ngừa Covid-19 giả cũng có thể được tìm thấy và mua trên các trang web ngầm.
+Người mua chỉ cần cung cấp thông tin như họ, tên, ngày sinh và ngày tiêm vắc xin (tùy chọn). Những kẻ rao bán cho biết có thể giao hộ chiếu vắc xin và giấy xác nhận âm tính Covid-19 ngay trong ngày, sau khi người mua chuyển tiền.
+Quá trình giao dịch đều được thực hiện bằng Bitcoin, do vậy rất khó để có thể dò ra danh tính thực sự của những kẻ rao bán hộ chiếu vắc xin và giấy xét nghiệm âm tính giả.
+Những người tìm mua hộ chiếu vắc xin Covid-19 thường là những người muốn đi du lịch hoặc làm việc ở nước ngoài. Bên cạnh đó, nhiều người còn mua vắc xin Covid-19 để có thể đến những địa điểm công cộng như rạp chiếu phim, quán bar…
+Các chuyên gia của Check Point đã lên tiếng cảnh báo, người mua hộ chiếu vắc xin và giấy xét nghiệm âm tính giả có thể trở thành nạn nhân của những kẻ lừa đảo trên mạng, sau khi họ chuyển tiền, rất có thể không nhận được "món hàng" như mình mong muốn.
+Chưa dừng lại ở đó, việc sử dụng hộ chiếu vắc xin và giấy xét nghiệm âm tính giả sẽ làm tăng nguy cơ lây lan dịch bệnh, cho chính những người sử dụng và những người khác xung quanh. Bởi lẽ những người sử dụng hộ chiếu vắc xin Covid-19 giả có thể sẽ không phải cách ly khi nhập cảnh vào quốc gia khác, dù trên thực tế họ chưa hề tiêm vắc xin ngừa Covid-19 và vẫn có nguy cơ mang virus để lây nhiễm cho người khác, làm bùng lên dịch bệnh tại các quốc gia mà họ nhập cảnh.
+Việc xuất hiện những loại hộ chiếu vắc xin Covid-19 giả càng khiến chính phủ các nước phải xem xét lại việc công nhận loại hộ chiếu này, trước khi quyết định mở cửa để người từ quốc gia khác nhập cảnh.
+T.ThủyTheo Independent/CBS

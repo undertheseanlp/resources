@@ -1,0 +1,14 @@
+# doc_id = news_tech_203
+# url = https://dantri.com.vn/suc-manh-so/samsung-ra-mat-bo-doi-laptop-galaxy-book-20210429084245995.htm
+# date = 20210429
+Trước khi sự kiện diễn ra, giới công nghệ đã đồn đoán về khả năng ra mắt của chiếc smartphone màn hình gập thế hệ mới Galaxy Z Fold3, hoặc một mẫu smartphone, máy tính bảng cao cấp nào đó mang thương hiệu Galaxy của Samsung. Tuy nhiên, trên thực tế, hãng công nghệ Hàn Quốc đã trình làng bộ đôi laptop Galaxy Book mới tại sự kiện lần này.
+Galaxy Book Pro có thiết kế mỏng, nhẹ ấn tượng.
+Galaxy Book Pro360 có khả năng gập ngược màn hình để sử dụng như một chiếc máy tính bảng.
+Bộ đôi laptop với tên gọi Galaxy Book Pro và Galaxy Book Pro360, có điểm chung là thiết kế mỏng, nhẹ ấn tượng và đều được trang bị màn hình công nghệ OLED, cho khả năng hiển thị màu sắc và độ sáng vượt trội so với các mẫu laptop sử dụng màn hình LCD hoặc LED… Đây là lần đầu tiên Samsung trang bị màn hình OLED lên laptop chạy Windows của hãng.
+Phiên bản Galaxy Book Pro có thiết kế dạng laptop truyền thống, còn Galaxy Book Pro360 được trang bị màn hình cảm ứng, có khả năng gập ngược màn hình ra phía sau bàn phím để sử dụng như một chiếc máy tính bảng. Galaxy Book Pro 360 còn hỗ trợ viết S Pen của Samsung.
+Cả 2 sản phẩm đều có tùy chọn màn hình 13,3-inch hoặc 15,6-inch, độ phân giải FullHD (1920x1080), bên trong là bộ vi xử lý Core i thế hệ thứ 11 của Intel (tùy chọn chip Core i3, i5 hoặc i7), tùy chọn bộ nhớ RAM 8/16/32GB với ổ cứng lưu trữ SSD, dung lượng tối đa 1TB. Phiên bản 13-inch của Galaxy Book Pro chỉ nặng 0,87kg và phiên bản 15-inch nặng 1,05kg. Với Galaxy Book Pro360, phiên bản màn hình 13-inch nặng 1,1kg và phiên bản 15-inch có cân nặng 1,39kg.
+Samsung trang bị cho bộ đôi sản phẩm của mình cổng kết nối Thunderbolt, USB-C, USB 3.2, giắc cắm phone 3,5mm, khe đọc thẻ nhớ microSD. Ngoài ra, sản phẩm cũng được tích hợp cảm biến vân tay vào nút nguồn để giúp đăng nhập vào Windows được dễ dàng hơn.
+Samsung cũng tích hợp cho sản phẩm những tính năng bảo mật khá ấn tượng, chẳng hạn tính năng thư mục riêng tư, cho phép người dùng lưu trữ, bảo vệ những dữ liệu quan trọng và riêng tư bằng mật khẩu. Trong trường hợp laptop bị đánh cắp, sản phẩm sẽ tự động chụp ảnh bất cứ người nào nhập sai mật khẩu đăng nhập Windows và gửi về email của người dùng.
+Bộ đôi laptop Galaxy Book mới của Samsung sẽ cho phép đặt trước từ ngày hôm nay và chính thức bán ra thị trường vào ngày 14/5, với mức giá khởi điểm 999,99 USD cho phiên bản 13-inch Galaxy Book Pro hoặc 1.099,99 USD cho phiên bản 15-inch. Galaxy Book Pro360 sẽ có giá khởi điểm 1.199,99 USD cho phiên bản màn hình 13-inch và 1.299,99 USD cho phiên bản 15-inch.
+Ngoài phiên bản kết nối WiFi thông thường, Samsung dự định sẽ cho ra mắt thêm phiên bản hỗ trợ kết nối 5G cho bộ đôi laptop mới của mình trong tương lai, nhưng mức giá chưa được công bố.
+T.ThủyTheo PA

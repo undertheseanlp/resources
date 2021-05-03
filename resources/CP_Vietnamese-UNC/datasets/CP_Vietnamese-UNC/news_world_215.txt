@@ -1,0 +1,14 @@
+# doc_id = news_world_215
+# url = https://dantri.com.vn/the-gioi/quan-doi-trung-quoc-bi-nghi-tan-cong-mang-200-to-chuc-nhat-ban-20210420110940282.htm
+# date = 20210420
+(Ảnh minh họa: The New Paper).
+Đài NHK ngày 20/4 dẫn nguồn tin nắm được cuộc điều tra của cảnh sát Nhật Bản cho hay, một nhóm tin tặc bị nghi đã nhận chỉ thị của quân đội Trung Quốc để tấn công mạng gần 200 viện nghiên cứu và công ty của Nhật Bản.
+Nguồn tin nói rằng, các nhà điều tra đã phát hiện một người nghi là quan chức Trung Quốc dùng tên giả ký hợp đồng để thuê các máy chủ ở Nhật Bản. Những máy chủ này sau đó đã được sử dụng để tấn công mạng vào Cơ quan vũ trụ Nhật Bản Jaxa vào năm 2016.
+Một phát ngôn viên của Jaxa xác nhận hệ thống của họ đã bị tiếp cận mà không được phép và điều đó giống một cuộc tấn công mạng, nhưng không bị thiệt hại, theo NHK.
+Phía điều tra nghi ngờ rằng các vụ tấn công do một nhóm mang tên Tick thực hiện. Đây là nhóm bị nghi có liên quan tới quân đội Trung Quốc. Hai người đàn ông nghi liên quan tới bản hợp đồng thuê máy chủ đã rời Nhật Bản.
+Nghi vấn trên được đưa ra trong bối cảnh quan hệ Nhật Bản và đối tác thương mại lớn nhất của họ - Trung Quốc, đang tồn tại một số vấn đề.
+Chủ đề về quan hệ với Trung Quốc chiếm lĩnh chương trình nghị sự của Thủ tướng Nhật Bản Suga Yoshihide trong cuộc gặp thượng đỉnh với Tổng thống Mỹ Joe Biden ở Washington hồi tuần trước.
+Hai nhà lãnh đạo đã cam kết hợp tác để đối phó các thách thức về Trung Quốc, giải quyết hàng loạt vấn đề nhằm đảm bảo một khu vực Ấn Độ Dương - Thái Bình Dương mở và tự do.
+Trong khi đó, Bộ trưởng Nội các Nhật Bản Katsunobu Kato từ chối đưa ra bình luận về cuộc điều tra của cảnh sát liên quan tới cuộc tấn công mạng. Ông nhận định các cuộc tấn công mạng vào cơ sở hạ tầng đang trở nên có tổ chức hơn và chính phủ Nhật Bản coi việc ứng phó với những sự cố như vậy là một vấn đề quan trọng.
+Đức Hoàng
+Theo Bloomberg
