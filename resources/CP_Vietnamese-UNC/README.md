@@ -6,14 +6,14 @@ Vietnamese News Corpus is a text corpus collected by `underthesea team` in 2020 
 
 We collect documents from 10 categories: business (kinh-doanh), education (giao-duc-huong-nghiep), entertainment (giai-tri), health (suc-khoe), science (khoa-hoc-cong-nghe), society (xa-hoi), sport (the-thao), tech (suc-manh-so), travel (du-lich), world (the-gioi).
 
-This corpus contains more than 4000 sentences from 200 documents.
+This corpus contains more than 40,000 sentences from 2,600 documents.
 
 ### Statistics
 
 ```
 Number of topics    : 10
-Number of documents : 200
-Number of sentences : 4613 
+Number of documents : 2653
+Number of sentences : 41947 
 ```
 
 Older Version
